@@ -5,8 +5,9 @@ var nodes;
 
 var star_angles = {};
 
-var ra = 0;
-var dec = 0;
+var position = [ 0, 0 ];
+
+var SPIN_TIME = 2000;
 
 function rotate2(vect2, theta) {
     var c = Math.cos(theta);
@@ -33,14 +34,15 @@ function rotate3(vect3, ra, dec) {
 }
 
 
-function projection_isometric(d, ra, dec) {
-    var rvect = rotate3([ d.vector.x, d.vector.y, d.vector.z ], ra, dec);
+function projection_isometric(d, coords) {
+    var rvect = rotate3([ d.vector.x, d.vector.y, d.vector.z ], coords[0], coords[1]);
     x = cx + R * rvect[1];
     y = cy + R * rvect[2];
     z = R * rvect[0];
     d.x = x;
     d.y = y;
     d.z = z;
+    
     return "translate(" + x + "," + y + ")";
 }
 
@@ -65,7 +67,6 @@ function centre_star(sname) {
 
 }
 
-
 function find_star(sname) {
     for ( var i = 0; i < stars.length; i++ ) {
 	
@@ -79,33 +80,55 @@ function find_star(sname) {
 function select_star(star) {
     console.log("Select: " + star.name);
     nodes.transition()
-	.duration(1000)
+	.duration(SPIN_TIME)
 	.attr("transform", function(d) {
 	    return projection_isometric(d, -star.ra, -star.dec)
-	})
+	});
     
 }
 
 function select_star_tween(star) {
     console.log("Select: " + star.name);
-    ra_interp = d3.interpolate(ra, -star.ra);
-    de_interp = d3.interpolate(dec, -star.dec);
+    gc_interp = d3.geo.interpolate(position, [ -star.ra, -star.dec ]);
     nodes.transition()
-	.duration(1000)
+	.duration(SPIN_TIME)
 	.attrTween("transform", function(d, i, a) {
-	    return select_tween(d, ra_interp, de_interp)
+	    return select_tween(d, gc_interp)
 	});
-    ra = -star.ra;
-    dec = -star.dec;
+
+    d3.selectAll("circle")
+	.transition()
+	.duration(SPIN_TIME)
+	.attrTween("class", function(d, i, a) {
+	    return hide_tween(d, gc_interp)
+	});
+    
+    position = [ -star.ra, -star.dec ];
+
+
 }
 
-function select_tween(d, ra_interp, de_interp) {
+function select_tween(d, gc_interp) {
     return function(t) {
-	var tw = projection_isometric(d, ra_interp(t), de_interp(t))
-	return tw;
+	return projection_isometric(d, gc_interp(t))
     }
 }
 
+function hide_tween(d, gc_interp) {
+    return function(t) {
+	projection_isometric(d, gc_interp(t));
+	return star_class(d);
+    }
+}
+
+
+function star_class(d) {
+    if( d.z < 0 ) {
+	return "hidden";
+    } else {
+	return d.class;
+    }
+}
 
 
 function render_map(elt, w, h) {
@@ -125,28 +148,30 @@ function render_map(elt, w, h) {
 	.data(stars)
 	.enter()
 	.append("g")
-	.attr("transform", function(d) { return projection_isometric(d, 0, 0) });
-
+	.attr("transform",
+	      function(d) {
+		  return projection_isometric(d, [0, 0])
+	      });
 
     nodes.append("circle")
 	.attr("r", magnitude_f)
-	.attr("class", function(d) { return d.class; })
+	.attr("class", star_class)
 	.on("click", function(d) {
 	    select_star_tween(d);
 	    d3.event.stopPropagation();
 	});
 
 
-    nodes.append("text")
-    	.attr("text-anchor", "middle")
-    	.attr("class", function(d) { return d.class; })
-    	.attr("dx", 0)
-    	.attr("dy", ".35em")
-    	.text(function(d) { return d.name })
-    	.on("click", function(d) {
-    	    select_star_tween(d);
-    	    d3.event.stopPropagation();
-    	});
+    // nodes.append("text")
+    // 	.attr("text-anchor", "middle")
+    // 	.attr("class", function(d) { return d.class; })
+    // 	.attr("dx", 0)
+    // 	.attr("dy", ".35em")
+    // 	.text(function(d) { return d.name })
+    // 	.on("click", function(d) {
+    // 	    select_star_tween(d);
+    // 	    d3.event.stopPropagation();
+    // 	});
 
 
 
