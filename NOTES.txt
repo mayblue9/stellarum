@@ -1,0 +1,10 @@
+
+quick rotations:
+
+(1) store unit vectors x, y, z for all stars
+
+(2) when rendering: (a) generate a rotation matrix
+                    (b) apply the matrix to each (x, y, z) and render
+
+Because I'm using isometric rendering, simplify (b) as much as
+possible.
