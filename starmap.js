@@ -1,13 +1,22 @@
-
 var width, height, cx, cy, R;
 
 var nodes;
 
-var star_angles = {};
-
 var position = [ 0, 0 ];
 
 var SPIN_TIME = 2000;
+
+var STAR_THRESHOLD = 200;
+var STAR_OPACITY = 1;
+
+function rad2deg(rad) {
+    return 180 * rad / Math.PI;
+}
+
+function deg2rad(deg) {
+    return Math.PI * deg / 180;
+}
+
 
 function rotate2(vect2, theta) {
     var c = Math.cos(theta);
@@ -89,7 +98,7 @@ function select_star(star) {
 
 function select_star_tween(star) {
     console.log("Select: " + star.name);
-    gc_interp = d3.geo.interpolate(position, [ -star.ra, -star.dec ]);
+    gc_interp = rad2deginterp(position, [ -star.ra, -star.dec ]);
     nodes.transition()
 	.duration(SPIN_TIME)
 	.attrTween("transform", function(d, i, a) {
@@ -99,13 +108,24 @@ function select_star_tween(star) {
     d3.selectAll("circle")
 	.transition()
 	.duration(SPIN_TIME)
-	.attrTween("class", function(d, i, a) {
+	.styleTween("opacity", function(d, i, a) {
 	    return hide_tween(d, gc_interp)
 	});
     
     position = [ -star.ra, -star.dec ];
+    show_star_text(star);
+}
 
+function rad2deginterp(a, b) {
+    var interp = d3.geo.interpolate(
+	[ rad2deg(a[0]), rad2deg(a[1]) ],
+	[ rad2deg(b[0]), rad2deg(b[1]) ]
+    );
 
+    return function(t) {
+	var p = interp(t);
+	return [ deg2rad(p[0]), deg2rad(p[1]) ];
+    }
 }
 
 function select_tween(d, gc_interp) {
@@ -117,18 +137,32 @@ function select_tween(d, gc_interp) {
 function hide_tween(d, gc_interp) {
     return function(t) {
 	projection_isometric(d, gc_interp(t));
-	return star_class(d);
+	return star_opacity(d);
     }
 }
 
 
-function star_class(d) {
-    if( d.z < 0 ) {
-	return "hidden";
-    } else {
-	return d.class;
+function star_opacity(d) {
+    if( d.z < -STAR_THRESHOLD ) {
+	return 0;
     }
+    if( d.z > STAR_THRESHOLD ) {
+	return STAR_OPACITY;
+    }
+    return 0.5 * STAR_OPACITY * (d.z + STAR_THRESHOLD) / STAR_THRESHOLD;
 }
+
+
+// NOTE: do this better, use jQuery
+
+function show_star_text(d) {
+    $("div#starname").text(d.name);
+    $("div#description").text(d.text);
+    console.log(d.text);
+}
+
+
+
 
 
 function render_map(elt, w, h) {
@@ -138,7 +172,7 @@ function render_map(elt, w, h) {
 
     cx = width * 0.5;
     cy = height * 0.5;
-    R = cx;
+    R = cx * 0.8;
 
     var svg = d3.select(elt).append("svg:svg")
                 .attr("width", width)
@@ -155,10 +189,13 @@ function render_map(elt, w, h) {
 
     nodes.append("circle")
 	.attr("r", magnitude_f)
-	.attr("class", star_class)
+	.attr("class", function(d) { return d.class} )
+	.style("opacity", star_opacity)
 	.on("click", function(d) {
-	    select_star_tween(d);
-	    d3.event.stopPropagation();
+	    if( d.z > -STAR_THRESHOLD ) {
+		select_star_tween(d);
+		d3.event.stopPropagation();
+	    }
 	});
 
 
@@ -175,10 +212,7 @@ function render_map(elt, w, h) {
 
 
 
-    nodes.append("title")
-	.text(function(d) { return d.name });
-
-
-    
-
+    nodes.append("title").text(function(d) { return d.name });
 }
+
+
