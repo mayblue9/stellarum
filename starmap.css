@@ -12,7 +12,7 @@ div#starmap {
     background-color: #000;
     position: absolute;
     top: 60px;
-    left: 20px;
+    left: 0px;
     width: 800px;
     height: 800px;
     font-size: 10pt;
@@ -29,8 +29,10 @@ div#controls {
 }
 
 div#text {
+    font-size: 12pt;
+    font-family: Helvetica, Arial, sans-serif;
     opacity: 0.9;
-    background-color: #888;
+    background-color: #fff;
     position: absolute;
     top: 500px;
     left: 480px;
@@ -38,16 +40,14 @@ div#text {
     padding: 5px;
 }
 
-div#starname {
-    font-weight: bold;
-    font-size: 12pt;
-    font-family: Helvetica, Arial, sans-serif;
+.hidden {
+    display: none;
 }
 
-div#description {
-    font-size: 12pt;
-    font-family: Helvetica, Arial, sans-serif;
+span#starname {
+    font-weight: bold;
 }
+
 
 
 circle {

@@ -1,3 +1,5 @@
+// Starmap display methods
+
 var width, height, cx, cy, R;
 
 var nodes;
@@ -6,7 +8,7 @@ var position = [ 0, 0 ];
 
 var SPIN_TIME = 2000;
 
-var STAR_THRESHOLD = 200;
+var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
 
 function rad2deg(rad) {
@@ -44,7 +46,10 @@ function rotate3(vect3, ra, dec) {
 
 
 function projection_isometric(d, coords) {
-    var rvect = rotate3([ d.vector.x, d.vector.y, d.vector.z ], coords[0], coords[1]);
+    var rvect = rotate3(
+	[ d.vector.x, d.vector.y, d.vector.z ],
+	coords[0], coords[1]
+    );
     x = cx + R * rvect[1];
     y = cy + R * rvect[2];
     z = R * rvect[0];
@@ -80,21 +85,11 @@ function find_star(sname) {
     for ( var i = 0; i < stars.length; i++ ) {
 	
 	if( stars[i].name == sname ) {
-	    console.log("Matched " + sname);
 	    return stars[i];
 	}
     }
 }
 
-function select_star(star) {
-    console.log("Select: " + star.name);
-    nodes.transition()
-	.duration(SPIN_TIME)
-	.attr("transform", function(d) {
-	    return projection_isometric(d, -star.ra, -star.dec)
-	});
-    
-}
 
 function select_star_tween(star) {
     console.log("Select: " + star.name);
@@ -153,12 +148,12 @@ function star_opacity(d) {
 }
 
 
-// NOTE: do this better, use jQuery
 
 function show_star_text(d) {
-    $("div#starname").text(d.name);
+    $("div#text").removeClass("hidden");
+    $("span#starname").text(d.name);
+    $("span#stardesignation").text("(" + d.designation + ")");
     $("div#description").text(d.text);
-    console.log(d.text);
 }
 
 

@@ -82,6 +82,13 @@ my $data = decode_json($json);
 
 my $stars = read_json_stars(tweets => $data->{tweets});
 
+my @nowiki = map { $_->{wiki} ? () : $_ } @$stars;
+
+if( @nowiki ) {
+    print "Empty wiki searches:\n" . Dumper(\@nowiki) . "\n";
+    die;
+}
+
 my $n = 0;
 for my $star ( @$stars ) {
     my $wiki = wiki_look(star => $star);
@@ -112,42 +119,83 @@ sub read_json_stars {
 	
 	if( $text =~ /^([A-Z\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
 	    
-	    my $star = {
+	    my $star = parse_tweet(
 		name => $1,
-		designation => $2,
+		bayer => $2,
 		text => $3
-	    };
-	    
-	    if( $star->{designation} =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
-		$star->{greek} = $1;
-		$star->{greek_full} = char2greekletter(char => $star->{greek});
-		$star->{constellation} = $2;
-	    }
+	    );
 	    push @$stars, $star;
 	}
     }
     return $stars;
 }
 
-sub char2greekletter {
+sub parse_tweet {
     my %params = @_;
 
-    my $char = $params{char};
+    my $name = $params{name};
+    my $bayer = $params{bayer};
+    my $text= $params{text};
 
-    return '' if $char =~ /^[0-9]+$/;
+    my $star = {
+	bayer => $bayer,
+	name => $name,
+	text => $text,
+	html => $bayer,
+	wiki => $bayer
+    };
+    
+    if( $bayer =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
 
-    my $c = substr($char, 0, 1);
-    if( $GREEK{$c} ) {
-	if( length($char) > 1 ) {
-	    my $super = substr($char, -1, 1);
-	    return $GREEK{$c} . $SUPERSCRIPT{$super};
-	} else {
-	    return $GREEK{$c};
+        $star->{constellation} = $2;
+
+	my $number = $1;
+
+	if( $number !~ /^[0-9]+$/ ) {
+	    my $c = substr($number, 0, 1);
+	    my $greek = undef;
+	    my $suffix = undef;
+	    if( $GREEK{$c} ) {
+		$greek = $GREEK{$c};
+		if( length($number) > 1 ) {
+		    my $super = substr($number, -1, 1);
+		    $suffix = $SUPERSCRIPT{$super};
+		}
+		$star->{wiki} = ucfirst($greek) . $suffix;
+		$star->{wiki} .= ' ' . $star->{constellation};
+		$star->{html} = '&' . $greek . ';';
+		if( $suffix ) {
+		    $star->{html} .= "<super>$suffix</super>";
+		}
+		$star->{html} .= " $star->{constellation}";
+	    }
 	}
-    } else {
-	return '';
     }
+    return $star;
 }
+
+# sub char2greekletter {
+#     my %params = @_;
+
+#     my $char = $params{char};
+
+#     return '' if $char =~ /^[0-9]+$/;
+
+#     my $c = substr($char, 0, 1);
+#     if( $GREEK{$c} ) {
+#  	if( length($char) > 1 ) {
+# 	    my $super = substr($char, -1, 1);
+# 	    return $GREEK{$c} . $SUPERSCRIPT{$super};
+# 	} else {
+# 	    return $GREEK{$c};
+# 	}
+#     } else {
+# 	return '';
+#     }
+# }
+
+
+    
 
 
 sub wiki_look {
@@ -155,15 +203,19 @@ sub wiki_look {
 
     my $star = $params{star};
 
-    my $search = $star->{designation};
+    my $search = $star->{wiki};
 
-    if( $star->{greek_full} ) {
-	$search = join(' ', ucfirst($star->{greek_full}), $star->{constellation});
-    }
+    # if( $star->{greek_full} ) {
+    # 	$search = join(' ', ucfirst($star->{greek_full}), $star->{constellation});
+    # }
 
     my $values = {};
 
     $star->{search} = $search;
+    if( !$search ) {
+	print "WARN: no wikisearch for " . Dumper($star);
+	die;
+    }
     my $result = fetch_wiki(search => $search, name => $star->{name});
     if( $result->{text} ) {
 	$values = parse_wiki(wiki => $result->{text});
@@ -364,23 +416,6 @@ sub star_file {
     return $FILEDIR . '/' . $params{name} . '.txt';
 }
 
-
-    # if( $text =~ /\|\s*class\s*=\s*([^\|<\R]+)/s ) {
-    # 	$values->{class} = $1;
-    # }
-
-    # if( $text =~ /\|\s*mass\s*=\s*([^\s\|]+)\s*\|/s ) {
-    # 	$values->{mass} = $1;
-    # }
-
-    # if( $text =~ /\|\s*appmag_v\s*=\s*([^\s\|]+)\s*\|/s ) {
-    # 	$values->{magnitude} = $1;
-    # }
-
-
-
-
-
     
 
 
@@ -425,7 +460,9 @@ sub write_json {
 	    }
 	    push @$data, {
 		name => $star->{name},
-		designation => $star->{designation},
+		designation => $star->{bayer},
+		wiki => $star->{wiki},
+		html => $star->{html},
 		magnitude => int($star->{appmag_v}),
 		ra => $star->{ra} + 0,
 		dec => $star->{dec} + 0,
