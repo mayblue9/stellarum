@@ -6,6 +6,8 @@ var nodes;
 
 var position = [ 0, 0 ];
 
+var spinning = 0;
+
 var SPIN_TIME = 2000;
 
 var STAR_THRESHOLD = 400;
@@ -91,9 +93,13 @@ function find_star(sname) {
 }
 
 
-function select_star_tween(star) {
-    console.log("Select: " + star.name);
+function select_star(star) {
+
     gc_interp = rad2deginterp(position, [ -star.ra, -star.dec ]);
+    
+    $("div#text").addClass("hidden");
+    spinning = 1;
+
     nodes.transition()
 	.duration(SPIN_TIME)
 	.attrTween("transform", function(d, i, a) {
@@ -105,10 +111,18 @@ function select_star_tween(star) {
 	.duration(SPIN_TIME)
 	.styleTween("opacity", function(d, i, a) {
 	    return hide_tween(d, gc_interp)
+	})
+	.each("end", function(e) {
+	    d3.select(this).each(function(d, i) {
+		if( d.name == star.name ) {
+		    // highlight_star(d);
+		    show_star_text(star);
+		    spinning = 0;
+		}
+	    });
 	});
     
     position = [ -star.ra, -star.dec ];
-    show_star_text(star);
 }
 
 function rad2deginterp(a, b) {
@@ -187,8 +201,8 @@ function render_map(elt, w, h) {
 	.attr("class", function(d) { return d.class} )
 	.style("opacity", star_opacity)
 	.on("click", function(d) {
-	    if( d.z > -STAR_THRESHOLD ) {
-		select_star_tween(d);
+	    if( !spinning && d.z > -STAR_THRESHOLD ) {
+		select_star(d);
 		d3.event.stopPropagation();
 	    }
 	});
