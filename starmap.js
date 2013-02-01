@@ -7,11 +7,15 @@ var nodes;
 var position = [ 0, 0 ];
 
 var spinning = 0;
+var highlighted_circle;
 
 var SPIN_TIME = 2000;
 
 var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
+
+var CURSOR_RADIUS = 80;
+
 
 function rad2deg(rad) {
     return 180 * rad / Math.PI;
@@ -64,7 +68,7 @@ function projection_isometric(d, coords) {
 
 
 function magnitude_f(d) {
-    var size = 10 / Math.sqrt(1 + d.magnitude);
+    var size = 12 / Math.sqrt(1 + d.magnitude * .5);
     if ( size < 1 ) {
 	size = 1;
     }
@@ -97,7 +101,8 @@ function select_star(star) {
 
     gc_interp = rad2deginterp(position, [ -star.ra, -star.dec ]);
     
-    $("div#text").addClass("hidden");
+    
+    hide_star_text();
     spinning = 1;
 
     nodes.transition()
@@ -115,8 +120,8 @@ function select_star(star) {
 	.each("end", function(e) {
 	    d3.select(this).each(function(d, i) {
 		if( d.name == star.name ) {
-		    // highlight_star(d);
-		    show_star_text(star);
+		    highlight_star_circle(this);
+		    show_star_text(d);
 		    spinning = 0;
 		}
 	    });
@@ -162,6 +167,11 @@ function star_opacity(d) {
 }
 
 
+function highlight_star_circle(elt) {
+ //   d3.select(elt).attr("class", "cursor");
+    d3.select(elt).classed("cursor", 1);
+    highlighted_circle = elt;
+}
 
 function show_star_text(d) {
     $("div#text").removeClass("hidden");
@@ -170,6 +180,12 @@ function show_star_text(d) {
     $("div#description").text(d.text);
 }
 
+function hide_star_text() {
+    if( highlighted_circle ) {
+	d3.select(highlighted_circle).classed("cursor", 0);
+    }
+    $("div#text").addClass("hidden");
+}
 
 
 
@@ -188,36 +204,25 @@ function render_map(elt, w, h) {
 	        .attr("height", height);
 
     nodes = svg.selectAll("g")
-	.data(stars)
-	.enter()
-	.append("g")
-	.attr("transform",
-	      function(d) {
-		  return projection_isometric(d, [0, 0])
-	      });
+    	.data(stars)
+    	.enter()
+    	.append("g")
+    	.attr("transform",
+    	      function(d) {
+    		  return projection_isometric(d, [0, 0])
+    	      });
 
     nodes.append("circle")
-	.attr("r", magnitude_f)
-	.attr("class", function(d) { return d.class} )
-	.style("opacity", star_opacity)
-	.on("click", function(d) {
-	    if( !spinning && d.z > -STAR_THRESHOLD ) {
-		select_star(d);
-		d3.event.stopPropagation();
-	    }
-	});
-
-
-    // nodes.append("text")
-    // 	.attr("text-anchor", "middle")
-    // 	.attr("class", function(d) { return d.class; })
-    // 	.attr("dx", 0)
-    // 	.attr("dy", ".35em")
-    // 	.text(function(d) { return d.name })
-    // 	.on("click", function(d) {
-    // 	    select_star_tween(d);
-    // 	    d3.event.stopPropagation();
-    // 	});
+    	.attr("r", magnitude_f)
+    	.attr("class", function(d) { return d.class } )
+        .attr("id", function(d, i) { return "circle_" + i })
+    	.style("opacity", star_opacity)
+    	.on("click", function(d) {
+    	    if( !spinning && d.z > -STAR_THRESHOLD ) {
+    		select_star(d);
+    		d3.event.stopPropagation();
+    	    }
+    	});
 
 
 

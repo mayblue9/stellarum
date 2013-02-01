@@ -18,6 +18,16 @@ div#starmap {
     font-size: 10pt;
 }
 
+div#cursor {
+    fill: none;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    width: 800px;
+    height: 800px;
+}
+
+
 div#controls {
     border: 1px #888 solid;
     background-color: #fff;
@@ -63,11 +73,17 @@ circle.A { fill: #cad7ff }
 circle.F { fill: #f8f7ff }  
 circle.G { fill: #fff4ea }  
 circle.K { fill: #ffd2a1 }  
+
 circle.M { fill: #ffcc6f }  
 circle.C { fill: #ffcc6f }  
 
 circle.hidden { display:none  }
 
+
+circle.cursor {
+    stroke-width: 3px;
+    stroke: #f55;
+}
 
 text {
     font-family: Arial, Helvetica, sans-serif;
