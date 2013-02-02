@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-# Read the Pinboard JSON archive of FSVO tweets for stars, and look them
-# up in Wikipedia to get coordinates and other metadata
+# Read the JSON archive of FSVO tweets for stars, and look them up in
+# Wikipedia to get coordinates and other metadata
 
 use strict;
 use utf8;
@@ -22,7 +22,7 @@ my $MAX_REDIRECTS = 5;
 my $FILEDIR = './Files/';
 
 my @FIELDS = qw(
-    name designation greek constellation
+    id name designation greek constellation
     search wikistatus
     ra1 ra2 ra3 dec1 dec2 dec3 ra dec
     appmag_v class mass radius
@@ -111,6 +111,7 @@ sub read_json_stars {
     my %params = @_;
 
     my $stars = [];
+    my $id = 1;
 
     my $tweets = $params{tweets};
 
@@ -120,11 +121,13 @@ sub read_json_stars {
 	if( $text =~ /^([A-Z\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
 	    
 	    my $star = parse_tweet(
+		id => $id,
 		name => $1,
 		bayer => $2,
 		text => $3
 	    );
 	    push @$stars, $star;
+	    $id++;
 	}
     }
     return $stars;
@@ -135,15 +138,22 @@ sub parse_tweet {
 
     my $name = $params{name};
     my $bayer = $params{bayer};
-    my $text= $params{text};
+    my $text = $params{text};
+    my $id = $params{id};
 
     my $star = {
 	bayer => $bayer,
 	name => $name,
 	text => $text,
 	html => $bayer,
-	wiki => $bayer
+	wiki => $bayer,
+	id => $id
     };
+
+    if( my $xrefs = get_xrefs(text => $text) ) {
+	$star->{xrefs} = $xrefs;
+	print "XREFS $name: " . join(' ', @$xrefs) . "\n";
+    }
     
     if( $bayer =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
 
@@ -195,8 +205,23 @@ sub parse_tweet {
 # }
 
 
-    
+sub get_xrefs { 
+    my %params = @_;
 
+    my $text = $params{text};
+
+    my $xrefs = [];
+
+    while( $text =~ m/([A-Z][A-Z ]+)/g ) {
+	push @$xrefs, $1;
+    }
+    
+    if( @$xrefs ) { 
+	return $xrefs;
+    } else {
+	return undef;
+    }
+}
 
 sub wiki_look {
     my %params = @_;
@@ -459,6 +484,7 @@ sub write_json {
 		print "good class $class for $star->{name}\n";
 	    }
 	    push @$data, {
+		id => $star->{id},
 		name => $star->{name},
 		designation => $star->{bayer},
 		wiki => $star->{wiki},
