@@ -44,8 +44,8 @@ div#text {
     opacity: 0.9;
     background-color: #fff;
     position: absolute;
-    top: 500px;
-    left: 480px;
+    top: 60px;
+    left: 560px;
     width: 240px;
     padding: 5px;
 }
@@ -82,7 +82,7 @@ circle.hidden { display:none  }
 
 circle.cursor {
     stroke-width: 3px;
-    stroke: #f55;
+    stroke: #f00;
 }
 
 text {

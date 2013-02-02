@@ -189,6 +189,30 @@ function hide_star_text() {
 
 
 
+function highlight_partial(str) {
+    d3.selectAll("circle")
+	.classed("cursor", function (d) {
+	    if( d.name.substr(0, str.length) == str.toUpperCase() ) {
+		return 1;
+	    } else {
+		return 0;
+	    }
+	});
+}
+
+
+function auto_complete_stars(evt) {
+    var text = $("#acfield").val();
+    
+    if( text.length ) {
+	highlight_partial(text);
+    } else {
+	d3.selectAll("circle")
+	    .classed("cursor", 0);
+    }
+}
+
+
 
 function render_map(elt, w, h) {
 
@@ -224,9 +248,11 @@ function render_map(elt, w, h) {
     	    }
     	});
 
-
+    
 
     nodes.append("title").text(function(d) { return d.name });
+
+    $("#acfield").on("keypressed", auto_complete_stars);
 }
 
 
