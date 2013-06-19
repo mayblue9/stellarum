@@ -201,9 +201,8 @@ function highlight_partial(str) {
 }
 
 
-function auto_complete_stars(evt) {
-    var text = $("#acfield").val();
-    
+function auto_complete_stars(text) {
+    console.log("AC " + text);
     if( text.length ) {
 	highlight_partial(text);
     } else {
@@ -252,7 +251,38 @@ function render_map(elt, w, h) {
 
     nodes.append("title").text(function(d) { return d.name });
 
-    $("#acfield").on("keypressed", auto_complete_stars);
+    d3.select("#acfield").on("keypress", function () {
+	auto_complete_stars(this.value)
+    });
+
 }
 
+
+var availableTags = [
+      "ActionScript",
+      "AppleScript",
+      "Asp",
+      "BASIC",
+      "C",
+      "C++",
+      "Clojure",
+      "COBOL",
+      "ColdFusion",
+      "Erlang",
+      "Fortran",
+      "Groovy",
+      "Haskell",
+      "Java",
+      "JavaScript",
+      "Lisp",
+      "Perl",
+      "PHP",
+      "Python",
+      "Ruby",
+      "Scala",
+      "Scheme"
+    ];
+    $( "#tags" ).autocomplete({
+      source: availableTags
+    });
 
