@@ -22,7 +22,7 @@ var stars = [
       "dec" : -0.998969789607046,
       "designation" : "α Eridani",
       "html" : "&alpha; Eridani",
-      "text" : "Held by Yule to be a line-of-sight cognate of ACAMAR, which led to the rediscovery and abandonment of Old Earth.",
+      "text" : "Held by Yule to be a line-of-sight cognate of <span class=\"link\" href=\"0\">ACAMAR</span> which led to the rediscovery and abandonment of Old Earth.",
       "ra" : 0.426358154840281,
       "class" : "B",
       "id" : 2,

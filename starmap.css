@@ -58,9 +58,11 @@ div#stardesignation {
     font-size: 14pt;
 }
 
-a.starlink {
+span.link {
     font-weight: bold;
+    text-decoration: underline;
     color: blue;
+    cursor: pointer;
 }
 
 

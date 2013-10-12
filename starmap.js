@@ -90,9 +90,9 @@ function centre_star(sname) {
 function find_star(sname) {
     for ( var i = 0; i < stars.length; i++ ) {
 	
-	if( stars[i].name == sname ) {
-	    return stars[i];
-	}
+	    if( stars[i].name == sname ) {
+	        return stars[i];
+	    }
     }
 }
 
@@ -178,8 +178,29 @@ function show_star_text(d) {
     $("div#text").removeClass("hidden");
     $("div#starname").text(d.name);
     $("div#stardesignation").text(d.designation);
-    $("div#description").text(d.text);
+    $("div#description").html(d.text);
+
+    /* What I'm doing here: do an each-loop through all of the links,
+       look up the star's circles, add a line from each link to 
+       each star, and add the onclick events. */
+
+    $("span.link").each(
+        function (index) {
+            var starid = $(this).attr('href');
+            star = stars[starid];
+            if( star ) {
+                select_star(star, SPIN_TIME);
+            } else {
+                console.log("Warning: star " + starid + " not found");
+            }
+        }
+        
+
+    $("span.link").click(
+    );
+
 }
+
 
 function hide_star_text() {
     if( highlighted_circle ) {
@@ -251,6 +272,8 @@ function render_map(elt, w, h, gostar) {
     
 
     nodes.append("title").text(function(d) { return d.name });
+
+
 
     if( gostar ) {
         var star = false;
