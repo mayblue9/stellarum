@@ -173,9 +173,11 @@ function highlight_star_circle(elt) {
 }
 
 function show_star_text(d) {
+    $("div#text").removeClass("O B A F G K M C");
+    $("div#text").addClass(d.class);
     $("div#text").removeClass("hidden");
-    $("span#starname").text(d.name);
-    $("span#stardesignation").text("(" + d.designation + ")");
+    $("div#starname").text(d.name);
+    $("div#stardesignation").text(d.designation);
     $("div#description").text(d.text);
 }
 

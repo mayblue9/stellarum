@@ -11,7 +11,7 @@ h1 {
 div#starmap {
     background-color: #000;
     position: absolute;
-    top: 60px;
+    top: 40px;
     left: 0px;
     width: 800px;
     height: 800px;
@@ -39,24 +39,35 @@ div#controls {
 }
 
 div#text {
-    font-size: 12pt;
+    font-size: 16pt;
     font-family: Helvetica, Arial, sans-serif;
     opacity: 0.9;
-    background-color: #fff;
     position: absolute;
-    top: 60px;
+    top: 40px;
     left: 560px;
-    width: 240px;
+    width: 300px;
     padding: 5px;
 }
+
+div#starname {
+    font-weight: bold;
+    font-size: 20pt;
+}
+
+div#stardesignation {
+    font-size: 14pt;
+}
+
+a.starlink {
+    font-weight: bold;
+    color: blue;
+}
+
 
 .hidden {
     display: none;
 }
 
-span#starname {
-    font-weight: bold;
-}
 
 
 
@@ -65,7 +76,8 @@ circle {
     opacity: 0.8;
 }
 
-/* see http://www.vendian.org/mncharity/dir3/starcolor/ */
+/* Star colour classes
+   from http://www.vendian.org/mncharity/dir3/starcolor/ */
 
 circle.O { fill: #9bb0ff }  
 circle.B { fill: #aabfff }  
@@ -73,9 +85,18 @@ circle.A { fill: #cad7ff }
 circle.F { fill: #f8f7ff }  
 circle.G { fill: #fff4ea }  
 circle.K { fill: #ffd2a1 }  
-
 circle.M { fill: #ffcc6f }  
 circle.C { fill: #ffcc6f }  
+
+div.O { background-color: #9bb0ff }  
+div.B { background-color: #aabfff }  
+div.A { background-color: #cad7ff }  
+div.F { background-color: #f8f7ff }  
+div.G { background-color: #fff4ea }  
+div.K { background-color: #ffd2a1 }  
+div.M { background-color: #ffcc6f }  
+div.C { background-color: #ffcc6f }  
+
 
 circle.hidden { display:none  }
 
