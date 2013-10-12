@@ -1,0 +1,125 @@
+{{Starbox begin
+| name = Delta Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 63.0%; top: 45.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Sagittarii (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| ra       = {{RA|18|20|59.64354}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|&minus;29|49|41.1659}}<ref name=aaa474_2_653/>
+| appmag_v = +2.70<ref name=clpl4_99/>
+| constell = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+| class    = K3&nbsp;III<ref name=houk1979/>
+| b-v      = +1.38<ref name=clpl4_99/>
+| u-b      = +1.55<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –19.9<ref name=rgcrv/>
+| prop_mo_ra  = +32.54<ref name=aaa474_2_653/>
+| prop_mo_dec = &minus;25.57<ref name=aaa474_2_653/>
+| parallax = 9.38
+| p_error  = 0.18
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = &minus;1.99<ref name=aaa343_222/>
+}}
+{{Starbox detail
+| mass     = 3.35 ± 0.34<ref name=aaa465_2_593/>
+| radius   = 129<ref name=aaa465_2_593/>
+| luminosity  = 2,500<ref name=aaa465_2_593/>
+| temperature = 3,600 ± 300<ref name=aaa465_2_593/>
+| gravity  = 0.74 ± 0.10<ref name=aaa465_2_593/>
+| metal_fe = 
+| rotational-velocity = 
+| age_myr  = 
+}}
+{{Starbox catalog
+| names = Kaus Media, Kaus Meridionalis, Media, δ&nbsp;Sagittarii, δ&nbsp;Sgr, Delta&nbsp;Sgr, 19&nbsp;Sagittarii, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J18210-2950A, [[Durchmusterung|CPD]]-30&nbsp;5513, [[Fifth Fundamental Catalogue|FK5]]&nbsp;687, [[Boss General Catalogue|GC]]&nbsp;25024, [[Henry Draper Catalogue|HD]]&nbsp;168454, [[Hipparcos|HIP]]&nbsp;89931, [[Bright Star Catalogue|HR]]&nbsp;6859, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;18146-2952 A, [[PPM Star Catalogue|PPM]]&nbsp;268275, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;186681, [[Washington Double Star Catalog|WDS]]&nbsp;J18210-2950A.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Delta Sagittarii''' ('''Delta&nbsp;Sgr''', '''δ&nbsp;Sagittarii''', '''δ&nbsp;Sgr''') is a [[double star]]<ref name=SIMBAD/> in the southern [[zodiac]] [[constellation]] of [[Sagittarius (constellation)|Sagittarius]]. It has the traditional names '''Kaus Media''', '''Kaus Meridionalis''', and '''Media'''.The [[apparent visual magnitude]] of this star is +2.70,<ref name=clpl4_99/> making it [[Bortle Dark-Sky Scale|easily visible]] to the naked eye. [[Parallax]] measurements place the distance at roughly {{Convert|348|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+This is a [[giant star]] with a [[stellar classification]] K3&nbsp;III. It has a mass of about 3.4 times that of the [[Sun]], while the outer envelope has expanded to 129 times the Sun's radius. With an [[effective temperature]] of roughly 3,600&nbsp;K, it is radiating 2,500 times the luminosity of the Sun.<ref name=aaa465_2_593/>
+
+It has three dim companions:{{Citation needed|date=January 2012}}
+* a 14th magnitude star at a separation of 26 [[arcsecond]]s,
+* a 15th magnitude star at a separation of 40 arcseconds, and
+* a 13th magnitude star at a separation of 58 arcseconds from the primary.
+It is not certain that these stars form a physical system or whether they are merely aligned by chance.
+
+==Name and etymology==
+*The names ''Kaus Media'', ''Kaus Meridionalis'', and ''Media'', are come from the [[Arabic language|Arabic]] قوس ''qaws'' 'bow' and [[Latin]] ''media'' 'middle'.
+*This star, together with :
+**[[Gamma Sagittarii|γ Sgr]], [[Epsilon Sagittarii|ε Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Lambda Sagittarii|λ Sgr]], [[Sigma Sagittarii|σ Sgr]], [[Tau Sagittarii|τ Sgr]] and [[Phi Sagittarii|φ Sgr]], consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+**[[Gamma Sagittarii|γ Sgr]], [[Epsilon Sagittarii|ε Sgr]] and [[Eta Sagittarii|η Sgr]] were ''Al Naʽām al Wārid'' (النعم الوارد), the Going Ostriches.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+**[[Gamma Sagittarii|γ Sgr]] and [[Epsilon Sagittarii|ε Sgr]] were Akkadian ''Sin-nun‑tu'', or ''Si-nu-nu‑tum'', the Swallow.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|箕}} ({{lang|zh-Latn|Jī}}), meaning ''[[Winnowing Basket (Chinese constellation)|Winnowing Basket]]'', refers to an asterism consisting of δ Sagittarii [[Gamma Sagittarii|γ Sagittarii]], [[Epsilon Sagittarii|ε Sagittarii]] and [[Eta Sagittarii|η Sagittarii]]. Consequently, δ Sagittarii itself is known as {{lang|zh|箕宿二}} ({{lang|zh-Latn|Jī Sù èr}}, {{lang-en|the Second Star of Winnowing Basket}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+*In the Hindu system of astrology, this star is also called "''Purvashada Nakshatra''".
+
+==See also==
+* [[Delta Sagittarii in fiction]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982mcts.book.....H }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa465_2_593>{{citation | last1=Schröder | first1=K.-P. | last2=Cuntz | first2=M. | title=A critical test of empirical mass loss formulas applied to individual giants and supergiants | journal=Astronomy and Astrophysics | volume=465 | issue=2 | pages=593–601 | month=April | year=2007 | doi=10.1051/0004-6361:20066633 | bibcode=2007A&A...465..593S |arxiv = astro-ph/0702172 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Sgr -- Star in double system  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Sagittarii | accessdate=2012-01-11 }}</ref>
+
+<ref name=aaa343_222>{{citation | last1=Elgarøy | first1=Øystein | last2=Engvold | first2=Oddbjørn | last3=Lund | first3=Niels | title=The Wilson-Bappu effect of the MgII K line - dependence on stellar temperature, activity and metallicity | journal=Astronomy and Astrophysics | volume=343 | pages=222–228 | month=March | year=1999 | bibcode=1999A&A...343..222E }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/kausmed.html Kaus Media]
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Delta]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Multiple stars|4]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:القوس المتوسط]]
+[[de:Delta Sagittarii]]
+[[es:Kaus Medius]]
+[[fa:دلتا کمان]]
+[[fr:Delta Sagittarii]]
+[[id:Delta Sagittarii]]
+[[it:Delta Sagittarii]]
+[[lb:Kaus Medius (Stär)]]
+[[nl:Kaus Media]]
+[[ja:いて座デルタ星]]
+[[pl:Delta Sagittarii]]
+[[pt:Delta Sagittarii]]
+[[sk:Kaus Medius]]
+[[zh:箕宿二]]

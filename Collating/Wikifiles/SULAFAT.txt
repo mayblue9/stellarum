@@ -1,0 +1,116 @@
+{{Starbox begin
+| name = Gamma Lyrae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Lyra IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Lyra constellation and its surroundings]]
+     <div style="position: absolute; left: 43.0%; top: 50.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Lyrae
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|18|58|56.62241}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+32|41|22.4003}}<ref name=aaa474_2_653/>
+| appmag_v = 3.261<ref name=aaass65_2_405/>
+| constell = [[Lyra]]
+}}
+{{Starbox character
+| class    = B9&nbsp;III<ref name=aj74_375/>
+| b-v      = –0.047<ref name=aaass65_2_405/>
+| u-b      = –0.125<ref name=aaass65_2_405/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –21.1<ref name=rgcrv/>
+| prop_mo_ra  = –3.09<ref name=aaa474_2_653/>
+| prop_mo_dec = +1.11<ref name=aaa474_2_653/>
+| parallax = 5.26
+| p_error  = 0.27
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 15<ref name=lang2006/>
+| luminosity  = 
+| temperature = 10,080<ref name=mnras219_479/>
+| metal_fe = +0.11<ref name=mnras219_479/>
+| rotation = 
+| rotational_velocity = 71–72<ref name=aaa393_897/>
+| gravity  = 3.5<ref name=mnras219_479/>
+| age      = 
+}}
+{{Starbox catalog
+| names = Sulafat, Gamma Lyrae, γ Lyr, γ Lyrae, NSV 11624, 14 Lyr, [[Harvard Revised catalogue|HR]] 7178, [[Henry Draper catalogue|HD]] 176437, SAO 67663, [[FK5]] 713.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Gamma Lyrae''' (γ Lyr, γ Lyrae) is the [[List of stars in Lyra|second brightest]] [[star]] in the northern [[constellation]] of [[Lyra]]. It has the traditional names '''Sulafat''' (Sulaphat), from the Arabic {{Lang|ar|السلحفاة}} ''al-sulḥafāt'' "turtle", and '''Jugum''',<ref name=allen1899/> from the [[Latin]] {{Lang|la|iugum}} "yoke". The connection with turtles is that fine harps were traditionally made of [[tortoiseshell material|tortoiseshell]]. The [[apparent visual magnitude]] of Sulafat is 3.3,<ref name=aaass65_2_405/> which is readily visible to the naked eye. [[Parallax]] measurements yield an estimated distance of {{Convert|620|ly|pc|abbr=off|lk=on}} from the [[Earth]].
+
+This is a [[giant star]] with a [[stellar classification]] of B9&nbsp;III,<ref name=aj74_375/> indicating it has exhausted the supply of hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. The [[effective temperature]] of the outer envelope of this star is 10,080&nbsp;K,<ref name=mnras219_479/> giving it the blue-white hue typical of a B-type star.<ref name=csiro/> The [[interferometry]]-measured [[angular diameter]] of this star is {{nowrap|0.74 ± 0.10 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of roughly 15 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/>
+
+In 1909, Canadian astronomer [[Samuel Alfred Mitchell|Samuel A. Mitchell]] identified this star as a [[spectroscopic binary]], although he was unable to split the [[absorption line]]s of the components. He found that a period of 25.6 days matched his measurements.<ref name=apj30_239/> It was reported as a spectroscopic binary as recently as 2001,<ref name=aaa371_1078/> but is now believed to be a single star<ref name=aj133_2_545/><ref name=mnras389_2_869/> with a high rate of rotation for stars of this type.<ref name=aaa371_1078/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=mnras219_479>{{citation | display-authors=1 | last1=Balachandran | first1=S. | last2=Lambert | first2=D. L. | last3=Tomkin | first3=J. | last4=Parthasarathy | first4=M. | title=The chemical composition of algol systems. III - Beta Lyrae-nucleosynthesis revealed | journal=Monthly Notices of the Royal Astronomical Society | volume=219 | pages=479–494 | month=April | year=1986 | bibcode=1986MNRAS.219..479B }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa393_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | pages=897–911 | month=October | year=2002 | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R |arxiv = astro-ph/0205255 }}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–4 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=SULAFAT -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Lyrae | accessdate=2012-01-12 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 190\cdot 0.74)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 30\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=apj30_239>{{citation | last1=Mitchell | first1=S. A. | title=Seven spectroscopic binaries | journal=Astrophysical Journal | volume=30 | pages=239–242 | month=October | year=1909 | doi=10.1086/141699 | bibcode=1909ApJ....30..239M }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=287 | url=books.google.com/books?id=5xQuAAAAIAAJ&pg=PA287 }}</ref>
+
+<ref name=aj133_2_545>{{citation | last1=Roberts | first1=Lewis C., Jr. | last2=Turner | first2=Nils H. | last3=ten Brummelaar | first3=Theo A. | title=Adaptive Optics Photometry and Astrometry of Binary Stars. II. A Multiplicity Survey of B Stars | journal=The Astronomical Journal | volume=133 | issue=2 | pages=545–552 | month=February | year=2007 | doi=10.1086/510335 | bibcode=2007AJ....133..545R }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=aaa371_1078>{{citation | display-authors=1 | last1=Adelman | first1=Saul J. | last2=Caliskan | first2=H. | last3=Kocer | first3=D. | last4=Kablan | first4=H. | last5=Yüce | first5=K. | last6=Engin | first6=S. | title=Elemental abundance analyses with DAO spectrograms. XXV. The superficially normal B and A stars alpha Draconis, tau Herculis, gamma Lyrae, and HR 7926 | journal=Astronomy and Astrophysics | volume=371 | pages=1078–1083 | month=June | year=2001 | doi=10.1051/0004-6361:20010408 | bibcode=2001A&A...371.1078A }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last=Kaler | title=SULAFAT (Gamma Lyrae) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/sulafat.html | accessdate=2012-01-12 }}
+
+{{Stars of Lyra}}
+
+[[Category:Lyra (constellation)]]
+[[Category:Bayer objects|Lyrae, Gamma]]
+[[Category:Stars with proper names]]
+
+[[ar:السلحفاة (نجم)]]
+[[de:Sulafat]]
+[[es:Gamma lyrae]]
+[[fa:گاما شلیاق]]
+[[fr:Gamma Lyrae]]
+[[id:Gamma Lyrae]]
+[[lb:Sulafat (Stär)]]
+[[nl:Sulafat]]
+[[ja:スラファト]]
+[[pt:Gamma lyrae]]
+[[ru:Гамма Лиры]]
+[[sk:Sulafat]]
+[[fi:Gamma Lyrae]]
+[[uk:HD176437]]
+[[zh:漸台三]]

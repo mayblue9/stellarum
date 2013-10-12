@@ -1,0 +1,120 @@
+{{Starbox begin
+ | name = [[Bayer designation|Alpha&nbsp;Arae]]}}
+{{Starbox image
+ | image = [[File:Ara constellation map.png|250px]]
+ | caption = α Arae (Choo) in the constellation Ara.
+}}
+{{Starbox observe
+ | epoch       = [[J2000.0]]
+ | equinox     = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+ | constell    = [[Ara (constellation)|Ara]]
+ | ra          = {{RA|17|31|50.49153}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|−49|52|34.1220}}<ref name=aaa474_2_653/>
+ | appmag_v    = 2.93<ref name=aj84_1713/> (2.76 to 2.90)<ref name=bsc1 />
+}}
+{{Starbox character
+ | class       = B2&nbsp;Vne<ref name=houk1978/>
+ | u-b         = −0.72<ref name=aj84_1713/>
+ | b-v         = −0.16<ref name=aj84_1713/>
+ | r-i         = −0.24<ref name=bsc1 />
+ | variable    = [[Be star|BE]]<ref name=gcvs2/>
+}}
+{{Starbox astrometry
+ | radial_v    = 0<ref name=rgcrv/>
+ | prop_mo_ra  = −33.27<ref name=aaa474_2_653/>
+ | prop_mo_dec = −67.22<ref name=aaa474_2_653/>
+ | parallax    = 12.20
+ | p_error     = 0.85
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox detail
+ | mass        = 9.6<ref name=m07 />
+ | temperature = 18,044<ref name=aaa505_2_687/>
+ | radius      = 4.5<ref name=aaa505_2_687/>
+ | luminosity_bolometric = 5,800<ref name=m07 />
+ | rotational_velocity = 375<ref name=coapa239_1/>
+ | gravity     = 3.99<ref name=aaa505_2_687/>
+}}
+{{Starbox catalog
+ | names = Choo, [[Durchmusterung|CD]]−49°11511, [[Fifth Fundamental Catalogue|FK5]]&nbsp;651, [[Henry Draper Catalogue|HD]]&nbsp;158427, [[Hipparcos Catalogue|HIP]]&nbsp;85792, [[Bright Star Catalogue|HR]]&nbsp;6510, [[New Catalogue of Suspected Variable Stars|NSV]]&nbsp;8999, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;228069.<ref name=sb0 /><ref name=wds /><ref name=allen />
+}}
+{{Starbox reference
+| Simbad=alf+ara
+}}
+{{Starbox end}}
+
+'''Alpha Arae''' (α Arae, α Ara) is the second brightest [[star]] in the southern [[constellation]] of [[Ara (constellation)|Ara]]. With an average [[apparent visual magnitude]] 2.93,<ref name=aj84_1713/> it is readily visible to the naked eye from the southern hemisphere. This star is close enough to the Earth that its distance can be estimated using [[parallax]] data collected during the [[Hipparcos]] mission. It is around {{Convert|270|ly|pc|abbr=off|lk=on}} away, with a 7% [[margin of error]]. The visual magnitude of the star is diminished by 0.10 magnitudes as a result of [[Extinction (astronomy)|extinction]] from intervening gas and dust.<ref name=aaa505_2_687/>
+
+==Properties==
+Alpha Arae has a [[stellar classification]] of B2&nbsp;Vne,<ref name=houk1978/> indicating that it is a massive [[B-type main sequence star]]. The 'n' notation in the suffix indicates that the [[absorption line]]s in the star's [[spectrum]] appear spread out and nebulous because of the [[Doppler effect]] from rapid rotation. The measured [[projected rotational velocity]] has been measured as high as {{nowrap|375 km s<sup>–1</sup>}}.<ref name=coapa239_1/> Meilland et al. (2007) estimate the pole of the star is inclined by 55° to the line of sight, yielding an equatorial [[azimuth]]al velocity of {{nowrap|470 km s<sup>–1</sup>}}. This is close to the critical velocity where the star would start to breakup.<ref name=m07/> The rapid rotation is causing a pronounced equatorial bulge of about 2.4–2.7 times the polar radius.<ref name=aaa505_2_687/>
+
+It is a [[Be star]], as indicated by the 'e' notation in the star's classification. This indicates that [[emission line]]s are observed in the spectrum, which is coming from a disk of material ejected from the star because of its rapid rotation.<ref>[http://www.eso.org/public/outreach/press-rel/pr-2006/pr-35-06.html To Be or Not to Be: Is It All About Spinning?: VLTI Discerns How Matter Behaves in Disc Around a Be Star], ESO press release 35/06, September 20, 2006. Accessed on line December 12, 2008.</ref> In 2003 and 2005, Alpha Arae was observed by [[infrared]] [[interferometry]], using the MIDI and AMBER instruments at the [[VLT Interferometer]]. The results, published in 2005 and 2007, appear to show that Alpha Arae is surrounded by a dense equatorial disk of material in Keplerian (rather than uniform) rotation, and that it is losing mass by a polar [[stellar wind]] with a terminal velocity of approximately 1,000&nbsp;km/s. There is also some evidence that Alpha Arae is orbited by a companion at 0.7 AU.<ref name=m07/><ref>First VLTI/MIDI observations of a Be star: Alpha Arae, O. Chesneau et al., ''Astronomy and Astrophysics'' '''435''', #1 (May 2005), pp. 275–287, {{doi|10.1051/0004-6361:20041954}}, {{bibcode|2005A&A...435..275C}}.</ref>
+
+This star has around 9.6<ref name=m07 /> times as much mass as the Sun and an average of 4.5<ref name=aaa505_2_687/> times the Sun's radius. It is emitting 5,800<ref name=m07 /> as much luminosity as the Sun from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 18,044&nbsp;K.<ref name=aaa505_2_687/> This heat gives Alpha Arae the blue-white hue that is characteristic of [[B-type star]]s. It is a [[variable star]] with a magnitude that varies between 2.76<sup>m</sup> and 2.90<sup>m</sup>.<ref name=bsc1 /><ref name=sb0 />
+
+Alpha Arae has a [[double star|visual companion star]], ''CCDM J17318-4953B'', located approximately 50 [[arcsecond]]s away along a [[position angle]] of 168°, with an [[apparent visual magnitude]] of about 11.<ref name=wds>Entry 17318-4953, [http://ad.usno.navy.mil/wds/Webtextfiles/wdsnewframe3.html The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line November 26, 2008.</ref> The two stars appear close to each other by coincidence and are not physically close in space.<ref name=bsc1 />
+
+==In culture==
+With [[Beta Arae|β]] and [[Sigma Arae|σ Ara]] it forms the Chinese [[Asterism (astronomy)|asterism]] ''Choo'' （[[pinyin]]: chǔ, {{lang|zh|杵}}）, "pestle" in traditional [[Chinese astronomy]]. It was the second star of ''Choo'' （{{lang|zh|杵二}}）, but [[Richard Hinckley Allen|R. H. Allen]] used the name ''Choo'' for this star only.<ref name="allen"/> [[Patrick Moore]] lists ''Choo'' as a proper name for this star in his [[star catalogue]] of the constellation Ara.<ref name=moore1983/> This name is also spelt ''Tchou''.{{Citation needed|date=July 2010}} There is another ''Choo'' in the constellation [[Pegasus (constellation)|Pegasus]]. 
+
+In [[Chinese language|Chinese]], {{lang|zh|杵}} ({{lang|zh-Latn|Chǔ}}), meaning ''[[Winnowing Basket (Chinese constellation)|Pestle]]'', refers to an asterism consisting of α Arae, [[Sigma Arae|σ Arae]] and [[Beta Arae|β Arae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Arae itself is known as {{lang|zh|杵二}} ({{lang|zh-Latn|Chǔ èr}}, {{lang-en|the Second Star of Pestle}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+== See also ==
+* [[Ara (Chinese astronomy)|Traditional Chinese star names in Ara]]
+* <!--[[Pegasus (Traditional Chinese star name)|Traditional Chinese star names in Pegasus]]-->[[Traditional Chinese star names#Pegasus|Traditional Chinese star names in Pegasus]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=2 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1978mcts.book.....H }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=coapa239_1>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=m07>{{citation | title=First direct detection of a Keplerian rotating disk around the Be star α Arae using AMBER/VLTI | first1=A. | last1=Meilland | coauthors=et al. | journal=Astronomy and Astrophysics | volume=464 | issue=1 | month=March | year=2007 | pages=59–71 | doi=10.1051/0004-6361:20064848 | bibcode=2007A&A...464...59M |arxiv = astro-ph/0606404 }}. See Tables 1 and 4 for parameters of the star, circumstellar disk, and polar winds.</ref>
+
+<ref name=aj84_1713>{{citation | last1=Feinstein | first1=A. | last2=Marraco | first2=H. G. | title=The photometric behavior of Be Stars | journal=Astronomical Journal | volume=84 | pages=1713–1725 | month=November | year=1979 | doi=10.1086/112600 | bibcode=1979AJ.....84.1713F }}</ref>
+
+<ref name=aaa505_2_687>{{citation | last1=Meilland | first1=A. | last2=Stee | first2=Ph. | last3=Chesneau | first3=O. | last4=Jones | first4=C. | title=VLTI/MIDI observations of 7 classical Be stars | journal=Astronomy and Astrophysics | volume=505 | issue=2 | pages=687–693 | month=October | year=2009 | doi=10.1051/0004-6361/200911960 | bibcode=2009A&A...505..687M |arxiv = 0908.1239 }}</ref>
+
+<ref name=sb0>{{SIMBAD link|alf+ara|V* alf Ara -- Eruptive variable Star}}, database entry, [[SIMBAD]].  Accessed on line November 26, 2008.</ref>
+
+<ref name=bsc1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=6510 HR 6510], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line November 26, 2008.</ref>
+
+<ref name=gcvs2>alf Ara, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/iii/iii.dat The combined table of GCVS Vols I-III and NL 67-78 with improved coordinates, General Catalogue of Variable Stars], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line November 26, 2008.</ref>
+
+<ref name="allen">{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | edition=Reprint | publisher=Dover Publications Inc. | location=New York, NY | isbn=0-486-21079-0 | page=63 | url=http://books.google.com/books?id=5xQuAAAAIAAJ }}</ref>
+
+<ref name=moore1983>{{citation | last=Moore | first=P. | year=1983 | title=The Guinness Book of Astronomy Facts and Feats | edition=Second | publisher=Guinness Superlatives Ltd | location=Middlesex | isbn=0-85112-291-4 | page=187 }}</ref> 
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=V*+alf+Ara&ident=V*+alf+Ara&submit=Aladin+previewer Image of Alpha Arae] from [[Aladin Sky Atlas|Aladin]].
+{{Stars of Ara}}
+
+[[Category:Ara (constellation)]]
+[[Category:Be stars]]
+[[Category:B-type main sequence stars]]
+[[Category:Double stars]]
+[[Category:Stars with proper names]]
+[[Category:Bayer objects|Arae, Alpha]]
+[[Category:Henry Draper Catalogue objects|158427]]
+[[Category:Hipparcos objects|085792]]
+[[Category:Durchmusterung objects|CD−49 11511]]
+
+[[ca:Choo]]
+[[es:Alfa Arae]]
+[[fa:چو]]
+[[fr:Alpha Arae]]
+[[id:Alpha Arae]]
+[[it:Alfa Arae]]
+[[ja:さいだん座アルファ星]]
+[[pt:Alpha Arae]]
+[[fi:Alpha Arae]]
+[[sv:Alfa Arae]]
+[[zh:杵二]]

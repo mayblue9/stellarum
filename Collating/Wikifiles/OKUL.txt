@@ -1,0 +1,40 @@
+{{About||the 2004 Turkish film|Okul (film)}}
+{{Starbox short |
+| name=π Capricorni
+| epoch=[[J2000.0]]
+| constell=[[Capricornus]]
+| ra=20<sup>h</sup>27<sup>m</sup>19.2<sup>s</sup>
+| dec=−18°12′42″
+| spectral=B8II-III
+| appmag_v=+5.08
+| dist_ly=670 ± 110
+| dist_pc=204 ± 33
+| names=Okul, 10&nbsp;Capricorni, [[Harvard Revised catalogue|HR]]&nbsp;7814, [[Henry Draper Catalogue|HD]]&nbsp;194636, [[Bonner Durchmusterung|BD]]−18°5685, [[Hipparcos catalogue|HIP]]&nbsp;100881, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;163592, GC&nbsp;28442, [[Star catalogue#ADS|ADS]]&nbsp;13860, CCDM&nbsp;J20273-1813
+}}
+'''Pi Capricorni''' (π Cap, π Capricorni) is a [[double star]] in the [[constellation]] [[Capricornus]]. It also has the traditional star name '''Okul''' or '''Oculus''' (meaning ''eye'' in [[Latin]]).<ref>http://www.constellationsofwords.com/stars/Oculus.html</ref>  It is approximately 670 [[light year]]s from [[Earth]].
+
+In [[Chinese language|Chinese]], {{lang|zh|牛宿}} ({{lang|zh-Latn|Niú Su}}), meaning ''[[Ox (Chinese constellation)|Ox]] (asterism)'', refers to an asterism consisting of π Capricorni, [[Beta Capricorni|β Capricorni]], [[Alpha2 Capricorni|α<sup>2</sup> Capricorni]], [[Xi2 Capricorni|ξ<sup>2</sup> Capricorni]], [[Omicron Capricorni|ο Capricorni]] and [[Rho Capricorni|ρ Capricorni]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, π Capricorni itself is known as {{lang|zh|牛宿四}} ({{lang|zh-Latn|Niú Su sì}}, {{lang-en|the Fourth Star of Ox}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060513.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 13 日]</ref>
+
+The primary component, '''π Capricorni A''', is a blue-white [[stellar classification|B-type]] [[bright giant]] with an [[apparent magnitude]] of +5.08.  It is a [[spectroscopic binary]]{{Citation needed|date=May 2010}} whose two components are separated by 0.1 [[arcsecond]]s.  The third component, '''π Capricorni B''', is an eighth magnitude star 3.4 arcseconds from the primary.
+
+==References==
+{{reflist}}
+
+{{Stars of Capricornus}}
+
+[[Category:Bayer objects|Capricorni, Pi]]
+[[Category:B-type bright giants]]
+[[Category:Capricornus (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:Triple star systems]]
+[[Category:Stars with proper names]]
+
+
+{{Multi-star-stub}}
+
+[[de:Pi Capricorni]]
+[[fa:پی بزغاله]]
+[[id:Pi Capricorni]]
+[[it:Pi Capricorni]]
+[[pt:Pi Capricorni]]
+[[zh:牛宿四]]

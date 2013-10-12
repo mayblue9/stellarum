@@ -1,0 +1,134 @@
+{{Starbox begin
+| name = Eta Virginis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Virgo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Virgo constellation and its surroundings]]
+     <div style="position: absolute; left: 69.6%; top: 40.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of η Virginis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|12|19|54.35783}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–00|40|00.5095}}<ref name=aaa474_2_653/>
+| appmag_v = 3.890<ref name=saaoc8_59/>
+| constell = [[Virgo (constellation)|Virgo]]
+}}
+{{Starbox character
+| class    = A2&nbsp;V<ref name=pasp84_500_584/>
+| b-v      = +0.029<ref name=saaoc8_59/>
+| u-b      = +0.055<ref name=saaoc8_59/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +2.3<ref name=gcsrv/>
+| prop_mo_ra  = –57.58<ref name=aaa474_2_653/>
+| prop_mo_dec = –25.19<ref name=aaa474_2_653/>
+| parallax = 12.29
+| p_error  = 0.45
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aj142_1_6/>
+| primary = η Vir Aa
+| name = η Vir Ab
+| period_unitless = {{nowrap|71.7919 ± 0.0009 days}}
+| axis = <!--Semimajor axis (in arcseconds)-->
+| axis_unitless = <!--Semimajor axis (no units provided by template)-->
+| eccentricity = {{nowrap|0.2519 ± 0.0040}}
+| inclination = {{nowrap|45.5 ± 0.9}}
+| node = <!--Longitude of node (in degrees)-->
+| periastron = 54403.6116 ± 0.3406
+| periarg = 197.21 ± 1.74
+| periarg_primary = <!--Argument of periastron (in degrees), primary -->
+| k1 = 26.606 ± 0.198
+| k2 = 35.236 ± 0.273
+}}
+{{Starbox detail
+| component1 = η Vir Aa
+| age      = 
+| metal_fe = +0.11<ref name=ajs15_21/>
+| gravity  = 3.0<ref name=ajs15_21/>
+| mass     = {{nowrap|2.5039 ± 0.1246}}<ref name=aj142_1_6/>
+| radius   = 
+| rotational_velocity = 18<ref name=aaa463_2_671/>
+| rotation = 
+| luminosity = 
+| temperature = 9,333<ref name=ajs15_21/>
+| component2 = η Vir Ab
+| mass2    = {{nowrap|1.8907 ± 0.0932}}
+}}
+{{Starbox catalog
+| names = Zaniah, Zannakh, 15&nbsp;Virginis, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;4689, [[Henry Draper Catalogue|HD]]&nbsp;107259, [[Star catalogue#BD.2FCD.2FCPD|BD]]+00&nbsp;2926, [[Fifth Fundamental Catalogue|FK5]]&nbsp;460, [[Hipparcos catalogue|HIP]]&nbsp;60129, [[Star catalogue#SAO|SAO]]&nbsp;138721, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;12199-0040, [[Washington Double Star Catalog|WDS]]&nbsp;J12199-0040AB.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Eta Virginis''' (η Vir, η Virginis) is a multiple [[star]] system in the [[zodiac]] [[constellation]] of [[Virgo (constellation)|Virgo]]. It has the traditional name '''Zaniah''' {{IPAc-en|icon|z|@|'|n|aɪ|.|ə}}. From [[parallax]] measurements, the distance to this star was found to be roughly {{Convert|265|ly|pc|abbr=off|lk=on}}. It has an [[apparent visual magnitude]] of 3.89,<ref name=saaoc8_59/> which is bright enough for the system to be seen with the naked eye in dark skies.
+
+Although the star looks single in any telescope, lunar [[occultation]]s have shown this star to be a very close [[triple star system]] consisting of two stars only 0.5 [[astronomical unit|AU]] apart with a third slightly more distant star.{{citation needed|date=January 2012}} The inner pair is a [[spectroscopic binary]] that completes an orbit with a period of 72&nbsp;days. The inclination of this orbit was determined through [[interferometer]] observations to be 45.5°, which allowed the individual masses of the two stars to be estimated. The primary star, η Vir Aa, has a mass of about 2.5 times the [[solar mass|Sun's mass]], while the secondary, η Vir Ab, has 1.9 solar masses. The faint tertiary star, η Vir B, orbits the inner group in a wider orbit over a period of 13.1 years.<ref name=aj142_1_6/>
+
+Because Zaniah is near the [[ecliptic]], it can be [[occultation|occulted]] by the [[Moon]] and (very rarely) by [[planet]]s. On October 12, 272 BC, the ancient Greek astronomer [[Timocharis]] observed a [[Conjunction (astronomy and astrology)|conjunction]] of the star with [[Venus]].<ref name=pedersen2010/><ref name=ptolemy/> The last occultation by a planet took place on September 27, 1843, also by [[Venus]], which will occult it again on November 19, 2445.{{Citation needed|date=January 2012}}
+
+==Etymology==
+The medieval name Zaniah is from the Arabic زاوية ''zāwiyah'' "corner", the same source as [[Zavijava]].
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Thanih al Aoua''', which was translated into [[Latin]] as '''Secunda Latratoris''', meaning ''the second barker''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref> This star, along with [[Beta Virginis|β Vir]] (Zavijava), [[Gamma Virginis|γ Vir]] (Porrima), [[Delta Virginis|δ Vir]] (Auva) and [[Epsilon Virginis|ε Vir]] (Vindemiatrix), were '''Al ʽAwwāʼ''', the Barker.<ref name=allen/>
+
+In [[Chinese language|Chinese]], {{lang|zh|太微左垣}} ({{lang|zh-Latn|Tài Wēi Zuǒ Yuán}}), meaning ''[[Supreme Palace enclosure|Left Wall of Supreme Palace Enclosure]]'', refers to an asterism consisting of η Virginis, [[Gamma Virginis|γ Virginis]], [[Delta Virginis|δ Virginis]], [[Epsilon Virginis|ε Virginis]] and [[Alpha Comae Berenices|α Comae Berenices]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, η Virginis itself is known as {{lang|zh|太微左垣一}} ({{lang|zh-Latn|Tài Wēi Zuǒ Yuán yī}}, {{lang-en|the First Star of Left Wall of Supreme Palace Enclosure}}.),<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> representing {{lang|zh|左執法}} ({{lang|zh-Latn|Zuǒzhífǎ}}), meaning ''The Left Law Administrator''.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#SupremePalaceEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> 左執法 (Zuǒzhífǎ), spelled '''Tso Chih Fa''' by R.H. Allen, means "the Left-hand Maintainer of Law" <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Virgo*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Virgo]</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=ptolemy>{{citation | last1=Fomenko | first1=A. T. | last2=Vi︠a︡cheslavovich | first2=Vladimir Kalashnikov | last3=Nosovskiĭ | first3=Gleb Vladimirovich | title=Geometrical and statistical methods of analysis of star configurations: dating Ptolemy's Almagest | page=215 | publisher=CRC Press | year=1993 | isbn=0-8493-4483-2 }}</ref>
+
+<ref name=ajs15_21>{{citation | last1=Wolff | first1=Sidney Carne | title=A Spectroscopic and Photometric Study of the AP Stars | journal=Astrophysical Journal Supplement | volume=15 | page=21 | month=October | year=1967 | doi=10.1086/190162 | bibcode=1967ApJS...15...21W }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=saaoc8_59>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=South African Astronomical Observatory Circulars | volume=8 | page=59 | month=1984 | bibcode=1984SAAOC...8...59C }}</ref>
+
+<ref name=pasp84_500_584>{{citation | last1=Levato | first1=O. H. | title=Rotational Velocities and Spectral Types of Some A-Type Stars | journal=Publications of the Astronomical Society of the Pacific | volume=84 | issue=500 | page=584 | month=August | year=1972 | doi=10.1086/129336 | bibcode=1972PASP...84..584L }}</ref>
+
+<ref name=aj142_1_6>{{citation | display-authors=1 | last1=Behr | first1=Bradford B. | last2=Cenko | first2=Andrew T. | last3=Hajian | first3=Arsen R. | last4=McMillan | first4=Robert S. | last5=Murison | first5=Marc | last6=Meade | first6=Jeff | last7=Hindsley | first7=Robert | title=Stellar Astrophysics with a Dispersed Fourier Transform Spectrograph. II. Orbits of Double-lined Spectroscopic Binaries | journal=The Astronomical Journal | volume=142 | issue=1 | page=6 | month=July | year=2011 | doi=10.1088/0004-6256/142/1/6 | bibcode=2011AJ....142....6B |arxiv = 1104.1447 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=eta Vir -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Eta+Virginis | accessdate=2012-01-06 }}</ref>
+
+<ref name=allen>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Virgo*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=469 }}</ref>
+
+<ref name=pedersen2010>{{citation | first1=Olaf | last1=Pedersen | title=A Survey of the Almagest: With Annotation and New Commentary by Alexander Jones | series=Sources and Studies in the History of Mathematics and Physical Sciences | editor1-first=Alexander | editor1-last=Jones | edition=2nd | publisher=Springer | year=2010 | isbn=0-387-84825-8 | page=411 | url=http://books.google.com/books?id=8eaHxE9jUrwC&pg=PA411 }}</ref>
+
+}}
+
+== External links ==
+*[http://www.astro.uiuc.edu/~kaler/sow/zaniah.html Zaniah]
+
+{{Virgo}}
+
+[[Category:Bayer objects|Virginis, Eta]]
+[[Category:Virgo (constellation)]]
+[[Category:Triple star systems]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ar:زاوية العذراء]]
+[[de:Zaniah]]
+[[es:Zaniah]]
+[[fa:زاویه عذرا]]
+[[fr:Eta Virginis]]
+[[lb:Zaniah]]
+[[nl:Zaniah]]
+[[pl:Eta Virginis]]
+[[pt:Eta Virginis]]
+[[sk:Zaniah]]
+[[zh:左执法]]

@@ -1,0 +1,22 @@
+{{Unreferenced|date=December 2009}}
+'''Mu Lyrae''' (μ Lyr, μ Lyrae) is a [[star]] in the [[constellation]] [[Lyra (constellation)|Lyra]].  It has the traditional name '''Alathfar''', from the [[Arabic language|Arabic]] '''الأظفر''' ''al-’uz̧fur'' "the talons (of the swooping eagle)", a name it shares with [[Eta Lyrae]] (though the latter is typically spelled ''Aladfar'' in English).
+
+Mu Lyrae has [[apparent magnitude]] 5.12 and belongs to the [[stellar classification|spectral class]] A3IVn. 
+
+Coordinates (equinox [[J2000]]):
+* [[Right ascension]]: 18h24m13.80s
+* [[Declination]]: +39°30'26.0"
+{{Stars of Lyra}}
+
+[[Category:Lyra (constellation)]]
+[[Category:Bayer objects|Lyrae, Mu]]
+[[Category:Stars with proper names]]
+
+[[de:Alathfar]]
+[[es:Mu Lyrae]]
+[[id:Mu Lyrae]]
+[[nl:Alathfar]]
+[[pt:Mu Lyrae]]
+[[ru:Мю Лиры]]
+[[sk:Alathfar]]
+[[zh:織女增三]]

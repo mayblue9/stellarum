@@ -1,0 +1,27 @@
+{{Unreferenced|date=December 2009}}
+'''Mu Leonis''' (μ Leo, μ Leonis) is a [[star]] in the [[constellation]] [[Leo (constellation)|Leo]].  It has the traditional names '''Rasalas''' ''(Ras Elased Borealis)'' and '''Alshemali''', abbreviations of ''Ras al Asad al Shamaliyy,'' from the [[Arabic language|Arabic]] '''رأس الأسد الشمالي''' ''ra’s al-’asad aš-šamālī'' "the northern (star) of the lion's head". 
+
+Mu Leonis is of [[stellar classification|spectral class]] K3 and [[apparent magnitude]] +4.1. It is approximately 133 [[light year]]s from [[Earth]].
+
+Coordinates (equinox 2000):
+* [[Right ascension]]: 9<sup>h</sup> 52<sup>m</sup> 45<sup>s</sup>
+* [[Declination]]: +26° 00' 23"
+
+{{Stars of Leo}}
+
+[[Category:Leo (constellation)]]
+[[Category:Bayer objects|Leonis, Mu]]
+[[Category:Stars with proper names]]
+
+[[ar:رأس الأسد الشمالي]]
+[[de:Rasalas]]
+[[es:Rasalas]]
+[[fr:Mu Leonis]]
+[[ko:사자자리 뮤]]
+[[id:Mu Leonis]]
+[[it:Rasalas]]
+[[lb:Rasalas (Stär)]]
+[[no:Mu Leonis]]
+[[pt:Mu Leonis]]
+[[sk:Rasalas]]
+[[zh:軒轅十]]

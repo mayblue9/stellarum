@@ -1,0 +1,43 @@
+{{Starbox short |
+| name=η Capricorni
+| epoch=[[J2000.0]]
+| constell=[[Capricornus]]
+| ra=21<sup>h</sup>04<sup>m</sup>24.3<sup>s</sup>
+| dec=&minus;19°51′18″
+| spectral=A5V
+| appmag_v=+4.82
+| dist_ly=158 ± 11
+| dist_pc=48 ± 3
+| names=Arm, 22&nbsp;Capricorni, [[Harvard Revised catalogue|HR]]&nbsp;8060, [[Henry Draper Catalogue|HD]]&nbsp;200499, [[Gliese-Jahreiss catalogue|Gl]]&nbsp;816.2, [[Bonner Durchmusterung|BD]]−20°6115, [[Hipparcos catalogue|HIP]]&nbsp;104019, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;189986, GC&nbsp;29419, CCDM&nbsp;J21044-1951
+}}
+'''Eta Capricorni''' (η Cap, η Capricorni) is a [[binary star]] in the [[constellation]] [[Capricornus]].  It also has the traditional star name '''Arm'''.  It is approximately 158 [[light year]]s from [[Earth]].
+
+The primary component, '''η Capricorni A''', is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.82.  Its companion, '''η Capricorni B''', has an apparent magnitude of +6.5 and is located 0.34 [[arcsecond]]s from the primary.
+
+Sometimes, this star is called by the name '''Armus'''.<ref>http://www.constellationsofwords.com/stars/Armus.html</ref>
+
+==Chinese Name==
+In [[Chinese language|Chinese]], {{lang|zh|十二國}} ({{lang|zh-Latn|Shíer Guó}}), meaning ''[[Girl (Chinese constellation)|Twelve States]]'', refers to an asterism which is represent twelve ancient states in the [[Spring and Autumn Period]] and the [[Warring States Period]], consisting of η Capricorni, [[Phi Capricorni|φ Capricorni]], [[Iota Capricorni|ι Capricorni]], [[38 Capricorni]], [[35 Capricorni]], [[36 Capricorni]], [[Chi Capricorni|χ Capricorni]], [[Theta Capricorni|θ Capricorni]], [[30 Capricorni]], [[33 Capricorni]], [[Zeta Capricorni|ζ Capricorni]], [[19 Capricorni]], [[26 Capricorni]], [[27 Capricorni]], [[20 Capricorni]] and [[21 Capricorni]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently,  η Capricorni itself is known as {{lang|zh|周一}} ({{lang|zh-Latn|Zhou yī}}, {{lang-en|the First Star of Zhou}}), meaning that this star (together with [[21 Capricorni]] and [[Beta Serpentis|β Serpentis]] in ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'' (asterism)<ref>{{zh icon}}http://zh.wikipedia.org/wiki/%E5%8C%97%E5%A4%A9%E4%B8%AD%E8%A5%BF%E6%98%9F%E5%90%8D%E5%B0%8D%E7%85%A7%E8%A1%A8</ref><ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Serpens*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Serpens]</ref>) represent '''[[Zhou Dynasty|Zhou]]''' ({{lang|zh|周}}) (possibly '''Chow''', the dynasty in China).<ref>[http://www.constellationsofwords.com/stars/DenebAlgedi.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Capricornus]</ref>
+
+==References==
+{{reflist}}
+
+{{Stars of Capricornus}}
+
+[[Category:Bayer objects|Capricorni, Eta]]
+[[Category:Binary stars]]
+[[Category:Capricornus (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{Multi-star-stub}}
+
+[[de:Arm (Stern)]]
+[[es:Eta Capricorni]]
+[[fa:اتا بزغاله]]
+[[id:Eta Capricorni]]
+[[it:Eta Capricorni]]
+[[pt:Eta Capricorni]]
+[[uk:HD200499]]
+[[zh:周一 (恆星)]]

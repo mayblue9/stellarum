@@ -1,0 +1,123 @@
+{{Starbox begin
+ | name = Delta Arietis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aries IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aries constellation and its surroundings]]
+     <div style="position: absolute; left: 34.3%; top: 44.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of δ Arietis (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|03|11|37.76465}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|+19|43|36.0397}}<ref name=aaa474_2_653/>
+ | appmag_v    = 4.349<ref name=mnras172_667/>
+ | constell    = [[Aries (constellation)|Aries]]
+}}
+{{Starbox character
+ | class       = K2&nbsp;III<ref name=aaa454_3_943/>
+ | r-i         = 0.51
+ | v-r         =
+ | b-v         = +1.035<ref name=mnras172_667/>
+ | u-b         = +0.914<ref name=mnras172_667/>
+ | variable    = Suspected<ref name=gcvs/>
+}}
+{{Starbox astrometry
+ | radial_v    = {{nowrap|23.05 ± 0.20}}<ref name=aaa454_3_943/>
+ | prop_mo_ra  = +153.33<ref name=aaa474_2_653/>
+ | prop_mo_dec = –8.28<ref name=aaa474_2_653/>
+ | parallax    = 19.22
+ | p_error     = 0.19
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox detail
+ | mass        = 1.91<ref name=aaa454_3_943/>
+ | radius      = {{nowrap|10.42 ± 0.97}}<ref name=aaa526_A100/>
+ | luminosity  = {{nowrap|45 ± 6}}<ref name=aaa526_A100/>
+ | temperature = 4,810<ref name=aaa526_A100/>
+ | gravity     = 2.93<ref name=aaa526_A100/>
+ | metal_fe    = –0.03<ref name=aaa526_A100/>
+ | rotational_velocity = 4.3<ref name=aj135_1_209/>
+ | age_myr     = 
+}}
+{{Starbox catalog
+ | names=Botein, Botejn, 57 Arietis, [[Bonner Durchmusterung|BD]]+19 477, [[Fifth Fundamental Catalogue|FK5]] 114, [[Henry Draper catalogue|HD]] 19787, [[Hipparcos catalogue|HIP]] 14838, [[Harvard Revised catalogue|HR]] 951, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 93328.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Delta Arietis''' (δ Ari, δ Arietis) is the [[Bayer designation]] for a star in the northern [[constellation]] of [[Aries (constellation)|Aries]]. It has the traditional name '''Botein''' which is derived from the [[Arabic language|Arabic]] word for "belly". The [[apparent visual magnitude]] of this star is 4.35,<ref name=mnras172_667/> which is bright enough to be viewed with the naked eye. It has an annual [[parallax]] shift of 19.22&nbsp;[[milliarcsecond|mas]];<ref name=aaa474_2_653/> corresponding to a physical distance of approximately {{Convert|170|ly|pc|abbr=off|lk=on}} from Earth.
+
+This is an [[stellar evolution|evolved]] [[giant star]] with a [[stellar classification]] of K2&nbsp;III.<ref name=aaa454_3_943/> It belongs to a population known as [[red clump]] giants, which means it is generating energy through the fusion of helium at its core.<ref name=mnras408_2_1225/> With close to twice the mass of the Sun,<ref name=aaa454_3_943/> the [[stellar atmosphere|outer envelope]] has expanded until it is around ten<ref name=aaa526_A100/> times the Sun's radius. It shines with 45<ref name=aaa526_A100/> times the Sun's luminosity at an [[effective temperature]] of 4,810&nbsp;K,<ref name=aaa526_A100/> giving it the orange-hued glow of a [[K-type star]].<ref name=csiro/> It is a suspected [[variable star]] that ranges in magnitude from 4.33 to 4.37.<ref name=gcvs/>
+
+==Etymology==
+The term ''Botein'' is derived from Al Bīrūnī's '''Al Buṭayn''' ('''ألبطين'''), the dual of ''Al Baṭn'', the Belly. This is the name of star association consisting this star, along with [[Epsilon Arietis|ε Ari]], [[Zeta Arietis|ζ Ari]], [[Pi Arietis|π Ari]], and [[Rho3 Arietis|ρ<sup>3</sup>&nbsp;Ari]]<ref name=allen1963/>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Al Buṭain'' were the title for five stars :δ Ari as ''Botein'', [[Pi Arietis|π Ari]] as ''Al Buṭain I'', [[Rho3 Arietis|ρ<sup>3</sup>&nbsp;Ari]] as ''Al Buṭain II'', [[Epsilon Arietis|ε Ari]] as ''Al Buṭain III'' dan [[Zeta Arietis|ζ Ari]] as ''Al Buṭain IV''<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Nir al Botain''', which was translated into [[Latin]] as '''Lucida Ventris''', meaning ''the brightest of the belly''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天陰}} ({{lang|zh-Latn|Tiān Yīn}}), meaning ''[[Hairy Head (Chinese constellation)|Yin Force]]'', refers to an asterism consisting of δ Arietis, [[63 Arietis]],  [[Zeta Arietis|ζ Arietis]], [[Tau Arietis|τ Arietis]] and [[65 Arietis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Arietis itself is known as {{lang|zh|天陰四}} ({{lang|zh-Latn|Lóu Su sì}}, {{lang-en|the Fourth Star of Yin Force}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 | postscript=. }}</ref>
+
+<ref name=aaa454_3_943>{{citation | display-authors=1 | last1=Hekker | first1=S. | last2=Reffert | first2=S. | last3=Quirrenbach | first3=A. | last4=Mitchell | first4=D. S. | last5=Fischer | first5=D. A. | last6=Marcy | first6=G. W. | last7=Butler | first7=R. P. | title=Precise radial velocities of giant stars. I. Stable stars | journal=Astronomy and Astrophysics | volume=454 | issue=3 | pages=943–949 | month=August | year=2006 | doi=10.1051/0004-6361:20064946 | bibcode=2006A&A...454..943H | arxiv=astro-ph/0604502 | postscript=. }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Aries*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=83}}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M | postscript=. }}</ref>
+
+<ref name=mnras172_667>{{citation | last1=Jennens | first1=P. A. | last2=Helfer | first2=H. L. | title=A new photometric metal abundance and luminosity calibration for field G and K giants. | journal=Monthly Notices of the Royal Astronomical Society | volume=172 | pages=667–679 | month=September | year=1975 | bibcode=1975MNRAS.172..667J | postscript=. }}</ref>
+
+<ref name=mnras408_2_1225>{{citation | display-authors=1 | last1=Puzeras | first1=E. | last2=Tautvaišienė | first2=G. | last3=Cohen | first3=J. G. | last4=Gray | first4=D. F. | last5=Adelman | first5=S. J. | last6=Ilyin | first6=I. | last7=Chorniy | first7=Y. | title=High-resolution spectroscopic study of red clump stars in the Galaxy: iron-group elements | journal=Monthly Notices of the Royal Astronomical Society | volume=408 | issue=2 | pages=1225–1232 | month=October | year=2010	 | doi=10.1111/j.1365-2966.2010.17195.x | bibcode=2010MNRAS.408.1225P | arxiv=1006.3857 | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Ari -- Variable Star | work=SIMBAD Astronomical Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Arietis | accessdate=2012-08-04 | postscript=. }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=gcvs>{{citation | last1=Samus | first1=N. N. | last2=Durlevich | first2=O. V. | last3=Kazarovets | first3=R. V. | title=NSV 01066 | work=[[General Catalogue of Variable Stars]] | url=http://www.sai.msu.su/gcvs/cgi-bin/ident.cgi?cat=HD++&num=19787 | accessdate=2012-08-04 | postscript=. }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%20951 HR 951]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=03+11+37.7655%2B19+43+36.039&ident=NSV++1066&submit=Aladin+previewer Image Delta Arietis]
+
+{{Stars of Aries}}
+
+[[Category:Flamsteed objects|Arietis, 57]]
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Hipparcos objects|087379]]
+[[Category:Aries (constellation)]]
+[[Category:Bayer objects|Arietis, Delta]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:بطين (نجم)]]
+[[ca:Delta Arietis]]
+[[cs:Botein]]
+[[de:Botein]]
+[[es:Botein]]
+[[fa:بطین]]
+[[fr:Delta Arietis]]
+[[ko:양자리 델타]]
+[[id:Delta Arietis]]
+[[it:Delta Arietis]]
+[[lb:Botein]]
+[[nl:Botein]]
+[[pt:Delta Arietis]]
+[[ru:Дельта Овна]]
+[[sk:Botein]]
+[[zh:天阴四]]

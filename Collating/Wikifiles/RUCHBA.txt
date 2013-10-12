@@ -1,0 +1,21 @@
+{{DISPLAYTITLE:Omega<sup>1</sup> Cygni}}
+{{starbox short
+|constell= [[Cygnus (constellation)|Cygnus]]
+|name= Omega<sup>1</sup> Cygni
+|type= B2.5IV <ref name=SIMBAD> SIMBAD, [http://simbak.cfa.harvard.edu/simbad/sim-basic?Ident=Omega1+Cygni&submit=SIMBAD+search V2014 Cygni] (accessed 27 August 2012) </ref>
+|ra=   {{RA|20|30|03.54116}} <ref name=SIMBAD/>
+|dec=  {{DEC|+48|57|05.6446}} <ref name=SIMBAD/>
+}}
+'''Omega<sup>1</sup> Cygni''' ('''ω<sup>1</sup> Cyg''') is a [[star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]]. Its [[apparent magnitude]] is 4.94.
+
+==References==
+{{reflist}}
+
+{{Stars of Cygnus}}
+
+[[Category:Cygnus (constellation)]]
+[[Category:B-type subgiants]]
+[[Category:B-type stars]]
+[[Category:Bayer objects|Cygni, Omega1]]
+
+{{Star-stub}}

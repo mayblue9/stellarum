@@ -1,0 +1,101 @@
+{{Starbox begin
+ | name = Epsilon Aquarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aquarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquarius constellation and its surroundings]]
+     <div style="position: absolute; left: 73.9%; top: 43.2%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of ε Aquarii (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|20|47|40.55260}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|−09|29|44.7877}}<ref name=aaa474_2_653/>
+ | appmag_v    = 3.77<ref name=pasp84_500_584/>
+ | constell    = [[Aquarius (constellation)|Aquarius]]
+}}
+{{Starbox character
+ | class       = A1&nbsp;V<ref name=pasp84_500_584/>
+ | b-v         = –0.001<ref name=saooc8_59/>
+ | u-b         = +0.029<ref name=saooc8_59/>
+ | variable    = Suspected<ref name=SIMBAD/>
+}}
+{{Starbox astrometry
+ | radial_v    = –16<ref name=scfs/>
+ | prop_mo_ra  = +33.98<ref name=aaa474_2_653/>
+ | prop_mo_dec = -34.77<ref name=aaa474_2_653/>
+ | parallax    = 15.70
+ | p_error     = 0.21
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    =
+}}
+{{Starbox detail
+ | mass        = 
+ | radius      = 
+ | luminosity  = 
+ | temperature = 9,470<ref name=aaa294_2_536/>
+ | gravity     = 3.64<ref name=aaa294_2_536/>
+ | metal_fe    = +0.07<ref name=aaa294_2_536/>
+ | rotational_velocity = 70<ref name=pasp84_500_584/>
+ | age_myr     = 240<ref name=apj653_1_675/>
+}}
+{{Starbox catalog
+ | names = Albali, 2&nbsp;Aquarii, [[Bonner Durchmusterung|BD]]-10° 5506, [[FK5]] 781, [[Henry Draper Catalogue|HD]] 198001, [[Hipparcos catalogue|HIP]] 102618, [[Bright Star Catalogue|HR]] 7950, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 144810.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Epsilon Aquarii''' (ε Aqr, ε Aquarii) is the [[Bayer designation]] for a star in the [[celestial equator|equatorial]] [[zodiac]] [[constellation]] of [[Aquarius (constellation)|Aquarius]]. It has an the traditional name '''Albali''' and is visible to the naked eye with an [[apparent visual magnitude]] of 3.77.<ref name=pasp84_500_584/> The distance to this star can be determined from [[parallax]] measurements, yielding an estimated value of around {{Convert|208|ly|pc}} from Earth.<ref name=aaa474_2_653/> Epsilon Aquarii is an [[A-type main sequence star]] with a [[stellar classification]] of A1&nbsp;V.<ref name=pasp84_500_584/>
+
+==Etymology==
+This star has an obscure traditional name, '''Albali''', from the Arabic البالع ''albāli‘'' "the swallower". (See also [[Albulaan (disambiguation)|Albulaan]].) In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Nir Saad Bula''' ('''نير سعد ألبلع''' - ''nayyir sa'd al bulaʽ''), which was translated into [[Latin]] as '''Lucida Fortunæ Dissipantis''', meaning ''the brightest of luck of the swallower''.<ref name=mnras55_429/> This star, along with [[Mu Aquarii|μ Aqr]] (Albulaan) and  [[Nu Aquarii|ν Aqr]] (Albulaan), were '''al Bulaʽ''' ('''البلع'''), the Swallower.<ref name=pa52_3_12/><ref name=allen1963/><ref>ε Aqr as '''Nir Saad Bula''' or '''Lucida Fortunæ Dissipantis''' (the brightest of luck of the swallower) and the common name is '''Albali'''. [[Mu Aquarii|μ Aqr]] and [[Nu Aquarii|ν Aqr]]  was already designated as the common name '''Albulaan''', the plural form of '''al Bulaʽ'''</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|奎宿}} ({{lang|zh-Latn|Nǚ Sù}}), meaning ''[[Girl (Chinese constellation)|Girl]] (asterism)'' (or ''Woman''), refers to an asterism consisting of ε Aquarii, [[Mu Aquarii|μ Aquarii]], [[4 Aquarii]], [[5 Aquarii]] and [[3 Aquarii]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Aquarii itself is known as {{lang|zh|女宿一}} ({{lang|zh-Latn|Nǚ Sù yī}}, {{lang-en|the First Star of Girl / Woman}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa294_2_536>{{citation | last1=Hill | first1=G. M. | title=Compositional differences among the A-type stars. 2: Spectrum synthesis up to V sin i = 110 km/s | journal=Astronomy and Astrophysics | volume=294 | issue=2 | pages=536–546 | month=February | year=1995 | bibcode=1995A&A...294..536H | postscript=. }}</ref>
+
+<ref name=pasp84_500_584>{{citation | last1=Levato | first1=O. H. | title=Rotational Velocities and Spectral Types of Some A-Type Stars | journal=Publications of the Astronomical Society of the Pacific | volume=84 | issue=500 | page=584 | month=August | year=1972 | doi=10.1086/129336 | bibcode=1972PASP...84..584L | postscript=. }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W | postscript=. }}</ref>
+
+<ref name=saooc8_59>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=South African Astronomical Observatory Circulars | volume=8 | page=59 | year=1984 | bibcode=1984SAAOC...8...59C | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=eps Aqr -- Star suspected of Variability  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Epsilon+Aquarii | accessdate=2012-06-29 | postscript=. }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K | postscript=. }}</ref>
+
+<ref name=pa52_3_12>{{citation | last1=Davis Jr. | first1=G. A. | bibcode=1944PA.....52....8D | title=The Pronunciations, Derivations, and Meanings of a Selected List of Star Names | journal=Popular Astronomy | volume=52 | issue=3 | month=October | year=1944 | page=12 | postscript=. }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Aquarius*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=53 | postscript=. }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 | postscript=. }}</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=20+47+40.5515-09+29+44.793&ident=HD+198001&submit=Aladin+previewer Image Epsilon Aquarii]
+
+{{Stars of Aquarius}}
+
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Aquarius (constellation)]]
+[[Category:Bayer objects|Aquarii, Epsilon]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:البالع (نجم)]]
+[[ca:Èpsilon Aquarii]]
+[[de:Albali]]
+[[es:Albali]]
+[[fa:بالع]]
+[[fr:Epsilon Aquarii]]
+[[id:Epsilon Aquarii]]
+[[it:Albali]]
+[[lb:Albali (Stär)]]
+[[nl:Albali]]
+[[pt:Epsilon Aquarii]]
+[[sk:Epsilon Aquarii]]

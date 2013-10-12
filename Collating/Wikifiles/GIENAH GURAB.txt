@@ -1,0 +1,122 @@
+{{Starbox begin
+ | name=Gamma Corvi
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Corvus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Corvus constellation and its surroundings]]
+     <div style="position: absolute; left: 55.7%; top: 38.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of γ Corvi (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|12|15|48.37081}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–17|32|30.9496}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.585<ref name=csaao8/>
+ | constell = [[Corvus (constellation)|Corvus]]
+}}
+{{Starbox character
+ | class    = B8&nbsp;III<ref name=houk1978/>
+ | b-v      = –0.111<ref name=csaao8/>
+ | u-b      = –0.344<ref name=csaao8/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = -4.2<ref name=gcsrv/>
+ | prop_mo_ra  = –158.61<ref name=aaa474_2_653/>
+ | prop_mo_dec = +21.86<ref name=aaa474_2_653/>
+ | parallax = 21.23
+ | p_error  = 0.20
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | component1 = γ Crv A
+ | mass     = 4.2{{+-|0.4|0.3}}<ref name=apj736_2_89/> or {{nowrap|5.7 ± 0.3}}<ref name=an330_4_317/>
+ | radius   = {{nowrap|4.8 ± 0.4}}<ref name=an330_4_317/>
+ | metal_fe = 
+ | rotation = 
+ | gravity  = {{nowrap|3.72 ± 0.20}}<ref name=an330_4_317/>
+ | age_myr  = 160{{+-|40|30}}<ref name=apj736_2_89/>
+ | luminosity  = 1,260<ref name=an330_4_317/>
+ | temperature = {{nowrap|15,900 ± 700}}<ref name=an330_4_317/>
+ | rotational_velocity = 30<ref name=apj573_1/>
+ | component2 = γ Crv B
+ | mass2    = 0.8<ref name=apj133_2/>
+}}
+{{Starbox catalog
+ | names = [[Bonner Durchmusterung|BD]]–16&nbsp;3424, [[Fifth Fundamental Catalogue|FK5]]&nbsp;457, [[Henry Draper catalogue|HD]]&nbsp;106625, [[Hipparcos catalogue|HIP]]&nbsp;59803, [[Harvard Revised catalogue|HR]]&nbsp;4662, [[Smithsonian Astrophysical Observatory|SAO]]&nbsp;157176.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Gamma Corvi''' (γ Crv, γ Corvi) is the brightest [[star]] in the southern [[constellation]] of [[Corvus (constellation)|Corvus]], having an [[apparent visual magnitude]] of 2.6.<ref name=csaao8/> Its traditional name is '''Gienah''', which it shares with [[Epsilon Cygni]]. The name "'''Gienah Corvi'''", or "'''Gienah Ghurab'''", may be used to distinguish it from this star in Cygnus. The distance to this star has be measured directly using the [[parallax]] technique, yielding an estimated {{Convert|154|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+==Properties==
+This is a [[giant star]] with a [[stellar classification]] of B8&nbsp;III.<ref name=houk1978/> It has around five times the Sun's radius,<ref name=an330_4_317/> with mass estimates ranging from 4.2<ref name=apj736_2_89/> to 5.7<ref name=an330_4_317/> times the mass of the Sun. Gamma Corvi is radiating 1,260<ref name=an330_4_317/> times the luminosity of the Sun from its outer atmosphere at an [[effective temperature]] of 15,900&nbsp;K,<ref name=an330_4_317/> giving it a blue-white hue.<ref name=csiro/> The [[spectrum]] of this star displays an anomalously higher than normal abundance of the elements [[Mercury (element)|mercury]] and [[manganese]], making this an [[HgMn star]].<ref name=aaa447_2_685/> However, there are other elements that show large over or under abundances.<ref name=aaa320_580/> This [[Peculiar star|chemical peculiarity]] in an otherwise stable stellar atmosphere is most likely caused by separation of the elements through diffusion and gravitational settling.<ref name=aaa447_2_685/>
+
+Gamma Corvi has a confirmed stellar companion with a mass of about 0.8 times the Sun's, which may be orbiting at a separation of around 50&nbsp;[[Astronomical Unit|AU]] over a 158&nbsp;year period.<ref name=apj133_2/><ref name=apj736_2_89/> The photometry for this star suggests a stellar classification in the range K5–M5&nbsp;V.<ref name=aj133_2_545/>
+
+==Etymology and cultural significance==
+
+"Gienah" derives from [[Arabic language|Arabic]], from [[Ulugh Beg]]'s '''الجناح الغراب  اليمن''' ''al-janāħ al-ghirāb al-yaman'', meaning "the right wing of the crow", although on modern charts it marks the left wing. ''Al-janāħ al-ghirāb al-yaman'' or '''Djenah al Ghyrab al Eymen''' appeared in the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', which was translated into [[Latin]] as '''Dextra ala Corvi'''.<ref name=mnras55_429/>
+
+In [[Chinese language|Chinese]], {{lang|zh|軫宿}} ({{lang|zh-Latn|Zhěn Sù}}), meaning ''[[Chariot (Chinese constellation)|Chariot]] (asterism)'', refers to an asterism consisting of γ Corvi, [[Epsilon Corvi|ε Corvi]], [[Delta Corvi|δ Corvi]] and [[Beta Corvi|β Corvi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Corvi itself is known as {{lang|zh|軫宿一}} ({{lang|zh-Latn|Zhěn Sù yī}}, {{lang-en|the First Star of Chariot}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+In [[astrology]], Gienah is supposed to have a similar effect to [[Solar system in astrology#Mars|Mars]] and [[Solar system in astrology#Saturn|Saturn]], tending to promote greed and craftiness. It was one of the [[medieval]] [[Behenian fixed stars|Behenian stars]], associated with [[onyx]], [[burdock]], and a crow-like [[kabbalistic]] symbol [[Image:Agrippa1531 alaCorui.png]]. In this context it is sometimes referred to as Ala Corvi, "the wing of the crow or raven."{{Citation needed|date=February 2012}}<!-- for the entire paragraph -->
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=SIMBAD>{{citation | title=GIENAH CORVI -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=HD+106625 | accessdate=2010-05-02 }}</ref>
+
+<ref name=apj573_1>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=csaao8>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=Cicrulars of the South African Astronomical Observatory | volume=8 | page=59 | year=1984 | bibcode=1984SAAOC...8...59C }}</ref>
+
+<ref name=apj133_2>{{citation | first=Lewis C. | last=Roberts | title=Adaptive Optics Photometry and Astrometry of Binary Stars. II. A Multiplicity Survey of B Stars | journal=The Astronomical Journal | volume=133 | issue=2 | page=545 | doi=10.1086/510335 | bibcode=2007AJ....133..545R}}</ref>
+
+<ref name=an330_4_317>{{citation | display-authors=1 | last1=Hubrig | first1=S. | last2=Briquet | first2=M. | last3=De Cat | first3=P. | last4=Schoeller | first4=M. | last5=Morel | first5=T. | last6=Ilyin | first6=I. | title=New magnetic field measurements of beta Cephei stars and Slowly Pulsating B stars | journal=Astronomische Nachrichten | volume=330 | issue=4 | page=317  | month=January | year=2009 | bibcode=2009AN....330..317H | arxiv=0902.1314 | doi=10.1002/asna.200811187 }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=4 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1988MSS...C04....0H }}</ref>
+
+<ref name=apj736_2_89>{{citation | display-authors=1 | last1=Janson | first1=Markus | last2=Bonavita | first2=Mariangela | last3=Klahr | first3=Hubert | last4=Lafrenière | first4=David | last5=Jayawardhana | first5=Ray | last6=Zinnecker | first6=Hans | title=High-contrast Imaging Search for Planets and Brown Dwarfs around the Most Massive Stars in the Solar Neighborhood | journal=The Astrophysical Journal | volume=736 | issue=2 | page=89 | month=August | year=2011 | doi=10.1088/0004-637X/736/2/89 | bibcode=2011ApJ...736...89J |arxiv = 1105.2577 }}</ref>
+
+<ref name=aaa447_2_685>{{citation | display-authors=1 | last1=Adelman | first1=S. J. | last2=Caliskan | first2=H. | last3=Gulliver | first3=A. F. | last4=Teker | first4=A. | title=Elemental abundance analyses with DAO spectrograms. XXIX. The mercury-manganese stars 53 Tau, β Tau, γ Crv, and υ Her | journal=Astronomy and Astrophysics | volume=447 | issue=2 | pages=685–690 | month=February | year=2006 | doi=10.1051/0004-6361:20053581 | bibcode=2006A&A...447..685A }}</ref>
+
+<ref name=aaa320_580>{{citation | last1=Fremat | first1=Y. | last2=Houziaux | first2=L. | title=Elemental abundances in the Hg-Mn star γ Corvi | journal=Astronomy and Astrophysics | volume=320 | pages=580–585 | month=April | year=1997 | bibcode=1997A&A...320..580F }}</ref>
+
+<ref name=aj133_2_545>{{citation | last1=Roberts | first1=Lewis C., Jr. | last2=Turner | first2=Nils H. | last3=ten Brummelaar | first3=Theo A. | title=Adaptive Optics Photometry and Astrometry of Binary Stars. II. A Multiplicity Survey of B Stars | journal=The Astronomical Journal | volume=133 | issue=2 | pages=545–552 | month=February | year=2007 | doi=10.1086/510335 | bibcode=2007AJ....133..545R }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+* {{citation | last1=Kaler | first1=James | year=2004 | url=http://stars.astro.illinois.edu/sow/gienahcyg.html | title=Gienah Corvi | work=Stars | publisher=University of Illinois | accessdate=2012-02-17 }}.
+* Wright, Anne (2003). [http://www.winshop.com.au/annew/GienahCrv.html "The Fixed Stars: Gienah (Crv)"]. Retrieved July 11, 2005.
+
+{{Stars of Corvus}}
+
+[[Category:Bayer objects|Corvi, Gamma]]
+[[Category:B-type giants]]
+[[Category:Corvus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:جناح الغراب الأيمن (نجم)]]
+[[de:Gamma Corvi]]
+[[es:Gienah Gurab]]
+[[fa:گاما کلاغ]]
+[[fr:Gamma Corvi]]
+[[id:Gamma Corvi]]
+[[it:Gamma Corvi]]
+[[nl:Gienah Ghurab]]
+[[ja:からす座ガンマ星]]
+[[pl:Gienah]]
+[[pt:Gamma Corvi]]
+[[sk:Gienah Gurab]]
+[[zh:軫宿一]]

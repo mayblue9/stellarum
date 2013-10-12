@@ -1,0 +1,133 @@
+{{Starbox begin |
+| name=Caph, Beta Cassiopeiae }}
+{{Starbox image |
+| image =[[File:Cassiopeia constellation map.svg|250px]] 
+| caption = Caph is found at the top right of the "W"
+}}
+{{Starbox observe |
+  epoch=J2000 |
+  ra={{RA|00|09|10.68518}}<ref name=aaa474_2_653/> |
+  dec={{DEC|+59|08|59.2120}}<ref name=aaa474_2_653/> |
+  appmag_v=+2.28 (2.25&ndash;2.31)<ref name=gcvs/> |
+  constell=[[Cassiopeia (constellation)|Cassiopeia]] }}
+{{Starbox character |
+  class=F2 III-IV<ref name=aj77/> |
+  b-v=0.34<ref name=clpl4/> |
+  u-b=0.11<ref name=clpl4/> |
+  variable=[[Delta Scuti variable|Delta Scuti]]<ref name=asr31_2/> }}
+{{Starbox astrometry |
+  radial_v=11.3<ref name=rgcrv/> |
+  prop_mo_ra=523.50<ref name=aaa474_2_653/> |
+  prop_mo_dec=-179.77<ref name=aaa474_2_653/> |
+  parallax=59.58 |
+  p_error=0.38 |
+  parallax_footnote=<ref name=aaa474_2_653/> |
+  absmag_v=+1.16 }}
+{{Starbox detail|
+  mass={{nowrap|1.91 ± 0.02}}<ref name=apj732_2/> |
+  radius=3.43–3.69<ref name=apj732_2/> |
+  luminosity=27.3<ref name=apj732_2/> | 
+  temperature=7,079<ref name=asr31_2/> |
+  gravity=3.40<ref name=asr31_2/> |
+  metal_fe=0.03<ref name=apj732_2/> |
+  rotational_velocity = 71.0<ref name=aaa493_3_1099/> |
+  age_gyr=1.09–1.18<ref name=apj732_2/> }}
+{{Starbox catalog |
+  names=Caph, Chaph, Kaff, Al Sanam al Nakah,<ref name=allen/> 11 Cas, [[Henry L. Giclas catalogue|Gl]]&nbsp;8, [[Harvard Revised catalogue|HR]]&nbsp;21, [[Bonner Durchmusterung|BD]]+58 3, [[Henry Draper catalogue|HD]]&nbsp;432, [[Luyten Half-Second catalogue|LHS]]&nbsp;1027, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;16.00, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;21133, [[Fifth Fundamental Catalogue|FK5]]&nbsp;2, [[Hipparcos catalogue|HIP]]&nbsp;746, GC&nbsp;147, [[Star catalogue#ADS|ADS]]&nbsp;107, CCDM&nbsp;J00092+5909.<ref name=SIMBAD/> }}
+{{Starbox end}}
+
+'''Beta Cassiopeiae''' (β Cas, β Cassiopeiae) is a [[Delta Scuti variable]] [[star]] in the [[constellation]] [[Cassiopeia (constellation)|Cassiopeia]]. It is a [[subgiant]] or [[giant star|giant]] star belonging to the [[Stellar classification#Class_F|spectral class F2]], with a mean [[apparent magnitude]] of +2.27 and absolute magnitude of +1.16. It has the traditional name '''Caph''', from the Arabic word '''{{lang|ar|كف}}''' ''{{transl|ar|kaf}}'', "palm" (''i.e.'' reaching from the Pleiades), also known as '''{{transl|ar|Al Sanām al Nākah}}'''.<ref name=allen/> Another Arabic name is '''al-Kaff al-Khadib'''.<ref name=kunitzsch_smart2006/>
+
+==Visibility==
+With a mean [[apparent magnitude]] ([[UBV photometric system|V-band]]) of +2.27, it is one of the five stars which make up the 'W' of Cassiopeia, adjacent to the just brighter Schedar ([[Alpha Cassiopeiae]]).<ref name=kaler2002/> [[SN 1572]], traditionally known as Tycho's Star, appeared about 5 degrees to the northwest of Caph in 1572.<ref name=allen/>
+
+As a star in the deep northern hemisphere of the sky, Beta Cassiopeiae is prominent to viewers in the northern hemisphere but not often seen by those in the southern hemisphere. The constellation of Cassiopeia does not rise above the horizon to viewers in Tasmania, and only low if one were in Cairns.<ref name ="southern">{{cite book |title=The Australian Sky|author=Newell, W. J. |year=1965 |publisher=Jacaranda Press |location= |isbn=0-7016-0037-3|page=84}}</ref>
+
+==System==
+β Cassiopeiae is a yellow-white hued [[subgiant]] or [[giant star|giant]] of [[stellar classification|stellar class]] F2III-IV, with a surface temperature of 6,700 Kelvin.<ref name=kaler2002/> More than three times the size of and 28 times brighter than the sun, Caph has an absolute magnitude of +1.16. It was once an A-type star with about double the sun's mass.<ref name=apj732_2/> It is now in the process of cooling and expanding to become a [[red giant]]. Its core is likely to have used up its hydrogen and is shrinking and heating, while its outer envelope of hydrogen is expanding and cooling. Stars do not spend much time in this state and are relatively uncommon. Caph's [[corona]] is unusually weak.<ref name=kaler2002/><!-- cites previous five sentences -->
+
+β Cassiopeiae is a [[variable star]] of the [[Delta Scuti variable|Delta Scuti type]], in fact the second brightest of such stars in the sky after [[Altair]].<ref name=apj619_2_1072/> It is a monoperiodic pulsator,<ref name=poretti2000/> with a brightness that ranges from magnitude +2.25 to +2.31 with a period of 2.5 hours.<ref name=kaler2002/> This type of variables includes subgiant or [[main sequence]] stars of spectral classes F5–A0, having masses between 1.5–2.5 [[solar mass]]es and nearing the end of their core hydrogen fusion lifetime.<ref name=poretti2000/> Their pulsations are related to the same helium [[instability strip]] on the [[Hertzsprung–Russell diagram]] as that of classical [[Cepheid]]s. Delta Scuti stars are located at the intersection of the strip with the main sequence.<ref name=percy2007/>
+
+This star is rotating at about 92% of its critical speed, completing a full rotation every 1.12–1.16&nbsp;days. This is giving the star an [[oblate spheroid]] shape with an equatorial bulge that is 24% larger than the polar radius. This shape is causing the polar region to have a higher temperature than the equator: the temperature difference is about 1,000&nbsp;K. The axis of rotation is inclined about 20° to the line of sight from the Earth.<ref name=apj732_2/>
+
+β Cassiopeiae is a [[binary star]], with a faint companion, which orbits it every 27 days. Little else is known about this companion.<ref name=kaler_stars/>
+
+==Etymology and cultural significance==
+Originally, the pre-Islamic Arabic term ''al-Kaff al-Khadib'' "the stained hand" referred to the five stars comprising the 'W' of the constellation Cassiopeia, and depicted a hand stained with henna. The term was abbreviated and somehow came to signify β Cassiopeiae alone. The old "stained hand" was part of an asterism stretching from the Pleiades, which signified the "head" through Taurus and Perseus and into Cassiopeia, while the other "hand" was in Cetus.<ref name=kunitzsch_smart2006/>
+
+Alternate common names are ''Chaph'' and ''Kaff'', as well as ''al-Sanam al-Nakah'' "the Camel's Hump".<ref name=allen/>
+
+In [[Chinese language|Chinese]], {{lang|zh|王良}} ({{lang|zh-Latn|Wáng Liáng}}), meaning ''[[Legs (Chinese constellation)|Wang Liang]]<ref>Wang Liang was a famous charioteer during the [[Spring and Autumn Period]]</ref>'', refers to an asterism consisting of β Cassiopeiae, [[Kappa Cassiopeiae|κ Cassiopeiae]], [[Eta Cassiopeiae|η Cassiopeiae]], [[Alpha Cassiopeiae|α Cassiopeiae]] and [[Lambda Cassiopeiae|λ Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Cassiopeiae itself is known as {{lang|zh|王良一}} ({{lang|zh-Latn|Wáng Liáng yī}}, {{lang-en|the First Star of Wang Liang}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Together with [[Alpha Andromedae]] (Alpheratz) and [[Gamma Pegasi]] (Algenib),  Beta Cassiopeiae was one of three bright stars known as the  "Three Guides" marking the equinoctial colure.<ref name=allen/> This is an imaginary line running due south from Beta Cassiopeiae through Alpha Andromedae to the celestial equator, at a point where the sun's path (the ecliptic) crosses it each autumn and spring equinox.<ref name=kaler2002/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{cite conference | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=aj77>{{cite journal | last1=Morgan | first1=W. W. | last2=Abt | first2=H. A. | title=The spectral classification of the F stars of intermediate luminosity | journal=Astronomical Journal | volume=77 | pages=35–37 | month=February | year=1972 | doi=10.1086/111242 | bibcode=1972AJ.....77...35M }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=gcvs>{{cite book | display-authors=1 | last1=Kukarkin | first1=B. V. | last2=Kholopov | first2=P. N. | last3=Pskovsky | first3=Y. P. | last4=Efremov | first4=Y. N. | last5=Kukarkina | first5=N. P. | last6=Kurochkin | first6=N. E. | last7=Medvedeva | first7=G. I. | title=General Catalogue of Variable Stars containing information on 20437 variable stars discovered and designated till 1968 | edition=3rd | year=1971 | bibcode=1971GCVS3.C......0K }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=V* bet Cas -- Variable Star of delta Sct type | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Cassiopeiae | accessdate=2011-12-16 }}</ref>
+
+<ref name=asr31_2>{{cite journal | last1=Daszyńska | first1=J. | last2=Cugier | first2=H. | year=2003 | title=Far-Ultraviolet light curves of the δ Scuti variable: β Cassiopeiae | journal=Advances in Space Research | volume=31 | issue=2 | pages=381–386 | doi=10.1016/S0273-1177(02)00630-0 | bibcode=2003AdSpR..31..381D }}</ref>
+
+<ref name=kunitzsch_smart2006>{{cite book | title=Dictionary of Modern Star Names | last1=Kunitzsch | first1=Paul | last2=Smart | first2=Tim | year=2006 | publisher=Sky Publishing | location=Cambridge, MA | isbn=1-931559-44-9 | page=26 }}</ref>
+
+<ref name=aaa493_3_1099>{{cite journal | last1=Schröder | first1=C. | last2=Reiners | first2=A. | last3=Schmitt | first2=J. H. M. M. | title=Ca II HK emission in rapidly rotating stars. Evidence for an onset of the solar-type dynamo | journal=Astronomy and Astrophysics | volume=493 | issue=3 | pages=1099–1107 | month=January | year=2009 | doi=10.1051/0004-6361:200810377 | bibcode=2009A&A...493.1099S }}</ref>
+
+<ref name=apj619_2_1072>{{cite journal | display-authors=1 | last1=Buzasi | first1=D. L. | last2=Bruntt | first2=H. | last3=Bedding | first3=T. R. | last4=Retter | first4=A. | last5=Kjeldsen | first5=H. | last6=Preston | first6=H. L. | last7=Mandeville | first7=W. J. | last8=Suarez | first8=J. C. | last9=Catanzarite | first9=J. | journal=The Astrophysical Journal | year=2005 | title=Altair: The Brightest δ Scuti Star | volume=619 | issue=2 | pages=1072–76 | doi=10.1086/426704 | bibcode=2005ApJ...619.1072B | arxiv=astro-ph/0405127 }}</ref>
+
+<ref name=apj732_2>{{cite journal | display-authors=1 | last1=Che | first1=X. | last2=Monnier | first2=J. D. | last3=Zhao | first3=M. | last4=Pedretti | first4=E. | last5=Thureau | first5=N. | last6=Mérand | first6=A. | last7=ten Brummelaar | first7=T. | last8=McAlister | first8=H. | last9=Ridgway | first9=S. T. | title=Colder and Hotter: Interferometric Imaging of β Cassiopeiae and α Leonis | journal=The Astrophysical Journal | volume=732 | issue=2 | month=May | year=2011 | doi=10.1088/0004-637X/732/2/68 | bibcode=2011ApJ...732...68C |arxiv = 1105.0740 }}</ref>
+
+<ref name=kaler2002>{{cite book | title=The Hundred Greatest Stars | last1=Kaler | first1=James B. | year=2002 | publisher=Copernicus Books | location=New York | isbn=0-387-95436-8 | page=27 }}</ref>
+
+<ref name=kaler_stars>{{cite web | title=CAPH (Beta Cassiopeiae) | last1=Kaler | first1=James B. | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/caph.html | accessdate=2011-12-15 }}</ref>
+
+<ref name=percy2007>{{cite book | first1=John R. | last1=Percy | title=Understanding variable stars | year=2007 | publisher=Cambridge University Press | isbn=978-0-521-23253-1 | pages=139–144, 182–187 }}</ref>
+
+<ref name=allen>{{cite book | title=Star-names and their meanings | last1=Allen | first1=Richard Hinckley | year=1963 | origyear=1899 | publisher=Dover Publications | location=New York, NY | isbn=1-931559-44-9 | page=146 }}</ref>
+
+<ref name=poretti2000>{{cite journal | last1=Poretti | first1=E. | contribution=The Frequency Content of δ Scuti Stars as Determined by Photometry | title=Delta Scuti and Related Stars, Reference Handbook and Proceedings of the 6th Vienna Workshop in Astrophysics, held in Vienna, Austria, 4–7 August 1999 | series=ASP Conference Series | volume=210 | editor1-first=Michel | editor1-last=Breger | editor2-first=Michael | editor2-last=Montgomery | page=45 | year=2000 | bibcode=2000ASPC..210...45P |arxiv = astro-ph/0002304 }}</ref>
+
+}}
+
+==External links==
+*{{WikiSky}}
+{{Nearest star systems|11}}
+{{Stars of Cassiopeia}}
+
+[[Category:Bayer objects|Cassiopeiae, Beta]]
+[[Category:Cassiopeia (constellation)]]
+[[Category:Delta Scuti variables]]
+[[Category:F-type subgiants]]
+[[Category:F-type giants]]
+[[Category:Stars with proper names]]
+
+[[ca:Caph]]
+[[cs:Caph]]
+[[de:Caph]]
+[[es:Caph]]
+[[fa:کف‌الخضیب]]
+[[fr:Beta Cassiopeiae]]
+[[ko:카시오페이아자리 베타]]
+[[hi:बेटा कैसिओपिये तारा]]
+[[id:Beta Cassiopeiae]]
+[[it:Beta Cassiopeiae]]
+[[lb:Caph (Stär)]]
+[[nl:Caph]]
+[[ja:カフ (恒星)]]
+[[pl:Caph]]
+[[pt:Beta Cassiopeiae]]
+[[ru:Каф]]
+[[sk:Caph]]
+[[fi:Caph]]
+[[sv:Caph]]
+[[uk:Каф (зоря)]]
+[[zh:王良一]]

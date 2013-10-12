@@ -1,0 +1,142 @@
+{{About|the star|ships with the same name|USS Denebola}}
+{{Starbox begin
+ | name    = Denebola
+}}
+{{Starbox image
+ | image=<div style="position: relative">[[File:Leo IAU.svg|250px||alt=Diagram showing star positions and boundaries of the Cepheus constellation and its surroundings]]
+   <div style="position: absolute; left:18.0%; top:38.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+ | caption=Location of Denebola (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|11|49|03.57834}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+14|34|19.4090}}<ref name=aaa474_2_653/>
+| appmag_v = 2.113<ref name=sps1966/>
+| constell = [[Leo (constellation)|Leo]]
+}}
+{{Starbox character
+| class    = A3&nbsp;V<ref name=aj74_375/>
+| b-v      = +0.107<ref name=sps1966/>
+| u-b      = +0.153<ref name=sps1966/>
+| variable = [[Delta Scuti variable|δ Sct]]<ref name="mkrtichian"/>
+}}
+{{Starbox astrometry
+| radial_v = –0.2<ref name=rgcrv/>
+| prop_mo_ra  = –497.68<ref name=aaa474_2_653/>
+| prop_mo_dec = –114.67<ref name=aaa474_2_653/>
+| parallax = 90.91
+| p_error  = 0.52
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| radius   = 1.728<ref name="aaa426"/>
+| mass     = 1.75<ref name="aaa426" />
+| luminosity  = 15<ref name="aaa426" />
+| temperature = 8,500<ref name="aaa427"/>
+| gravity  = 4.0<ref name="aaa427" />
+| metal_fe = +0.00<ref name="aaa426" />
+| rotational_velocity = 128<ref name=aaa463_2_671/>
+| age      = {{nowrap|(1–3.8) × 10<sup>8</sup>}}<ref name="aaa426" />
+}}
+{{Starbox catalog
+|   names = β&nbsp;Leonis, Deneb Aleet, 94&nbsp;Leo, [[Gliese-Jahreiss catalogue|GJ&nbsp;448]], [[Harvard Revised catalogue|HR&nbsp;4534]], [[Bonner Durchmusterung|BD&nbsp;+15°2383]], [[Henry Draper catalogue|HD&nbsp;102647]], [[Luyten Half-Second catalogue|LHS&nbsp;2462]], [[Luyten Two-Tenths catalogue|LTT&nbsp;13249]], [[General Catalogue of Trigonometric Parallaxes|GCTP&nbsp;2738.00]], [[Smithsonian Astrophysical Observatory Star Catalog|SAO&nbsp;99809]], [[Fifth Fundamental Catalogue|FK5&nbsp;444]], [[Hipparcos catalogue|HIP&nbsp;57632]].<ref name="SIMBAD" /><ref name=alcyone/>
+}}
+{{Starbox end}}
+'''Denebola''' (β Leo, β Leonis, [[beta (letter)|Beta]] Leonis) is the [[List of stars in Leo|second brightest star]] in the [[zodiac]] [[constellation]] of [[Leo (constellation)|Leo]]. It is an [[A-type main sequence star]] with 75% more mass than the Sun and twelve times the Sun's luminosity. Based on [[parallax]] measurements from the [[Hipparcos]] astrometry satellite,<ref name=GSM/> the star is at a distance of about {{convert|36|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/> Its [[apparent visual magnitude]] is 2.14, making it readily visible to the naked eye. Denebola is a [[Delta Scuti variable|Delta Scuti type]] [[variable star]], meaning its luminosity varies very slightly over a period of a few hours.<ref name="mkrtichian" />
+
+==Etymology==
+Its name is shortened from ''{{transl|ar|Deneb Alased}}'', from the [[Arabic language|Arabic]] phrase '''{{lang|ar|ذنب الاسد}}''' ''{{transl|ar|ðanab al-asad}}'' "tail of the lion", as it represents the lion's tail—the star's position in the Leo constellation.<ref name=allen1963/> [[Deneb]] in [[Cygnus (constellation)|Cygnus]] has a similar name origin. In the ''Alphonsine Tables'' it was recorded as Denebalezeth.<ref name=Kunitzsch86>{{cite journal|last=Kunitzsch|first=Paul|date=1986|title=The Star Catalogue Commonly Appended to the Alfonsine Tables|journal=Journal for the History of Astronomy|volume=17|issue=49|pages=89-98|url=http://adsabs.harvard.edu/full/1986JHA....17...89K|bibcode = 1986JHA....17...89K }}</ref> On [[Richard Anthony Proctor|R. A. Proctor]]'s 1871 star chart of the northern hemisphere it was designated ''Deneb Aleet''. To ancient Chinese astronomers, it formed part of the five-star ''{{lang|zh-Latn|Woo Ti Tsi}} 五帝座一'': the Seat of the Twelve Emperors. In [[astrology]], Denebola was believed to portend misfortune and disgrace.<ref name=allen1899/> <!--In [[Hindu]] [[Hindu calendar|astronomy]], Denebola corresponds to the [[Nakshatra]] [[Uttara Phalguni]] - this is meaningless at the moment, please clarify.-->
+
+In [[Johann Bayer]]'s ''[[Uranometria]]'', published in 1603, the star was designated β Leonis; for the second-brightest star in the constellation of Leo. In 1725, [[John Flamsteed]] designated this star 94 Leo. (The [[Flamsteed designation]] was assigned on the basis of increasing [[right ascension]] within the constellation, rather than luminosity.) Additional designations followed as this star was recorded in subsequent [[star catalogue]]s.
+
+==Properties==
+Denebola is a relatively young star with an age estimated at less than 400&nbsp;million years. Interferometric observations give a radius that is about 173% that of the Sun. However, the high rate of rotation results in an oblate shape with an [[equatorial bulge]]. It has 75% more mass than the Sun, which results in a much higher overall luminosity and a shorter life span on the [[main sequence]].<ref name="aaa426" />
+
+Based upon the star's [[spectrum]], it has a [[stellar classification]] of A3&nbsp;V,<ref name=aj74_375/> with the [[luminosity class]] 'V' indicating this is a normal [[main sequence]] star that is generating energy through the [[nuclear fusion]] of hydrogen at its core. The [[effective temperature]] of Denebola's outer envelope is about 8,500&nbsp;[[Kelvin|K]], which results in the white hue typical of A-type stars. Denebola has a high [[stellar rotation|projected rotational velocity]] of 128&nbsp;km/s, which is of the same [[order of magnitude]] as for the very rapidly rotating star [[Achernar]]. Compare this to the Sun's more leisurely equatorial rotation velocity of 2&nbsp;km/s.<ref name="aaa427" /> This star is believed to be a [[Delta Scuti variable]] star that exhibits fluctuations in luminosity of 0.025 magnitudes roughly ten times per day.<ref name="mkrtichian" />
+
+Denebola shows a strong [[infrared excess]], which most likely means there is a circumstellar [[debris disk]] of cool dust in orbit around it.<ref name=aaa181_1_77/> As our [[solar system]] is believed to have formed out of such a disk, Denebola and similar stars such as [[Vega]] and [[Beta Pictoris]] may be good candidate locations for [[extrasolar planet]]s. The dust surrounding Denebola has a temperature of about {{convert|120|K|°C|abbr=on}}. Observations with the [[Herschel Space Observatory]] have provided resolved images, which show the disk to be located at a radius of 39&nbsp;[[Astronomical Unit]]s from the star, or 39 times the distance from the Earth to the Sun.<ref name=aaa518_L135/>
+
+[[Kinematic]] studies have shown that Denebola is part of a [[stellar association]] dubbed the [[IC 2391]] supercluster. All the stars of this group share a roughly common motion through space, although they are not gravitationally bound. This suggests that they were born in the same location, and perhaps initially formed an [[open cluster]]. Other stars in this association include [[Alpha Pictoris]], [[Beta Canis Minoris]] and the [[open cluster]] IC 2391. In total more than sixty probable members of the group have been identified.<ref name=aj102_2028/>
+
+==Namesakes==
+Denebola is used for the name of three [[United States]] navy ships: [[USS Denebola (AD-12)]], [[USS Denebola (AF-56)]] and [[USNS Denebola (T-AKR-289)]].
+
+==See also==
+*[[List of nearest bright stars]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name="mkrtichian">{{cite conference | last1=Mkrtichian | first1=D. E. | last2=Yurkov | first2=A. | title=β Leo - Back to Delta Scuti Stars? | booktitle=Proceedings of the 20th Stellar Conference of the Czech and Slovak Astronomical Institutes | pages=172 | publisher=Dordrecht, D. Reidel Publishing Co. | date=5th-7th November 1997 | location=Brno, Czech Republic | bibcode=1998vsr..conf..143M | isbn=80-85882-08-6 }}</ref>
+
+<ref name="aaa426">{{cite journal | display-authors=1 | last1=Di Folco | first1=E. | last2=Thévenin | first2=F. | last3=Kervella | first3=P. | last4=Domiciano de Souza | first4=A. | last5=Coudé du Foresto | first5=V. | last6=Ségransan | first6=D. | last7=Morel | first7=P. | title=VLTI near-IR interferometric observations of Vega-like stars | journal=Astronomy and Astrophysics | year=2004 | volume=426 | issue=2 | pages=601–617 | bibcode=2004A&A...426..601D | doi=10.1051/0004-6361:20047189 }}</ref>
+
+<ref name="aaa427">{{cite journal | last1=Acke | first1=B. | last2=Waelkens | first2=C. | title=Chemical analysis of 24 dusty (pre-)main sequence stars | journal=Astronomy and Astrophysics | year=2004 | volume=427 | issue=3 | pages=1009–1017 | arxiv=astro-ph/0408221 | doi=10.1051/0004-6361:20041460| bibcode=2004A&A...427.1009A }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Denebola | title=SIMBAD query result: V* bet Leo -- Variable Star of delta Sct type | publisher=Centre de Données astronomiques de Strasbourg | accessdate= 2007-06-18 }}</ref>
+
+<ref name=alcyone>{{cite web | url=http://www.alcyone.de/SIT/mainstars/SIT000544.htm | title=Denebola | publisher=Alcyone | accessdate=2006-08-10 }}</ref>
+
+<ref name=allen1899>{{cite book | first=Richard Hinckley | last=Allen | year=1899 | title=Star Names and their Meanings | publisher=G. E. Stechert | location=New York, Leipzig }}</ref>
+
+<ref name=aaa181_1_77>{{cite journal | last=Cote | first=J. | title=B and A type stars with unexpectedly large colour excesses at IRAS wavelengths | journal=Astronomy and Astrophysics | year=1987 | volume=181 | issue=1 | pages=77–84 | bibcode=1987A&A...181...77C }}</ref>
+
+<ref name=aaa518_L135>{{cite journal | display-authors=1 | last1=Matthews | first1=B. C. | last2=Sibthorpe | first2=B. | last3=Kennedy | first3=G. | last4=Phillips | first4=N. | last5=Churcher | first5=L. | last6=Duchêne | first6=G. | last7=Greaves | first7=J. S. | last8=Lestrade | first8=J.-F. | last9=Moro-Martin | first9=A. | title=Resolving debris discs in the far-infrared: Early highlights from the DEBRIS survey | journal=Astronomy and Astrophysics | year=2010 | volume=518 | pages=L135 | doi=10.1051/0004-6361/201014667 | bibcode=2010A&A...518L.135M }}</ref>
+
+<ref name=aj102_2028>{{cite journal | last=Eggen | first=O. J. | title=The IC 2391 supercluster | journal=Astronomical Journal | year=1991 | volume=102 | pages=2028–2040 | bibcode=1991AJ....102.2028E | doi=10.1086/116025 }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Leo*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=258 }}</ref>
+
+}}
+
+==External links==
+* {{cite web | last=Kaler | first=Jim | url=http://stars.astro.illinois.edu/sow/denebola.html | title=Denebola | work=Stars | publisher=University of Illinois | accessdate=2012-01-14 }}
+
+{{Nearest bright star systems|4.}}
+{{Stars of Leo}}
+
+[[Category:Bayer objects|Leonis, Beta]]
+[[Category:Delta Scuti variables]]
+[[Category:Leo (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:ذيل الأسد (نجم)]]
+[[be:Дэнебола]]
+[[cs:Denebola]]
+[[de:Denebola]]
+[[es:Denébola]]
+[[fa:ذنب‌الاسد]]
+[[fr:Beta Leonis]]
+[[ko:데네볼라]]
+[[hi:उत्तर फाल्गुनी तारा]]
+[[id:Beta Leonis]]
+[[it:Denebola]]
+[[he:דנבולה]]
+[[lb:Denebola (Stär)]]
+[[mk:Денебола]]
+[[nl:Denebola]]
+[[ja:デネボラ]]
+[[no:Denebola]]
+[[pl:Denebola]]
+[[pt:Denebola]]
+[[ru:Денебола]]
+[[sk:Denebola (hviezda)]]
+[[fi:Denebola]]
+[[sv:Denebola]]
+[[uk:Денебола]]
+[[zh:五帝座一]]

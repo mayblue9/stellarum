@@ -1,0 +1,159 @@
+{{Starbox begin
+| name=Epsilon Boötis A/B
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Boötes IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Boötes constellation and its surroundings]]
+     <div style="position: absolute; left: 41.5%; top: 49.2%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ε Boötes (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|14|44|59.21746}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+27|04|27.2099}}<ref name=aaa474_2_653/>
+| appmag_v = 2.37<ref name=clpl4_99/> / 5.12<ref name=SIMBAD_B/>
+| constell = [[Boötes]]
+}}
+{{Starbox character
+| class    = K0&nbsp;II-III<ref name=aj110_2425/> + A2&nbsp;V<ref name=aj74_375/>
+| b-v      = +0.97<ref name=clpl4_99/>
+| u-b      = +0.73<ref name=clpl4_99/>
+| r-i      = 
+| v-r      = 
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = -16.31<ref name=aj135_1_209/>
+| prop_mo_ra  = -50.95<ref name=aaa474_2_653/>
+| prop_mo_dec = +21.07<ref name=aaa474_2_653/>
+| parallax = 16.10
+| p_error  = 0.66
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| component1 = A
+| mass     = 4.6<ref name=aaa352_217/>
+| radius   = 33<ref name=aj135_1_209/>
+| luminosity  = 501<ref name=aj135_1_209/>
+| temperature = 4,550<ref name=aj135_1_209/>
+| gravity  = 2.2<ref name=aj135_1_209/>
+| metal    = –0.13<ref name=aj135_1_209/>
+| rotational_velocity = 10.9<ref name=aj135_1_209/>
+| age_myr  = {{nowrap|37.4 ± 4.2}}<ref name=mnras410_1_190/>
+| component2 = B
+| rotational_velocity2 = 123<ref name=aaa393_897/>
+}}
+{{Starbox catalog
+| names = Eps&nbsp;Boo, Izar, Pulcherrima, Mirac, Mirak, Mirach, 36&nbsp;Boo, [[Bonner Durchmusterung|BD]] +27&nbsp;2417, [[Hipparcos catalogue|HIP]]&nbsp;72105<ref name=SIMBAD/><br>'''A:''' [[Henry Draper catalogue|HD]]&nbsp;129989, [[Harvard Revised catalogue|HR]]&nbsp;5506, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;83500.<ref name=SIMBAD_A/><br>'''B:''' HD&nbsp;129988, HR&nbsp;5505.<ref name=SIMBAD_B/>
+}}
+{{Starbox end}}
+'''Epsilon Boötis''' (ε Boo, ε Boötis) is a [[double star]] in the northern [[constellation]] of [[Boötes]]. It has the traditional names '''Izar''' and '''Pulcherrima'''. The star system can be viewed with the unaided eye at night, but resolving the pair with a small telescope is challenging; an [[aperture]] of {{Convert|76|mm|in|abbr=on}} or greater is required.<ref name=monks2010/>
+
+==Properties==
+[[File:PositionEpsBoo.PNG|thumb|left|Illustration of the two components of Epsilon Boötis. North is to the top.]]
+Epsilon Boötis consists of a pair of stars with an [[angular separation]] of {{nowrap|2.852 ± 0.014 [[arcsecond]]s}} at a [[position angle]] of {{nowrap|342.°9 ± 0.°3}}.<ref name=mnras387_2_772/> The brighter component (A) has an [[apparent visual magnitude]] of 2.37,<ref name=clpl4_99/> making it readily visible to the naked eye at night. The fainter component (B) is at magnitude 5.12,<ref name=SIMBAD_B/> which by itself would also be visible to the naked eye. [[Parallax]] measurements from the [[Hipparcos]] astrometry satellite<ref name=aaa323_L49/><ref name=GSM/> put the system at a distance of about {{Convert|203|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/> This means the pair has a projected separation of 185&nbsp;[[Astronomical Unit]]s and they orbit each other with a period of at least 1,000 years.<ref name=kaler/>
+
+The brighter member has a [[stellar classification]] of K0&nbsp;II-III,<ref name=aj110_2425/> which means it is a fairly late-stage star well into its [[stellar evolution]], having already exhausted its supply of [[hydrogen]] fuel at the core. With more than four times the [[solar mass|mass of the Sun]],<ref name=aaa352_217/> it has expanded to about 33 times the [[solar radius|Sun's radius]] and is emitting 501 times the [[solar luminosity|luminosity of the Sun]].<ref name=aj135_1_209/> This energy is being radiated from its outer envelope at an [[effective temperature]] of 4,550&nbsp;K,<ref name=aj135_1_209/> giving it the orange hue of a K-type star.<ref name=csiro/>
+
+The companion star has a classification of A2&nbsp;V,<ref name=aj74_375/> so it is a [[main sequence]] star that is generating energy through the [[thermonuclear fusion]] of hydrogen at its core. This star is rotating rapidly, with a projected [[stellar rotation|rotational velocity]] of {{nowrap|123 km s<sup>–1</sup>}}<ref name=aaa393_897/> By the time the smaller main sequence star reaches the current point of the primary in its evolution, the larger star will have lost much of its mass in a [[planetary nebula]] and will have evolved into a [[white dwarf]]. The pair will have essentially changed roles: the brighter star becoming the dim dwarf, while the lesser companion will shine as a [[giant star]].<ref name=kaler/>
+
+==In culture==
+The name Izar is derived from the Arabic '''إزار ''' ''’izār'' "veil", and Pulcherrima is Latin for "loveliest". Other historical names are '''Mirak''', from Arabic المراق ''al-maraqq'' "the loins", and '''Mizar'''.<ref name=kaler/> In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Mintek al Aoua''' ('''منتقة ألعوع''' - ''minṭáqa al awwa''), which was translated into [[Latin]] as '''Cingulum Latratoris''', meaning ''belt of barker''.<ref name=mnras55_429/>
+
+In [[Chinese language|Chinese]], {{lang|zh|梗河}} ({{lang|zh-Latn|Gěng Hé}}), meaning ''[[Root (Chinese constellation)|Celestial Lance]]'', refers to an asterism consisting of ε Boötis, [[Sigma Boötis|σ Boötis]] and [[Rho Boötis|ρ Boötis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Boötis itself is known as {{lang|zh|梗河一}} ({{lang|zh-Latn|Gěng Hé yī}}, {{lang-en|the First Star of Celestial Lance}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+In 1973, the [[Scottish people|Scottish]] astronomer and science fiction writer [[Duncan Lunan]] claimed to have managed to interpret a message caught in the 1920s by two [[Norwegian people|Norwegian]] physicists<ref name=holm2004/> that, according to his theory, came from a [[Space probe|probe]] orbiting the [[Moon]] and sent there by the inhabitants of a planet orbiting Epsilon Boötis.<ref>"Spaceprobe from Epsilon Bootes" by Duncan Lunan, in "Spaceflight" (British Interplanetary Society), 1973</ref> The story was even reported in ''[[Time (magazine)|Time]]'' magazine.<ref name=times1973/> Lunan later withdrew his Epsilon Boötis theory, presenting proofs against it and clarifying why he was brought to formulate it in the first place.<ref name=asff118_3/>
+
+==See also==
+* [[Stars and planetary systems in fiction#Izar (Epsilon Boötis)|Epsilon Boötis in fiction]]
+* [[Garth of Izar]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 Hipparcos Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 Hipparcos Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaa393_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | pages=897–911 | month=October | year=2002 | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R |arxiv = astro-ph/0205255 }}</ref>
+
+<ref name=aj110_2425>{{citation | last1=Luck | first1=R. Earle | last2=Wepfer | first2=Gordon G. | title=Chemical Abundances for F and G Luminosity Class II Stars | journal=Astronomical Journal | volume=110 | page=2425 | month=November | year=1995 | doi=10.1086/117702 | bibcode=1995AJ....110.2425L }}</ref>
+
+<ref name=mnras387_2_772>{{citation | display-authors=1 | last1=Prieur | first1=J.-L. | last2=Scardia | first2=M. | last3=Pansecchi | first3=L. | last4=Argyle | first4=R. W. | last5=Sala | first5=M. | last6=Ghigo | first6=M. | last7=Koechlin | first7=L. | last8=Aristidi | first8=E. | title=Speckle observations with PISCO in Merate - V. Astrometric measurements of visual binaries in 2006 | journal=Monthly Notices of the Royal Astronomical Society | volume=387 | issue=2 | pages=772–782 | month=June | year=2008 | doi=10.1111/j.1365-2966.2008.13265.x | bibcode=2008MNRAS.387..772P }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J14449+2704AB | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=CCDM+J14449 | accessdate=2012-01-09 }}</ref>
+
+<ref name=SIMBAD_A>{{citation | title=HR 5505 -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HR+5505 | accessdate=2012-01-09 }}</ref>
+
+<ref name=SIMBAD_B>{{citation | title=HR 5506 -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HR+5505 | accessdate=2012-01-09 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=Izar | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/izar.html | accessdate=2012-01-09 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=holm2004>{{citation | url=http://heim.ifi.uio.no/~sverre/LDE/ | title=The Five Most Likely Explanations for Long Delayed Echoes | first1=Sverre | last1=Holm |date=March 16, 2004 | accessdate=2009-09-01 }}</ref>
+
+<ref name=times1973>{{citation | url=http://www.time.com/time/magazine/article/0,9171,903951-1,00.html | title=Message from a Star |date=April 9, 1973 | accessdate=2009-08-27 | work=Time }}</ref>
+
+<ref name=asff118_3>{{citation | journal=Analog Science Fiction and Fact | volume=118 | issue=3 | month=March | year=1998 | title=Epsilon Boötis Revisited | first1=Duncan | last1=Lunan }}</ref>
+
+<ref name=monks2010>{{citation | first1=Neale | last1=Monks | title=Go-To Telescopes Under Suburban Skies | series=Patrick Moore's Practical Astronomy Series | publisher=Springer | year=2010 | isbn=1-4419-6850-4 | url=http://books.google.com/books?id=waO6tUtfblsC&pg=PA110 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aaa352_217>{{citation | last1=Gondoin | first1=P. | title=Evolution of X-ray activity and rotation on G-K giants | journal=Astronomy and Astrophysics | volume=352 | pages=217–227 | month=December | year=1999 | bibcode=1999A&A...352..217G }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205506 HR 5506]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205505 HR 5505]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J14449%2b2704A CCDM J14449+2704]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=14+44+59.208%2B27+04+27.38&ident=HD+129989&submit=Aladin+previewer Image Epsilon Boötis]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+
+{{Stars of Boötes}}
+
+{{DEFAULTSORT:Epsilon Bootis}}
+[[Category:Binary stars]]
+[[Category:Flamsteed objects|Boötis, 36]]
+[[Category:Henry Draper Catalogue objects|129989]]
+[[Category:Hipparcos objects|072105]]
+[[Category:Bayer objects|Bootis, Epsilon]]
+[[Category:Boötes (constellation)]]
+[[Category:K-type bright giants]]
+[[Category:K-type giants]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الإزار (نجم)]]
+[[cs:Izar]]
+[[de:Epsilon Boötis]]
+[[es:Izar (estrella)]]
+[[fa:اپسیلون گاوران]]
+[[fr:Epsilon Bootis]]
+[[ko:목동자리 엡실론]]
+[[id:Epsilon Boötis]]
+[[it:Izar]]
+[[lb:Izar (Stär)]]
+[[nl:Izar]]
+[[ja:イザール]]
+[[pl:Izar]]
+[[pt:Epsilon Boötis]]
+[[ru:Эпсилон Волопаса]]
+[[fi:Epsilon Bootis]]
+[[zh:梗河一]]

@@ -1,0 +1,139 @@
+{{Dablink|For other stars named Muscida, see [[Muscida]]}}
+{{Starbox begin
+ | name = Omicron Ursae Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Centaurus constellation and its surroundings]]
+     <div style="position: absolute; left: 69.5%; top: 21.3%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ο Ursa Major (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | constell = [[Ursa Major]]
+ | ra       = {{RA|08|30|15.87064}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+60|43|05.4115}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.35<ref name=aaa352_495/>
+}}
+{{Starbox character
+ | class    = G4&nbsp;II–III<ref name=pasj60_4_781/>
+ | b-v      = +0.85<ref name=clpl4/>
+ | u-b      = +0.52<ref name=clpl4/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +19.8<ref name=gcsrv/>
+ | prop_mo_ra  = –133.76<ref name=aaa474_2_653/>
+ | prop_mo_dec = –107.45<ref name=aaa474_2_653/>
+ | parallax = 18.21
+ | p_error  = 0.16
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –0.40<ref name=pasj60_4_781/>
+}}
+{{Starbox detail
+ | mass     = 3.09<ref name=pasj60_4_781/>
+ | radius   = 14<ref name=lang2006/>
+ | gravity  = 2.64<ref name=pasj60_4_781/>
+ | metal_fe = –0.09<ref name=pasj60_4_781/>
+ | age_myr  = {{nowrap|360 ± 30}}<ref name=aaa480_1_91/>
+ | luminosity  = 138<ref name=pasj60_4_781/>
+ | temperature = 5,242<ref name=pasj60_4_781/>
+ | rotational_velocity = 15<ref name=coapa239_1/>
+}}
+{{Starbox catalog
+ | names = Muscida, ο&nbsp;Ursae Majoris, ο&nbsp;UMa, Omicron&nbsp;UMa, 1&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+61&nbsp;1054, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J08303+6043A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;317, [[Boss General Catalogue|GC]]&nbsp;11593, [[Henry Draper Catalogue|HD]]&nbsp;71369, [[Hipparcos catalogue|HIP]]&nbsp;41704, [[Bright Star Catalogue|HR]]&nbsp;3323, [[PPM Star Catalogue|PPM]]&nbsp;16654, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;14573, [[Washington Double Star Catalog|WDS]]&nbsp;J08303+6043A.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Omicron Ursae Majoris''' ('''Omicron&nbsp;UMa''', '''ο&nbsp;Ursae Majoris''', '''ο&nbsp;UMa''') is a [[star system]] in the northern [[circumpolar constellation]] of [[Ursa Major]]. It has an [[apparent visual magnitude]] of +3.35<ref name=aaa352_495/> and is located at a distance of around {{Convert|179|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> This star has the traditional name '''[[Muscida]]''', which it shares with the optical [[double star]] [[Pi Ursae Majoris]].
+
+The [[stellar classification]] of this star, G4&nbsp;II–III,<ref name=pasj60_4_781/> places it midway between the [[giant star|giant]] and [[bright giant]] stages of its [[stellar evolution|evolution]]. The [[interferometry]]-measured [[angular diameter]] of this star is about 2.42&nbsp;[[milliarcseconds|mas]],<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 14 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> It has about three<ref name=pasj60_4_781/> times the mass of the Sun and radiates 138<ref name=pasj60_4_781/> times the Sun's luminosity from its [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of 5,282&nbsp;K,<ref name=aaa352_495/> giving it the yellowish hue of a G-type star.<ref name=csiro/>
+
+In 1963, East German astronomer Gerhard Jakisch reported this star as a [[variable star|variable]] with a period of 358 days and an amplitude of 0.08 magnitude. The 1982 edition of the ''[[New Catalogue of Suspected Variable Stars]]'' listed it with a variability from 3.30 to 3.36 in the visual band. However, in 1992 American astronomer [[Dorrit Hoffleit]] noted that the two comparison stars used to determine the variability may themselves be variable. Hence the actual variability of this star may be suspect.<ref name=ibvs3789/>
+
+Muscida has a magnitude 15.2 common [[proper motion]] companion at an [[angular separation]] of 7.1&nbsp;[[arcsecond]]s.<ref name=mnras389_2_869/> With a probability of 99.4%, this companion is the source for the X-ray emission from the system.<ref name=apjss184_1_138/> Omicron Ursae Majoris is sometimes listed with two more companions, but, based on [[proper motion]] data, these appear to be [[optical double|optical companions]].
+
+This system is a member of the [[thin disk population]] and is following an orbit through the [[Milky Way]] galaxy with an [[orbital eccentricity|eccentricity]] of 0.12. It comes as close to the [[Galactic Center]] as {{Convert|23.5|kly|kpc|abbr=on}} and as distant as {{Convert|30.2|kly|kpc|abbr=on}}. This orbit carries it no more than about 330&nbsp;ly (100&nbsp;pc) above the [[galactic plane]].<ref name=aaa480_1_91/> It is considered a [[runaway star]] because it has a high [[peculiar velocity]] of 35.5&nbsp;km s<sup>−1</sup> relative to the typical motion of stars in its vicinity.<ref name=mnras410_1_190/>
+
+In 2012, extrasolar planet [[Omicron Ursae Majoris Ab]] orbiting the primary at 3.9 astronomical units, was found. This gas giant (4.1 times as massive as Jupiter) completes orbit in 1630 days.<ref name="PASJ">{{cite journal
+|journal=PASJ
+|title=Substellar Companions to Seven Evolved Intermediate-Mass Stars
+|arxiv=1207.3141
+|year=2012
+|authors= Bun'ei Sato ''et al.''}}</ref>
+
+{{OrbitboxPlanet begin
+| table_ref =<ref name="PASJ"/>
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Omicron Ursae Majoris b|b]]
+| mass = >4.1
+| period = 1630±35
+| semimajor = 3.9
+| eccentricity = 0.130±0.065
+}}
+{{Orbitbox end}}
+
+==Naming==
+In [[Chinese language|Chinese]], {{lang|zh|內階}} ({{lang|zh-Latn|Nèi Jiē}}), meaning ''[[Purple Forbidden enclosure|Inner Steps]]'', refers to an asterism consisting of ο Ursae Majoris, [[16 Ursae Majoris]], [[6 Ursae Majoris]], [[23 Ursae Majoris]], [[5 Ursae Majoris]] and [[17 Ursae Majoris]]. Consequently, ο Ursae Majoris itself is known as {{lang|zh|內階一}} ({{lang|zh-Latn|Nèi Jiē yī}}, {{lang-en|the First Star of Inner Steps}}.).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060616.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 16 日]</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=coapa239_1>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=pasj60_4_781>{{citation | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar parameters and elemental abundances of late-G giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T |arxiv = 0805.2434 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=bet CMi -- Be Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Omicron+Ursae+Majoris | accessdate=2012-01-09 }}</ref>
+
+<ref name=aaa480_1_91>{{citation | display-authors=1 | last1=Soubiran | first1=C. | last2=Bienaymé | first2=O. | last3=Mishenina | first3=T. V. | last4=Kovtyukh | first4=V. V. | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants | journal=Astronomy and Astrophysics | year=2008 | volume=480 | issue=1 | pages=91–101 | bibcode=2008A&A...480...91S | doi=10.1051/0004-6361:20078788 |arxiv = 0712.1370 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 54.9\cdot 2.42)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 28.6\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=ibvs3789>{{citation | last1=Hoffleit | first1=D. | title=Do all Three Vary: omicron UMa, 23 UMa and HR 3245? | journal=Information Bulletin on Variable Stars | volume=3789 | page=1 | month=October | year=1992 | bibcode=1992IBVS.3789....1H }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=apjss184_1_138>{{citation | last1=Haakonsen | first1=Christian Bernt | last2=Rutledge | first2=Robert E. | title=XID II: Statistical Cross-Association of ROSAT Bright Source Catalog X-ray Sources with 2MASS Point Source Catalog Near-Infrared Sources | journal=The Astrophysical Journal Supplement |volume=184 | issue=1 | pages=138–151 | month=September | year=2009 | doi=10.1088/0067-0049/184/1/138 | bibcode=2009ApJS..184..138H |arxiv = 0910.3229 }}</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Omicron]]
+[[Category:Flamsteed objects|Ursae Majoris, 1]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Binary stars]]
+[[Category:G-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Muscida]]
+[[es:Muscida]]
+[[fa:امیکرون خرس بزرگ]]
+[[fr:Omicron Ursae Majoris]]
+[[it:Muscida]]
+[[lb:Muscida (Stär)]]
+[[nl:Muscida]]
+[[pl:Omikron Ursae Majoris]]
+[[pt:Omicron Ursae Majoris]]
+[[ru:Омикрон Большой Медведицы]]
+[[sk:Muscida]]
+[[zh:內階一]]

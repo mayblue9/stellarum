@@ -1,0 +1,111 @@
+{{Starbox begin
+ | name = Delta Virginis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Virgo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Virgo constellation and its surroundings]]
+     <div style="position: absolute; left: 56.6%; top: 33.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption  = Location of δ Virginis (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|12|55|36.20861}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+3|23|50.8932}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.402<ref name=aaass22_9/>
+ | constell = [[Virgo (constellation)|Virgo]]
+}}
+{{Starbox character
+ | class     = M3&nbsp;III<ref name=aaa352_495/>
+ | b-v       = +1.565<ref name=aaass22_9/>
+ | u-b       = +1.825<ref name=aaass22_9/>
+ | variable  = [[Semiregular variable star|Semiregular]]
+}}
+{{Starbox astrometry
+ | radial_v  = –18.14 ± 0.55<ref name=aj135_1_209/>
+ | prop_mo_ra  = –469.99<ref name=aaa474_2_653/>
+ | prop_mo_dec = –52.83<ref name=aaa474_2_653/>
+ | parallax  = 16.44
+ | p_error   = 0.22
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v  = {{nowrap|–2.4 ± 0.3}}<ref name=aaa489_3_1271/>
+}}
+{{Starbox detail
+ | mass     = {{nowrap|1.4 ± 0.3}}<ref name=aaa489_3_1271/>
+ | radius   = 48<ref name=aj135_1_209/>
+ | luminosity  = 468<ref name=aj135_1_209/>
+ | temperature = 3,999<ref name=aj135_1_209/>
+ | gravity  = 1.0<ref name=aj135_1_209/>
+ | metal_fe = –0.16<ref name=aj135_1_209/>
+ | rotational_velocity = 6.0<ref name=aj135_1_209/>
+ | age_gyr  = 
+}}
+{{Starbox catalog
+ | names = Auva, Minelauva, 43 Virginis, [[Bonner Durchmusterung|BD]] +04°2669, [[Fifth Fundamental Catalogue|FK5]] 484, [[Henry Draper catalogue|HD]] 112300, [[Hipparcos catalogue|HIP]] 63090, [[Harvard Revised catalogue|HR]] 4910, [[Luyten Two-Tenths catalogue|LTT]] 13714, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 119674.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Delta Virginis''' (δ Vir, δ Virginis) is a [[star]] in the [[zodiac]] [[constellation]] of [[Virgo (constellation)|Virgo]]. It has the traditional name '''Auva'''. With an [[apparent visual magnitude]] of 3.4,<ref name=aaass22_9/> this star is bright enough to be seen with the naked eye. Based upon [[parallax]] measurements, it is located at a distance of about {{Convert|198|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+The [[spectrum]] of this star matches a [[stellar classification]] of M3&nbsp;III,<ref name=aaa352_495/> which places it among the category of [[stellar evolution|evolved]] stars called [[red giant]]s. Indeed, the outer atmosphere of this star has expanded to around 48 times the radius of the Sun.<ref name=aj135_1_209/> Even though it has just 1.4 times the mass of the Sun,<ref name=aaa489_3_1271/> this wide envelope gives it a luminosity of roughly 468 times the Sun's.<ref name=aj135_1_209/> This energy is being radiated from a relatively cool outer atmosphere that has an [[effective temperature]] of nearly 4,000&nbsp;K.<ref name=aj135_1_209/> It is this cool temperature that gives it the orange-red glow of an M-type star.<ref name=csiro/>
+
+The outer envelope of this star is undergoing a type of pulsation that occurs in a class of [[variable star]]s known as [[semiregular variable]]s<ref name=mnras400_4_1945/> and its brightness varies from magnitude +3.32 to +3.40. Based upon [[frequency analysis]] of the observed light curve, the star's variability exhibits multiple periods of pulsation. The detected periods are 13.0, 17.2, 25.6, 110.1 and 125.8 days.<ref name=mnras400_4_1945/> This is a [[high-velocity star]] with a [[peculiar velocity]] of more than {{nowrap|30 km s<sup>–1</sup>}} relative to the mean motion of other stars in the vicinity.<ref name=aaa430_165/>
+
+Delta Virginis is a possible [[binary star]], as an 11th magnitude star is located at an [[angular separation]] of 80 [[arcsecond]]s. This K-type dwarf may have an orbital period of over 200,000 years, but this has not been confirmed.<ref name=kaler/>
+
+==Etymology==
+The medieval names Auva, Al Awwa, and Minelauva are from the Arabic عوى ''<sup>c</sup>awwa’'', meaning "barking (dog)". This star, along with [[Beta Virginis|β Vir]](Zavijava), [[Gamma Virginis|γ Vir]] (Porrima), [[Eta Virginis|η Vir]] (Zaniah) and [[Epsilon Virginis|ε Vir]] (Vindemiatrix), were '''Al ʽAwwāʼ''', the Barker.<ref name=sb0/>
+
+In [[Chinese language|Chinese]], {{lang|zh|太微左垣}} ({{lang|zh-Latn|Tài Wēi Zuǒ Yuán}}), meaning ''[[Supreme Palace enclosure|Left Wall of Supreme Palace Enclosure]]'', refers to an asterism consisting of δ Virginis, [[Eta Virginis|η Virginis]], [[Gamma Virginis|γ Virginis]], [[Epsilon Virginis|ε Virginis]] and [[Alpha Comae Berenices|α Comae Berenices]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Virginis itself is known as {{lang|zh|太微左垣三}} ({{lang|zh-Latn|Tài Wēi Zuǒ Yuán sān}}, {{lang-en|the Third Star of Left Wall of Supreme Palace Enclosure}}.),<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> representing {{lang|zh|東次相}} ({{lang|zh-Latn|Dōngcìxiāng}}), meaning ''The Second Eastern Minister''.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#SupremePalaceEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> 東次相 (Dōngcìxiāng), westernized into ''Tsze Seang'' by R.H. Allen and the meaning is "the Second Minister of State" <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Virgo*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Virgo]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaass22_9>{{citation | last1=Celis S. | first1=L. | title=Photoelectric photometry of late-type variable stars | journal=Astronomy and Astrophysics Supplement Series | volume=22 | pages=9–17 | month=October | year=1975 | bibcode1975A&AS...22....9C |bibcode = 1975A&AS...22....9C }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Vir -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Virginis | accessdate=2012-02-07 }}</ref>
+
+<ref name=sb0>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Virgo*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=469 }}</ref>
+
+<ref name=mnras400_4_1945>{{citation | display-authors=1 | last1=Tabur | first1=V. | last2=Bedding | first2=T. R. | last3=Kiss | first3=L. L. | last4=Moon | first4=T. T. | last5=Szeidl | first5=B. | last6=Kjeldsen | first6=H. | title=Long-term photometry and periods for 261 nearby pulsating M giants | journal=Monthly Notices of the Royal Astronomical Society | volume=400 | issue=4 | pages=1945–1961 | month=December | year=2009 | doi=10.1111/j.1365-2966.2009.15588.x | bibcode=2009MNRAS.400.1945T |arxiv = 0908.3228 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | pages=165–186 | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=aaa489_3_1271>{{citation | last1=Tsuji | first1=T. | title=Cool luminous stars: the hybrid nature of their infrared spectra | journal=Astronomy and Astrophysics | volume=489 | issue=3 | pages=1271–1289 | month=October | year=2008 | doi=10.1051/0004-6361:200809869 | bibcode=2008A&A...489.1271T |arxiv = 0807.4387 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=Delta Virginis | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/deltavir.html | accessdate=2012-02-07 }}</ref>
+
+}}
+
+== External links ==
+* [http://www.alcyone.de/SIT/mainstars/SIT000836.htm Alcyone ephemeris]
+
+{{Virgo}}
+
+[[Category:Bayer objects|Virginis, Delta]]
+[[Category:M-type giants]]
+[[Category:K-type main sequence stars]]
+[[Category:Double stars]]
+[[Category:Virgo (constellation)]]
+[[Category:Semiregular variable stars]]
+
+[[ar:العواء (نجم)]]
+[[de:Delta Virginis]]
+[[es:Minelava]]
+[[fa:دلتا دوشیزه]]
+[[fr:Delta Virginis]]
+[[it:Delta Virginis]]
+[[lb:Minelava (Stär)]]
+[[nl:Auva]]
+[[pl:Delta Virginis]]
+[[pt:Delta Virginis]]
+[[sk:Auva]]
+[[zh:東次相]]

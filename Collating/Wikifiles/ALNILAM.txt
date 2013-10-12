@@ -1,0 +1,112 @@
+{{Starbox begin |
+   name=Alnilam }}
+{{Starbox image |
+  image=[[Image:Ngc1990.jpg|250px|Alnilam]] |
+  caption=Alnilam lights up [[NGC 1990]].<br />Photograph by Glen Youman}}
+{{Starbox observe |
+  epoch=J2000 |
+  ra=05<sup>h</sup> 36<sup>m</sup> 12.8<sup>s</sup> |
+  dec=&minus;01° 12&prime; 06.9&Prime; |
+  appmag_v=1.70 |
+  constell=[[Orion (constellation)|Orion]] }}
+{{Starbox character |
+  class=B0&nbsp;Ia<ref name=baas25_1319/> |
+  b-v=&minus;0.19 |
+  u-b=&minus;1.03 |
+  variable=Alp Cyg }}
+{{Starbox astrometry |
+  radial_v=25.9 |
+  prop_mo_ra=1.49 |
+  prop_mo_dec=&minus;1.06 |
+  parallax=2.43 |
+  p_error=0.91 |
+  absmag_v=&minus;6.37
+ }}
+{{Starbox detail|
+  mass= |
+  radius=24<ref name=aaa446_1_279/> |
+  luminosity=275,000<ref name=aaa446_1_279/> |
+  temperature=27,000<ref name=aaa446_1_279/> |
+  gravity=2.9<ref name=aaa446_1_279/> |
+  metal= |
+  rotational_velocity=91<ref name=aaa446_1_279/> |
+  age= }}
+{{Starbox catalog |
+  names=Alnilam, ε Ori, 46 Orionis, 112 G. Orionis, [[Harvard Revised catalogue|HR]] 1903, [[Bonner Durchmusterung|BD]] -01°969, [[Henry Draper catalogue|HD]] 37128, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 132346, FK5 210, [[Hipparcos catalogue|HIP]] 26311, TD1 4963, 参宿二. }}
+{{Starbox reference |
+  Simbad=HD+37128 }}
+{{Starbox end}}
+[[File:Orion constellation map.svg|thumb|right|'''<center>Orion</center>'''Alnilam is the middle of the three stars in the belt.]]
+'''Alnilam''' ('''Epsilon Orionis''', ε Orionis) is a large [[blue supergiant]] [[star]] in the [[constellation]] of [[Orion (constellation)|Orion]]. Its [[Flamsteed designation]] is 46&nbsp;Orionis.
+
+It is the [[List of brightest stars|30th brightest]] star in the sky (the 4th brightest in Orion) and is a [[Blue supergiant|blue-white supergiant]].  Together with [[Mintaka]] and [[Alnitak]], the three stars make up the [[Orion's Belt|belt of Orion]], known by many names across many ancient cultures. Alnilam is the middle star.
+
+Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It is also one of the [[Navigational stars|57&nbsp;stars]] used in [[celestial navigation]]. It is at its highest point in the sky around midnight on December 15.
+
+Alnilam's relatively simple spectrum has made it useful for studying the [[interstellar medium]]. Within the next million years, this star may turn into a [[red supergiant]] and explode as a [[supernova]]. It is surrounded by a [[molecular cloud]], [[NGC 1990|NGC&nbsp;1990]], which it brightens to make a [[reflection nebula]]. Its [[stellar wind]]s may reach up to 2000 [[velocity|km/s]], causing it to lose [[mass]] about 20 million times more rapidly than the Sun.
+
+== Other names and history ==
+The name ''Alnilam'' derives from the [[Arabic language|Arabic]] '''النظام''' ''an-niżām'', related to the word '''نظم''' ''nażm'' "string of pearls". Related spellings are ''Alnihan'' and ''Alnitam'':<ref name=allen>{{Cite book |first=Richard Hinckley |last=Allen |title=Star-names and their meanings |location= |publisher= |year=1936 |pages=314–315 |isbn= }}</ref> all three variants are evidently mistakes in transliteration or copy errors.{{Citation needed|date=February 2012}}
+
+===Orion's belt===
+{{Main|Orion's Belt}}
+
+The three belt stars were collectively known by many names in many cultures. Arabic terms include ''Al Nijād'' 'the Belt', ''Al Nasak'' 'the Line', ''Al Alkāt'' 'the Golden Grains or Nuts' and, in modern Arabic, ''Al Mīzān al H•akk'' 'the Accurate Scale Beam'. In [[Chinese mythology]] they were also known as The Weighing Beam.<ref name=allen/> The belt was also the [[Three Stars (Chinese constellation)|Three Stars]] mansion ({{zh|t=參宿|s=参宿|p=Shēn Xiù}}), one of the [[Twenty-eight mansions]] of the [[Chinese constellation]]s.  It is one of the western mansions of the [[White Tiger (Chinese astronomy)|White Tiger]].
+
+In pre-Christian [[Scandinavia]], the belt was known as [[Frigg]]'s [[Distaff]] (''Friggerock'') or [[Freyja]]'s distaff.<ref>{{Cite book |last=Schön |first=Ebbe |year=2004 |title=Asa-Tors hammare, Gudar och jättar i tro och tradition |location=Stockholm |publisher=Hjalmarson & Högberg |page=228 |isbn=9189660412 }}</ref> Similarly Jacob's Staff and Peter's Staff were European [[Bible|biblical]] derived terms, as were the Three Magi, or the Three Kings. [[Väinämöinen]]'s Scythe ([[Kalevala]]) and Kalevan Sword are terms from [[Finnish mythology]].<ref name=allen/>
+
+The [[Seri people]] of northwestern Mexico call the three belt stars ''Hapj'' (a name denoting a hunter) which consists of three stars:  ''Hap'' (mule deer), ''Haamoja'' (pronghorn), and ''Mojet'' (bighorn sheep). ''Hap'' is in the middle and has been shot by the hunter; its blood has dripped onto [[Tiburón Island]].<ref>{{cite book |last=Moser |first=Mary B. |coauthors=Stephen A. Marlett |title=Comcáac quih yaza quih hant ihíip hac: Diccionario seri-español-inglés |url=http://lengamer.org/admin/language_folders/seri/user_uploaded_files/links/File/DiccionarioSeri2005.pdf |year=2005 |publisher=Universidad de Sonora and Plaza y Valdés Editores |location=Hermosillo, Sonora and Mexico City|language=Spanish and English}}</ref>
+
+==See also==
+*[[Stars and planetary systems in fiction#Alnilam (Epsilon Orionis)|Alnilam in fiction]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa446_1_279>{{citation | last1=Crowther | first1=P. A. | last2=Lennon | first2=D. J. | last3=Walborn | first3=N. R. | title=Physical parameters and wind properties of galactic early B supergiants | journal=Astronomy and Astrophysics | volume=446 | issue=1 | pages=279–293 | month=January | year=2006 | doi=10.1051/0004-6361:20053685 | bibcode=2006A&A...446..279C |arxiv = astro-ph/0509436 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+}}
+
+==External links==
+* [http://antwrp.gsfc.nasa.gov/apod/ap090929.html Image of Alnilam] from [[Astronomy Picture of the Day|APOD]]
+
+{{Stars of Orion}}
+
+{{Sky|05|36|12.8|-|01|12|06.9|800}}
+
+[[Category:Bayer objects|Orionis, Epsilon]]
+[[Category:B-type supergiants]]
+[[Category:Flamsteed objects|Orionis, 46]]
+[[Category:Orion (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Alpha Cygni variables]]
+
+[[ar:النظام (الجبار)]]
+[[roa-rup:Alnilam]]
+[[bn:অনিরুদ্ধ তারা]]
+[[be:Альнілам]]
+[[ca:Alnilam]]
+[[de:Alnilam]]
+[[el:Αλνιλάμ]]
+[[es:Alnilam]]
+[[fa:نظام (ستاره)]]
+[[fr:Epsilon Orionis]]
+[[gl:Epsilon Orionis]]
+[[ko:알닐람]]
+[[hi:ऍप्सिलन ओरायोनिस तारा]]
+[[id:Epsilon Orionis]]
+[[it:Alnilam]]
+[[he:אלנילם]]
+[[lb:Alnilam (Stär)]]
+[[mk:Алнилам]]
+[[nl:Alnilam]]
+[[ja:アルニラム]]
+[[no:Alnilam]]
+[[pnb:النیلم]]
+[[pl:Alnilam]]
+[[pt:Epsilon Orionis]]
+[[ru:Альнилам]]
+[[sk:Alnilam]]
+[[fi:Alnilam]]
+[[zh:參宿二]]

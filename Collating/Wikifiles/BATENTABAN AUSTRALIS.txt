@@ -1,0 +1,93 @@
+{{Starbox begin
+ | name=Phi Draconis
+}}
+{{Starbox image
+ | image=[[File:Draco constellation map.png|250px]]
+ | caption=Location of φ Draconis (next to χ Dra). 
+}}
+{{Starbox observe 
+ | epoch    = J2000
+ | ra       = {{RA|18|20|45.4304}}<ref name="SIMBAD"/>
+ | dec      = {{DEC|71|20|16.132}}<ref name="SIMBAD"/>
+ | appmag_v = 4.2004<ref name="LEEUWEN"/>
+ | constell = [[Draco (constellation)|Draco]] 
+}}
+{{Starbox character 
+ | class    = A0sp<ref name="SIMBAD" /> 
+ | b-v      = -0.10<ref name="MERMILLIOD"/>
+ | u-b      = -0.38<ref name="MERMILLIOD"/>
+ | variable =  
+}} 
+{{Starbox astrometry 
+ | radial_v=-16 <ref name="SIMBAD" />  
+ | prop_mo_ra=-5.03<ref name="LEEUWEN"/>
+ | prop_mo_dec=37.86<ref name="LEEUWEN"/>
+ | parallax=10.77
+ | p_error=0.38
+ | parallax_footnote=<ref name="LEEUWEN"/>
+ | absmag_v=+0.21<ref name=aaa334_181/>
+}}
+{{Starbox detail
+ | mass = {{nowrap|2.99 ± 0.10}}<ref name=aaa334_181/>
+ | radius = {{nowrap|2.7 ± 0.2}}<ref name=aaa334_181/>
+ | luminosity = 107<ref name=aaa334_181/>
+ | temperature = 11,429<ref name=aaa334_181/>
+ | metal_fe = 
+ | gravity = {{nowrap|4.21 ± 0.08}}<ref name=aaa334_181/>
+ | rotational_velocity = 
+ | rotation = 1.71649<ref name=aaa334_181/>
+ | age_myr = 
+}}
+{{Starbox catalog
+ | names=[[Bayer designation|φ Dra]], [[Flamsteed designation|43&nbsp;Dra]], [[Bonner Durchmusterung|BD]] 71° 889, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J18208+7120AB, [[Boss General Catalogue|GC]]&nbsp;25114, [[Henry Draper Catalogue|HD]]&nbsp;170000, [[Hipparcos catalogue|HIP]]&nbsp;89908, [[Harvard Revised catalogue|HR]]&nbsp;6920, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;9084, [[2MASS]]&nbsp;J18204538+7120159.
+}}
+{{Starbox reference
+ | Simbad=HD+170000
+}}
+{{Starbox end}}	
+
+'''Phi Draconis''' (φ Dra / φ Draconis) is a fourth-magnitude [[star]] in the [[constellation]] [[Draco (constellation)|Draco]].  It has the [[Flamsteed designation]] '''43 Draconis'''.
+
+In [[Chinese astronomy]], Phi Draconis is called 柱史, [[Pinyin]]: Zhùshǐ, meaning ''Official of Royal Archives'', because this star is marking itself and stand alone in ''Official of Royal Archives'' asterism, [[Purple Forbidden enclosure]] (see : [[Chinese constellation]]).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060610.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 10 日]</ref> Possibly, 柱史 (Zhùshǐ) westernized into '''Kwei She''' by R.H. Allen, with the unknown meaning, but it was for [[Chi Draconis|χ Dra]]<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html Star Name - R.H. Allen p.212]</ref>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Draco|Draco]]
+* [[Stellar classification#Class A|Class A Stars]]
+* [[Star system]]
+
+== References ==
+{{reflist|refs=
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Phi+Draconis&submit=SIMBAD+search | title=V* phi Dra -- Variable Star of alpha2 CVn type | work=SIMBAD Astronomical Object Database | publisher =Centre de Données astronomiques de Strasbourg | accessdate = 2010-11-21 }}</ref>
+
+<ref name="MERMILLIOD">{{cite journal | last1=Mermilliod | first1=J.-C. | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished) | journal=Catalogue of Eggen's UBV data. | year=1986 | origin=SIMBAD | format=PDF | bibcode=1986EgUBV........0M }}</ref>
+
+<ref name="LEEUWEN">{{cite journal | title=Hipparcos, the New Reduction | last1=van Leeuwen | first1=F. | year=2007 | month=November | work=[[VizieR]]  | publisher=[[Centre de Données astronomiques de Strasbourg]] | pages=653–664 | issue=2 | volume=474  | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2089908 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics | bibcode=2007A&A...474..653V | accessdate=2010-11-22 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa334_181>{{citation | last1=North | first1=P. | title=Do SI stars undergo any rotational braking? | journal=Astronomy and Astrophysics | volume=334 | pages=181–187 | month=June | year=1998 | bibcode=1998A&A...334..181N |arxiv = astro-ph/9802286 }}</ref>
+
+}}
+
+== External links ==
+*Jim Kaler's Stars, University of Illinois: [http://stars.astro.illinois.edu/sow/phidra.html PHI DRA (Phi Draconis)]
+*An Atlas of the Universe: [http://www.atlasoftheuniverse.com/orbits.html Multiple Star Orbits]
+
+{{Stars of Draco}}
+{{Sky|18|20|45.43|+|71|20|16.13|1000000}}
+
+[[Category:Draco (constellation)]]
+[[Category:A-type stars]]
+[[Category:Bayer objects|Draconis, Phi]]
+[[Category:Flamsteed objects|Draconis, 43]]
+[[Category:Henry Draper Catalogue objects|170000]]
+[[Category:Stars with proper names]]
+[[Category:Chinese astronomy|柱史]]
+
+{{star-stub}}
+
+[[es:Fi Draconis]]
+[[fa:بطن‌الثعبان جنوبی]]
+[[pt:Phi Draconis]]
+[[tt:Бәтынсөгъбан Җәнүби]]
+[[uk:HD170000]]
+[[zh:天龍座φ]]

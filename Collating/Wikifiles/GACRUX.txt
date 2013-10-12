@@ -1,0 +1,156 @@
+{{Starbox begin
+ | name = Gamma Crucis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Crux IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Crux constellation and its surroundings]]
+     <div style="position: absolute; left: 47.4%; top: 36.1%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of γ Crucis (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | equinox  = [[J2000.0]]
+ | constell = [[Crux]]
+ | ra       = {{RA|12|31|09.95961}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|-57|06|47.5684}}<ref name=aaa474_2_653/>
+ | appmag_v = +1.63<ref name=clpl4/>
+}}
+{{Starbox character
+| class     = M3.5&nbsp;III<ref name=mnras400_4_1945/>
+| appmag_1_passband = J
+| appmag_1  = –1.99
+| r-i       = <!--R-I color-->
+| v-r       = <!--V-R color-->
+| b-v       = +1.59<ref name=clpl4/>
+| u-b       = +1.77<ref name=clpl4/>
+| variable  = [[Semiregular variable star|SRV]]<ref name=mnras400_4_1945/>
+}}
+{{Starbox astrometry
+| radial_v  = +20.6<ref name=scfs/>
+| prop_mo_ra  = +28.23<ref name=aaa474_2_653/>
+| prop_mo_dec = –265.08<ref name=aaa474_2_653/>
+| parallax  = 36.83
+| p_error   = 0.18
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = –0.52<ref name=aaa343_222/>
+}}
+{{Starbox detail
+ | mass = {{nowrap|1.3 ± 0.1}}<ref name=mnras254_27/>
+ | radius = 84<ref name=mnras350_1_365/>
+ | gravity = 
+ | luminosity = 1,500<ref name=kaler/>
+ | temperature = 3,626<ref name=aj112_2274/>
+ | metal_fe = 
+ | rotational_velocity = 
+ | age_myr = 
+}}
+{{Starbox catalog
+ | names = Gacrux, [[Cordoba Durchmusterung|CD]]-56&nbsp;4504, [[Bayer designation|Gamma Crucis]], [[Henry L. Giclas catalogue|GJ]]&nbsp;470, [[Henry Draper catalogue|HD]]&nbsp;108903, [[Hipparcos catalogue|HIP]]&nbsp;61084, [[Harvard Revised catalogue|HR]]&nbsp;4763, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;4752, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;240019.
+}}
+{{Starbox reference
+ | Simbad = HD+108903
+ | ARICNS = <!--Code-->
+}}
+{{Starbox end}}
+
+'''Gamma Crucis''' (γ Cru, γ Crucis), often called '''Gacrux''', is the nearest [[red giant]] [[star]] to the Sun.<ref name=mnras350_1_365/> The distance to Gacrux has been determined using [[parallax]] measurements made during the [[Hipparcos]] mission, which yielded a value of {{Convert|88.6|ly|pc|abbr=off|lk=on}} away from Earth.<ref name=aaa474_2_653/> With an [[apparent visual magnitude]] of +1.63,<ref name=clpl4/> this is the third-brightest star in the southern [[circumpolar constellation]] of [[Crux]], the Southern Cross, and [[list of brightest stars|one of the brightest stars]] in the night sky. Among Portuguese-speaking peoples it is also named "Rubídea" (or Ruby-like), in reference to its color. A line from the two "Pointers", [[Alpha Centauri]] through [[Beta Centauri]], leads to within a few degrees of this star.
+
+== Physical properties ==
+{| class="wikitable" style="float: left; text-align: center; margin: 0.5em;"
+|+ ''Pulsation Periods''<ref name=mnras400_4_1945/>
+! Period<br>(days)
+! Amplitude<br>(magnitude)
+|-
+| 12.1 || 0.016
+|-
+| 15.1 || 0.027
+|-
+| 16.5 || 0.016
+|-
+| 54.8 || 0.026
+|-
+| 82.7 || 0.015
+|-
+| 104.9 || 0.016
+|}
+
+Gacrux has a [[stellar classification]] M3.5&nbsp;III.<ref name=mnras400_4_1945/> It has [[stellar evolution|evolved]] off of the [[main sequence]] to become a [[red giant]] star, but is most likely on the [[red giant branch]] rather than the [[asymptotic giant branch]].<ref name=mnras350_1_365/> Although only 30% more massive than the Sun,<ref name=mnras254_27/> at this stage the star has expanded to 84<ref name=mnras350_1_365/> times the Sun's radius. It is radiating 1,500<ref name=kaler/> times the luminosity of the Sun from its expanded [[stellar atmosphere|outer envelope]]. With an [[effective temperature]] of 3,626&nbsp;K,<ref name=aj112_2274/> the colour of Gamma Crucis is a prominent reddish-orange, well in keeping with its spectral classification. It is a [[Semiregular variable star|semi-regular variable]] with multiple periods.<ref name=mnras400_4_1945/> (See table at left.)
+
+The atmosphere of this star is enriched with [[barium]], which is usually explained by the transfer of material from a more evolved companion. Typically this companion will subsequently become a [[white dwarf]].<ref name=aaa319_881/> However, no such companion has yet been detected. A +6.4 magnitude companion star lies about 2 arcminutes away at a [[position angle]] of 128° from the main star, and can be observed with [[binoculars]]. But it is only an optical companion,<ref name=kaler/> which is about 400 light years distant from Earth.
+
+== In culture ==
+
+Since Gamma Crucis, "Gacrux", is at roughly &minus;60° [[declination]], it lacks a traditional name. Nonetheless, it was known to the ancient Greeks and Romans, in whose era it was visible north of 40° latitude due to the [[precession of equinoxes]].  The astronomer [[Ptolemy]] counted it as part of the constellation [[Centaurus]].<ref>Richard Hinckley Allen, "Star Names: Their Lore and Meaning", Dover Press, 1963.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|十字架}} ({{lang|zh-Latn|Shí Zì Jià}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Cross]]'', refers to an asterism consisting of γ Crucis, [[Alpha Crucis|α Crucis]], [[Beta Crucis|β Crucis]] and [[Delta Crucis|δ Crucis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Crucis itself is known as {{lang|zh|十字架一}} ({{lang|zh-Latn|Shí Zì Jià yī}}, {{lang-en|the First Star of Cross}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+The people of [[Aranda people|Aranda]] and [[Luritja]] tribe around [[Hermannsburg]], [[Central Australia]] named '''Iritjinga''', "The Eagle-hawk", a quadrangular arrangement comprising this star, [[Delta Crucis|δ Cru]] (Palida), [[Gamma Centauri|γ Cen]] (Muhilfain) and [[Delta Centauri|δ Cen]] (Ma Wei).<ref>p. 8, [http://books.google.com/books?id=XoeiJxMmXZ8C&pg ''Explorers of the southern sky: a history of Australian astronomy''], Raymond Haynes, Cambridge, Cambridge University Press, 1996.</ref>
+
+γ Cru is represented in the flags of [[flag of Australia|Australia]], [[flag of New Zealand|New Zealand]] and [[flag of Papua New Guinea|Papua New Guinea]] as one of five stars which comprise the [[Southern Cross]]. It is also featured in the flag of [[Brazil]], along with 26 other stars, each of which represents a state. γ Cru represents the State of [[Bahia]].<ref name=flag/>
+
+== See also ==
+
+* [[Aldebaran]]
+* [[Alpha Crucis]]
+* [[Beta Crucis]]
+* [[Betelgeuse]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=mnras400_4_1945>{{citation | display-authors=1 | last1=Tabur | first1=V. | last2=Bedding | first2=T. R. | last3=Kiss | first3=L. L. | last4=Moon | first4=T. T. | last5=Szeidl | first5=B. | last6=Kjeldsen | first6=H. | title=Long-term photometry and periods for 261 nearby pulsating M giants | journal=Monthly Notices of the Royal Astronomical Society | volume=400 | issue=4 | pages=1945–1961 | month=December | year=2009 | doi=10.1111/j.1365-2966.2009.15588.x | bibcode=2009MNRAS.400.1945T |arxiv = 0908.3228 }}</ref>
+
+<ref name=mnras350_1_365>{{citation | display-authors=1 | last1=Ireland | first1=M. J. | last1=Tuthill | first1=P. G. | last1=Bedding | first1=T. R. | last1=Robertson | first1=J. G. | last1=Jacob | first1=A. P. | title=Multiwavelength diameters of nearby Miras and semiregular variables | journal=Monthly Notices of the Royal Astronomical Society | volume=350 | issue=1 | pages=365–374 | month=May | year=2004 | doi=10.1111/j.1365-2966.2004.07651.x | bibcode=2004MNRAS.350..365I |arxiv = astro-ph/0402326 }}</ref>
+
+<ref name=mnras254_27>{{citation | last1=Murdoch | first1=Kaylene | last2=Clark | first2=M. | last3=Hearnshaw | first3=J. B. | title=The radial-velocity variability of Gamma Crucis | journal=Monthly Notices of the Royal Astronomical Society | volume=254 | pages=27–29 | month=January | year=1992 | bibcode=1992MNRAS.254...27M }}</ref>
+
+<ref name=aj112_2274>{{citation | display-authors=1  | last1=Cohen | first1=Martin | last2=Witteborn | first2=Fred C. | last3=Carbon | first3=Duane F. | last4=Davies | first4=John K. | last5=Wooden | first5=Diane H. | last6=Bregman | first6=Jesse D. | title=Spectral Irradiance Calibration in the Infrared. VII.New Composite Spectra, Comparison with Model Atmospheres, and Far-Infrared Extrapolations | journal=Astronomical Journal | volume=112 | page=2274 | month=November | year=1996 | doi=10.1086/118180 | bibcode=1996AJ....112.2274C }}</ref>
+
+<ref name=aaa319_881>{{citation | display-authors=1 | last1=Gomez | first1=A. E. | last1=Luri | first1=X. | last1=Grenier | first1=S. | last1=Prevot | first1=L. | last1=Mennessier | first1=M. O. | last1=Figueras | first1=F. | last1=Torra | first1=J. | title=Absolute magnitudes and kinematics of barium stars | journal=Astronomy and Astrophysics | volume=319 | pages=881–885 | month=March | year=1997 | bibcode=1997A&A...319..881G }}</ref>
+
+<ref name=aaa343_222>{{citation | last1=Elgarøy | first1=Øystein | last2=Engvold | first2=Oddbjørn | last3=Lund | first3=Niels | title=The Wilson-Bappu effect of the MgII K line - dependence on stellar temperature, activity and metallicity | journal=Astronomy and Astrophysics | volume=343 | pages=222–228 | month=March | year=1999 | bibcode=1999A&A...343..222E }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=GACRUX (Gamma Crucis) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/gacrux.html | accessdate=2012-03-03 }}</ref>
+
+<ref name=flag>{{citation | title=Astronomy of the Brazilian Flag | url=http://www.fotw.net/flags/br_astro.html | publisher=FOTW Flags Of The World website }}</ref>
+
+}}
+
+== External links ==
+* {{cite web |url=http://www.solstation.com/stars2/gacrux2.htm |title=Gacrux/Gamma Crucis 2 |accessdate=2008-09-10 |work=SolStation |publisher= |date= }}
+
+{{Stars of Crux}}
+
+[[Category:Bayer objects|Crucis, Gamma]]
+[[Category:Binary stars]]
+[[Category:Crux (constellation)]]
+[[Category:M-type giants]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[be:Гакрукс]]
+[[ca:Gacrux]]
+[[de:Gacrux]]
+[[es:Gacrux]]
+[[fa:گاما صلیب]]
+[[fr:Gamma Crucis]]
+[[ko:가크룩스]]
+[[hi:गेक्रक्स तारा]]
+[[id:Gamma Crucis]]
+[[it:Gacrux]]
+[[he:גקרוקס]]
+[[nl:Gacrux]]
+[[ja:ガクルックス]]
+[[pl:Gacrux]]
+[[pt:Gacrux]]
+[[ru:Гакрукс]]
+[[sk:Gacrux]]
+[[fi:Gamma Crucis]]
+[[zh:十字架一]]

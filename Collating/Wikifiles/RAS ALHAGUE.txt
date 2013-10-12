@@ -1,0 +1,139 @@
+{{Starbox begin
+| name=Alpha Ophiuchi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ophiuchus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ophiuchus constellation and its surroundings]]
+     <div style="position: absolute; left: 107px; top: 37px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Ophiuchi (circled)
+}}
+{{Starbox observe
+| epoch = J2000
+| ra    = {{RA|17|34|56.06945}}<ref name=aaa474_2_653/>
+| dec   = {{DEC|+12|33|36.1346}}<ref name=aaa474_2_653/>
+| appmag_v = 2.07<ref name=clpl4/>
+| constell = [[Ophiuchus]]
+}}
+{{Starbox character
+| class = A5&nbsp;III<ref name=aj74_375/> / K5–7&nbsp;V<ref name=apj726_2_104/>
+| b-v   = +0.15<ref name=clpl4/>
+| u-b   = +0.10<ref name=clpl4/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +12.6<ref name=rgcrv/>
+| prop_mo_ra  = 108.07<ref name=aaa474_2_653/>
+| prop_mo_dec = -221.57<ref name=aaa474_2_653/>
+| parallax = 67.13
+| p_error  = 1.06
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 1.30
+}}
+{{Starbox orbit
+| reference = <ref name=apj726_2_104/>
+| period_unitless = 3,148.4&nbsp;days
+| axis_unitless = 427{{+-|20|13}}&nbsp;[[milliarcsecond|mas]]
+| eccentricity = {{nowrap|0.92 ± 0.03}}
+| inclination = 125{{+-|6|9}}
+| node = {{nowrap|232 ± 9}}
+| periastron = {{nowrap|2452888 ± 53 [[Julian Date|JD]]}}
+| periarg = {{nowrap|162 ±14}}
+}}
+{{Starbox detail
+| component1 = α Oph A
+| mass     = 2.40{{+-|.23|.37}}<ref name=apj726_2_104/>
+| radius   = 2.6<ref name=aass85_3_1015/>
+| luminosity  = 25.1–25.6<ref name=apj742_1_9/>
+| temperature = 7,880–8,050<ref name=apj742_1_9/>
+| gravity  = 3.91<ref name=aass85_3_1015/>
+| metal_fe =
+| rotational_velocity = 240<ref name=apj742_1_9/>
+| age_gyr  = {{nowrap|0.77 ± 0.03}}<ref name=apj701_1_209/>
+| component2 = α Oph B
+| mass2    = 0.85{{+-|.06|.04}}<ref name=apj726_2_104/>
+}}
+{{Starbox catalog
+| names=Ras Alhague, Rasalhague, 55 Ophiuchi, [[Bonner Durchmusterung|BD]] +12° 3252, [[FK5]] 656, [[Henry Draper catalogue|HD]] 159561, [[Hipparcos catalogue|HIP]] 86032, [[Harvard Revised catalogue|HR]] 6556, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 102932.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Alpha Ophiuchi''' (α Oph, α Ophiuchi) is the brightest [[star]] in the [[constellation]] [[Ophiuchus]]. It has the traditional name '''Ras Alhague''', often condensed to '''Rasalhague'''.
+
+Alpha Ophiuchi is a [[binary star]] system with an orbital period of about 8.62&nbsp;years. The orbital parameters were only poorly known until 2011 when observations using [[adaptive optics]] produced a better orbital fit, allowing the individual masses of the two components to be determined. The primary component, Alpha Ophiuchi A, has a mass of about 2.4 times the [[solar mass|mass of the Sun]], while the secondary, Alpha Ophiuchi B, has 0.85 solar masses.<ref name=apj726_2_104/> Estimates of the mass of the primary by other means range from a low of 1.92 to 2.10 solar masses, up to 2.84 or even 4.8 solar masses.<ref name=apj701_1_209/> The mass of the secondary suggests that it has a [[stellar classification]] in the range K5V to K7V, which indicates it is a [[main sequence]] star that is still generating energy by the [[thermonuclear fusion]] of hydrogen at its core. The pair reached [[periastron]] passage, or closest approach, around April 19, 2012, when they had an angular separation of 50&nbsp;[[milliarcsecond]]s.<ref name=apj726_2_104/>
+
+This star system has a combined [[apparent magnitude]] of +2.08 and is located at a distance of about {{Convert|48.6|ly|pc|abbr=off|lk=on}} from the [[Earth]]. The [[stellar classification]] of A5&nbsp;III indicates that the primary is a [[giant star]] that has evolved away from the main sequence after consuming the hydrogen at its core. It is radiating about 25 times the [[solar luminosity|luminosity of the Sun]] and has an [[effective temperature]] of about 8,000&nbsp;K, giving it the characteristic white hue of an A-type star.<ref name=apj742_1_9/><ref name=csiro/>
+
+Alpha Ophiuchi A is a rapidly rotating star with a [[stellar rotation|projected rotational velocity]] of 240&nbsp;km.<ref name=apj742_1_9/> It is spinning at a rate of about 88.5% of the velocity that would cause the star to break up.<ref name=rmaa38_117/> The resulting equatorial bulge is about 20% larger than the polar radius, giving the star the shape of an [[oblate spheroid]]. Because of this distorted shape, the poles have an effective temperature about 1,840&nbsp;K greater than along the equator.<ref name=apj726_2_104/> The axis of rotation of the star is inclined about {{nowrap|87.°7 ± 0°4}} to the line of sight from the Earth, so that it is being observed from nearly equator-on.<ref name=rmaa38_117/>
+
+The [[spectrum]] of Alpha Ophiuchi shows an anomalously high level of absorption of the lines for singly-ionized calcium (Ca II). However, this is likely the result of interstellar matter between the Earth and the star, rather than a property of the star or circumstellar dust.<ref name=apj661_2_944/>
+
+==Name and etymology==
+*The name Ras Alhague is from the [[Arabic language|Arabic]] '''رأس الحواء''' (''raʾs al-ḥawwἄ''), meaning "the Head of the Serpent collector".<ref name=allen1899/>
+*The [[Chinese language|Chinese]] name 候 ([[Mandarin Chinese|Mandarin]]: Hòu) meaning ''Astrologer'', because this star is marking itself and stand alone in ''Astrologer'' asterism, [[Heavenly Market enclosure]] (see : [[Chinese constellation]]). <ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0606/ap060625.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 25 日]</ref> 候 (Hòu) westernized into '''How''' in R.H. Allen's work, meaning "the Duke". <ref name=allen1899/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=clpl4>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | title=RASALHAGUE -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Ophiuchi | accessdate=2011-12-25 }}</ref>
+
+<ref name=apj726_2_104>{{citation | display-authors=1 | last1=Hinkley | first1=Sasha | last2=Monnier | first2=John D. | last3=Oppenheimer | first3=Ben R. | last4=Roberts | first4=Lewis C., Jr. | last5=Ireland | first5=Michael | last6=Zimmerman | first6=Neil | last7=Brenner | first7=Douglas | last8=Parry | first8=Ian R. | last9=Martinache | first9=Frantz | title=Establishing α Oph as a Prototype Rotator: Improved Astrometric Orbit | journal=The Astrophysical Journal | volume=726 | issue=2 | page=104 | month=January | year=2011 | doi=10.1088/0004-637X/726/2/104 | bibcode=2011ApJ...726..104H |arxiv = 1010.4028 }}</ref>
+
+<ref name=apj742_1_9>{{citation | last1=Deupree | first1=Robert G. | title=Theoretical p-Mode Oscillation Frequencies for the Rapidly Rotating δ Scuti Star α Ophiuchi | journal=The Astrophysical Journal | volume=742 | issue=1 | page=9 | month=November | year=2011 | doi=10.1088/0004-637X/742/1/9 | bibcode=2011ApJ...742....9D |arxiv = 1110.1345 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | year=1899 | title=Star-names and their meanings | publisher=G. E. Stechert
+| page=300 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA300 | accessdate=2011-12-25 }}</ref>
+
+<ref name=rmaa38_117>{{citation | display-authors=1 | last1=Zhao | first1=M. | last2=Monnier | first2=J. D. | last3=Pedretti | first3=E. | last4=Thureau | first4=N. | last5=Mérand | first5=A. | last6=Ten Brummelaar | first6=T. | last7=McAlister | first7=H. | last8=Ridgway | first8=S. T. | last9=Turner | first9=N. | contribution=Imaging and Modeling Rapid Rotators: α Cep and α Oph | title=The Interferometric View on Hot Stars | editor1-first=Th. | editor1-last=Rivinius | editor2-first=M. | editor2-last=Curé | publisher=Revista Mexicana de Astronomía y Astrofísica (Serie de Conferencias) | volume=38 | pages=117–118 | month=February | year=2010 | bibcode=2010RMxAC..38..117Z }}</ref>
+
+<ref name=apj661_2_944>{{citation | last1=Redfield | first1=Seth | last2=Kessler-Silacci | first2=Jacqueline E. | last3=Cieza | first3=Lucas A. | title=Spitzer Limits on Dust Emission and Optical Gas Absorption Variability around Nearby Stars with Edge-on Circumstellar Disk Signatures | journal=The Astrophysical Journal | volume=661 | issue=2 | pages=944–971 | month=June | year=2007 | doi=10.1086/517516 | bibcode=2007ApJ...661..944R |arxiv = astro-ph/0703089 }}</ref>
+
+<ref name=apj701_1_209>{{citation | display-authors=1 | last1=Zhao | first1=M. | last2=Monnier | first2=J. D. | last3=Pedretti | first3=E. | last4=Thureau | first4=N. | last5=Mérand | first5=A. | last6=ten Brummelaar | first6=T. | last7=McAlister | first7=H. | last8=Ridgway | first8=S. T. | last9=Turner | first9=N. | title=Imaging and Modeling Rapidly Rotating Stars: α Cephei and α Ophiuchi | journal=The Astrophysical Journal | volume=701 | issue=1 | pages=209–224 | month=August | year=2009 | doi=10.1088/0004-637X/701/1/209 | bibcode=2009ApJ...701..209Z |arxiv = 0906.2241 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | title=RASALHAGUE (Alpha Ophiuchi) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/rasalhague.html | accessdate=2011-12-25 }}
+
+{{Stars of Ophiuchus}}
+
+[[Category:Bayer objects|Ophiuchi, Alpha]]
+[[Category:Ophiuchus (constellation)]]
+[[Category:A-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:رأس الحواء]]
+[[ca:Ras Alhague]]
+[[de:Ras Alhague]]
+[[el:Ρας Αλχάγκ]]
+[[es:Ras Alhague]]
+[[fa:آلفا مارافسای]]
+[[fr:Alpha Ophiuchi]]
+[[ko:라스 알하게]]
+[[hi:अल्फ़ा ऑफ़ीयूकी तारा]]
+[[id:Alpha Ophiuchi]]
+[[it:Alfa Ophiuchi]]
+[[la:Alpha Ophiuchi]]
+[[lb:Ras Alhague]]
+[[hu:Alfa Ophiuchi]]
+[[mk:Расалхаг]]
+[[nl:Rasalhague]]
+[[ja:ラス・アルハゲ]]
+[[pl:Rasalhague]]
+[[pt:Alpha Ophiuchi]]
+[[ru:Рас Альхаге]]
+[[sk:Ras Alhague]]
+[[sv:Ras Alhague]]
+[[zh:蛇夫座α]]

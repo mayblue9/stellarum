@@ -1,0 +1,95 @@
+{{Starbox begin
+ | name=Lambda Aquarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aquarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquarius constellation and its surroundings]]
+     <div style="position: absolute; left: 36.1%; top: 39.7%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of λ Aquarii (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|22|52|36.87441}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|−07|34|46.5542}}<ref name=aaa474_2_653/>
+ | appmag_v    = 3.722<ref name=sps1966/>
+ | constell    = [[Aquarius (constellation)|Aquarius]]
+}}
+{{Starbox character
+ | class       = {{nowrap|M2.5 IIIa Fe–1}}<ref name=mnras389_2_869/>
+ | b-v         = +1.641<ref name=sps1966/>
+ | u-b         = +1.721<ref name=sps1966/>
+ | variable    = [[Semiregular variable star|Semiregular]]<ref name=SIMBAD/>
+}}
+{{Starbox astrometry
+ | radial_v    = {{nowrap|−10.46 ± 0.53}}<ref name=aaa498_2_627/>
+ | prop_mo_ra  = +17.02<ref name=aaa474_2_653/>
+ | prop_mo_dec = +33.03<ref name=aaa474_2_653/>
+ | parallax    = 8.47
+ | p_error     = 0.66
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = –1.5<ref name=aj134_4_1348/>
+}}
+{{Starbox detail
+ | mass        = 3.6<ref name=tsuji2007/>
+ | radius      = 
+ | luminosity  = 
+ | temperature = 3,835<ref name=tsuji2007/>
+ | metal_fe    = –2.25<ref name=aj134_4_1348/>
+ | rotational_velocity = 
+ | age_gyr     = 
+}}
+{{Starbox catalog
+ | names=Hydor, Ekkhysis, 73&nbsp;Aquarii, [[Bonner Durchmusterung|BD]]–08&nbsp;5968, [[FK5]]&nbsp;864, [[Henry Draper Catalogue|HD]]&nbsp;216386, [[Hipparcos catalogue|HIP]]&nbsp;112961, [[Bright Star Catalogue|HR]]&nbsp;8698, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;146362.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Lambda Aquarii''' (λ Aqr, λ Aquarii) is the [[Bayer designation]] for a [[star]] in the [[celestial equator|equatorial]] [[constellation]] of [[Aquarius (constellation)|Aquarius]]. It has the obscure traditional names '''Hydor''' and '''Ekkhysis''', from the [[ancient Greek]] ὕδωρ "water" and ἔκχυσις "outpouring". The [[apparent visual magnitude]] of this star is 3.722,<ref name=sps1966/> which is bright enough to be visible with the naked eye. It is roughly {{convert|390|ly|pc|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|壘壁陣}} ({{lang|zh-Latn|Lěi Bì Zhèn}}), meaning ''[[Encampment (Chinese constellation)|Line of Ramparts]]'', refers to an asterism consisting of λ Aquarii, [[Kappa Capricorni|κ Capricorni]], [[Epsilon Capricorni|ε Capricorni]], [[Gamma Capricorni|γ Capricorni]], [[Delta Capricorni|δ Capricorni]], [[Iota Aquarii|ι Aquarii]], [[Sigma Aquarii|σ Aquarii]], [[Phi Aquarii|φ Aquarii]], [[27 Piscium]], [[29 Piscium]], [[33 Piscium]] and [[30 Piscium]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, λ Aquarii itself is known as {{lang|zh|壘壁陣七}} ({{lang|zh-Latn|Lěi Bì Zhèn qī}}, {{lang-en|the Seventh Star of Line of Ramparts}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060707.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 7 日]</ref>
+
+Lambda Aquarii is a [[red giant]] star with a [[stellar classification]] of M2.5&nbsp;III.<ref name=mnras389_2_869/> It is a [[semiregular variable star]] star with pulsation periods of 24.5, 32.0, and 49.5 days.<ref name=mnras400_4_1945/> This star is on the [[asymptotic giant branch]] and is generating energy through the nuclear fusion of hydrogen and helium along concentric shells surrounding an inert core of carbon and oxygen.<ref name=cia152_178/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=tsuji2007>{{citation | last1=Tsuji | first1=Takashi | contribution=Isotopic abundances of Carbon and Oxygen in Oxygen-rich giant stars | title=Convection in Astrophysics, Proceedings of IAU Symposium #239 held 21-25 August, 2006 in Prague, Czech Republic | editor1-first=F. | editor1-last=Kupka | editor2-first=I. | editor2-last=Roxburgh | editor3-first=K. | editor3-last=Chan | pages=307–310 | month=May | year=2007 | doi=10.1017/S1743921307000622 | bibcode=2007IAUS..239..307T | arxiv=astro-ph/0610180 | postscript=. }}</ref>
+
+<ref name=cia152_178>{{citation | last1=Lebzelter | first1=T. | last2=Hron | first2=J. | title=BRITE stars on the AGB | journal=Communications in Asteroseismology | volume=152 | pages=178–181 | month=January | year=2008 | doi=10.1553/cia152s178 | bibcode=2008CoAst.152..178L | postscript=. }}</ref>
+
+<ref name=aaa498_2_627>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Pourbaix | first2=D. | last3=Frankowski | first3=A. | last4=van Eck | first4=S. | last5=Mayor | first5=M. | last6=Udry | first6=S. | last7=Jorissen | first8=A. | title=Spectroscopic binaries among Hipparcos M giants. I. Data, orbits, and intrinsic variations | journal=Astronomy and Astrophysics | volume=498 | issue=2 | pages=627–640 | month=May | year=2009 | doi=10.1051/0004-6361/200810698 | bibcode=2009A&A...498..627F | postscript=. |arxiv = 0901.0934 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=lam Aqr -- Pulsating variable Star  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Lambda+Aquarii | accessdate=2012-07-01 | postscript=. }}</ref>
+
+<ref name=mnras400_4_1945>{{citation | display-authors=1 | last1=Tabur | first1=V. | last2=Bedding | first2=T. R. | last3=Kiss | first3=L. L. | last4=Moon | first4=T. T. | last5=Szeidl | first5=B. | last6=Kjeldsen | first6=H. | title=Long-term photometry and periods for 261 nearby pulsating M giants | journal=Monthly Notices of the Royal Astronomical Society | volume=400 | issue=4 | pages=1945–1961 | month=December | year=2009 | doi=10.1111/j.1365-2966.2009.15588.x | bibcode=2009MNRAS.400.1945T | postscript=. |arxiv = 0908.3228 }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E | postscript=. |arxiv = 0806.2878 }}</ref>
+
+<ref name=aj134_4_1348>{{citation | last1=Dupree | first1=A. K. | last2=Li | first2=Timothy Q. | last3=Smith | first3=Graeme H. | title=Hubble Space Telescope Observations of Chromospheres in Metal-Deficient Field Giants | journal=The Astronomical Journal | volume=134 | issue=4 | pages=1348–1359 | month=October | year=2007 | doi=10.1086/520925 | bibcode=2007AJ....134.1348D | postscript=. |arxiv = 0709.1709 }}</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=22+52+36.8759-07+34+46.557&ident=V*+lam+Aqr&submit=Aladin+previewer Image Lambda Aquarii]
+* [http://www.purplehell.com/riddletools/stars.htm Named Stars ]
+
+{{Stars of Aquarius}}
+
+[[Category:Stars with proper names]]
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Bayer objects|Aquarii, Lambda]]
+[[Category:Aquarius (constellation)]]
+[[Category:Irregular variables]]
+[[Category:M-type giants]]
+
+[[ca:Lambda Aquarii]]
+[[es:Hydor]]
+[[fa:لاندا دلو]]
+[[fr:Lambda Aquarii]]
+[[id:Lambda Aquarii]]
+[[it:Hydor]]
+[[pt:Lambda Aquarii]]

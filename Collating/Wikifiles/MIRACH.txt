@@ -1,0 +1,149 @@
+{{About|the star|the target drones|Galileo Mirach 150|and|Galileo Mirach 26}}
+{{Starbox begin
+| name = Beta Andromedae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Andromeda IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Andromeda constellation and its surroundings]]
+     <div style="position: absolute; left: 38.7%; top: 51.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Andromedae (circled)
+}}
+{{Starbox observe
+| epoch       = [[J2000.0]]
+| equinox     = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell    = [[Andromeda (constellation)|Andromeda]]
+| ra          = {{RA|01|09|43.92388}}<ref name=aaa474_2_653/>
+| dec         = {{DEC|+35|37|14.0075}}<ref name=aaa474_2_653/>
+| appmag_v    = 2.05<ref name=clpl4/> (2.01 to 2.10)<ref name=nsv />
+}}
+{{Starbox character
+| class       = M0&nbsp;III<ref name=araa11_29/>
+| u-b         = +1.96<ref name=clpl4/>
+| b-v         = +1.57<ref name=clpl4/>
+| v-r         = 0.9<ref name=sb0 />
+| r-i         = +1.00<ref name=bsc1 />
+| variable    = [[Semiregular variable|Semiregular]]<ref name=nsv />
+}}
+{{Starbox astrometry
+| radial_v    = {{nowrap|0.06 ± 0.13}}<ref name=aaa430_165/>
+| prop_mo_ra  = 175.90<ref name=aaa474_2_653/>
+| prop_mo_dec = −112.20<ref name=aaa474_2_653/>
+| parallax    = 16.52
+| p_error     = 0.56
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v    = –1.76<ref name=aaa343_222/>
+}}
+{{Starbox detail
+| mass        = 3&ndash;4<ref name=stars />
+| radius      = 100<ref name=aj135_1_209/>
+| luminosity  = 1,995<ref name=aj135_1_209/>
+| temperature = 3,842<ref name=aaa480_1_91/>
+| gravity     = 1.52<ref name=aaa480_1_91/>
+| metal_fe    = –0.05<ref name=aaa480_1_91/>
+| rotational_velocity = 7.2<ref name=aj135_1_209/>
+}}
+{{Starbox catalog
+| names = Mirach, Merach, Mirac, Mizar, β&nbsp;And, Beta&nbsp;Andromedae, Beta&nbsp;And, [[Flamsteed designation|43&nbsp;Andromedae]], 43&nbsp;And, [[Durchmusterung|BD]]+34°198, [[Fifth Fundamental Catalogue|FK5]]&nbsp;42, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;53.3, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;9044, [[Henry Draper Catalogue|HD]]&nbsp;6860, [[Hipparcos Catalogue|HIP]]&nbsp;5447, [[Bright Star Catalogue|HR]]&nbsp;337, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;10420, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;3848, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;54471, [[Washington Double Star Catalog|WDS]]&nbsp;01097+3537A.<ref name=sb0 /><ref name=allen />
+}} 
+{{Starbox reference
+ | Simbad=HD+6860
+}}
+{{Starbox end}}
+
+'''Beta Andromedae''' (Beta And, β And, β Andromedae) is the [[Bayer designation]] for a prominent [[star]] in the northern [[constellation]] of [[Andromeda (constellation)|Andromeda]]. It has the traditional name '''Mirach''', which is also spelled Merach, Mirac, Mirak.<ref name=allen/> β Andromedae is located northeast of the Great Square of [[Pegasus (constellation)|Pegasus]] and is theoretically visible to all observers north of 54° S. The [[galaxy]] NGC 404, also known as [[Mirach's Ghost]], is visible seven [[arc-minute]]s away.<ref name=darling/>
+
+This star has an average [[apparent visual magnitude]] of 2.05,<ref name=clpl4/> which makes it the brightest star in the constellation. However, the luminosity varies slightly from magnitude +2.01 to +2.10.<ref name=nsv/> Based upon [[parallax]] measurements, it is located at a distance of roughly {{Convert|197|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> The apparent magnitude of this star is reduced by 0.06 from [[Extinction (astronomy)|extinction]] caused by the gas and dust along the line of sight.<ref name=aaa430_165/>
+
+==Properties==
+Beta Andromedae is a [[red giant]] with a [[stellar classification]] of M0&nbsp;III.<ref name=araa11_29/> Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It is suspected of being a [[semiregular variable|semiregular]] [[variable star]] whose [[apparent visual magnitude]] varies from +2.01 to +2.10.<ref name=nsv/> At this stage of the star's [[stellar evolution|evolution]], the outer envelope has expanded to around 100 times the size of the Sun.<ref name=aj135_1_209/> It is radiating 1,995<ref name=aj135_1_209/> times the luminosity of the Sun at an [[effective temperature]] of 3,842&nbsp;K.<ref name=aaa480_1_91/>
+
+==Naming and etymology==
+*The name ''Mirach'', and its variations, such as ''Mirac'', ''Mirar'', ''Mirath'', ''Mirax'', etc. (the name is spelled ''Merach'' in [[Elijah Hinsdale Burritt|Burritt]]'s ''The Geography of the Heavens'')<ref>p. 18, ''[http://books.google.com/books?hl=en&id=ZLEXAAAAIAAJ The Geography of the Heavens]'', Elijah Hinsdale Burritt, Hiram Mattison, and Henry Whitall, New York: Sheldon & Company, 1856.</ref> come from the star's description in the ''[[Alfonsine Tables]]'' of 1521 as ''super mizar''.<ref name=allen />  Here, ''mirat'' is a corruption of the [[Arabic language|Arabic]] '''ميزر''' ''[[mizar (star)|mīzar]]'' "girdle", which appeared in a [[Latin language|Latin]] translation of the ''[[Almagest]]''.<ref name=allen />  This word refers to Mirach's position at the left hip of the princess [[Andromeda (mythology)|Andromeda]].<ref name=encarta>[http://encarta.msn.com/encyclopedia_761587746/Mirach.html Mirach], ''MSN Encarta''.  Accessed on line August 19, 2008. [http://www.webcitation.org/5kwQ0w7dd Archived] 2009-10-31.</ref>
+*Medieval astronomers writing in Arabic called β&nbsp;Andromedae ''Janb al-Musalsalah'' ({{lang-en|The Side of the Chained (Lady)}}); it was part of the 26th ''manzil'' (Arabian [[lunar mansion]]) ''Ba<u>t</u>n al-<u>H</u>ũt'', the Belly of the Fish, or ''Qalb al-<u>H</u>ũt'', the Heart of the Fish.<ref name=allen /><ref name=d-jr>George A.Davis Jr. (1971) ''Selected List of Star Names'', p. 5.</ref>  The star has also been called ''Cingulum'' and ''Ventrale''.<ref name=allen /> This ''al-<u>H</u>ũt'' was an indigenous Arabic constellation, not the Western "Northern Fish" part of the constellation [[Pisces (constellation)|Pisces]].<ref name=d-jr /><!--Davis Jr said ". . . and were never asigned to β by the Arabs".--> These names are not from the Arabic ''marãqq'', loins, because it was never called ''al-Marãqq'' in Arabian astronomy.<ref name=d-jr /><!--Davis Jr said "this fish, however, was not the northern fish of the zodiacal constellation Psc".--> ''Al Rishã''', the Cord (of the well-bucket), on [[Abd Al-Rahman Al Sufi|al-Sũfĩ]]'s [[star map]]. It is origin of the proper name '''Alrescha''' for [[Alpha Piscium]].<ref name=allen /><ref>''ibid''. p. 19.</ref><ref>Kunitsch, P., Smart, T., (2006) ''A Dictionary of Modern Star names: A Shoert Guide to 254 Star Names and Their Derivations'', Cambridge, Sky Publishing Corp., p. 50.</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|奎宿}} ({{lang|zh-Latn|Kuí Sù}}), meaning ''[[Legs (Chinese constellation)|Legs]] (asterism)'', refers to an asterism consisting of β Andromedae, [[Eta Andromedae|η Andromedae]], [[65 Piscium]], [[Zeta Andromedae|ζ Andromedae]], [[Epsilon Andromedae|ε Andromedae]], [[Delta Andromedae|δ Andromedae]], [[Pi Andromedae|π Andromedae]], [[Nu Andromedae|ν Andromedae]], [[Mu Andromedae|μ Andromedae]], [[Sigma Piscium|σ Piscium]], [[Tau Piscium|τ Piscium]], [[91 Piscium]], [[Upsilon Piscium|υ Piscium]], [[Phi Piscium|φ Piscium]], [[Chi Piscium|χ Piscium]] and [[Psi¹ Piscium|ψ¹ Piscium]]. Consequently, β Andromedae itself is known as {{lang|zh|奎宿九}} ({{lang|zh-Latn|Kuí Sù jiǔ}}, {{lang-en|the Ninth Star of Legs}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060519.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 19 日]</ref>
+*The people of [[Micronesia]] named this star as ''Kyyw'' "The Porpoise", and become once of Micronesian month name.<ref>p. 345, [http://books.google.com/books?id=ILBuYcGASxcC ''Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy''], David H. Kelley, Eugene F. Milone, Anthony F. (FRW) Aveni, Berlin, Springer, 2011.</ref>
+*Mirach is listed in [[MUL.APIN]] as KA.MUSH.I.KU.E, meaning "the Deleter" (the alternative star is [[Alpha Cassiopeiae|α Cas]]).<ref>{{cite journal
+ | last=Rogers | first=J. H.
+ | title=Origins of the ancient constellations: I. The Mesopotamian traditions
+ | journal=Journal of the British Astronomical Association, no.1
+ | volume=108 | pages=9–28 | month=February | year=1998
+ | bibcode=1998JBAA..108....9R}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=aaa480_1_91>{{citation | display-authors=1 | last1=Soubiran | first1=C. | last2=Bienaymé | first2=O. | last3=Mishenina | first3=T. V. | last4=Kovtyukh | first4=V. V. | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants | journal=Astronomy and Astrophysics | year=2008 | volume=480 | issue=1 | pages=91–101 | bibcode=2008A&A...480...91S | doi=10.1051/0004-6361:20078788 |arxiv = 0712.1370 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=darling>{{citation | url=http://www.daviddarling.info/encyclopedia/M/Mirachs_Ghost.html | title=Mirach's Ghost (NGC 404) | work=The Internet Encyclopedia of Science | first1=David | last1=Darling | accessdate=2008-08-15 }}</ref>
+
+<ref name=clpl4>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | issue=1 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=sb0>{{SIMBAD link|bet+and|NAME MIRACH -- Variable Star}}, database entry, [[SIMBAD]].  Accessed on line August 12, 2008.</ref>
+
+<ref name=nsv>[http://webviz.u-strasbg.fr/viz-bin/VizieR-S?NSV%20414 NSV 414], database entry, table of suspected variable stars, Combined General Catalog of Variable Stars (GCVS4.2, 2004 Ed.), N. N. Samus, O. V. Durlevich, et al., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://cdsarc.u-strasbg.fr/viz-bin/Cat?II/250 II/250].</ref>
+
+<ref name=bsc1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=337 HR 337], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line August 12, 2008.</ref>
+
+<ref name=stars>[http://www.astro.uiuc.edu/~kaler/sow/mirach.html Mirach], ''Stars'', Jim Kaler.  Accessed on line August 13, 2008.</ref>
+
+<ref name=allen>{{citation | first1=R. A. | last1=Allen | author-link=Richard Hinckley Allen | year=1899 | url=http://books.google.com/books?id=5xQuAAAAIAAJ | title=Star-names and Their Meanings | page=36 }}</ref>
+
+<ref name=aaa343_222>{{citation | last1=Elgarøy | first1=Øystein | last2=Engvold | first2=Oddbjørn | last3=Lund | first3=Niels | title=The Wilson-Bappu effect of the MgII K line - dependence on stellar temperature, activity and metallicity | journal=Astronomy and Astrophysics | volume=343 | pages=222–228 | month=March | year=1999 | bibcode=1999A&A...343..222E }}</ref>
+
+}}
+
+==Further reading==
+* Davis Jr., G. A., (1971) ''Pronunciations, Derivations, and Meanings of a Selected List of Star Names'', (rep.) Cambridge, Sky Publishing Corp.
+* Kunitzsch, P., (1959) ''Arabische Sternnamen in Europa''
+* Kunitzsch. P., (ed.) (1990) ''Der Sternkatalog des Almagest'', Band II
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=01+09+43.9236%2B35+37+14.008&ident=NAME+MIRACH&submit=Aladin+previewer Image MIRACH]
+* {{WikiSky}}
+{{Sky|01|09|43.9236|+|35|37|14.008|199}}
+
+{{Stars of Andromeda}}
+
+[[Category:Semiregular variable stars]]
+[[Category:Stars with proper names]]
+[[Category:Andromeda (constellation)]]
+[[Category:M-type giants]]
+[[Category:Flamsteed objects|Andromedae, 43]]
+[[Category:Bayer objects|Andromedae, Beta]]
+[[Category:Henry Draper Catalogue objects|006860]]
+[[Category:Hipparcos objects|005447]]
+[[Category:Durchmusterung objects|BD+34 198]]
+
+[[ca:Beta Andromedae]]
+[[cs:Mirach]]
+[[de:Mirach]]
+[[es:Mirach]]
+[[eu:Beta Andromedae]]
+[[fa:جنب‌المسلسله]]
+[[fr:Beta Andromedae]]
+[[ko:미라크]]
+[[hi:बेटा ऐन्ड्रौमिडे तारा]]
+[[id:Beta Andromedae]]
+[[it:Mirach]]
+[[lb:Mirach (Stär)]]
+[[mk:Мирах]]
+[[nl:Mirach]]
+[[ja:ミラク]]
+[[pl:Mirach]]
+[[pt:Beta Andromedae]]
+[[ru:Мирах]]
+[[sk:Mirach]]
+[[fi:Mirach]]
+[[tr:Miraç (yıldız)]]
+[[zh:奎宿九]]

@@ -1,0 +1,492 @@
+{{About|the star|the video game|Tau Ceti (video game)}}
+{{featured article}}
+{{Starbox begin
+| name=Tau Ceti }}
+{{Starbox image
+| image=<div style="position: relative">[[File:Cetus constellation map.svg|250px|Location of Tau Ceti]]
+     <div style="position: absolute; left:46.4%; top:68.2%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+| caption=Tau Ceti (circled) in the south of the constellation Cetus. }}
+{{Starbox observe
+| epoch=J2000
+| constell=[[Cetus]]
+| pronounce={{IPAc-en|ˌ|t|aʊ|_|ˈ|s|iː|t|aɪ}}
+| ra={{RA|01|44|04.0829}}<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=tau+ceti | work=SIMBAD
+ | title=LHS 146 &ndash; High proper-motion Star 
+ | publisher=Centre de Données astronomiques de Strasbourg
+ | accessdate=2009-01-14 }}</ref>
+| dec={{DEC|−15|56|14.928}}<ref name="SIMBAD"/>
+| appmag_v={{nowrap|3.50 ± 0.01}}<ref name="aaa494"/> }}
+{{Starbox character
+| class=G8.5&nbsp;V<ref name="SIMBAD"/>
+| b-v=+0.72<ref name="SIMBAD"/>
+| u-b=+0.22<ref name="SIMBAD"/>
+| variable=None }}
+{{Starbox astrometry
+| radial_v=−16.4<ref name="SIMBAD"/>
+| prop_mo_ra=−1721.94<ref name="SIMBAD"/>
+| prop_mo_dec=854.17<ref name="SIMBAD"/>
+| parallax_footnote=<ref name="aaa494"/>
+| parallax=273.96
+| p_error=0.17
+| absmag_v={{nowrap|5.69 ± 0.01}}<ref name="aaa494"/> }}
+{{Starbox detail
+| mass={{nowrap|0.783 ± 0.012}}<ref name="aaa494"/>
+| radius={{nowrap|0.793 ± 0.004}}<ref name="aaa494"/>
+| luminosity={{nowrap|0.52 ± 0.03}}<ref>{{cite journal
+ | author=Pijpers, F. P.
+ | title=Selection criteria for targets of asteroseismic campaigns | journal=Astronomy and Astrophysics | volume=400
+ | issue=1
+ | pages=241–248 | year=2003
+ | doi=10.1051/0004-6361:20021839 | bibcode=2003A&A...400..241P|arxiv = astro-ph/0303032 }}</ref>
+| temperature={{nowrap|5,344 ± 50}}<ref>{{cite journal
+ | author=Santos, N. C.; Israelian, G.; García López, R. J.; Mayor, M.; Rebolo, R.; Randich, S.; Ecuvillon, A.; Domínguez Cerdeña, C.
+ | title=Are beryllium abundances anomalous in stars with giant planets?
+ | journal=Astronomy and Astrophysics | year=2004
+ | volume=427
+ | issue=3 | pages=1085–1096
+ | arxiv=astro-ph/0408108
+ | doi = 10.1051/0004-6361:20040509
+| bibcode=2004astro.ph..8108S}}</ref>
+| metal=−0.55 ± 0.05<ref name="Tuomi2012preprint" /><br>28 ± 3% Sun
+| gravity=4.4<ref name="strobel" />
+| rotation=34&nbsp;days<ref name="ApJL457" />
+| age_gyr=5.8<ref name="MH08">{{cite journal
+ | author=Mamajek, Eric E.; Hillenbrand, Lynne A.
+ | title=Improved Age Estimation for Solar-Type Dwarfs Using Activity-Rotation Diagnostics
+ | journal=The Astrophysical Journal | volume=687 | issue=2
+ | pages=1264–1293 | month=November | year=2008
+ | doi=10.1086/591785 | bibcode=2008ApJ...687.1264M |arxiv = 0807.1686 }}</ref>
+}}
+{{Starbox catalog |
+  names=Durre Menthor,<ref>{{cite web
+ | first=David | last=Malin | date=June 8, 2008 | title=Cetus
+ | work=David Malin Images | accessdate=2009-06-24 | url=http://www.davidmalin.com/fujii/source/Cet.html 
+}}</ref><ref name=pelagos>{{cite web
+ | author=Anonymous | title=Cetus | publisher=Omnipelagos.com
+ | url=http://pelagos.fasterlight.com/entry?n=cetus
+ | accessdate=2009-06-24 }} &lt; الدرر المنثور al durr' al-manthūur The Scattered Pearls (of the Broken Necklace).</ref> 52 Ceti, [[Henry Draper catalogue|HD 10700]], [[Harvard Revised catalogue|HR 509]], [[Bonner Durchmusterung|BD-16°295]], [[General Catalogue of Trigonometric Parallaxes|GCTP 365.00]], [[Gliese-Jahreiss catalogue|GJ 71]], [[Luyten Half-Second catalogue|LHS 146]],  [[Luyten Two-Tenths catalogue|LTT 935]], [[Luyten Five-Tenths catalogue|LFT 159]], [[Smithsonian Astrophysical Observatory Star Catalog|SAO 147986]], LPM 84, FK5 59, [[Hipparcos catalogue|HIP 8102]].<ref name="SIMBAD"/> }}
+{{Starbox end}}
+'''Tau Ceti''' ('''τ Cet''', '''τ Ceti''') is a [[star]] in the [[constellation]] [[Cetus]] that is [[Stellar classification|spectrally]] similar to the [[Sun]], although it has only about 78% of the [[Solar mass|Sun's mass]]. At a distance of just under 12 [[light-year]]s from the [[Solar System]], it is a [[List of nearest stars|relatively nearby star]], and is the closest solitary [[G-type main-sequence star|G-class]] star.<ref group=nb>[[Alpha Centauri|Alpha Centauri A]] is closer, but is a member of a triple system.</ref> The star appears stable, with little [[stellar variation]]. 
+ 
+Tau Ceti is [[metallicity|metal-deficient]], which deficiency is usually correlated with no giant planets and few [[terrestrial planets|rocky planets]]. Observations have however detected more than ten times as much dust surrounding Tau Ceti as is present in the Solar System.
+
+As of December 2012, evidence exists for possibly five planets orbiting Tau Ceti, with the potential for one of these to be in the [[habitable zone]].<ref name=bbc-planet2012>[http://www.bbc.co.uk/news/science-environment-20770103 "Tau Ceti's planets nearest around single, Sun-like star", ''BBC News'', 19 December 2012]</ref><ref name=astrobio-2012>[http://www.astrobio.net/pressrelease/5220/tau-ceti-may-have-a-habitable-planet "Tau Ceti May Have a Habitable Planet", ''Astrobiology Magazine'', December 19, 2012]</ref> Because of its [[debris disk]], any planet orbiting Tau Ceti would face far more [[impact event]]s than the Earth. Despite this hurdle to [[Planetary habitability|habitability]], its [[solar analog]] (Sun-like) characteristics have led to widespread interest in the star. Given its stability, similarity and relative proximity to the Sun, Tau Ceti is consistently listed as a target for the [[SETI|Search for Extra-Terrestrial Intelligence]] (SETI), and it appears in [[Tau Ceti in fiction|some science fiction]] literature.<ref name=rutkowski2010>{{citation
+ | first1=Chris A. | last1=Rutkowski | title=The Big Book of UFOs
+ | publisher=Dundurn | year=2010 | isbn=1554887607 | page=33
+ | url=http://books.google.com/books?id=cqmizCB7iacC&pg=PA33 }}</ref>
+
+It can be seen with the unaided eye as a third-[[Apparent magnitude|magnitude]] star.<ref group="nb">It can not be observed above [[75th parallel north|latitude 75°N]], as that is 90° north of the declination, [[15th parallel south|15°S]]. In practice, [[Scintillation (astronomy)|atmospheric effects]] will reduce visibility of the object when it is near the horizon.</ref> As seen from Tau Ceti, the Sun would be a third-magnitude star in the constellation [[Boötes]].<ref group="nb">From Tau Ceti the Sun would appear on the diametrically opposite side of the sky at the coordinates RA={{RA|13|44|04}}, Dec={{DEC|15|56|14}}, which is located near [[Tau Boötis]]. The absolute magnitude of the Sun is 4.8, so, at a distance of {{val|3.65|ul=parsec}}, the Sun would have an apparent magnitude:<br> <math>\begin{smallmatrix} m = M_v + 5\cdot((\log_{10} 3.64) - 1) = 2.6 \end{smallmatrix}</math>.</ref>
+
+==Name==
+Tau Ceti does not have a widely-recognized traditional name.
+
+The name "Tau Ceti" is the [[Bayer designation]] for this star, established in 1603 as part of German celestial cartographer [[Johann Bayer]]'s ''[[Uranometria]]'' star catalogue: it is "number T" in Bayer's sequence of constellation Cetus. It has the proper name Durre Menthor,<ref>{{cite book
+ | author=Moore, Patrick; Rees, Robin | year=2011
+ | page=409 | title=Patrick Moore's Data Book of Astronomy
+ | publisher=Cambridge University Press
+ | edition=2nd | isbn=0-521-89935-4
+ | url=http://books.google.com/books?id=2FNfjWKBZx8C&pg=PA408
+ | accessdate=2011-04-28
+}}</ref> which comes from the Arabic Al Durr' Al-Manthūur ('''الدرر المنثور'''), meaning The Scattered Pearls (of the Broken Necklace).<ref name=pelagos/> In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], written at [[Cairo]] about 1650, this star was designated '''Thālith al Naʽāmāt''' ('''تالت ألنعامة''' - ''taalit al naʽāmāt''), which was translated into [[Latin]] as '''Tertia Struthionum''', meaning ''the third ostrich''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref> This star, along with [[Eta Ceti|η Cet]] (Deneb Algenubi), [[Theta Ceti|θ Cet]] (Thanih Al Naamat), [[Zeta Ceti|ζ Cet]] (Baten Kaitos), and [[Upsilon Ceti|υ Cet]], were '''Al Naʽāmāt''' ('''ألنعامة'''), the Hen Ostriches.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=162 }}</ref><ref>[[Eta Ceti|η Cet]] as '''Aoul al Naamat''' or '''Prima Sthrutionum''' (the first ostrich), [[Theta Ceti|θ Cet]] as '''Thanih al Naamat''' or '''Secunda Sthrutionum'''  (the second ostrich), τ Cet as '''Thalath al Naamat''' or '''Tertia Sthrutionum'''  (the third ostrich), and [[Zeta Ceti|ζ Cet]] as '''Rabah al Naamat''' or '''Quarta Sthrutionum'''  (the fourth ostrich). [[Upsilon Ceti|υ Cet]] should be '''Khamis al Naamat''' or '''Quinta Sthrutionum''' (the fifth ostrich) consistently, but Al Achsasi Al Mouakket designated the title ''the fifth ostrich'' to [[Gamma Andromedae|γ Gam]] with uncleared consideration.</ref>
+
+In Chinese, the "[[Bond (Chinese constellation)|Square Celestial Granary]]" ({{zh|c=天倉|p=Tiān Cāng}}) refers to an [[asterism (astronomy)|asterism]] consisting of τ Ceti, [[Iota Ceti|ι Ceti]], [[Eta Ceti|η Ceti]], [[Zeta Ceti|ζ Ceti]], [[Theta Ceti|θ Ceti]] and [[57 Ceti]].<ref>{{cite book
+ | language  = Chinese
+ | title     = 中國星座神話
+ | author    = 陳久金
+ | publisher = 台灣書房出版有限公司
+ | year      = 2005
+ | isbn      = 978-986-7332-25-7}}</ref> Consequently, τ Ceti itself is known as the "Fifth Star of Square Celestial Granary" ({{zh|c=天倉五|p=Tiān Cāng wǔ|l=|links=no}}).<ref>{{cite web
+ | language    = Chinese
+ | url         = http://aeea.nmns.edu.tw/2006/0607/ap060710.html
+ | title       = 天文教育資訊網
+ | trans_title = Activities of Exhibition and Education in Astronomy (AEEA)
+ | author      = 陳輝樺 (Editor)
+ | date        = July 10, 2006}}</ref>
+
+==Motion==
+The [[proper motion]] of a star is its amount of movement across the [[celestial sphere]], determined by comparing its position relative to more distant background objects. Tau Ceti is considered to be a high-proper-motion star, although it only has an annual traverse of just under two [[arc second]]s.<ref group="nb">The net proper motion is given by:<br>
+<math>\begin{smallmatrix} \mu = \sqrt{ {\mu_\delta}^2 + {\mu_\alpha}^2 \cdot \cos^2 \delta } = 1907.79\,\text{mas/y} \end{smallmatrix}</math>
+where ''&mu;<sub>&alpha;</sub>'' and ''&mu;<sub>&delta;</sub>'' are the components of proper motion in the R.A. and Declination, respectively, and ''&delta;'' is the Declination. See:<br>
+{{cite web
+ | last = Majewski | first = Steven R. | year=2006
+ | url = http://www.astro.virginia.edu/class/majewski/astr551/lectures/VELOCITIES/velocities.html
+ | title =Stellar Motions | publisher =University of Virginia
+ | accessdate = 2007-09-27 }}</ref> It will require about two thousand years before the location of this star shifts by more than a degree. A high proper motion is an indicator of closeness to the Sun.<ref>{{cite web
+ | last=Reid | first=Neill | date=February 23, 2002
+ | url=http://www-int.stsci.edu/~inr/nstars2.html
+ | title=Meeting the neighbours: NStars and 2MASS
+ | publisher=Space Telescope Science Institute
+ | accessdate=2006-12-11 }}</ref> Nearby stars can traverse an angle of arc across the sky more rapidly than the distant background stars and are good candidates for [[parallax]] studies. In the case of Tau Ceti, the parallax measurements indicate a distance of {{val|11.9|ul=ly}}. This makes it [[List of nearest stars|one of the closest]] star systems to the Sun, and the next-closest [[Stellar classification#Class G|spectral class-G star]] after [[Alpha Centauri|Alpha Centauri A]].<ref>{{cite web
+ | last=Henry | first=Todd J.
+ | date=October 1, 2006
+ | url=http://www.chara.gsu.edu/RECONS/TOP100.htm
+ | title=The One Hundred Nearest Star Systems
+ | publisher=Research Consortium on Nearby Stars
+ | accessdate=2006-12-11 | archiveurl = http://web.archive.org/web/20061128221321/http://www.chara.gsu.edu/RECONS/TOP100.htm| archivedate = November 28, 2006}}</ref>
+
+The [[radial velocity]] of a star is its motion toward or away from the Sun. Unlike proper motion, a star's radial velocity cannot be directly observed, but must be determined through measurement of the spectrum. Due to the [[Doppler effect|Doppler shift]], the [[absorption line]]s in the spectrum of a star will be shifted slightly toward the red (or longer wavelengths) if the star is moving away from the observer, or toward blue (or shorter wavelengths) when it moves toward the observer. In the case of Tau Ceti, the radial velocity is about −17&nbsp;km/s, with the negative value indicating that it is moving toward the Sun.<ref>{{cite journal
+ | author=Butler, R. P.; Marcy, G. W.; Williams, E.; McCarthy, C.; Dosanjh, P.; Vogt, S. S.
+ | title=Attaining Doppler Precision of 3 M s-1
+ | journal=Publications of the Astronomical Society of the Pacific
+ | year=1996 | volume=108 | pages=500
+ | bibcode=1996PASP..108..500B  | doi = 10.1086/133755 }}</ref>
+
+The distance to Tau Ceti, along with its proper motion and radial velocity, allow the motion of the star through space to be calculated. The [[stellar kinematics|space velocity]] relative to the Sun is about {{val|37|u=km/s}}.<ref group="nb">The space velocity components are: U = +18; V = +29, and W = +13. This yields a net space velocity of:<br><math>\begin{smallmatrix} \sqrt{18^2 + 29^2 + 13^2} = 36.5\,\text{km/s.} \end{smallmatrix}</math></ref> This result can then be used to compute an orbital path of Tau Ceti through the [[Milky Way]] galaxy. It has a mean galacto-centric distance of {{val|9.7|u=kiloparsec}} ({{val|32000|ul=ly}}) and an [[orbital eccentricity]] of 0.22.<ref name=Mello>{{cite journal
+ | author=Porto de Mello, G. F.; del Peloso, E. F.; Ghezzi, L.
+ | title=Astrobiologically interesting stars within 10 parsecs of the Sun
+ | journal=Astrobiology | year=2006 | volume=6
+ | issue=2 | pages=308–331
+ | doi= 10.1089/ast.2006.6.308
+ | pmid=16689649 | bibcode=2006AsBio...6..308P|arxiv = astro-ph/0511180 }}</ref>
+
+==Physical properties==
+[[Image:Compare sun tau ceti.png|left|thumb|320px|The Sun (left) is both larger and somewhat hotter than the less active Tau Ceti (right).]]
+The Tau Ceti system is believed to have only one stellar component. A dim optical companion has been observed, which is possibly gravitationally bound, but it is more than {{val|10|ul=arcseconds}} distant from the primary.<ref name=Pijpers2003>{{cite journal
+ | last=Pijpers | first=F. P.
+ | coauthors= Teixeira, T. C.; Garcia, P. J.; Cunha, M. S.; Monteiro, M. J. P. F. G.; [[Jørgen Christensen-Dalsgaard|Christensen-Dalsgaard, J.]]
+ | year=2003 | title= Interferometry and asteroseismology: The radius of τ Ceti
+ | journal=Astronomy & Astrophysics | volume=401
+ | issue=1
+ | pages= L15–L18 | url=http://www.aanda.org/index.php?option=article&access=standard&Itemid=129&url=/articles/aa/full/2003/28/aafd171/aafd171.right.html
+ | accessdate= 2007-09-24 | doi= 10.1051/0004-6361:20030837 | bibcode=2003A&A...406L..15P}}</ref>
+
+Most of what is known about the physical properties of Tau Ceti and its system has been determined through [[spectroscopy|spectroscopic]] measurements. By comparing the spectrum to computed models of [[stellar evolution]], the age, mass, radius and luminosity of Tau Ceti can be estimated. However, using an [[astronomical interferometer]], measurements of the radius of the star can be made directly to an accuracy of 0.5%.<ref name="aaa494">{{cite journal
+ | author=Teixeira, T. C.; Kjeldsen, H.; Bedding, T. R.; Bouchy, F.; [[Jørgen Christensen-Dalsgaard|Christensen-Dalsgaard, J.]]; Cunha, M. S.; Dall, T.; Frandsen, S.; Karoff, C.; Monteiro, M. J. P. F. G.; Pijpers, F. P.
+ | title=Solar-like oscillations in the G8 V star τ Ceti
+ | journal=Astronomy and Astrophysics | issue=1
+ | year=2009 | month=January | pages=237&ndash;242
+ | doi=10.1051/0004-6361:200810746
+ | volume=494 | bibcode=2009A&A...494..237T|arxiv = 0811.3989 }}</ref> It deploys a long baseline to measure angles much smaller than can be resolved with a conventional [[telescope]]. Through this means, the radius of Tau Ceti has been measured as {{nowrap|79.3 ± 0.4%}} of the [[solar radius]].<ref name="aaa494"/> This is about the size that is expected for a star with somewhat lower mass than the Sun.<ref name="aa426">{{cite journal
+ | author=Di Folco, E.; Thévenin, F.; Kervella, P.; Domiciano de Souza, A.; du Foresto, V. Coudé; Ségransan, D.; Morel, P.
+ | title=VLTI near-IR interferometric observations of Vega-Like Stars
+ | journal=Astronomy and Astrophysics
+ | year=2004 | volume=426
+ | issue=2 | pages=601–617
+ | bibcode=2004A&A...426..601D
+ | doi=10.1051/0004-6361:20047189 }}</ref>
+
+===Rotation===
+
+The [[rotation period]] for Tau Ceti was measured by periodic variations in the classic H and K absorption lines of singly [[ion]]ized [[calcium]], or Ca II. These lines are closely associated with surface [[magnetism|magnetic]] activity,<ref>{{cite web
+ | url = http://www.mtwilson.edu/hk/Overview/
+ | title = H-K Project: Overview of Chromospheric Activity
+ | publisher = Mount Wilson Observatory
+ | accessdate = 2006-11-15 }}</ref> so the period of variation measures the time required for the activity sites to complete a full rotation about the star. By this means the rotation period for Tau Ceti is estimated to be {{val|34|u=days}}.<ref name="ApJL457">{{cite journal
+ | author =Baliunas, S.; Sokoloff, D.; Soon, W.
+ | title=Magnetic Field and Rotation in Lower Main-Sequence Stars: an Empirical Time-dependent Magnetic Bode's Relation?
+ | journal=Astrophysical Journal Letters | year=1996
+ | volume=457
+ | issue =2 | pages=L99
+ | bibcode=1996ApJ...457L..99B | doi=10.1086/309891 }}</ref> Due to the [[Doppler effect]], the [[Stellar rotation|rotation rate of a star]] affects the width of the absorption lines in the spectrum. (Light from the side of the star moving away from the observer will be shifted to a longer wavelength; light from the side moving towards the observer will be shifted toward a shorter wavelength.) So by analyzing the width of these lines, the rotational velocity of a star can be estimated. The projected rotation velocity for Tau Ceti is:
+
+:<math> v_\mathrm{eq} \cdot \sin i \approx 1\  \text{km}/\text{s}. </math>
+
+where ''v''<sub>eq</sub> is the velocity at the [[equator]] and ''i'' is the [[inclination]] angle of the rotation axis to the line of sight. For a typical G8 star, the rotation velocity is about {{val|2.5|u=km/s}}. The relatively low rotational velocity measurements may indicate that Tau Ceti is being viewed from nearly the direction of its pole.<ref name=Gray1994>{{cite journal
+ | author=Gray, D. F.; Baliunas, S. L.
+ | title=The activity cycle of tau Ceti
+ | journal=Astrophysical Journal
+ | year=1994 | volume=427 | issue=2 | pages=1042–1047
+ | bibcode=1994ApJ...427.1042G
+ | doi = 10.1086/174210 }}
+</ref><ref>{{cite journal
+ | author = Hall, J. C.; Lockwood, G. W.; Gibb, E. L.
+ | title=Activity cycles in cool stars. 1: Observation and analysis methods and case studies of four well-observed examples
+ | journal=Astrophysical Journal
+ | year=1995 | volume=442 | issue=2 | pages=778–793
+ | bibcode=1995ApJ...442..778H
+ | doi=10.1086/175483 }}</ref>
+
+===Metallicity===
+
+The chemical composition of a star provides important clues to its evolutionary history, including the age at which it formed. The [[interstellar medium]] of dust and gas from which stars form is primarily composed of [[hydrogen]] and [[helium]] with trace amounts of heavier elements. As nearby stars continually evolve and die, they seed the interstellar medium with an increasing portion of heavier elements. Thus younger stars will tend to have a higher portion of heavy elements in their atmospheres than do the older stars. These heavy elements are termed metals by astronomers and the portion of heavy elements is the [[metallicity]].<ref>{{cite journal
+ | author=Carraro, G.; Ng, Y. K.; Portinari, L.
+ | title=Age Metallicity Relation and Star Formation History of the Galactic Disk
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=1999 | volume=296 | issue=4 | pages=1045–1056
+ | bibcode=1997astro.ph..7185C
+ | doi=10.1046/j.1365-8711.1998.01460.x |arxiv = astro-ph/9707185 }}</ref> The amount of metallicity in a star is given in terms of the ratio of [[iron]] (Fe), an easily observed heavy element, to hydrogen. A [[logarithm]] of the relative iron abundance is compared to the Sun. In the case of Tau Ceti, the atmospheric metallicity is roughly:
+
+:<math> \left [ \frac{\mathrm{Fe}}{\mathrm{H}} \right ] = -0.50 </math>
+
+or about a third the solar abundance. Past measurements have varied from {{nowrap|−0.13 to −0.60}}.<ref name="strobel">{{cite journal
+ | author=de Strobel, G. Cayrel; Hauck, B.; François, P.; Thevenin, F.; Friel, E.; Mermilliod, M.; Borde, S.
+ | title=A catalogue of Fe/H determinations – 1991 edition
+ | journal=Astronomy and Astrophysics Supplement Series
+ | year=1991 | volume=95 | issue=2 | pages=273–336
+ | bibcode=1992A&AS...95..273C }}</ref><ref name="mnras286">{{cite journal
+ | author=Flynn, C.; Morell, O.
+ | title=Metallicities and kinematics of G and K dwarfs
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=1997 | volume=286 | issue=3 | pages=617–625
+ | bibcode=1996astro.ph..9017F |arxiv = astro-ph/9609017 }}</ref> 
+
+This lower abundance of iron indicates that Tau Ceti is almost certainly older than the Sun. Its age had previously been estimated to be about {{val|10|ul=Gyr}} but is now thought to be around half that at {{val|5.8|u=Gyr}}.<ref name="MH08" /> This compares with {{val|4.57|u=Gyr}} for the Sun. However, computed age estimates for Tau Ceti can range from 4.4&ndash;{{val|12|u=Gyr}}, depending on the model adopted.<ref name="aa426" />
+
+Besides rotation, another factor that can widen the absorption features in the spectrum of a star is pressure-broadening. (See [[spectral line]].) The presence of nearby particles will affect the radiation emitted by an individual particle. So the line width is dependent on the surface pressure of the star, which in turn is determined by the temperature and surface gravity. This technique was used to determine the surface gravity of Tau Ceti. The {{nowrap|log ''g''}}, or [[logarithm]] of the star's surface gravity, is about 4.4&mdash;very close to the {{nowrap|log ''g'' {{=}} 4.44}} for the Sun.<ref name="strobel" />
+
+===Luminosity and variability===
+The [[luminosity]] of Tau Ceti is equal to only 55% of the [[solar luminosity|Sun's luminosity]].<ref name=Mello /> A [[terrestrial planet]] would need to orbit this star at a distance of about {{val|0.7|ul=AU}} in order to match the solar-[[insolation]] level of the Earth. This is approximately the same as the average distance between [[Venus]] and the Sun.
+
+The [[chromosphere]] of Tau Ceti—the portion of a star's atmosphere just above the light-emitting [[photosphere]]—currently displays little or no magnetic activity, indicating a stable star.<ref>{{cite journal
+ | author=Frick, P.; Baliunas, S. L.; Galyagin, D.; Sokoloff, D.; Soon, W. | title=Wavelet Analysis of Stellar Chromospheric Activity Variations
+ | journal=The Astrophysical Journal
+ | year=1997 | volume=483 | issue=1 | pages=426–434
+ | doi = 10.1086/304206 | bibcode=1997ApJ...483..426F}}</ref> One nine-year study of temperature, [[Granule (solar physics)|granulation]], and the chromosphere showed no systematic variations; Ca II emissions around the H and K [[Infrared astronomy|infrared bands]] show a possible 11-year cycle, but this is weak relative to the Sun.<ref name="Gray1994"/> Alternatively it has been suggested that the star could be in a low-activity state analogous to a [[Maunder minimum]]—a historical period, associated with the [[Little Ice Age]] in Europe, when [[sunspot]]s became exceedingly rare on the Sun's surface.<ref>{{cite journal
+ | author = Judge, P. G.; Saar, S. H.
+ | date = July 18, 1995 | title = The outer solar atmosphere during the Maunder Minimum: A stellar perspective
+ | publisher = High Altitude Observatory
+ | bibcode= 2007ApJ...663..643J |doi = 10.1086/513004 }}
+</ref><ref>{{cite journal
+ | author =Judge, Philip G.; Saar, Steven H.; Carlsson, Mats; Ayres, Thomas R. | title = A Comparison of the Outer Atmosphere of the "Flat Activity" Star τ Ceti (G8 V) with the Sun (G2 V) and α Centauri A (G2 V) | journal = The Astrophysical Journal
+ | volume = 609 | issue = 1 | pages = 392–406 | year = 2004
+ | doi = 10.1086/421044 | bibcode=2004ApJ...609..392J}}</ref> [[Spectral line]] profiles of Tau Ceti are extremely narrow, indicating low turbulence and observed rotation.<ref>{{cite journal
+ | author = Smith, G.; Drake, J. J.
+ | year = 1987 | month = July | title = The wings of the calcium infrared triplet lines in solar-type stars
+ | journal = Astronomy and Astrophysics  
+ | volume = 181 | issue = 1 | pages = 103–111
+ | bibcode = 1987A&A...181..103S }}</ref> The amplitude of the star's oscillations are about half those of the Sun, and have a lower mode lifetime.<ref name="aaa494"/>
+
+===Debris disk===
+In 2004, a team of UK [[astronomer]]s led by Jane Greaves discovered that Tau Ceti has more than ten times the amount of [[comet]]ary and [[asteroid]]al material orbiting it than does the Sun. This was determined by measuring the disk of cold dust orbiting the star produced by collisions between such small bodies.<ref name="Greaves">{{cite journal
+ | author=J. S. Greaves, M. C. Wyatt, W. S. Holland, W. R. F. Dent | title=The debris disc around tau Ceti: a massive analogue to the Kuiper Belt
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=2004 | volume=351 | issue=3 | pages=L54–L58
+ | bibcode=2004MNRAS.351L..54G
+ | doi = 10.1111/j.1365-2966.2004.07957.x }}</ref> This result puts a damper on the possibility of complex life in the system, as any planets would suffer from large [[impact event]]s roughly ten times more frequently than Earth. Greaves noted at the time of her research: "it is likely that [any planets] will experience constant bombardment from asteroids of the kind believed to have wiped out the [[dinosaur]]s."<ref name=McKee2004>{{cite web
+ | first=Maggie | last=McKee
+ | url= http://media.newscientist.com/article.ns?id=dn6123
+ | title=Life unlikely in asteroid-ridden star system
+ | accessdate=2007-09-25 | date= July 7, 2004
+ | publisher= [[New Scientist]] }}</ref> Such bombardments would inhibit the development of [[biodiversity]] between impacts.<ref name=Schirber2009>{{cite web
+ | first=Michael | last=Schirber | url=http://www.astrobio.net/news/modules.php?op=modload&name=News&file=article&sid=3066&mode=thread&order=0&thold=0
+ | title=Cometary Life Limit
+ | accessdate=2009-03-12 | date= March 12, 2009
+ | publisher= [[NASA]] Astrobiology}}</ref> However, it is possible that a large [[Jupiter]]-sized [[gas giant]] could deflect comets and asteroids.<ref name="Greaves"/><ref group="nb">Whether Jupiter actually provides protection to the inner solar system is still unresolved. See, for instance:<br>
+{{cite news
+ | title=Jupiter: Friend Or Foe? | date=2007-08-25 | url=http://www.sciencedaily.com/releases/2007/08/070824133636.htm 
+ | publisher=Science daily | accessdate=2009-03-10 }}</ref>
+
+The debris disk was discovered by measuring the amount of radiation emitted by the system in the [[far infrared astronomy|far infrared]] portion of the [[spectrum]]. The disk forms a symmetric feature that is centered on the star, and the outer radius averages {{val|55|u=AU}}. The lack of infrared radiation from the warmer parts of the disk near Tau Ceti imply an inner cut-off at a radius of {{val|10|u=AU}}. By comparison, the Solar System's [[Kuiper belt]] extends from 30&ndash;{{val|50|u=AU}}. To be maintained over a long period of time, this ring of dust must be constantly replenished through collisions by larger bodies.<ref name="Greaves" /> The bulk of the disk appears to be orbiting Tau Ceti at a distance of 35&ndash;{{val|50|u=AU}}, well outside the orbit of the [[habitable zone]]. At this distance, the dust belt may be analogous to the [[Kuiper belt]] that lies outside the orbit of [[Neptune]] in the solar system.<ref name="Greaves" />
+
+Tau Ceti shows that stars need not lose large disks as they age and such a thick belt may not be uncommon among Sun-like stars.<ref name=Greaves2005>{{cite journal
+ | last=Greaves | first=Jane S.
+ | title=Disks Around Stars and the Growth of Planetary Systems 
+ | journal=[[Science (journal)|Science]]
+ | year=2005 |month=January | volume=307 | issue=5706
+ | pages=68–71 | doi= 10.1126/science.1101979
+ | pmid=15637266 |bibcode = 2005Sci...307...68G }}</ref> Tau Ceti's belt is only {{frac|1|20}}<sup>th</sup> as dense as the belt around its young neighbor, [[Epsilon Eridani]].<ref name="Greaves"/> The relative lack of debris around the Sun may be the unusual case: one research team member suggests the Sun may have passed close to another star early in its history and had most of its comets and asteroids stripped away.<ref name=McKee2004/> Stars with large debris disks have altered astronomical thinking about planet formation; debris disk stars, where dust is continually generated by collisions, appear to form planets readily.<ref name=Greaves2005/>
+
+==Life and planet searches==
+Principal factors driving research interest in Tau Ceti are its Sun-like characteristics and their implications for possible planets and life. Hall and Lockwood report that "the terms 'solarlike star,' '[[solar analog]],' and 'solar twin' [are] progressively restrictive descriptions."<ref>{{cite journal
+ | author=Hall, J. C.; Lockwood, G. W.
+ | title=The Chromospheric Activity and Variability of Cycling and Flat Activity Solar-Analog Stars
+ | journal=The Astrophysical Journal | year=2004
+ | volume=614
+ | issue=2 | pages=942–946
+ | doi = 10.1086/423926
+| bibcode=2004ApJ...614..942H}}</ref> Tau Ceti fits the second category, given its similar mass and low variability, but relative lack of metals.<ref group="nb">The star [[18 Scorpii]], arguably the truest Solar twin, presents a contrastive example to Tau Ceti: its metallicity is in keeping with Sol but its variability is significantly higher. See:<br>{{cite journal
+ | author=Hall, J. C.; Lockwood, G. W.
+ | title=Evidence of a Pronounced Activity Cycle in the Solar Twin 18 Scorpii | journal=The Astrophysical Journal | volume=545
+ | issue=2 | year=2000 | pages=L43–L45
+ | doi=10.1086/317331 | bibcode=2000ApJ...545L..43H}}</ref> The similarities have inspired [[Tau Ceti in fiction|popular culture references]] for decades, as well as scientific examination.
+
+Tau Ceti was a target of a few radial velocity planetary searches. As of 1988, observations ruled out any periodical variations attributable to massive planets around Tau Ceti inside of Jupiter-like distances.<ref name="apj331">{{cite journal
+ | last=Campbell| first= Bruce
+ | coauthors=Walker, G. A. H. | year=1988 | month=August
+ | title=A Search for Substellar Companions to Solar-Type Stars
+ | journal=Astrophysical Journal | volume=331| pages=902–921 |doi=10.1086/166608 | bibcode=1988ApJ...331..902C}}</ref><ref name=EPE/> Up until December 2012 ever-more-precise measurements continued to rule out such planets.<ref name=EPE>{{cite web
+ | title=Tables of Stars monitored by spectroscopy, with NO planet found
+ | publisher=Extrasolar Planets Encyclopedia
+ | accessdate=2007-09-28
+ | url=http://exoplanet.eu/list_no.html }}</ref> The velocity precision reached so far is about 11&nbsp;m/s measured over a five year time span.<ref name=Endl2002>{{cite journal
+ | last=Endl | first=M.
+ | coauthors=Kurster M.; Els S.
+ | title=The planet search program at the ESO Coud´e Echelle spectrometer
+ |journal=Astronomy & Astrophysics
+ | year=2002 | volume=392
+ | issue=2 | pages=585–594
+ | bibcode=2002A&A...392..671E
+ | doi=10.1051/0004-6361:20020937 |arxiv = astro-ph/0207512 }}</ref> This result excludes the presence of hot Jupiters, and probably excludes any planets with minimum mass greater than or equal to Jupiter's mass and with orbital periods less than 15 years.<ref name=Walker1995>{{cite journal
+ | last=Walker | first=Gordon A. H.
+ | coauthors=Walker Andrew H.; Irwin W.Alan; ''et al.''
+ | title=A Search for Jupiter-Mass Companions to Nearby Stars
+ | journal=Icarus | year=1995 | volume=116
+ | issue=2
+ | pages=359–375
+ | bibcode=1995Icar..116..359W
+ | doi=10.1006/icar.1995.1130 }} &mdash;Note that this study does not exclude the possibility of a large planet with a mass greater than Jupiter's and an [[orbital plane]] that is nearly perpendicular to the line of sight.</ref> In addition, a survey of nearby stars by the [[Hubble Space Telescope]]'s [[Wide Field and Planetary Camera]] was completed in 1999, including a search for faint companions to Tau Ceti; none were discovered to limits of the telescope's resolving power.<ref name=Schroeder2000>{{cite journal
+ | author=Schroeder, D. J.; Golimowski, D. A.; Brukardt, R. A. ''et al.''
+ | title=A Search for Faint Companions to Nearby Stars Using the Wide Field Planetary Camera 2
+ | journal=Astronomical Journal | year=2000 | volume=119
+ | issue=2 | pages=906–922
+ | url = http://www.iop.org/EJ/article/1538-3881/119/2/906/990423.html
+ | accessdate=2007-08-14 | doi = 10.1086/301227 | bibcode=2000AJ....119..906S}}</ref> 
+
+These searches only excluded larger [[brown dwarf]] bodies and giant planets so smaller, Earth-like planets in orbit around the star were not precluded.<ref name=Schroeder2000/> If "[[hot Jupiters]]" did exist in close orbit they would likely disrupt the star's [[habitable zone]]; their exclusion was thus considered a positive for the possibility of Earth-like planets.<ref name="apj331"/><ref name=SolStation>{{cite web
+ | url=http://www.solstation.com/stars/tau-ceti.htm
+ | title= Tau Ceti | accessdate=2007-09-25
+ | publisher=Sol Company }}</ref> General research has shown a positive correlation between the presence of [[extrasolar planet]]s and a relatively high metal parent star, suggesting that stars with lower metallicity such as Tau Ceti have a reduced chance of possessing planets.<ref>{{cite journal
+ | author =Gonzalez, G. | date=March 17–21, 1997
+ | title=The Stellar Metallicity - Planet Connection
+ | publisher=ASP Conference Series
+ | bibcode=1998bdep.conf..431G }}</ref> . Primitive life on Tau Ceti planets might reveal itself through an atmospheric composition unlikely to be inorganic, just as oxygen on Earth is indicative of life.<ref>{{cite journal
+ | last=Woolf | first= Neville
+ | coauthors=Angel, J. Roger | year=1998 | month=September
+ | title=Astronomical Searches for Earth-like Planets and Signs of Life
+ | journal=Annual Review of Astronomy and Astrophysics
+ | volume=36
+ | issue=1 | pages=507–537
+ | doi= 10.1146/annurev.astro.36.1.507 | bibcode=1998ARA&A..36..507W}}</ref>
+
+===SETI and HabCat===
+[[Image:Terrestrial Planet Finder PIA04499.jpg|thumb|250px|Tau Ceti may be a search target for the [[Terrestrial Planet Finder]]]]
+
+The most optimistic search project to date was [[Project Ozma]], which was intended to "search for [[extraterrestrial intelligence]]" ([[SETI]]) by examining selected stars for indications of artificial radio signals. It was run by the astronomer [[Frank Drake]], who selected Tau Ceti and [[Epsilon Eridani]] as the initial targets. Both are located near the solar system and are physically similar to the Sun. No artificial signals were found despite {{val|200|u=hour}}s of observations.<ref>{{cite web
+  | last = Alexander | first = Amir | year = 2006
+  | url = http://www.planetary.org/explore/topics/seti/seti_history_05.html 
+  | title = The Search for Extraterrestrial Intelligence, A Short History
+  | publisher = The Planetary Society | accessdate = 2006-11-08 }}</ref> Subsequent radio searches of this star system have also turned up negative.
+
+This lack of results has not dampened interest in observing the Tau Ceti system for biosignatures. In 2002, astronomers [[Margaret Turnbull]] and [[Jill Tarter]] developed the [[Catalog of Nearby Habitable Systems]] (HabCat) under the auspices of [[Project Phoenix]], another SETI endeavour. The list contained more than {{val|17000}} theoretically habitable systems, approximately 10% of the original sample.<ref>{{cite journal
+ | last=Turnbull |first= Margaret C.
+ | authorlink=Margaret Turnbull | coauthors=Tarter, Jill
+ | year=2003 | month=March | title=Target Selection for SETI. I. A Catalog of Nearby Habitable Stellar Systems
+ | journal= Astrophysical Journal Supplement Series
+ | volume=145 | issue=1 | pages=181–198
+ | bibcode=2003ApJS..145..181T | doi=10.1086/345779 |arxiv = astro-ph/0210675 }}</ref> The next year, Turnbull would further refine the list to the 30 most promising systems out of {{val|5000}} within one hundred light-years of the Sun, including Tau Ceti; this will form part of the basis of radio searches with the [[Allen Telescope Array]].<ref>{{cite web
+ | url= http://www.solstation.com/habitable.htm
+ | title= Stars and Habitable Planets
+ | accessdate=2007-09-21 | publisher=Sol Company }}</ref> She also chose Tau Ceti for a final shortlist of just five stars suitable for searches by the (indefinitely postponed)<ref>{{cite web |date=2006-02-06 |url=http://www.planetary.org/about/press/releases/2006/0206_Planetary_Society_Charges.html |title=NASA budget statement |publisher=[[Planetary Society]] |accessdate=2006-07-17}}</ref> [[Terrestrial Planet Finder]] telescope system, commenting that "these are places I'd want to live if God were to put our planet around another star."<ref>{{cite web
+ | url=http://www.aaas.org/news/releases/2006/0218habitable.shtml
+ | title= Astronomer Margaret Turnbull: A Short-List of Possible Life-Supporting Stars
+ | accessdate=2007-09-21
+ | publisher=[[American Association for the Advancement of Science]]
+ | date=February 18, 2006}}</ref>
+
+===Planets===
+On December 19, 2012, evidence was presented that is consistent with a system of five planets orbiting Tau Ceti.<ref name=Tuomi2012preprint>{{cite journal|last=Tuomi|first=M.|coauthors=et al|title=Signals embedded in the radial velocity noise: Periodic variations in the Tau Ceti velocities|journal=Astronomy & Astrophysics|issue=preprint|url=http://star-www.herts.ac.uk/~hraj/tauceti/paper.pdf|arxiv=1212.4277}}</ref>  The planets' minimum mass estimates are between two and six times the Earth's mass, with periods ranging from 14 to 640 days. One of them, tentatively named Tau Ceti e, appears to orbit about half as far from Tau Ceti as the Earth does from the Sun. With Tau Ceti being smaller and dimmer than the Sun, the planet would orbit within the star's habitable zone.<ref name=bbc-planet2012/><ref name=astrobio-2012/> Planetary Habitability Laboratory has calculated that the second planet Tau Ceti f would be narrowly within the habitable zone of the star as well<ref>http://phl.upr.edu/press-releases/twonearbyhabitableworlds</ref>.
+
+{{OrbitboxPlanet begin
+| name=Tau Ceti
+| 
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti b|b]]
+| mass_earth = 2.00 ± 0.79
+| period = 13.965 ± 0.02
+| semimajor = 0.105 ± 0.006
+| eccentricity = 0.16 ± 0.22
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti c|c]]
+| mass_earth = 3.11 ± 1.40
+| period = 35.362 ± 0.1
+| semimajor = 0.195 ± 0.01
+| eccentricity = 0.03 ± 0.03
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti d|d]]
+| mass_earth = 3.50 ± 1.59
+| period = 94.11 ± 0.7
+| semimajor = 0.374 ± 0.02
+| eccentricity = 0.08 ± 0.26
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti e|e]]
+| mass_earth = 4.29 ± 2.00
+| period = 168.12 ± 2.0
+| semimajor = 0.552 ± 0.02
+| eccentricity = 0.05 ± 0.2
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti f|f]]
+| mass_earth = 6.67 ± 3.50
+| period = 642 ± 30
+| semimajor = 1.35 ± 0.1
+| eccentricity = 0.03 ± 0.3
+}}
+{{Orbitbox end}}
+
+==See also==
+* [[Epsilon Eridani]]
+* [[List of nearest stars]]
+* [[Tau Ceti in fiction]]
+
+==Notes==
+{{reflist|group=nb|colwidth=60em}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* [http://nstars.nau.edu/index.cfm?fuseaction=nstars.home Nearby Stars Database]
+* [http://www.astro.uiuc.edu/~kaler/sow/taucet.html Tau Ceti] at Jim Kaler's STARS site
+* [http://www.centauri-dreams.org/?p=1471 Tau Ceti: Life Amidst Catastrophe?] at Centauri Dreams
+* [http://arxiv.org/abs/1212.4277 Signals embedded in the radial velocity noise. Periodic variations in the tau Ceti velocities] (18 Dec 2012 : [[arxiv]]:1212.4277)  
+{{Sky|01|44|04.0829|-|15|56|14.928|11.9}}
+{{Tau Ceti}}
+{{Nearest systems|3}}
+{{Stars of Cetus}}
+
+[[Category:Bayer objects|Ceti, Tau]]
+[[Category:Durchmusterung objects|BD-16 00295]]
+[[Category:Flamsteed objects|Ceti, 52]]
+[[Category:Henry Draper Catalogue objects|010700]]
+[[Category:Hipparcos objects|008102]]
+[[Category:HR objects|0509]]
+[[Category:Gliese and GJ objects|0071]]
+[[Category:Cetus (constellation)]]
+[[Category:G-type main sequence stars]]
+[[Category:Circumstellar disks]]
+[[Category:Stars with proper names]]
+
+{{Link GA|fr}}
+{{Link GA|ko}}
+{{Link GA|zh}}
+{{Link FA|cs}}
+{{Link FA|de}}
+
+[[ar:تاو قيطس]]
+[[br:Tau Ceti]]
+[[ca:Taus Ceti]]
+[[cs:Tau Ceti]]
+[[de:Tau Ceti]]
+[[el:Ταυ Κήτους]]
+[[es:Tau Ceti]]
+[[fa:تاو نهنگ]]
+[[fr:Tau Ceti]]
+[[ko:고래자리 타우]]
+[[it:Tau Ceti]]
+[[he:טאו בלווייתן]]
+[[ka:ვეშაპის ტაუ]]
+[[lv:Tau Ceti]]
+[[lb:Tau Ceti (Stär)]]
+[[hu:Tau Ceti]]
+[[nl:Tau Ceti]]
+[[ja:くじら座タウ星]]
+[[no:Tau Ceti]]
+[[pl:Tau Ceti]]
+[[pt:Tau Ceti]]
+[[ro:Tau Ceti]]
+[[ru:Тау Кита]]
+[[scn:Tau Ceti]]
+[[sk:Tau Ceti]]
+[[fi:Tau Ceti]]
+[[sv:Tau Ceti]]
+[[ta:டோயு செரி]]
+[[vi:Tau Ceti]]
+[[vo:Tau Ceti]]
+[[zh:天倉五]]

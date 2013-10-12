@@ -1,0 +1,128 @@
+{{Starbox begin
+ | name=Eta Ursae Majoris
+}}
+{{Starbox image
+ | image=<div style="position: relative">[[File:Ursa Major constellation map.svg|250px]]
+     <div style="position: absolute; left:7.5%; top:48.5%">[[image:Locator Dot2.gif|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+ | caption=Alkaid in the Big Dipper of Ursa Major.
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|13|47|32.43776}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+49|18|47.7602}}<ref name=aaa474_2_653/>
+ | appmag_v = +1.84<ref name=aj76_1058/>
+ | constell = [[Ursa Major]]
+}}
+{{Starbox character
+ | class    = B3&nbsp;V<ref name=araa11_29/>
+ | b-v      = –0.18<ref name=aj76_1058/>
+ | u-b      = –0.68<ref name=aj76_1058/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –10.9<ref name=scfs/>
+ | prop_mo_ra  = –121.17<ref name=aaa474_2_653/>
+ | prop_mo_dec = –14.91<ref name=aaa474_2_653/>
+ | parallax = 31.38
+ | p_error  = 0.24
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = {{nowrap|6.1 ± 0.1}}<ref name=mnras410_1_190/>
+ | radius   = 3.4<ref name=mnras189_601/>
+ | metal_fe = 
+ | age_myr  = {{nowrap|10.0 ± 2.6}}<ref name=mnras410_1_190/>
+ | gravity  = 4.27<ref name=aaa404_689/>
+ | luminosity  = 1,350<ref name=apj1_421_2_705/>
+ | temperature = {{nowrap|16,823 ± 177}}<ref name=mnras189_601/>
+ | rotational_velocity = 150<ref name=apj573_1_359/>
+}}
+{{Starbox catalog
+ | names = Alkaid, Benetnash, Benetnasch, Elkeid, η&nbsp;Ursae Majoris, η&nbsp;UMa, Eta&nbsp;UMa, 85&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+50°2027, [[Fifth Fundamental Catalogue|FK5]] 509, [[Boss General Catalogue|GC]]&nbsp;18643, [[Henry Draper catalogue|HD]] 120315, [[Hipparcos catalogue|HIP]] 67301, [[Bright Star Catalogue|HR]]&nbsp;5191, [[PPM Star Catalogue|PPM]]&nbsp;53742, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 44752.
+}}
+{{Starbox end}}
+'''Eta Ursae Majoris''' ('''Eta&nbsp;UMa''', '''η&nbsp;Ursae Majoris''', '''η&nbsp;UMa''') is a [[star]] in the [[constellation]] [[Ursa Major]]. It has the traditional names '''Alkaid''' (or '''Elkeid''') and '''Benetnash''' ('''Benetnasch'''). Alkaid is the most eastern (leftmost) star in the [[Big Dipper]] (Plough) [[asterism (astronomy)|asterism]]. However, unlike most stars of the Big Dipper, it is not a member of the [[Ursa Major moving group]]. With an [[apparent visual magnitude]] of +1.84,<ref name=aj76_1058/> it is the [[List of stars in Ursa Major|third brightest star]] in the constellation and one of the [[List of brightest stars|brightest stars]] in the night sky.
+
+[[File:Alkaid and Sun from 0,23 UA.jpg|thumb|left|Illustration of Alkaid (left) and Sun (right) as they would appear from a distance of 0.23 AU]]
+This is a 10 million year old<ref name=mnras410_1_190/> [[B-type main sequence star]] with a [[stellar classification]] of B3&nbsp;V.<ref name=araa11_29/> Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It has six<ref name=mnras410_1_190/> times the mass of the Sun and 3.4<ref name=mnras189_601/> times the Sun's radius. Eta Ursae Majoris is radiating around 1,350<ref name=apj1_421_2_705/> times as much luminosity as the Sun from its [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of about 16,823&nbsp;K,<ref name=mnras189_601/> giving it the blue-white hue of a [[B-type star]].<ref name=csiro/> This star is an [[X-ray astronomy|X-ray]] emitter with a luminosity of {{nowrap|9.3 × 10<sup>28</sup> erg s<sup>–1</sup>}}.<ref name=apj1_421_2_705/>
+
+==In culture==
+*The name derives from the Arabic phrase meaning "The leader of the daughters of the [[bier]]" ({{lang|ar|قائد بنات نعش}} ''{{transl|ar|DIN|qā'id bināt naʿsh}}''). The daughters of the bier, i.e. the mourning maidens, are the three stars of the handle of the Big Dipper, Alkaid, [[Mizar (star)|Mizar]], and [[Epsilon Ursae Majoris|Alioth]]; while the four stars of the bowl, [[Delta Ursae Majoris|Megrez]], [[Gamma Ursae Majoris|Phecda]], [[Beta Ursae Majoris|Merak]], and [[Alpha Ursae Majoris|Dubhe]], are the bier.
+*It is known as 北斗七 (the Seventh Star of the Northern Dipper) or 搖光 (the Star of Twinkling Brilliance) in Chinese.
+*This star as ''Marīci'', one of the Seven Rishis.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=438}}</ref>
+*In Japan, Alkaid in known as ''Hagunsei'' ("the military breaking star" or "most corner star"). Both meanings come from ancient China's influence in Japan. In Chinese fortune-telling, north is believed to be a very unlucky direction. Northwest is even worse. Hunters and soldiers traditionally did not point guns and weapons in the direction of ''Hagunsei''.<ref name=littleton2005/>
+*[[USS Alkaid (AK-114)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name=littleton2005>{{citation | pages=1338 | url=http://books.google.com/books?id=guVGBE9t5igC | title=Gods, goddesses, and mythology | volume=11 | first1=C. Scott | last1=Littleton | publisher=Marshall Cavendish Corporation | publication-place=New York | year=2005 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=aj76_1058>{{citation | last1=Crawford | first1=D. L. | last2=Barnes | first2=J. V. | last3=Golson | first3=J. C. | title=Four-color, H-beta, and UBV photometry for bright B-type stars in the northern hemisphere | journal=The Astronomical Journal | year=1971 | pages=1058 | volume=76 | bibcode=1971AJ.....76.1058C | doi=10.1086/111220 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=aaa404_689>{{citation | last1=Niemczura | first1=E. | title=Metallicities of the SPB stars from the IUE ultraviolet spectra | journal=Astronomy and Astrophysics | volume=404 | pages=689–700 | month=June | year=2003 | doi=10.1051/0004-6361:20030546 | bibcode=2003A&A...404..689N }}</ref>
+
+<ref name=apj1_421_2_705>{{citation | display-authors=1 | last1=Cassinelli | first1=J. P. | last2=Cohen | first2=D. H. | last3=Macfarlane | first3=J. J. | last4=Sanders | first4=W. T. | last5=Welsh | first5=B. Y. | title=X-ray emission from near-main-sequence B stars | journal=Astrophysical Journal, Part 1 | volume=421 | issue=2 | pages=705–717 | month=February | year=1994 | doi=10.1086/173683 | bibcode=1994ApJ...421..705C }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/alkaid.html Alkaid] at Jim Kaler's ''Stars'' website
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Eta]]
+[[Category:B-type main sequence stars]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:القائد (نجم)]]
+[[ca:Alkaid]]
+[[cs:Benetnaš]]
+[[de:Alkaid]]
+[[es:Benetnasch]]
+[[fa:قائد]]
+[[fr:Eta Ursae Majoris]]
+[[fur:Alkaid]]
+[[gl:Eta Ursae Majoris]]
+[[ko:알카이드]]
+[[hi:मारीचि तारा]]
+[[it:Alkaid]]
+[[he:אלקאיד]]
+[[ka:ბენეტნაში]]
+[[nl:Alkaid]]
+[[ja:ベネトナシュ]]
+[[no:Alkaid]]
+[[pl:Alkaid]]
+[[pt:Eta Ursae Majoris]]
+[[ru:Бенетнаш]]
+[[sk:Alkaid]]
+[[fi:Eta Ursae Majoris]]
+[[sv:Alkaid]]
+[[uk:Бенетнаш]]
+[[zh:瑤光]]

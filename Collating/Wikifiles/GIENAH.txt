@@ -1,0 +1,117 @@
+{{Starbox begin
+| name=Epsilon Cygni
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cygnus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cygnus constellation and its surroundings]]
+     <div style="position: absolute; left: 41.8%; top: 61.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ε Cygni (circled)
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|20|46|12.68236}}<ref name=aaa474_2_653/>
+| dec={{DEC|+33|58|12.9250}}<ref name=aaa474_2_653/>
+| appmag_v=2.480<ref name=aaass65_2_405/>
+| constell=[[Cygnus (constellation)|Cygnus]] 
+}}
+{{Starbox character
+| class=K0&nbsp;III<ref name=aj117_4_1864/>
+| b-v=+1.030<ref name=aaass65_2_405/>
+| u-b=+0.860<ref name=aaass65_2_405/>
+| variable= 
+}}
+{{Starbox astrometry
+| radial_v=–12.41<ref name=aj135_1_209/>
+| prop_mo_ra=355.66<ref name=aaa474_2_653/>
+| prop_mo_dec=330.60<ref name=aaa474_2_653/>
+| parallax=44.86
+| p_error=0.12
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v={{nowrap|+0.78 ± 0.03}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail
+| mass=~2<ref name=kaler/>
+| radius={{nowrap|10.82 ± 0.14}}<ref name=arXiv1010_3649/>
+| luminosity={{nowrap|62 ± 3}}<ref name=arXiv1010_3649/>
+| temperature=4,710<ref name=aj135_1_209/>
+| metal_fe=–0.27<ref name=aj135_1_209/>
+| gravity=2.8<ref name=aj135_1_209/>
+| rotational_velocity={{nowrap|3.0 ± 1.0}}<ref name=aj135_3_892/>
+| age_gyr=~1.5<ref name=kaler/>
+}}
+{{Starbox catalog
+| names=Gienah Cygni, 53&nbsp;Cygni, [[Bonner Durchmusterung|BD]]&nbsp;+33°4018, [[FK5]]&nbsp;780, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;4959.00, [[Henry L. Giclas catalogue|Gl]]&nbsp;806.1, [[Henry Draper catalogue|HD]]&nbsp;197989, [[Hipparcos catalogue|HIP]]&nbsp;102488, [[Harvard Revised catalogue|HR]]&nbsp;7949, [[Luyten Half-Second catalogue|LHS]]&nbsp;5358, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;70474.<ref name=SIMBAD/> 
+}}
+{{Starbox reference
+| Simbad=HD+197989 
+}}
+{{Starbox end}}
+'''Epsilon Cygni''' (ε Cyg, ε Cygni) is a star in the [[constellation]] [[Cygnus (constellation)|Cygnus]]. This [[Bayer designation]] is from [[Johann Bayer]]'s 1603 ''[[Uranometria]]'' atlas of bright stars. With an [[apparent visual magnitude]] of 2.48,<ref name=aaass65_2_405/> which makes it [[Bortle Dark-Sky Scale|readily visible]] to the naked eye at night and one of the [[List of stars in Cygnus|brighter members]] of Cygnus. It is called '''Gienah''', a traditional name it shares with [[Gamma Corvi]]. The name "Gienah" derives from the Arabic word for wing, '''جناح''' ''janāħ''.<ref name=hinkley1899/> In [[Chinese language|Chinese]], {{lang|zh|天津}} ({{lang|zh-Latn|Tiān Jīn}}), meaning ''[[Girl (Chinese constellation)|Celestial Ford]]'', refers to an asterism consisting of ε Cygni, [[Gamma Cygni|γ Cygni]], [[Delta Cygni|δ Cygni]], [[30 Cygni]], [[Deneb|α Cygni]], [[Nu Cygni|ν Cygni]], [[Tau Cygni|τ Cygni]], [[Upsilon Cygni|υ Cygni]] and [[Zeta Cygni|ζ Cygni]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Cygni itself is known as {{lang|zh|天津九}} ({{lang|zh-Latn|Tiān Jīn jiǔ}}, {{lang-en|the Ninth Star of Celestial Ford}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> Based upon [[parallax]] measurement, Epsilon Cygni is about 73 light-years from [[Earth]].<ref name=aaa474_2_653/>
+
+Epsilon Cygni is a [[giant star]] with a [[stellar classification]] of K0&nbsp;III.<ref name=aj117_4_1864/> This indicates that the star has left the [[main sequence]] and has begun the final stages in its [[stellar evolution]]. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> The [[effective temperature]] of the star's [[photosphere]] is 4,710&nbsp;K, giving Epsilon Cygni an orange hue that is a characteristic of K-type stars.<ref name=csiro/> This star has nearly 11 times the [[solar radius]] and is about 62 times the [[solar luminosity|luminosity of the Sun]].<ref name=arXiv1010_3649/>
+
+In 1920 it was suggested that the star is a [[spectroscopic binary]] system, but this was later brought into question. It has an optical companion Epsilon Cygni B that is not physically associated with Epsilon Cygni A, and a 13th magnitude candidate common [[proper motion]] companion Epsilon Cygni C at an angular separation of 78 [[arcsecond]]s.<ref name=pasp104_682_1173/> If the latter star is gravitationally bound to Epsilon Cygni A, then they are currently separated by 1700&nbsp;[[Astronomical Unit|AU]] or more, and have an orbital period of at least 50,000 years.<ref name=kaler/> [[Radial velocity]] observations of Epsilon Cygni suggest a possible companion with an orbital period of at least 15 years.<ref name=pasp104_682_1173/>
+
+==See also==
+* [[NGC 6960]]
+* [[52 Cygni]] binary system
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–409 | month=August | year=1986 | bibcode=1986A&AS...65..405O }}</ref>
+
+<ref name=SIMBAD>{{citation | title=LHS 5358b -- High proper-motion Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Epsilon+Cygni | accessdate=2011-12-10 }}</ref>
+
+<ref name=pasp104_682_1173>{{citation | last1=McMillan | first1=R. S. | last2=Smith | first2=P. H. | last3=Moore | first3=T. L. | last4=Perry | first4=M. L. | title=Variation of the radial velocity of Epsilon Cygni A | journal=Publications of the Astronomical Society of the Pacific | volume=104 | issue=682 | pages=1173–1176 | month=December | year=1992 | doi=10.1086/133105 | bibcode=1992PASP..104.1173M }}</ref>
+
+<ref name=aj117_4_1864>{{citation | display-authors=1 | last1=Cohen | first1=Martin | last2=Walker | first2=Russell G. | last3=Carter | first3=Brian | last4=Hammersley | first4=Peter | last5=Kidger | first5=Mark | last6=Noguchi | first6=Kunio | title=Spectral Irradiance Calibration in the Infrared. X. A Self-Consistent Radiometric All-Sky Network of Absolutely Calibrated Stellar Spectra | journal=The Astronomical Journal | volume=117 | issue=4 | pages=1864–1889 | month=April | year=1999 | doi=10.1086/300813 | bibcode=1999AJ....117.1864C }}</ref>
+
+<ref name=arXiv1010_3649>{{citation| display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | pages=A100 | month=February| year=2011 |arxiv=1010.3649 |bibcode=2011A&A...526A.100P |doi=10.1051/0004-6361/201014442}}</ref>
+
+<ref name=kaler>{{citation | first1=James | last1=Kaler | work=Stars | publisher=University of Illinois | title=GIENAH CYGNI (Epsilon Cygni) | url=http://stars.astro.illinois.edu/sow/gienahcyg.html | accessdate=2011-12-11 }}</ref>
+
+<ref name=hinkley1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G.E. Stechert | year=1899 | page=197 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA197 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+
+==External links==
+* http://www.tcaep.co.uk/astro/constell/20460042.htm
+* http://www.skyhound.com/sh/archive/aug1/NGC_6960.html
+* http://www.pbase.com/mcrowle/image/81902791
+
+{{Stars of Cygnus}}
+
+[[Category:Bayer objects|Cygni, Epsilon]]
+[[Category:Cygnus (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:جناح الغراب الأيسر (نجم)]]
+[[de:Epsilon Cygni]]
+[[es:Giennah]]
+[[eu:Giennah]]
+[[fa:جناح (ستاره)]]
+[[fr:Epsilon Cygni]]
+[[ko:기에나흐]]
+[[hi:ऍप्सिलन सिगनाए तारा]]
+[[id:Epsilon Cygni]]
+[[it:Epsilon Cygni]]
+[[lb:Gienah (Stär)]]
+[[nl:Gienah]]
+[[ja:ギェナー]]
+[[pl:Epsilon Cygni]]
+[[pt:Epsilon Cygni]]
+[[sk:Gienah]]
+[[zh:天津九]]

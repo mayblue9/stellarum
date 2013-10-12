@@ -1,0 +1,105 @@
+{{Starbox begin
+| name = Beta Carinae
+}}
+{{Starbox image
+| image=<div style="position: relative">[[File:Carina constellation map.svg|250px|Location of Beta Carinae (circled)]]
+     <div style="position: absolute; left:39.2%; top:64.3%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+| caption=Location of Beta Carinae}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Carina (constellation)|Carina]]
+| ra       = {{RA|09|13|11.97746}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–69|43|01.9473}}<ref name=aaa474_2_653/>
+| appmag_v = 1.68<ref name=clpl4_99/>	
+}}
+{{Starbox character
+| class    = A1&nbsp;III–<ref name=aj132_1_161/>
+| b-v      = +0.00<ref name=clpl4_99/>
+| u-b      = +0.03<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –5.2<ref name=scfs/>
+| prop_mo_ra  = –156.47<ref name=aaa474_2_653/>
+| prop_mo_dec = +108.95<ref name=aaa474_2_653/>
+| parallax = 28.82
+| p_error  = 0.11
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 3.5<ref name=aass85_3_1015/>
+| radius   = 6.8<ref name=aass85_3_1015/>
+| luminosity  = 288<ref name=aass85_3_1015/>
+| temperature = 8,866<ref name=aj132_1_161/>
+| gravity  = 3.16<ref name=aj132_1_161/>
+| metal_fe = –0.36<ref name=aj132_1_161/>
+| rotational_velocity = {{nowrap|145.7 ± 2.2}}<ref name=aaa531_A143/>
+| age_myr  = 260<ref name=apj653_1_675/>
+}}
+{{Starbox catalog
+| names = Miaplacidus, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;2213.00, [[Cordoba Durchmusterung|CD]]−69 600, [[Fifth Fundamental Catalogue|FK5]]&nbsp;348, [[Henry L. Giclas catalogue|Gl]]&nbsp;339.2, [[Henry Draper catalogue|HD]]&nbsp;80007, [[Hipparcos catalogue|HIP]]&nbsp;45238, [[Harvard Revised catalogue|HR]]&nbsp;3685, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;250495.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Beta Carinae''' (β Car, β Carinae) is the second brightest star in the [[constellation]] [[Carina (constellation)|Carina]] and [[list of brightest stars|one of the brightest stars]] in the night sky, with [[apparent magnitude]] 1.68.<ref name=aass85_3_1015/> It is the brightest star in the south polar [[Asterism (astronomy)|asterism]] known as the [[Diamond Cross]], marking the southwestern end of the asterism. Beta Carinae also has the traditional name '''Miaplacidus''', meaning ''"placid waters"''. It lies near the planetary nebula, [[IC 2448]]. [[Parallax]] measurements place it at a distance of {{Convert|113.2|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+Beta Carinae's traditional name '''''Miaplacidus''''' made its debut on star maps in 1856 when the star atlas ''Geography of the Heavens'', composed by Elijah Hinsdale Burritt, was published. The meaning and linguistic origin of the name remained an enigma for many decades, until William Higgins, a great scholar and expert on star names, surmised that the name '''''Miaplacidus''''' is apparently a bilingual combination of [[Arabic language|Arabic]] '''مياه''' ''miyāh'' for "waters" and [[Latin]] ''placidus'' for "placid".
+
+In [[Chinese language|Chinese]], {{lang|zh|南船}} ({{lang|zh-Latn|Nán Chuán}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Southern Boat]]'', refers to an asterism consisting of β Carinae, [[V337 Carinae]], [[PP Carinae]], [[Theta Carinae|θ Carinae]] and [[Omega Carinae|ω Carinae]] .<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Carinae itself is known as {{lang|zh|南船五}} ({{lang|zh-Latn|Nán Chuán wǔ}}, {{lang-en|the Fifth Star of Southern Boat}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+The [[stellar classification]] of A1&nbsp;III–<ref name=aj132_1_161/> suggests this is an [[stellar evolution|evolved]] [[giant star]], although Malagnini and Morossi (1990) rated it as an A2&nbsp;IV [[subgiant star]].<ref name=aass85_3_1015/> It has an estimated age of 260 million years.<ref name=apj653_1_675/> This star does not show an [[infrared excess|excess emission of infrared radiation]] that might otherwise suggest the presence of a [[debris disk]].<ref name=apj653_1_675/> It has about 3.5 times the Sun's mass and has expanded to almost seven times the radius of the Sun.<ref name=aass85_3_1015/> Presently is it radiating 288 times as much luminosity as the Sun<ref name=aass85_3_1015/> from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 8,866&nbsp;K.<ref name=aj132_1_161/> Despite its enlarged girth, this star still shows a rapid rotation rate, with a [[projected rotational velocity]] of {{nowrap|146 km s<sup>–1</sup>}}.<ref name=aaa531_A143/>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=HD 80007 -- High proper-motion Star  | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=Beta+Carinae | accessdate=2005-11-05 }}</ref>
+
+<ref name=aaa531_A143>{{citation | display-authors=1 | last1=Díaz | first1=C. G. | last2=González | first2=J. F. | last3=Levato | first3=H. | last4=Grosso | first4=M. | title=Accurate stellar rotational velocities using the Fourier transform of the cross correlation maximum | journal=Astronomy & Astrophysics | volume=531 | page=A143 | month=July | year=2011 | doi=10.1051/0004-6361/201016386 | bibcode=2011A&A...531A.143D |arxiv = 1012.4858 }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: spectroscopy of stars earlier than M0 within 40 pc-The Southern Sample | journal=[[The Astronomical Journal]] | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+}}
+
+==External links==
+* [http://homepage.mac.com/andjames/Page208.htm Proper Naming of Southern Stars]
+* {{cite web | title=Beta Carinae | work=ARICNS | url=http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00710.htm |
+accessdate=December 9, 2005 |archiveurl = http://web.archive.org/web/20060220180547/http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00710.htm <!-- Bot retrieved archive --> |archivedate = February 20, 2006}}
+* {{cite web | title=MIAPLACIDUS (Beta Carinae) | work=Portrait of Stars, &c. | url=http://www.astro.uiuc.edu/~kaler/sow/miaplacidus.html | accessdate=December 9, 2005 }}
+* {{cite web | title=Miaplacidus (Beta Carinae)  | work=Astronomy Encyclopedia | url=http://www.daviddarling.info/encyclopedia/M/Miaplacidus.html | accessdate=December 9, 2005 }}
+
+{{Stars of Carina}}
+
+[[Category:Bayer objects|Carinae, Beta]]
+[[Category:Carina (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ca:Miaplacidus]]
+[[de:Miaplacidus]]
+[[es:Miaplacidus]]
+[[fa:میاه‌پلاسیدوس]]
+[[fr:Beta Carinae]]
+[[ko:용골자리 베타]]
+[[hi:बीटा कराइनी तारा]]
+[[id:Beta Carinae]]
+[[it:Miaplacidus]]
+[[he:מיאפלסידוס]]
+[[nl:Miaplacidus]]
+[[ja:ミアプラキドゥス]]
+[[pl:Miaplacidus]]
+[[pt:Beta Carinae]]
+[[ru:Бета Киля]]
+[[sk:Miaplacidus]]
+[[fi:Beta Carinae]]
+[[zh:南船五]]

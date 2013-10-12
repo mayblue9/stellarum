@@ -1,0 +1,33 @@
+[[Image:Perseus constellation map visualization.PNG|250px|thumb|Stars of [[Perseus (constellation)|Perseus]]]]
+{{Starbox short |
+| name=π Persei
+| epoch=[[J2000.0]]
+| constell=[[Perseus (constellation)|Perseus]]
+| ra=02<sup>h</sup> 58<sup>m</sup> 45.7<sup>s</sup>
+| dec=+39° 39' 46"
+| spectral=A2Vn
+| appmag_v=+4.7
+| dist_ly=362
+| dist_pc=111
+| names=Gorgonea Secunda, 22 Per, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;879, [[Henry Draper Catalogue|HD]]&nbsp;18411, FK5&nbsp;2207, [[Star catalogue#SAO|SAO]]&nbsp;56047
+}}
+
+'''Pi Persei''' (π Per) is a [[star]] in the [[constellation]] [[Perseus (constellation)|Perseus]]. It also has the traditional name '''Gorgonea Secunda'''.
+
+Pi Persei has an [[apparent magnitude]] of +4.7 and [[stellar classification|spectral class]] A2V. The star is about 362 [[light year]]s from Earth. 
+
+In [[Chinese astronomy]], Gorgonea Secunda is called 積屍, [[Pinyin]]: Jīshī, meaning ''Heap of Corpses'', because this star is marking itself and stand alone in ''Heap of Corpses'' asterism, [[Stomach (Chinese constellation)|Stomach]] mansion (see : [[Chinese constellation]]).<ref>{{zh icon}}   [http://aeea.nmns.edu.tw/2006/0607/ap060711.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 11 日]</ref> 積屍 (Jīshī), westernized into '''Tseih She''', but the name ''Tseih She'' was designated for [[Beta Persei|β Per]] (Algol) by R.H. Allen and the meaning is "the Piled-up Corpses" <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Perseus*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Perseus]</ref>
+
+==References==
+{{reflist}}
+
+{{Stars of Perseus}}
+
+[[Category:Bayer objects|Persei, Pi]]
+[[Category:Perseus (constellation)]]
+
+[[fa:پی برساووش]]
+[[nl:Gorgonea Secunda]]
+[[ja:ペルセウス座パイ星]]
+[[pt:Pi Persei]]
+[[zh:积尸]]

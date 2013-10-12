@@ -1,0 +1,129 @@
+{{Starbox begin
+| name = [[Bayer designation|δ&nbsp;Andromedae]]
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Andromeda IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Andromeda constellation and its surroundings]]
+     <div style="position: absolute; left: 125px; top: 144px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Andromedae (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Andromeda (constellation)|Andromeda]]
+| ra       = {{RA|00|39|19.67518}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+30|51|39.6783}}<ref name=aaa474_2_653/>
+| appmag_v = 3.28<ref name=clpl4_99/>
+}}
+{{Starbox character
+| class    = K3&nbsp;III<ref name=judge />
+| u-b      = +1.48<ref name=clpl4_99/>
+| b-v      = +1.28<ref name=clpl4_99/>
+| r-i      = +0.66<ref name=bsc1 />
+}}
+{{Starbox astrometry
+| radial_v = {{nowrap|−7.3 ± 0.9}}<ref name=sb0 />
+| prop_mo_ra  = +114.45<ref name=aaa474_2_653/>
+| prop_mo_dec = −84.02<ref name=aaa474_2_653/>
+| parallax = 30.91
+| p_error  = 0.15
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=specorb/>
+| period_unitless = 15,000 [[day|d]]
+| eccentricity = {{nowrap|0.34 ± 0.14}}
+| periastron = 2415568 [[Julian date|JD]]
+| periarg_primary = {{nowrap|356.1 ± 5.2}}
+| k1 = {{nowrap|4.0 ± 2.7}}
+}}
+{{Starbox detail
+| component1 = δ And A
+| mass     = ~1.8<ref name=judge />
+| gravity  = {{nowrap|2.0 ± 0.3}}<ref name=judge/>
+| rotational_velocity = 6.5<ref name=aj135_1_209/>
+| radius   = {{nowrap|13.6 ± 0.3}}<ref name=aaa526_A100/>
+| luminosity = {{nowrap|68 ± 4}}<ref name=aaa526_A100/>
+| temperature = 4,315<ref name=aj135_1_209/>
+| metal_fe = 0.04<ref name=aj135_1_209/>
+| age_gyr = 3.2<ref name=apj598_1_636/>
+}}
+{{Starbox catalog
+| names = δ&nbsp;And, Delta&nbsp;Andromedae, Delta&nbsp;And, [[Flamsteed designation|31&nbsp;Andromedae]], 31&nbsp;And, [[Durchmusterung|BD]]+30&nbsp;91, [[Fifth Fundamental Catalogue|FK5]]&nbsp;20, [[Henry Draper Catalogue|HD]]&nbsp;3627, [[Hipparcos Catalogue|HIP]]&nbsp;3092, [[Bright Star Catalogue|HR]]&nbsp;165, [[New Catalogue of Suspected Variable Stars|NSV]]&nbsp;15142, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;54058, [[USNO]]&nbsp;790, [[Washington Double Star Catalog|WDS]]&nbsp;00393+3052A.<ref name=sb0 /><ref name=wds/>
+}}
+{{Starbox reference
+| Simbad=del+and
+}}
+{{Starbox end}}
+
+'''Delta Andromedae''' (δ And, δ Andromedae) is a multiple [[star]] system in the northern [[constellation]] of [[Andromeda (constellation)|Andromeda]]. Based upon [[parallax]] measurements, is located at a distance of approximately {{Convert|105.5|ly|pc|abbr=off|lk=on}} from the [[Earth]]. Apart from its [[Bayer designation]], it was also given the title ''Delta'' by [[Elijah Hinsdale Burritt|Elijah H. Burritt]] in his [[star atlas]].<ref name=allen/>
+
+In [[Chinese language|Chinese]], {{lang|zh|奎宿}} ({{lang|zh-Latn|Kuí Sù}}), meaning ''[[Legs (Chinese constellation)|Legs]] (asterism)'', refers to an asterism consisting of δ Andromedae, [[Eta Andromedae|η Andromedae]], [[65 Piscium]], [[Zeta Andromedae|ζ Andromedae]], [[Iota Piscium|ι Piscium]], [[Epsilon Andromedae|ε Andromedae]],  [[Pi Andromedae|π Andromedae]], [[Nu Andromedae|ν Andromedae]], [[Mu Andromedae|μ Andromedae]], [[Beta Andromedae|β Andromedae]], [[Sigma Piscium|σ Piscium]], [[Tau Piscium|τ Piscium]], [[91 Piscium]], [[Upsilon Piscium|υ Piscium]], [[Phi Piscium|φ Piscium]], [[Chi Piscium|χ Piscium]] and [[Psi¹ Piscium|ψ¹ Piscium]]. Consequently, δ Andromedae itself is known as {{lang|zh|奎宿五}} ({{lang|zh-Latn|Kuí Su wǔ}}, {{lang-en|the Fifth Star of Legs}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060519.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 19 日]</ref>
+
+This is a long-period [[spectroscopic binary]] with an orbital period of approximately 15,000 days (41 years) and an overall [[apparent visual magnitude]] of approximately 3.28. The primary of the spectroscopic binary has a [[stellar classification]] of K3&nbsp;III, indicating that it is a [[giant star]].<ref name=sb0 /><ref name=specorb /> It most likely evolved from a F-type [[main sequence]] star after consuming the hydrogen at its core.<ref name=apj598_1_636/> The secondary is believed to be relatively faint, as it has not been observed [[interferometrically]]. The star has two optical companions, the closest of which may be an orbiting [[red dwarf]] of class M3 with a separation of at least 900&nbsp;[[astronomical unit]]s.<ref name=kaler/>
+
+An [[infrared excess|excess of infrared emission]] from δ Andromedae suggested that it may be surrounded by a shell of dust.<ref name=judge /> In 2003 it was determined that this is more likely a circumstellar [[debris disk]].<ref name=apj598_1_636/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=bsc1>{{citation | url=http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=165 | title=HR 165, database entry | work=The Bright Star Catalogue | edition=5th (Preliminary Version) | first1=D. | last1=Hoffleit | first2=W. H. | last2=Warren, Jr. | publisher=[[Centre de Données astronomiques de Strasbourg|CDS]] }} ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line August 28, 2008.</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=judge>{{citation | title=Delta Andromedae (K3 III) - an IRAS source with an unusual ultraviolet spectrum | first1=P. G. | last1=Judge | first2=C. | last2=Jordan | first3=M. | last3=Rowan-Robinson | journal=Monthly Notices of the Royal Astronomical Society | volume=224 | date=January 1, 1987 | pages=93–106 | bibcode=1987MNRAS.224...93J }}.</ref>
+
+<ref name=specorb>{{citation | title=The spectroscopic orbit of &delta; Andromedae | first1=Gustav A. | last1=Bakos | journal=Journal of the Royal Astronomical Society of Canada | volume=70 | month=February | year=1976 | pages=23–26 | bibcode=1976JRASC..70...23B }}.</ref>
+
+<ref name=sb0>{{SIMBAD link|del+and|NSV 15142 -- Spectroscopic binary}}, database entry, [[SIMBAD]].  Accessed on line August 28, 2008.</ref>
+
+<ref name=wds>{{citation | title=Entry 00393+3052 | url=http://ad.usno.navy.mil/wds/wdsnewframe1.html | work=The Washington Double Star Catalog | publisher=[[United States Naval Observatory]] | accessdate=2008-08-28 }}</ref>
+
+<ref name=apj598_1_636>{{citation | display-authors=1 | last1=Decin | first1=G. | last2=Dominik | first2=C. | last3=Waters | first3=L. B. F. M. | last4=Waelkens | first4=C. | title=Age Dependence of the Vega Phenomenon: Observations | journal=The Astrophysical Journal | volume=598 | issue=1 | pages=636–644 | month=November | year=2003 | doi=10.1086/378800 | bibcode=2003ApJ...598..636D |arxiv = astro-ph/0308294 }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name=allen>[[Richard Hinckley Allen]] (1899) [http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], p. 38.</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=DELTA AND (Delta Andromedae) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/deltaand.html | accessdate=2012-01-23 }}</ref>
+
+<ref name=apj598_1_636>{{citation | display-authors=1 | last1=Decin | first1=G. | last2=Dominik | first2=C. | last3=Waters | first3=L. B. F. M. | last4=Waelkens | first4=C. | title=Age Dependence of the Vega Phenomenon: Observations | journal=The Astrophysical Journal | volume=598 | issue=1 | pages=636–644 | month=November | year=2003 | doi=10.1086/378800 | bibcode=2003ApJ...598..636D |arxiv = astro-ph/0308294 }}</ref>
+
+}}
+
+==External links==
+* [http://www.eso.org/public/outreach/eduoff/cas/cas2002/cas-projects/france_andromeda_1/ The Constellation Andromeda: The Chained Maiden], web page, [[European Southern Observatory]] outreach.
+* [http://www.heavens-above.com/hipentry.asp?lat=0&lng=0&loc=B&alt=0&tz=CET&hip=3092 Entry] at heavens-above.com.
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=00+39+19.6758%2B30+51+39.686&ident=NSV+15142&submit=Aladin+previewer Image Delta Andromedae]
+
+{{Stars of Andromeda}}
+
+[[Category:Andromeda (constellation)]]
+[[Category:K-type giants]]
+[[Category:Spectroscopic binaries]]
+[[Category:Bayer objects|Andromedae, Delta]]
+[[Category:Flamsteed objects|Andromedae, 31]]
+[[Category:Henry Draper Catalogue objects|003627]]
+[[Category:Hipparcos objects|003092]]
+[[Category:Durchmusterung objects|BD+30 91]]
+
+[[ca:Delta Andromedae]]
+[[es:Delta Andromedae]]
+[[eu:Delta Andromedae]]
+[[fa:دلتا زن برزنجیر]]
+[[fr:Delta Andromedae]]
+[[ko:안드로메다자리 델타]]
+[[id:Delta Andromedae]]
+[[it:Delta Andromedae]]
+[[ms:Delta Andromedae]]
+[[ja:アンドロメダ座デルタ星]]
+[[pl:Delta Andromedae]]
+[[pt:Delta Andromedae]]
+[[ru:Дельта Андромеды]]
+[[zh:奎宿五]]

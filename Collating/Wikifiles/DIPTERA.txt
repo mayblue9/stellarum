@@ -1,0 +1,101 @@
+{{Starbox begin
+| name = Beta Muscae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Musca IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Musca constellation and its surroundings]]
+     <div style="position: absolute; left: 44.1%; top: 38.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Musca (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Musca (constellation)|Musca]]
+| ra       = {{RA|12|46|16.80410}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–68|06|29.2164}}<ref name=aaa474_2_653/>
+| appmag_v = 3.05 (3.51 + 4.01)<ref name=mnras389_2_869/>
+}}
+{{Starbox character
+| class    = {{nowrap|B2&nbsp;V + B3&nbsp;V}}<ref name=mnras389_2_869/>
+| b-v      = –0.198<ref name=apjs15_459/>
+| u-b      = –0.766<ref name=apjs15_459/>
+| r-i      = 
+}}
+{{Starbox astrometry
+| radial_v = +42<ref name=gcsrv/>
+| prop_mo_ra  = –41.97<ref name=aaa474_2_653/>
+| prop_mo_dec = –8.89<ref name=aaa474_2_653/>
+| parallax = 9.55
+| p_error  = 0.41
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=scovb/>
+| period  = 194.28
+| axis    = 0.969
+| eccentricity = 0.598
+| inclination  = 37.1
+| node    = 349.4
+| periastron   = 1857.50
+| periarg = 209.0
+}}
+{{Starbox detail
+| component1 = β Mus A
+| mass    = 7.35<ref name=aaa474_1_77/>
+| radius  = 
+| luminosity  = 
+| temperature = 
+| gravity = 
+| rotational_velocity = 
+| age_myr = {{nowrap|15.1 ± 1.2}}<ref name=mnras410_1_190/>
+| component2 = β Mus B
+| mass2   = 6.40<ref name=aaa474_1_77/>
+}}
+{{Starbox catalog
+| names = bet&nbsp;Mus, CPD-67&nbsp;2064, [[Henry Draper catalogue|HD]]&nbsp;110879, [[Hipparcos catalogue|HIP]]&nbsp;62322, [[Harvard Revised catalogue|HR]]&nbsp;4844, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;252019.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Beta Muscae''' (β Muscae, β Mus) is a [[binary star]] in the southern [[circumpolar constellation]] of [[Musca (constellation)|Musca]]. With a combined [[apparent visual magnitude]] of 3.07,<ref name=mnras389_2_869/> it is the [[List of stars in Musca|second brightest]] star (or star system) in the constellation. Judging by the [[parallax]] results, it is located at a distance of roughly {{Convert|330|-|350|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/>
+
+This is a [[binary star system]] with a [[orbital period|period]] of about 194&nbsp;years at an [[orbital eccentricity]] of 0.6.<ref name=scovb/> As of 2007, the two stars had an [[angular separation]] of 1.206&nbsp;[[arcsecond]]s at a [[position angle]] of 35°.<ref name=aaa474_1_77/> The components are [[main sequence]] stars of similar size and appearance. The primary component, β Muscae A, has an apparent magnitude of 3.51, a [[stellar classification]] of B2&nbsp;V,<ref name=mnras389_2_869/> and about 7.35 times the [[solar mass|Sun's mass]].<ref name=aaa474_1_77/> The secondary component, β Muscae B, has an apparent magnitude of 4.01, a stellar classification of B3&nbsp;V,<ref name=mnras389_2_869/> and is about 6.40 times the mass of the Sun.<ref name=aaa474_1_77/>
+
+This is a confirmed member of the [[Scorpius-Centaurus Association]],<ref name=mnras389_2_869/><ref name=aaa474_1_77/> which is a group of stars with similar ages, locations, and trajectories through space, implying that they formed together in the same [[molecular cloud]]. Beta Muscae is considered a [[runaway star]] system as it has a high [[peculiar velocity]] of {{nowrap|43.9 km s<sup>–1</sup>}} relative to the normal galactic rotation. Runaway stars can be produced through several means, such as through an encounter with another binary star system. Binary systems form a relatively small fraction of the total population of runaway stars.<ref name=aaa365_49/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation| first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=aaa474_1_77>{{citation | last1=Kouwenhoven | first1=M. B. N. | last2=Brown | first2=A. G. A. | last3=Portegies Zwart | first3=S. F. | last4=Kaper | first4=L. | title=The primordial binary population. II. Recovering the binary population for intermediate mass stars in Scorpius OB2 | journal=Astronomy and Astrophysics | volume=474 | issue=1 | pages=77–104 | month=October | year=2007 | doi=10.1051/0004-6361:20077719 | bibcode=2007A&A...474...77K |arxiv = 0707.2746 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J12463-6806AB -- Double or multiple star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Muscae | accessdate=2012-01-20 }}</ref>
+
+<ref name=aaa365_49>{{citation | last1=Hoogerwerf | first1=R. | last2=de Bruijne | first2=J. H. J. | last3=de Zeeuw | first3=P. T. | title=On the origin of the O and B-type stars with high velocities. II. Runaway stars and pulsars ejected from the nearby young stellar groups | journal=Astronomy and Astrophysics | volume=365 | pages=49–77 | month=January | year=2001 | doi=10.1051/0004-6361:20000014 | bibcode=2001A&A...365...49H |arxiv = astro-ph/0010057 }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A Photometric Investigation of the Scorpio-Centaurus Association | journal=Astrophysical Journal Supplement | volume=15 | page=459 | month=June | year=1968 | doi=10.1086/190168 | bibcode=1968ApJS...15..459G }}</ref>
+
+<ref name=scovb>{{citation |url=http://ad.usno.navy.mil/wds/orb6.html |title=Sixth Catalog of Orbits of Visual Binary Stars |accessdate=2008-06-22 |work=U.S. Naval Observatory }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | title=Beta Muscae | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/betamus.html | accessdate=2012-01-20 }}
+
+{{Musca}}
+
+[[Category:Bayer objects|Musca, Delta]]
+[[Category:Musca (constellation)]]
+
+[[es:Beta Muscae]]
+[[fr:Beta Muscae]]
+[[it:Diptera (astronomia)]]
+[[pt:Beta Muscae]]
+[[zh:蜜蜂一]]

@@ -1,0 +1,83 @@
+{{For|the Italian city with that nickname|Genoa}}
+{{refimprove|date=July 2011}}
+{{Starbox begin |
+name = La Superba
+}}
+{{Starbox observe |
+ epoch=[[J2000.0]] |
+ constell=[[Canes Venatici]] |
+ ra=12<sup>h</sup> 45<sup>m</sup> 07.83<sup>s</sup> |
+ dec=+45° 26' 24.92" |
+ appmag_v=+4.8 to +6.3
+}}
+{{Starbox astrometry |
+ prop_mo_ra=-2.20 |
+ prop_mo_dec=13.05 |
+ parallax= 4.590|
+ dist_ly=711 ± 113 |
+ dist_pc=218 ± 35
+}}
+{{Starbox character
+| class = C5<sub>4</sub>J, C-N5, C-J4.5
+| variable = Semi-regular
+}}
+{{Starbox detail
+| age =
+| metal = 
+| mass = 3
+| radius = 215
+| rotation = 
+| luminosity = 4,400<br />(bolometric)
+| temperature = 2,800 }}
+{{Starbox catalog |
+ names=Y&nbsp;Canum Venaticorum, [[Harvard Revised catalogue|HR]]&nbsp;4846, [[Henry Draper Catalogue|HD]]&nbsp;110914, [[Bonner Durchmusterung|BD]]+46°1817, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1327, [[Hipparcos catalogue|HIP]]&nbsp;62223, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;44317, GC&nbsp;17342
+}}
+{{Starbox end}}
+
+'''La Superba''' (Y CVn, Y Canum Venaticorum) is a star in the [[constellation]] [[Canes Venatici]], well known for its strikingly red appearance.
+[[File:Y Canum Venaticorum.jpg|thumb|right|Y CVn and simulation from [[Celestia]]]]
+
+== Physical characteristics ==
+
+La Superba is a semi-regular [[variable star]], peaking at about +4.8 [[apparent magnitude|mag]] and diminishing to around +6.3 over a 160 day cycle. Known in short form as Y CVn, it is one of the reddest [[star]]s in the sky, and it is among the brightest of the giant red "[[carbon star]]s". It is the brightest [[Carbon star#The Revised Morgan-Keenan system|J-star]] in the sky, a very rare category of carbon stars that contain large amounts of [[carbon-13]] (carbon atoms with 7 [[neutrons]] instead of the usual 6). 19th century [[astronomer]] [[Angelo Secchi]], impressed with its beauty, gave the star its common name.<ref>[http://www.astro.uiuc.edu/~kaler/sow/lasuperba.html Jim Kaler: La Superba]</ref>
+
+La Superba's [[temperature]] is believed to be about 2800 [[Kelvin|K]], making it one of the coolest [[fusor (astronomy)|true stars]] known. Y CVn is almost never visible to the naked eye since most of its output is outside the visible spectrum. Yet, when [[infrared]] radiation is considered, Y CVn has a [[luminosity]] 4400 times that of the Sun, and its [[radius]] is approximately 2 [[Astronomical unit|AU]]. If it were placed at the position of our sun, the star's surface would extend beyond the [[Planetary orbit|orbit]] of [[Mars]].
+
+== Appearance ==
+
+To explain its remarkable coloration, it is necessary to understand that mid-sized stars, once they have finished [[Nuclear fusion|fusing]] [[hydrogen]] to [[helium]] in their core, begin to fuse [[Triple-alpha process|helium to carbon]]. During this so called [[red giant]] stage, the outer layers expand and cool, causing the star's radiation output to move towards the red end of the [[electromagnetic spectrum]]. Near the end of the star's [[Stellar evolution|life cycle]], fusion products are moved outwards from the core by [[convection]], thus creating a [[carbon]] abundance in the outer atmosphere where [[carbon monoxide]] and other [[Chemical compound|compounds]] are formed. These [[molecule]]s tend to [[absorption spectrum|absorb]] radiation at shorter wavelengths, resulting in a remarkable [[spectrum]] with even less blue and violet compared to ordinary red giants, giving the star its distinguished red color.
+
+== Outlook ==
+
+La Superba is most likely in the final stages of fusing its remaining secondary fuel (helium) into carbon and shedding its mass at the rate of about a million times that of the Sun's [[solar wind]]. It is also surrounded by a 2.5 [[light year]]-wide shell of previously ejected material, implying that at one point it must have been losing mass as much as 50 times faster than it is now. La Superba thus appears almost ready to eject its outer layers to form a [[planetary nebula]], leaving behind its core in the form of a vanishing [[white dwarf]].
+
+== References ==
+<references />
+
+== External links ==
+* http://www.nckas.org/carbonstars/
+* http://www.backyard-astro.com/deepsky/top100/11.html
+* http://jumk.de/astronomie/big-stars/la-superba.shtml
+{{Stars of Canes Venatici}}
+
+[[Category:Semiregular variable stars]]
+[[Category:Canes Venatici (constellation)]]
+[[Category:C-type stars]]
+[[Category:Stars with proper names]]
+
+[[roa-rup:La Superba]]
+[[de:La Superba]]
+[[es:La Superba]]
+[[fa:ستاره کربن]]
+[[fr:Y Canum Venaticorum]]
+[[ko:라 수페르바]]
+[[it:La Superba]]
+[[lb:La Superba]]
+[[nl:La Superba]]
+[[ja:ラ・スパーバ]]
+[[pl:La Superba]]
+[[pt:Y Canum Venaticorum]]
+[[ru:Y Гончих Псов]]
+[[sk:La Superba]]
+[[fi:Y Canum Venaticorum]]
+[[zh:獵犬座Y]]

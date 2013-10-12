@@ -1,0 +1,112 @@
+{{Starbox begin 
+ | name = Gamma Pegasi
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 17.2%; top: 45.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of γ Pegasi (circled)
+}}
+{{Starbox observe 
+ | epoch    = J2000
+ | constell = [[Pegasus (constellation)|Pegasus]] 
+ | ra       = {{RA|00|13|14.15123}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+15|11|00.9368}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.84<ref name=aj76_1058/>
+}}
+{{Starbox character
+ | class    = B2&nbsp;IV<ref name=mnras410_1_190/>
+ | b-v      = –0.23<ref name=aj76_1058/>
+ | u-b      = –0.85<ref name=aj76_1058/>
+ | variable = [[Beta Cephei variable|β Cep]]<ref name=an331_9_1057/>
+}}
+{{Starbox astrometry
+ | radial_v  = +4.1<ref name=gcsrv/>
+ | prop_mo_ra  = +1.98<ref name=aaa474_2_653/>
+ | prop_mo_dec = –9.28<ref name=aaa474_2_653/>
+ | parallax = 8.33
+ | p_error  = 0.53
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = {{nowrap|8.9 ± 0.1}}<ref name=mnras410_1_190/>
+ | radius   = {{nowrap|4.80 ± 0.39}}<ref name=aj129_3_1642/>
+ | gravity  = {{nowrap|3.98 ± 0.06}}<ref name=aj129_3_1642/>
+ | metal_fe = –0.34<ref name=apj387_673/>
+ | age_myr  = {{nowrap|18.7 ± 3.2}}<ref name=mnras410_1_190/>
+ | luminosity  = 5,840<ref name=an331_4_349/>
+ | temperature = {{nowrap|21,179 ± 237}}<ref name=aj129_3_1642/>
+ | rotational_velocity = 0<ref name=apj573_1_359/>
+}}
+{{Starbox catalog 
+ | names = Algeneb, Algenib, 88 Peg, [[Henry Draper Catalogue|HD]]&nbsp;886, FK5&nbsp;7, [[Hipparcos catalogue|HIP]]&nbsp;1067, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;39, [[Star catalogue#SAO|SAO]]&nbsp;91781.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Gamma Pegasi''' (γ Peg) is a [[star]] in the [[constellation]] of [[Pegasus (constellation)|Pegasus]], located at the lower left-hand corner of the [[asterism (astronomy)|asterism]] known as the Great Square. It also has the traditional name '''Algenib'''; confusingly however, this name is also used for [[Alpha Persei]]. The average [[apparent visual magnitude]] of +2.84<ref name=aj76_1058/> puts this at fourth place among the [[List of stars in Pegasus|brightest stars]] in the constellation. The distance to this star has been measured using the [[parallax]] technique, yielding a value of roughly {{Convert|390|ly|pc|abbr=off|lk=on}} with a margin of error of 5%.<ref name=aaa474_2_653/>
+
+The asterism of γ Pegasi and [[Alpha Andromedae|α Andromedae]], in Hindu astronomy, is called [[Uttara Bhādrapadā]] (उत्तरभाद्रपदा) or Uttṛṭṭāti. It is the 26th [[nakshatra]]. In [[Chinese language|Chinese]], {{lang|zh|壁宿}} ({{lang|zh-Latn|Bì Sù}}), meaning ''[[Wall (Chinese constellation)|Wall]] (asterism)'' refers to an asterism consisting of γ Pegasi and [[Alpha Andromedae|α Andromedae]] .<ref>{{zh icon}} p. 170, ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Pegasi itself is known as {{lang|zh|壁宿一}} ({{lang|zh-Latn|Bì Sù yī}}, {{lang-en|the First Star of Wall}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+In 1911, American astronomer [[Keivin Burns]] discovered that the [[radial velocity]] of this star varied slightly. This was confirmed in 1953 by American astronomer [[D. Harold McNamara]], who identified it as a [[Beta Cephei variable]].<ref name=an331_9_1057/> (At the time he actually identified is as a [[Beta Canis Majoris]] star, which was subsequently designated a Beta Cephei variable.)<ref name=pasp65_384_144/> It has a radial pulsation period of 0.15175&nbsp;days (3.642 hours), but also shows the behavior of a [[slowing pulsating B star]] (SPB) with three additional pulsational frequencies.<ref name=an331_9_1057/> Its [[apparent magnitude|magnitude]] varies between +2.78 and +2.89 over the course of each pulsation cycle. 
+
+This is a large star with almost nine<ref name=mnras410_1_190/> times the [[solar mass|mass of the Sun]] and close to five<ref name=aj129_3_1642/> times the [[solar radius|Sun's radius]]. The [[stellar classification]] of B2&nbsp;IV<ref name=mnras410_1_190/> suggests this is a [[subgiant star]] that is exhausting the hydrogen at its core and is in the process of [[stellar evolution|evolving]] away from the [[main sequence]]. It is either rotating very slowly with no measurable [[stellar rotation|rotational velocity]] or else it is being viewed from nearly pole-on.<ref name=apj573_1_359/> Gamma Pegasi has a total [[luminosity]] of 5,840 times that of the Sun,<ref name=an331_4_349/> which is being radiated from its [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of more than 21,000&nbsp;K.<ref name=aj129_3_1642/> At this temperature, the star glows with a blue-white hue.<ref name=csiro/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj129_3_1642>{{citation | last1=Fitzpatrick | first1=E. L. | last2=Massa | first2=D. | title=Determining the Physical Properties of the B Stars. II. Calibration of Synthetic Photometry | journal=The Astronomical Journal | volume=129 | issue=3 | pages=1642–1662 | month=March | year=2005 | doi=10.1086/427855 | bibcode=2005AJ....129.1642F |arxiv = astro-ph/0412542 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=apj387_673>{{citation | last1=Gies | first1=Douglas R. | last2=Lambert | first2=David L. | title=Carbon, nitrogen, and oxygen abundances in early B-type stars | journal=Astrophysical Journal, Part 1 | volume=387 | date=March 10, 1992 | pages=673–700 | month=March | doi=10.1086/171116 | bibcode=1992ApJ...387..673G }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}. The zero value is for {{nowrap|''v'' sin ''i''}}, so ''v'' and/or ''i'' must be small.</ref>
+
+<ref name=aj76_1058>{{citation  | last1=Crawford | first1=D. L. | last2=Barnes | first2=J. V. | last3=Golson | first3=J. C. | title=Four-color, H-beta, and UBV photometry for bright B-type stars in the northern hemisphere | journal=The Astronomical Journal | year=1971 | pages=1058 | volume=76 | bibcode=1971AJ.....76.1058C | doi=10.1086/111220 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=gam Peg -- Variable Star of beta Cep type | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Pegasi | accessdate=2012-02-23 }}</ref>
+
+<ref name=an331_9_1057>{{citation | last1=Walczak | first1=P. | last2=Daszyńska-Daszkiewicz | first2=J. | title=Complex asteroseismology of the hybrid B-type pulsator γ Pegasi: A test of stellar opacities | journal=Astronomische Nachrichten | volume=331 | issue=9/10 | pages=1057–1060 | month=December | year=2010 | doi=10.1002/asna.201011456 | bibcode=2010AN....331.1057W |arxiv = 1004.2366 }}</ref>
+
+<ref name=pasp65_384_144>{{citation | last1=McNamara | first1=D. H. | title=Gamma Pegasi: A Beta Canis Majoris Star of Small Velocity Amplitude | journal=Publications of the Astronomical Society of the Pacific | volume=65 | issue=384 | page=144 | month=June | year=1953 | doi=10.1086/126561 | bibcode=1953PASP...65..144M }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | title=ALGENIB (Gamma Pegasi) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/algenib.html | accessdate=2012-02-24 }}
+
+{{Stars of Pegasus}}
+
+[[Category:Pegasus (constellation)]]
+[[Category:Bayer objects|Pegasi, Gamma]]
+[[Category:B-type subgiants]]
+[[Category:Beta Cephei variables]]
+
+[[ar:الجنب (نجم)]]
+[[az:Əlqənib]]
+[[cs:Algenib]]
+[[de:Algenib]]
+[[es:Gamma Pegasi]]
+[[fa:گاما پگاسوس]]
+[[fr:Gamma Pegasi]]
+[[hi:गामा पॅगासाई तारा]]
+[[id:Gamma Pegasi]]
+[[it:Algenib]]
+[[lb:Gamma Pegasi]]
+[[nl:Algenib]]
+[[ja:アルゲニブ]]
+[[pl:Gamma Pegasi]]
+[[pt:Gamma Pegasi]]
+[[ru:Альгениб]]
+[[sk:Algenib]]
+[[tt:Әлҗәнеб]]
+[[zh:壁宿一]]

@@ -1,0 +1,103 @@
+{{Starbox begin
+ | name = Eta Draconis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Draco IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Draco constellation and its surroundings]]
+     <div style="position: absolute; left: 43.8%; top: 48.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of η Draconis (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|16|23|59.48594}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+61|30|51.1699}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.73<ref name=pasj60_4_781/>
+ | constell = [[Draco (constellation)|Draco]]
+}}
+{{Starbox character
+ | class    = G8&nbsp;III<ref name=pasj60_4_781/>
+ | b-v      = +0.91<ref name=aass34_1/>
+ | u-b      = +0.70<ref name=aass34_1/>
+ | variable =
+}}
+{{Starbox astrometry
+ | radial_v = –14.3<ref name=gcsrv/>
+ | prop_mo_ra  = –17.02<ref name=aaa474_2_653/>
+ | prop_mo_dec = +56.95<ref name=aaa474_2_653/>
+ | parallax = 35.42
+ | p_error  = 0.09
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = +0.58<ref name=aaa361_614/>
+}}
+{{Starbox detail
+ | mass     = 2.55<ref name=pasj60_4_781/>
+ | radius   = 11<ref name=lang2006/>
+ | gravity  = 2.82<ref name=pasj60_4_781/>
+ | metal_fe = –0.04<ref name=pasj60_4_781/>
+ | age_myr  = 550<ref name=pasj60_4_781/>
+ | luminosity  = 60<ref name=pasj60_4_781/>
+ | temperature = 5,055<ref name=pasj60_4_781/>
+ | rotational_velocity = 8<ref name=coapa239_1/>
+}}
+{{Starbox catalog
+ | names = 14 Draconis, [[Bonner Durchmusterung|BD]]+61 1591, [[Catalogues of Fundamental Stars|FK5]] 822, [[Henry Draper catalogue|HD]] 148387, [[Hipparcos catalogue|HIP]] 80331, [[Harvard Revised catalogue|HR]] 6132, [[New Catalogue of Suspected Variable Stars|NSV]] 7713, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 17074.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Eta Draconis''' (η Dra, η Draconis) is a [[star]] in the northern [[circumpolar constellation]] of [[Draco (constellation)|Draco]]. Despite having an [[apparent visual magnitude]] of only +2.73,<ref name=pasj60_4_781/> it is the [[List of stars in Draco|second brightest]] star in this generally faint constellation. Based upon [[parallax]] measurements collected during the [[Hipparcos]] mission, this star is located at a distance of about {{Convert|92.1|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+Eta Draconis is a large star with 2.55<ref name=pasj60_4_781/> times the mass of the Sun. The [[spectrum]] matches a [[stellar classification]] of G8&nbsp;III,<ref name=pasj60_4_781/> with the [[luminosity class]] III indicating this is an [[stellar evolution|evolved]] [[giant star]] that has exhausted the supply of hydrogen at its core. It reached this stage in only 550<ref name=pasj60_4_781/> million years because higher mass stars such as this consume the supply of hydrogen more rapidly than the Sun. The measured [[angular diameter]] of this star, after correction for [[limb darkening]], is {{nowrap|3.72 ± 0.07 [[milliarcsecond|mas]]}}.<ref name=aaa431_773/> At the estimated distance of Eta Draconis,<ref name=aaa474_2_653/> this yields a physical size of about 11 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> From its extended [[stellar atmosphere|envelope]], it is radiating around 60 times the luminosity of the Sun at an [[effective temperature]] of 5,055&nbsp;K,<ref name=pasj60_4_781/> giving it the yellow glow of a G-type star.<ref name=csiro/>
+
+A nearby stellar companion is located at an [[angular separation]] of 5.1&nbsp;[[arcseconds]] from Eta Draconis. This is an 8.8 magnitude [[K-type main sequence star]] with a stellar classification of K2&nbsp;V.<ref name=mnras389_2_869/> At the estimated distance of this star system, the two stars are separated by a physical distance of at least 140&nbsp;[[Astronomical Unit|AU]] and require at least a millennium to complete an orbit.<ref name=kaler/>
+
+==Name==
+
+η Draconis, together with [[Zeta Draconis|ζ Dra]] (Al Dhibah), were '''Al Dhīʼbain''', the Duo Lupi in [[Arabic]], the Two Hyaenas or Wolves, lying in wait for the Camel's Foal, the little star Al Rubaʽ, protected by the [[Mother Camels]].<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html Star Name - R.H Allen p. 202]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|紫微左垣}} ({{lang|zh-Latn|Zǐ Wēi Zuǒ Yuán}}), meaning ''[[Purple Forbidden enclosure|Left Wall of Purple Forbidden Enclosure]]'', refers to an asterism consisting of η Draconis, [[Iota Draconis|ι Draconis]], [[Theta Draconis|θ Draconis]], [[Zeta Draconis|ζ Draconis]], [[Upsilon Draconis|υ Draconis]], [[73 Draconis]], [[Gamma Cephei|γ Cephei]] and [[23 Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, η Draconis itself is known as {{lang|zh|紫微左垣三}} ({{lang|zh-Latn|Zǐ Wēi Zuǒ Yuán sān}}, {{lang-en|the Third Star of Left Wall of Purple Forbidden Enclosure}}.),<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060610.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 10 日]</ref> representing {{lang|zh|右樞}} ({{lang|zh-Latn|Shǎozǎi}}), meaning ''The Second Premier''.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#PrupleForbiddenEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> Possibly, 右樞 (Shǎozǎi) is westernized into '''Hea Tsae''' by R.H. Allen with meaning "the Lowest Steward" but it was for [[Theta Draconis|θ Dra]]<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html Star Name - R.H. Allen p. 210]</ref>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P }}</ref>
+
+<ref name=pasj60_4_781>{{citation | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar parameters and elemental abundances of late-G giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T |arxiv = 0805.2434 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=coapa239_1>{{cite journal | author=Bernacca, P. L.; Perinotto, M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=aass34_1>{{cite journal | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(28.23\cdot 3.72\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 22.6\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=SIMBAD>{{citation | title=eta Dra -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Eta+Draconis | accessdate=2012-02-20 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | title=AL DHIBAIN "PRIOR" (Eta Draconis) | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/aldhibprior.html | accessdate=2012-02-20 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Draco}}
+
+[[Category:Draco (constellation)]]
+[[Category:Bayer objects|Draconis, Eta]]
+
+[[es:Aldhibain]]
+[[fa:اتا اژدها]]
+[[fr:Eta Draconis]]
+[[id:Eta Draconis]]
+[[ja:りゅう座イータ星]]
+[[pt:Eta Draconis]]
+[[zh:少宰 (恆星)]]

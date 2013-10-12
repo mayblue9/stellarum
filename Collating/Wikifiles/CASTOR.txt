@@ -1,0 +1,188 @@
+{{Starbox begin
+ | name = Castor
+}}
+{{Starbox image
+ | image = [[File:Gemini constellation map.svg|250px]]
+ | caption = The position of Castor within the Gemini Constellation.
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | constell    = [[Gemini (constellation)|Gemini]]
+ | ra          = {{RA|07|34|35.87319}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|+31|53|17.8160}}<ref name=aaa474_2_653/>
+ | appmag_v    = {{nowrap|1.93 / 2.97}}<ref name=aaa384_180/>
+}}
+{{Starbox character
+ | class       = {{nowrap|A1 V + A2 Vm}}<ref name=aj81_245/>
+ | b-v         = 0.04
+ | u-b         = 0.02
+ | variable    = 
+}}
+{{Starbox astrometry
+ | radial_v    = {{nowrap|+6.0 / –1.2}}<ref name=drva66/>
+ | prop_mo_ra  = –191.45<ref name=aaa474_2_653/>
+ | prop_mo_dec = –145.19<ref name=aaa474_2_653/>
+ | parallax    = 64.12
+ | p_error     = 3.75
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox detail
+ | component1  = α Gem Aa
+ | gravity     = 4.2<ref name=aaa402_719/>
+ | temperature = 10,286<ref name=apj189_101/>
+ | metal_fe    = 0.98<ref name=apj189_101/>
+ | age_myr     = 
+ | mass        = 2.76<ref name=mnras389_2_925/>
+ | radius      = 2.4<ref name=aaa402_719/>
+ | luminosity  = 
+ | rotational_velocity = 18<ref name=aaa463_2_671/>
+ | component2  = α Gem Ba
+ | gravity2    = 4.0<ref name=aaa402_719/>
+ | temperature2= 8,842<ref name=apj189_101/>
+ | metal_fe2   = 0.45<ref name=apj189_101/>
+ | mass2       = 2.98<ref name=mnras389_2_925/>
+ | radius2     = 3.3<ref name=aaa402_719/>
+ | luminosity2 = 
+ | rotational_velocity2 = 33<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+ | names=Castor, [[Bayer designation|&alpha;&nbsp;Gem]], [[Flamsteed designation|66&nbsp;Gem]], [[Variable star designation|YY&nbsp;Gem]], [[Bonner Durchmusterung|BD]]&nbsp;+32&nbsp;1581/2, [[FK5]]&nbsp;287, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;1785.00, [[Henry L. Giclas catalogue|Gl]] 278, [[Henry Draper catalogue|HD]]&nbsp;60178/60179, [[Hipparcos catalogue|HIP]]&nbsp;36850, [[Harvard Revised catalogue|HR]] 2891, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;12038, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;60198.
+}}
+{{Starbox reference | Simbad=HD+60179 Castor Aa}}
+{{Starbox reference | Simbad=HD+60178 Castor Ba}}
+{{Starbox end}}
+'''Castor''' (α Gem, α Geminorum, Alpha Geminorum) is the second brightest star in the [[constellation]] [[Gemini (constellation)|Gemini]] and [[list of brightest stars|one of the brightest stars]] in the night sky. Although it has the [[Bayer designation]] "alpha", it is actually fainter than Beta Geminorum ([[Pollux (star)|Pollux]]). Castor is 49.8 light years away from Earth.
+
+==Physical characteristics==
+Castor was discovered to be a [[visual binary]] in 1678, with the [[apparent magnitude|magnitude]] of its components being 2.0 and 2.9 (the combined magnitude is 1.58). The separation of the components is about 6", and the period of revolution is around 467 years. Each of the components of Castor is itself a [[spectroscopic binary]], making Castor a quadruple star system. Castor has a faint companion separated from it by about 72" but having the same [[parallax]] and [[proper motion]]; this companion is an [[eclipsing binary]] system with a period slightly less than 1 day, and it is one of only a few known eclipsing binary systems where both companions are [[star classification|class]] [[M dwarf]] stars. Castor can thus be considered to be a sextuple star system,<ref>[http://www.ctio.noao.edu/~atokovin/stars/index.php?cat=HD&number=60178 MSC/Tokovinin HD 60178]</ref> with six individual stars gravitationally bound together. Component C has the [[variable star]] designation YY Geminorum.
+
+==The Castor system==
+
+{| class="wikitable"
+!rowspan="2"|Parameter
+!colspan="6"|Star Component{{citation needed|date=March 2012}}
+|-
+!width="13%"|Aa
+!width="13%"|Ab
+!width="13%"|Ba
+!width="13%"|Bb
+!width="13%"|Ca
+!width="13%"|Cb
+|-
+|[[Stellar classification|Spectral type]]
+|A1 V
+|Unknown (probably M5 V)
+|A2 Vm
+|M2 V
+|M0.5 Ve
+|M0.5 Ve
+|-
+|Mass ([[Solar mass|M<sub>☉</sub>]])
+|2.15
+|0.4&ndash;0.6
+|1.7
+|0.4&ndash;0.6
+|0.62
+|0.57
+|-
+|Radius ([[Solar radius|R<sub>☉</sub>]])
+|2.3
+|?
+|1.6
+|?
+|0.76
+|0.68
+|}
+
+==Etymology and culture==
+
+Castor and Pollux are the two "heavenly twin" stars that give the constellation Gemini (meaning ''twins'' in Latin) its name. The name ''Castor'' refers specifically to [[Castor and Pollux|Castor]], one of the twin sons of [[Zeus]] and [[Leda (mythology)|Leda]], and literally means ''beaver'' in Greek. The star was annotated by the [[Arabic language|Arabic]] description ''Al-Ras al-Taum al-Muqadim'', which translates as ''the head of the foremost twin.'' In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated ''Aoul al Dzira'', which was translated into [[Latin]] as ''Prima Brachii'', meaning ''the first in the paw''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In Chinese, {{lang|zh|北河}} ({{lang|zh-Latn|Běi Hé}}), meaning ''[[Well (Chinese constellation)|North River]]'', refers to an asterism consisting of Castor, [[Rho Geminorum|ρ Geminorum]], and [[Beta Geminorum|Pollux]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, Castor itself is known as {{lang|zh|北河二}} ({{lang|zh-Latn|Běi Hé èr}}, {{lang-en|the Second Star of North River}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>  The [[Chinese astronomy|Chinese]] recognized Castor as ''[[Yin and yang|Yin]]'', which is, according to the Chinese, one of the two fundamental principles upon which all things depend.{{Citation needed|date=February 2012}}
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apj189_101>{{citation | last1=Smith | first1=M. A. | title=Metallicism in border regions of the Am domain. III. Analysis of the hot stars Alpha Geminorum A and B and Theta Leonis | journal=Astrophysical Journal | volume=189 | pages=101–111 | month=April | year=1974 | doi=10.1086/152776 | bibcode=1974ApJ...189..101S }}</ref>
+
+<ref name=aj81_245>{{citation | last1=Edwards | first1=T. W. | title=MK classification for visual binary components | journal=Astronomical Journal | volume=81 | pages=245–249 | month=April | year=1976 | doi=10.1086/111879 | bibcode=1976AJ.....81..245E }}</ref>
+
+<ref name=drva66>{{citation | last1=Evans | first1=D. S. | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 held at the University of Toronto 20-24 June, 1966 | editor1-first=Alan Henry | editor1-last=Batten | editor2-first=John Frederick | editor2-last=Heard | publisher=Academic Press, London | page=57 | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=mnras389_2_925>{{citation | last1=Tokovinin | first1=A. | title=Comparative statistics and origin of triple and quadruple stars | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=925-938 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13613.x | bibcode=2008MNRAS.389..925T |arxiv = 0806.3263 }}</ref>
+
+<ref name=aaa402_719>{{citation | last1=Stelzer | first1=B. | last2=Burwitz | first2=V. | title=Castor A and Castor B resolved in a simultaneous Chandra and XMM-Newton observation | journal=Astronomy and Astrophysics | volume=402 | pages=719–728 | month=May | year=2003 | doi=10.1051/0004-6361:20030286 | bibcode=2003A&A...402..719S |arxiv = astro-ph/0302570 }}</ref>
+
+<ref name=aaa384_180>{{citation | display-authors=1 | last1=Fabricius | first1=C. | last2=Høg | first2=E. | last3=Makarov | first3=V. V. | last4=Mason | first4=B. D. | last5=Wycoff | first5=G. L. | last6=Urban | first6=S. E. | title=The Tycho double star catalogue | journal=Astronomy and Astrophysics | volume=384 | pages=180-189 | month=March | year=2002 | doi=10.1051/0004-6361:20011822 | bibcode=2002A&A...384..180F }}</ref>
+
+}}
+
+==External links==
+* {{cite web |
+ title=Castor 6 |
+ work=SolStation |
+ url=http://www.solstation.com/stars2/castor6.htm |
+ accessdate=December 5, 2005 }}
+{{Nearest star systems|11}}
+{{Stars of Gemini}}
+
+{{Sky|07|34|36|+|31|53|18}}
+
+{{DEFAULTSORT:Castor (Star)}}
+[[Category:Bayer objects|Geminorum, Alpha]]
+[[Category:Eclipsing binaries]]
+[[Category:Flamsteed objects|Geminorum, 66]]
+[[Category:Flare stars]]
+[[Category:Gemini (constellation)]]
+[[Category:Henry Draper Catalogue objects|060178/9]]
+[[Category:Hipparcos objects|036850]]
+[[Category:HR objects|2891]]
+[[Category:Multiple star systems|6]]
+[[Category:M-type main sequence stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+[[Category:Castor Moving Group]]
+
+[[ar:رأس التوأم المقدم]]
+[[az:Kastor]]
+[[be:Кастор]]
+[[ca:Càstor (estrella)]]
+[[cs:Kastor]]
+[[de:Castor (Stern)]]
+[[es:Cástor (estrella)]]
+[[fa:رأس پیکر پیشین]]
+[[fr:Alpha Geminorum]]
+[[ko:카스토르]]
+[[hi:पुनर्वसु-कैस्टर तारा]]
+[[id:Alpha Geminorum]]
+[[it:Castore (astronomia)]]
+[[he:קסטור]]
+[[ka:კასტორი (ვარსკვლავი)]]
+[[kk:Кастор]]
+[[ku:Castor (stêr)]]
+[[lb:Castor (Stär)]]
+[[lt:Kastoras (žvaigždė)]]
+[[nl:Castor (ster)]]
+[[ja:カストル (恒星)]]
+[[no:Castor]]
+[[nds:Castor (Steern)]]
+[[pl:Kastor (gwiazda)]]
+[[pt:Castor (estrela)]]
+[[ro:Castor (stea)]]
+[[ru:Кастор (звезда)]]
+[[sk:Kastor (hviezda)]]
+[[fi:Castor (tähti)]]
+[[sv:Castor (stjärna)]]
+[[tt:Кастор (йолдыз)]]
+[[to:Lua tangata]]
+[[zh:北河二]]

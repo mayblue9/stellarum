@@ -1,0 +1,76 @@
+{{About|1=the [[open cluster]]|2=other uses|3=Trapezium (disambiguation){{!}}Trapezium}}
+{{Cluster
+|image=[[Image:Trapezium cluster optical and infrared comparison.jpg|250px]]
+|caption=Trapezium in optical (left) and [[infrared]] light (right) from [[Hubble Space Telescope|Hubble]]. ''[[NASA]]&nbsp;photo''.
+|name=Trapezium
+|epoch= [[J2000]]
+|class=?
+|constellation=[[Orion (constellation)|Orion]]
+|ra=05<sup>h</sup> 35.4<sup>m</sup>
+|dec=−05° 27′
+|dist_ly=1.6 [[light-year|kly]]
+|dist_pc=490 [[parsec|pc]]
+|appmag_v=4.0
+|size_v=47 (seconds of arc)
+|mass_kg=?
+|mass_msol=?
+|radius_ly=10 [[light-year|ly]]
+|v_hb=?
+|age=3 × 10<sup>5</sup> years
+|notes=
+|names=
+|}}
+The '''Trapezium''', or '''Orion Trapezium Cluster''', is a tight [[open cluster]] of [[star]]s in the heart of the [[Orion Nebula]], in the [[constellation]] of [[Orion (constellation)|Orion]]. It was discovered by [[Galileo Galilei]].  On February 4, 1617 he sketched three of the stars (A, C, D), but missed the surrounding nebulosity.<ref name=bard>Galileo Galilei: Siderius Nuncius, [[Venice]], 1610. English Translation published at Bard College, Hudson NY" October 9, 2003 English Translation [http://www.bard.edu/admission/forms/pdfs/galileo.pdf] Original Latin version [http://www.liberliber.it/biblioteca/g/galilei/sidereus_nuncius/html/sidereus.htm]</ref><ref name=popet>Tom Pope and Jim Mosher: Galilean telescope homepage"  March 17, 2006  [http://www.pacifier.com/~tpope/Trapezium_Page.htm], "Some have expressed puzzlement that in his text Galileo does not mention the nebulosity (known in modern nomenclature as M42) enveloping these stars. ... Galileo believed, as he explains in ''Sidereus Nuncius'', that what looks nebulous to the eye is resolved into stars by his telescope; what looks nebulous through his telescope could presumably also be resolved into stars by a still larger and more powerful telescope. Hence, a diffuse glow would be, more than anything, an indication of the limitations of his telescope and not particularly worthy of special note."</ref><ref name=popeu>Tom Pope and Jim Mosher: Page on Galileo's February 4, 1617 notebook drawing of the Trapezium region, May 2, 2006 "Perhaps significantly, Galileo makes no mention of having noticed the now well-known gas cloud, M42, surrounding the Trapezium stars."[http://www.pacifier.com/~tpope/Photo_Drawing_Comparison_Page.htm#TRAPEZIUM]</ref> The fourth component (B) was identified by several observers in 1673, and several more components were discovered later, for a total of eight by 1888. Subsequently several of the stars were determined to be binaries. Telescopes of amateur astronomers from about 5&nbsp;inch [[aperture]] can resolve six stars under good [[Astronomical seeing|seeing]] conditions.<ref>{{cite web | author = Lodriguss, Jerry | title = The Trapezium, Theta Orionis | url =  http://www.astropix.com/HTML/B_WINTER/TRAPEZ.HTM | accessdate = 2009-06-02}}</ref>
+
+The Trapezium is a relatively young cluster that has formed directly out of the parent nebula. The five brightest stars are on the order of 15-30 [[solar mass]]es in size.  They are within a diameter of 1.5 [[light-year]]s of each other and are responsible for much of the illumination of the surrounding nebula. The Trapezium may be a sub-component of the larger Orion Nebula Cluster, a grouping of about 2,000 stars within a diameter of 20 light-years.
+
+== Identification ==
+It is most readily identifiable by the [[Asterism (astronomy)|asterism]] of four relatively bright stars. The four are often identified as A, B, C, and D in order of increasing [[right ascension]]. The brightest of the four stars is C, or [[Theta1 Orionis C|Theta<sup>1</sup> Orionis C]], with an apparent magnitude of 5.13. Both A and B have been identified as [[eclipsing binary|eclipsing binaries]].
+
+[[Infrared]] images of the Trapezium are better able to penetrate the surrounding clouds of dust, and have located many more stellar components. About half the stars within the cluster have been found to contain evaporating circumstellar disks, a likely precursor to planetary formation. In addition, [[brown dwarf]]s and low-mass [[runaway stars]] have been identified.
+
+<gallery>
+File:TrapeziumStars.jpg|Trapezium star identification
+File:Glowing region Trapezium stars.jpg|This glowing region reveals arcs and bubbles formed when stellar winds - streams of charged particles ejected by the Trapezium stars - collide with material.
+</gallery>
+
+== Possible black hole ==
+
+A 2012 paper suggests an [[intermediate mass black hole|intermediate mass]] [[black hole]] with a mass >100 times larger than that of the [[solar mass|Sun]] may be present within the Trapezium, something that could explain the large [[velocity dispersion]] of the stars of the cluster.<ref>{{cite web | author = Ladislav Subr, Pavel Kroupa, Holger Baumgardt | title = Catch me if you can: is there a runaway-mass black hole in the Orion Nebula Cluster? | url =  http://arxiv.org/abs/1209.2114 | accessdate = 2012-10-06}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal |last=Lada |first=E. A. |authorlink= |coauthors=''et al.'' |year=1996 |month= |title=Circumstellar Disks in the Trapezium Cluster |journal=Bulletin of the American Astronomical Society |volume=28 |issue= |pages=1342 |bibcode=1996AAS...189.5301L |url= |accessdate= |quote= }}
+*{{cite journal |last=Poveda |first=Arcadio |authorlink= |coauthors=''et al.'' |year=2005 |month= |title=Low-Mass Runaway Stars from the Orion Trapezium Cluster |journal=Astrophysical Journal |volume=627 |issue=1 |pages=L61–L64 |doi=10.1086/432053 |url= |accessdate= |quote= |bibcode=2005ApJ...627L..61P|arxiv = astro-ph/0506002 }}
+
+==External links==
+* [http://chandra.harvard.edu/press/00_releases/press_110900.html Chandra Observatory Uncovers Hot Stars In The Making], MIT Press Release, 2000.
+*[http://www.astropix.com/HTML/B_WINTER/TRAPEZ.HTM A detailed description of the Trapezium Cluster]
+*[[Astronomy Picture of the Day]] - [http://apod.nasa.gov/apod/ap030302.html In the Center of the Trapezium] 2003 March 2
+{{commons category|Trapezium (astronomy)}}
+
+{{Stars of Orion}}
+
+[[Category:Open clusters]]
+[[Category:Orion (constellation)]]
+[[Category:Orion Molecular Cloud Complex]]
+[[Category:Bayer objects|Orionis, Theta1]]
+[[Category:Astronomical asterisms]]
+
+[[ar:تجمع المعين]]
+[[ca:Cúmul del Trapezi]]
+[[de:Trapez (Astronomie)]]
+[[es:Cúmulo del Trapecio]]
+[[fr:Amas du Trapèze]]
+[[gl:Trapecio de Orión]]
+[[ko:사다리꼴 성단]]
+[[it:Trapezio (astronomia)]]
+[[lb:Trapez am Orion]]
+[[ja:トラペジウム]]
+[[pl:Gromada Trapez]]
+[[pt:Theta Orionis]]
+[[sk:Trapéz (Orión)]]
+[[uk:Трапеція Оріона]]
+[[zh:猎户四边形星团]]

@@ -1,0 +1,124 @@
+{{Starbox begin
+ | name = Xi Aquarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aquarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquarius constellation and its surroundings]]
+     <div style="position: absolute; left: 59.0%; top: 40.1%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of ξ Aquarii (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|21|37|45.10931}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|–07|51|15.1299}}<ref name=aaa474_2_653/>
+ | appmag_v    = 4.682<ref name=sps1966/>
+ | constell    = [[Aquarius (constellation)|Aquarius]]
+}}
+{{Starbox character
+ | class       = A7&nbsp;V<ref name=aaass19_91/>
+ | b-v         = +0.181<ref name=sps1966/>
+ | u-b         = +0.187<ref name=sps1966/>
+ | variable    = 
+}}
+{{Starbox astrometry
+ | radial_v    = –26.2<ref name=apj188_291/>
+ | prop_mo_ra  = +114.20<ref name=aaa474_2_653/>
+ | prop_mo_dec = –25.03<ref name=aaa474_2_653/>
+ | parallax    = 18.26
+ | p_error     = 0.24
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 1.9<ref name=al28_4_261/>
+}}
+{{Starbox orbit
+ | reference = <ref name=apj629_1_507/>
+ | period_unitless = 8,016&nbsp;days
+ | axis = <!--Semimajor axis (in arcseconds)-->
+ | axis_unitless = <!--Semimajor axis (no units provided by template)-->
+ | eccentricity = 0.54
+ | inclination = <!--Inclination (in degrees)-->
+ | node = <!--Longitude of node (in degrees)-->
+ | periastron = <!--Periastron epoch-->
+ | periarg = <!--Argument of periastron (in degrees), secondary -->
+ | periarg_primary = <!--Argument of periastron (in degrees), primary -->
+ | k1 = <!-- Velocity semi-amplitude (SB1, or primary in SB2), in km/s -->
+ | k2 = <!-- Velocity semi-amplitude (secondary in SB2), in km/s -->
+}}
+{{Starbox detail
+ | component1  = ξ Aqr A
+ | mass        = 1.9<ref name=al28_4_261/>
+ | radius      = 
+ | luminosity  = 
+ | temperature = 7,691<ref name=aaa515_A11/>
+ | metal_fe    = –0.03<ref name=aaa515_A11/>
+ | gravity     = 3.76<ref name=aaa515_A11/>
+ | rotational_velocity = 170<ref name=aaa463_2_671/>
+ | age_gyr     = 
+ | component2  = ξ Aqr B
+ | mass2       = {{nowrap|0.9 ± 0.6}}<ref name=al28_4_261/>
+}}
+{{Starbox catalog
+ | names = ksi&nbsp;Aqr, 23&nbsp;Aqr, [[Bonner Durchmusterung|BD]]–08&nbsp;5701, [[FK5]]&nbsp;1569, [[Henry Draper Catalogue|HD]]&nbsp;205767, [[Hipparcos catalogue|HIP]]&nbsp;106786, [[Bright Star Catalogue|HR]]&nbsp;8264, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;145537.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Xi Aquarii''' (ξ Aqr, ξ Aquarii) is the [[Bayer designation]] for a [[binary star]] system in the [[celestial equator|equatorial]] [[constellation]] of [[Aquarius (constellation)|Aquarius]]. It has the traditional name '''Bunda''' and is visible to the naked eye with an [[apparent visual magnitude]] of 4.7.<ref name=sps1966/> Based upon [[parallax]] measurements made during the [[Hipparcos]] mission, this system lies at a distance of around {{Convert|179|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+This is a single-lined [[spectroscopic binary]] system, which means that the presence of an unseen orbiting companion can be inferred from [[Doppler shift]]s in the spectral [[absorption line]]s. The two bodies orbit each other with a [[orbital period|period]] of 8,016&nbsp;days (22&nbsp;y) and an [[orbital eccentricity|eccentricity]] of 0.54.<ref name=apj629_1_507/> The primary component is an [[A-type main sequence star]] with a [[stellar classification]] of A7&nbsp;V.<ref name=aaass19_91/> It has about 1.9<ref name=al28_4_261/> times the mass of the Sun and is rotating rapidly with a [[projected rotational velocity]] of 170&nbsp;km/s.<ref name=aaa463_2_671/> The orbital data is consistent with the secondary component being either a [[red dwarf]] or a [[white dwarf]] star.<ref name=al28_4_261/>
+
+==In culture==
+In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Thanih Saad al Saaoud''' ('''تاني سعد السعود''' - ''taanii sa‘d al-su‘ūd''), which was translated into [[Latin]] as '''Secunda Fortunæ Fortunarum''', meaning ''the second of luck of lucks''.<ref name=mnras55_429/> This star, along with [[Beta Aquarii|β Aqr]] (Sadalsuud) and [[46 Capricorni|c Cet]], were '''Saʽd al Suʽud''' ('''سعد السعود'''), the Luck of Lucks.<ref name=allen1963/><ref name=aquarii/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天壘城}} ({{lang|zh-Latn|Tiān Lěi Chéng}}), meaning ''[[Emptiness (Chinese constellation)|Celestial Ramparts]]'', refers to an asterism consisting of ξ Aquarii, [[46 Capricorni]], [[47 Capricorni]], [[Lambda Capricorni|λ Capricorni]], [[50 Capricorni]], [[18 Aquarii]], [[29 Capricorni]], [[9 Aquarii]], [[8 Aquarii]], [[Nu Aquarii|ν Aquarii]], [[14 Aquarii]], [[17 Aquarii]] and [[19 Aquarii]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ξ Aquarii itself is known as {{lang|zh|天壘城一}} ({{lang|zh-Latn|Tiān Lěi Chéng yī}}, {{lang-en|the First Star of Celestial Ramparts}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaass19_91>{{citation | last1=Levato | first1=H. | title=Rotational velocities and spectral types for a sample of binary systems | journal=Astronomy and Astrophysics, Supplement Series | volume=19 | pages=91–99 | month=January | year=1975 | bibcode=1975A&AS...19...91L | postscript=. }}</ref>
+
+<ref name=apj188_291>{{citation | last1=Abt | first1=H. A. | last2=Levy | first2=S. G. | title=Reinvestigation of certain long-period A-type binaries | journal=Astrophysical Journal | volume=188 | pages=291–294 | month=March | year=1974 | doi=10.1086/152716 | bibcode=1974ApJ...188..291A | postscript=. }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 | postscript=. }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G | postscript=. }}</ref>
+
+<ref name=aaa515_A11>{{citation | display-authors=1 | last1=Soubiran | first1=C. | last1=Le Campion | first1=J.-F. | last1=Cayrel de Strobel | first1=G. | last1=Caillo | first1=A. | title=The PASTEL catalogue of stellar parameters | journal=Astronomy and Astrophysics | volume=515 | page=A111 | month=June | year=2010 | doi=10.1051/0004-6361/201014247 | bibcode=2010A&A...515A.111S | postscript=. |arxiv = 1004.1069 }}</ref>
+
+<ref name=apj629_1_507>{{citation | last1=Abt | first1=Helmut A. | title=Observed Orbital Eccentricities | journal=The Astrophysical Journal | volume=629 | issue=1 | pages=507–511 | month=August | year=2005 | doi=10.1086/431207 | bibcode=2005ApJ...629..507A }}</ref>
+
+<ref name=al28_4_261>{{citation | last1=Goncharov | first1=G. A. | last2=Kiyaeva | first2=O. V. | title=Astrometric Orbits from a Direct Combination of Ground-Based Catalogs with the Hipparcos Catalog | journal=Astronomy Letters | volume=28 | issue=4 | pages=261–271 | month=April | year=2002 | bibcode=10.1134/1.1467262 | bibcode=2002AstL...28..261G |doi = 10.1134/1.1467262 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=ksi Aqr -- Star  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+205767 | accessdate=2012-07-02 | postscript=. }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K | postscript=. }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Aquarius*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=52 | postscript=. }}</ref>
+
+<ref name=aquarii>[[Beta Aquarii|β Aqr]] as ''Nir Saad al Saaoud'' or ''Lucida Fortunæ Fortunarum'' (the brightest of luck of lucks) and ξ Aqr as ''Thanih Saad al Saaoud'' or ''Secunda Fortunæ Fortunarum''  (the second of luck of lucks). [[46 Capricorni|c Cap]] should be ''Thalath Fortunæ Fortunarum'' or ''Tertia Fortunæ Fortunarum'' (the third of luck of lucks) consistently, but Al Achsasi Al Mouakket was not designated the title for this star with uncleared consideration. Possibly according to the differences of opinion with R. H. Allen.</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=21+37+45.1093-07+51+15.125&ident=HD+205767&submit=Aladin+previewer Image ξ Aqr]
+
+{{Stars of Aquarius}}
+
+[[Category:Spectroscopic binaries]]
+[[Category:Aquarius (constellation)]]
+[[Category:Bayer objects|Aquarii, Xi]]
+[[Category:Flamsteed objects|Aquarii, Xi]]
+[[Category:Henry Draper Catalogue objects|205767]]
+[[Category:Hipparcos objects|106786]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ca:Xi Aquarii]]
+[[de:Bunda (Stern)]]
+[[fa:کسی دلو]]
+[[id:Xi Aquarii]]
+[[it:Bunda]]
+[[lb:Bunda (Stär)]]
+[[pt:Xi Aquarii]]
+[[zh:天垒城一]]

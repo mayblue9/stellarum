@@ -1,0 +1,132 @@
+{{Starbox begin
+| name = Beta Lyrae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Lyra IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Lyra constellation and its surroundings]]
+     <div style="position: absolute; left: 119px; top: 111px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Lyrae (circled)
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| constell = [[Lyra]]
+| ra = {{RA|18|50|04.79525}}<ref name=aaa474_2_653/>
+| dec = {{DEC|+33|21|45.6100}}<ref name=aaa474_2_653/>
+| appmag_v = 3.52<ref name=apj684_2_L95/> (3.4–4.3) 
+}}
+{{Starbox character
+| class = B6–8II / B<ref name=apj684_2_L95/>
+| b-v = +0.00<ref name=ppc/>
+| u-b = −0.56<ref name=ppc/>
+| variable = [[Beta Lyrae variable|β Lyr]]
+}}
+{{Starbox astrometry
+| radial_v = −19.2<ref name=gcrv1953/>
+| prop_mo_ra = 1.90<ref name=aaa474_2_653/>
+| prop_mo_dec = −3.53<ref name=aaa474_2_653/>
+| parallax = 3.39
+| p_error = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = −3.91
+}}
+{{Starbox detail
+| mass = {{nowrap|A: 2.83 ± 0.18 ''M''<sub>☉</sub>}}<br>{{nowrap|B: 12.76 ± 0.27}}<ref name=apj684_2_L95/>
+| radius = 29.4/–<ref name=apj684_2_L95/>
+| luminosity = 6,000/25,000<ref name=kaler2002/>
+| temperature = 13,000/30,000<ref name=kaler2002/>
+| metal = 
+| rotation = 
+| age = 
+}}
+{{Starbox visbin
+| name = Beta Lyrae B
+| reference = <ref name=apj684_2_L95/>
+| period_unitless = 12.9414&nbsp;days
+| axis = {{nowrap|0.865 ± 0.048}}
+| eccentricity = 0
+| inclination = {{nowrap|92.25 ± 0.82}}
+| node = {{nowrap|254.39 ± 0.83}}
+| periastron =
+}}<!--
+-->{{Starbox catalog
+| names = Sheliak, Shelyak, Shiliak,<ref name=allen1899/> 10&nbsp;Lyrae, [[Harvard Revised catalogue|HR]]&nbsp;7106, [[Bonner Durchmusterung|BD]]+33°3223, [[Henry Draper catalogue|HD]]&nbsp;174638, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;67451, AAVSO&nbsp;1846+33, [[Fifth Fundamental Catalogue|FK5]]&nbsp;705, [[Hipparcos Catalogue|HIP]]&nbsp;92420.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Beta Lyrae''' (β Lyr, β Lyrae) is a [[binary star system]] approximately {{Convert|960|ly|pc|abbr=off|lk=on}} away in the [[constellation]] [[Lyra]]. Beta Lyrae has the traditional name '''Sheliak''' (occasionally ''Shelyak),''<ref name=allen1899/> from '''الشلياق''' ''šiliyāq,'' the Arabic name of the constellation Lyra.<ref>The word is apparently of non-Arabic origin, as it has no other meaning in Arabic, and cannot be identified with an Arabic triliteral root. (Edward William Lane, ''Arabic-English Lexicon)''</ref> The [[Bayer designation]] for this star was given by the German astronomer [[Johann Bayer]] with the publication of his star atlas ''[[Uranometria]]'' in 1603. It was given the [[Flamsteed designation]] 10&nbsp;Lyrae by [[John Flamsteed]] in 1712 with the first publication of his star catalogue. The [[variable star|variable luminosity]] of this system was discovered in 1784 by the British amateur astronomer [[John Goodricke]].<ref name=jha10_23/>
+
+Beta Lyrae is a [[semidetached binary]] system made up of a [[stellar class]] B7II primary star and a secondary that is probably also a B-type star. The brighter, less massive star (B7II) in the system was once the more massive member of the pair, which caused it to evolve away from the [[main sequence]] first and become a [[giant star]]. Because the pair are in a close orbit, as this star expanded into a giant it filled its [[Roche lobe]] and transferred most of its mass over to its companion. The secondary, now more massive star is surrounded by an [[accretion disk]] from this mass transfer, with [[bipolar jets|bipolar, jet-like features]] projecting perpendicular to the disk.<ref name=apj684_2_L95/> This accretion disk blocks our view of the secondary star, lowering its apparent luminosity and making it difficult for astronomers to pinpoint what its stellar type is. The amount of mass being transferred between the two stars is about {{nowrap|2 × 10<sup>–5</sup> }}[[solar mass]]es per year, or the equivalent of the Sun's mass every 50,000 years, which results in an increase in orbital period of about 19 seconds each year.<ref name=apj684_2_L95/>
+
+[[File:Eclipsing binary star animation 3.gif|thumb|left|Animation showing how the light curve of a contact binary system changes as they orbit]]
+The orbital plane of this system is nearly aligned with the line of sight from the Earth, so the two stars periodically [[eclipse]] each other. This causes Beta Lyrae to regularly change its [[apparent magnitude]] from +3.4 to +4.6 over an orbital period of 12.9414&nbsp;days. The two components are so close together that they cannot be resolved with optical telescopes, forming a [[spectroscopic binary]]. In 2008, the primary star and the accretion disk of the secondary star were resolved and imaged using the CHARA Array interferometer<ref name=apj628_453/> and the Michigan InfraRed Combiner (MIRC)<ref name=spie62681P/> in the near infrared H band (see video below), allowing the orbital elements to be computed for the first time.<ref name=apj684_2_L95/>
+
+Two other stars appear close to the line of sight of Beta Lyrae, but are not part of the binary system. One, at an angular distance of 45.7", is of spectral type B7V, has an apparent magnitude of +7.2, and can easily be seen with binoculars. It is about 80 times as luminous as the Sun and is also a spectroscopic binary with a period of 4.34 days. The other is magnitude 9.9v separation 86" and with a luminosity 7 times that of the Sun.
+
+[[File:Betlyr2b.theora.ogv|thumb|Betlyr2b.theora]]
+== See also ==
+* [[Stars and planetary systems in fiction#Sheliak (Beta Lyrae)|Beta Lyrae in fiction]]
+* [[29 Canis Majoris]]
+* [[Pi Scorpii]]
+* [[Ring Nebula]]
+* [[Vega]]
+* [[Zeta Andromedae]]
+
+==Notes==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcrv1953>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=SIMBAD>{{citation | title=V* bet Lyr -- Eclipsing binary of beta Lyr type | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Lyrae | accessdate=2011-12-20 }}</ref>
+
+<ref name=apj684_2_L95>{{citation | display-authors=1 | last1=Zhao | first1=M. | last2=Gies | first2=D. | last3=Monnier | first3=J. D. | last4=Thureau | first4=N. | last5=Pedretti | first5=E. | last6=Baron | first6=F. | last7=Merand | first7=A. | last8=ten Brummelaar | first8=T. | last9=McAlister | first9=H. | title=First Resolved Images of the Eclipsing and Interacting Binary β Lyrae | journal=The Astrophysical Journal | volume=684 | issue=2 | pages=L95–L98 | month=September | year=2008 | doi=10.1086/592146 | bibcode=2008ApJ...684L..95Z |arxiv = 0808.0932 }}</ref>
+
+<ref name=apj628_453>{{citation | display-authors=1 | last1=ten Brummelaar | first1=Theo | last2=McAlister |first2=H. A. | last3=Ridgway | first3=S. T. | last4=Bagnuolo | first4=W. G., Jr. | last5=Turner | first5=N. H.| last6=Sturmann| first6=L. | last7=Sturmann | first7=J. | last8=Berger | first8=D. H. | last9=Ogden | first9=C. E. | last10=Cadman | first10=R. | last11=Hartkopf | first11= W. I. | last12=Hopper | first12=C. H. | last13=Shure | first13=M. A. | title=First Results from the CHARA Array. II. A Description of the Instrument | journal=The Astrophysical Journal | year=2005 | month=07 | volume=628 | issue=453 | doi=10.1086/430729 | bibcode=2005ApJ...628..453T |arxiv = astro-ph/0504082 }}</ref> 
+
+<ref name=spie62681P>{{citation | display-authors=1 | last1=Monnier | first1=John D. | last2=Pedretti | first2=Ettore | last3=Thureau |first3=Nathalie | last4=Berger |first4=Jean-Philippe | last5=Millan-Gabet | first5=Rafael | last6=ten Brummelaar | first6=Theo | last7= McAlister | first7=Harold | last8=Sturmann | first8=Judit | last9=Sturmann | first9=Lazlo | last10=Muirhead | first10=Phil | last11=Tannirkulam | first11=Ajay | last12=Webster | first12=Scott | last13=Zhao | first13=Ming | title=Michigan Infrared Combiner (MIRC): commissioning results at the CHARA Array | journal=Proceedings of the SPIE | year=2006 | volume=6268 | issue=62681P | doi=10.1117/12.671982 | bibcode=2006SPIE.6268E..55M }}</ref> 
+
+<ref name=ppc>{{citation | last=Nicolet | first=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Observatory | bibcode=1978ppch.book.....N }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=287 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA287 }}</ref>
+
+<ref name=kaler2002>{{citation | first1=James B. | last1=Kaler | title=The hundred greatest stars | series=Copernicus Series | year=2002 | publisher=Springer | isbn=0-387-95436-8 | page=29 | url=http://books.google.com/books?id=aJavy9Yk1yoC&pg=PA29 }}</ref>
+
+<ref name=jha10_23>{{citation | last1=Hoskin | first1=M. | title=Goodricke, Pigott and the Quest for Variable Stars | journal=Journal for the History of Astronomy | volume=10 | pages=23–41 | year=1979 | bibcode=1979JHA....10...23H }}</ref>
+
+}}
+
+== External links ==
+* Philippe Stee's homepage: [http://www.oca.eu/stee/page1/page3/page3.html Hot and Active Stars Research]
+* {{citation | first=James B. | last=Kaler | title=SHELIAK (Beta Lyrae) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/sheliak.html | accessdate=2011-12-20 }}
+* {{citation | first1=Dan | last1=Bruton | first2=Robb | last2=Linenschmidt | first3=Richard W. | last3=Schmude, Jr. | publisher=Texas A&M University| title=Watching Beta Lyrae Evolve | url=http://www.physics.sfasu.edu/astro/betalyra/ | accessdate=2011-12-20 }}
+* {{citation | first1=Sara J. | last1=Beck | date=July 1, 2011 | title=Beta Lyrae | publisher=AAVSO | url=http://www.aavso.org/vsots_betalyr | accessdate=2011-12-20 }}
+
+{{Stars of Lyra}}
+
+[[Category:Lyra (constellation)]]
+[[Category:Beta Lyrae variables]]
+[[Category:Bayer objects|Lyrae, Beta]]
+[[Category:Binary stars]]
+[[Category:B-type main sequence stars]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[ar:الشلياق]]
+[[de:Sheliak]]
+[[es:Beta Lyrae]]
+[[fa:بتا شلیاق]]
+[[fr:Beta Lyrae]]
+[[ko:거문고자리 베타]]
+[[id:Beta Lyrae]]
+[[it:Beta Lyrae]]
+[[nl:Sheliak]]
+[[ja:シェリアク]]
+[[pl:Beta Lyrae]]
+[[pt:Beta Lyrae]]
+[[ru:Шелиак]]
+[[sk:Sheliak]]
+[[fi:Beta Lyrae]]
+[[zh:渐台二]]
+[[he:שליאק]]

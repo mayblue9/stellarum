@@ -1,0 +1,111 @@
+{{Starbox begin
+ | name=θ Aurigae
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Auriga IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Auriga constellation and its surroundings]]
+     <div style="position: absolute; left: 42.4%; top: 45.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of θ Aurigae (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|05|59|43.27012}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+37|12|45.3047}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.62<ref name=clpl4_99/>
+ | constell = [[Auriga (constellation)|Auriga]]
+}}
+{{Starbox character
+ | class    = {{nowrap|A0pSi + F2-5V}}<ref name=aaa475_2_677/>
+ | r-i      = -0.06
+ | v-r      = 
+ | b-v      = -0.08<ref name=clpl4_99/>
+ | u-b      = -0.18<ref name=clpl4_99/>
+ | variable = [[Alpha2 Canum Venaticorum variable|α<sup>2</sup> CVn]]
+}}
+{{Starbox astrometry
+ | radial_v = +29.5<ref name=rgcrv/>
+ | prop_mo_ra  = +43.63<ref name=aaa474_2_653/>
+ | prop_mo_dec = -73.79<ref name=aaa474_2_653/>
+ | parallax = 19.70
+ | p_error  = 0.16
+ | parakkax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –1.05<ref name=aaa334_181/>
+}}
+{{Starbox detail
+ | mass     = {{nowrap|3.38 ± 0.08}}<ref name=aaa334_181/>
+ | radius   = {{nowrap|5.1 ± 0.4}}<ref name=aaa464_3_1089/>
+ | luminosity  = 263<ref name=aaa334_181/>
+ | temperature = {{nowrap|10,400 ± 300}}<ref name=aaa464_3_1089/>
+ | metal_fe = 
+ | gravity  = {{nowrap|3.6 ± 0.05}}<ref name=aaa464_3_1089/>
+ | rotational_velocity = 55<ref name=aaa464_3_1089/>
+ | rotation = 3.6187&nbsp;days<ref name=aaa424_237/>
+ | age_myr  = 
+}}
+{{Starbox catalog
+ | names = Bogardus, Maha-Sim, Mahasim, 37&nbsp;Aurigae, [[Bonner Durchmusterung|BD]]+37&nbsp;1380, [[Henry Draper Catalogue|HD]]&nbsp;40312, [[Hipparcos catalogue|HIP]]&nbsp;28380, [[Harvard Revised catalogue|HR]]&nbsp;2095, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;58636.
+}}
+{{Starbox end}}
+
+'''Theta Aurigae''' (θ Aur, θ Aurigae) is a [[binary star]] in the [[constellation]] [[Auriga (constellation)|Auriga]]. Rarely used proper names for this star include '''Bogardus''' and '''Mahasim''', the latter from the [[Arabic]] المِعْصَم ''al-mi<sup>c</sup>şam'' "wrist" (of the charioteer), which was also used for [[Eta Aurigae]].<ref>[http://www.constellationsofwords.com/stars/Maasym.html]</ref> It is known as 五車四 (the Fourth Star of the Five Chariots) in Chinese. Based upon [[parallax]] measurements, the distance to this star is about {{Convert|166|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+The primary component is a large star with more than three<ref name=aaa334_181/> times the mass of the Sun and over five<ref name=aaa464_3_1089/> times the Sun's radius. It is radiating 263<ref name=aaa334_181/> times the Sun's luminosity from its outer atmosphere at an [[effective temperature]] of 10,400&nbsp;K,<ref name=aaa464_3_1089/> giving it the white hue of an [[A-type star]]. The star has a [[stellar classification]] of A0pSi,<ref name=aaa475_2_677/> with the 'pSi' suffix indicating it is a chemically [[peculiar star]] with an abnormal abundance of silicon.
+
+The primary is classified a [[Alpha2 Canum Venaticorum variable|Alpha2 Canum Venaticorum]] type [[variable star]] and has a surface [[stellar magnetic field|magnetic field]] of about 1&nbsp;[[Gauss (unit)|kG]].<ref name=aaa464_3_1089/> Its [[projected rotational velocity]] is {{nowrap|55 km s<sup>–1</sup>}},<ref name=aaa464_3_1089/> with the star completing a rotation in only 3.6&nbsp;days.<ref name=aaa424_237/> The axis of rotation is inclined by an angle of {{nowrap|51◦ ± 6}} to the line of sight from the Earth.<ref name=aaa464_3_1089/> 
+
+There is a +7.2 magnitude companion, 4.5<ref name=aaa475_2_677/> magnitudes fainter than the primary, located at an [[angular separation]] of 3.91&nbsp;[[arcsecond]]s along a [[position angle]] of 304.9° as of 2002.<ref name=mnras413_2_1200/> This is an [[F-type main sequence star]] with a stellar classification in the range F2-5&nbsp;V.<ref name=aaa475_2_677/> The mean combined apparent magnitude of the system is +2.65 but the variation of the primary causes the system's brightness ranges from magnitude +2.62 to +2.70 with a period of 1.37 days. The system is an X-ray source with a luminosity of {{nowrap|9.49 × 10<sup>26</sup> erg s<sup>–1</sup>}}.<ref name=aaa475_2_677/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=mnras413_2_1200>{{citation | last1=Roberts | first1=Lewis C., Jr. | title=Astrometric and photometric measurements of binary stars with adaptive optics: observations from 2002 | journal=Monthly Notices of the Royal Astronomical Society | volume=413 | issue=2 | pages=1200–1205 | month=May | year=2011 | doi=10.1111/j.1365-2966.2011.18205.x | bibcode=2011MNRAS.413.1200R |arxiv = 1012.3383 }}</ref>
+
+<ref name=aaa464_3_1089>{{citation | display-authors=1 | last1=Shulyak | first1=D. | last2=Valyavin | first2=G. | last3=Kochukhov | first3=O. | last4=Lee | first4=B.-C. | last5=Galazutdinov | first5=G. | last6=Kim | first6=K.-M. | last7=Han | first7=I. | last8=Burlakova | first8=T. | last9=Tsymbal | first9=V. | title=The Lorentz force in atmospheres of CP stars: θ Aurigae | journal=Astronomy and Astrophysics | volume=464 | issue=3 | pages=1089–1099 | month=March | year=2007 | doi=10.1051/0004-6361:20064998 | bibcode=2007A&A...464.1089S |arxiv = astro-ph/0612301 }}</ref>
+
+<ref name=aaa475_2_677>{{citation | last1=Schröder | first1=C. | last2=Schmitt | first2=J. H. M. M. | title=X-ray emission from A-type stars | journal=Astronomy and Astrophysics | volume=475 | issue=2 | pages=677–684 | month=November | year=2007 | doi=10.1051/0004-6361:20077429 | bibcode=2007A&A...475..677S }}</ref>
+
+<ref name=aaa424_237>{{citation | last1=Rice | first1=J. B. | last2=Holmgren | first2=D. E. | last3=Bohlender | first3=D. A. | title=The distribution of oxygen on the surface of the Ap star θ Aur. An abundance Doppler image to compare with ɛ UMa | journal=Astronomy and Astrophysics | volume=424 | pages=237–244 | month=September | year=2004 | doi=10.1051/0004-6361:20035639 | bibcode=2004A&A...424..237R }}</ref>
+
+<ref name=aaa334_181>{{citation | last1=North | first1=P. | title=Do SI stars undergo any rotational braking? | journal=Astronomy and Astrophysics | volume=334 | pages=181–187 | month=June | year=1998 | bibcode=1998A&A...334..181N |arxiv = astro-ph/9802286 }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%202095 HR 2095]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J05597%2b3713A CCDM J05597+3713]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=V*+tet+Aur&ident=V*+tet+Aur&submit=Aladin+previewer Image Theta Aurigae]
+
+{{Stars of Auriga}}
+
+[[Category:Henry Draper Catalogue objects|40312]]
+[[Category:Hipparcos objects|028380]]
+[[Category:Bayer objects|Aurigae, Theta]]
+[[Category:Auriga (constellation)]]
+[[Category:Alpha2 Canum Venaticorum variables]]
+[[Category:Binary stars]]
+[[Category:A-type main sequence stars]]
+[[Category:K-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ca:Theta Aurigae]]
+[[de:Theta Aurigae]]
+[[es:Theta Aurigae]]
+[[fa:تتا ارابه‌ران]]
+[[fr:Theta Aurigae]]
+[[ko:마하심]]
+[[id:Theta Aurigae]]
+[[it:Theta Aurigae]]
+[[ja:ぎょしゃ座シータ星]]
+[[pt:Theta Aurigae]]
+[[ru:Тета Возничего]]
+[[sk:Théta Aurigae]]
+[[uk:HD40312]]
+[[zh:五车四]]

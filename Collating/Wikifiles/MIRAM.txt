@@ -1,0 +1,56 @@
+[[Image:Perseus constellation map visualization.PNG|250px|thumb|Stars of [[Perseus (constellation)|Perseus]]]]
+{{Starbox short |
+| name=η Persei
+| epoch=[[J2000.0]]
+| constell=[[Perseus (constellation)|Perseus]]
+| ra=02<sup>h</sup> 50<sup>m</sup> 41.8<sup>s</sup>
+| dec=+55° 53' 44"
+| spectral=K3 Ib-IIa
+| appmag_v=+3.76
+| dist_ly=1331
+| dist_pc=408
+| names=Miram, η&nbsp;Persei, η&nbsp;Per, Eta&nbsp;Per, 15 Persei, [[Star catalogue#BD/CD/CPD|BD]]+55&nbsp;714, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J02506+5553A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;99, [[Boss General Catalogue|GC]]&nbsp;3390, [[Henry Draper Catalogue|HD]]&nbsp;17506, [[Hipparcos catalogue|HIP]]&nbsp;13268, [[Bright Star Catalogue|HR]]&nbsp;834, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;02434+5529 A, [[PPM Star Catalogue|PPM]]&nbsp;28039, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;23655, [[Washington Double Star Catalog|WDS]]&nbsp;J02507+5554A.
+}}
+
+'''Eta Persei''' ('''Eta&nbsp;Per''', '''η&nbsp;Persei''', '''η&nbsp;Per''') is a [[star]] in the [[constellation]] [[Perseus (constellation)|Perseus]].  It also has the traditional name '''Miram'''.<ref>[http://www.constellationsofwords.com/stars/Miram.html Miram]</ref> 
+Miram belongs to [[stellar classification|spectral class]] K3 and has an [[apparent magnitude]] of +3.76. It is approximately 1331 [[light year]]s away from [[Earth]]. This star is radiating 35,000 times the luminosity of the Sun.<ref name=aaa352_495/>
+
+==Name and etymology==
+*This star, together with [[Delta Persei|δ Per]], [[Psi Persei|ψ Per]], [[Sigma Persei|σ Per]], [[Alpha Persei|α Per]] and [[Gamma Persei|γ Per]] has been called ''the Segment of Perseus''.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Perseus*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=331}}</ref> 
+*In [[Chinese language|Chinese]], {{lang|zh|天船}} ({{lang|zh-Latn|Tiān Chuán}}), meaning ''[[Stomach (Chinese constellation)|Celestial Boat]]'', refers to an asterism consisting of η Persei, [[Gamma Persei|γ Persei]], [[Alpha Persei|α Persei]], [[Psi Persei|ψ Persei]], [[Delta Persei|δ Persei]], [[48 Persei]], [[Mu Persei|μ Persei]] and [[HD 27084]]. Consequently, η Persei itself is known as {{lang|zh|天船一}} ({{lang|zh-Latn|Tiān Chuán yī}}, {{lang-en|the First Star of Celestial Boat}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060711.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 11 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+}}
+
+{{Stars of Perseus}}
+
+[[Category:Bayer objects|Persei, Eta]]
+[[Category:Perseus (constellation)]]
+[[Category:K-type supergiants]]
+[[Category:K-type bright giants]]
+[[Category:Stars with proper names]]
+
+[[de:Miram]]
+[[es:Miram]]
+[[fa:اتا برساووش]]
+[[fr:Eta Persei]]
+[[id:Eta Persei]]
+[[it:Eta Persei]]
+[[lb:Miram (Stär)]]
+[[nl:Miram]]
+[[ja:ペルセウス座イータ星]]
+[[pl:Eta Persei]]
+[[pt:Eta Persei]]
+[[sk:Miram]]
+[[zh:天船一]]

@@ -1,0 +1,153 @@
+{{Starbox begin
+ | name = Beta Aurigae
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Auriga IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Auriga constellation and its surroundings]]
+     <div style="position: absolute; left: 43.0%; top: 30.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = The location of β Aurigae (circled)
+}}
+{{Starbox observe
+ | epoch = [[J2000.0]]
+ | constell = [[Auriga (constellation)|Auriga]]
+ | ra = {{RA|05|59|31.72293}}<ref name=aaa474_2_653/>
+ | dec = {{DEC|+44|56|50.7573}}<ref name=aaa474_2_653/>
+ | appmag_v = +1.90<ref name=clpl4_99/>
+}}
+{{Starbox character
+ | class = {{nowrap|A1m IV + A1m IV}}<ref name=aaa467_3_1215/>
+ | r-i = –0.01
+ | b-v = +0.03<ref name=clpl4_99/>
+ | u-b = +0.05<ref name=clpl4_99/>
+ | variable = [[Eclipsing binary|Algol variable]]
+}}
+{{Starbox astrometry
+ | radial_v = –18.2<ref name=gcsrv/>
+ | prop_mo_ra = –56.44<ref name=aaa474_2_653/>
+ | prop_mo_dec = –0.95<ref name=aaa474_2_653/>
+ | parallax = 40.21
+ | p_error = 0.23
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 0.55/0.76<ref name=aar18_1_2/>
+}}
+{{Starbox orbit
+ | reference = <ref name=aj142_1_6/>
+ | period_unitless = 3.96004&nbsp;days
+ | axis = <!--Semimajor axis (in arcseconds)-->
+ | axis_unitless = <!--Semimajor axis (no units provided by template)-->
+ | eccentricity = 0.0
+ | inclination = 76.0 ± 0.4
+ | node = <!--Longitude of node (in degrees)-->
+ | periastron = 54539.0162 ± 0.0003 reduced [[HJD]]
+ | periarg = 
+ | k1 = 108.053 ± 0.072
+ | k2 = 110.911 ± 0.071
+}}
+{{Starbox detail
+ | component1 = β Aur A
+ | mass = {{nowrap|2.389 ± 0.013}}<ref name=aj142_1_6/>
+ | radius = 2.77<ref name="Nordstrom" />
+ | luminosity = 48<ref name="kaler"/>
+ | temperature = 9,350<ref name="Nordstrom" />
+ | metal_fe = 
+ | gravity = 3.93<ref name=aar18_1_2/>
+ | rotational_velocity = 33<ref name="Nordstrom" />
+ | age_myr = 570<ref name="Nordstrom" />
+ | component2 = β Aur B
+ | mass2 = {{nowrap|2.327 ± 0.013}}<ref name=aj142_1_6/>
+ | radius2 = 2.63<ref name="Nordstrom" />
+ | luminosity2 = 48<ref name="kaler"/>
+ | rotational_velocity2 = 34<ref name="Nordstrom" />
+ | temperature2 = 9,200<ref name="Nordstrom" />
+}}
+{{Starbox catalog
+ | names = Menkalinan, [[Flamsteed designation|34&nbsp;Aurigae]], ADS&nbsp;4556, [[Bonner Durchmusterung|BD]]+44&nbsp;1328, [[FK5]]&nbsp;227, [[Henry Draper catalogue|HD]]&nbsp;40183, [[Hipparcos catalogue|HIP]]&nbsp;28360, [[Harvard Revised catalogue|HR]]&nbsp;2088, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;40750.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Beta Aurigae''' (β Aur, β Aurigae) is the [[Bayer designation]] for a [[binary star]]<ref name=mnras389_2_869/> system in the northern [[constellation]] of [[Auriga (constellation)|Auriga]]. It has the traditional name '''Menkalinan''', which is shortened from the Arabic '''منكب ذي العنان''' ''mankib ðī-l-‘inān'' "shoulder of the rein-holder". It is known as 五車三 (the Third Star of the Five Chariots) in feudal [[Chinese astronomy]]. The combined [[apparent visual magnitude]] of the system is 1.9,<ref name=clpl4_99/> making it the second brightest member of the constellation after [[Capella (star)|Capella]]. Using the [[parallax]] measurements made during the [[Hipparcos]] mission, the distance to this star system can be estimated as {{Convert|81.1|ly|pc|abbr=off|lk=on}}, give or take a half light year [[margin of error]].<ref name=aaa474_2_653/>
+
+== Properties ==
+Beta Aurigae is a binary star system, although the light that the star system releases forges the appearance of a single star in the night sky. The two brightest components are [[Am star|metallic-lined]] [[subgiant star]]s belonging to the [[A-type star|A-type]] [[stellar classification]];<ref name=aaa467_3_1215/> they have roughly the same mass and radius. A-type entities are hot stars that release a blue-white hued light; these two stars burn brighter and with more heat than the [[Sun]], which is a G2-type [[main sequence]] star. The pair constitute an [[eclipsing binary|eclipsing]] [[spectroscopic binary]]; the combined [[apparent magnitude]] varies over a period of 3.96 [[day]]s between +1.89 and +1.94, as every 47.5 [[hour]]s one of the stars partially [[eclipse]]s the other from [[Earth]]'s perspective.<ref name=aaa446_2_785/>
+
+At an [[angular separation]] of {{nowrap|13.9 ± 0.3 [[arcsecond]]s}} along a position angle of 155° is a companion star that is 8.5 magnitudes fainter than the binary pair. This is a candidate member of Beta Aurigae, which would make it a triple (trinary) star system. It may be the source of the [[X-ray astronomy|X-ray emission]] from the vicinity.<ref name=mnras415_1_854/> The Beta Aurigae system is believed to be a stream member of the [[Ursa Major Moving Group]].<ref name=aaa77_1_214/>
+
+== See also ==
+
+* [[Algol]]
+* [[Stars and planetary systems in fiction#Beta Aurigae|Beta Aurigae in fiction]]
+* [[Capella (star)|Capella]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name="Nordstrom">{{citation | title=Radii and masses for beta Aurigae | journal=Astronomy and Astrophysics | volume=291 | issue=3 | pages=777–785 | year=1994 | last1=Nordstrom | first1=B. | last2=Johansen | first2=K. T. | bibcode=1994A&A...291..777N }}</ref>
+
+<ref name=aar18_1_2>{{citation | last1=Torres, G. | last1=Andersen | first1=J. | last2=Giménez | first2=A. | title=Accurate masses and radii of normal stars: modern results and applications | journal=The Astronomy and Astrophysics Review | volume=18 | issue=1-2 | pages=67&ndash;126 | month=February | year=2010 | doi=10.1007/s00159-009-0025-1 | bibcode=2010A&ARv..18...67T |arxiv = 0908.2624 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=aj142_1_6>{{citation | display-authors=1 | last1=Behr | first1=Bradford B. | last2=Cenko | first2=Andrew T. | last3=Hajian | first3=Arsen R. | last4=McMillan | first4=Robert S. | last5=Murison | first5=Marc | last6=Meade | first6=Jeff | last7=Hindsley | first7=Robert | title=Stellar Astrophysics with a Dispersed Fourier Transform Spectrograph. II. Orbits of Double-lined Spectroscopic Binaries | journal=The Astronomical Journal | volume=142 | issue=1 | page=6 | month=July | year=2011 | doi=10.1088/0004-6256/142/1/6 | bibcode=2011AJ....142....6B |arxiv = 1104.1447 }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E | postscript=. |arxiv = 0806.2878 }}</ref>
+
+<ref name="kaler">{{citation | title=MENKALINAN (Beta Aurigae) | work=Stars | publisher=University of Illinois | last1=Kaler | first1=James B. | url=http://stars.astro.illinois.edu/sow/menkalinan.html | accessdate=2010-01-23 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=NLTT 8982 -- High proper-motion Star | work=SIMBAD Astronomical Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=39+Arietis | accessdate=2012-07-18 | postscript=. }}</ref>
+
+<ref name=mnras415_1_854>{{citation | display-authors=1 | last1=De Rosa | first1=R. J. | last2=Bulger | first2=J. | last3=Patience | first3=J. | last4=Leland | first4=B. | last5=Macintosh | first5=B. | last6=Schneider | first6=A. | last7=Song | first7=I. | last8=Marois | first8=C. | last9=Graham | first9=J. R. | last10=Bessell | first10=M. | last11=Doyon | first11=R. | title=The Volume-limited A-Star (VAST) survey - I. Companions and the unexpected X-ray detection of B6-A7 stars | journal=Monthly Notices of the Royal Astronomical Society | volume=415 | issue=1 | pages=854-866 | month=July | year=2011	 | doi=10.1111/j.1365-2966.2011.18765.x | bibcode=2011MNRAS.415..854D | arxiv=1103.4363 }}</ref>
+
+<ref name=aaa467_3_1215>{{citation | last1=Southworth | first1=J. | last2=Bruntt | first2=H. | last3=Buzasi | first3=D. L. | title=Eclipsing binaries observed with the WIRE satellite. II. β Aurigae and non-linear limb darkening in light curves | journal=Astronomy and Astrophysics | volume=467 | issue=3 | month=June | year=2007 | pages=1215–1226 | doi=10.1051/0004-6361:20077184 | bibcode=2007A&A...467.1215S | arxiv=astro-ph/0703634 | postscript=. }}</ref>
+
+<ref name=aaa446_2_785>{{citation | display-authors=1 | last1=Malkov | first1=O. Yu. | last1=Oblak | first1=E. | last1=Snegireva | first1=E. A. | last1=Torra | first1=J. | title=A catalogue of eclipsing variables | journal=Astronomy and Astrophysics | volume=446 | issue=2 | month=February | year=2006 | pages=785–789 | doi=10.1051/0004-6361:20053137 | bibcode=2006A&A...446..785M | postscript=. }}</ref>
+
+<ref name=aaa77_1_214>{{citation | last1=Giannuzzi | first1=M. A. | title=On the eclipsing binaries of the Ursa Major stream | journal=Astronomy and Astrophysics | volume=77 | issue=1-2 | pages=214–222 | month=August | year=1979 | bibcode=1979A&A....77..214G | postscript=. }}</ref>
+
+}}
+
+== External links ==
+* [http://www.astro.uiuc.edu/~kaler/sow/menkalinan.html Menkalinan]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=05+59+31.7229%2B44+56+50.758&ident=V*+bet+Aur&submit=Aladin+previewer Image Beta Aurigae]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J05596%2b4457A CCDM J05596+4457] Catalog
+* [http://adsabs.harvard.edu/abs/1994A&A...291..777N Smithsonian/NASA Astrophysics Data System]
+
+{{Stars of Auriga}}
+
+[[Category:Algol variables]]
+[[Category:Auriga (constellation)]]
+[[Category:Bayer objects|Aurigae, Beta]]
+[[Category:Flamsteed objects|Aurigae, 34]]
+[[Category:Henry Draper Catalogue objects|040183]]
+[[Category:Hipparcos objects|028360]]
+[[Category:M-type main sequence stars]]
+[[Category:Spectroscopic binaries]]
+[[Category:A-type subgiants]]
+[[Category:Binary stars]]
+[[Category:Stars with proper names]]
+
+[[ca:Beta Aurigae]]
+[[cs:Menkalinan]]
+[[de:Menkalinan]]
+[[el:Μενκαλινάν]]
+[[es:Menkalinan]]
+[[fa:منکب ذی‌العنان]]
+[[fr:Beta Aurigae]]
+[[ko:멘칼리난]]
+[[id:Beta Aurigae]]
+[[it:Menkalinan]]
+[[he:מנקלינן]]
+[[lb:Menkalinan (Stär)]]
+[[nl:Menkalinan]]
+[[ja:メンカリナン]]
+[[pl:Menkalinan]]
+[[pt:Beta Aurigae]]
+[[ru:Бета Возничего]]
+[[sk:Menkalinan]]
+[[fi:Menkalinan]]
+[[uk:HD40183]]
+[[zh:五车三]]

@@ -1,0 +1,124 @@
+{{Starbox begin
+| name=Beta Ophiuchi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ophiuchus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ophiuchus constellation and its surroundings]]
+     <div style="position: absolute; left: 39.5%; top: 24.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Ophiuchi (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| ra       = {{RA|17|43|28.35265}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+04|34|02.2955}}<ref name=aaa474_2_653/>
+| appmag_v = 2.749<ref name=aaass65_2_405/> (2.75 to 2.77)
+| constell = [[Ophiuchus]]
+}}
+{{Starbox character
+| class    = K2&nbsp;III<ref name=aaa480_1_91/>
+| b-v      = +1.170<ref name=aaass65_2_405/>
+| u-b      = +1.253<ref name=aaass65_2_405/>
+| variable = K-type giant<ref name=apjl464_L157/><sup>,</sup><ref name=apj468_391/>
+}}
+{{Starbox astrometry
+| radial_v = –12.53<ref name=aaa430_165/>
+| prop_mo_ra  = 41.45<ref name=aaa474_2_653/>
+| prop_mo_dec = +159.34<ref name=aaa474_2_653/>
+| parallax = 39.85
+| p_error  = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/> 
+| absmag_v = {{nowrap|+0.77 ± 0.04}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail 
+| mass     = 1.13<ref name=aaa352_555/>
+| radius   = {{nowrap|12.42 ± 0.13}}<ref name=aaa535_A59/>
+| luminosity  = {{nowrap|63.4 ± 3.2}}<ref name=aaa535_A59/>
+| temperature = 4,467<ref name=aaa352_555/>
+| gravity  = 2.22<ref name=aaa480_1_91/>
+| metal_fe = 0.04<ref name=aaa480_1_91/>
+| rotational_velocity = 5.4<ref name=aj135_1_209/>
+| age_gyr  = {{nowrap|3.82 ± 1.86}}<ref name=aaa480_1_91/>
+}} 
+{{Starbox catalog
+| names = Cebalrai, Celbalrai, Cheleb,<ref name=allen1899/> Kelb Alrai, Bet&nbsp;Oph, β&nbsp;Oph, β&nbsp;Ophiuchi, 60&nbsp;Oph, 60&nbsp;Ophiuchi, [[Bonner Durchmusterung|BD]]&nbsp;+04°3489, [[FK5]]&nbsp;665, [[Henry Draper catalogue|HD]]&nbsp;161096, [[Hipparcos catalogue|HIP]]&nbsp;86742, [[Harvard Revised catalogue|HR]]&nbsp;6603, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;122671.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Beta Ophiuchi''' (β Oph, β Ophiuchi) is a [[star]] in the [[Celestial equator|equatorial]] [[constellation]] of [[Ophiuchus]]. It has the traditional names '''Celbalrai''',<ref name=allen1899/> which comes from the [[Arabic language|Arabic]] كلب الراعي ''kalb al-rā‘ī'' meaning "shepherd dog".{{Citation needed|date=January 2012}} It is also called '''Cheleb''',<ref name=allen1899/> '''Kelb Alrai''', or sometimes just '''Alrai'''. the [[apparent visual magnitude]] of this star is 2.7,<ref name=aaass65_2_405/> which is [[Bortle Dark-Sky Scale|readily visible]] to the naked eye even from urban skies. The distance to this star can be estimated using [[parallax]] measurements, yielding a value of {{Convert|81.8|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> 
+
+This is a [[giant star]] with a [[stellar classification]] of K2&nbsp;III.<ref name=aaa480_1_91/> Although it is only 13% greater in mass than the Sun,<ref name=aaa352_555/> it has reached a stage in its [[stellar evolution|evolution]] where the atmosphere has expanded to about 12 times the Sun's radius and is radiating 63 times the luminosity of the Sun.<ref name=aaa535_A59/> Its outer envelope is relatively cool with an [[effective temperature]] of 4,467&nbsp;K,<ref name=aaa352_555/> giving it the orange hue typical of K-type stars.<ref name=csiro/> Like some other K-type giants, β Ophiuchi has been found to vary very slightly (0.02 magnitudes) in brightness.<ref name=apjl464_L157/><sup>,</sup><ref name=apj468_391/>
+
+Cebalrai is a member of the [[thin disk population]]. It is following a low [[orbital eccentricity|eccentricity]] orbit through the [[Milky Way]] galaxy that carries it between a distance of {{Convert|27.3|–|30.9|kly|kpc|abbr=on|lk=on}} from the [[Galactic Center]] and up to {{Convert|0.62|kly|kpc|abbr=on}} above or below the [[galactic plane]].<ref name=aaa480_1_91/>
+
+== Planetary system?==
+
+[[Radial velocity]] variations with a period of 142 days hint about the possible presence of a planetary companion orbiting Beta Ophiuchi. Thus far, no planetary object has been confirmed; while periodic radial pulsations caused by intrinsic stellar variability could explain the  observed variations.<ref name=apj468_391/>
+
+{{OrbitboxPlanet begin
+| name = proposed Beta Ophiuchi
+| table_ref = {{Citation needed|date=January 2012}}
+}}
+{{OrbitboxPlanet hypothetical
+| exoplanet = [[Beta Ophiuchi b|b]]
+| mass = ≥ 1
+| period = 142.3
+| semimajor = ≥ 0.6
+| eccentricity = —
+}}
+{{Orbitbox end}}
+
+==Namesakes==
+[[USS Cheleb (AK-138)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa352_555>{{citation | last1=Allende Prieto | first1=C. | last2=Lambert | first2=D. L. | title=Fundamental parameters of nearby stars from the comparison with evolutionary calculations: masses, radii and effective temperatures | journal=[[Astronomy and Astrophysics]] | volume=352| pages=555–562 | year=1999 | bibcode=1999A&A...352..555A | arxiv=0809.0359 }}</ref>
+
+<ref name=apjl464_L157>{{citation | first1=Peter D. | last1=Edmonds | first2=Roland L. | last2=Gilliland | title=K Giants in 47 Tucanae: Detection of a New Class of Variable Stars | journal=Astrophysical Journal Letters | volume=464 | month=June | year=1996 | pages=L157–L160 | bibcode=1996ApJ...464L.157E |doi = 10.1086/310108 }}</ref>
+
+<ref name=aaa480_1_91>{{citation | display-authors=1 | last1=Soubiran | first1=C. | last2=Bienaymé | first2=O. | last3=Mishenina | first3=T. V. | last4=Kovtyukh | first4=V. V. | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants | journal=Astronomy and Astrophysics | year=2008 | volume=480 | issue=1 | pages=91–101 | bibcode=2008A&A...480...91S | doi=10.1051/0004-6361:20078788 |arxiv = 0712.1370 }}</ref>
+
+<ref name=apj468_391>{{citation | first1=Artie P. | last1=Hatzes | first2=William D. | last2=Cochran | title=The Radial Velocity Variability of the K Giant beta Ophiuchi. II. Long-Period Variations | journal=Astrophysical Journal | volume=468 | month=September | year=1996 | pages=391–397 | bibcode=1996ApJ...468..391H |doi = 10.1086/177699 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaa535_A59>{{citation | display-authors=1 | last1=Berio | first1=P. | last2=Merle | first2=T. | last3=Thévenin | first3=F. | last4=Bonneau | first4=D. | last5=Mourard | first5=D. | last6=Chesneau | first6=O. | last7=Delaa | first7=O. | last8=Ligi | first8=R. | last9=Nardetto | first9=N. | title=Chromosphere of K giant stars. Geometrical extent and spatial structure detection | journal=Astronomy & Astrophysics | volume=535 | page=A59 | month=November | year=2011 | doi=10.1051/0004-6361/201117479 | bibcode=2011A&A...535A..59B |arxiv = 1109.5476 }}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–4 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=rho Per -- Semi-regular pulsating Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Ophiuchi | accessdate=2012-01-29 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=301 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA301 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+{{Stars of Ophiuchus}}
+
+[[Category:Ophiuchus (constellation)]]
+[[Category:Bayer objects|Ophiuchi, Beta]]
+[[Category:Flamsteed objects|Ophiuchi, 60]]
+[[Category:K-type giants]]
+[[Category:Hypothetical planetary systems]]
+[[Category:Stars with proper names]]
+
+[[ar:كلب الراعي (نجم)]]
+[[de:Cebalrai]]
+[[es:Cebalrai]]
+[[fa:سگ چوپان]]
+[[fr:Beta Ophiuchi]]
+[[id:Beta Ophiuchi]]
+[[it:Beta Ophiuchi]]
+[[lb:Cebalrai]]
+[[nl:Cebalrai]]
+[[pt:Beta Ophiuchi]]
+[[ru:Бета Змееносца]]
+[[zh:宗正一]]

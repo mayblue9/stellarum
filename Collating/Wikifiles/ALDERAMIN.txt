@@ -1,0 +1,148 @@
+{{Starbox begin
+ | name=Alpha Cephei
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cepheus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cepheus constellation and its surroundings]]
+     <div style="position: absolute; left: 63.0%; top: 60.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Cephei (circled)
+}}
+{{Starbox observe
+ |epoch=J2000
+ | ra={{RA|21|18|34.7715}}<ref name="SIMBAD"/>
+ | dec={{DEC|62|35|08.061}}<ref name="SIMBAD"/>
+ | appmag_v=2.5141<ref name="LEEUWEN"/>
+ | constell=[[Cepheus (constellation)|Cepheus]]
+}}
+{{Starbox character
+ | class=A7IV-V<ref name="LEEUWEN"/>
+ | b-v=+0.21<ref name="MERMILLIOD"/>
+ | u-b=+0.12<ref name="MERMILLIOD"/>
+ | variable=Delta Scuti
+}}
+{{Starbox astrometry 
+ | radial_v=-10<ref name="SIMBAD" />  
+ | prop_mo_ra=+150.55<ref name="LEEUWEN"/>  
+ | prop_mo_dec=49.09<ref name="LEEUWEN"/> 
+ | parallax=66.50
+ | p_error=0.11
+ | parallax_footnote=<ref name="LEEUWEN"/>
+ | absmag_v=1.57<ref name=aaa361_614/>
+}}
+{{Starbox detail
+ | mass=1.74<ref name=aaa361_614/>
+ | radius=2.3<ref name=aass85_3_1015/>
+ | luminosity=17<ref name=aass85_3_1015/>
+ | gravity=3.99<ref name=aass85_3_1015/>
+ | temperature=7,740 ± 170<ref name=aass85_3_1015/>
+ | metal_fe=
+ | rotational_velocity=246<ref name="HR1"/>
+ | age=
+}}
+{{Starbox catalog
+ | names=Alderamin, [[Flamsteed designation|5&nbsp;Cep]], [[2MASS]]&nbsp;J21183475+6235081, [[Astronomische Gesellschaft Katalog|AG]]+62°&nbsp;1226, [[Bonner Durchmusterung|BD]] +61°2111, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J21186+6236A, [[Catalogues of Fundamental Stars|FK5]]&nbsp;803, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 5139.00, [[Henry L. Giclas catalogue|Gl]]&nbsp;826, [[Henry Draper catalogue|HD]] 203280, [[Hipparcos catalogue|HIP]]&nbsp;105199, [[Harvard Revised catalogue|HR]] 8162, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 19302.
+}}
+{{Starbox reference
+ | Simbad=HD+203280
+}}
+{{Starbox end}}
+
+'''Alpha Cephei''' (α Cep, α Cephei) is a second magnitude [[star]] in the [[constellation]] of [[Cepheus (constellation)|Cepheus]] that is relatively close to [[Earth]] at only 49 [[light year]]s.  It has the traditional name '''Alderamin''', an Arabic name meaning ''"the right arm"''.
+
+== Visibility ==
+With a declination in excess of 62 degrees north, Alderamin is mostly visible to observers in the northern hemisphere, though the star is still visible to latitudes as far south as -27°, albeit just above the horizon.  The star is [[Circumpolar star|circumpolar]] throughout all of [[Europe]], northern Asia, Canada and American cities as far south as [[San Diego]]. Since Alderamin has an apparent magnitude of about 2.5, the star is easily observable to the naked eye, even in [[light pollution|light polluted]] cities.
+
+== Properties ==
+Alderamin is a white [[Spectral classification#Class A|Class A]] star, evolving off of the [[main sequence]] into a [[subgiant]], probably on its way to becoming a [[red giant]] as its hydrogen supply runs low. In 2007, the star's apparent magnitude was recalibrated at 2.5141 along with an updated parallax of 66.50 ± 0.11 mas yielding a distance of 15 parsecs or approximately 49 light years from Earth.<ref name="LEEUWEN"/>
+
+Given a surface temperature of 7,740 Kelvin, stellar models yield a total luminosity for the star of about 17 times the [[Solar luminosity|luminosity of the Sun]]. Alderamin has a radius of 2.3 times the [[Solar radius|Sun's radius]] and boasting a mass that is 1.74 that of the [[Sun]].<ref name=aass85_3_1015/> Like other stars in its class, it is slightly variable with a range in brightness of 0.06 magnitude, and is listed as a [[Delta Scuti variable]]. 
+
+Alderamin has a very high rotation speed of at least 246&nbsp;km/s, completing one complete revolution in less than 12 hours, with such a rapid turnover appearing to inhibit the differentiation of chemical elements usually seen in such stars.<ref name="HR1"/> By comparison, the Sun takes almost a month to turn on its axis.  α Cep is also known to emit an amount of X radiation similar to the Sun, which along with other indicators suggests the existence of considerable magnetic activity&mdash;something unexpected (though not at all unusual) for a fast rotator.
+
+=== Pole star ===
+Alderamin is located near the precessional path traced across the celestial sphere by the Earth's north pole. That means that it periodically comes within 3° of being a pole star, much as [[Polaris]] is at present. This will next occur about the year 7500 AD.  It is currently the closest pole star on Mars.
+
+{| class="wikitable" cellpadding="2" style="margin: 1em auto 1em auto;"
+! width="120" align="center"|Preceded by
+! width="160" align="center"|[[Pole Star]]
+! width="120" align="center"|Succeeded by
+|-
+|align="center"|'''[[Iota Cephei]]'''
+|align="center"|circa 6,800 BC
+|align="center"|'''[[Deneb]]'''
+|}
+
+== Ethnological influences ==
+=== Etymology ===
+The name Alderamin is a contraction of the Arabic phrase '''الذراع اليمين''' ''að-ðirā‘ al-yamīn'' "the right arm," with the first definite article transliterated literally as ''al'', as is often the case with Arabic star names. 
+
+This star, along with [[Beta Cephei|β Cep]] (Alfirk) and [[Eta Cephei|η Cep]] (Alkidr) were '''Al Kawākib al Firḳ''' ('''الكوكب الفرق'''), meaning "the Stars of The Flock" by [[Ulug Beg]].<ref name=allen1963/><ref>Davis Jr., G. A., [http://adsabs.harvard.edu/abs/1944PA.....52....8D "The Pronunciations, Derivations, and Meanings of a Selected List of Star Names,"]''Popular Astronomy'', Vol. LII, No. 3, Oct. 1944, p. 16.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天鈎}} ({{lang|zh-Latn|Tiān Gōu}}), meaning ''[[Rooftop (Chinese constellation)|Celestial Hook]]'', refers to an asterism consisting of α Cephei, [[4 Cephei]], [[HD 194298]], [[Eta Cephei|η Cephei]], [[Theta Cephei|θ Cephei]], [[Xi Cephei|ξ Cephei]], [[26 Cephei]], [[Iota Cephei|ι Cephei]] and [[Omicron Cephei|ο Cephei]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Cephei itself is known as {{lang|zh|天鈎五}} ({{lang|zh-Latn|Tiān Gōu wu}}, {{lang-en|the Fifth Star of the Celestial Hook}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Namesakes==
+[[USS Alderamin (AK-116)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==See also==
+*[[List of nearest bright stars]]
+* [[Lists of stars]] in the constellation [[List of stars in Draco|Draco]]
+* [[Stellar classification#Class A|Class A Stars]]
+* [[Dwarf star]]
+
+==References==
+{{Reflist|colwidth=25em|refs=
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P }}</ref>
+
+<ref name="HR1">{{cite web  | title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991) | work=[[VizieR]] | publisher=[[Centre de Données astronomiques de Strasbourg]] | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%208162 | accessdate=2010-12-20 }}</ref>
+
+<ref name="LEEUWEN">{{cite journal | title=Hipparcos, the New Reduction | author=van Leeuwen, F | year=2007 | month=November | work=[[VizieR]]  | publisher=[[Centre de Données astronomiques de Strasbourg]] | pages=653–664 | issue=2 | volume=474  | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%20105199 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics | bibcode=2007A&A...474..653V | accessdate=2010-12-19 |arxiv = 0708.1752 }}</ref>
+
+<ref name="MERMILLIOD">{{cite journal | author=Mermilliod, J.-C. | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished) | journal=Catalogue of Eggen's UBV data. | year=1986 | origin=SIMBAD  | bibcode=1986EgUBV........0M }}</ref>
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Alderamin&submit=SIMBAD+search | title=SIMBAD query result: NAME ALDERAMIN -- Variable Star | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-12-20 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=allen1963>{{cite book | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cepheus*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=157 }}</ref>
+
+}}
+
+== External links ==
+* {{cite web | title=ALDERAMIN (Alpha Cephei) | work=Stars | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/alderamin.html | accessdate=2010-12-20}}
+*NASA's: [http://www-istp.gsfc.nasa.gov/stargaze/Sprecess.htm History of Precession]
+*Crystalinks:[http://www.crystalinks.com/precession.html Precession of the Equinoxes]
+
+{{Sky|21|18|34.8|+|62|35|08|48.8}}
+{{Nearest bright star systems|5.}}
+{{Stars of Cepheus}}
+
+[[Category:Bayer objects|Cephei, Alpha]]
+[[Category:Cepheus (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:Northern pole stars]]
+[[Category:Stars with proper names]]
+[[Category:Castor Moving Group]]
+
+[[ar:الذراع الأيمن (نجم)]]
+[[ca:Alderamin]]
+[[de:Alderamin]]
+[[es:Alderamin]]
+[[fa:بازوی راست]]
+[[fr:Alpha Cephei]]
+[[hi:अल्फ़ा सॅफ़ॅई तारा]]
+[[ko:알데라민]]
+[[id:Alpha Cephei]]
+[[it:Alderamin]]
+[[lb:Alderamin (Stär)]]
+[[lt:Alderaminas]]
+[[nl:Adleramin]]
+[[ja:アルデラミン]]
+[[pl:Alderamin]]
+[[pt:Alpha Cephei]]
+[[ru:Альдерамин]]
+[[sk:Alderamin]]
+[[fi:Alfa Cephei]]
+[[tt:Әлзирамин]]
+[[zh:天鉤五]]

@@ -1,0 +1,42 @@
+{{starbox short |
+ name=Theta Columbae |
+ epoch=[[J2000.0]] |
+ constell=[[Columba (constellation)|Columba]] |
+ ra=06<sup>h</sup> 07<sup>m</sup> 31.6328<sup>s</sup> |
+ dec=&minus;37° 15' 10.513" |
+ appmag_v=4.993 |
+ absmag_v=-1.850 |
+ dist_ly=762 |
+ dist_pc=233.63 |
+ spectral=B9 IV |
+ names=[[Henry Draper Catalogue|HD]] 42167, [[Hipparcos Catalogue|HIP]] 29034, [[Bright Star Catalogue|HR]] 2177, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 196514}}
+
+'''Theta Columbae''' is a blue [[subgiant star]] in the [[constellation]] [[Columba (constellation)|Columba]].
+
+This star, along with [[Zeta Canis Majoris|ζ CMa]], [[Lambda Canis Majoris|λ CMa]], [[Gamma Columbae|γ Col]], [[Delta Columbae|δ Col]], [[Kappa Columbae|κ Col]], [[Lambda Columbae|λ Col]], [[Mu Columbae|μ Col]] and [[Xi Columbae|ξ Col]], were '''Al Ḳurūd''' ('''ألقرد''' - ''al-qird''), the Apes.<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Columba_Noae*.html ''Star Names: their Lore and Meaning:'' Columba Noae, Noah's Dove]</ref><ref>{{cite journal
+ | last=Davis Jr. | first=G. A.
+ | title=The Pronunciations, Derivations, and Meanings of a Selected List of Star Names
+ | journal=Popular Astronomy
+ | volume=18 | page=14 | month=October | year=1944
+ | bibcode=1944PA.....52....8D }}</ref> 
+ 
+4.8 million years ago, Theta Columbae was only 7 light years away from the Solar System, and was brighter than Venus.<ref>http://www.centauri-dreams.org/?p=25719</ref>
+ 
+In [[Chinese language|Chinese]], {{lang|zh|孫}} ({{lang|zh-Latn|Sūn}}), meaning ''[[Well (Chinese constellation)|Grandson]]'', refers to an asterism consisting of θ Columbae and [[Kappa Columbae|κ Columbae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Columbae itself is known as {{lang|zh|孫二}} ({{lang|zh-Latn|Sūn èr}}, {{lang-en|the Second Star of Grandson}}.).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060716.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 16 日]</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+# [http://simbad.harvard.edu/sim-id.pl?protocol=html&Ident=Theta+Columbae&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2007&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0 Simbad at Harvard Query Results]
+{{Stars of Columba}}
+
+[[Category:Bayer objects|Columbae, Theta]]
+[[Category:Columba (constellation)]]
+
+[[de:Al Kurud]]
+[[fa:تتا کبوتر]]
+[[id:Theta Columbae]]
+[[pt:Theta Columbae]]
+[[ro:Theta Columbae]]
+[[zh:孫二]]

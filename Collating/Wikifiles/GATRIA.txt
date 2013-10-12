@@ -1,0 +1,98 @@
+{{Starbox begin
+ | name=Epsilon Pegasi
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Triangulum Australe IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Triangulum Australe constellation and its surroundings]]
+     <div style="position: absolute; left: 56.4%; top: 52.1%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of γ Trianguli Australis (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|15|18|54.58198}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–68|40|46.3654}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.87<ref name=scfs/>
+ | constell = [[Triangulum Australe]]
+}}
+{{Starbox character
+ | class    = A1&nbsp;V<ref name=pasp84_500_584/><ref name=aaa463_2_671/>
+ | b-v      = +0.00<ref name=clpl4/>
+ | u-b      = –0.02<ref name=clpl4/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –3.0<ref name=scfs/>
+ | prop_mo_ra  = –66.58<ref name=aaa474_2_653/>
+ | prop_mo_dec = –32.31<ref name=aaa474_2_653/>
+ | parallax = 17.74
+ | p_error  = 0.12
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 
+ | radius   = 5.86<ref name=apj660_2_1556/>
+ | metal_fe = 
+ | gravity  = 
+ | age_myr  = 260<ref name=apj620_2_1010/>
+ | luminosity  = 
+ | temperature = 9,400<ref name=apj660_2_1556/>
+ | rotational_velocity = 199<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+ | names = [[Star catalogue#BD/CD/CPD|CD]]–68&nbsp;1503, [[Catalogues of Fundamental Stars|FK]]&nbsp;560, [[Henry Draper Catalogue|HD]]&nbsp;135382, [[Hipparcos catalogue|HIP]]&nbsp;74946, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5671, [[Star catalogue#SAO|SAO]]&nbsp;253097.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Gamma Trianguli Australis''' (γ TrA, γ Trianguli Australis) is a [[star]] in the [[constellation]] [[Triangulum Australe]]. Along with [[Alpha Trianguli Australis|Alpha]] and [[Beta Trianguli Australis]] it forms a prominent triangular [[Asterism (astronomy)|asterism]] that gives the constellation its name ([[Latin]] for southern triangle). It is the [[List of stars in Triangulum Australe|third brightest]] member of this constellation with an [[apparent visual magnitude]] of +2.87.<ref name=scfs/> based upon [[parallax]] measurements, Gamma Trianguli Australis is located at a distance of about {{Convert|184|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+The [[spectrum]] of this star matches a [[stellar classification]] of A1&nbsp;V,<ref name=pasp84_500_584/><ref name=aaa463_2_671/> which identifies it as an [[A-type main sequence star]] that is generating energy through the [[nuclear fusion]] of hydrogen at its core. An unusual abundance of the element [[europium]] demonstrates it to be a peculiar, or [[Ap star]].<ref name=aas130_215/> Most stars of this type are slow rotators,<ref name=apjs99_135/> but Gamma Trianguli Australis displays a very high rate of rotation with a [[projected rotational velocity]] of 199 km s<sup>–1</sup>.<ref name=aaa463_2_671/> It has an estimated age of 260&nbsp;million years.<ref name=apj620_2_1010/>
+
+This system shows an [[infrared excess|excess emission of infrared radiation]], suggesting that there is a circumstellar disk of dust orbiting this star. The mean temperature of the emission is 50&nbsp;K, corresponding to a separation from the star of 481&nbsp;[[Astronomical Unit|AU]].<ref name=apj660_2_1556/>
+
+==Modern legacy==
+γ TrA appears on the  [[flag of Brazil]], symbolising the state of [[Paraná (state)|Paraná]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=pasp84_500_584>{{citation | last1=Levato | first1=O. H. | title=Rotational Velocities and Spectral Types of Some A-Type Stars | journal=Publications of the Astronomical Society of the Pacific | volume=84 | issue=500 | page=584 | month=August | year=1972 | doi=10.1086/129336 | bibcode=1972PASP...84..584L }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=apj660_2_1556>{{citation | display-authors=1 | last1=Rhee | first1=Joseph H. | last2=Song | first2=Inseok | last3=Zuckerman | first3=B. | last4=McElwain | first4=Michael | title=Characterization of Dusty Debris Disks: The IRAS and Hipparcos Catalogs | journal=The Astrophysical Journal | volume=660 | issue=2 | pages=1556–1571 | month=May | year=2007 | doi=10.1086/509912 | bibcode=2007ApJ...660.1556R |arxiv = astro-ph/0609555 }}</ref>
+
+<ref name=aas130_215>{{citation | last1=Sokolov | first1=N. A. | title=Effective temperatures of AP stars | journal=Astronomy and Astrophysics Supplement | volume=130 | pages=215–222 | month=June | year=1998 | doi=10.1051/aas:1998226 | bibcode=1998A&AS..130..215S }}</ref>
+
+<ref name=apjs99_135>{{citation | last1=Abt | first1=Helmut A. | last2=Morrell | first2=Nidia I. | title=The Relation between Rotational Velocities and Spectral Peculiarities among A-Type Stars | journal=Astrophysical Journal Supplement | volume=99 | page=135 | month=July | year=1995 | doi=10.1086/192182 | bibcode=1995ApJS...99..135A }}</ref>
+
+<ref name=apj620_2_1010>{{citation | display-authors=1 | last1=Rieke | first1=G. H. | last2=Su | first2=K. Y. L. | last3=Stansberry | first3=J. A. | last4=Trilling | first4=D. | last5=Bryden | first5=G. | last6=Muzerolle | first6=J. | last7=White | first7=B. | last8=Gorlova | first8=N. | last9=Young | first9=E. T. | last10=Beichman | first10=C. A. | last11=Stapelfeldt | first11=K. R. | last12=Hines | first12=D. C. | title=Decay of Planetary Debris Disks | journal=The Astrophysical Journal | volume=620 | issue=2 | pages=1010–1026 | month=February | year=2005 | doi=10.1086/426937 | bibcode=2005ApJ...620.1010R }}</ref>
+
+<ref name=SIMBAD>{{citation | title=gam TrA -- Variable Star  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Trianguli+Australis | accessdate=2012-02-04 }}</ref>
+
+}}
+
+{{Stars of Triangulum Australe}}
+
+[[Category:Bayer objects|Trianguli Australis, Gamma]]
+[[Category:Triangulum Australe]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Gatria]]
+[[es:Gamma Trianguli Australis]]
+[[fa:گاما مثلث جنوبی]]
+[[fr:Gamma Trianguli Australis]]
+[[ja:みなみのさんかく座ガンマ星]]
+[[pt:Gamma Trianguli Australis]]
+[[sk:Gatria]]

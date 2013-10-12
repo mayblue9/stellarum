@@ -1,0 +1,74 @@
+'''Alpha Delphini''' (α Del, α Delphini) is a [[multiple star]] in the [[constellation]] [[Delphinus]]. It also has the name '''[[Sualocin and Rotanev|Sualocin]]''', which was given to it as a practical joke by the [[astronomer]] [[Niccolò Cacciatore]]; the name is the Latinized version (''Nicolaus'') of his given name, spelled backwards.
+
+In [[Chinese language|Chinese]], {{lang|zh|瓠瓜}} ({{lang|zh-Latn|Hù Guā}}), meaning ''[[Girl (Chinese constellation)|Good Gourd]]'', refers to an asterism consisting of α Delphini, [[Gamma2 Delphini|γ<sup>2</sup> Delphini]], [[Delta Delphini|δ Delphini]], [[Beta Delphini|β Delphini]] and [[Zeta Delphini|ζ Delphini]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Delphini itself is known as {{lang|zh|瓠瓜一}} ({{lang|zh-Latn|Hù Guā yī}}, {{lang-en|the First Star of 	Good Gourd}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_s.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Alpha Delphini has seven components: A and G, a [[binary star|physical binary]], and B, C, D, E, and F, which are [[Optical binary#Distinction between binary stars and other double stars|optical binaries]] and have no physical association with A and G.
+
+<table width="100%">
+<tr>
+<td width="40%">
+{{starbox short sources |
+ name=Alpha Delphini A/G |
+ epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]]) |
+ constell=[[Delphinus]] |
+ ra=20<sup>h</sup> 39<sup>m</sup> 38.287<sup>s</sup>/38.287<sup>s</sup> |
+ dec=+15° 54′ 43.49″/43.15″ |
+ appmag_v=3.9/6.4; combined, 3.77 |
+ dist_ly=241 ± 13 |
+ dist_pc=73.8 ± 3.7 |
+ spectral=A: B9V  |
+ names=α&nbsp;Del, 9&nbsp;Del, [[Bonner Durchmusterung|BD]]&nbsp;+15&nbsp;4222, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J20396+1555A/G, [[Henry Draper Catalogue|HD]]&nbsp;196867, [[Hipparcos Catalogue|HIP]]&nbsp;101958, [[Bright Star Catalogue|HR]]&nbsp;7906, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;106357|HIP|CCDM}}
+</td>
+<td width="50%">
+{{starbox short sources |
+ name=Alpha Delphini B/C/D/E/F |
+ epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]]) |
+ constell=[[Delphinus]] |
+ ra=20<sup>h</sup> 39<sup>m</sup> 36.5<sup>s</sup>/34.9<sup>s</sup>/39.5<sup>s</sup>/35.1<sup>s</sup>/42.9<sup>s</sup> |
+ dec=+15° 54′ 21″/<br />+15° 54′ 49″/<br />+15° 54′ 01″/<br />+15° 55′ 15″/<br />+15° 54′ 09″ |
+ appmag_v=13.4/11.9/12.9/12.6/10.7|
+ names=[[Catalog of Components of Double and Multiple Stars|CCDM]] J20396+1555B/C/D/E/F; also, see designations for Alpha Delphini A/G|CCDM}}
+</td>
+<td width="10%">&nbsp;</td>
+</tr>
+</table>
+
+==See also==
+* [[Sualocin and Rotanev]]
+
+==References==
+{{reflist}}
+
+==References==
+# [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=*+alf+Del&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2006&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0 SIMBAD Query Result]
+# [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J20396%2B1555B CCDM catalogue entry at VizieR]
+
+{{Stars of Delphinus}}
+
+[[Category:Bayer objects|Delphini, Alpha]]
+[[Category:Flamsteed objects|Delphini, 9]]
+[[Category:Delphinus (constellation)]]
+[[Category:Binary stars]]
+[[Category:Multiple stars|7]]
+[[Category:B-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{star-system-stub}}
+
+[[roa-rup:Sualocin]]
+[[cs:Sualocin]]
+[[de:Sualocin]]
+[[es:Sualocin]]
+[[fa:آلفا دلفین]]
+[[fr:Alpha Delphini]]
+[[id:Alpha Delphini]]
+[[it:Sualocin]]
+[[lb:Sualocin (Stär)]]
+[[nl:Sualocin]]
+[[pt:Alpha Delphini]]
+[[ru:Альфа Дельфина]]
+[[sk:Sualocin]]
+[[fi:Sualocin]]
+[[zh:海豚座α]]

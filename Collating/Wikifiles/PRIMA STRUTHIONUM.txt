@@ -1,0 +1,103 @@
+{{Starbox begin
+ | name=Eta Ceti
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Cetus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cetus constellation and its surroundings]]
+     <div style="position: absolute; left: 31.4%; top: 41.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of η Ceti (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|01|08|35.39148}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–10|10|56.1570}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.446<ref name=mnras172_667/>
+ | constell = [[Cetus (constellation)|Cetus]]
+}}
+{{Starbox character
+ | class    = K1&nbsp;III<ref name=aj132_1_161/>
+ | b-v      = +1.161<ref name=mnras172_667/>
+ | u-b      = +1.194<ref name=mnras172_667/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +11.74 ± 0.30<ref name=aj135_1_209/>
+ | prop_mo_ra  = +215.61<ref name=aaa474_2_653/>
+ | prop_mo_dec = –139.02<ref name=aaa474_2_653/>
+ | parallax = 26.32
+ | p_error  = 0.14
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 1.0–1.4<ref name=aaa535_A59/>
+ | radius   = {{nowrap|15.10 ± 0.10}}<ref name=aaa535_A59/>
+ | metal_fe = –0.03<ref name=aj135_1_209/>
+ | gravity  = 2.5<ref name=aj135_1_209/>
+ | age_myr  = 
+ | luminosity  = {{nowrap|74.0 ± 3.7}}<ref name=aaa535_A59/>
+ | temperature = {{nowrap|4,356 ± 55}}<ref name=aaa535_A59/>
+ | rotational_velocity = 4.8<ref name=aj135_1_209/>
+}}
+{{Starbox catalog
+ | names = Deneb Algenubi, Algenudi, [[Bonner Durchmusterung|BD]]–10&nbsp;240, [[Henry Draper catalogue|HD]]&nbsp;6805, [[Hipparcos catalogue|HIP]]&nbsp;5364, [[Harvard Revised catalogue|HR]]&nbsp;334, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;147632.
+}}
+{{Starbox end}}
+'''Eta Ceti''' (η Cet, η Ceti) is a [[star]] in the [[Celestial equator|equatorial]] [[constellation]] of [[Cetus (constellation)|Cetus]], the whale. It has the traditional name '''Deneb Algenubi''' or Algenudi. The [[apparent visual magnitude]] of this star is +3.4,<ref name=mnras172_667/> making it the [[List of stars in Cetus|fourth brightest star]] in this otherwise relatively faint constellation. The distance to this star can be measured directly using the [[parallax]] technique, yielding a value of {{Convert|123.9|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+This is a [[giant star]] with a [[stellar classification]] of K1&nbsp;III,<ref name=aj132_1_161/> having exhausted the hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]] of stars like the Sun. (The classification is sometimes listed as K1.5&nbsp;IIICN1Fe0.5, indicating a higher than normal abundance of [[cyanogen]] and iron relative to other stars of its class.)<ref name=mnras389_2_869/> It is a [[red clump]] star that is generating energy through the [[nuclear fusion]] of helium at its core.<ref name=mnras408_2_1225/>
+
+Eta Ceti may have slightly more mass than the Sun and its outer envelope has expanded to 15 times the Sun's radius.<ref name=aaa535_A59/> It is radiating 74<ref name=aaa535_A59/> times as much luminosity as the Sun from its outer atmosphere at an [[effective temperature]] of 4,356&nbsp;K.<ref name=aaa535_A59/> This heat gives the star the orange-hued glow of a [[K-type star]].<ref name=csiro/>
+
+==In culture==
+The name ''Deneb Algenubi'' was from Arabic '''ذنب ألجنبي''' - ''ðánab al-janūbii'', meaning ''the southern tail of the sea monster''. In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Aoul al Naamat''' ('''أول ألنعمة''' - ''awwil al naʽāmāt''), which was translated into [[Latin]] as '''Prima  Struthionum''', meaning ''the first ostrich''.<ref name=mnras55_429/> This star, along with [[Theta Ceti|θ Cet]] (Thanih al Naamat), [[Tau Ceti|τ Cet]] (Thalath Al Naamat), [[Zeta Ceti|ζ Cet]] (Baten Kaitos) and [[Upsilon Ceti|υ Cet]], were '''Al Naʽāmāt''' ('''ألنعمة'''), the Hen Ostriches.<ref name=allen1963/><ref name=ostrich/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天倉}} ({{lang|zh-Latn|Tiān Cāng}}), meaning ''[[Bond (Chinese constellation)|Square Celestial Granary]]'', refers to an asterism consisting of η Ceti, [[Iota Ceti|ι Ceti]], [[Theta Ceti|θ Ceti]], [[Zeta Ceti|ζ Ceti]], [[Tau Ceti|τ Ceti]] and [[57 Ceti]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, η Ceti itself is known as {{lang|zh|天倉二}} ({{lang|zh-Latn|Tiān Cāng èr}}, {{lang-en|the Second Star of Square Celestial Granary}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist | refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: spectroscopy of stars earlier than M0 within 40 pc-The Southern Sample | journal=[[The Astronomical Journal]] | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 }}</ref>
+
+<ref name=mnras172_667>{{citation | last1=Jennens | first1=P. A. | last2=Helfer | first2=H. L. | title=A new photometric metal abundance and luminosity calibration for field G and K giants. | journal=Monthly Notices of the Royal Astronomical Society | volume=172 | pages=667–679 | month=September | year=1975 | bibcode=1975MNRAS.172..667J }}</ref>
+
+<ref name=aaa535_A59>{{citation | display-authors=1 | last1=Berio | first1=P. | last2=Merle | first2=T. | last3=Thévenin | first3=F. | last4=Bonneau | first4=D. | last5=Mourard | first5=D. | last6=Chesneau | first6=O. | last7=Delaa | first7=O. | last8=Ligi | first8=R. | last9=Nardetto | first9=N. | title=Chromosphere of K giant stars. Geometrical extent and spatial structure detection | journal=Astronomy & Astrophysics | volume=535 | page=A59 | month=November | year=2011 | doi=10.1051/0004-6361/201117479 | bibcode=2011A&A...535A..59B |arxiv = 1109.5476 }}</ref>
+
+<ref name=mnras408_2_1225>{{citation | display-authors=1 | last1=Puzeras | first1=E. | last2=Tautvaišienė | first2=G. | last3=Cohen | first3=J. G. | last4=Gray | first4=D. F. | last5=Adelman | first5=S. J. | last6=Ilyin | first6=I. | last7=Chorniy | first7=Y. | title=High-resolution spectroscopic study of red clump stars in the Galaxy: iron-group elements | journal=Monthly Notices of the Royal Astronomical Society | volume=408 | issue=2 | pages=1225–1232 | month=October | year=2010 | doi=10.1111/j.1365-2966.2010.17195.x | bibcode=2010MNRAS.408.1225P |arxiv = 1006.3857 }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc. | location=New York | isbn=0-486-21079-0 | page=162 }}</ref>
+
+<ref name=ostrich>η Cet as '''Aoul al Naamat''' or '''Prima Struthionum''' (the first ostrich), [[Theta Ceti|θ Cet]] as '''Thanih al Naamat''' or '''Secunda Struthionum'''  (the second ostrich), [[Tau Ceti|τ Cet]] as '''Thalath al Naamat''' or '''Tertia Struthionum'''  (the third ostrich), and [[Zeta Ceti|ζ Cet]] as '''Rabah al Naamat''' or '''Quarta Struthionum'''  (the fourth ostrich). [[Upsilon Ceti|υ Cet]] should be '''Khamis al Naamat''' or '''Quinta Struthionum''' (the fifth ostrich) consistently, but Al Achsasi Al Mouakket designated the title ''the fifth ostrich'' to [[Gamma Andromedae|γ Gam]] with uncleared consideration.</ref>
+
+}}
+
+{{Stars of Cetus}}
+
+[[Category:Cetus (constellation)]]
+[[Category:Bayer objects|Ceti, Eta]]
+[[Category:Stars with proper names]]
+
+[[ar:ذنب القيطس الجنوبي]]
+[[de:Deneb Algenubi]]
+[[es:Deneb Algenubi]]
+[[fa:ذنب قیطس جنوبی]]
+[[fr:Eta Ceti]]
+[[id:Eta Ceti]]
+[[it:Deneb Algenubi]]
+[[lb:Deneb Algenubi (Stär)]]
+[[nl:Deneb Algenubi]]
+[[ja:くじら座イータ星]]
+[[pt:Eta Ceti]]
+[[sk:Dheneb]]
+[[zh:天仓二]]

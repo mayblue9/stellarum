@@ -1,0 +1,179 @@
+{{Starbox 2
+| name=Albireo A
+| image=[[Image:Position beta Cyg.png|250px]]
+| caption=Albireo's position, lower right corner. <br /> The cross-like figure is the Northern Cross. <br /> The blue line shows the boundaries of the constellation the Swan.
+| epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell=[[Cygnus (constellation)|Cygnus]]
+| ra_a_h=19
+| ra_a_m=30
+| ra_a_s=43.286
+| dec_a_d=+27
+| dec_a_m=57
+| dec_a_s=34.84
+| radec_a_footnote=<ref name=viziera>[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%403552265&Name=HD%20183912&submit=submit], [[Hipparcos catalogue]]; [[Centre de Données astronomiques de Strasbourg|CDS]].</ref>
+| ra_b_h=19
+| ra_b_m=30
+| ra_b_s=43.295
+| dec_b_d=+27
+| dec_b_m=57
+| dec_b_s=34.62
+| radec_b_footnote=<ref name=vizierb>[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%407821204&Name=HD%20183913&submit=submit], [[Hipparcos catalogue]]; [[Centre de Données astronomiques de Strasbourg|CDS]].</ref>
+| radial_v_system=-24.07
+| prop_mo_ra_system=-7.17
+| prop_mo_dec_system=-6.15
+| parallax=7.51
+| p_error=0.33
+| class_a=K2II<ref name="ginestet">{{cite doi|10.1086/342942}}</ref>
+| class_b=B8:p<ref name="ginestet"/>
+| parallax_footnote=<ref name=simbada>{{SIMBAD link|NAME+ALBIREO|NAME ALBIREO -- Star in double system }}, database entry, [[SIMBAD]].  Accessed on line July 9, 2008.</ref><ref name=distance group=lower-alpha>The primary and secondary have different formal Hipparchos parallaxes.  They are thought to be physically related and so at at the same distance from Earth in astronomical terms, hence one or both derived distances are somewhat in error.</ref>
+|appmag_v_system=3.085
+|appmag_v_a=3.18<ref name=bsd>Binary Star Differential Photometry Using the Adaptive Optics System at Mount Wilson Observatory, Theo ten Brummelaar, Brian D. Mason, et al., ''Astronomical Journal'' '''119''', #5 (May 2000), pp. 2403–2414.  {{doi|10.1086/301338}}. {{bibcode|2000AJ....119.2403T}}.  See tables 4, 5, 6, and 8.  Luminosity from L<sub>bol</sub>=10<sup>2(4.75−M<sub>bol</sub>)/5</sup>.</ref>
+|appmag_v_b=5.82<ref name=bsd />
+|b-v_a=1.074<ref name=viziera />
+|b-v_b=0.09<ref name=vizierb />
+|v-r_a=0.92<ref name=bsd />
+|v-r_b=0.09<ref name=bsd />
+|absmag_v_a=&minus;2.45<ref name="ginestet"/>
+|absmag_v_b=&minus;0.25<ref name="ginestet"/>
+|temperature_a=4,080±10<ref name=bsd />
+|temperature_b=~12,000<ref name="ginestet"/>
+|luminosity_bolometric_a=1,200
+|luminosity_bolometric_b=230
+|mass_a=5<ref name=stars />
+|mass_b=3.2<ref name=stars />
+|radius_a=70
+|radius_b=3.5
+|orbit_footnote=&nbsp;(Aa/Ac)<ref name=wdsa>Entry, WDS identifier 19307+2758, [http://ad.usno.navy.mil/wds/orb6/orb6frames.html Sixth Catalog of Orbits of Visual Binary Stars],  William I. Hartkopf & Brian D. Mason, U.S. Naval Observatory.  Accessed on line July 9, 2008. [http://ad.usno.navy.mil/wds/orb6/orb6orbits.html#19307+2758 (19307+2758)]</ref>
+|period=213.859
+|axis_unitless=0.536[[Arcsecond|″]]
+|inclination=154.9
+|node=170.4
+|periastron=B1997.995
+|eccentricity=0.256
+|periarg=39.4
+|names=[[Bayer designation|β&nbsp;Cygni&nbsp;A]], β<sup>1</sup>&nbsp;Cygni, [[Flamsteed designation|6&nbsp;Cygni&nbsp;A]], [[Double star designation|MCA&nbsp;55&nbsp;Aac]], [[Aitken Double Star Catalogue|ADS]]&nbsp;12540&nbsp;A, [[Durchmusterung|BD]]+27&nbsp;3410, [[Catalogue of Components of Double and Multiple Stars|CCDM]]&nbsp;J19307+2758A, [[Catalogues of Fundamental Stars|FK5]]&nbsp;732, [[Henry Draper Catalogue|HD]]&nbsp;183912/183913, [[Hipparcos Catalogue|HIP]]&nbsp;95947, [[Bright Star Catalogue|HR]]&nbsp;7417, NSV&nbsp;12105, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;87301, [[Washington Double Star Catalog|WDS]]&nbsp;19307+2758Aa/Ac<ref name=simbada /><ref name=wdsa /><ref name=pisco />
+| simbad_system = Albireo
+}}
+
+'''Albireo''' (β Cyg, β Cygni, Beta Cyg, [[beta (letter)|Beta]] Cygni) is the [[List of stars in Cygnus|fifth brightest star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]]. Although it has the [[Bayer designation]] ''beta'', it is fainter than [[Gamma Cygni]], [[Delta Cygni]], and [[Epsilon Cygni]].  Albireo appears to the naked eye to be a single star of magnitude 3 but through a telescope, even low magnification views resolve it into a [[double star]]. The brighter yellow star (actually itself a very close [[binary star|binary system]]) makes a striking colour contrast with its fainter blue companion star.<ref name=stars>[http://www.astro.uiuc.edu/~kaler/sow/albireo.html Albireo], ''Stars'', Jim Kaler. Accessed on line July 9, 2008.</ref>
+
+==Double star==
+[[Image:NewAlbireo.jpg|100px|thumb|left|Albireo A and B]]
+Albireo is about {{convert|430|ly|pc|lk=on}}<ref name=distance group=lower-alpha>The primary and secondary have different formal Hipparchos parallaxes.  They are thought to be physically related and so at at the same distance from Earth in astronomical terms, hence one or both derived distances are somewhat in error.</ref> away from the Earth.  When viewed with the naked eye, it appears to be a single star. However, in a [[telescope]] it readily resolves into a [[double star]], consisting of Albireo A (amber, [[apparent magnitude]] 3.1), and Albireo B (blue-green, apparent magnitude 5.1).<ref name=msg />  Separated by 35 seconds of arc,<ref name=wdsb>Entry, [http://ad.usno.navy.mil/wds/wdsnewframe4.html The Washington Double Star Catalog], identifier 19307+2758, discoverer identifier STFA 43.  Accessed on line July 9, 2008. {{Wayback|date=20080908010456|url=http://ad.usno.navy.mil/wds/wdsnewframe4.html|df=yes}}</ref> the two components provide one of the best contrasting double stars in the sky due to their different colors.  It is not known whether the two components are orbiting around each other in a physical [[binary star|binary system]].  If they are, their orbital period is probably at least 100,000 years.<ref name=msg>p. 46, ''The Monthly Sky Guide'', Ian Ridpath, Wil Tirion, Cambridge University Press, 2006, ISBN 0-521-68435-8.</ref>
+
+==Albireo A==
+In 1976, component A was itself discovered to be a [[binary star]], using [[speckle interferometry]] and the 2.1-meter telescope at the [[Kitt Peak National Observatory]].<ref name=pisco>Speckle observations with PISCO in Merate: IV. Astrometric measurements of visual binaries in 2005, M. Scardia et al., ''Astronomische Nachrichten'' '''329''', #1 (2008), pp. 54–68.  {{bibcode|2008AN....329...54S}}.  {{doi|10.1002/asna.200710834}}.</ref><ref>Speckle interferometric measurements of binary stars. VI, H. A. McAlister and E. M. Hendry, ''Astrophysical Journal Supplement Series'' '''48''' (March 1982), pp. 273–278.  {{bibcode|1982ApJS...48..273M}}.  {{doi|10.1086/190778}}.</ref>  The pair is designated as components Aa/Ac in the [[Washington Double Star Catalog]].<ref name=wdsa/> An orbit for the pair has since been computed using interferometric measurements, but as only approximately a quarter of the orbit has been observed, the orbital parameters must be regarded as preliminary.  The period of this orbit is 213 years.<ref name=pisco />  The current angular separation between the components is around 0.4 [[arcseconds]], too close to be visually resolved except with instruments of at least 20" in [[aperture]] with exceptionally stable atmospheric conditions.
+
+==Albireo B==
+{{Starbox 1
+| name=Albireo B
+| epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell=[[Cygnus (constellation)|Cygnus]]
+| ra={{RA|19|30|45.3954}}<ref name=simbadb>{{SIMBAD link|HD+183914|HD 183914 -- Emission-line Star}}, database entry, [[SIMBAD]].  Accessed on line July 9, 2008.</ref>
+| dec={{DEC|+27|57|54.995}}<ref name=simbadb />
+| appmag_v=5.09<ref name=simbadb />
+| class=B8Ve<ref name=simbadb />
+|u-b=-0.30<ref>UBV observations of visual double stars, T. E. Lutz, ''Publications of the Astronomical Society of the Pacific'' '''83''' (August 1971), pp. 488–490.  {{bibcode|1971PASP...83..488L}}.</ref>
+| b-v=-0.06<ref name=simbadb />
+|radial_v=-18<ref name=simbadb />
+|prop_mo_ra=-1.95<ref name=simbadb />
+|prop_mo_dec=-0.98<ref name=simbadb />
+|parallax=8.16
+|p_error=0.25
+|parallax_footnote=<ref name=simbadb /><ref name=distance group=lower-alpha>The primary and secondary have different formal Hipparchos parallaxes.  They are thought to be physically related and so at at the same distance from Earth in astronomical terms, hence one or both derived distances are somewhat in error.</ref>
+|mass=3.3<ref name=stars />
+|luminosity_bolometric=230 ± 90<ref name=physparms />
+|temperature=13200 ± 600<ref name=physparms />
+|radius=2.7<ref>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-source=II/224/cadars&recno=8927 Entry, HD 183914], Catalogue of Stellar Diameters (CADARS);  [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?II/224 II/224].</ref>
+|gravity = 4.00 ± 0.15<ref name=physparms />
+|mass = 3.7 ± 0.8<ref name=physparms />
+|rotation=<0.6 days<ref name=stars />
+|age=4×10<sup>7</sup> to 2×10<sup>8</sup> <ref name=physparms />
+|primary=Albireo A
+|separation_epoch=2006
+|posang=54
+|posang_footnote=<ref name=wdsb />
+|angdistsec=35.3
+|angdist_footnote=<ref name=wdsb />
+|names=[[Bayer designation|β&nbsp;Cygni&nbsp;B]], β<sup>2</sup>&nbsp;Cygni, [[Flamsteed designation|6&nbsp;Cygni&nbsp;B]], [[Double star designation|STF&nbsp;4043B]], [[Aitken Double Star Catalogue|ADS]]&nbsp;12540&nbsp;B, [[Durchmusterung|BD]]+27&nbsp;3411, [[Catalogue of Components of Double and Multiple Stars|CCDM]]&nbsp;J19307+2758B,
+[[Henry Draper Catalogue|HD]]&nbsp;183914, [[Hipparcos Catalogue|HIP]]&nbsp;95951, [[Bright Star Catalogue|HR]]&nbsp;7418, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;87302, [[Washington Double Star Catalog|WDS]]&nbsp;19307+2758B<ref name=wdsb /><ref name=simbadb />
+|simbad=HD+183914
+}}
+
+Albireo B is a fast-rotating [[Be star]], with an equatorial rotational velocity of at least 250 kilometers per second.<ref name="stars"/>  Its surface temperature has been [[spectroscopy|spectroscopically]] estimated to be about 13,200 [[Kelvin|K]].<ref name=physparms>Table 1, Physical Parameters of Southern B- and Be-Type Stars, R. S. Levenhagen and N. V. Leister, ''The Astronomical Journal'' '''127''', #2 (February 2004), pp. 1176–1180, {{doi|10.1086/381063}}, {{bibcode|2004AJ....127.1176L}}.</ref>
+
+==Names and etymology==
+Since Cygnus is the swan, and Albireo is located at the head of the swan, Albireo is sometimes called the "beak star".<ref>p. 416, ''In Quest of the Universe'', Theo Koupelis and Karl F. Kuhn, 5th ed., 	Sudbury, Massachusetts: Jones & Bartlett Publishers, 2007, ISBN 0-7637-4387-9.</ref>  With [[Deneb]], [[Gamma Cygni]], [[Delta Cygni]], and [[Epsilon Cygni]], it forms the [[Asterism (astronomy)|asterism]] called the [[Asterism (astronomy)|Northern Cross]].<ref>[http://www.daviddarling.info/encyclopedia/N/Northern_Cross.html Northern Cross], entry, ''The Internet Encyclopedia of Science'', David Darling.  Accessed on line July 24, 2008.</ref>
+
+Medieval [[Arabic language|Arabic]]-speaking astronomers called Albireo ''{{transl|ar|minqār al-dajāja<sup>h</sup>}}'' (English: ''the hen's beak'').<ref>p. 196, [http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], Richard Hinckley Allen, New York, G. E. Stechert, 1899.</ref>  Its current name is a result of misunderstanding and mistranslation.  It is thought that it originated in the [[Greek language|Greek]] name ''{{lang|grc-Latn|ornis}}'' for the constellation of Cygnus, which became ''{{transl|ar|urnis}}'' in Arabic.<ref>p. 24, [http://books.google.com/books?id=9EUDAAAAQAAJ ''The names of the stars and constellations compiled from the Latin, Greek and Arabic''], W. H. Higgins, Leicester: Samuel Clarke, 1882.</ref>  When translated into [[Latin language|Latin]], this name was thought to refer to the plant ''[[Erysimum officinale]]'', and so was translated into a Latin name for this plant, ''{{lang|la|ireo}}''.  The phrase ''{{lang|la|ab ireo}}'' was later treated as a misprint of an Arabic term and transcribed as ''{{transl|ar|al-bireo}}''.<ref>p. 194, Allen.</ref>
+
+The term ''{{transl|ar|minqār al-dajāja<sup>h</sup>}}'' (منقار ألدجاجة) or ''Menchir al Dedjadjet'' appeared in the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', which was translated into [[Latin]] as ''Rostrum Gallinǣ'', meaning ''the hen's beak''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+==Namesakes==
+[[USS Albireo (AK-90)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==Notes==
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://adsabs.harvard.edu/abs/1980S&T....59..210W Albireo as a Triple Star]
+*[http://antwrp.gsfc.nasa.gov/apod/ap050830.html Photo by Richard Yandrick; August 30, 2005]
+*[http://www.photomeeting.de/astromeeting/double/050728betCYGa1024.htm A picture of Albireo by Stefan Seip]
+* [http://www.nightskyinfo.com/archive/albireo NightSkyInfo.com - Albireo]
+* [http://www.alcyone-software.com/cgi-bin/search.pl?object=HR7417 Albireo] at Alcyone Software's Star Data Pages
+{{commons|Albireo|Albireo}}
+
+{{Stars of Cygnus}}
+
+[[Category:Bayer objects|Cygni, Beta]]
+[[Category:Flamsteed objects|Cygni, 6]]
+[[Category:Be stars]]
+[[Category:Triple stars]]
+[[Category:Binary stars]]
+[[Category:B-type main sequence stars]]
+[[Category:Cygnus (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+[[Category:Henry Draper Catalogue objects|183912]]
+[[Category:Hipparcos objects|095947]]
+
+[[ar:منقار الدجاجة]]
+[[ca:Albireo]]
+[[cs:Albireo]]
+[[da:Albireo]]
+[[de:Albireo]]
+[[es:Albireo]]
+[[eu:Albireo]]
+[[fa:منقار ماکیان]]
+[[fr:Beta Cygni]]
+[[ga:Albireo]]
+[[gl:Albireo]]
+[[ko:알비레오]]
+[[id:Albireo]]
+[[it:Albireo]]
+[[he:אלביראו]]
+[[lb:Albireo (Stär)]]
+[[hu:Albireo]]
+[[ms:Albireo]]
+[[nl:Albireo]]
+[[ja:アルビレオ]]
+[[no:Albireo]]
+[[nn:Albireo]]
+[[pl:Albireo]]
+[[pt:Albireo]]
+[[ru:Альбирео]]
+[[scn:Albireo]]
+[[sk:Albireo]]
+[[sh:Albireo]]
+[[fi:Albireo]]
+[[sv:Albireo]]
+[[tr:Albireo]]
+[[zh:天鹅座β]]

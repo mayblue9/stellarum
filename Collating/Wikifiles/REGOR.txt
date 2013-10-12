@@ -1,0 +1,117 @@
+{{Starbox begin
+ | name=Gamma<sup>2</sup> Velorum A/B
+}}
+{{Starbox image
+ | image=<div style="position: relative">[[File:Vela constellation map.svg|250px|Location of Gamma Velorum]]
+     <div style="position: absolute; left:87.6%; top:50.3%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+ | caption=Gamma Velorum (circled) in the constellation Vela.
+}}
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|08|09|31.95013}}<ref name=aaa474_2_653/>
+ | dec={{DEC|–47|20|11.7108}}<ref name=aaa474_2_653/>
+ | appmag_v=1.78/4.27
+ | constell=[[Vela (constellation)|Vela]]
+}}
+{{Starbox character
+ | class=WC8 + O7.5e
+ | b-v=–0.25<ref name=clpl4_99/>
+ | u-b=–0.94<ref name=clpl4_99/>
+ | variable=Wolf-Rayet
+}}
+{{Starbox astrometry
+ | radial_v=+35<ref name=gcrv/>
+ | prop_mo_ra=–6.07<ref name=aaa474_2_653/>
+ | prop_mo_dec=+10.43<ref name=aaa474_2_653/>
+ | parallax=2.92
+ | p_error=0.30
+ | parallax_footnote=<ref name=aaa474_2_653/>
+ | dist_pc=336<ref name=eldridge/>
+ | absmag_v=
+}}
+{{Starbox detail
+| mass                   =   9/30<ref name=eldridge>{{cite doi|10.1111/j.1745-3933.2009.00753.x}}</ref>
+| radius                 =   <!--Radius (in solar radii)-->
+| luminosity             =   <!--Luminosity (in solar luminosities); prefer luminosity_bolometric or luminosity_visual-->
+| luminosity_bolometric  =   150,000<ref name=eldridge/>
+| luminosity_visual      =   <!--Luminosity (in solar luminosities), visual (V)-->
+| gravity                =   <!--Surface gravity (given as the base 10 logarithm expressed in cgs units)-->
+| temperature            =   <!--Effective temperature (in kelvins)-->
+| metal                  =   <!--Metallicity (no units provided by template)-->
+| metal_fe               =   <!--Metallicity ([Fe/H] dex) -->
+| rotation               =   <!--Rotation (no units provided by template)-->
+| rotational_velocity    =   <!--Rotational velocity (v sin i, in km/s)-->
+| age                    =   <!--Age (in years)-->
+| age_myr                =   5.5<ref name=eldridge/>
+| age_gyr                =   <!--Age (in billions of years)-->
+}}
+{{Starbox catalog
+ | names=Regor, Suhail, Suhail Al-Muhlif, [[Cordoba Durchmusterung|CD]]–46 3846/3847, [[FK5]] 309, [[Henry Draper catalogue|HD]] 68273, [[Hipparcos catalogue|HIP]] 39953, [[Harvard Revised catalogue|HR]] 3207, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 219504.
+}}
+{{Starbox reference
+ | Simbad=HD+68273
+}}
+{{Starbox end}}
+'''Gamma Velorum''' (γ Vel, γ Velorum) is a [[star system]] in the [[constellation]] [[Vela (constellation)|Vela]]. At [[apparent magnitude|magnitude]] +1.7, it is [[list of brightest stars|one of the brightest stars]] in the night sky. It has the traditional names '''[[Suhail]]''' and '''Suhail al Muhlif''', which confusingly also apply to [[Lambda Velorum]]. It also has a more modern popular name '''Regor''', which was invented as a practical joke by the [[Apollo 1]] astronaut [[Gus Grissom]] for his fellow astronaut [[Roger Chaffee]].<ref>Apollo 15 Lunar Surface Journal, [http://history.nasa.gov/alsj/a15/a15.postland.html ''Post-landing Activities''], commentary at 105:11:33</ref>  Due to the exotic nature of its spectrum (bright [[emission line]]s in lieu of dark [[absorption line]]s) it is also dubbed the "Spectral Gem of Southern Skies".<ref>{{cite web| author=Hoffleit|url=http://www.alcyone.de/SIT/mainstars/SIT000822.htm#Cat1| title=The Bright Star Catalogue, 5th Revised Ed.|accessdate = 2007-08-08}}</ref>
+
+The Gamma Velorum system is composed of at least six stars.{{Fact|date=February 2010}} The brightest member, γ² Velorum or γ Velorum A, is actually a [[spectroscopic binary]] composed of a [[blue supergiant]] of spectral class O7.5 (~30 [[solar mass|M<sub>☉</sub>]]), and a massive [[Wolf-Rayet star]] (~9 M<sub>☉</sub>, originally ~35 M<sub>☉</sub>). The binary has an orbital period of 78.5 days and separation of 1 AU. The Wolf-Rayet star is likely to end its life in a [[Type Ic supernova]] explosion; it is one of the nearest [[List of supernova candidates|supernova candidates]] to the Sun.<ref name=ass336_2_287/> Its nearest companion, the bright (apparent magnitude +4.2) γ¹ Velorum or γ Velorum B, is a blue-white [[stellar classification|B-type]] [[subgiant]]. It is separated from the Wolf-Rayet binary by 41.2", and the separation can easily be resolved with [[binoculars]].
+
+Gamma Velorum has several fainter companions.{{Fact|date=February 2010}} <!-- Optical or physical? --> The magnitude +8.5 γ Velorum C, a white [[stellar classification|A-type]] star, is 62.3 [[arcsecond]]s from the A component. At 93.5 [[arcsecond]]s is the system's second binary star, γ Velorum D and E. The D component is another A-type star which has a magnitude of +9.4. Its companion is a 13th magnitude star, separated by 1.8 arcseconds.
+
+The Chinese name for the star is 天社一 ([[Mandarin Chinese|Mandarin]]: tiān shè yī), which means "''The First Star of the Celestial Altar''."
+
+==Etymology==
+The medieval name Suhail (Al Suhail, Alsuhail, Suhail al Muhlif, Muliphein) is short for the Arabic سهيل المحلف ''suhayl al-muħlif'' "The glorious (star) of the oath". 
+
+==See also==
+* [[Gamma Cassiopeiae]], informally named ''Navi'' for astronaut [[Gus Grissom|Virgil Ivan "Gus" Grissom]]
+* [[Iota Ursae Majoris]], informally named ''Dnoces'' for astronaut [[Edward Higgins White|Edward H. White II]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=ass336_2_287>{{citation | last1=Beech | first1=Martin | title=The past, present and future supernova threat to Earth's biosphere | journal=Astrophysics and Space Science | volume=336 | issue=2 | pages=287–302 | month=December | year=2011 | doi=10.1007/s10509-011-0873-9 | bibcode=2011Ap&SS.336..287B }}</ref>
+
+<ref name=gcrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/regor.html Regor] by Jim Kaler, Professor Emeritus of Astronomy, [[University of Illinois at Urbana-Champaign]]
+*[http://www.space.com/spacewatch/star_names_030829.html NightSky Friday: Rotanev, Derf, Navi, and other Backward Star Names] – [[Space.com]] article
+*[http://www.starrynightphotos.com/southern_sky/gamma_vela.htm Starry Night Photography: Gamma Velorum]
+{{Stars of Vela}}
+[[Category:Bayer objects|Velorum, Gamma]]
+[[Category:Multiple star systems|6]]
+[[Category:O-type supergiants]]
+[[Category:Vela (constellation)]]
+[[Category:Wolf–Rayet stars]]
+[[Category:A-type stars]]
+[[Category:B-type subgiants]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[de:Regor]]
+[[es:Gamma Velorum]]
+[[eo:Gamo Velara]]
+[[fa:سهیل‌المحلف]]
+[[fr:Gamma Velorum]]
+[[ko:돛자리 감마]]
+[[hi:गामा वलोरम तारा]]
+[[it:Gamma Velorum]]
+[[he:רגור]]
+[[la:Gamma Velorum]]
+[[lb:Regor (Stär)]]
+[[nl:Suhail al Muhlif]]
+[[ja:ほ座ガンマ星]]
+[[pl:Regor]]
+[[pt:Gamma1 Velorum]]
+[[ru:Гамма Парусов]]
+[[sk:Regor]]
+[[fi:Gamma Velorum]]
+[[zh:天社一]]

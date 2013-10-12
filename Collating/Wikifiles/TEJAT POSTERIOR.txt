@@ -1,0 +1,104 @@
+{{Starbox begin
+ | name = Mu Geminorum
+}}{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Gemini IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Gemini constellation and its surroundings]]
+     <div style="position: absolute; left: 59.0%; top: 38.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of μ Gemini (circled)
+}}
+{{Starbox observe
+ | constell    = [[Gemini (constellation)|Gemini]]
+ | epoch       = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+ | ra          = {{RA|06|22|57.62686}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|+22|30|48.8979}}<ref name=aaa474_2_653/>
+ | appmag_v    = 2.857<ref name=sps1966/>
+}}
+{{Starbox character
+ | class       = M3&nbsp;III<ref name=araa11_29/>
+ | b-v         = +1.643<ref name=sps1966/>
+ | u-b         = +1.924<ref name=sps1966/>
+ | variable    = [[Irregular variable|LB]]<ref name="gcvs" />
+}}
+{{Starbox astrometry
+ | radial_v    = +54.38 ± 0.24<ref name=aaa430_165/>
+ | prop_mo_ra  = +56.39<ref name=aaa474_2_653/>
+ | prop_mo_dec = –110.03<ref name=aaa474_2_653/>
+ | parallax    = 14.08
+ | p_error     = 0.71
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox detail
+ | mass        = 2.1<ref name=tsuji2007/>
+ | radius      = 
+ | luminosity  = 2,799<ref name=aaa352_495/>
+ | temperature = 3,773<ref name=aaa352_495/>
+ | gravity     = 1.50<ref name=aaa352_495/>
+ | metal_fe    = 
+ | rotational_velocity = 8.4<ref name=aj135_1_209/>
+ | age_gyr     = 
+}}
+{{Starbox catalog
+ | names=Tejat, Tejat&nbsp;Posterior, Pish&nbsp;Pai, Calx,<ref name="kaler" /><ref name="allen" /> &mu;&nbsp;Geminorum, &mu;&nbsp;Gem, 13&nbsp;Geminorum, 13&nbsp;Gem, [[Aitken Double Star Catalog|ADS]]&nbsp;4990A, [[Bonner Durchmusterung|BD]]+22°1304, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J06230+2230A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;241, [[Henry Draper catalogue|HD]]&nbsp;44478, [[Hipparcos catalogue|HIP]]&nbsp;30343, [[Harvard Revised catalogue|HR]]&nbsp;2286, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;78297.<ref name="s" />
+}}
+{{Starbox end}}
+
+'''Mu Geminorum''' (μ Gem, μ Geminorum) is the [[Bayer designation]] for a [[star]] in the northern [[constellation]] of [[Gemini (constellation)|Gemini]]. It has the traditional name '''Tejat Posterior''', which means ''back foot'', because it is the foot of [[Castor (mythology)|Castor]], one of the Gemini twins. This name was formerly applied to an asterism consisting of this star, along with [[Gamma Geminorum|γ Gem]] (Alhena), [[Nu Geminorum|ν Gem]], [[Eta Geminorum|η Gem]] (Tejat Prior), and [[Xi Geminorum|ξ Gem]] (Alzirr). The names '''Calx''' ([[Latin language|Latin]], meaning ''heel''), '''Pish Pai''' (from the [[Persian language|Persian]] ''Pīshpāy'', پیش‌پای, meaning ''foreleg''), and '''Nuhatai''' (from [[Arabic language|Arabic]] ''Al Nuḥātai'', the dual form of ''Al Nuḥāt'', "a Camel's Hump") have also been applied to Mu Geminorum.<ref name="kaler" /><ref name="allen"/><ref>[http://www.spaceref.com/news/viewpr.html?pid=3050 Astronomers Predict Eclipse of Naked-Eye Star by an Asteroid Monday Morning, Nov. 20] at Spaceref.com.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|井宿}} ({{lang|zh-Latn|Jǐng Su}}), meaning ''[[Well (Chinese constellation)|Well]] (asterism)'', refers to an asterism consisting of μ Geminorum, [[Gamma Geminorum|γ Geminorum]], [[Nu Geminorum|ν Geminorum]], [[Xi Geminorum|ξ Geminorum]], [[Epsilon Geminorum|ε Geminorum]], [[36 Geminorum]], [[Zeta Geminorum|ζ Geminorum]] and [[Lambda Geminorum|λ Geminorum]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, μ Geminorum itself is known as {{lang|zh|井宿一}} ({{lang|zh-Latn|Jǐng Su yī}}, {{lang-en|the First Star of Well}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Mu Geminorum has an average [[apparent visual magnitude]] of 2.9,<ref name=sps1966/> which makes it the [[List of stars in Gemini|fourth brightest member]] of Gemini. From [[parallax]] measurements made during the [[Hipparcos]] mission, the distance to this star is roughly {{Convert|230|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> Its visual magnitude is diminished by 0.07 as a result of [[Extinction (astronomy)|extinction]] from intervening gas and dust.<ref name=aaa430_165/>
+
+This star is a [[slow irregular variable]] of type LB. Its brightness varies between [[Apparent magnitude|magnitude]] +2.75 and +3.02 over a 72 day period, along with a 2,000 day period of long term variation. It is a [[red giant]] at a [[stellar classification]] of M3&nbsp;III,<ref name=araa11_29/> with a surface temperature of 3,773&nbsp;K,<ref name=aaa352_495/> meaning it is brighter, yet cooler than our Sun.<ref name="gcvs" /><ref name="kaler"/> The star is currently on the [[asymptotic giant branch]] and is generating energy through the nuclear fusion of hydrogen and helium along concentric shells surrounding an inert core of carbon and oxygen.<ref name=cia152_178/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M | postscript=. }}</ref>
+
+<ref name="s">{{citation | title=mu. Gem -- Pulsating variable Star |  work=Simbad Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=V*+mu.+Gem | accessdate=October 12, 2007 | postscript=. }}</ref>
+
+<ref name="gcvs" >[http://vizier.u-strasbg.fr/viz-bin/VizieR-S?V*%20mu%20Gem mu Gem], entry in the [http://cdsarc.u-strasbg.fr/viz-bin/Cat?II/250 Combined General Catalog of Variable Stars (GCVS4.2)], N. N. Samus, O. V. Durlevich, et al., database identifier II/250 at the [[Centre de Données astronomiques de Strasbourg]].</ref>
+
+<ref name=tsuji2007>{{citation | last1=Tsuji | first1=Takashi | contribution=Isotopic abundances of Carbon and Oxygen in Oxygen-rich giant stars | title=Convection in Astrophysics, Proceedings of IAU Symposium #239 held 21-25 August, 2006 in Prague, Czech Republic | editor1-first=F. | editor1-last=Kupka | editor2-first=I. | editor2-last=Roxburgh | editor3-first=K. | editor3-last=Chan | pages=307–310 | month=May | year=2007 | doi=10.1017/S1743921307000622 | bibcode=2007IAUS..239..307T |arxiv = astro-ph/0610180 | postscript=. }}</ref>
+
+<ref name=cia152_178>{{citation | last1=Lebzelter | first1=T. | last2=Hron | first2=J. | title=BRITE stars on the AGB | journal=Communications in Asteroseismology | volume=152 | pages=178–181 | month=January | year=2008 | doi=10.1553/cia152s178 | bibcode=2008CoAst.152..178L | postscript=. }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 | postscript=. }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M | postscript=. }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G | postscript=. }}</ref>
+
+<ref name="allen">{{citation | page=236 | title=Star-names and Their Meanings | first1=Richard Hinckley | last1=Allen | publisher=G. E. Stechert | year=1899 }}</ref>
+
+<ref name="kaler">[http://www.astro.uiuc.edu/~kaler/sow/tejat.html Mu Geminorum] at Jim Kaler's STARS.</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M | postscript=. }}</ref>
+
+}}
+
+{{Stars of Gemini}}
+
+[[Category:Bayer objects|Geminorum, Mu]]
+[[Category:Flamsteed objects|Geminorum, 13]]
+[[Category:Gemini (constellation)]]
+[[Category:Irregular variables]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Tejat Posterior]]
+[[es:Tejat Posterior]]
+[[fa:پس‌پای]]
+[[fr:Mu Geminorum]]
+[[id:Mu Geminorum]]
+[[it:Mu Geminorum]]
+[[lb:Tejat Posterior (Stär)]]
+[[nl:Tejat Posterior]]
+[[pt:Mu Geminorum]]
+[[sk:Tejat Posterior]]
+[[zh-yue:井宿一]]

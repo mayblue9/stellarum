@@ -1,0 +1,52 @@
+{{Starbox begin
+| name=Omicron Piscium
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pisces IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pisces constellation and its surroundings]]
+     <div style="position: absolute; left: 27%; top: 48%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ο Piscium(circled)
+}}
+{{Starbox short 
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Pisces (constellation)|Pisces]]
+| ra=01<sup>h</sup> 45<sup>m</sup> 23.6<sup>s</sup>
+| dec=+09° 09' 28"
+| spectral=G8III
+| appmag_v=+4.26
+| dist_ly=142
+| dist_pc=43.5
+| names=Torcularis Septentrionalis, ο&nbsp;Piscium, ο&nbsp;Psc, Omicron&nbsp;Psc, 110&nbsp;Piscium, [[Star catalogue#BD/CD/CPD|BD]]+08&nbsp;273, [[Fifth Fundamental Catalogue|FK5]]&nbsp;60, [[Boss General Catalogue|GC]]&nbsp;2139 , [[Henry Draper Catalogue|HD]]&nbsp;10761, [[Hipparcos Catalogue|HIP]]&nbsp;8198, [[Bright Star Catalogue|HR]]&nbsp;510, [[PPM Star Catalogue|PPM]]&nbsp;144950, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;110110.
+}}
+
+'''Omicron Piscium''' ('''Omicron&nbsp;Psc''', '''ο&nbsp;Piscium''', '''ο&nbsp;Psc''') is a [[star]] in the [[constellation]] [[Pisces (constellation)|Pisces]], located about 142 [[light year]]s from [[Earth]].
+
+It has an [[apparent magnitude]] of +4.26 and belongs to [[stellar classification|spectral type]] G8. 
+
+==Name and etymology==
+*The star has the traditional name '''Torcularis septentrionalis'''<ref name=rhalley>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Pisces*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning - Pisces, the Fishes]</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|右更}} ({{lang|zh-Latn|Yòu Gèng}}), meaning ''[[Bond (Chinese constellation)|Official in Charge of the Pasturing]]'', refers to an asterism consisting of refers to an asterism consisting of ο Piscium, [[Eta Piscium|η Piscium]], [[Rho Piscium|ρ Piscium]], [[Pi Piscium|π Piscium]] and [[104 Piscium]]. Consequently, ο Piscium itself is known as {{lang|zh|右更四}} ({{lang|zh-Latn|Yòu Gèng sì}}, {{lang-en|the Fourth Star of Official in Charge of the Pasturing}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060519.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 19 日]</ref>
+
+==References==
+{{reflist}}
+
+{{Stars of Pisces}}
+
+[[Category:Bayer objects|Piscium, Omicron]]
+[[Category:Pisces (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Flamsteed objects|Piscium, 110]]
+
+[[de:Omikron Piscium]]
+[[es:Torcularis Septentrionalis]]
+[[fa:امیکرون ماهی]]
+[[fr:Omicron Piscium]]
+[[id:Omicron Piscium]]
+[[it:Omicron Piscium]]
+[[lb:Torcukaris (Stär)]]
+[[nl:Torcularis Septentrionalis]]
+[[pt:Omicron Piscium]]
+[[sk:Omicron Piscium]]
+[[zh:右更四]]

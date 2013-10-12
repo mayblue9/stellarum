@@ -1,0 +1,221 @@
+{{dablink|This article is about the star. For the mammalian genus to which [[Raccoon]]s belong, see [[Procyon (genus)]].}}
+{{Starbox begin |
+   name=Procyon A/B }}
+{{Starbox image |
+  image=[[Image:Position Alpha Cmi.png|250px]] |
+  caption=The position of Procyon}}
+{{Starbox observe |
+  epoch=J2000 |
+  constell=[[Canis Minor]] |
+  pronounce={{IPAc-en|icon|ˈ|p|r|oʊ|s|i|.|ɒ|n}} |
+  ra={{RA|07|39|18.11950}}<ref name=aaa323_L49/><ref name=aaa474_2_653/> |
+  dec={{DEC|+05|13|29.9552}}<ref name=aaa323_L49/><ref name=aaa474_2_653/> |
+  appmag_v=0.34<ref name=aaa413/> (A) / 10.7 (B)}}
+{{Starbox character |
+  class=F5 IV–V<ref name=aaa413/>/DA |
+  b-v=0.40/0.0 |
+  u-b=−0.01 |
+  variable= }}
+{{Starbox astrometry |
+  radial_v=−3.2 |
+  prop_mo_ra=−714.590<ref name=aaa323_L49/><ref name=aaa474_2_653/> |
+  prop_mo_dec=−1036.80<ref name=aaa323_L49/><ref name=aaa474_2_653/> |
+  parallax=284.56 |
+  p_error=1.26 |
+  parallax_footnote=<ref name=aaa323_L49/><ref name=aaa474_2_653/> |
+  absmag_v=2.65/13.04 }}
+{{Starbox detail|
+  component1=Procyon A|
+  mass={{nowrap|1.42 ± 0.04}}<ref name=aaa413/> |
+  radius={{nowrap|2.048 ± 0.025}}<ref name=aaa413/> |
+  luminosity=6.93<ref name=aaa413/> | 
+  temperature={{nowrap|6,530 ± 50}}<ref name=aaa413/> |
+  metal_fe={{nowrap|-0.05 ± 0.03}}<ref name=aaa413/> |
+  gravity=3.96<ref name=aaa413/> |
+  rotational_velocity={{nowrap|3.16 ± 0.50}}<ref name=aaa413/> |
+  rotation=23&nbsp;days<ref name=mnras374_1_220/> |
+  age_gyr=3<ref name="Provencal2002"/>|
+  component2=Procyon B|
+  mass2={{nowrap|0.602 ± 0.015}}<ref name="Provencal2002" />|
+  radius2={{nowrap|0.01234 ± 0.00032}}<ref name="Provencal2002" />|
+  luminosity2=0.00055|
+  temperature2={{nowrap|7,740 ± 50}}<ref name="Provencal2002" />|
+  gravity2=8.0<ref name="Provencal2002" /> }}
+{{Starbox visbin |
+  reference=<ref name=aj119_5/> |
+  name=Procyon B |
+  period=40.82 |
+  axis=4.3 |
+  eccentricity=0.407 |
+  inclination=31.1 |
+  node=97.3 |
+  periastron=1967.97 |
+  periarg=92.2 }}<!--
+-->{{Starbox catalog |
+  names=Elgomaisa, Algomeysa, Antecanis, α&nbsp;Canis Minoris, 10 Canis Minoris, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 1805.00, [[Harvard Revised catalogue|HR]] 2943, [[Bonner Durchmusterung|BD]]+05°1739, [[Henry Draper catalogue|HD]] 61421, [[Luyten Half-Second catalogue|LHS]] 233, [[Gliese-Jahreiss catalogue|GJ]] 280, [[Hipparcos catalogue|HIP]] 37279, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;115756. <ref name=SIMBAD/> }}
+{{Starbox reference |
+  Simbad=HR+2943 }}
+{{Starbox end}}
+'''Procyon''' (α CMi, α Canis Minoris, [[Alpha]] Canis Minoris) is the brightest [[star]] in the [[constellation]] [[Canis Minor]]. To the naked eye, it appears to be a single star, the [[list of brightest stars|seventh brightest]] in the night sky with a visual [[apparent magnitude]] of 0.34.<ref name=aaa413/> It is actually a [[binary star]] system, consisting of a white [[main sequence|main-sequence]] star of [[spectral type]] F5&nbsp;IV–V, named '''Procyon&nbsp;A''', and a faint [[white dwarf]] companion of spectral type DA, named '''Procyon&nbsp;B'''. The reason for its brightness is not its intrinsic luminosity but its closeness to the [[Sun]]; as determined by the [[European Space Agency]] [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49/><ref name=GSM/> it lies at a distance of just {{Convert|11.46|ly|pc|abbr=off|lk=on}},<ref name=aaa474_2_653/> and is therefore one of our [[List of nearest stars|nearest stellar neighbours]]. Its closest neighbour is [[Luyten's Star]], about {{Convert|1.12|ly|pc|abbr=on|lk=off}} away, and the latter would appear as a visual magnitude 2.7 star in the night sky of a hypothetical planet orbiting Procyon.<ref name=Annot/>
+
+==Visibility==
+Procyon forms one of the three [[Vertex (geometry)|vertices]] of the [[Winter Triangle]], along with [[Sirius]] and [[Betelgeuse]].<ref name=Schaaf166/>
+
+Its color index is 0.42, and its hue has been described as having a faint yellow tinge to it.<ref name=Schaaf166>{{cite book |title=The Brightest Stars: Discovering the Universe through the Sky's Most Brilliant Stars |last=Schaaf |first=Fred |year=2008 |publisher=John Wiley & Sons |location=Hoboken, NJ |page=166|isbn=978-0-471-70410-2 }}</ref>
+
+==System==
+Procyon A has a [[stellar classification]] of F5IV–V. The [[Effective temperature|effective surface temperature]] of the star is an estimated 6,530&nbsp;K,<ref name=aaa413/> giving it a white hue. It is 1.4 times the [[solar mass|mass]], twice the [[solar radius|radius]], and 6.9 times more [[solar luminosity|luminous]] than the [[Sun]].<ref name=aaa413/><ref name=aj131/> Procyon A is bright for its spectral class, suggesting that it is a ''[[subgiant]]'' that has nearly [[nuclear fusion|fused]] its core [[hydrogen]] into [[helium]], after which it will expand as "burning" moves outside the core.<ref name=aaa413/> As it continues to expand, the star will eventually swell to about 80 to 150 times its current diameter and become a red or orange color. This will probably happen within 10 to 100 million years.{{citation needed|date=November 2011}}
+
+Like Sirius B, Procyon's companion is a [[white dwarf]] that was inferred from [[astrometry|astrometric]] data long before it was observed. Its existence had been postulated by [[Friedrich Bessel]] as early as 1844, and although its orbital elements had been calculated by [[Arthur Auwers]] in 1862 as part of his thesis,<ref name=auwers/> Procyon&nbsp;B was not visually confirmed until 1896 when [[John Martin Schaeberle]] observed it at the predicted position using the 36-inch refractor at [[Lick Observatory]].<ref name=burnham78/> It is more difficult to observe from Earth than Sirius&nbsp;B, due to a greater [[apparent magnitude]] difference and smaller angular separation from its primary. The average separation of the two components is 15.0 [[astronomical unit|AU]]s, a little less than the distance between [[Uranus]] and the Sun, though the eccentric orbit carries them as close as 8.9&nbsp;AUs and as far as 21.0&nbsp;AU.<ref name=Kaler2011/>
+
+At 0.6 [[solar mass]]es, Procyon&nbsp;B is considerably less massive than Sirius&nbsp;B; however, the peculiarities of [[degenerate matter]] ensure that it is larger than its more famous neighbor, with an estimated radius of 8,600 [[kilometer|km]], versus 5,800&nbsp;km for Sirius&nbsp;B.<ref name="Provencal2002" /><ref name=apj497/> With a surface temperature of 7,740&nbsp;[[Kelvin|K]], it is also much cooler than Sirius&nbsp;B; this is a testament to its lesser mass and greater age. The mass of the progenitor star for Procyon B was about 2.5 [[solar mass]]es and it came to the end of its life some {{nowrap|1.7 ± 0.1 Gyr}} ago,<ref name=aaa413/> after a main-sequence lifetime of 400–600 Myr. For this reason, the age of Procyon A is expected to be at least 2&nbsp;Gyr.<ref name=aaa460_3_759/>
+
+===Oscillations controversy===
+In late June 2004, [[Canada]]'s orbital [[MOST satellite telescope]] carried out a 32-day survey of Procyon&nbsp;A. The continuous optical monitoring was intended to confirm [[solar-like oscillations]] in its brightness observed from Earth and to permit [[asteroseismology]]. No [[oscillations]] were detected and the authors concluded that the theory of stellar oscillations may need to be reconsidered.<ref name=nature430_921/> However, others argued that the non-detection was consistent with published ground-based [[radial velocity]] observations of [[solar-like oscillations]].<ref name=nature432_7015/><ref name=aaa432/>
+
+[[Photometry (astronomy)|Photometric]] measurements from the [[NASA]] [[Wide Field Infrared Explorer]] (WIRE) satellite from 1999 and 2000 showed evidence of granulation ([[convection]] near the surface of the [[star]]) and [[solar-like oscillations]].<ref name=apj633/> Unlike the MOST result, the variation seen in the WIRE photometry was in agreement with [[radial velocity]] measurements from the ground.
+
+===Life===
+Life is unlikely around Procyon, because the habitable zone around 2.7&nbsp;AU from the primary may not contain stable orbits, due to the white dwarf companion with a periastron of 8.9 AU. Also the white dwarf companion to Procyon would have stressed life severely during its [[red-giant]] phase. Procyon emits more of its light in the [[ultraviolet]] spectrum, which may be damaging to life. Still, life cannot be ruled out for other stars of the spectral type of Procyon but such life would have a relatively short time to evolve and would face heavy bombardment from [[comet]]s and [[meteorite]]s as happened in the first few million years of the [[Earth|Earth’s]] existence. Shortly after the phase of heavy bombardment has ended for a planet orbiting a star like Procyon the star is likely to leave the [[main sequence]] preventing further development of life.<ref name=exoplaneten/>
+
+==X-ray source==
+Attempts to detect X-ray emission from Procyon with nonimaging, soft X-ray sensitive detectors prior to 1975 failed.<ref name=apj202/><ref name=apj202/> Extensive observations of Procyon were carried out with the [[Orbiting Astronomical Observatory#OAO-3 (Copernicus)|Copernicus]] and [[TD-1A]] satellites in the late 1970s.<ref name=apj228_1/> The X-ray source associated with Procyon A/B was observed on April&nbsp;1, 1979, with the [[Einstein Observatory]] high-resolution imager (HRI).<ref name=apj540/> The HRI X-ray pointlike source location is ~4" south of Procyon A, on the edge of the 90% confidence error circle, indicating identification with Procyon A rather than Procyon B which was located about 5" north of Procyon&nbsp;A (about 9" from the X-ray source location).<ref name=apj228_1/>
+
+==Etymology and cultural significance==
+Its name comes from the Greek ''προκύον'' (''prokyon''), meaning "before the dog", since it precedes the "Dog Star" [[Sirius]] as it travels across the sky due to [[Earth]]'s rotation. (Although Procyon has a greater [[right ascension]], it also has a more northerly [[declination]], which means it will rise above the [[horizon]] earlier than Sirius from most northerly latitudes.) In Greek mythology, Procyon is associated with [[Maera (hound)|Maera]], a hound belonging to [[Erigone (daughter of Icarius)|Erigone]], daughter of [[Icarius of Athens]].<ref name=mw1999/> These two dog stars are referred to in the most ancient literature and were venerated by the [[Babylon]]ians and the [[Egypt]]ians.{{Citation needed|date=June 2011}}
+
+Procyon was also known as Nangar the Carpenter, an aspect of [[Marduk]] in Babylonian mythology, involved in constructing and organising the celestial sky.<ref name="kelley11">{{cite book|last=Kelley, David H.; Milone, Eugene F.; Aveni, A.F. |title=Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy|publisher=Springer|location=New York, New York|date=2011|pages=217|isbn=144197623X|url=http://books.google.com.au/books?id=ILBuYcGASxcC&pg=PA217&dq=Procyon+Nangar&hl=en&sa=X&ei=1ebkT-2BN8fsmAW34riUCw&ved=0CD0Q6AEwAQ#v=onepage&q=Procyon%20Nangar&f=false}}</ref>  
+
+The constellations in Macedonian folklore represented agricultural items and animals, reflecting their village way of life. To them, Procyon and Sirius were ''Volci'' "the wolves", circling hungrily around Orion which depicted a plough with oxen.<ref>{{cite journal|title=Macedonian Folk Constellations |author=Cenev, Gjore |journal=Publications of the Astronomical Observatory of Belgrade|volume= 85|pages=97-109|url=http://articles.adsabs.harvard.edu//full/2008POBeo..85...97C/0000097.000.html}}</ref>
+
+Rarer names are the Latin translation of Procyon, ''Antecanis,'' and the Arabic-derived names ''Al&nbsp;Shira'' and ''Elgomaisa.'' The first derives from الشعرى الشامية ''aš-ši‘ra aš-šamiyah'' "the Syrian sign" (the other sign being Sirius; "Syria" is supposedly a reference to its northern location relative to Sirius); the second from الغميصاء ''al-ghumaisa’'' "the bleary-eyed (woman)", in contrast to العبور "the teary-eyed (woman)", which is Sirius. (See [[Gomeisa]].) The modern Arabic name for Procyon is غموص ''ghumūṣ.'' It is known as 南河三 (Mandarin ''nánhésān,'' the Third Star in the Southern River) in Chinese.
+
+Medieval [[astrolabe]]s of England and Western Europe used the names Algomeiza or Algomeyza.<ref>{{Cite doi/10.1111.2Fj.1749-6632.1987.tb37197.x}}</ref>
+
+The Hawaiians saw Procyon as part of an asterism ''Ke ka o Makali'i'' ("The canoe bailer of Makali'i") that helped them navigate at sea. Called ''Puana'' "blossom", it formed this asterism with Capella, Sirius, Castor and Pollux.<ref name=brosch>{{Cite book | last=Brosch | first=Noah | title=Sirius Matters | year=2008 | publisher=Springer | isbn=1-4020-8318-1 | page= 46 |url = http://books.google.com.au/books?id=ricStR4SE-UC&pg=PA46&dq=Betelgeuse+Chinese+astronomy&hl=en&sa=X&ei=bwndT-6tG4aViAf5082XCg&ved=0CEAQ6AEwAg#v=onepage&q=Betelgeuse%20Chinese%20astronomy&f=false}}</ref> In Tahitian lore, Procyon was one of the pillars propping up the sky, known as ''Anâ-tahu'a-vahine-o-toa-te-manava'' ("star-the-priestess-of-brave-heart"), the pillar for elocution.<ref name=henry1907>{{cite journal|last=Henry|first=Teuira |date=1907|title=Tahitian Astronomy: Birth of Heavenly Bodies|journal=The Journal of the Polynesian Society |volume=16|issue=2|pages=101-04|jstor=20700813}}</ref> The Maori knew the star as ''Puangahori''.<ref name="Best22">{{cite book|last=Best|first=Elsdon|title=Astronomical Knowledge of the Maori: Genuine and Empirical|publisher=Dominion Museum|location=Wellington, New Zealand|date=1922|page=33|url=http://nzetc.victoria.ac.nz/tm/scholarly/tei-BesAstro-t1-body-d1-d6-d4.html}}</ref>
+
+Procyon appears on the  [[flag of Brazil]], symbolising the state of [[Amazonas (Brazilian state)|Amazonas]].<ref name=fotw/>
+
+Known as ''[[Sikuliarsiujuittuq]]'' to the [[Inuit]], Procyon was quite significant in their astronomy and mythology. Its eponymous name means "the one who never goes onto the newly formed sea-ice", and refers to a man who stole food from his village's hunters because he was too obese to hunt on ice. He was killed by the other hunters who convinced him to go on the sea ice. Procyon received this designation because it typically appears red (though sometimes slightly greenish) as it rises during the Arctic winter; this red color was associated with Sikuliarsiujuittuq's bloody end.<ref>{{cite book |title = The Arctic sky: Inuit astronomy, star lore, and legend |last = MacDonald |first = John |publisher = Royal Ontario Museum/Nunavut Research Institute|location=Toronto, Ontario/Iqaluit, NWT |year = 1998 |isbn = 9780888544278|pages=72, 231–33}}</ref>
+
+==See also==
+*[[List of brightest stars]]
+*[[List of nearest stars]]
+*[[Stars in astrology#Procyon|Procyon in astrology]]
+*[[Stars_and_planetary_systems_in_fiction#Procyon_.28Alpha_Canis_Minoris.29|Procyon in fiction]]
+
+==References==
+{{reflist|colwidth=30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaa413>{{citation | display-authors=1 | last1=Kervella | first1=P. | last2=Thévenin | first2=F. | last3=Morel | first3=P. | last4=Berthomieu | first4=G. | last5=Bordé | first5=P. | last6=Provost | first6=J. | title=The diameter and evolutionary state of Procyon A. Multi-technique modeling using asteroseismic and interferometric constraints | journal=Astronomy and Astrophysics | volume=413 | issue=1 | pages=251–256 | month=January | year=2004 | doi=10.1051/0004-6361:20031527 | bibcode=2004A&A...413..251K |arxiv = astro-ph/0309148 }}</ref>
+
+<ref name="Provencal2002">{{citation | display-authors=1 | last1=Provencal | first1=J. L. | last3=Shipman | first3=H. L. | last4=Koester | first4=Detlev | last5=Wesemael | first5=F. | last6=Bergeron | first6=P. | title=Procyon B: Outside the Iron Box | journal=The Astrophysical Journal  | year=2002 | volume=568 | issue=1 | pages=324–334 | bibcode=2002ApJ...568..324P  | doi=10.1086/338769 }}</ref>
+
+<ref name=aj119_5>{{citation | display-authors=1 | last1=Girard | first1=T. M. | last2=Wu | first2=H. | last3=Lee | first3=J. T. | last4=Dyson | first4=S. E. | last5=van Altena | first5=W. F. | last6=Horch | first6=E. P. | last7=Gilliland | first7=R. L. | last8=Schaefer | first8=K. G. | last9=Bond | first9=H. E. | title=A Redetermination of the Mass of Procyon | journal=The Astronomical Journal | volume=119 | issue=5 | pages=2428–2436 | month=May | year=2000 | doi=10.1086/301353 | bibcode=2000AJ....119.2428G }}</ref>
+
+<ref name=aj131>{{citation | last1=Gatewood | first1=G. | last2=Han | first2=I. | title=An Astrometric Study of Procyon | journal=Astronomical Journal | volume=131 | issue=2 | pages=1015–1021 | month=February | year=2006 | doi=10.1086/498894 | bibcode=2006AJ....131.1015G }}</ref>
+
+<ref name=aaa413>{{citation | display-authors=1 | last1=Kervella | first1=P. | last2=Thévenin | first2=F. | last3=Morel | first3=P. | last4=Berthomieu | first4=G. | last5=Bordé | first5=P. | last6=Provost | first6=J. | journal=Astronomy & Astrophysics | volume=413 | issue=1 | pages=251–256 | year=2004 | month=January | title=The diameter and evolutionary state of Procyon A. Multi-technique modeling using asteroseismic and interferometric constraints | doi=10.1051/0004-6361:20031527 | bibcode=2004A&A...413..251K |arxiv = astro-ph/0309148 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=PROCYON AB -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=procyon | accessdate=2011-11-23 }}</ref>
+
+<ref name=Kaler2011>{{citation | first1=James B. | last1=Kaler | work=Stars | title=Procyon | author-link=James B. Kaler | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/procyon.html | accessdate=2011-11-23 }}</ref>
+
+<ref name=apj497>{{citation | display-authors=1 | last1=Holberg | first1=J. B. | last2=Barstow | first2=M. A. | last3=Bruhweiler | first3=F. C. | last4=Cruise | first4=A. M.  |last5=Penny | first5=A. J. | title=Sirius B: A New, More Accurate View | journal=The Astrophysical Journal | volume=497 | issue=2 | pages=935–942 | date=1998-04-20 | doi=10.1086/305489 | bibcode=1998ApJ...497..935H }}</ref>
+
+<ref name=burnham78>{{citation | first1=Robert | last1=Burnham Jr. | author-link=Robert Burnham, Jr. | title=Burnham's Celestial Handbook | location=New York | publisher=Dover Publications Inc. | year=1978 | page=450 | volume=1 | isbn=0-486-23567-X }}</ref>
+
+<ref name=nature430_921>{{citation | display-authors=1 | last1=Matthews | first1=Jaymie M. | last2=Kuschnig | first2=Rainer | last3=Guenther | first3=David B. | last4=Walker | first4=Gordon A. H. | last5=Moffat | first5=Anthony F. J. | last6=Rucinski | first6=Slavek M. | last7=Sasselov | first7=Dimitar | last8=Weiss | first8=Werner W. | title=No stellar p-mode oscillations in space-based photometry of Procyon | journal=Nature | volume=430 | issue=921 | year=2004 | doi=10.1038/nature02671 | bibcode=2004Natur.430...51M | pmid=15229593 | pages=51–3 }}</ref>
+
+<ref name=nature432_7015>{{citation | display-authors=1 | last1=Bouchy | first1=François | last2=Maeder | first2=Andreé | last3=Mayor | first3=Michel | last4=Mégevand | first4=Denis | last5=Pepe | first5=Francesco | last6=Sosnowska | first6=Danuta | title=Brief Communications Arising: Oscillations on the star Procyon | journal=Nature | volume=432 | issue=7015 | year=2004 | bibcode=2004Natur.432....2B |doi=10.1038/nature03165|arxiv = astro-ph/0510303 }}</ref>
+
+<ref name=aaa432>{{citation | display-authors=1 | last1=Bedding | first1=T. R. | last2=Kjeldsen | first2=H. | last3=Bouchy | first3=F. | last4=Bruntt | first4=H. | last5=Butler | first5=R. P. | last6=Buzasi | first6=D. L. | last7=Christensen-Dalsgaard | first7=J. | last8=Frandsen | first8=S. | last9=Lebrun | first9=J.-C. | title=The non-detection of oscillations in Procyon by MOST: Is it really a surprise? | journal=Astronomy and Astrophysics | volume=432
+| issue=2 | page=L43 | year=2005 | doi=10.1051/0004-6361:200500019 | bibcode=2005A&A...432L..43B |arxiv = astro-ph/0501662 }}</ref>
+
+<ref name=apj633>{{citation | display-authors=1 | last1=Bruntt | first1=H. | last2=Kjeldsen | first2=H. | last3=Buzasi | first3=D. L. | last4=Bedding | first4=T. R. | title=Evidence for Granulation and Oscillations in Procyon from Photometry with the WIRE Satellite | journal=The Astrophysical Journal | volume=633 | issue=1 | page=440 | year=2005 | doi=10.1086/462401 | bibcode=2005ApJ...633..440B |arxiv = astro-ph/0504469 }}</ref>
+
+<ref name=exoplaneten>{{citation | last1=Kuhlmann | first1=Christoph | last2=Requejo | first2=Xavier Dalmau | title=Spectral Type F - Procyon | work=exoplaneten.de | url=http://www.exoplaneten.de/procyon/english.html | accessdate=2010-05-01 }}</ref>
+
+<ref name=apj202>{{citation | title=Detection of X-ray emission from stellar coronae with ANS | display-authors=1 | last1=Mewe | first1=R. | last2=Heise | first2=J. | last3=Gronenschild | first3=E. H. B. M. | last4=Brinkman | first4=A. C. | last5=Schrijver | first5=J. | last6=den Boggende | first6=A. J. F. | journal=Astrophysical Journal, pt. 2 | volume=202 | date=December 1, 1975 | pages=L67–L71 | doi=10.1086/181983 | bibcode=1975ApJ...202L..67M }}</ref>
+
+<ref name=apj228_1>{{citation | display-authors=1 | last1=Schmitt | first1=J. H. M. M. | last2=Harnden | first2=F. R., Jr. | last3=Rosner | first3=R. | last4=Peres | first4=G. | last5=Serio | first5=S. | title=The X-ray corona of Procyon | journal=Astrophysical Journal, Part 1 | volume=288 | date=January 15, 1985 | pages=751–755 | doi=10.1086/162843 | bibcode=1985ApJ...288..751S }}</ref>
+
+<ref name=apj540>{{citation | display-authors=1 | last1=Giacconi | first1=R. | last2=Branduardi | first2=G. | last3=Briel | first3=U. | last4=Epstein | first4=A. | last5=Fabricant | first5=D. | last6=Feigelson | first6=E. | last7=Forman | first7=W. | last8=Gorenstein | first8=P. | last9=Grindlay | first9=J. | title=The Einstein /HEAO 2/ X-ray Observatory | journal=Astrophysical Journal | volume=230 | pages=540–550 | year=1979 | doi=10.1086/157110 | bibcode=1979ApJ...230..540G }}</ref>
+
+<ref name=mw1999>{{citation | contribution=Erigone | year=1999 | title=Merriam-Webster's encyclopedia of world religions | page=333 | editors=Wendy Doniger | publisher=Merriam-Webster | isbn=0-87779-044-2 | url=http://books.google.com/books?id=ZP_f9icf2roC&pg=PA333 }}</ref>
+
+<ref name=fotw>{{citation | first1=Ian | last1=MacDonald | date=August 9, 2009 | title=Astronomy of the Brazilian Flag | url=http://www.fotw.net/flags/br_astro.html | publisher=FOTW Flags Of The World website | accessdate=2011-11-23 }}</ref>
+
+<ref name=auwers>{{citation | title=Untersuchungen uber veranderliche eigenbewegungen | last1=Auwers | first1=Arthur | language=German | publication-place=Leipzig | publisher=W. Engelmann | year=1868 | url=http://books.google.com/books?id=F9dDAAAAYAAJ | bibcode=1868QB1.A68........ }}</ref>
+
+<ref name=aaa460_3_759>{{citation | last1=Provost | first1=J. | last2=Berthomieu | first2=G. | last3=Martić | first3=M. | last4=Morel | first4=P. | title=Asteroseismology and evolutionary status of Procyon A | journal=Astronomy and Astrophysics | volume=460 | issue=3 | pages=759–767 | month=December | year=2006 | doi=10.1051/0004-6361:20065251 | bibcode=2006A&A...460..759P }}</ref>
+
+<ref name=mnras374_1_220>{{citation | last1=Koncewicz | first1=R. | last2=Jordan | first4=C. | title=OI line emission in cool stars: calculations using partial redistribution | journal=Monthly Notices of the Royal Astronomical Society | volume=374 | issue=1 | pages=220–231 | month=January | year=2007 | doi=10.1111/j.1365-2966.2006.11130.x | bibcode=2007MNRAS.374..220K }}</ref>
+
+<ref name=Annot>{{citation | title=Annotations on LHS 33 object | work= [[SIMBAD]] | publisher=Centre de Données astronomiques de Strasbourg | url=http://cdsannotations.u-strasbg.fr/annotations/simbadObject/971564 | accessdate=2010-04-21 }}</ref>
+
+}} <!-- End: refs= -->
+
+{{Sky|07|39|18.1|+|05|13|29|11}}
+{{Nearest systems|3}}
+{{Stars of Canis Minor}}
+
+[[Category:Canis Minor]]
+[[Category:Binary stars]]
+[[Category:Bayer objects|Canis Minoris, Alpha]]
+[[Category:Flamsteed objects|Canis Minoris, 10]]
+[[Category:Henry Draper Catalogue objects|061421]]
+[[Category:HR objects|2943]]
+[[Category:Hipparcos objects|037279]]
+[[Category:Gliese and GJ objects|0280]]
+[[Category:Durchmusterung objects|BD-05 01739]]
+[[Category:White dwarf stars]]
+[[Category:F-type main sequence stars]]
+[[Category:F-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ar:الشعرى الشامية]]
+[[be:Працыён]]
+[[be-x-old:Працыён]]
+[[ca:Procyon]]
+[[cs:Prokyon]]
+[[de:Prokyon]]
+[[el:Προκύων]]
+[[es:Procyon (estrella)]]
+[[fa:شعرای شامی]]
+[[fr:Procyon]]
+[[ko:프로키온]]
+[[hi:प्रस्वा तारा]]
+[[id:Procyon]]
+[[it:Procione (astronomia)]]
+[[he:פרוקיון]]
+[[ku:Şehrayê Şamê]]
+[[la:Procyon]]
+[[lb:Procyon (Stär)]]
+[[lt:Prokionas]]
+[[hu:Procyon (csillag)]]
+[[mk:Прокион]]
+[[nl:Procyon (ster)]]
+[[ne:प्रस्वा तारा]]
+[[ja:プロキオン]]
+[[no:Procyon]]
+[[pnb:پروکیون]]
+[[nds:Prokyon]]
+[[pl:Procjon]]
+[[pt:Prócion]]
+[[ro:Procyon]]
+[[ru:Процион]]
+[[sk:Prokyón]]
+[[fi:Procyon]]
+[[sv:Procyon]]
+[[tt:Прокион]]
+[[tr:Procyon]]
+[[uk:Проціон]]
+[[vo:Procyon]]
+[[zh:南河三]]

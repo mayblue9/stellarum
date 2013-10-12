@@ -1,0 +1,139 @@
+{{About|the star|the Christian college|Alphacrucis}}
+{{Starbox begin
+| name=Acrux AB
+}}
+{{Starbox image
+| image=[[File:Acrux kstars.png|250px]]
+| caption=The position of Acrux.
+}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Crux]]
+| ra       = {{RA|12|26|35.89522}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| dec      = {{DEC|-63|05|56.7343}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| appmag_v = 0.77
+}}
+{{Starbox character
+| class    = B0.5IV + B1V<ref name=houk1979/>
+| b-v      = 
+| u-b      = 
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –11.2 / -0.6<ref name=gcsrv53/>
+| prop_mo_ra  = -35.83<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| prop_mo_dec = -14.86<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| gal_lat  = -00.3627
+| gal_lon  = 300.1266
+| parallax = 10.13
+| p_error  = 0.50
+| parallax_footnote = <ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| absmag_v = -4.14
+}}
+{{Starbox detail
+| age      = 
+| metal_fe = 
+| mass     = 14 / 10 
+| radius   = 
+| rotation = 
+| luminosity  = 25,000 
+| rotational_velocity = 124<ref name=crv21970/>
+| temperature = 28,000
+}}
+{{Starbox visbin
+| name=&alpha; Crucis Ab
+| period=0.208
+| axis=1.0 [[Astronomical unit|AU]]
+| eccentricity=0.0
+| inclination=0.0
+| node=
+| periastron=
+}}
+{{Starbox reference
+| Simbad=CCDM+J12266-6306AB
+}}
+{{Starbox end}}
+
+'''Alpha Crucis''' (α Cru, α Crucis, also '''Acrux''', HD 108248) is the brightest star in the [[constellation]] [[Crux]], the Southern Cross, and, at a combined [[visual magnitude]] 0.77,<ref name="ddarling">{{cite web |author=David Darling |title=Acrux (Alpha Crucis) |url=http://www.daviddarling.info/encyclopedia/A/Acrux.html |accessdate=2009-09-06}}</ref> is the [[list of brightest stars|twelfth brightest star]]<ref name="ddarling"/> in the night sky. Acrux is the southernmost first-magnitude star,<ref name="ddarling"/> just a bit more southerly than [[Alpha Centauri]].
+
+==Physical properties==
+Acrux is a [[multiple star]] system located 321 [[light years]] from the [[solar system]].<ref name=aaa323_L49/><ref name=aaa474_2_653/><ref name=GSM/> Only two components are visually distinguishable, α<sup>1</sup> and α<sup>2</sup>, separated by 4 [[arcsecond]]s. α<sup>1</sup> is magnitude 1.40 and α<sup>2</sup> is magnitude 2.09, both hot [[stellar classification|class B]] (almost [[stellar classification|class O]]) stars, with surface temperatures of about 28,000 and 26,000 [[Kelvin|K]] respectively. Their luminosities are 25,000 and 16,000 times that of the Sun. α<sup>1</sup> and α<sup>2</sup> orbit over such a long period that motion is only barely seen. From their minimum separation of 430 [[astronomical unit]]s, the period is at least 1,500 years, and may be much longer.
+
+α<sup>1</sup> is itself a [[spectroscopic binary]] star, with its components  thought to be around 14 and 10 times the [[Solar mass|mass of the Sun]] and orbiting in only 76 days at a separation of about 1 AU. The masses of α<sup>2</sup> and the brighter component of α<sup>1</sup> suggest that the stars will someday explode as [[supernova]]e. The fainter component of α<sup>1</sup> may survive to become a massive [[white dwarf]].
+
+Another class-B4 subgiant, Alpha Crucis C or alpha-3 Crucis, lies 90 arcseconds away from triple Acrux and shares Acrux's motion through space, suggesting it may be gravitationally bound to Acrux. It is therefore generally assumed to be physically associated with Acrux.<ref>{{cite journal|last1=Shatsky|first1=N. |last2=Tokovinin|title=The mass ratio distribution of B-type visual binaries in the Sco OB2 association|last1=A.|journal=Astronomy and Astrophysics|year=2002|volume=382|pages=92|arxiv = astro-ph/0109456 |bibcode = 2002A&A...382...92S |doi = 10.1051/0004-6361:20011542 }}</ref><ref>{{cite journal|last1=Eggleton|first1=Peter|last2=Tokovinin|first2=A. |title=A catalogue of multiplicity among bright stellar systems|journal=Monthly Notices of the Royal Astronomical Society|year=2008|volume=389|pages=869|arxiv = 0806.2878 |bibcode = 2008MNRAS.389..869E |doi = 10.1111/j.1365-2966.2008.13596.x }}</ref> It has also been suggested that Alpha Crucis C is under-luminous for its class, meaning that the system would be an optical [[double star]].<ref>{{cite web|last=Kaler|first=Jim|title=ACRUX|url=http://stars.astro.illinois.edu/sow/acrux.html|accessdate=5 August 2012}}</ref>
+
+==Etymology==
+"Acrux" is an "Americanism" for the full [[Bayer designation]] "Alpha Crucis", coined in the 19th century, but entering common use only by the mid 20th century.<ref>''Memoirs of the Rev. Walter M. Lowrie: missionary to China'' (1849), p. 93. Described as an "Americanism" in ''The Geographical Journal'', vol. 92, Royal Geographical Society, 1938.</ref>
+
+Since Acrux is at −63° declination, the southermost [[Visual magnitude|first-magnitude]] star, it is only visible south of latitude 27°N. Therefore, it barely rises from cities such as [[Miami]], [[Florida]], or [[Karachi]], [[Pakistan]] (both around 25°N) and not at all from [[New Orleans]], [[Louisiana]], or [[Cairo]], [[Egypt]] (both about 30°N).  Because of Earth's [[axial precession]], however, the star was visible to ancient Hindu astronomers in India who named it “Tri-shanku”.  It was also visible to the ancient Romans and Greeks, who regarded it to be part of the constellation [[Centaurus]].<ref>Richard Hinckley Allen, ''Star Names: Their Lore and Meaning,'' Dover Books, 1963.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|十字架}} ({{lang|zh-Latn|Shí Zì Jià}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Cross]]'', refers to an asterism consisting of α Crucis, [[Gamma Crucis|γ Crucis]], [[Beta Crucis|β Crucis]] and [[Delta Crucis|δ Crucis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Crucis itself is known as {{lang|zh|十字架二}} ({{lang|zh-Latn|Shí Zì Jià èr}}, {{lang-en|the Second Star of Cross}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_a_al.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+This star is become Estrela de Magalhães (Star of [[Fernão de Magalhães|Magalhães]]) in Portuguese.
+
+Acrux is represented in the flags of [[flag of Australia|Australia]], [[flag of New Zealand|New Zealand]] and [[flag of Papua New Guinea|Papua New Guinea]] as one of five stars which comprise the [[Southern Cross]]. It is also featured in the flag of [[Brazil]], along with 26 other stars, each of which represents a state. Acrux represents the State of [[São Paulo (state)|São Paulo]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+==Notable observations==
+
+On 2008 October 2, the [[Cassini–Huygens]] spacecraft resolved three of the components (A, B and C) of the multiple star system as [[Saturn]]'s disk occulted it.<ref>NASA/JPL/Space Science Institute. [http://saturn.jpl.nasa.gov/multimedia/images/raw/raw-images-details.cfm?feiImageID=169588 Multimedia - Images - Raw Images]. Retrieved 2008-10-21</ref><ref>[http://www.unmannedspaceflight.com/index.php?showtopic=1809&view=findpost&p=127561 Cassini &quot;Kodak Moments&quot; - Unmanned Spaceflight.com]. Retrieved 2008-10-21</ref>
+
+== References ==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=1 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1978mcts.book.....H }}</ref>
+
+<ref name=gcsrv53>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=crv21970>{{citation | last1=Uesugi | first1=Akira | last2=Fukuda | first2=Ichiro | title=Catalogue of rotational velocities of the stars | journal=Contributions from the Institute of Astrophysics and Kwasan Observatory | year=1970 | publisher=University of Kyoto | bibcode=1970crvs.book.....U }}</ref>
+
+}}
+
+==External links==
+* http://jumk.de/astronomie/big-stars/acrux.shtml
+* http://www.daviddarling.info/encyclopedia/A/Acrux.html
+* Kaler – Acrux page : http://stars.astro.illinois.edu/sow/acrux.htm
+{{Stars of Crux}}
+
+[[Category:Bayer objects|Crucis, Alpha]]
+[[Category:Binary stars]]
+[[Category:B-type main sequence stars]]
+[[Category:B-type subgiants]]
+[[Category:Crux (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Triple star systems]]
+
+[[be:Акрукс]]
+[[ca:Acrux]]
+[[cs:Acrux]]
+[[de:Acrux]]
+[[es:Ácrux]]
+[[fa:آلفا صلیب]]
+[[fr:Alpha Crucis]]
+[[ko:아크룩스]]
+[[hi:एक्रक्स तारा]]
+[[id:Acrux]]
+[[it:Acrux]]
+[[he:אקרוקס]]
+[[ku:Acrux]]
+[[lt:Akruksas]]
+[[hu:Alfa Crucis]]
+[[nl:Acrux]]
+[[ja:アクルックス]]
+[[pl:Acrux]]
+[[pt:Acrux]]
+[[ru:Акрукс]]
+[[sk:Acrux]]
+[[fi:Acrux]]
+[[tr:Acrux]]
+[[zh:十字架二]]

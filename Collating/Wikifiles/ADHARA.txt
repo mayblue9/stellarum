@@ -1,0 +1,158 @@
+{{Redirect|Adhara|the village|Adhara, Bangladesh}}
+{{Starbox begin
+ | name=ε Canis Majoris
+}}
+{{Starbox observe
+ | epoch=J2000
+ | constell=[[Canis Major]]
+ | ra={{RA|06|58|37.6}}
+ | dec={{DEC|–28|58|19}}
+ | appmag_v=1.50
+}}
+{{Starbox character
+ | class=B2 II
+ | b-v=–0.13
+ | u-b=–0.93
+ | variable=
+}}
+{{Starbox astrometry
+ | radial_v=+27.3
+ | prop_mo_ra=+2.63<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | prop_mo_dec=+2.29<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | parallax=7.57
+ | p_error=0.57
+ | parallax_footnote=<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | absmag_v=–4.11
+}}
+{{Starbox detail
+ | age_myr={{nowrap|22.5 ± 2.6}}<ref name=mnras410_1_190/>
+ | metal_fe=
+ | mass={{nowrap|12.6 ± 1.0}}<ref name=mnras410_1_190/>
+ | radius=13.9<ref name=mnras189_601/>
+ | gravity=3.31<ref name=mnras351_2_745/>
+ | rotation=
+ | luminosity=38,700<ref name=mnras351_2_745/>
+ | temperature=22,200<ref name=mnras351_2_745/>
+}}
+{{Starbox catalog |
+  names=Adhara, Adharaz, Undara, [[Bayer designation|&epsilon; CMa]], [[Flamsteed designation|21 CMa]], [[Star catalogue#ADS|ADS]]&nbsp;5654, [[Cordoba Durchmusterung|CoD]]&nbsp;-28°3666, [[Fifth Fundamental Catalogue|FK5]]&nbsp;268, [[Henry Draper catalogue|HD]]&nbsp;52089, [[Hipparcos catalogue|HIP]]&nbsp;33579, [[Harvard Revised catalogue|HR]]&nbsp;2618, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;172676.
+}}
+{{Starbox reference
+ | Simbad=HD+52089
+}}
+{{Starbox end}}
+'''Epsilon Canis Majoris''' (ε CMa, ε Canis Majoris) is the second brightest star in the [[constellation]] [[Canis Major]], and [[list of brightest stars|one of the brightest stars]] in the night sky.  It has the [[Bayer designation]] "epsilon" despite being the second brightest and not the fifth brightest star in its constellation.  It has the traditional name '''Adhara''' (sometimes spelled '''Adara'''). The name is from the Arabic word '''عذارى''' ''‘aðāra’'', "virgins". 
+
+In [[Chinese language|Chinese]], {{lang|zh|弧矢}} ({{lang|zh-Latn|Hú Shǐ}}), meaning ''[[Well (Chinese constellation)|Bow and Arrow]]'',<ref>弧矢 (Hú Shǐ) is westernized into '''Koo She'''. R.H. Allen opined that ''Koo She'' refers to the asterism including [[Delta Velorum|δ Velorum]] and [[Omega Velorum|ω Velorum]]. AEEA opinion is, δ Velorum is member of {{lang|zh|天社}} ({{lang|zh-Latn|Tiān Shè}}), meaning ''[[Well (Chinese constellation)|Celestial Earth God's Temple]]'' asterism and ω Velorum is not member of any asterisms. 天社 (Tiān Shè) is westernized into '''Tseen She''' and R.H.Allen used the term ''Tseen She'' for Chinese name of [[Eta Carinae|η Carinae]]. See [http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Argo_Navis*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Argo Navis] and {{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060717.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 17 日].</ref> refers to an asterism consisting of ε Canis Majoris, [[Delta Canis Majoris|δ Canis Majoris]], [[Eta Canis Majoris|η Canis Majoris]], [[HD 63032]], [[HD 65456]], [[Omicron Puppis|ο Puppis]], [[k Puppis]], [[Kappa Canis Majoris|κ Canis Majoris]] and [[Pi Puppis|π Puppis]]. Consequently, ε Canis Majoris itself is known as {{lang|zh|弧矢七}} ({{lang|zh-Latn|Hú Shǐ qī}}, {{lang-en|the Seventh Star of Bow and Arrow}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060717.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 17 日]</ref>
+
+In the 17th century catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Aoul al Adzari''' ('''أول ألعذاري''' - ''awwil al-aðārii''), which was translated into [[Latin]] as '''Prima Virginum''', meaning ''First of the Virgins''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref> Along with [[Delta Canis Majoris|δ CMa]] (Wezen), [[Eta Canis Majoris|η CMa]] (Aludra) and [[Omicron2 Canis Majoris|ο<sup>2</sup> CMa]] (Thanih al Adzari), these stars were '''Al ʽAdhārā''' ('''ألعذاري'''), the Virgins.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Canis_Major*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=130 }}</ref><ref>ε CMa as '''Aoul al Adzari''' or '''Prima Virginum''' (First of the Virgins), [[Omicron2 Canis Majoris|ο<sup>2</sup> CMa]] as '''Thanih al Adzari''' or '''Secunda Virginum''' (Second of the Virgins) and [[Delta Canis Majoris|δ CMa]] as '''Thalath al Adzari''' or '''Tertia Virginum'''  (Third of the Virgins). [[Eta Canis Majoris|η CMa]] should be '''Rabah al Adzari''' or '''Quarta Virginum''' (Fourth of the Virgins) consistently, but it was given by the name '''Aludra''', meaning ''Virgin'' (same meaning with Adhara (ε CMa) or ''Al ʽAdhārā'')</ref>
+
+==Properties==
+Adhara is a binary star, estimated by the [[Hipparcos]] astrometry satellite to lie about 430 light years away from Earth.<ref name=aaa323_L49/><ref name=aaa474_2_653/><ref name=GSM/> The main star possesses an [[apparent magnitude]] of +1.5 and belongs to the [[Stellar classification#Morgan-Keenan spectral classification|spectral classification]] B2. Its color is blue or blueish-white, due to the surface temperature of 22,200[[Kelvin|K]]. It emits a total radiation equal to 38,700 times that of the [[Sun]]. This star is one of the brightest known extreme ultraviolet sources in the sky.<ref>{{cite journal | 
+   author=Wilkinson, E. |
+ coauthor=Green, J. C., McLean, R., Welsh, B. | 
+    title=Extreme ultraviolet spectrum of ɛ Canis Majoris between 600-920 Å |
+  journal=Bull. American Astron. Soc. |
+     year=1996 |
+   volume=28 |
+   issue=2 |
+    month=May |
+    pages=915 |
+  bibcode=1996BAAS...28..915W}}</ref>
+It is the strongest source of photons capable of [[ionization|ionizing]] [[hydrogen]] atoms in interstellar gas near the sun, and is very important in determining the ionization state of the [[Local Interstellar Cloud]].<ref>{{cite journal | author=Vallerga, J. V. | coauthor=Welsh, B. Y. |
+    title=''Epsilon Canis Majoris'' and the ionization of the local cloud |
+  journal=Astrophys. J. |
+     year=1995 |
+   volume=444 |
+    pages=702–707 |
+      doi=10.1086/175643 |
+  bibcode=1995ApJ...444..702V
+}}</ref>
+
+The +7.5 magnitude companion star (the [[absolute magnitude]] amounts to +1.9) is at 7.5" away with a position angle of 161° of the main star. Despite the relatively large [[angular distance]] the components can only be resolved in large telescopes, since the main star is approximately 250 times brighter than its companion.
+
+A few million years ago, Adhara was much closer to the Sun than it is at present, causing it to be a much brighter star in the night sky. About 4,700,000 years ago, Adhara was 34 light years from the Sun, and was the brightest star in the sky with a magnitude of &ndash;3.99. No other star has attained this brightness [[Historical brightest stars|since]], nor will any other star attain this brightness for at least five million years.<ref>Sky and Telescope, April 1998.</ref>
+
+==Modern legacy==
+Adhara appears on the national flag of Brazil, symbolising the state of [[Tocantins (state)|Tocantins]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+Adhara also appears as a physical character in the 2007 animated film, [[Nocturna (film)|Nocturna]], as the main character Tim's favourite star. <ref>{{cite web
+|title=Nocturna (2007)
+|url=http://www.imdb.com/title/tt0836682/?licb=0.8845983202102247
+|publisher=Internet Movie Database (IMDB)
+}}</ref>
+
+==Namesakes==
+[[USS Adhara (AK-71)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==See also==
+*[[Flag of Brazil]]
+
+==References==
+{{reflist|refs=
+
+<ref name=mnras351_2_745>{{citation | last1=Lyubimkov | first1=L. S. | last2=Rostopchin | first2=S. I. | last3=Lambert | first3=D. L. | title=Surface abundances of light elements for a large sample of early B-type stars - III. An analysis of helium lines in spectra of 102 stars | journal=Monthly Notices of the Royal Astronomical Society | volume=351 | issue=2 | pages=745–767 | month=June | year=2004 | doi=10.1111/j.1365-2966.2004.07825.x | bibcode=2004MNRAS.351..745L }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+}}
+
+{{Stars of Canis Major}}
+
+[[Category:Bayer objects|Canis Majoris, Epsilon]]
+[[Category:Binary stars]]
+[[Category:B-type bright giants]]
+[[Category:Canis Major (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:العذارى (نجم)]]
+[[be:Адара]]
+[[be-x-old:Адара]]
+[[ca:Adhara]]
+[[de:Adhara]]
+[[el:Αντχάρα]]
+[[es:Adhara]]
+[[fa:اپسیلون سگ بزرگ]]
+[[fr:Epsilon Canis Majoris]]
+[[ko:아다라]]
+[[hi:ऍप्सिलन महाश्वान तारा]]
+[[id:Epsilon Canis Majoris]]
+[[it:Adhara]]
+[[he:אדרה]]
+[[lb:Adhara (Stär)]]
+[[lt:Adara]]
+[[hu:Adara]]
+[[mk:Адара]]
+[[nl:Adharaz]]
+[[ja:アダーラ]]
+[[pl:Adara]]
+[[pt:Epsilon Canis Majoris]]
+[[ru:Адара]]
+[[sk:Adara]]
+[[fi:Adhara]]
+[[tt:Газараэ]]
+[[zh:弧矢七]]

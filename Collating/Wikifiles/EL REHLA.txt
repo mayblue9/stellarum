@@ -1,0 +1,107 @@
+{{Starbox begin
+| name=Tau Puppis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Puppis IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Puppis constellation and its surroundings]]
+     <div style="position: absolute; left: 60.0%; top: 71.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of τ Puppis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|06|49|56.16846}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–50|36|52.4437}}<ref name=aaa474_2_653/>
+| appmag_v = +2.95<ref name=mnassa31_69/>
+| constell = [[Puppis]]
+}}
+{{Starbox character
+| class    = K1&nbsp;III<ref name=houk1978/>
+| b-v      = +1.20<ref name=mnassa31_69/>
+| u-b      = +1.195<ref name=mnassa31_69/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +36.4<ref name=gcrv1953/>
+| prop_mo_ra  = +34.36<ref name=aaa474_2_653/>
+| prop_mo_dec = –69.11<ref name=aaa474_2_653/>
+| parallax = 17.92
+| p_error  = 0.40
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aaa442_1_365/>
+| period_unitless = 1,066.0&nbsp;days
+| axis_unitless = {{nowrap|7.15 ± 0.25 [[milliarcsecond|mas]]}}
+| eccentricity = 0.090
+| inclination = 80.20 ± 6.10
+| node = 2.90 ± 6.20
+| periastron = 2420992.8&nbsp;HJD
+| periarg = 64.00
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 27<ref name=lang2006/>
+| luminosity  = 
+| temperature = 4,500<ref name=mnras414_1_418/>
+| gravity  = 
+| metal_fe = 
+| rotational_velocity = 2.2<ref name=aaa382_1016/>
+| age      = 
+}}
+{{Starbox catalog
+| names = τ&nbsp;Puppis, τ&nbsp;Pup, Tau&nbsp;Pup, [[Durchmusterung|CPD]]−50 &nbsp;1070, [[Fifth Fundamental Catalogue|FK5]]&nbsp;263, [[Henry Draper Catalogue|HD]]&nbsp;50310, [[Hipparcos catalogue|HIP]]&nbsp;32768; [[Bright Star Catalogue|HR]]&nbsp;2553, [[PPM Star Catalogue|PPM]]&nbsp;335509, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;234735.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Tau&nbsp;Puppis''' ('''Tau&nbsp;Pup''', '''τ&nbsp;Puppis''', '''τ&nbsp;Pup''') is a [[star]] in the southern [[constellation]] of [[Puppis]]. It has an [[apparent visual magnitude]] of +2.95<ref name=mnassa31_69/> and is located at a distance of about {{Convert|182|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/> This is a [[spectroscopic binary]] star system, with the presence of the secondary component being revealed by the shifts of [[absorption line]]s in the [[spectrum]] resulting from the [[Doppler effect]]. The two components orbit each other with a [[Orbital period|period]] of 1,066.0&nbsp;days (2.9&nbsp;years) and a low [[Orbital eccentricity|eccentricity]] of 0.090.<ref name=aaa442_1_365/>
+
+The primary component of this system has a [[stellar classification]] of K1&nbsp;III.<ref name=houk1978/> A [[luminosity class]] 'III' indicates this has expanded into a [[giant star]] after exhausting the supply of hydrogen at its core and [[stellar evolution|evolving]] away from the [[main sequence]] of stars like the Sun. The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|4.49 ± 0.07 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 27 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> It appears to be rotating slowly, with a [[stellar rotation|projected rotational velocity]] of {{nowrap|2.2&nbsp;km s<sup>–1</sup>}}.<ref name=aaa382_1016/> This gives a lower bound on the [[azimuth]]al velocity of rotation along the star's equator. Tau Puppis is radiating energy from its outer envelope at an [[effective temperature]] of around 4,500,<ref name=mnras414_1_418/> giving it the orange hue of a cool, K-type star.<ref name=csiro/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcrv1953>{{cite journal | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=mnassa31_69>{{citation | title=UBV Photometry of Some Very Bright Stars | last1=Cousins | first1=A. W. J. | journal=Monthly Notes of the Astronomical Society, Southern Africa | volume=31 | page=69 | year=1972 | bibcode=1972MNSSA..31...69C }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=2 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1978mcts.book.....H }}</ref>
+
+<ref name=aaa442_1_365>{{citation | display-authors=1 | last1=Jancart | first1=S. | last2=Jorissen | first2=A. | last3=Babusiaux | first3=C. | last4=Pourbaix | first4=D. | title=Astrometric orbits of S<sub>B^9</sub> stars | journal=Astronomy and Astrophysics | volume=442 | issue=1 | pages=365–380 | month=October | year=2005 | month=October | year=2005 | doi=10.1051/0004-6361:20053003 | bibcode=2005A&A...442..365J |arxiv = astro-ph/0507695 }}</ref>
+
+<ref name=aaa382_1016>{{citation | display-authors=1 | last1=Costa | first1=J. M. | last2=da Silva | first2=L. | last3=do Nascimento | first3=J. D., Jr. | last4=De Medeiros | first4=J. R. | title=The tidal effects on the lithium abundance of binary systems with giant component | journal=Astronomy and Astrophysics | volume=382 | pages=1016–1020 | month=February | year=2002 | doi=10.1051/0004-6361:20011676 | bibcode=2002A&A...382.1016C |arxiv = astro-ph/0111539 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 56\cdot 4.49)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 54\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=mnras414_1_418>{{citation | last1=Pérez Martínez | first1=M. Isabel | last2=Schröder | first2=K.-P. | last3=Cuntz | first3=M. | title=The basal chromospheric Mg II h+k flux of evolved stars: probing the energy dissipation of giant chromospheres | journal=Monthly Notices of the Royal Astronomical Society | volume=414 | issue=1 | pages=418–427 | month=June | year=2011 | doi=10.1111/j.1365-2966.2011.18421.x | bibcode=2011MNRAS.414..418P |arxiv = 1102.4832 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=tau Pup -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Tau+Puppis | accessdate=2012-01-25 }}</ref>
+
+}}
+
+==External links==
+* [http://www.daviddarling.info/encyclopedia/P/Pup.html EAAS: Puppis]
+
+{{Stars of Puppis}}
+[[Category:Bayer objects|Puppis, Tau]]
+[[Category:Henry Draper Catalogue objects|50310]]
+[[Category:Puppis (constellation)]]
+[[Category:K-type giants]]
+[[Category:Spectroscopic binaries]]
+
+[[es:Tau Puppis]]
+[[fa:تاو کشتی‌دم]]
+[[fr:Tau Puppis]]
+[[it:Tau Puppis]]
+[[pt:Tau Puppis]]
+[[zh:老人增一]]

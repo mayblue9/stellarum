@@ -1,0 +1,199 @@
+{{Starbox begin
+| name=Alpha Lyncis }}
+{{Starbox image
+| image = 
+ <div style="position: relative">[[File:Lynx IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Lynx constellation and its surroundings]]
+ <div style="position: absolute; left: 43px; top: 142px">[[File:Cercle rouge 100%.svg|12px]]</div>
+ </div>
+| caption=Location of α Lynx (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|09|21|03.30074}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+34|23|33.2245}}<ref name=aaa474_2_653/>
+| appmag_v = +3.13<ref name=clpl4_99/>
+| constell = [[Lynx (constellation)|Lynx]]
+}}
+{{Starbox character
+| class    = K7&nbsp;III<ref name=araa11_29/>
+| b-v      = +1.55<ref name=clpl4_99/>
+| u-b      = +1.95<ref name=clpl4_99/>
+| variable =
+}}
+{{Starbox astrometry
+| radial_v    = 37.15<ref name=aj135_1_209/>
+| prop_mo_ra  = –223.63<ref name=aaa474_2_653/>
+| prop_mo_dec = 15.18<ref name=aaa474_2_653/>
+| parallax    = 16.06
+| p_error     = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_bol  = {{nowrap|–2.32 ± 0.13}}<ref name=arXiv1010_3649/>
+}}
+{{Starbox detail
+| mass        =
+| radius      = {{nowrap|54.50 ± 3.02}}<ref name=arXiv1010_3649/>
+| luminosity  = {{nowrap|673 ± 83}}<ref name=arXiv1010_3649/>
+| gravity     = 1.5<ref name=aj135_1_209/>
+| temperature = 3,882<ref name=aj135_1_209/>
+| metal_fe    = –0.26<ref name=aj135_1_209/>
+| rotational_velocity = 6.4<ref name=aj135_1_209/>
+| age         = 
+}}
+{{Starbox catalog
+| names    = 40&nbsp;Lyncis, [[Bright Star Catalogue|HR]]&nbsp;3705, [[Henry Draper Catalogue|HD]]&nbsp;80493, [[Bonner Durchmusterung|BD]]&nbsp;+35&nbsp;1979, [[Hipparcos catalogue|HIP]]&nbsp;45860, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;61414, [[Fifth Fundamental Catalogue|FK5]] 352, NSV 4456, GC&nbsp;12880.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Alpha Lyncis''' (α Lyn, α Lyncis) is the brightest [[star]] in the northern [[constellation]] of [[Lynx (constellation)|Lynx]] with an apparent magnitude of +3.13.<ref name=clpl4_99/> Unusually, it is the only star in the constellation that has a [[Bayer designation]].<ref name=kaler/> Based upon [[parallax]] measurements, this star is located about {{Convert|203|ly|pc|abbr=off|lk=on}} from the Earth.<ref name=aaa474_2_653/>
+
+This is a [[giant star]] that has exhausted the hydrogen at its core and has evolved away from the [[main sequence]]. It has expanded to about 55 times the [[solar radius|Sun's radius]] and it is presently emitting roughly 673 times the [[solar luminosity|luminosity of the Sun]].<ref name=arXiv1010_3649/> The estimated [[effective temperature]] of the star's outer envelope is 3,882&nbsp;K,<ref name=aj135_1_209/> which is lower than the Sun's effective temperature of 5,778&nbsp;K, and is giving Alpha Lyncis an orange hue that is characteristic of K-type stars.<ref name=csiro/>
+
+Alpha Lyncis is a suspected small-amplitude red [[variable star]]<ref name=asp106_700_611/> that changes apparent magnitude from +3.17 up to +3.12.<ref name=csvs/> This variability pattern typically occurs in stars that have developed an inert carbon core surrounded by a helium-[[thermonuclear fusion|fusing]] shell, and suggests that Alpha Lyncis is starting to evolve into a [[Mira variable|Mira-type variable]].<ref name=kaler/>
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>
+{{cite journal
+ | last=van Leeuwen | first=F.
+ | year=2007
+ | title=Validation of the new Hipparcos reduction
+ | journal=[[Astronomy and Astrophysics]]
+ | volume=474 | issue=2 | pages=653–664
+ | arxiv=0708.1752
+ | bibcode=2007A&A...474..653V
+ | doi=10.1051/0004-6361:20078357
+}}</ref>
+
+<ref name=aj135_1_209>
+{{cite journal
+ | display-authors=1
+ | last1=Massarotti | first1=A.
+ | last2=Latham | first2=D. W.
+ | last3=Stefanik | first3=R. P.
+ | last4=Fogel | first4=J.
+ | year=2008
+ | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity
+ | journal=[[The Astronomical Journal]]
+ | volume=135 | issue=1 | pages=209–231
+ | bibcode=2008AJ....135..209M
+ | doi=10.1088/0004-6256/135/1/209
+}}</ref>
+
+<ref name=araa11_29>
+{{cite journal
+ | last1=Morgan | first1=W. W.
+ | last2=Keenan | first2=P. C.
+ | year=1973
+ | title=Spectral Classification
+ | journal=[[Annual Review of Astronomy and Astrophysics]]
+ | volume=11 | page=29
+ | bibcode=1973ARA&A..11...29M
+ | doi=10.1146/annurev.aa.11.090173.000333
+}}</ref>
+
+<ref name=clpl4_99>
+{{cite journal
+ | display-authors=1
+ | last1=Johnson | first1=H. L.
+ | last2=Iriarte | first2=B.
+ | last3=Mitchell | first3=R. I.
+ | last4=Wisniewskj | first4=W. Z.
+ | year=1966
+ | title=UBVRIJKL photometry of the bright stars
+ | journal=[[Communications of the Lunar and Planetary Laboratory]]
+ | volume=4 |issue=1 | page=99
+ | bibcode=1966CoLPL...4...99J
+}}</ref>
+
+<ref name=arXiv1010_3649>
+{{cite journal
+ | display-authors=1
+ | last1=Piau | first1=L.
+ | last2=Kervella | first2=P.
+ | last3=Dib | first3=S.
+ | last4=Hauschildt | first4=P.
+ | year=2010
+ | title=Surface convection and red giants radii measurements
+ | journal=[[Astronomy and Astrophysics]]
+ | volume=526 |issue= |pages=100
+ | arxiv=1010.3649
+ | bibcode=2011A&A...526A.100P
+ | doi=10.1051/0004-6361/201014442
+}} For M<sub>bol</sub>, see Table 1.</ref>
+
+<ref name=SIMBAD>{{cite simbad | title=Alpha Lyncis | accessdate=2011-12-12 }}</ref>
+
+<ref name=asp106_700_611>
+{{cite journal
+ | display-authors=1
+ | last1=Percy | first1=J. R.
+ | last2=Wong | first2=N.
+ | last3=Bohme | first3=D.
+ | last4=Curott | first4=D. R.
+ | last5=Dempsey | first5=F.
+ | last6=Fortier | first6=G. L.
+ | last7=Ganis | first7=M.
+ | last8=Parello | first8=S.
+ | last9=Landis | first9=H. J.
+ | year=1994
+ | title=Photometric surveys of suspected small-amplitude red variables. III: An AAVSO photometric photometry survey
+ | journal=[[Astronomical Society of the Pacific]]
+ | volume=106 | issue=700 | pages=611–615
+ | bibcode=1994PASP..106..611P
+ | doi=10.1086/133420
+}}</ref>
+
+<ref name=csvs>{{cite journal
+ | display-authors=1
+ | last1=Kukarkin | first1=B. V.
+ | last2=Kholopov | first2=P. N.
+ | last3=Artiukhina | first3=N. M.
+ | last4=Fedorovich | first4=V. P.
+ | last5=Frolov | first5=M. S.
+ | last6=Goranskij | first6=V. P.
+ | last7=Gorynya | first7=N. A.
+ | last8=Karitskaya | first8=E. A.
+ | last9=Kireeva | first9=N. N.
+ | year=1981
+ | title=Catalogue of suspected variable stars
+ | journal=Nachrichtenblatt der Vereinigung der Sternfreunde e.V.
+ | bibcode=1981NVS...C......0K
+}}</ref>
+
+<ref name=kaler>
+{{cite web
+ | last=Kaler | first1=J. B.
+ | date=May 11, 2005
+ | title=ALPHA LYN (Alpha Lyncis) and ALSCIAUKAT (31 Lyncis)
+ | url=http://stars.astro.illinois.edu/sow/alphalyn.html
+ | work=Stars
+ | publisher=[[University of Illinois]]
+ | accessdate=2011-12-26
+}}</ref>
+
+<ref name=csiro>
+{{cite web
+ | title=The Colour of Stars
+ | date=December 21, 2004
+ | work=Australia Telescope Outreach and Education
+ | publisher=[[Commonwealth Scientific and Industrial Research Organisation]]
+ | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html
+ | accessdate=2012-01-16
+}}</ref>
+
+}}
+
+{{Stars of Lynx}}
+[[Category:Bayer objects|Lyncis, Alpha]]
+[[Category:Lynx (constellation)]]
+
+[[es:Alfa Lyncis]]
+[[fa:آلفا سیاه‌گوش]]
+[[fr:Alpha Lyncis]]
+[[id:Alpha Lyncis]]
+[[it:Alfa Lyncis]]
+[[ja:やまねこ座アルファ星]]
+[[pt:Alpha Lyncis]]
+[[sv:Alfa Lyncis]]
+[[zh:軒轅四]]

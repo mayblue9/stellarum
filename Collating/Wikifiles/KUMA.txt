@@ -1,0 +1,100 @@
+{{Starbox begin
+| name=ν<sup>1</sup>/ν<sup>2</sup> Draconis
+}}
+{{Starbox observe 2s
+| epoch=J2000
+| component1=ν<sup>1</sup> Dra
+| component2=ν<sup>2</sup> Dra
+| ra1={{RA|17|32|10.56856}}<ref name=aaa474_2_653/>
+| ra2={{RA|17|32|16.02464}}<ref name=aaa474_2_653/>
+| dec1={{DEC|+55|11|03.2739}}<ref name=aaa474_2_653/>
+| dec2={{DEC|+55|10|22.6504}}<ref name=aaa474_2_653/>
+| appmag_v1=+4.88<ref name=clpl4_99/>
+| appmag_v2=+4.88<ref name=clpl4_99/>
+| constell=[[Draco (constellation)|Draco]]
+}}
+{{Starbox character
+| class=A6&nbsp;V<ref name=simbad_1/> + A4m<ref name=simbad_2/>
+| b-v=+0.26/+0.27<ref name=clpl4_99/>
+| u-b=+0.03/+0.04<ref name=clpl4_99/>
+| variable=
+}}
+{{Starbox astrometry
+| component1=ν<sup>1</sup> Dra
+| component2=ν<sup>2</sup> Dra
+| radial_v=–15.2<ref name=gcsrv/>
+| radial_v2=–16.0<ref name=gcsrv/>
+| prop_mo_ra=+147.39<ref name=aaa474_2_653/>
+| prop_mo_ra2=+142.65<ref name=aaa474_2_653/>
+| prop_mo_dec=+54.31<ref name=aaa474_2_653/>
+| prop_mo_dec2=+62.43<ref name=aaa474_2_653/>
+| parallax=33.06
+| parallax2=32.80
+| p_error=0.15
+| p_error2=0.18
+| parallax_footnote=<ref name=aaa474_2_653/>
+| parallax_footnote2=<ref name=aaa474_2_653/>
+| absmag_v=
+}}<!--
+-->{{Starbox detail
+| component1=ν<sup>1</sup> Dra
+| component2=ν<sup>2</sup> Dra
+| mass=
+| radius=
+| luminosity=
+| temperature=
+| metal=
+| rotation=
+| rotational_velocity=86<ref name=aaa393/>
+| rotational_velocity2=68<ref name=aaa393/>
+| gravity=
+| age=
+}}
+{{Starbox catalog
+| names=ν Draconis, ν Dra, Kuma<br>'''ν<sup>1</sup> Dra''': 24 Dra, [[Bonner Durchmusterung|BD]]+55 1944, [[Fifth Fundamental Catalogue|FK5]] 655, [[Henry Draper catalogue|HD]] 159541, [[Hipparcos catalogue|HIP]] 85819, [[Harvard Revised catalogue|HR]] 6554, [[Smithsonian Astrophysical Observatory|SAO]] 30447.<ref name=simbad_1/><br>'''ν<sup>2</sup> Dra''': 25 Dra, [[Bonner Durchmusterung|BD]]+55 1945, [[Fifth Fundamental Catalogue|FK5]] 657, [[Henry Draper catalogue|HD]] 159560, [[Hipparcos catalogue|HIP]] 85829, [[Harvard Revised catalogue|HR]] 6555, [[Smithsonian Astrophysical Observatory|SAO]] 30450.<ref name=simbad_2/>
+}}
+{{Starbox end}}
+
+'''Nu Draconis''' (also known as '''ν Dra''', '''ν Draconis''', or  '''Kuma''') is a [[double star]] in the [[constellation]] [[Draco (constellation)|Draco]]. The respective components are designated ν<sup>1</sup> Draconis and ν<sup>2</sup> Draconis. The second component is a [[spectroscopic binary]] star system.<ref name=simbad_2/>
+
+This star, along with [[Beta Draconis|β Dra]] (Rastaban), [[Gamma Draconis|γ Dra]] (Eltanin), [[Mu Draconis|μ Dra]] (Erakis) and [[Xi Draconis|ξ Dra]] (Grumium) were '''Al ʽAwāïd''', "the Mother Camels", which was later known as the '''Quinque Dromedarii'''.<ref name=allen1963/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天棓}} ({{lang|zh-Latn|Tiān Bàng}}), meaning ''[[Purple Forbidden enclosure|Celestial Flail]]'', refers to an asterism consisting of ν Draconis, [[Xi Draconis|ξ Draconis]], [[Beta Draconis|β Draconis]], [[Gamma Draconis|γ Draconis]] and [[Iota Herculis|ι Herculis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ν Draconis itself is known as {{lang|zh|天棓二}} ({{lang|zh-Latn|Tiān Bàng èr}}, {{lang-en|the Second Star of Celestial Flail}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=simbad_1>{{citation | title=24 Dra -- Star in double system | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=24+Dra | accessdate=2010-06-04 }}</ref>
+
+<ref name=simbad_2>{{citation | title=25 Dra -- Spectroscopic binary| work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=25+Dra | accessdate=2010-06-04 }}</ref>
+
+<ref name=gcsrv>{{citation | last1=Wilson | first1=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa393>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | pages=897–911  | month=October | year=2002 | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R | arxiv=astro-ph/0205255 }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=207}} </ref>
+
+}}
+
+==External links==
+* Kaler, James. [http://www.astro.uiuc.edu/~kaler/sow/kuma.html Kuma]
+
+{{Stars of Draco}}
+
+[[Category:Double stars]]
+[[Category:Draco (constellation)]]
+
+{{star-stub}}
+
+[[de:Kuma (Stern)]]
+[[es:Kuma (estrella)]]
+[[fa:نو اژدها]]
+[[id:Nu Draconis]]
+[[nl:Kuma (ster)]]
+[[pt:Nu1 Draconis]]
+[[sk:Ný Draconis]]
+[[zh:天龍座ν]]

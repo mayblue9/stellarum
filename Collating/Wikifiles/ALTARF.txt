@@ -1,0 +1,110 @@
+{{Starbox begin |
+| name=Al Tarf, β Cancri}}
+{{Starbox image |
+| image =[[Image:Cancer constellation map.png|250px]] 
+| caption = Al Tarf is the bottom right star in the "crab"
+}} 
+{{Starbox observe 
+ |epoch=J2000 
+ |ra={{RA|08|16|30.9206}}<ref name="SIMBAD">{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HR3249
+ | title =SIMBAD query result: NSV 3973 -- Variable Star 
+ | publisher =Centre de Données astronomiques de Strasbourg
+ | accessdate = 2010-02-23 }}</ref>
+ | dec={{DEC|+09|11|07.961}}<ref name="SIMBAD" />  
+ |appmag_v=3.536 <ref name="SIMBAD" />
+ |constell=[[Cancer (constellation)|Cancer
+]] }}
+{{Starbox character 
+  |class=K4III <ref name="SIMBAD" />  
+  |b-v=-1.48 <ref name="SIMBAD" />  
+  |u-b=-1.77 <ref name="SIMBAD" />  
+  |variable=? }}
+{{Starbox astrometry 
+  |radial_v=22.94 <ref name="SIMBAD" />  
+  |prop_mo_ra=-46.80 <ref name="SIMBAD" />  
+  |prop_mo_dec=−48.65 <ref name="SIMBAD" />  
+  |parallax=11.23 
+  |p_error=0.97 
+  |parallax_footnote=<ref name="SIMBAD" /> 
+  |absmag_v=-1.21}}
+
+{{Starbox detail
+| mass=
+| radius={{nowrap|48 ± 4}}<ref name=aj118_6_3032/> 
+| luminosity=660<ref name="kaler" /> 
+| temperature=4,039<ref name="aaa374" />
+| gravity=1.51<ref name="aaa374" />
+| metal=-0.12<ref name="aaa374"/>
+| rotational_velocity=8<ref name="SIMBAD" /> 
+}}
+{{Starbox catalog 
+  |names=Altarf, Al Tarf, Tarf, 17&nbsp;Cancri, [[Harvard Revised catalogue|HR]]&nbsp;3249, [[Henry Draper Catalogue|HD]]&nbsp;69267, [[Bonner Durchmusterung|BD]]+09°1917, [[Fifth Fundamental Catalogue|FK5]]&nbsp;312, [[Hipparcos catalogue|HIP]]&nbsp;40526, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;116569, GC&nbsp;11254, [[Star catalogue#ADS|ADS]]&nbsp;6704, CCDM&nbsp;08165+0911}}
+
+{{Starbox reference |
+  Simbad=HR3249 }}
+{{Starbox end}}
+
+'''Beta Cancri''' (β Cnc, β Cancri) is the brightest [[star]] in the [[constellation]] [[Cancer (constellation)|Cancer]].  It has the traditional name '''Tarf''' or '''Al Tarf''' (Altarf), certainly a derivation from [[Arabic language|Arabic]] الطرف ''aṭ-ṭarf'' "the eye" or طرفة ''aṭ-ṭarfah'' "the glance (of Leo)".  It is approximately 290 [[light years]] from [[Earth]].
+
+This is an orange [[stellar classification|K-type]] [[giant star|giant]],about 49 times the radius of the [[Sun]], with an [[apparent magnitude]] of +3.50 and [[absolute magnitude]] of -1.25 (visual).  It has a faint, fourteenth magnitude, red dwarf companion star located 29 [[arcsecond]]s away.
+
+==See also==
+* [[Lists of stars]] in the constellation [[List of stars in Cancer|Cancer]]
+* [[Stellar classification#Class K|Class K Stars]]
+* [[Barium star]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–303 | doi=10.1086/301114|bibcode = 1999AJ....118.3032N }}</ref>
+
+<ref name="aaa374">{{cite journal
+  | author=Cenarro, A. J.; Peletier, R. F., et al
+  | title=Medium-resolution Isaac Newton Telescope library of empirical spectra - II. The stellar atmospheric parameters
+  | journal=Monthly Notices of the Royal Astronomical Society
+  | year=2007
+  | volume=374| issue = 2
+  | pages=664–690
+  | format=PDF
+  | doi=10.1111/j.1365-2966.2006.11196.x
+  | bibcode=2007MNRAS.374..664C|arxiv = astro-ph/0611618 }}</ref>
+
+<ref name="kaler">{{cite web | title=AL TARF (Beta Cancri) | work=Stars | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/altarf.html | accessdate=2010-02-23 }}</ref> 
+
+}}
+
+==External links==
+Jim Kaler's Stars: [http://stars.astro.illinois.edu/sow/altarf.html Al Tarf]
+
+{{Stars of Cancer}}
+
+[[Category:Bayer objects|Cancri, Beta]]
+[[Category:Cancer (constellation)]]
+[[Category:Binary stars]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+
+{{var-star-stub}}
+{{multi-star-stub}}
+{{Binary-star-stub}}
+
+[[ar:طرف السرطان]]
+[[de:Altarf]]
+[[es:Altarf]]
+[[eu:Altarf]]
+[[fa:ازره]]
+[[fr:Beta Cancri]]
+[[id:Beta Cancri]]
+[[it:Al Tarf]]
+[[lb:Altarf (Stär)]]
+[[nl:Altarf]]
+[[ja:かに座ベータ星]]
+[[pl:Al Tarf]]
+[[pt:Beta Cancri]]
+[[ru:Бета Рака]]
+[[sk:Al Tarf]]
+[[fi:Beta Cancri]]
+[[sv:Beta Cancri]]
+[[zh:柳宿增十]]

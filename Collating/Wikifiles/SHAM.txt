@@ -1,0 +1,59 @@
+{{Starbox begin
+| name = Alpha Sagittae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagitta constellation map.svg|250px|alt=Diagram showing star positions and boundaries of the Sagitta constellation and its surroundings]]
+     <div style="position: absolute; left: 43%; top: 30.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Sagittae (circled)
+}}
+{{Starbox short |
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Sagitta]]
+| ra={{RA|19|40|05.8}}
+| dec={{DEC|+18|00|50}}
+| spectral=G1&nbsp;II<ref name=aaa352_495/>
+| appmag_v=+4.39<ref name=aaa352_495/>
+| absmag_v=&minus;1.44
+| dist_ly=620
+| dist_pc=190.184
+| names=Sham, Alsahm, α&nbsp;Sagittae, α&nbsp;Sge, Alpha&nbsp;Sge, 5&nbsp;Sagittae, [[Bonner Durchmusterung|BD]]+17°4042, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J19401+1801A, [[Boss General Catalogue|GC]]&nbsp;27215, [[Henry Draper Catalogue|HD]]&nbsp;185758, [[Hipparcos Catalogue|HIP]]&nbsp;96757, [[Bright Star Catalogue|HR]]&nbsp;7479, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;19356+1747 A, [[PPM Star Catalogue|PPM]]&nbsp;136737, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;105120, [[Washington Double Star Catalog|WDS]]&nbsp;J19401+1801A
+}}
+
+'''Alpha Sagittae''' ('''Alpha&nbsp;Sge''', '''α&nbsp;Sagittae''', '''α&nbsp;Sge''') is a [[star]] in the [[constellation]] [[Sagitta]]. It has the traditional name ''Sham'' or ''Alsahm'' which comes to us from Arabic '''سهم''' ''sahm'' and means ''Arrow'', the name formerly having been applied to the whole constellation. Alpha Sagittae is the third brightest star and is four times more massive and 340 times brighter than the Sun.<ref>{{cite web| url= http://www.topastronomer.com/StarCharts/Constellations/Sagitta.php|title=Sagitta|publisher=TopAstronomer.com |accessdate=2012-23-05}}</ref> 
+
+In [[Chinese language|Chinese]], {{lang|zh|左旗}} ({{lang|zh-Latn|Zuǒ Qí}}), meaning ''[[Ox (Chinese constellation)|Left Flag]]'', refers to an asterism consisting of α Sagittae, [[Beta Sagittae|β Sagittae]], [[Delta Sagittae|δ Sagittae]], [[Zeta Sagittae|ζ Sagittae]], [[Gamma Sagittae|γ Sagittae]], [[13 Sagittae]], [[11 Sagittae]], [[14 Sagittae]] and [[Rho Aquilae|ρ Aquilae]]. Consequently, α Sagittae itself is known as {{lang|zh|左旗一}} ({{lang|zh-Latn|Zuǒ Qí yī}}, {{lang-en|the First Star of Left Flag}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060703.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 3 日]</ref>
+
+α Sge is a yellow bright giant star of [[apparent magnitude]] +4.37 and [[stellar classification|spectral class]] G1 II about 475 [[light year]]s from Earth. It has a [[luminosity]] 340 times that of the [[Sun]] with a surface [[temperature]] of 5,333&nbsp;[[kelvin|K]].<ref name=aaa352_495/> The star's radius is roughly 20 times solar while its mass is 4 times the [[solar mass]].
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/sham.html Sham]
+
+{{Stars of Sagitta}}
+
+[[Category:Bayer objects|Sagittae, Alpha]]
+[[Category:Sagitta (constellation)]]
+[[Category:G-type bright giants]]
+[[Category:Stars with proper names]]
+
+[[ca:Alfa de la Sageta]]
+[[cs:Sham]]
+[[de:Alpha Sagittae]]
+[[es:Sham (estrella)]]
+[[fa:آلفا تیر]]
+[[fr:Alpha Sagittae]]
+[[lb:Sham (Stär)]]
+[[nl:Sham]]
+[[pt:Alpha Sagittae]]
+[[ru:Альфа Стрелы]]
+[[sk:Sham]]
+[[sv:Alpha Sagittae]]

@@ -1,0 +1,65 @@
+{{Starbox begin
+| name=δ Librae }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|15|51|09.0}}
+| dec={{DEC|&minus;08|31|08.0}}
+| appmag_v=4.43
+| constell=[[Libra (constellation)|Libra]] }}
+{{Starbox character
+| class=B9.5V
+| b-v=
+| u-b=
+| variable=[[Eclipsing binary]] }}
+{{Starbox astrometry
+| radial_v=
+| prop_mo_ra=
+| prop_mo_dec=
+| parallax=
+| p_error=
+| parallax_footnote=
+| dist_ly=300
+| dist_pc=
+| absmag_v= }}
+{{Starbox catalog
+| names=Zuben Elakribi }}
+{{Starbox end}}
+
+'''Delta Librae''' (δ Librae, δ Lib) is a [[variable star]] in the [[constellation]] [[Libra (constellation)|Libra]].  It has the proper name '''Zuben Elakribi'''.<ref>[[Antonín Bečvář|Bečvář, A.]], ''Atlas Coeli II Atlas Coeli II- Catalog'', Ceskoslovenské Akademie Ved, [[Prague|Praha]],1959.</ref>  With [[Mu Virginis|μ Vir]] it forms one of the [[Akkadian]] [[:ja:月宿#シュメール|lunar mansion]]s ''Mulu-izi''<ref>{{cite book
+  |author= [[Richard Hinckley Allen|Allen, R. H.]],
+  |year = 1963
+  |title = [[Star Names: Their Lore and Meaning]]
+  |edition = [[Reprint|rep]].
+  |publisher = [[Dover Publications]] Inc.
+  |location = [[New York City|New York]], [[New York|NY]]
+  |page = }}pp. 277, 473.
+</ref> (meaning "Man-of-fire"<ref>Brown Jr., R., (1891). "Remarks on the Euphratean Astronomical Names of the Signs of the Zodiac", ''Proceedings of the Society of Biblical Archaeology'', vo. 13, p. 194.</ref>).
+
+δ Lib is approximately 300 [[light year]]s from the [[Earth]] and belongs to the [[Stellar classification|spectral class]] B9.5V.  It is an [[eclipsing binary]] star, with a period of 2.3272 days. Its [[apparent magnitude]] varies from 4.43<sup>m</sup> to 5.81<sup>m</sup>. 
+
+Along with [[Lambda Tauri|λ Tau]], it was one of the first stars on which 
+rotational line broadening<ref name="test">Schlesinger, F., (1909). [http://adsabs.harvard.edu/abs/1911MNRAS..71..719S "Rotation of Stars about their Axes"], ''Monthly Notices of the Royal Astronomical Society'', Vol. 71, p.719.</ref> was observed, by [[Frank Schlesinger]] in 1911.
+
+==References==
+{{Reflist}}
+
+{{Stars of Libra}}
+
+[[Category:Libra (constellation)]]
+[[Category:Bayer objects|Librae, Delta]]
+[[Category:Stars with proper names]]
+
+[[de:Zuben-el-Akribi]]
+[[es:Delta Librae]]
+[[fa:دلتا ترازو]]
+[[fr:Delta Librae]]
+[[id:Delta Librae]]
+[[it:Delta Librae]]
+[[lb:Zuben-el-Akribi (Stär)]]
+[[nl:Zuben Elakribi]]
+[[ja:てんびん座デルタ星]]
+[[pt:Delta Librae]]
+[[ru:Дельта Весов]]
+[[sk:Zubenelakribi]]
+[[tr:Delta Libra]]
+[[zh:天秤座ζ]]

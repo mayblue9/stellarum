@@ -1,0 +1,146 @@
+{{Starbox begin
+| name = Alpha Columbae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Columba IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Columba constellation and its surroundings]]
+     <div style="position: absolute; left: 55.2%; top: 33.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Columbae (circled)
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Columba (constellation)|Columba]]
+| ra = {{RA|05|39|38.94103}}<ref name=aaa474_2_653/>
+| dec = {{DEC|−34|04|26.7950}}<ref name=aaa474_2_653/>
+| appmag_v=2.645<ref name=mnassa31_69/>
+}}
+{{Starbox character
+| class = B7&nbsp;IV<ref name=houk1979/>
+| u-b = −0.44<ref name=mnassa31_69/>
+| b-v = −0.125<ref name=mnassa31_69/>
+| r-i = −0.09<ref name=bsc1 />
+}}
+{{Starbox astrometry
+| radial_v = +35.0<ref name=gcsrv/>
+| prop_mo_ra = −1.58<ref name=aaa474_2_653/>
+| prop_mo_dec = −24.82<ref name=aaa474_2_653/>
+| parallax = 12.48
+| p_error = 0.36
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v= 
+}}
+{{Starbox detail
+| radius = 5.8<ref name=aaa505_2_687/>
+| mass= 4.5<ref name=kaler />
+| temperature=12,963<ref name=aaa505_2_687/>
+| gravity=3.73<ref name=aaa505_2_687/>
+| luminosity_bolometric=1,000<ref name=kaler />
+| rotational_velocity=176<ref name=aaa489_2_627/>
+| age_myr=
+}}
+{{Starbox catalog
+| names=Alpha&nbsp;Columbae, α&nbsp;Col, [[Catalogue of Components of Double and Multiple Stars|CCDM]]&nbsp;J05396−3404 A, [[Durchmusterung|CD]]−34&nbsp;2375, [[Durchmusterung|CPD]]−34&nbsp;703, [[Fifth Fundamental Catalogue|FK5]]&nbsp;215, [[Boss General Catalogue|GC]]&nbsp;7078, [[Henry Draper Catalogue|HD]]&nbsp;37795, [[Hipparcos Catalogue|HIP]]&nbsp;26634, [[Bright Star Catalogue|HR]]&nbsp;1956, [[New Catalogue of Suspected Variable Stars|NSV]] 2549, [[PPM Star Catalogue|PPM]]&nbsp;281732, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;196059.<ref name=sb0 />
+}}
+{{Starbox reference
+| Simbad=alft+col
+}}
+{{Starbox end}}
+
+'''Alpha Columbae''' (α Columbae, α Col) is the [[Bayer designation]] for a third [[magnitude (astronomy)|magnitude]] [[star]] in the southern [[constellation]] of [[Columba (constellation)|Columba]]. It has the traditional name of '''Phact''', which is derived from the [[Arabic language|Arabic]] term for "[[Barbary Dove|ring dove]]". It has an [[apparent visual magnitude]] of 2.6,<ref name=mnassa31_69/> making it the brightest member of Columba. Based upon [[parallax]] measurements made during the [[Hipparcos]] mission, Alpha Columbae is located at a distance of around {{Convert|261|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+== Properties ==
+This is believed to be a solitary star,<ref name=mnras389_2_869/><ref name=aaa489_2_627/> although it has a faint optical companion at an [[angular separation]] of 13.5 arcseconds, making it a [[double star]].<ref name=dommanget_nys2002/> The [[stellar classification]] of Alpha Columbae is B7&nbsp;IV,<ref name=houk1979/> with the [[luminosity class]] of IV indicating it has [[stellar evolution|evolved]] into a [[subgiant star]]. The [[spectrum]] shows it to be a [[Be star]] surrounded by a hot gaseous disk, which is generating [[emission line]]s because of [[Plasma recombination|hydrogen recombination]].<ref name=bsc2/> Like most if not all such stars, it is rotating rapidly with a [[projected rotational velocity]] of {{nowrap|176 km s<sup>–1</sup>}}. The [[azimuth]]al equatorial velocity may be {{nowrap|457 km s<sup>–1</sup>}}.<ref name=aaa489_2_627/> It is a suspected [[Gamma Cassiopeiae]] type (GCAS) [[variable star]], with its [[apparent magnitude]] varying from 2.62<sup>m</sup> to 2.66<sup>m</sup>.
+
+== Etymology ==
+The proper name "Phact" (also ''Phad'', ''Phaet'', ''Phakt''<ref name=bsc2 />) derived from the Arabic '''ألفاجتة''' - ''fākh(i)tah'' <nowiki>[</nowiki>fa:x(i)ta<nowiki>]</nowiki> which meaning "[[Barbary Dove|ring dove]]".  It was originally applied to the constellation [[Cygnus (constellation)|Cygnus]] as ''al-Fākhtah'', but later transferred  to this star.<ref>{{cite book
+  |author= Davis, Jr., G. A.,
+  |year = 1971
+  |title = Pronunciations, Derivations, and Meanings of a Selected List of Star Names
+  |edition = [[Reprint|rep]].
+  |publisher = [[New Track Media#Sky Publishing|Sky Pub. Corp]]
+  |location = [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts|MA]]
+  |page = 11}}</ref><ref>{{cite book
+  |author= Kunitzsch, P.,
+  |year = 1959
+  |title = Arabische Sternnamen in Europa
+  |publisher = [[Otto Harrassowitz]]
+  |location = [[Wiesbaden]]
+  |pages = 191–192}}</ref><ref>{{cite book
+  |author= Laffitte, R.,
+  |year = 2005
+  |title = Héritages arabes: Des noms arabes pour les étoiles
+  |edition = 2<sup>éme</sup> revue et corrigée
+  |publisher = Librairie Orientaliste Paul Geunthner / Les Cahiers de l'Orient
+  |location = [[Paris]]
+  |page = 223}}</ref><ref>{{cite book
+  |author= Kunitzsch, P., & Smart, T.,
+  |year = 2006
+  |title = A Dictionary of Modern star Names: A Short Guide to 254 Star Names and Their Derivations
+  |edition = 2nd rev.
+  |publisher = [[New Track Media#Sky Publishing|Sky Pub]]
+  |location = [[Cambridge, Massachusetts|Cambridge, MA]]
+  |isbn = 978-1-931559-44-7
+  |page = 30}}</ref>  The etymology of its name ''<u>h</u>a<u>d</u>āri'' (unknown meaning)<ref>{{cite book
+  |author= [[Richard Hinckley Allen|Allen, R. H.]],
+  |year = 1963
+  |title = [[Star Names: Their Lore and Meaning]]
+  |edition = [[Reprint|rep]].
+  |publisher = [[Dover Publications]] Inc.
+  |location = [[New York City|New York]], [[New York|NY]]
+  |isbn = 0-486-21079-0
+  |page = 167}}</ref> has also been suggested.
+
+In [[Chinese language|Chinese]], {{lang|zh|丈人}} ({{lang|zh-Latn|Zhàng Rén}}), meaning ''[[Well (Chinese constellation)|Grandfather]]'', refers to an asterism consisting of α Columbae and [[Epsilon Columbae|ε Columbae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Columbae itself is known as {{lang|zh|天囷一}} ({{lang|zh-Latn|Zhàng Rén yī}}, {{lang-en|the First Star of Grandfather}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> From this Chinese name, the name '''Chang Jin''' was appeared<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Columba_Noae*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Columbae]</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa505_2_687>{{citation | last1=Meilland | first1=A. | last2=Stee | first2=Ph. | last3=Chesneau | first3=O. | last4=Jones | first4=C. | title=VLTI/MIDI observations of 7 classical Be stars | journal=Astronomy and Astrophysics | volume=505 | issue=2 | pages=687–693 | month=October | year=2009 | doi=10.1051/0004-6361/200911960 | bibcode=2009A&A...505..687M |arxiv = 0908.1239 }}</ref>
+
+<ref name=mnassa31_69>{{citation | title=UBV Photometry of Some Very Bright Stars | last1=Cousins | first1=A. W. J. | journal=Monthly Notes of the Astronomical Society, Southern Africa | volume=31 | page=69 | year=1972 | bibcode=1972MNSSA..31...69C }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982MSS...C03....0H }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=aaa489_2_627>{{citation | display-authors=1 | last1=Oudmaijer | first1=R. D. | last2=Parr | first2=A. M. | last3=Baines | first3=D. | last4=Porter | first4=J. M. | title=Sub-milliarcsecond precision spectro-astrometry of Be stars | journal=Astronomy and Astrophysics | volume=489 | issue=2 | pages=627–631 | month=October | year=2008 | doi=10.1051/0004-6361:20079117 | bibcode=2008A&A...489..627O |arxiv = 0807.3673 }}</ref>
+
+<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/phact.html Jim Kaler: ''Phact'' - STARS].  Accessed on line April 21, 2009.</ref>
+
+<ref name=sb0>{{SIMBAD link|alf+col|<nowiki>*</nowiki> alf&nbsp;Col&nbsp;--&nbsp;Be&nbsp;Star}}, database entry, [[SIMBAD]].  Accessed on line April 21, 2009.</ref>
+
+<ref name=bsc1>[http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%201956 HR 1956], database entry, ''The Bright Star Catalogue'', 5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line April 21, 2009.</ref>
+
+<ref name=dommanget_nys2002>[http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J05396-3404 CCDM&nbsp;J05396-3404], database entry, J. Dommanget and O. Nys (2002) ''Catalogue of the Components of Double and Multiple Stars'',  Accessed on line April 21, 2009.</ref>
+
+<ref name=bsc2>[http://vizier.u-strasbg.fr/viz-bin/VizieR?-6N&-out.form=H0&//*&-source%3DV/50/notes&HR%3D1956 Note of HR 1956], database entry, ''The Bright Star Catalogue'', 5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line April 21, 2009.</ref>
+
+}}
+<!--[http://edu.kde.org/kstars KStars Astronomical Database]-->
+{{Stars of Columba}}
+
+[[Category:Bayer objects|Columbae, Alpha]]
+[[Category:B-type subgiants]]
+[[Category:Columba (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:فاخثة (نجم)]]
+[[de:Phakt]]
+[[es:Phact]]
+[[fa:آلفا کبوتر]]
+[[fr:Alpha Columbae]]
+[[id:Alpha Columbae]]
+[[it:Phakt]]
+[[nl:Phact]]
+[[ja:ファクト (恒星)]]
+[[pt:Alpha Columbae]]
+[[ro:Alpha Columbae]]
+[[ru:Альфа Голубя]]
+[[sk:Phact]]
+[[zh:丈人一]]

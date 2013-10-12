@@ -1,0 +1,47 @@
+{{unreferenced|date=December 2009}}
+{{Starbox short |
+ name=κ¹ Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=04<sup>h</sup> 25<sup>m</sup> 22.1<sup>s</sup> |
+ dec=+22° 17' 38" |
+ spectral=A7IV-V |
+ appmag_v=+4.21 |
+ dist_ly=148 ± 4 |
+ dist_pc=46 ± 1 |
+ names=65&nbsp;Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1387, [[Henry Draper Catalogue|HD]]&nbsp;27934, [[Star catalogue#BD/CD/CPD|BD]]+21&nbsp;642, [[Hipparcos catalogue|HIP]]&nbsp;20635, [[Star catalogue#SAO|SAO]]&nbsp;76601, GC&nbsp;5350, [[Star catalogue#ADS|ADS]]&nbsp;3201, CCDM&nbsp;04254+2215
+}}
+{{Starbox short |
+ name=κ² Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=04<sup>h</sup> 25<sup>m</sup> 25.0<sup>s</sup> |
+ dec=+22° 11' 59" |
+ spectral=A7V |
+ appmag_v=+5.27 |
+ dist_ly=148 ± 4 |
+ dist_pc=46 ± 1 |
+ names=67 Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1388, [[Henry Draper Catalogue|HD]]&nbsp;27946, [[Star catalogue#BD/CD/CPD|BD]]+21&nbsp;643, [[Hipparcos catalogue|HIP]]&nbsp;20641, [[Star catalogue#SAO|SAO]]&nbsp;76602, GC&nbsp;5351, [[Star catalogue#ADS|ADS]]&nbsp;3201, CCDM&nbsp;04254+2215
+}}
+'''Kappa Tauri''' (κ Tau, κ Tauri) is a [[star system]] in the [[constellation]] [[Taurus (constellation)|Taurus]] and a member of the [[Hyades (star cluster)|Hyades]] [[star cluster|open cluster]].  It is approximately 153 [[light years]] from [[Earth]].
+
+The system is dominated by a visual [[double star]], '''κ¹ Tauri''' and '''κ² Tauri'''.  κ¹ Tauri is a white [[stellar classification|A-type]] [[subgiant]] with an [[apparent magnitude]] of +4.21.  κ² Tauri is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +5.27.  They are 5.8 [[arcminute]]s, or at least a quarter [[light year]] apart.
+
+Between the two bright stars is a [[binary star]] made up of two 9th magnitude stars, '''Kappa Tauri C''' and '''Kappa Tauri D''', which are 5.3 [[arcsecond]]s from each other and 183 arcseconds from κ¹ Tau.  Two more 12th magnitude companions fill out the star system, '''Kappa Tauri E''', which is 136 arcseconds from κ¹ Tau, and '''Kappa Tauri F''', 340 arcseconds away from κ² Tau.
+
+{{Stars of Taurus}}
+
+[[Category:Bayer objects|Tauri, Kappa]]
+[[Category:Taurus (constellation)]]
+[[Category:Multiple star systems|6]]
+[[Category:A-type subgiants]]
+[[Category:A-type main sequence stars]]
+[[Category:Hyades (star cluster)]]
+
+{{Subgiant-star-stub}}
+
+[[es:Kappa Tauri]]
+[[fa:کاپا گاو]]
+[[it:Kappa Tauri]]
+[[pt:Kappa1 Tauri]]
+[[zh:金牛座κ]]

@@ -1,0 +1,113 @@
+{{Starbox begin
+ | name=Tau Sagittarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 44.9%; top: 41.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of τ Sagittarii (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|19|06|56.40897}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–27|40|13.5189}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.326<ref name=aaass22_9/>
+ | constell = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+ | class    = K1&nbsp;III<ref name=aj132_1_161/>
+ | b-v      = +1.170<ref name=aaass22_9/>
+ | u-b      = +1.185<ref name=aaass22_9/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +45.4<ref name=gcsrv/>
+ | prop_mo_ra  = –50.61<ref name=aaa474_2_653/>
+ | prop_mo_dec = -249.80<ref name=aaa474_2_653/>
+ | parallax = 26.82
+ | p_error  = 0.86
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 
+ | radius   = 16<ref name=lang2006/>
+ | metal_fe = –0.23<ref name=mnras256_3_535/>
+ | gravity  = 2.75<ref name=mnras256_3_535/>
+ | age_myr  = 
+ | luminosity = 
+ | temperature = 4,860<ref name=mnras256_3_535/>
+ | rotational_velocity = 
+}}
+{{Starbox catalog
+ | names = τ&nbsp;Sagittarii, τ&nbsp;Sgr, Tau&nbsp;Sgr, 40&nbsp;Sagittarii, [[Durchmusterung|CPD]]-27 &nbsp;6617, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1496, [[Boss General Catalogue|GC]]&nbsp;26291, [[Henry Draper Catalogue|HD]]&nbsp;177716, [[Hipparcos|HIP]]&nbsp;93864, [[Bright Star Catalogue|HR]]&nbsp;7234, [[PPM Star Catalogue|PPM]]&nbsp;269078, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;269319.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Tau Sagittarii''' ('''Tau&nbsp;Sgr''', '''τ&nbsp;Sagittarii''', '''τ&nbsp;Sgr''') is a [[star]] in the southern [[zodiac]] [[constellation]] of [[Sagittarius (constellation)|Sagittarius]]. With an [[apparent visual magnitude]] of +3.3,<ref name=aaass22_9/> this is one of the brighter members of the constellation. The distance of this star from Earth is roughly {{Convert|122|ly|pc|abbr=off|lk=on}}, based upon [[parallax]] measurements.<ref name=aaa474_2_653/>
+
+This is a [[stellar classification|spectral type]] K1 [[giant star]] with 1.5 - 2 Solar masses. The stellar envelope is slightly cooler than the Sun, with an [[effective temperature]] of 4,860&nbsp;K,<ref name=mnras256_3_535/> giving the star a light orange color. The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|3.93 ± 0.04 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 16 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> Tau Sagittarii is a suspected double star although no companion has been confirmed yet. A lower metal content (Fe to H ratio is 70%) and a high [[peculiar velocity]] (64&nbsp;km/s, 4x the local average) relative to the Sun suggest the star is a visitor from a different part of the Galaxy.
+
+Tau Sagittarii is the closest visible star in the night sky to the origin of the 1977 [[Wow! signal]], the only radio signal that has been received that may be a sign of extraterrestrial intelligence. The location of the signal was, in ([[epoch (astronomy)|epoch]] J2000.0 coordinates:
+
+* [[Right ascension]] (on the positive horn): {{RA|19|25|31 ± 10}}
+* [[Right ascension]] (on the negative horn): {{RA|19|28|22 ± 10}}
+* [[Declination]] (the same for both horns):  {{DEC|–26|57 ± 20}}
+
+==Name and etymology==
+*This star, together with :
+**[[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]], [[Epsilon Sagittarii|ε Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Lambda Sagittarii|λ Sgr]], [[Sigma Sagittarii|σ Sgr]] and [[Phi Sagittarii|φ Sgr]], consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+**[[Phi Sagittarii|φ Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Chi Sagittarii|χ Sgr]] and [[Sigma Sagittarii|σ Sgr]] were ''Al Naʽām al Ṣādirah'' (النعم السادرة), the Returning Ostriches.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref> According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Al Naʽām al Ṣādirah'' or '''Namalsadirah''' was originally the title for four stars: [[Phi Sagittarii|φ Sgr]] as ''Namalsadirah I'', τ Sgr as ''Namalsadirah II'', [[Chi1 Sagittarii|χ<sup>1</sup> Sgr]] as ''Namalsadirah III'' and [[Chi2 Sagittarii|χ<sup>2</sup> Sgr]] as ''Namalsadirah IV'' (except [[Sigma Sagittarii|σ Sgr]] and [[Zeta Sagittarii|ζ Sgr]]).<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+**[[Nu Sagittarii|ν Sgr]], [[Psi Sagittarii|ψ Sgr]], [[Omega Sagittarii|ω Sgr]], [[60 Sagittarii|60 Sgr]] and [[Zeta Sagittarii|ζ Sgr]] were ''Al Udḥiyy'', the Ostrich's Nest.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|斗}} ({{lang|zh-Latn|Dǒu}}), meaning ''[[Dipper (Chinese constellation)|Dipper]]'', refers to an asterism consisting of τ Sagittarii, [[Phi Sagittarii|φ Sagittarii]], [[Lambda Sagittarii|λ Sagittarii]], [[Mu Sagittarii|μ Sagittarii]], [[Sigma Sagittarii|σ Sagittarii]] and [[Zeta Sagittarii|ζ Sagittarii]]. Consequently, σ Sagittarii itself is known as {{lang|zh|斗宿五}} ({{lang|zh-Latn|Dǒu Sù wu}}, {{lang-en|the Fifth Star of Dipper}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=mnras256_3_535>{{citation | display-authors=1 | last1=Jones | first1=K. L. | last2=Robinson | first2=R. D. | last3=Slee | first3=O. B. | last4=Stewart | first4=R. T. | title=Spectroscopic investigation of cool giants and the authenticity of their reported microwave emission | journal=Monthly Notices of the Royal Astronomical Society | volume=256 | issue=3 | pages=535–544 | month=June | year=1992 | bibcode=1992MNRAS.256..535J }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: spectroscopy of stars earlier than M0 within 40 pc-The Southern Sample | journal=[[The Astronomical Journal]] | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=aaass22_9>{{citation | last1=Celis S. | first1=L. | title=Photoelectric photometry of late-type variable stars | journal=Astronomy and Astrophysics Supplement Series | volume=22 | pages=9–17 | month=October | year=1975 | bibcode1975A&AS...22....9C |bibcode = 1975A&AS...22....9C }}</ref>
+
+<ref name=SIMBAD>{{citation | title=HD 177716 -- High proper-motion Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Tau+Sagittarii | accessdate=2012-02-12 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 37\cdot 3.93)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 31.3\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Tau]]
+[[Category:Sagittarius (constellation)]]
+[[Category:K-type giants]]
+
+[[es:Tau Sagittarii]]
+[[fa:تاو کمان]]
+[[fr:Tau Sagittarii]]
+[[pt:Tau Sagittarii]]
+[[zh:斗宿五]]

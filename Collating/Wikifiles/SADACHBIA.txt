@@ -1,0 +1,110 @@
+{{Starbox begin
+ | name = Gamma Aquarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aquarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquarius constellation and its surroundings]]
+     <div style="position: absolute; left: 45.5%; top: 30.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of γ Aquarii (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|22|21|39.37542}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|–01|23|14.4031}}<ref name=aaa474_2_653/>
+ | appmag_v    = 3.849<ref name=saaoc8_59/>
+ | constell    = [[Aquarius (constellation)|Aquarius]]
+}}
+{{Starbox character
+ | class       = A0&nbsp;V<ref name=aj74_375/>
+ | b-v         = –0.060<ref name=saaoc8_59/>
+ | u-b         = –0.092<ref name=saaoc8_59/>
+ | variable    = 
+}}
+{{Starbox astrometry
+ | radial_v    = –15<ref name=gcsrv/>
+ | prop_mo_ra  = +129.53<ref name=aaa474_2_653/>
+ | prop_mo_dec = +7.77<ref name=aaa474_2_653/>
+ | parallax    = 19.92
+ | p_error     = 1.04
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    =
+}}
+{{Starbox detail
+ | mass        = 
+ | radius      = 
+ | luminosity  = 
+ | gravity     = 4.0<ref name=apj155_537/>
+ | temperature = 10,500<ref name=apj155_537/>
+ | metal_fe    = +0.30<ref name=apj155_537/>
+ | rotational_velocity = 80<ref name=aaa463_2_671/>
+ | age_gyr     = 
+}}
+{{Starbox catalog
+ | names=Sadalachbia, Sadachbia, 48&nbsp;Aquarii, [[Star catalogue#ADS|ADS]]&nbsp;15864, [[Star catalogue#BD.2FCD.2FCPD|BD]]-02°5741, [[FK5]]&nbsp;842, [[Henry Draper Catalogue|HD]]&nbsp;212061, [[Hipparcos catalogue|HIP]]&nbsp;110395, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;8518, [[Star catalogue#SAO|SAO]]&nbsp;146044.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Gamma Aquarii''' (γ Aqr, γ Aquarii) is the [[Bayer designation]] for a star in the [[constellation]] [[Aquarius (constellation)|Aquarius]]. It has the traditional name '''Sadachbia''', from an Arabic expression سعد الأخبية ''sa‘d al-’axbiyah'' "luck of the homes (tents)" in Hindu system it is also called Sadhabhisk in devnagari, sadhayam in tamil. This star has an [[apparent visual magnitude]] of 3.849,<ref name=saaoc8_59/> making it one of the [[List of stars in Aquarius|brighter members]] of the constellation. Based upon [[parallax]] measurements, this star is located at a distance of roughly {{Convert|164|ly|pc|abbr=off|lk=on}} from the Sun, with an error margin of 5%.<ref name=aaa474_2_653/>
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Aoul al Achbiya''' ('''أول ألأجبية''' - ''awwil al ahbiyah''), which was translated into [[Latin]] as '''Prima Tabernaculorum''', meaning ''the first of luck of the homes (tents)''.<ref name=mnras55_429/> This star, along with [[Pi Aquarii|π Aqr]] (Seat), [[Zeta Aquarii|ζ Aqr]] (Sadaltager / Achr al Achbiya) and [[Eta Aquarii|η Aqr]] (Hydria), were '''al Aḣbiyah''' ('''الأخبية'''), the Tent.<ref name=pa52_3_12/><re name=allen1963f/><ref>γ Aqr as '''Aoul al Achbiya''' or '''Prima Tabernaculorum''' (the first of luck of the homes or tents), [[Pi Aquarii|π Aqr]] as '''Wasat al Achbiya''' or '''Media Tabernaculorum''' (the middle of luck of the homes or tents) and [[Zeta Aquarii|ζ Aqr]] as '''Achr al Achbiya''' or '''Postrema Tabernaculorum'''  (the end of luck of the homes or tents). [[Eta Aquarii|η Aqr]] should be designated  as '''al Achbiya''' consistently, but it was not designated as the [[Arabian]] name except the name '''Hydria''' ([[Greek language|Greek]]) or '''Deli''' ([[Hebrew]]) </ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|墳墓}} ({{lang|zh-Latn|Fén Mù}}), meaning ''[[Rooftop (Chinese constellation)|Tomb]]'', refers to an asterism consisting of γ Aquarii, [[Zeta Aquarii|ζ Aquarii]], [[Eta Aquarii|η Aquarii]], [[Pi Aquarii|π Aquarii]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Aquarii itself is known as {{lang|zh|墳墓二}} ({{lang|zh-Latn|Fén Mù èr}}, {{lang-en|the Second Star of Tomb}}).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_s.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Gamma Aquarii is an [[A-type main sequence star]] with a [[stellar classification]] of A0&nbsp;V,<ref name=aj74_375/> making it both larger and more massive than the Sun. It is a candidate [[Lambda Boötis star]], suggesting it may have accreted low-[[metallicity]] circumstellar gas some time in the past.<ref name=mnras269_1_209/> It is spinning relatively rapidly with a [[projected rotational velocity]] of {{nowrap|80 km s<sup>–1</sup>}}.<ref name=aaa463_2_671/> This value gives a lower bound on the actual [[azimuth]]al velocity along the star's equator. The [[stellar atmosphere|outer atmosphere]] of Gamma Aquarii is radiating energy at an [[effective temperature]] of 10,500&nbsp;K,<ref name=apj155_537/> which is nearly double the temperature at the surface of the Sun. This heat is what gives Gamma Aquarii the white-hot glow of an [[A-type star]].<ref name=csiro/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C | postscript=. }}</ref>
+
+<ref name=apj155_537>{{citation | last1=Baschek | first1=Bodo | last2=Searle | first2=Leonard | title=The Chemical Composition of the Lambda Bootis Stars | journal=Astrophysical Journal | volume=155 | page=537 | month=February | year=1969 | doi=10.1086/149890 | bibcode=1969ApJ...155..537B | postscript=. }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... | postscript=. }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R | arxiv=astro-ph/0610785 | postscript=. }}</ref>
+
+<ref name=saaoc8_59>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=South African Astronomical Observatory Circulars | volume=8 | page=59 | year=1984 | bibcode=1984SAAOC...8...59C | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=gam Aqr -- Star in double system  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Aquarii | postscript=. }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 | postscript=. }}</ref>
+
+<ref name=mnras269_1_209>{{citation | last1=King | first1=J. R. | title=Accretion from Circumstellar Discs and the Lambda-Bootis Phenomenon | journal=Monthly Notices of the Royal Astronomical Society | volume=269 | issue=1 | page=209 | month=July | year=1994 | bibcode=1994MNRAS.269..209K | postscript=. }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K | postscript=. }}</ref>
+
+<re name=allen1963f>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Aquarius*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=52 | postscript=. }}</ref>
+
+<ref name=pa52_3_12>{{citation | last1=Davis Jr. | first1=G. A. | bibcode=1944PA.....52....8D | title=The Pronunciations, Derivations, and Meanings of a Selected List of Star Names | journal=Popular Astronomy | volume=52 | issue=3 | month=October | year=1944 | page=12 }}</ref>
+
+}}
+
+==External links==
+* http://aladin.u-strasbg.fr/AladinPreview?-c=22+21+39.3754-01+23+14.393&ident=*+gam+Aqr&
+
+{{Stars of Aquarius}}
+
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Aquarius (constellation)]]
+[[Category:Bayer objects|Aquarii, Gamma]]
+[[Category:Flamsteed objects|Aquarii, 48]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+[[Category:Lambda Boötis stars]]
+
+[[ar:سعد الأخبية]]
+[[ca:Gamma Aquarii]]
+[[de:Sadachbia]]
+[[es:Sadachbia]]
+[[fa:سعدالاخبیه]]
+[[fr:Gamma Aquarii]]
+[[ko:물병자리 감마]]
+[[id:Gamma Aquarii]]
+[[it:Sadachbia]]
+[[lb:Sadachbia (Stär)]]
+[[pt:Gamma Aquarii]]
+[[sk:Sadachbia]]
+[[zh:宝瓶座γ]]

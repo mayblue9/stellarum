@@ -1,0 +1,114 @@
+{{Starbox begin
+ | name     = Iota Ursae Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 71.6%; top: 39.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ι Ursae Majoris (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|08|59|12.45362}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+48|02|30.5741}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.14<ref name=clpl4/>/10.1/10.3
+ | constell = [[Ursa Major]]
+}}
+{{Starbox character
+| class     = A7&nbsp;IV<ref name=aj77_35/> + dM1 J
+| b-v       = +0.19<ref name=clpl4/>
+| u-b       = +0.08<ref name=clpl4/>
+| variable  = Suspected
+}}
+{{Starbox astrometry
+ | radial_v = +9.0<ref name=rgcrv/>
+ | prop_mo_ra  = -441.29<ref name=aaa474_2_653/>
+ | prop_mo_dec = -215.32<ref name=aaa474_2_653/>
+ | parallax = 68.92
+ | p_error  = 0.16
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | component1 = ι UMa A
+ | mass     = 
+ | radius   = 
+ | gravity  = 
+ | metal_fe = 
+ | age_myr  = 620<ref name=apj653_1_675/>
+ | luminosity  = 
+ | temperature = 
+ | rotational_velocity = 154<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+ | names=Talitha, Talitha Borealis, Alphikra Borealis, ι&nbsp;Ursae Majoris, ι&nbsp;UMa, Iota&nbsp;UMa, 9&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+48&nbsp;1707, [[Fifth Fundamental Catalogue|FK5]]&nbsp;335, [[Boss General Catalogue|GC]]&nbsp;12407, [[Henry Draper catalogue|HD]]&nbsp;76644, [[Hipparcos catalogue|HIP]]&nbsp;44127, [[Bright Star Catalogue|HR]]&nbsp;3569, [[PPM Star Catalogue|PPM]]&nbsp;50941, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;42630, [[Washington Double Star Catalog|WDS]]&nbsp;J08592+4803A,BC.<ref name=simbad/>
+}}
+{{Starbox end}}
+
+'''Iota Ursae Majoris''' ('''Iota&nbsp;UMa''', '''ι&nbsp;Ursae Majoris''', '''ι&nbsp;UMa''') is a [[star system]] in the northern [[circumpolar constellation]] of [[Ursa Major]]. It has an [[apparent visual magnitude]] of 3.14,<ref name=clpl4/> making it visible to the naked eye and placing it among the brighter members of this constellation. Based upon [[parallax]] measurements, it is located at a distance of {{Convert|47.3|ly|pc|abbr=off|lk=on}} from Earth. It has the traditional names '''Talitha''', '''Talitha Borealis''' and '''Alphikra Borealis''', and was also dubbed '''Dnoces''' ("Second," backwards) after [[Edward Higgins White|Edward H. White II]], an [[Apollo 1]] astronaut. The name was invented by his fellow astronaut [[Gus Grissom]] as a practical joke.<ref name=apollo15/>
+
+The Iota Ursae Majoris system is composed of two [[binary star]]s. The brightest component is a white [[stellar classification|A-type]] [[subgiant]]. It is a [[spectroscopic binary]] whose components have an orbital period of 4028 days. The companion binary is composed of the 9th magnitude and 10th magnitude stars. These two stars orbit around each other with a period of 39.7 years, and are separated by roughly 0.7 [[arcsecond]]s, or at least 10 [[Astronomical Unit|AU]]. This pair may be the source of the X-ray emission detected from this system.<ref name=mnras415_1_854/>
+
+The two binary systems orbit around each other once every 818 years. The apparent separation between the two binaries is rapidly decreasing as they follow their orbits. In 1841 when the B component was first discovered, they had a separation of 10.7 [[arcsecond]]s, or at least 156 AU. By 1971 their separation had decreased to 4.5 [[arcsecond]]s, or at least 66 AU. This system appears to be dynamically unstable with a high likelihood and may become disrupted on a time scale [[on the order of]] 10<sup>5</sup>&nbsp;years.<ref name=ar50_1_62/>
+
+==Name and etymology==
+*The traditional name ''Talitha''' (share with [[Kappa Ursae Majoris|κ UMa]]) comes from the Arabic phrase  {{transl|ar|''Al Fiḳrah al Thalitha''}} "the third spring, or leap, of the ghazal".<ref name=rhallen1899>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen :Star Names — Their Lore and Meaning - Ursa Major, the Greater Bear]</ref> The term ''Borealis'' meaning "the north side" in [[Latin]].
+*In [[Chinese language|Chinese]], {{lang|zh|三台}} ({{lang|zh-Latn|Sān Tái}}), meaning ''[[Purple Forbidden enclosure|Three Steps]]'', refers to an asterism consisting of ι Ursae Majoris, [[Kappa Ursae Majoris|κ Ursae Majoris]], [[Lambda Ursae Majoris|λ Ursae Majoris]], [[Mu Ursae Majoris|μ Ursae Majoris]], [[Nu Ursae Majoris|ν Ursae Majoris]] and [[Xi Ursae Majoris|ξ Ursae Majoris]]. Consequently, ι Ursae Majoris itself is known as {{lang|zh|三台一}} ({{lang|zh-Latn|Sān Tái yī}}, {{lang-en|the First Star of Three Steps}}) and {{lang|zh|上台一}} ({{lang|zh-Latn|Shàng Tái yī}}, {{lang-en|Star of First Upper Step}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060621.html (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 21 日]</ref>
+
+==See also==
+* [[Gamma Velorum]], informally named ''Regor'' for astronaut [[Roger B. Chaffee]]
+* [[Gamma Cassiopeiae]], informally named ''Navi'' for astronaut [[Gus Grissom|Virgil Ivan "Gus" Grissom]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj77_35>{{citation | last1=Morgan | first1=W. W. | last2=Abt | first2=H. A. | title=The spectral classification of the F stars of intermediate luminosity | journal=Astronomical Journal | volume=77 | pages=35–37 | month=February | year=1972 | doi=10.1086/111242 | bibcode=1972AJ.....77...35M }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=simbad>{{cite web | title=iot UMa -- Spectroscopic binary  | work=SIMBAD Astronomical Object Database  | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Iota+Ursae+Majoris | accessdate=2012-02-25 }}</ref>
+
+<ref name=apollo15>{{citation | title=Apollo 15 Lunar Surface Journal | url=http://history.nasa.gov/alsj/a15/a15.postland.html | contribution=Post-landing Activities | publisher=NASA }}. Commentary at 105:11:33.</ref>
+
+<ref name=mnras415_1_854>{{citation | display-authors=1 | last1=De Rosa | first1=R. J. | last2=Bulger | first2=J. | last3=Patience | first3=J. | last4=Leland | first4=B. | last5=Macintosh | first5=B. | last6=Schneider | first6=A. | last7=Song | first7=I. | last8=Marois | first8=C. | last9=Graham | first9=J. R. | title=The Volume-limited A-Star (VAST) survey - I. Companions and the unexpected X-ray detection of B6-A7 stars | journal=Monthly Notices of the Royal Astronomical Society | volume=415 | issue=1 | pages=854–866 | month=July | year=2011 | doi=10.1111/j.1365-2966.2011.18765.x | bibcode=2011MNRAS.415..854D |arxiv = 1103.4363 }}</ref>
+
+<ref name=ar50_1_62>{{citation | last1=Zhuchkov | first1=R. Ya. | last2=Orlov | first2=V. V. | last3=Rubinov | first3=A. V. | title=Dynamical stability of the quadruple systems HD 68255/6/7 and HD 76644 | journal=Astronomy Reports | volume=50 | issue=1 | pages=62–67 | month=January | year=2006 | doi=10.1134/S1063772906010070 | bibcode=2006ARep...50...62Z }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+}}
+
+==External links==
+*[http://www.space.com/spacewatch/star_names_030829.html NightSky Friday: Rotanev, Derf, Navi, and other Backward Star Names] – [[Space.com]] article
+* [http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00680.htm ARICNS]
+* [http://www.astro.uiuc.edu/~kaler/sow/talitha.html Talitha] by Professor Jim Kaler.
+
+{{Nearest bright star systems|5.}}
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Iota]]
+[[Category:Multiple star systems|4]]
+[[Category:Ursa Major (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[ar:القفزة الثالث الشمالي]]
+[[de:Iota Ursae Majoris]]
+[[es:Talitha Borealis]]
+[[fa:ثالثه شمالی]]
+[[fr:Iota Ursae Majoris]]
+[[it:Talitha Borealis]]
+[[nl:Talitha (ster)]]
+[[pl:Jota Ursae Majoris]]
+[[pt:Iota Ursae Majoris]]
+[[ru:Талита Северная]]
+[[sk:Talitha Borealis]]
+[[zh:大熊座ι]]

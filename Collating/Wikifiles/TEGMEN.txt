@@ -1,0 +1,76 @@
+{{Starbox short |
+| name=ζ Cancri A/B/C
+| epoch=[[J2000.0]]
+| constell=[[Cancer (constellation)|Cancer]]
+| ra={{RA|08|12|12.7}}
+| dec={{DEC|+17|38|52}}
+| spectral={{nowrap|F7V + F9V + G0V}}
+| appmag_v=+5.58/+5.99/+6.12
+| dist_ly=83.4 ± 2.9
+| dist_pc=25.6 ± 0.9
+| names=Tegmen, Tegmine, 16&nbsp;Cancri, [[Harvard Revised catalogue|HR]]&nbsp;3208/3209/3210, [[Henry Draper Catalogue|HD]]&nbsp;68257/68255/68256, [[Bonner Durchmusterung|BD]]+18°1867, [[Hipparcos catalogue|HIP]]&nbsp;40167, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;97645/97646, GC&nbsp;11142/11141, [[Star catalogue#ADS|ADS]]&nbsp;6650, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J08123+1738, [[Washington Double Star Catalog|WDS]]&nbsp;08122+1739
+}}
+'''Zeta Cancri''' (ζ Cnc, ζ Cancri) is a [[star system]] in the [[constellation]] [[Cancer (constellation)|Cancer]] containing at least four stars.  It has the traditional name '''Tegmine''' (Tegmen) "the shell (of the crab)".  The star system is approximately 83.4 [[light year]]s from [[Earth]], and has a combined [[apparent magnitude]] of +4.67. Since ζ Cancri is near the [[ecliptic]], it can be [[occultation|occulted]] by the [[Moon]] and, very rarely, by [[planet]]s.
+
+In [[Chinese language|Chinese]], {{lang|zh|水位}} ({{lang|zh-Latn|Shuǐ Wèi}}), meaning ''[[Well (Chinese constellation)|Water Level]]'', refers to an asterism consisting of ζ Cancri, [[6 Canis Minoris]], [[11 Canis Minoris]] and [[8 Cancri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ζ Cancri itself is known as {{lang|zh|水位四}} ({{lang|zh-Latn|Shuǐ Wèi sì}}, {{lang-en|the Fourth Star of Water Level}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Components==
+The ζ Cancri system contains two binary pairs, '''ζ¹ Cancri''' and '''ζ² Cancri''', which are 5.06 [[arcsecond]]s apart. These two binary star systems orbit around their common centre of mass once every 1100 years.
+
+ζ Cancri can be resolved as a double star in small telescopes. The double nature of ζ Cancri was discovered in 1756 by [[Johann Tobias Mayer]]. It was discovered to be a triple star in 1781 by [[William Herschel]] when he resolved the two components that make up ζ¹ Cancri. As early as 1831, [[John Herschel]] noticed perturbations in ζ² Cancri's orbit around ζ¹ Cancri.  This led [[Otto Wilhelm von Struve]], in 1871, to postulate a fourth, unseen, component which orbited closely the visible member of ζ² Cancri.<ref name="obs"/> Later observations have resolved this fourth component and have indicated that there may be one or two more unobserved components.<ref name=pasp112_772/><ref name=aa364_225/>
+
+The components of ζ¹ Cancri are denoted '''ζ Cancri A''' and '''ζ Cancri B'''. They are both yellow-white [[main sequence|main sequence dwarfs]] of [[stellar classification|spectral class]] F. The [[apparent magnitude]] the two stars are +5.58 and +5.99, respectively.  The two stars are separated, as of 2008, by 1 [[arcsecond]], requiring a large telescope to resolve them, but this separation will increase until the year 2020. They complete one orbit every 59.6 years.<ref name="Mason"/> The estimated masses for the pair are 1.28 and 1.18 [[solar mass]]es, respectively.
+
+The components of ζ² Cancri are denoted '''ζ Cancri C''' and '''ζ Cancri D'''.  ζ Cancri C is the brighter of the pair, having an apparent magnitude of +6.12. It appears to be a yellow [[stellar classification|G-type]] star, often reported as G5V, but now thought to be earlier, probably G0V. This star has around 1.15 [[solar mass]]es.<ref name=mnras384_1_173/> The tenth magnitude ζ Cancri D has the color of a [[red dwarf]], and may in fact be a close pair of two red dwarfs. The separation between C and D is approximately 0.3 [[arcsecond]]s, and their orbital period is 17 years.
+
+==Identification==
+Considerable confusion has developed concerning the catalogue identities of the three bright stars. Correct correspondences were worked out by Griffin:<ref name="obs"/>
+
+{| class="wikitable"
+! Component !! [[Harvard Revised catalogue|HR]] !! [[Henry Draper Catalogue|HD]] !! [[Smithsonian Astrophysical Observatory catalogue|SAO]] !! [[Hipparcos catalogue|HIP]]
+|-
+| ζ Cancri A || 3208 || 68257 || rowspan="2" | 97645 || rowspan="3" | 40167
+|-
+| ζ Cancri B || 3209 || 68256
+|-
+| ζ Cancri C || 3210 || 68255 || 97646
+|}
+
+==References==
+{{reflist|refs=
+
+<ref name=mnras384_1_173>{{citation | last1=Fuhrmann | first1=Klaus | title=Nearby stars of the Galactic disc and halo - IV | journal=Monthly Notices of the Royal Astronomical Society | volume=384 | issue=1 | pages=173–224 | month=February | year=2008 | doi=10.1111/j.1365-2966.2007.12671.x | bibcode=2008MNRAS.384..173F }}</ref>
+
+<ref name="Mason">{{cite journal | url=http://www.iop.org/EJ/article/1538-3881/132/5/2219/205407.html | author=Mason ''et al.'' | title=Speckle Interferometry at the US Naval Observatory. XII. | journal=The [[astronomical Journal]] | volume=132 | issue=5 | pages=2219–2230 | year=2006 | bibcode=2006AJ....132.2219M | doi=10.1086/508231 | last2=Hartkopf | first2=William I. | last3=Wycoff | first3=Gary L. | last4=Holdenried | first4=Ellis R.}}</ref>
+
+<ref name="obs">{{cite journal | last1=Griffin | first1=R. F. | title=Spectroscopic Binary Orbits from Photoelectrical Radial Velocities: Paper 150: ζ Cancri C | journal=The Observatory | year=2000 | volume=120 | pages=1–47 | bibcode=2000Obs...120....1G }}</ref>
+
+<ref name=pasp112_772>{{cite journal | last1=Hutchings | first1=J. B. | last2=Griffin | first2=R. F. | last3=Menard | first3=F. | title=Direct observation of the fourth star in the Zeta Cancri system | journal=Publications of the Astronomical Society of the Pacific | year=2000 | volume=112 | issue=772 | pages=833–836 | arxiv=astro-ph/0004284 | doi=10.1086/316587 | format=abstract |bibcode = 2000PASP..112..833H }}</ref>
+
+<ref name=aa364_225>{{cite journal | last1=Richichi | first1=A. | title=An Investigation of the multiple star Zet Cnc by a lunar occultation | journal=Astronomy & Astrophysics | year=2000 | volume=364 | pages=225–231 | bibcode=2000A&A...364..225R }}</ref>
+
+}}
+
+{{Stars of Cancer}}
+
+[[Category:Cancer (constellation)]]
+[[Category:Bayer objects|Cancri, Zeta]]
+[[Category:Flamsteed objects|Cancri, 16]]
+[[Category:Multiple star systems|4]]
+[[Category:F-type main sequence stars]]
+[[Category:G-type main sequence stars]]
+[[Category:M-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Zeta Cancri]]
+[[es:Tegmine]]
+[[eu:Tegmine]]
+[[fa:زتا خرچنگ]]
+[[id:Zeta Cancri]]
+[[it:Zeta Cancri]]
+[[nl:Tegmine]]
+[[ja:かに座ゼータ星]]
+[[pt:Zeta Cancri]]
+[[sk:Tegmine]]
+[[fi:Zeta Cancri]]
+[[sv:Zeta Cancri]]

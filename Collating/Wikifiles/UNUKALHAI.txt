@@ -1,0 +1,119 @@
+{{Starbox begin
+| name=Alpha Serpentis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Serpens_Caput_IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Serpens constellation and its surroundings]]
+     <div style="position: absolute; left: 45.2%; top: 50.6%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Serpentis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|15|44|16.07431}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+06|25|32.2633}}<ref name=aaa474_2_653/>
+| appmag_v = 2.623<ref name=sps1966/>
+| constell = [[Serpens]]
+}}
+{{Starbox character
+| class    = K2&nbsp;III
+| b-v      = +1.167<ref name=sps1966/>
+| u-b      = +1.248<ref name=sps1966/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +2.63<ref name=aaa430_165/>
+| prop_mo_ra  = +133.84<ref name=aaa474_2_653/>
+| prop_mo_dec = +44.81<ref name=aaa474_2_653/>
+| parallax = 44.10
+| p_error  = 0.19
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|+0.88 ± 0.03}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 12<ref name=lang2006/>
+| luminosity  = 70<ref name=kaler/>
+| temperature = 4,498<ref name=aj135_1_209/>
+| gravity  = 2.5<ref name=aj135_1_209/>
+| metal_fe = 0.03<ref name=aj135_1_209/>
+| rotational_velocity = 4.3<ref name=aj135_1_209/>
+| age_myr  = 
+}}
+{{Starbox catalog
+| names = Unukalhai, Cor Serpentis, 24&nbsp;Serpentis, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5854, [[Henry Draper Catalogue|HD]]&nbsp;140573, [[Star catalogue#SAO|SAO]]&nbsp;121157, [[Hipparcos|HIP]]&nbsp;77070, [[Star catalogue#ADS|ADS]]&nbsp;9765, CCDM&nbsp;15442+0626.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Alpha Serpentis''' (α Serpentis, α Ser) is a [[double star]] in the head (Serpens Caput) of the equatorial [[constellation]] [[Serpens]]. It has the traditional name '''Unukalhai'''. With an [[apparent visual magnitude]] of 2.6,<ref name=sps1966/> this star is the brightest in the constellation and it can be viewed with the naked eye from most of the [[Earth]]. [[Parallax]] measurements yield an estimated distance of about {{Convert|74|ly|pc|abbr=off|lk=on}} from [[Earth]].
+
+==Properties==
+Alpha Serpentis is a [[giant star]] with a [[stellar classification]] of K2&nbsp;III, having consumed the hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|4.85 ± 0.05 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 12 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> The [[effective temperature]] of the outer envelope is 4,498&nbsp;K,<ref name=aj135_1_209/> giving it an orange hue that is characteristic of a K-type star.<ref name=csiro/>
+
+This star is radiating about 38 times the [[solar luminosity|luminosity of the Sun]], while a further 32 times the Sun's luminosity is being emitted in the [[infrared]], for 70-fold total.<ref name=kaler/> A magnitude +11.8 companion is at an [[angular separation]] of 58&nbsp;[[arcsecond]]s from Alpha Serpentis, while a 13th magnitude star lies 2.3 [[arcminute]]s distant.
+
+==Etymology==
+Alpha Serpentis has the proper names '''Unukalhai''',<ref>Also spelt '''Unuk al Hay''' or '''Unuk Elhaija'''.</ref> from the [[Arabic language|Arabic]] عنق الحية  ''‘Unuq al-Ħayyah'' "[[Serpens|the Serpent]]'s Neck", and '''Cor Serpentis''' from the [[Latin]] "the Heart of the Serpent".  It was a member of the indigenous Arabic [[Asterism (astronomy)|asterism]] ''al-Nasaq al-Yamānī'', "the Southern Line" of ''al-Nasaqān'' "the Two Lines".<ref name=kunitzsch_smart2006/> It was a member of indigenous Arabic [[Asterism (astronomy)|asterism]] '''al-Nasaq al-Yamānī''', "the Southern Line" of ''al-Nasaqān'' "the Two Lines".,<ref name=kunitzsch_smart2006/> along with [[Delta Serpentis|δ Ser]] (Qin, Tsin), [[Epsilon Serpentis|ε Ser]] (Ba, Pa), [[Delta Ophiuchi|δ Oph]] (Yed Prior), [[Epsilon Ophiuchi|ε Oph]] (Yed Posterior), [[Zeta Ophiuchi|ζ Oph]] (Han) and [[Gamma Ophiuchi|γ Oph]] (Tsung Ching).<ref name=allen1963/>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''al-Nasaq al-Yamānī'' or '''Nasak Yamani''' were the title for two stars :[[Delta Serpentis|δ Ser]] as ''Nasak Yamani I'' and [[Epsilon Serpentis|ε Ser]] as ''Nasak Yamani II'' (exclude this star, [[Delta Ophiuchi|δ Oph]], [[Epsilon Ophiuchi|ε Oph]], [[Zeta Ophiuchi|ζ Oph]] and [[Gamma Ophiuchi|γ Oph]])<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市右垣}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán}}), meaning ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of α Serpentis, [[Beta Herculis|β Herculis]], [[Gamma Herculis|γ Herculis]], [[Kappa Herculis|κ Herculis]], [[Gamma Serpentis|γ Serpentis]], [[Beta Serpentis|β Serpentis]], [[Delta Serpentis|δ Serpentis]], [[Epsilon Serpentis|ε Serpentis]], [[Delta Ophiuchi|δ Ophiuchi]], [[Epsilon Ophiuchi|ε Ophiuchi]] and [[Zeta Ophiuchi|ζ Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Serpentis itself is known as {{lang|zh|天市右垣七}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán qī}}, {{lang-en|the Seventh Star of Right Wall of Heavenly Market Enclosure}}), represent the state '''[[Shu (state)|Shu]]''' (蜀) (or '''Shuh''')<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>(together with [[Lambda Serpentis|λ Ser]] in R.H.Allen's works).<ref name=allen1963/>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=SIMBAD>{{citation | title=UNUKALHAI -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Beta+Pyx | accessdate=2012-01-11 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 22.7\cdot 4.85)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 23.7\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=UNUKALHAI (Alpha Serpentis) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/unukalhai.html | accessdate=2012-01-11 }}</ref>
+
+<ref name=kunitzsch_smart2006>{{citation | last1=Kunitzsch | first1=P. | last2=Smart | first2=T., | year=2006 | title=A Dictionary of Modern Star names: A Short Guide to 254 Star names and Their Derivations | edition=Second Revised | publisher=Sky Publishing | location=Cambridge, MA | isbn=1-931559-44-9 | page=31 }}</ref>
+
+<ref name=allen1963>{{citation  | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hercules*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=243 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+
+
+{{Stars of Serpens}}
+
+[[Category:Bayer objects|Serpentis, Alpha]]
+[[Category:Serpens (constellation)]]
+[[Category:Triple star systems]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:عنق الحية]]
+[[de:Unukalhai]]
+[[et:Unuk]]
+[[el:Ουνουκαλχάι]]
+[[es:Unukalhai]]
+[[eo:Alfo Serpenta]]
+[[fa:عنق‌الحیه]]
+[[fr:Alpha Serpentis]]
+[[it:Alfa Serpentis]]
+[[lb:Unuk (Stär)]]
+[[nl:Unukalhai]]
+[[ja:へび座アルファ星]]
+[[pt:Alpha Serpentis]]
+[[sk:Unuk]]
+[[zh:天市右垣七]]

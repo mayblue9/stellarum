@@ -1,0 +1,127 @@
+{{Starbox begin
+| name=Saiph
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Orion IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Orion constellation and its surroundings]]
+     <div style="position: absolute; left: 39.4%; top: 66.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of Saiph (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|05|47|45.38884}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|-09|40|10.5777}}<ref name=aaa474_2_653/>
+| appmag_v = 2.09<ref name=aj76_1058/>
+| constell = [[Orion (constellation)|Orion]]
+}}
+{{Starbox character
+| class    = B0.5&nbsp;Iab:<ref name=SIMBAD/>
+| b-v      = –0.18<ref name=aj76_1058/>
+| u-b      = –1.02<ref name=aj76_1058/>
+| variable = Slightly<ref name=aaa507_2_11411201/>
+}}
+{{Starbox astrometry
+| radial_v = +20.5<ref name=scfs/>
+| prop_mo_ra  = +1.46<ref name=aaa474_2_653/>
+| prop_mo_dec = –1.28<ref name=aaa474_2_653/>
+| parallax = 5.04
+| p_error  = 0.22
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = –6.1<ref name=aaa446_1_279/>
+}}
+{{Starbox detail
+| mass     = {{nowrap|15.50 ± 1.25}}<ref name=an331_4_349/>
+| radius   = 22.2<ref name=aaa446_1_279/>
+| luminosity  = 56,881<ref name=an331_4_349/>
+| temperature = 26,500<ref name=aaa446_1_279/>
+| gravity  = 2.9<ref name=aaa446_1_279/>
+| metal_fe = 
+| rotational_velocity = 83<ref name=aaa446_1_279/>
+| age_myr  = {{nowrap|11.1 ± 0.5}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names = κ Orionis, 53&nbsp;Orionis, 141 G. Orionis, [[Bonner Durchmusterung|BD]]–09&nbsp;1235, [[FK5]]&nbsp;220, [[Henry Draper catalogue|HD]]&nbsp;38771, [[Hipparcos catalogue|HIP]]&nbsp;27366, [[Harvard Revised catalogue|HR]]&nbsp;2004, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;132542.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Saiph''' (κ Orionis, 53 Orionis) is the sixth-brightest [[star]] in the [[constellation]] of [[Orion (constellation)|Orion]]. Of the four bright stars that compose Orion's main quadrangle, it is the star at the south-eastern corner. A northern-hemisphere observer facing south would see it at the lower left of Orion, and a southern-hemisphere observer facing north would see it at the upper right. The name ''Saiph'' is from the [[Arabic language|Arabic]] ''saif al jabbar'', 'سیف الجبّار' literally ''[[saif|sword]] of the [[giant (mythology)|giant]]''.<ref name=kaler/> This name was originally applied to [[Eta Orionis]].
+
+In the 17th century catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated ''Rekbah al Jauza al Yemeniat'', which was translated into [[Latin]] as ''Genu Dextrum Gigantis'' "right knee of the giant".<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+With an [[apparent visual magnitude]] of 2.1,<ref name=aj76_1058/> [[parallax]] measurements yield an estimated distance of 650&nbsp;[[light-year]]s (198&nbsp;[[parsec]]s) from Earth, which is about the same as [[Rigel]].<ref name=aaa474_2_653/> It has a lower visual magnitude than Rigel because, although it is a much hotter star with a surface temperature of 26,500&nbsp;K,<ref name=aaa446_1_279/> it emits most of its energy in the [[ultraviolet]] region of the [[spectrum]], invisible to the human eye, making it appear relatively dimmer.<ref name=kaler/> The luminosity of this star changes slightly, varying by 0.04 magnitudes.<ref name=aaa507_2_11411201/>
+
+Compared to the Sun this is an enormous star, with 14–17 times the mass and over 22 times the radius. It has a [[stellar classification]] of B0.5&nbsp;Iab:.<ref name=SIMBAD/> The [[luminosity class]] 'Iab' represents a [[supergiant star]] that has exhausted the supply of hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. However, the ':' indicates some uncertainty in the spectral value. Saiph has a strong [[stellar wind]] and is losing mass at the rate of {{nowrap|9.0 × 10<sup>–7</sup>}} times the mass of the Sun per year, or the equivalent of the Sun's mass every 1.1 million years.<ref name=aaa446_1_279/> Large stars such as Saiph (and many other stars in Orion) are destined to collapse on themselves and explode as [[Type II supernova]]e.<ref name=kaler/>
+
+==Cultural significance==
+The [[Wardaman people]] of northern Australia know Saiph as the Guman digging stick, used to make a canyon by Black-headed Python.<ref>{{cite book  | last1 = Harney  | first1 = Bill Yidumduma 
+  | last2 = Cairns  | first2 = Hugh C.  | title = Dark Sparklers  | publisher = Hugh C. Cairns  | location = Merimbula, New South Wales
+|page=139  | year = 2004  | origyear = 2003  | edition = Revised  | isbn = 0-9750908-0-1}}</ref>
+
+==References==
+{{reflist | refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaa446_1_279>{{citation | last1=Crowther | first1=P. A. | last2=Lennon | first2=D. J. | last3=Walborn | first3=N. R. | title=Physical parameters and wind properties of galactic early B supergiants | journal=Astronomy and Astrophysics | volume=446 | issue=1 | pages=279–293 | month=January | year=2006 | doi=10.1051/0004-6361:20053685 | bibcode=2006A&A...446..279C |arxiv = astro-ph/0509436 }}</ref>
+
+<ref name=aj76_1058>{{citation  | last1=Crawford | first1=D. L. | last2=Barnes | first2=J. V. | last3=Golson | first3=J. C. | title=Four-color, H-beta, and UBV photometry for bright B-type stars in the northern hemisphere | journal=The Astronomical Journal | year=1971 | pages=1058 | volume=76 | bibcode=1971AJ.....76.1058C | doi=10.1086/111220 }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=SAIPH -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Kappa+Orionis | accessdate=2012-01-12 }}</ref>
+
+<ref name=aaa507_2_11411201>{{citation | display-authors=1 | last1=Lefèvre | first1=L. | last2=Marchenko | first2=S. V. | last3=Moffat | first3=A. F. J. | last4=Acker | first4=A. | title=A systematic study of variability among OB-stars based on HIPPARCOS photometry | journal=Astronomy and Astrophysics | volume=507 | issue=2 | pages=11411201 | month=November | year=2009 | doi=10.1051/0004-6361/200912304 | bibcode=2009A&A...507.1141L }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | title=SAIPH (Kappa Orionis) | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/saiph.html | accessdate=2012-01-27 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+==External links==
+* [http://www.daviddarling.info/encyclopedia/S/Saiph.html Saiph (Kappa Orionis)]
+
+{{Stars of Orion}}
+{{Sky|05|47|45.4|-|09|40|11|800}}
+
+[[Category:Bayer objects|Orionis, Kappa]]
+[[Category:B-type giants]]
+[[Category:Flamsteed objects|Orionis, 53]]
+[[Category:Henry Draper Catalogue objects|038771]]
+[[Category:Orion (constellation)]]
+[[Category:Variable stars]]
+[[Category:Stars with proper names]]
+
+[[ar:سيف (نجم)]]
+[[bn:কার্তবীর্য]]
+[[ca:Saiph]]
+[[de:Saiph]]
+[[es:Saiph]]
+[[fa:کاپا شکارچی]]
+[[fr:Kappa Orionis]]
+[[ko:오리온자리 카파]]
+[[hi:कापा ओरायोनिस तारा]]
+[[id:Kappa Orionis]]
+[[it:Saiph]]
+[[he:סיף (כוכב)]]
+[[lb:Saiph (Stär)]]
+[[nl:Saiph]]
+[[ja:サイフ (恒星)]]
+[[no:Saiph]]
+[[pnb:سیف]]
+[[nds:Saiph]]
+[[pl:Saif (gwiazda)]]
+[[pt:Saiph]]
+[[ru:Саиф]]
+[[sk:Saiph]]
+[[fi:Kappa Orionis]]
+[[sv:Saiph]]
+[[zh:参宿六]]

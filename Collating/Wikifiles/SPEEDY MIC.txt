@@ -1,0 +1,54 @@
+{{Starbox begin
+| name=BO Microscopii }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|20|47|45.00732}}<ref name=aaa474_2_653/>
+| dec={{DEC|−36|35|40.7905}}<ref name=aaa474_2_653/>
+| appmag_v=9.39<ref name=aaa460_3_695/>
+| constell=[[Microscopium]] }}
+{{Starbox character
+| class=K3Ve<ref name=aaa460_3_695/>
+| b-v=
+| u-b=
+| variable=Flare star }}
+{{Starbox astrometry
+| radial_v=-10.3<ref name=aaa460_3_695/>
+| prop_mo_ra=11.42<ref name=aaa474_2_653/>
+| prop_mo_dec=−75.87<ref name=aaa474_2_653/>
+| parallax=19.16
+| p_error=1.80
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v=5.92<ref name=cgssn09/> }}
+{{Starbox detail
+| mass={{nowrap|0.82 ± 0.08}}<ref name=mnras365_2_530/>
+| radius={{nowrap|1.06 ± 0.04}}<ref name=mnras365_2_530/>
+| luminosity=
+| temperature=
+| metal_fe=−1.49<ref name=cgssn09/>
+| rotational_velocity=135<ref name=aaa478_1_L11/>
+| gravity=
+| age_gyr= }}
+{{Starbox catalog
+| names = [[Cordoba Durchmusterung|CD]]−37 13926, [[Henry Draper catalogue|HD]] 197890, [[Smithsonian Astrophysical Observatory|SAO]] 212437, [[Hipparcos catalogue|HIP]] 102626. }}
+{{Starbox end}}
+
+'''BO Microscopii''' ('''BO Mic''') is a star in the [[constellation]] [[Microscopium]] located about 170&nbsp;[[light year]]s from the Sun. It has been dubbed "Speedy Mic" because of the ultra-rapid rotation rate. The [[Stellar rotation|projected rotational velocity]] at the equator of this star is about 135 km/s, which, with an estimated inclination of 70&deg; to the line of sight from the Earth, means it completes a rotation every {{nowrap|0.380 ± 0.004 days}}. The photosphere of this star shows a high level of magnetic activity, with multiple star spots and prominences observed at the same time. As many as 25 prominences have been observed simultaneously, extending outward as far as 3.6 times the radius of the star. BO Mic is a [[flare star]] that undergoes sudden increases in X-ray and ultraviolet emissions. These events can emit a hundred times more energy than large solar flares.<ref name=aaa478_1_L11/> Speedy Mic is one of the most active stars in the vicinity of the Sun.<ref name=mnras365_2_530/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa460_3_695>{{citation | display-authors=1 | last1=Torres | first1=C. A. O. | last2=Quast | first2=G. R. | last3=da Silva | first3=L. | last4=de La Reza | first4=R. | last5=Melo | first5=C. H. F. | last6=Sterzik | first6=M. | title=Search for associations containing young stars (SACY). I. Sample and searching method | journal=Astronomy and Astrophysics | volume=460 | issue=3 | pages=695–708 | month=December | year=2006 | doi=10.1051/0004-6361:20065602 | bibcode=2006A&A...460..695T |arxiv = astro-ph/0609258 }}</ref>
+
+<ref name=cgssn09>{{citation | last1=Holmberg | first1=J. | last2=Nordström | first2=B. | last3=Andersen | first3=J. | title=The Geneva-Copenhagen survey of the solar neighbourhood. III. Improved distances, ages, and kinematics | volume=501 | issue=3 | year=2009 | month=July | pages=941–947 | doi=10.1051/0004-6361/200811191 | journal=Astronomy and Astrophysics | bibcode=2009A&A...501..941H |arxiv = 0811.3982 }}</ref>
+
+<ref name=aaa478_1_L11>{{citation | display-authors=1 | last1=Wolter | first1=U. | last2=Robrade | first2=J. | last3=Schmitt | first3=J. H. M. M. | last4=Ness | first4=J. U. | title=Doppler imaging an X-ray flare on the ultrafast rotator BO Mic. A contemporaneous multiwavelength study using XMM-Newton and VLT | journal=Astronomy and Astrophysics | volume=478 | issue=1 | pages=L11–L14 | month=January | year=2008 | doi=10.1051/0004-6361:20078838 | bibcode=2008A&A...478L..11W |arxiv = 0712.0899 }}</ref>
+
+<ref name=mnras365_2_530>{{citation | display-authors=1 | last1=Dunstone | first1=N. J. | last2=Barnes | first2=J. R. | last3=Collier Cameron | first3=A. | last4=Jardine | first4=M. | title=The coronal structure of Speedy Mic - I. A densely packed prominence system beyond corotation | journal=Monthly Notices of the Royal Astronomical Society | volume=365 | issue=2 | pages=530–538 | month=January | year=2006 | doi=10.1111/j.1365-2966.2005.09729.x | bibcode=2006MNRAS.365..530D |arxiv = astro-ph/0510739 }}</ref>
+
+}}
+
+[[Category:Microscopium (constellation)]]
+[[Category:K-type main sequence stars]]
+[[Category:Flare stars]]

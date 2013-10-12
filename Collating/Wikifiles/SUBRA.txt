@@ -1,0 +1,68 @@
+{{Starbox begin |
+   name=[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=omicron+leonis&Ident=Leonis Omicron Leonis] }}
+{{Starbox image
+ | image=[[Image:Leo constellation map.png|250px]]
+ | caption=Omicron Leonis is located to the lower far right on this map of the constellation. }}
+{{Starbox observe 
+| epoch=[[J2000.0]]
+| constell=[[Leo (constellation)|Leo]] 
+| ra=09<sup>h</sup> 41<sup>m</sup> 09.03<sup>s</sup><ref name=simbada>[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=omicron+leonis Database entry for omicron leonis], [[SIMBAD]].  Accessed online May 7, 2010.</ref>
+| dec=+09° 53' 32.30"<ref name=simbada />
+| appmag_v=+3.53<ref name=simbada />}}
+{{Starbox character 
+| class=F9III/A5mV<ref name=hummel>[http://iopscience.iop.org/1538-3881/121/3/1623/200301.text.html Refereed paper on the parameters of omicron leonis].  Accessed online May 7, 2010.</ref>}}
+{{Starbox astrometry |
+| prop_mo_ra=-143.67<ref name=simbada />
+| prop_mo_dec=-37.45<ref name=simbada />
+| parallax=24.12
+| p_error=0.97<ref name=simbada />
+| dist_ly=135
+| dist_pc=41.4±0.1<ref name=hummel />}}
+{{Starbox orbit
+| reference=<ref name=hummel />
+| period_unitless=14.498064 ± 0.000009 days
+| axis_unitless=4.46 ± 0.01 [[milliarcseconds|mas]]
+| inclination=57.6 ± 0.1
+| node=191.4 ± 0.1
+| periastron=[[Julian_Day#Alternatives|TJD]] 10629.831 ± 0.003
+| eccentricity=0
+}}<!--
+-->{{Starbox detail
+| mass=2.12/1.87 ± 0.01<ref name=hummel />
+| radius=5.9±0.5/2.2±0.3<ref name=hummel />
+| luminosity=39.4±2.4/15.4±1.0 <ref name=hummel />
+| temperature=6,000±200/7,600±400<ref name=hummel />
+| age = 8 &times; 10<sup>8</sup>(estimate)<ref name=hummel />
+}}
+{{Starbox catalog
+| names=14 Leo, [[Harvard Revised catalogue|HR]] 3852, [[Bonner Durchmusterung|BD]]+10 2044, [[Henry Draper catalogue|HD]] 83808/83809, [[Smithsonian Astrophysical Observatory|SAO]] 98709, [[Fifth Fundamental Catalogue|FK5]] 365, [[Hipparcos catalogue|HIP]] 47508.<ref name=simbada /> }}
+{{Starbox end}}
+
+'''Omicron Leonis''' (ο Leo, ο Leonis), known also by its traditional name, '''Subra''', is a [[binary star]] in the constellation of [[Leo (constellation)|Leo]], west of [[Regulus]], some 130 [[light year]]s from here, where it marks one of the lion's forepaws. 
+
+The two stars of Omicron Leonis (Subra-A and Subra-B) are given variably as [[spectral type|type]] F9III [[giant star|giant]] for the primary and A5mV [[main sequence star|dwarf]] for the secondary<ref name=hummel /> and subsequently as an F6II [[bright giant]] with a companion A7V dwarf star according to Kaler and others.  Their combined [[apparent magnitude]] is +3.53.<ref name=simbada />
+
+==References==
+{{reflist}}
+*[http://stars.astro.illinois.edu/sow/subra.html  Omicron Leo/Subra] in Kaler Stars [http://stars.astro.illinois.edu/sow/sowlist.html]
+*[http://www.astrostudio.org/xhip.php?hip=47508 subra (HIP 47508)]  Relates to the A star, Subra-B
+*[http://sciencepark.etacude.com/astronomy/stellar/more/leo_subra.html  Subra -Omi Leonis] brief data. 
+
+{{Stars of Leo}}
+
+[[Category:Bayer objects|Leonis, Omicron]]
+[[Category:Binary stars]]
+[[Category:Leo (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[roa-rup:Subra]]
+[[de:Subra]]
+[[es:Subra]]
+[[fa:امیکرون شیر]]
+[[fr:Omicron Leonis]]
+[[id:Omicron Leonis]]
+[[lb:Subra (Stär)]]
+[[nl:Subra]]
+[[pt:Omicron Leonis]]
+[[sk:Subra]]

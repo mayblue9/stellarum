@@ -1,0 +1,136 @@
+[[File:Cor Caroli 2011-03-01.jpeg|thumb|right|Cor Caroli seen from northern England on March 1, 2011.]]
+
+'''Cor Caroli''' ('''α CVn''', '''α Canum Venaticorum''', '''[[Alpha (letter)|Alpha]] Canum Venaticorum''') is the brightest [[star]] in the northern [[constellation]] [[Canes Venatici]]. It is a [[binary star]] consisting of two distantly separated components. The name ''Cor Caroli'' means "Charles' Heart", and was named in the [[17th century]] to honour the murdered [[King Charles I of England]]. 
+
+==Names==
+
+In the [[western world]] the star had no name until the [[17th century]], when it was named ''Cor Caroli'', which means "Charles's Heart". There has been some uncertainty whether it was named in honour of [[King Charles I of England]], who was executed in 1649 during the [[English Civil War]], or to his son, [[Charles II]], who restored the English monarchy to the throne in 1660. The name was coined in 1660 by Sir [[Charles Scarborough]], physician to Charles II, who claimed the star seemed to shine exceptionally brightly on the night of Charles II's return to England. In ''Star Names'', R.H. Allen claimed that Scarborough suggested the name to [[Edmund Halley]] and intended it to refer to Charles II.<ref>R.H. Allen, ''Star Names: Their Lore and Meaning''.</ref> However, Robert Burnham Jr. notes that "the attribution of the name to Halley appears in a report published by [[Johann Elert Bode|J. E. Bode]] at Berlin in 1801, but seems to have no other verification".<ref>Robert Burnham, Jr. ''Burnham's Celestial Handbook'', Volume 1, p. 359.</ref> In ''Star Tales'', [[Ian Ridpath]] points out that the name's first appearance on a star map was in the 1673 chart of [[Francis Lamb]], who labelled it '''Cor Caroli Regis Martyris''' ("the heart of Charles the martyred king"), clearly indicating that it was seen as referring to Charles I.<ref>[http://www.ianridpath.com/startales/canesvenatici.htm Ian Ridpath: "Star Tales", Canes Venatici]. See also Deborah J. Warner, ''The Sky Explored: Celestial Cartography 1500-1800''.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|常陳}} ({{lang|zh-Latn|Cháng Chén}}), meaning ''[[Supreme Palace enclosure|Imperial Guards]]'', refers to an asterism consisting of α Canum Venaticorum, [[10 Canum Venaticorum]], [[Beta Canum Venaticorum|β Canum Venaticorum]], [[6 Canum Venaticorum]], [[2 Canum Venaticorum]], [[67 Ursae Majoris]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Canum Venaticorum itself is known as {{lang|zh|常陳一}} ({{lang|zh-Latn|Cháng Chén yī}}, {{lang-en|the First Star of Imperial Guards}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> From this Chinese name, the name '''Chang Chen''' was appeared.<ref>[http://www.constellationsofwords.com/stars/CorCaroli.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Canes Venatici]</ref>
+
+==Characteristics==
+
+Cor Caroli is a [[binary star]] with a combined [[apparent magnitude]] of 2.81.  The two stars are 19.6 [[arcsecond]]s apart in the sky and are easily resolved in small telescopes. The system lies approximately 110 [[light year]]s from [[Earth]].  The brighter of the two stars is designated ''α² Canum Venaticorum'', the fainter ''α¹ Canum Venaticorum''.<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/corcaroli.html Cor Caroli], ''Stars'', Jim Kaler.  Accessed on line September 15, 2008.</ref>
+
+Cor Caroli marks the northern vertex of the [[Diamond of Virgo]] [[asterism (astronomy)|asterism]].
+
+==α² Canum Venaticorum==
+{{Starbox begin
+| name = [[Bayer designation|α² Canum Venaticorum]]}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Canes Venatici (constellation)|Canes Venatici]]
+| ra = {{RA|12|56|01.6674}}<ref name=sb0>{{SIMBAD link|alf02+cvn|V* alf02 CVn -- Variable Star of alpha2 CVn type}}, database entry, [[SIMBAD]].  Accessed on line November 2, 2009.</ref>
+| dec = {{DEC|+38|19|06.167}}<ref name=sb0 />
+| appmag_v=2.84 to 2.98<ref name=gcvs1>alf 2 CVn, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/iii/iii.dat The combined table of GCVS Vols I-III and NL 67-78 with improved coordinates, General Catalogue of Variable Stars], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line November 2, 2009.</ref>
+}}
+{{Starbox character
+| class = A0pSiEuHg<ref name=bsc2 />
+| u-b = −0.32<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=4915 HR 4915], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line November 2, 2009.</ref>
+| b-v = −0.12<ref name=bsc2 />
+| v-r = 0.0<ref name=sb0 />
+| r-i = −0.06<ref name=bsc2 />
+| variable = [[Alpha² Canum Venaticorum variable|ACV]]<ref name=gcvs1 />
+}}
+{{Starbox astrometry
+| radial_v = −3.3 ± 2<ref name=sb0 />
+| prop_mo_ra = −233.43<ref name=sb0 />
+| prop_mo_dec = 54.98<ref name=sb0 />
+| parallax = 29.60
+| p_error = 1.04
+| parallax_footnote = <ref name=sb0 />
+| absmag_v=  0.3<ref name="ReferenceA">From apparent magnitude and parallax.</ref>
+}}
+{{Starbox detail
+| rotational_velocity = 29<ref name=bsc2 />
+| radius = 4.10<ref name=cadars3>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=II/224/cadars.dat&recno=5852 HD 112413], database entry, Catalog of Apparent Diameters and Absolute Radii of Stars (CADARS), 3rd edition, L. E. Pasinetti-Fracassini, L. Pastori, S. Covino, and A. Pozzi, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?II/224 II/224].  Accessed on line November 2, 2009.</ref>
+}}
+{{Starbox catalog
+| names=[[Bayer designation|α Canum Venaticorum A]], α CVn A, Alpha Canum Venaticorum A, Alpha CVn A, α<sup>2</sup> CVn, Alpha<sup>2</sup> Canum Venaticorum, Alpha<sup>2</sup> CVn, [[Flamsteed designation|12 Canum Venaticorum A]], 12 CVn A, [[Aitken Double Star Catalogue|ADS]] 8706 A, [[Durchmusterung|BD]]+39 2580A, [[Catalog of Components of Double and Multiple Stars|CCDM]] J12560+3819A, [[Fifth Fundamental Catalogue|FK5]] 485, [[Boss General Catalogue|GC]] 17557, [[Henry Draper Catalogue|HD]] 112413, [[Hipparcos Catalogue|HIP]] 63125, [[Bright Star Catalogue|HR]] 4915, [[Index Catalogue of Visual Double Stars|IDS]] 12514+3851 A, [[Luyten Two-Tenths catalogue|LTT]] 13717, [[New Luyten Two-Tenths catalogue|NLTT]] 32338, [[PPM Star Catalogue|PPM]] 76815, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 63257.<ref name=sb0 /><ref name=bsc2 />}}
+{{Starbox reference
+| Simbad=alf02+cvn}}
+{{Starbox end}}
+
+α² Canum Venaticorum has [[stellar classification|spectral type]] A0,  and has an [[apparent visual magnitude]] which varies between 2.84 and 2.98,  with a period of 5.47 days.<ref name=sb0 /><ref name=gcvs1 />  It is a [[chemically peculiar star]] with a strong magnetic field, about 5,000 times as strong as the Earth's, and is also classified as an [[Ap/Bp star]].<ref name=hgs>"Cor Caroli", p. 49, ''The hundred greatest stars'', James B. Kaler, Springer, 2002, ISBN 0-387-95436-8.</ref>  Its atmosphere has overabundances of some elements, such as [[silicon]], [[mercury (element)|mercury]], and [[europium]].  This is thought to be due to some elements sinking down into the star under the force of gravity while others are elevated by radiation pressure.<ref name=kaler /><ref name=hgs />  This star is the prototype of a class of [[variable star]]s, the so-called [[α² Canum Venaticorum star]]s. The strong [[magnetic field]] of these stars is believed to produce starspots of enormous extent. Due to these starspots the brightness of α² Canum Venaticorum stars varies considerably during their rotation.
+{{-}}
+
+==α¹ Canum Venaticorum==
+{{Starbox begin
+| name = [[Bayer designation|α<sup>1</sup>&nbsp;Canum&nbsp;Venaticorum]]}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Canes Venatici (constellation)|Canes Venatici]]
+| ra = {{RA|12|56|00.4522}}<ref name=sbb0>{{SIMBAD link|alf01+cvn|LTT 13718 -- High proper-motion Star}}, database entry, [[SIMBAD]].  Accessed on line November 2, 2009.</ref>
+| dec = {{DEC|+38|18|53.685}}<ref name=sbb0 />
+| appmag_v=5.60<ref name=sbb0 />
+}}
+{{Starbox character
+| class = F0V<ref name=sbb0 />
+| u-b = −0.03<ref name=bscb1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=4914 HR 4914], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line November 2, 2009.</ref>
+| b-v = +0.34<ref name=bscb1 />
+| v-r = 0.3<ref name=sbb0 />
+| r-i = +0.23<ref name=bscb1 />
+}}
+{{Starbox astrometry
+| radial_v = −3.1&nbsp;±&nbsp;2<ref name=sbb0 />
+| prop_mo_ra = −203.89<ref name=sbb0 />
+| prop_mo_dec = 88.34<ref name=sbb0 />
+| parallax = 29.60
+| p_error = 1.04
+| parallax_footnote = <ref>[http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-out.add=.&-source=J/ApJS/150/455/table1&recno=241 NLTT 32336], database entry, New HIP-based parallaxes for 424 faint stars, A. Gould and J. Chanamé, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?J/ApJS/150/455 J/ApJS/150/455].  Accessed on line November 2, 2009.  Also see New Hipparcos-based Parallaxes for 424 Faint Stars, Andrew Gould and Julio Chanamé, ''The Astrophysical Journal Supplement Series'' '''150''', #2 (February 2004), pp. 455–464, {{doi|10.1086/381147}}, {{Bibcode|2004ApJS..150..455G}}.</ref>
+| absmag_v= 4<ref name="ReferenceA"/>
+}}
+{{Starbox detail
+| rotational_velocity = 8<ref name=bscb1 />
+| radius = 1.29<ref name=cadarsb2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=II/224/cadars.dat&recno=5851 HD 112412], database entry, Catalog of Apparent Diameters and Absolute Radii of Stars (CADARS), 3rd edition, L. E. Pasinetti-Fracassini, L. Pastori, S. Covino, and A. Pozzi, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?II/224 II/224].  Accessed on line November 2, 2009.</ref>
+}}
+{{Starbox catalog
+| names=α<sup>1</sup>&nbsp;CVn, Alpha<sup>1</sup>&nbsp;Canum&nbsp;Venaticorum, Alpha<sup>1</sup>&nbsp;CVn, [[Bayer designation|α&nbsp;Canum&nbsp;Venaticorum&nbsp;B]], α&nbsp;CVn&nbsp;B, Alpha&nbsp;Canum&nbsp;Venaticorum&nbsp;B, Alpha&nbsp;CVn&nbsp;B, [[Flamsteed designation|12&nbsp;Canum&nbsp;Venaticorum&nbsp;B]], 12&nbsp;CVn&nbsp;B, [[Aitken Double Star Catalogue|ADS]]&nbsp;8706&nbsp;B, [[Durchmusterung|BD]]+39&nbsp;2580B, [[Durchmusterung|BD]]+39&nbsp;2580, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J12560+3819B, [[Boss General Catalogue|GC]]&nbsp;17556, [[Henry Draper Catalogue|HD]]&nbsp;112412, [[Hipparcos Catalogue|HIP]]&nbsp;63121, [[Bright Star Catalogue|HR]]&nbsp;4914, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;12514+3851&nbsp;B, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;13718, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;32336, [[PPM Star Catalogue|PPM]]&nbsp;76814, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;63256.<ref name=sbb0 /><ref name=bscb1 />}}
+{{Starbox reference
+| Simbad=alf01+cvn}}
+{{Starbox end}}
+
+α<sup>1</sup>&nbsp;Canum&nbsp;Venaticorum is a [[F-type star|F-type]] [[main sequence]] [[star]]. It is considerably fainter than its companion and has an [[apparent visual magnitude]] of approximately 5.60.<ref name=sbb0 />
+
+==Namesakes==
+[[USS Cor Caroli (AK-91)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{Reflist}}
+
+{{Stars of Canes Venatici}}
+
+[[Category:Canes Venatici (constellation)]]
+[[Category:Bayer objects|Canum Venaticorum, Alpha]]
+[[Category:Flamsteed objects|Canum Venaticorum, 12]]
+[[Category:Henry Draper Catalogue objects|112412]]
+[[Category:Hipparcos objects|063121]]
+[[Category:A-type main sequence stars]]
+[[Category:F-type main sequence stars]]
+[[Category:Binary stars]]
+[[Category:Alpha2 Canum Venaticorum variables]]
+[[Category:Stars with proper names]]
+
+[[bg:Кор Кароли]]
+[[ca:Cor Caroli]]
+[[cs:Cor Caroli]]
+[[de:Cor Caroli]]
+[[el:Καρδία Καρόλου]]
+[[es:Cor Caroli]]
+[[fr:Alpha2 Canum Venaticorum]]
+[[ko:코르 카롤리]]
+[[id:Cor Caroli]]
+[[it:Cor Caroli]]
+[[lb:Cor Caroli]]
+[[nl:Cor Caroli]]
+[[ja:コル・カロリ]]
+[[pl:Cor Caroli]]
+[[pt:Cor Caroli]]
+[[ru:Сердце Карла]]
+[[sk:Cor Caroli]]
+[[fi:Alfa Canum Venaticorum]]
+[[sv:Cor Caroli]]
+[[uk:HD112413]]
+[[zh:常陳一]]

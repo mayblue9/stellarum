@@ -1,0 +1,330 @@
+{{Other uses|Capella (disambiguation){{!}}Capella}}
+{{Starbox 2
+| name = Capella Aa/Ab
+| component_a = Aa
+| component_b = Ab
+| image=[[File:Auriga constellation map.png|250px]] 
+| caption=Capella is the brightest star in Auriga
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Auriga (constellation)|Auriga]]
+| ra_system = {{RA|05|16|41.3591}}<ref name=sb0>{{SIMBAD link|alf+aur|NAME CAPELLA -- Variable of RS CVn type}}, database entry, [[SIMBAD]].  Accessed on line December 23, 2008.</ref><ref group=note name=cg>Astrometric data, mirrored by SIMBAD from the [[Hipparcos]] catalogue, pertains to the center of mass of the Capella Aa/Ab binary system.  See ''[http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf Volume 1, The Hipparcos and Tycho Catalogues]'', European Space Agency, 1997, &sect;2.3.4, and the [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2024608 entry] in the Hipparcos catalogue ([[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/239 I/239].)</ref>
+| dec_system = {{DEC|+45|59|52.768}}<ref name=sb0 /><ref group=note name=cg />
+| appmag_v_system = 0.08&nbsp;&nbsp;&nbsp;<br />(0.03&nbsp;to&nbsp;0.16)<ref name=sb0 /><ref name=nsv1>NSV 1897, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line December 23, 2008.</ref>
+| appmag_v_a = 0.91<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/capella.html Capella], ''Stars'', Jim Kaler.  Accessed on line December 23, 2008.</ref><ref group=note name=brightness>The cooler and more massive star, the spectroscopic primary, is the visually fainter star.  See Hummel et al. 1994, &sect;1.</ref>
+| appmag_v_b = 0.76<ref name=kaler /><ref group=note name=brightness />
+| class_a = G8III/K0III<ref name=hummel94>Very high precision orbit of Capella by long baseline interferometry, C. A. Hummel et al., ''The Astronomical Journal'' '''107''', #5 (May 1994), pp. 1859–1867, {{doi|10.1086/116995}}, {{bibcode|1994AJ....107.1859H}}.  See &sect;1 for spectral types, Table 1 for orbit, Table 5 for stellar parameters, and &sect;6.3 for the age of the system.</ref>
+| class_b = G1III<ref name=hummel94 />
+| variable_system=[[RS Canum Venaticorum variable|RS CVn]]<ref name=sb0 />
+| u-b_system = +0.44<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=1708 HR 1708], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line December 23, 2008.</ref>
+| b-v_system = +0.80<ref name=bsc2 />
+| v-r_system = −0.3<ref name=sb0 />
+| r-i_system = +0.44<ref name=bsc2 />
+| radial_v_system = 29.19&nbsp;±&nbsp;0.074<ref>Resolved double-lined spectroscopic binaries: A neglected source of hypothesis-free parallaxes and stellar masses, D. Pourbaix, ''Astronomy and Astrophysics Supplement'' '''145''' (August 2000), pp. 215–222, {{doi|10.1051/aas:2000237}}, {{bibcode|2000A&AS..145..215P}}; see Table 2.</ref><ref group=note>Radial velocity figure is for the center of mass of the Capella Aa/Ab binary system.  See Pourbaix 2000, Table 2.</ref>
+| prop_mo_ra_system = 75.52<ref name=sb0 /><ref group=note name=cg />
+| prop_mo_dec_system = −427.11<ref name=sb0 /><ref group=note name=cg />
+| parallax = 77.29
+| p_error = 0.89
+| parallax_footnote = <ref name=sb0 />
+| absmag_v_system = −0.48<ref name=n group=note>From apparent magnitude and parallax.</ref>
+| absmag_v_a = 0.35<ref name=n group=note />
+| absmag_v_b = 0.20<ref name=n group=note />
+| orbit_footnote=<ref name=hummel94 />
+| period_unitless=104.022&nbsp;±&nbsp;0.002&nbsp;[[day|d]]
+| axis_unitless=56.47&nbsp;±&nbsp;0.05&nbsp;[[Milliarcsecond|mas]]
+| periastron=2447528.45&nbsp;±&nbsp;0.02&nbsp;[[Julian date|JD]]
+| inclination=137.18&nbsp;±&nbsp;0.05
+| node=40.8&nbsp;±&nbsp;0.1
+| eccentricity=0.0000&nbsp;±&nbsp;0.0002
+| mass_a = 2.69&nbsp;±&nbsp;0.06<ref name=hummel94 />
+| mass_b = 2.56&nbsp;±&nbsp;0.04<ref name=hummel94 />
+| radius_a = 12.2&nbsp;±&nbsp;0.2<ref name=hummel94 />
+| radius_b = 9.2&nbsp;±&nbsp;0.4<ref name=hummel94 />
+| luminosity_bolometric_a = 78.5&nbsp;±&nbsp;1.2<ref name=hummel94 />
+| luminosity_bolometric_b = 77.6&nbsp;±&nbsp;2.6<ref name=hummel94 />
+| temperature_a = 4940&nbsp;±&nbsp;50<ref name=hummel94 />
+| temperature_b = 5700&nbsp;±&nbsp;100<ref name=hummel94 />
+| rotational_v_a = 3<ref name=mewe01>CHANDRA-LETGS X-ray observations of Capella. Temperature, density and abundance diagnostics, R. Mewe et al., ''Astronomy and Astrophysics'' '''368''' (March 2001), pp. 888–900, {{bibcode|2001A&A...368..888M}}, {{doi|10.1051/0004-6361:20010026}}; see §1.</ref>
+| rotational_v_b = 36<ref name=mewe01 />
+| rotation_a = 106&nbsp;±&nbsp;3&nbsp;[[day|d]] <ref name=rotn>On the rotation period of Capella, K. G. Strassmeier et al., ''Astronomische Nachrichten'' '''322''', #2 (March 2001), pp. 115–124, {{doi|10.1002/1521-3994(200106)322:2}}, {{bibcode|2001AN....322..115S}}.</ref>
+| rotation_b = 8.64&nbsp;±&nbsp;0.09&nbsp;[[day|d]] <ref name=rotn />
+| metal_system = 40% Sun<ref group=note>From Z=0.02 for the Sun and Hummel et al. 1994, &sect;6.3, which gives Z=0.008 for Capella.</ref>
+| age_system = 5.2&nbsp;×&nbsp;10<sup>8</sup>&nbsp;&nbsp;<ref name=hummel94 />
+| names=Alhajoth, Capella, Hokulei, [[Bayer designation|α&nbsp;Aurigae]], α&nbsp;Aur, Alpha&nbsp;Aurigae, Alpha&nbsp;Aur, [[Flamsteed designation|13&nbsp;Aurigae]], 13&nbsp;Aur, [[Aitken Double Star Catalogue|ADS]]&nbsp;3841&nbsp;AP, [[Durchmusterung|BD]]+45°1077, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J05168+4559AP, [[Fifth Fundamental Catalogue|FK5]]&nbsp;193, [[Boss General Catalogue|GC]]&nbsp;6427, [[Gliese–Jahreiß catalogue|GJ]]&nbsp;194, [[Henry Draper Catalogue|HD]]&nbsp;34029, [[Hipparcos Catalogue|HIP]]&nbsp;24608, [[Bright Star Catalogue|HR]]&nbsp;1708, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;05093+4554&nbsp;AP, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;11619, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;14766, [[PPM Star Catalogue|PPM]]&nbsp;47925, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;40186, [[Washington Double Star Catalog|WDS]]&nbsp;05167+4600Aa/Ab.<ref name=sb0 /><ref name=bsc2 /><ref name=siriusmatters>''Sirius Matters'', Noah Brosch, Springer: 2008, ISBN 1-4020-8318-1, p. 46.</ref><ref name=wds />
+| simbad_system=alf+aur
+| simbad_a=alf+aur+A
+| simbad_b=alf+aur+B
+}}
+'''Capella''' ('''α Aurigae''', '''α Aur''', '''[[alpha (letter)|Alpha]] Aurigae''', '''Alpha Aur''') is the brightest star in the [[constellation]] [[Auriga (constellation)|Auriga]], the [[list of brightest stars|eleventh brightest star]] in the night sky and the third brightest star in the northern [[Celestial sphere|celestial hemisphere]], after [[Arcturus]] and [[Vega]]. Although it appears to be a single star to the naked eye, it is actually a [[star system]] of four stars in two [[binary star|binary pair]]s.  The first pair consists of two bright, large [[Stellar classification|type-G]] [[giant star]]s, both with a radius around 10 times the Sun's, in close orbit around each other.  These two stars are thought to be cooling and expanding on their way to becoming [[red giant]]s.  The second pair, around 10,000 [[astronomical unit]]s from the first, consists of two faint, small and relatively cool [[red dwarf]]s.<ref>Capella, in ''The Hundred Greatest Stars'', James B. Kaler, Springer, 2002, ISBN 0-387-95436-8 (see §18); also {{doi|10.1007/0-387-21625-1_19}}.</ref><ref name=chl />  The Capella system is relatively close, at only {{convert|42.2|ly|pc|lk=on}} from Earth.
+
+==System==
+The Capella system consists of a bright [[binary star|binary pair]] of [[giant star]]s, orbiting at some distance from a fainter binary pair of [[red dwarf]]s.<ref name=chl />  The system is a member of the [[Hyades moving group]], a group of stars moving in the same direction as the [[Hyades cluster]].<ref name=bsc2 /><ref>The Hyades stream: an evaporated cluster or an intrusion from the inner disk?, B. Famaey, F. Pont, X. Luri, S. Udry, M. Mayor, and A. Jorissen, ''Astronomy and Astrophysics'' '''461''', #3 (January 2007), pp. 957–962, {{doi|10.1051/0004-6361:20065706}}, {{bibcode|2007A&A...461..957F}}.</ref>
+
+===Bright binary pair===
+Capella was first announced to be binary in 1899, based on [[spectroscopic]] observations.<ref>The spectroscopic binary Capella, W. W. Campbell, ''Astrophysical Journal'' '''10''' (October 1899), p. 177, {{doi|10.1086/140625}}, {{bibcode|1899ApJ....10..177C}}.</ref><ref>Variable velocities of stars in the line of sight, H. F. Newall, ''The Observatory'' '''22''' (December 1899), pp. 436–437, {{bibcode|1899Obs....22..436N}}.</ref>  Known as "The Interferometrist's Friend", it was first resolved [[Interferometry|interferometrically]] in 1919 by John Anderson and Francis Pease at [[Mount Wilson Observatory]], who published an orbit in 1920 based on their  observations.<ref>Classical Observations of Visual Binary and Multiple Stars, B. Mason, pp. 88–96, in ''Binary Stars as Critical Tools and Tests in Contemporary Astrophysics, Proceedings of the 240th Symposium of the International Astronomical Union, Held in Prague, Czech Republic, August 22–25, 2006'', William I. Hartkopf, Edward F. Guinan, and Petr Harmanec, eds., pub. Cambridge University Press, 2006, ISBN 0-521-86348-1; {{doi|10.1017/S1743921307003857}}; see p. 94.</ref><ref>Application of Michelson's interferometer method to the measurement of close double stars, J. A. Anderson, ''Astrophysical Journal'' '''51''' (June 1920), pp. 263–275, {{doi|10.1086/142551}}, {{bibcode|1920ApJ....51..263A}}.</ref>  This was the first interferometric measurement of any object outside the [[Solar System]].<ref name=lr>[http://www.webcitation.org/query?url=http://www.geocities.com/CapeCanaveral/2309/page4.html&date=2009-10-25+06:32:31  Modern Optical Interferometry], ''Astronomical Optical Interferometry: A Literature Review'', Bob Tubbs, St. John's College,  Cambridge, April 1997.  Accessed on line December 30, 2008.</ref>  A high-precision  orbit was published in 1994 based on observations by the [[Mark III Stellar Interferometer]], again at Mount Wilson Observatory.<ref name=hummel94 />  Capella also became the first astronomical object to be imaged by a separate element optical interferometer when it was imaged by the [[Cambridge Optical Aperture Synthesis Telescope]] in September 1995.<ref>The first images from an optical aperture synthesis array: mapping of Capella with COAST at two epochs, J. E. Baldwin et al., ''Astronomy and Astrophysics'' '''306''' (February 1996), pp. L13–L16, {{bibcode|1996A&A...306L..13B}}.</ref>
+
+The bright binary pair of Capella consists of two [[type-G star|type-G]] [[giant star]]s.  The first, primary, star has an [[effective temperature|surface temperature]] of approximately 4900 [[kelvin|K]], a radius of approximately 12 [[solar radii]], a mass of approximately 2.7 [[solar masses]], and a [[luminosity]], measured over all wavelengths, approximately 79 times that of the [[Sun]]. The other, secondary, star has a surface temperature of approximately 5700 K, a radius of approximately 9 solar radii, a mass of approximately 2.6 solar masses, and a luminosity, again measured over all wavelengths,  approximately 78 times that of the Sun.<ref name=hummel94 />  Although the primary is the brighter star when considering radiation at all wavelengths, it is the fainter when observed in visible light, with an [[apparent visual magnitude]] of approximately 0.91, compared to the secondary's apparent visual magnitude of 0.76.<ref name=hummel94 />  
+
+The pair is a non-eclipsing binary&mdash;that is, as seen from Earth, neither star passes in front of the other.  The two components orbit each other at a distance of around 100 million km  and an orbital period of approximately 104 days.  The stars were probably of [[spectral class A]] during their [[main-sequence]] lifetime, similar to [[Vega]]; they are now expanding, cooling, and brightening to become [[red giants]], a process that will take a few million years.  It is thought that the more massive star of the pair has begun fusing [[helium]] to [[carbon]] and [[oxygen]] at its center, a process that has not yet begun for the less massive star.<ref name=schaaf>''The Brightest Stars: Discovering the Universe through the Sky's Most Brilliant Stars'', Fred Schaaf, Hoboken, New Jersey: John Wiley & Sons, 2008, ISBN 978-0-471-70410-2; see pp. 153–155.</ref>
+
+===X-ray source===
+
+Two [[Aerobee|Aerobee-Hi]] rocket flights on September 20, 1962, and March 15, 1963, apparently detected and confirmed an X-ray source in Auriga at [[Right ascension|RA]] {{RA|05|09}} [[Declination|Dec]] {{Dec|+45}}.<ref name=Fisher62>{{cite journal |author=Fisher PC, Meyerott AJ |title=Stellar X-Ray Emission |journal=Ap J. |month=Jan |year=1964 |volume=139 |issue=1 |pages=123–42 |bibcode=1964ApJ...139..123F |doi=10.1086/147742 }}</ref> It was identified as Capella which is in the error box. Capella was much more readily detected on the second rocket flight.<ref name=Fisher62/>
+
+[[Stellar X-ray astronomy]] started on April 5, 1974, with the detection of X-rays from Capella.<ref name=Catura>{{cite journal |author=Catura RC, Acton LW, Johnson HM |title=Evidence for X-ray emission from Capella |journal=Ap J |month=March |year=1975 |volume=196 |issue=pt.2 |pages=L47–9 |doi=10.1086/181741 |bibcode=1975ApJ...196L..47C }}</ref> A rocket flight on that date briefly calibrated its attitude control system when a star sensor pointed the payload axis at Capella (α Aur). During this period, X-rays in the range 0.2–1.6 keV were detected by an X-ray reflector system co-aligned with the star sensor.<ref name=Catura/> The X-ray luminosity (''L''<sub>x</sub>) of ~10<sup>24</sup> W (10<sup>31</sup> erg s<sup>−1</sup>) is four orders of magnitude above the Sun's X-ray luminosity.<ref name=Catura/>
+
+Capella is a source of [[X-ray]]s, thought to be primarily from the [[corona]] of the more massive star.<ref>Chandra/HETGS Observations of the Capella System: The Primary as a Dominating X-Ray Source, Kazunori Ishibashi et al., ''The Astrophysical Journal'' '''644''', #2 (June 2006), pp. L117–L120, {{doi|10.1086/505702}}, {{bibcode|2006ApJ...644L.117I}}.</ref> Capella is [[ROSAT]] X-ray source 1RXS J051642.2+460001. The high temperature of Capella's corona as obtained from the first coronal X-ray spectrum of Capella using [[HEAO 1]] required magnetic confinement unless it was a free-flowing coronal wind.<ref name=Gudel>{{cite journal |author=Güdel M |title=X-ray astronomy of stellar coronae |journal=Astron Astrophys Rev|year=2004 |volume=12 |issue=2–3 |pages=71–237 |doi=10.1007/s00159-004-0023-2 |url=http://astronomy.sci.ege.edu.tr/~rpekunlu/GBDG/papers/XRayfromStellarCoronae.pdf|arxiv = astro-ph/0406661 |bibcode = 2004A&ARv..12...71G }}</ref>
+
+===Companion binary===
+{{Starbox 2
+| name = Capella&nbsp;HL<ref name=chl />
+| component_a = H
+| component_b = L
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Auriga (constellation)|Auriga]]
+| ra_a_h = 05
+| ra_a_m = 17
+| ra_a_s = 23.728
+| radec_a_footnote = <ref name=sb1>{{SIMBAD link|CCDM+J05168%2B4559H|G 96-29 -- High proper-motion Star}}, database entry, [[SIMBAD]].  Accessed on line December 23, 2008.</ref>
+| dec_a_d = +45
+| dec_a_m = 50
+| dec_a_s = 22.97
+| ra_b_h = 05
+| ra_b_m = 17
+| ra_b_s = 23.77
+| radec_b_footnote = <ref name=sb2>{{SIMBAD link|CCDM+J05168%2B4559L|NAME CAPELLA L -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 23, 2008.</ref>
+| dec_b_d = +45
+| dec_b_m = 50
+| dec_b_s = 29.0
+| appmag_v_a = 10.16<ref name=sb1 />
+| class_a = M1<ref name=sb1 />
+| b-v_a = 1.5<ref name=sb1 />
+| v-r_a = 0.5<ref name=sb1 />
+| r-i_a = 0.9<ref>Chromospheric activity, kinematics, and metallicities of nearby M dwarfs, J. R. Stauffer and L. W. Hartmann, ''Astrophysical Journal Supplement Series'' '''61''' (July 1986), pp. 531–568, {{bibcode|1986ApJS...61..531S}}, {{doi|10.1086/191123}}; see Table 1.</ref>
+| appmag_v_b = 13.7<ref name=sb2 />
+| class_b = M5<ref name=sb2 />
+| b-v_b = 0.3<ref name=sb2 />
+| radial_v_a = 36&nbsp;±&nbsp;5<ref name=sb1 />
+| prop_mo_ra_a = 58.5<ref name=sb1 />
+| prop_mo_dec_a = −410.0<ref name=sb1 />
+| prop_mo_ra_b = 58<ref name=sb2 />
+| prop_mo_dec_b = −401<ref name=sb2 />
+| parallax = 72.00
+| p_error = 4.00
+| parallax_footnote = <ref name=sb1 />
+| absmag_v_a = 9.53<ref name=lowmass />
+| absmag_v_b = 13.0<ref name=n group=note />
+| mass_a = 0.53<ref name=mult>Multiplicity among M dwarfs, Debra A. Fischer and Geoffrey W. Marcy, ''The Astrophysical Journal'' '''396''', #1 (September 1, 1992), pp. 178–194, {{bibcode|1992ApJ...396..178F}}, {{doi|10.1086/171708}}; see Table 1.</ref>
+| mass_b = 0.19<ref name=mult />
+| temperature_a = 3700&nbsp;±&nbsp;150<ref name=lowmass>Infrared Spectra of Low-Mass Stars: Toward a Temperature Scale for Red Dwarfs, by S. K. Leggett, F. Allard, Graham Berriman, Conard C. Dahn, and Peter H. Hauschildt, ''Astrophysical Journal Supplement'' '''104''' (May 1996), pp. 117–143, {{bibcode|1996ApJS..104..117L}}, {{doi|10.1086/192295}}; see Tables 3, 6 and 7.</ref>
+| radius_a = 0.54&nbsp;±&nbsp;0.03<ref name=lowmass />
+| luminosity_bolometric_a = 0.05<ref name=lowmass />
+| metal_a = [M/H]&nbsp;=&nbsp;0.1<ref name=lowmass />
+| gravity_a = 4.7&mdash;4.8<ref name=lowmass />
+| orbit_footnote=<ref name=heintz75 />
+| period_unitless=388&nbsp;years
+| axis_unitless=3.72[[arcsecond|″]]
+| periastron=2010
+| inclination=65.0
+| node=168.5
+| eccentricity=0
+| periarg=0
+| names='''HL''': [[Aitken Double Star Catalogue|ADS]]&nbsp;3841&nbsp;HL, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J05168+4559HL, [[Gliese–Jahreiß catalogue|GJ]]&nbsp;195&nbsp;AB, [[Washington Double Star Catalog|WDS]]&nbsp;05167+4600HL.<br />'''H''': G&nbsp;96-29, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;11622, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;14788, [[PPM Star Catalogue|PPM]]&nbsp;47938.<ref name=wds /><ref name=sb1 /><ref name=sb2 />
+| simbad_a = CCDM+J05168%2B4559H
+| simbad_b = CCDM+J05168%2B4559L}}
+In 1914, R. Furuhjelm observed that the spectroscopic binary mentioned above had a faint companion star, which, as its [[proper motion]] was similar to that of the spectroscopic binary, was probably physically bound to it.<ref>{{de icon}} Ein schwacher Begleiter zu Capella, R. Furuhjelm, ''Astronomische Nachrichten'' '''197''', #4715 (April 1914), p. 181, {{bibcode|1914AN....197..181F}}.</ref>  In 1936, Carl L. Stearns observed that this companion appeared to be double itself; this was later confirmed by [[G. P. Kuiper]].<ref>Note on duplicity of Capella H, Carl L. Stearns, ''Astronomical Journal'' '''45''', #1048 (July 1936), p. 120, {{doi|10.1086/105349}}, {{bibcode|1936AJ.....45..120S}}.</ref><ref>Confirmation of the Duplicity of Capella H, G. P. Kuiper, ''Astrophysical Journal'' '''84''' (October 1936), p. 359, {{doi|10.1086/143788}}, {{bibcode|1936ApJ....84Q.359K}}.</ref>  This double companion star is a [[binary star|binary system]] of red dwarfs, thought to be separated from the pair of G-type giants by a distance of around 10,000 [[astronomical unit|AU]].<ref name=chl>Capella HL, T. R. Ayres, pp. 202–204, in ''Cool Stars, Stellar Systems, and the Sun: Proceedings of the Third Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun, Held in Cambridge, Massachusetts, October 5–7, 1983'', edited by Sallie L. Baliunas and Lee Hartmann, Berlin/Heidelberg, Springer-Verlag, 1984, Lecture Notes in Physics, vol. 193, ISBN 978-3-540-12907-3; {{doi|10.1007/3-540-12907-3_204}}, {{bibcode|1984LNP...193..202A}}</ref>  Although this pair has only been observed to cover approximately 30° of its orbit, a rough, preliminary orbit has been computed, giving an orbital period of approximately 400 years.<ref name=heintz75>Parallax and motions of the Capella system, W. D. Heintz, ''Astrophysical Journal'' '''195''' (January 1975), pp. 411–412, {{doi|10.1086/153340}}, {{bibcode|1975ApJ...195..411H}}</ref>
+
+==Visibility==
+Capella appears to be a rich yellow color.  It is the brightest star in the [[constellation]] [[Auriga (constellation)|Auriga]], the [[list of brightest stars|sixth brightest star]] in the night sky, the third brightest star in the northern [[Celestial sphere|celestial hemisphere]] (after [[Arcturus]] and [[Vega]]), and the fourth brightest star visible to the naked eye from the latitude 40° N.<ref>Schaaf 2008, p. 146.</ref>  It is closer to the north celestial pole than any other first magnitude star<ref>Burnham 1978, p. 261.</ref> ([[Polaris]] is only second magnitude). It lies a few degrees to the northeast from the triangle of stars known as "The Kids" ([[Epsilon Aurigae|ε]], [[Zeta Aurigae|ζ]], and [[Eta Aurigae|η Aurigae]]).<ref name=kaler /><ref>Schaaf 2008, p. 151.</ref>
+
+Capella's northern declination is such that it is actually invisible south of [[latitude]] 44°S – this includes southernmost New Zealand, [[Argentina]] and [[Chile]] as well as the [[Falkland Islands]]. Conversely it is [[circumpolar star|circumpolar]] north of 44°north: for the whole of the United Kingdom and [[Scandinavia]], most of [[France]], Canada and the northernmost United States, the star never sets.
+
+Capella was the brightest star in the night sky from 210,000 years ago to 160,000 years ago, at about -1.8 in magnitude. At -1.1, [[Aldebaran]] was brightest before this period, and it and Capella were situated rather close to each other and served as boreal [[polestar]]s at the time.<ref>Schaaf 2008, p. 155.</ref>
+
+==Etymology and cultural significance==
+The name ''Capella'' (English: ''small female goat'') is from [[Latin language|Latin]], and is a diminutive of the Latin ''Capra'' (English: ''female goat'').<ref name=allenp86>[http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], Richard Hinckley Allen, New York: G. E. Stechert, 1899; see p. 86.</ref>  Capella traditionally marks the left shoulder of the constellation's eponymous charioteer, or, according to the 2nd century astronomer [[Claudius Ptolemaeus|Ptolemy's]] ''[[Almagest]]'', the goat that the charioteer is carrying.  In [[Roman mythology]], the star represented the goat [[Amalthea (mythology)|Amalthea]] that suckled [[Jupiter (god)|Jupiter]].  It was this goat whose horn, after accidentally being broken off by Jupiter, was transformed into the [[Cornucopia]], or "horn of plenty", which would be filled with whatever its owner desired.<ref name=schaafp152>Schaaf 2008, p. 152.</ref> 
+[[Astrology|Astrologically]], Capella portends civic and [[military]] [[honor]]s and [[wealth]].<ref name=allen88 /> In the [[Middle Ages]], it was considered a [[Behenian fixed star]], with the stone [[sapphire]] and the plants horehound, mint, mugwort, and mandrake as attributes.  [[Cornelius Agrippa]] listed its [[kabbalistic]] sign [[File:Agrippa1531 Hircus.png]] with the name ''Hircus'' (Latin for ''goat'').<ref>''The Philosophy of Natural Magic'', Heinrich Cornelius Agrippa, Forgotten Books, 2008.
+ISBN 1-60680-260-7; see p. 85.</ref><ref>{{la icon}} ''De occulta philosophia'', Henricus Cornelius Agrippa ab Nettesheym; edited and with commentary by Karl Anton Nowotny, Graz: Akademische Druck-u. Verlagsanstalt, 1967; see pp. 49, 209, 447.</ref>
+
+In medieval accounts, it also has the uncommon name ''Alhajoth'' (also spelled ''Alhaior'', ''Althaiot'', ''Alhaiset'', ''Alhatod'', ''Alhojet'', ''Alanac'', ''Alanat'', ''Alioc''), which (especially the last) may be a corruption of its Arabic name, {{lang|ar|العيوق}}, ''al-<small><sup>c</sup></small>ayyūq.''<ref name=allen85>Allen 1899, p. 85.</ref>  ''<small><sup>c</sup></small>Ayyūq'' has no clear significance in Arabic,<ref>Edward William Lane's Arabic-English Lexicon: {{sm|cwq}}</ref> but may be an Arabized form of the Greek αίξ ''aiks'' "goat"; cf. the modern Greek Αίγα ''Aiga'', the feminine of goat.<ref name=allen87 />
+
+Capella is thought to be mentioned in an [[Akkadian language|Akkadian]] inscription dating to the [[20th century BC]].<ref name=schaafp152 />  It is sometimes called the ''Shepherd's Star'' in English literature.<ref name=allen88 /> 
+Other names used by other cultures include: in Arabic, ''Al-Rākib'' "the driver", a translation of the Greek;<ref name=allen87>Allen 1899, p. 87.</ref> in [[Quechua language|Quechua]], ''Colca'';<ref name=allen88 /> and in [[Hawaiian language|Hawaiian]], ''Hoku-lei'' (English: ''Star-wreath'').<ref name=siriusmatters /> 
+To the [[Negev Bedouins|Bedouin]] of the [[Negev]] and [[Sinai]], Capella ''al-‘Ayyūq a<u>th</u>-<u>Th</u>urayyā'' "Capella of the [[Pleiades (star cluster)|Pleiades]]", from its role as pointing out the position of that asterism.<ref>[http://www.jstor.org/stable/613801 Bedouin Star-Lore in Sinai and the Negev], Clinton Bailey, ''Bulletin of the School of Oriental and African Studies, University of London'' '''37''', #3 (1974), pp. 580–596; see p. 595.</ref> Conversely in Macedonian folklore, Capella was ''Jastreb'' "the hawk", flying high above and ready to pounce on Mother Hen (the Pleiades) and the Rooster (Nath).<ref>{{cite journal|title=Macedonian Folk Constellations |author=Cenev, Gjore |journal=Publications of the Astronomical Observatory of Belgrade|volume= 85|pages=97-109|url=http://articles.adsabs.harvard.edu//full/2008POBeo..85...97C/0000097.000.html}}</ref>
+
+In [[Hindu mythology]], Capella was seen as the heart of [[Brahma]], ''Brahma Hridaya''.<ref name=allen88>Allen 1899, p. 88.</ref> In traditional Chinese astronomy, Capella was part of the asterism {{lang|zh|五車}} ([[Simplified Chinese]]: {{lang|zh|五车}}; {{lang|zh-Latn|Wŭ chē}}; English: ''[[Five Chariots]]''), which consisted of Capella together with [[Beta Aurigae|β]], [[Iota Aurigae|ι]], and [[Theta Aurigae|θ Aurigae]], as well as [[β Tauri]].<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060713.html AEEA 天文教育資訊網], Activities of Exhibition and Education in Astronomy, National Museum of Natural Science, Taiwan.  Accessed on line December 31, 2008.</ref><ref>Exploring Ancient Skies: An Encyclopedic Survey of Archaeoastronomy, David H. Kelley, E. F. Milone, and Anthony F. Aveni, Birkhäuser, 2005, ISBN 0-387-95310-8; see p. 322.</ref>  Since it was the second star in this asterism, it has the name {{lang|zh|五車二}} ([[Simplified Chinese]]: {{lang|zh|五车二}}; {{lang|zh-Latn|Wŭ chē èr}}; English: ''Second of the Five Chariots'').<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表],  Hong Kong Space Museum.  Accessed on line December 31, 2008.</ref> In [[Australian Aboriginal astronomy|Australian Aboriginal mythology]] for the Booroung people of Victoria, Capella was ''Purra'', the [[Kangaroo#Interaction_with_humans|kangaroo]], pursued and killed by the nearby Gemini twins, ''Yurree'' ([[Castor (star)|Castor]]) and ''Wanjel'' ([[Pollux (star)|Pollux]]).<ref>[http://www.atnf.csiro.au/research/AboriginalAstronomy/literature/Stanbridge1857.pdf On the astronomy and mythology of the Aborigines of Victoria], W. E. Stanbridge, ''Proc. of the Philosophical Instituite of Victoria, Transactions'' '''2''' (1857), pp. 137–140; see p. 140.</ref>
+
+The Hawaiians saw Capella as part of an asterism ''Ke ka o Makali'i'' ("The canoe bailer of Makali'i") that helped them navigate at sea. Called ''Hoku-lei'' "star wreath", it formed this asterism with Procyon, Sirius, Castor and Pollux.<ref name=brosch>{{Cite book | last=Brosch | first=Noah | title=Sirius Matters | year=2008 | publisher=Springer | isbn=1-4020-8318-1 | page= 46 |url = http://books.google.com.au/books?id=ricStR4SE-UC&pg=PA46&dq=Betelgeuse+Chinese+astronomy&hl=en&sa=X&ei=bwndT-6tG4aViAf5082XCg&ved=0CEAQ6AEwAg#v=onepage&q=Betelgeuse%20Chinese%20astronomy&f=false}}</ref> In Tahitian folklore, Capella was ''Tahi-ari'i'', the wife of '"Fa'a-nui (Auriga) and mother of prince ''Ta'urua'' (Venus) who sails his canoe across the sky.<ref name=henry1907>{{cite journal|last=Henry|first=Teuira |date=1907|title=Tahitian Astronomy: Birth of Heavenly Bodies|journal=The Journal of the Polynesian Society |volume=16|issue=2|pages=101-04|jstor=20700813}}</ref>
+
+==Capella as the name==
+* {{USS|Capella|AK-13}} and [[SS Capella (T-AKR-293)|USNS ''Capella'' (T-AKR-293)]], both of [[United States Navy]] ships.
+* [[Mazda Capella]], a model of automobile manufactured by [[Mazda]]
+
+==Visual companions==
+In addition to the stars mentioned above, Capella has six additional [[double star|visual companions]]&mdash;that is, stars which appear to be close to Capella in the sky.  However, they are not thought to be physically close to Capella.<ref>''Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System'', Robert Burnham, Courier Dover Publications, 1978, ISBN 0-486-23567-X; see vol. 1, p. 264.</ref>  They are shown in the table below.
+
+<div align=center>
+{{Componentbox begin
+|designation=[[Washington Double Star Catalog|WDS]] 05167+4600
+|footnote=<ref name=wds>Entry 05167+4600, [http://ad.usno.navy.mil/wds/Webtextfiles/wdsnewframe1.html The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line December 24, 2008.</ref>
+|expanded = yes
+|centered = yes
+}}
+{{Componentbox component
+|letter = B
+|primary = A
+|appmag_v = 17.1
+|epoch = 1898
+|posang= 23
+|angdist= 46.6
+|ra = {{RA|05|16|42.7}}
+|dec = {{DEC|+46|00|55}}
+|radec_footnote = <ref>{{SIMBAD link|CCDM+J05168%2B4559B|BD+45 1077B -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 24, 2008.</ref>
+|simbad = CCDM+J05168%2B4559B
+|expanded = yes
+}}
+{{Componentbox component
+|letter = C
+|primary = A
+|appmag_v = 15.1
+|epoch = 1878
+|posang= 318
+|angdist= 78.2
+|ra = {{RA|05|16|35.9}}
+|dec = {{DEC|+46|01|12}}
+|radec_footnote = <ref>{{SIMBAD link|CCDM+J05168%2B4559C|BD+45 1077C -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 24, 2008.</ref>
+|simbad = CCDM+J05168%2B4559C
+|expanded = yes
+}}
+{{Componentbox component
+|letter = D
+|primary = A
+|appmag_v = 13.6
+|epoch = 1878
+|posang= 183
+|angdist= 126.2
+|ra = {{RA|05|16|40.1}}
+|dec = {{DEC|+45|58|07}}
+|radec_footnote = <ref>{{SIMBAD link|CCDM+J05168%2B4559D|BD+45 1077D -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 24, 2008.</ref>
+|simbad = CCDM+J05168%2B4559D
+|expanded = yes
+}}
+{{Componentbox component
+|letter = E
+|primary = A
+|appmag_v = 12.1
+|epoch = 1908
+|posang= 319
+|angdist= 154.1
+|ra = {{RA|05|16.5}}
+|dec = {{DEC|+46|02}}
+|radec_footnote = <ref>{{SIMBAD link|CCDM+J05168%2B4559E|BD+45 1077E -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 24, 2008.</ref>
+|simbad = CCDM+J05168%2B4559E
+|expanded = yes
+}}
+{{Componentbox component
+|letter = F
+|primary = A
+|appmag_v = 10.21
+|epoch = 1999
+|posang= 137
+|angdist= 112.0
+|ra = {{RA|05|16|48.748}}
+|dec = {{DEC|+45|58|30.84}}
+|radec_footnote = <ref>{{SIMBAD link|CCDM+J05168%2B4559F|BD+45 1077F -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 24, 2008.</ref>
+|simbad = CCDM+J05168%2B4559F
+|expanded = yes
+}}
+{{Componentbox component
+|letter = G
+|primary = A
+|appmag_v = 8.10
+|epoch = 2003
+|posang= 349
+|angdist= 522.4
+|ra = {{RA|05|16|31.852}}
+|dec = {{DEC|+46|08|27.42}}
+|radec_footnote = <ref>{{SIMBAD link|CCDM+J05168%2B4559G|BD+45 1077G -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line December 24, 2008.</ref>
+|simbad = CCDM+J05168%2B4559G
+|expanded = yes
+}}
+{{Componentbox end}}
+</div>
+
+== See also ==
+* [[Stars and planetary systems in fiction#Capella (Alpha Aurigae)|Capella in fiction]]
+
+==Notes==
+{{reflist|group=note}}
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%201708 HR 1708], catalog entry, [[Bright Star Catalogue]].
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?GJ%20194 GJ 194], catalog entry, ''Preliminary Version of the Third Catalogue of Nearby Stars'', W. Gliese and H. Jahreiss, 1991, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://cdsarc.u-strasbg.fr/viz-bin/Cat?V/70A V/70A].
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=05+16+41.3591%2B45+59+52.768&ident=NAME+CAPELLA&submit=Aladin+previewer Capella], image at [[Aladin Sky Atlas|Aladin]].
+* Images of the bright binary pair from [ftp://ftp.mrao.cam.ac.uk/pub/coast/capella95sep13blacknwhite.gif 13 September 1995] and [ftp://ftp.mrao.cam.ac.uk/pub/coast/capella95sep28blacknwhite.gif 28 September 1995] (note fainter blobs are just noise)
+{{Sky|05|16|41.3591||45|59|52.768|42}}
+{{Nearest star systems|9}}
+{{Stars of Auriga}}
+
+{{good article}}
+
+<!-- Aa, Ab, B, C, D, E, F, G, H, L -->
+
+[[Category:Auriga (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:Variable stars]]
+[[Category:Bayer objects|Aurigae, Alpha]]
+[[Category:Flamsteed objects|Aurigae, 13]]
+[[Category:G-type giants]]
+[[Category:M-type stars]]
+[[Category:Multiple star systems|4]]
+[[Category:Stars with proper names]]
+[[Category:RS Canum Venaticorum variables]]
+[[Category:Henry Draper Catalogue objects|034029]]
+[[Category:Hipparcos objects|024608]]
+[[Category:Multiple stars|⑩]]
+[[Category:Durchmusterung objects|BD+45 1076]]
+
+[[ar:العيوق (نجم)]]
+[[be:Капела]]
+[[be-x-old:Капэля (зорка)]]
+[[bg:Капела (звезда)]]
+[[ca:Capella (estrella)]]
+[[cs:Capella]]
+[[de:Capella]]
+[[et:Kapella]]
+[[el:Αίγα (αστέρας)]]
+[[es:Capella]]
+[[fa:سروش (ستاره)]]
+[[fr:Capella (étoile)]]
+[[ko:카펠라]]
+[[hi:ब्रह्महृदय तारा]]
+[[hr:Capella]]
+[[id:Capella]]
+[[it:Capella (astronomia)]]
+[[he:קאפלה (כוכב)]]
+[[ku:Kapela]]
+[[la:Capella (astronomia)]]
+[[lb:Capella (Stär)]]
+[[lt:Kapela (žvaigždė)]]
+[[hu:Capella (csillag)]]
+[[nl:Capella (ster)]]
+[[ja:カペラ (恒星)]]
+[[no:Capella]]
+[[oc:Capella]]
+[[pl:Kapella]]
+[[pt:Capella (estrela)]]
+[[ro:Capella]]
+[[ru:Капелла (звезда)]]
+[[sk:Capella]]
+[[fi:Capella]]
+[[sv:Capella]]
+[[tt:Капелла (йолдыз)]]
+[[th:ดาวคาเพลลา]]
+[[tr:Capella (yıldız)]]
+[[uk:Капелла (зірка)]]
+[[zh:五車二]]

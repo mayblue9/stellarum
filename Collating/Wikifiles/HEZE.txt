@@ -1,0 +1,103 @@
+{{Starbox begin
+| name = Zeta Virginis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Virgo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Virgo constellation and its surroundings]]
+     <div style="position: absolute; left: 42.1%; top: 40.4%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Virginis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Virgo (constellation)|Virgo]]
+| ra       = {{RA|13|34|41.59115}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–0|35|44.9487}}<ref name=aaa474_2_653/>
+| appmag_v = +3.376<ref name=sps1966/>
+}}
+{{Starbox character
+| class    = A3&nbsp;V<ref name=pasp84_500_584/>
+| b-v      = +0.114<ref name=sps1966/>
+| u-b      = +0.141<ref name=sps1966/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –13.2<ref name=scfs/>
+| prop_mo_ra  = –280.48<ref name=aaa474_2_653/>
+| prop_mo_dec = +49.05<ref name=aaa474_2_653/>
+| parallax = 44.03
+| p_error  = 0.19
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|1.64 ± 0.05}}<ref name=apj712_1_421/>
+}}
+{{Starbox detail
+| component1 = ζ Vir A
+| mass     = {{nowrap|2.041 ± 0.024}}<ref name=apj712_1_421/>
+| radius   = {{nowrap|2.079 ± 0.025}}<ref name=apj746_1_101/>
+| luminosity  = {{nowrap|17.885 ± 0.252}}<ref name=apj746_1_101/>
+| temperature = {{nowrap|8,247 ± 52}}<ref name=apj746_1_101/>
+| gravity  = 4.12<ref name=aaa398_1121/>
+| metal_fe = 
+| rotational_velocity = 222<ref name=aaa463_2_671/>
+| age_gyr  = 0.51<ref name=apj653_1_675/>
+| component2 = ζ Vir B
+| mass2    = 0.168{{+-|0.012|0.016}}<ref name=apj712_1_421/>
+}}
+{{Starbox catalog
+| names = Heze, Kheze, 角宿二, 79&nbsp;Virginis, [[Star catalogue#BD.2FCD.2FCPD|BD]]+00&nbsp;3076, [[FK5]]&nbsp;501, [[Star catalogue#Gl, GJ, Wo|GJ]]&nbsp;3792, [[Henry Draper Catalogue|HD]]&nbsp;118098, [[Hipparcos catalogue|HIP]]&nbsp;66249, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5107, [[Star catalogue#SAO|SAO]]&nbsp;139420.
+}}
+{{Starbox end}}
+'''Zeta Virginis''' (ζ Vir, [[zeta (letter)|ζ]] Virginis) is a [[star]] in the [[zodiac]] [[constellation]] of [[Virgo (constellation)|Virgo]]. It has the traditional name '''Heze''', which is not often used and of unclear origin. The star is known as ''[[Horn (Chinese constellation)|Horn]] 2'' (角宿二) in [[Chinese astronomy]].{{citation needed|date=February 2012}} It is visible to the naked eye with has an [[apparent visual magnitude]] is +3.376<ref name=sps1966/> and is located about a half degree south of the [[celestial equator]] at a distance of {{Convert|74.1|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> 
+
+ζ Virginis is a [[main sequence]] star with a [[stellar classification|spectral class]] A3&nbsp;V,<ref name=pasp84_500_584/> indicating that it is generating energy through the [[nuclear fusion]] of hydrogen at its core. This energy is being radiated from its outer envelope at an [[effective temperature]] of 8,247&nbsp;K,<ref name=apj746_1_101/> giving Zeta Virginis the white hue of an A-type star.<ref name=csiro/> It has twice the mass and double the radius of the Sun and is about a half billion years old.<ref name=apj712_1_421/><ref name=apj653_1_675/><ref name=apj746_1_101/>
+
+In 2010, a low mass stellar companion was discovered, ζ Virginis B. The object has not been under observation for a sufficient length of time to determine accurate orbital elements. However, the pair are estimated to be orbiting at an average separation of at least 24.9&nbsp;[[Astronomical Unit]]s and an [[orbital eccentricity]] of 0.16 or more. Their [[orbital period]] is a minimum of 124&nbsp;years. This companion may be a [[red dwarf]] star, which would explain the observed [[X-ray astronomy|X-ray]] flux from this system.<ref name=apj712_1_421/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=pasp84_500_584>{{citation | last1=Levato | first1=O. H. | title=Rotational Velocities and Spectral Types of Some A-Type Stars | journal=Publications of the Astronomical Society of the Pacific | volume=84 | issue=500 | page=584 | month=August | year=1972 | doi=10.1086/129336 | bibcode=1972PASP...84..584L }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=apj712_1_421>{{citation | display-authors=1 | last1=Hinkley | first1=Sasha | last2=Oppenheimer | first2=Ben R. | last3=Brenner | first3=Douglas | last4=Zimmerman | first4=Neil | last5=Roberts | first5=Lewis C., Jr. | last6=Parry | first6=Ian R. | last7=Soummer | first7=Rémi | last8=Sivaramakrishnan | first8=Anand | last9=Simon | first9=Michal | title=Discovery and Characterization of a Faint Stellar Companion to the A3V Star ζ Virginis | journal=The Astrophysical Journal | volume=712 | issue=1 | pages=421–428 | month=March | year=2010 | doi=10.1088/0004-637X/712/1/421 | bibcode=2010ApJ...712..421H |arxiv = 1002.1074 }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aaa398_1121>{{citation | last1=Erspamer | first1=D. | last2=North | first2=P. | title=Automated spectroscopic abundances of A and F-type stars using echelle spectrographs. II. Abundances of 140 A-F stars from ELODIE | journal=Astronomy and Astrophysics | volume=398 | pages=1121–1135 | month=February | year=2003 | doi=10.1051/0004-6361:20021711 | bibcode=2003A&A...398.1121E |arxiv = astro-ph/0210065 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B |arxiv = 1112.3316 }}. See Table 10.</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | title=HEZE (Zeta Virginis) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/heze.html | accessdate=2012-02-01 }}
+
+{{Virgo}}
+
+[[Category:Bayer objects|Virginis, Zeta]]
+[[Category:Virgo (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Heze (Stern)]]
+[[es:Heze]]
+[[fa:زتا دوشیزه]]
+[[fr:Zeta Virginis]]
+[[it:Zeta Virginis]]
+[[ko:헤제]]
+[[lb:Heze (Stär)]]
+[[nl:Heze (ster)]]
+[[pl:Zeta Virginis]]
+[[pt:Zeta Virginis]]
+[[sk:Heze]]
+[[zh-yue:角二]]
+[[zh:角宿二]]

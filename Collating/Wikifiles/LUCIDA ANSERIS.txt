@@ -1,0 +1,57 @@
+{{Starbox short
+| name=Alpha Vulpeculae
+{{Starbox image
+| image=<div style="position: relative">[[File:Vulpecula IAU.svg|250px]]
+   <div style="position: absolute; left:69.0%; top:43.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+| caption=Location of α Vulpeculae (circled)
+}}
+| epoch=[[J2000.0]]
+| constell=[[Vulpecula]]
+| ra={{RA|19|28|42.3}}
+| dec={{DEC|+24|39|54}}
+| spectral=M0III
+| appmag_v=+4.44
+| absmag_v=-0.36
+| dist_ly=297
+| dist_pc=91
+| names=Anser, α&nbsp;Vulpeculae, α&nbsp;Vul, Alpha&nbsp;Vul, 6&nbsp;Vulpeculae, [[Star catalogue#BD/CD/CPD|BD]]+24&nbsp;3759, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J19288+2442A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1508, [[Boss General Catalogue|GC]]&nbsp;26904, [[Henry Draper Catalogue|HD]]&nbsp;183439, [[Hipparcos catalogue|HIP]]&nbsp;95771, [[Bright Star Catalogue|HR]]&nbsp;7405, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;19245+2427 A, [[PPM Star Catalogue|PPM]]&nbsp;109083, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;87261, [[Washington Double Star Catalog|WDS]]&nbsp;J19287+2440A.
+}}
+'''Alpha Vulpeculae''' ('''Alpha&nbsp;Vul''', '''α&nbsp;Vulpeculae''', '''α&nbsp;Vul''') is the brightest [[star]] in the [[constellation]] [[Vulpecula]].  It has a traditional name, variously represented as '''Lukida''', '''Lucida Anseris''', or '''Anser''', a tradition kept from when the constellation had the name ''Vulpecula et Anser'' 'the fox and the goose'.
+
+Alpha Vulpeculae is a [[red giant]] of [[stellar classification|spectral class]] M0 and has [[apparent magnitude]] +4.44. It is approximately 297 [[light year]]s from [[Earth]]. It forms a wide [[double star|optical binary]] with [[8 Vulpeculae]].
+
+It has been analysed as a member of the [[Arcturus stream]],  a group of stars with high proper motion and metal-poor properties thought to be the remnants of a small galaxy consumed by the Milky Way.<ref name="eggen71a">{{cite journal|last=Eggen|first=Olin|date=1971|title= The Arcturus Group|journal= Publications of the Astronomical Society of the Pacific|volume=83|issue=493|pages=271-85|url=http://adsabs.harvard.edu/full/1971PASP...83..271E|bibcode = 1971PASP...83..271E |doi = 10.1086/129120 }}</ref>
+
+==See also==
+* [[List of stars in Vulpecula]]
+
+==References==
+{{reflist}}
+* [http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Alpha+Vulpeculae alf Vul -- Star in double system]
+
+==External links==
+* {{WikiSky}}
+
+{{giant-star-stub}}
+{{Stars of Vulpecula}}
+
+[[Category:Flamsteed objects|Vulpeculae, 06]]
+[[Category:Vulpecula (constellation)]]
+[[Category:Bayer objects|Vulpeculae, Alpha]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names]]
+
+[[cs:Lukida Anseris]]
+[[de:Lukida Anseris]]
+[[es:Anser (estrella)]]
+[[fa:آنسر]]
+[[fr:Alpha Vulpeculae]]
+[[it:Anser (astronomia)]]
+[[lb:Lukida Anseris (Stär)]]
+[[nl:Anser (ster)]]
+[[ja:こぎつね座アルファ星]]
+[[pt:Alpha Vulpeculae]]
+[[sk:Lucida Anseris]]
+[[sv:Alfa Vulpeculae]]
+[[zh:齐增五]]

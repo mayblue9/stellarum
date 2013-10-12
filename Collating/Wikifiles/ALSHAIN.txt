@@ -1,0 +1,120 @@
+{{Starbox begin
+| name=Beta Aquilae 
+}}
+{{Starbox image 
+| image =[[File:Aquila constellation map.png|250px|]]
+| caption = Location of Beta Aquilae to the upper left of center
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|19|55|18.8}}
+| dec={{DEC|+06|24|24}}
+| appmag_v=3.71/11.4
+| constell=[[Aquila (constellation)|Aquila]] 
+}}
+{{Starbox character
+| class=G8&nbsp;IVvar
+| b-v=0.86
+| u-b=0.48
+| r-i = 0.49
+| v-r = 
+| variable=Suspected
+}}
+{{Starbox astrometry
+| radial_v=-40.3
+| prop_mo_ra=46.35
+| prop_mo_dec=-481.32
+| parallax=72.95
+| p_error=0.83
+| absmag_v= 
+}}
+{{Starbox detail
+| mass={{nowrap|1.26 ± 0.18}}<ref name=mnras405_3_1907/>
+| radius={{nowrap|3.28 ± 0.15}}<ref name=aaa526_A100/>
+| luminosity={{nowrap|6.0 ± 0.3}}<ref name=aaa526_A100/>
+| temperature=5,100<ref name=aaa526_A100/>
+| gravity=3.60<ref name=aaa526_A100/>
+| metal_fe=–0.30<ref name=aaa526_A100/>
+| rotational_velocity=0.9<ref name=mnras405_3_1907/>
+| rotation=
+| age_gyr=9.6–11.4<ref name="apj687"/>
+}}
+{{Starbox catalog
+| names=Alshain, Alschairn, 60 Aquilae, [[Henry L. Giclas catalogue|Gl]] 771, [[Harvard Revised catalogue|HR]] 7602, [[Bonner Durchmusterung|BD]] +06°4357, [[Henry Draper catalogue|HD]] 188512, [[Luyten Half-Second catalogue|LHS]] 5350a, [[Luyten Two-Tenths catalogue|LTT]] 15822, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 125235, FK5 749, [[Hipparcos catalogue|HIP]] 98036.
+}}
+{{Starbox reference
+| Simbad=HD+188512
+| ARICNS = 4C01607
+}}
+{{starbox sources|HIP|CCDM|HR}}
+{{Starbox end}}
+'''Beta Aquilae''' (β Aql, β Aquilae) is a [[star]] in the [[constellation]] [[Aquila (constellation)|Aquila]].  It has the traditional name '''Alshain''' from the Perso-[[Arabic language|Arabic]] term الشاهين  ''aš-šāhīn''  "the [[Peregrine Falcon|(peregrine) falcon]]", perhaps by [[folk etymology]] from the [[Persian language|Persian]] ''šāhīn tarāzū'' (or possibly ''šāhīn tara zed''; see [[Gamma Aquilae|γ Aquilae]]), the Persian name for the [[asterism (astronomy)|asterism]] [[Alpha Aquilae|α]], β and γ Aquilae. 
+
+In [[Chinese language|Chinese]], {{lang|zh|河鼓}} ({{lang|zh-Latn|Hé Gŭ}}), meaning ''[[Ox (Chinese constellation)|River Drum]]'', refers to an asterism consisting of β Aquilae, [[Altair]] and [[Gamma Aquilae|γ Aql]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Aquilae itself is known as {{lang|zh|河鼓一}} ({{lang|zh-Latn|Hé Gŭ yī}}, {{lang-en|the First Star of River Drum}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum.  Accessed on line November 26, 2008.</ref>
+
+In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Unuk al Ghyrab''' ('''عنق ألغراب''' - ''únuq al-ghuraab''), which was translated into [[Latin]] as '''Collum Corvi''', meaning ''the crow's neck''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+Beta Aquilae has [[apparent magnitude|magnitude]] 3.71 and is of [[stellar classification|spectral class]] G8IV. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It is approximately 44.7 [[light years]] from Earth. It has a 12th magnitude optical companion, '''β Aquilae B''', which is 13 [[arcsecond]]s away in the sky.
+
+==Cultural significance==
+
+In Chinese mythology, [[The Jade Emperor#The princess and the cowherd|The Princess and the Cowherd]], this star and [[Gamma Aquilae|γ Aql]], are children of Niulang (牛郎, The Cowherd, [[Altair]]) and Zhinü (織女, The Princess, [[Vega]]).
+
+The Koori people of Victoria knew Alshain and γ Aquilae as the [[Black Swan]] wives of ''Bunjil'' (Altair), the [[Wedge-tailed Eagle]].<ref>{{cite book|last=Mudrooroo|title=Aboriginal mythology : an A-Z spanning the history of aboriginal mythology from the earliest legends to the present day|publisher=HarperCollins|location=London|year=1994|page=4|isbn=1-85538-306-3}}</ref>
+
+==Alshain as the name==
+{{USS|Alshain|AKA-55}} was a United States navy ship.
+
+==See also==
+* ''[[Stars and planetary systems in fiction#Beta Aquilae|Beta Aquilae in fiction]]''.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=mnras405_3_1907>{{citation | display-authors=1 | last1=Bruntt | first1=H. | last2=Bedding | first2=T. R. | last3=Quirion | first3=P.-O. | last4=Lo Curto | first4=G. | last5=Carrier | first5=F. | last6=Smalley | first6=B. | last7=Dall | first7=T. H. | last8=Arentoft | first8=T. | last9=Bazot | first9=M. | title=Accurate fundamental parameters for 23 bright solar-type stars | journal=Monthly Notices of the Royal Astronomical Society | volume=405 | issue=3 | pages=1907–1923 | month=July | year=2010 | doi=10.1111/j.1365-2966.2010.16575.x | bibcode=2010MNRAS.405.1907B |arxiv = 1002.4268 }}</ref>
+
+<ref name="apj687">{{citation | last1=Mamajek | first1=Eric E. | last2=Hillenbrand | first2=Lynne A. | title=Improved Age Estimation for Solar-Type Dwarfs Using Activity-Rotation Diagnostics | journal=The Astrophysical Journal | volume=687 | issue=2 | pages=1264–1293 | month=November | year=2008 | doi=10.1086/591785 | bibcode=2008ApJ...687.1264M |arxiv = 0807.1686 }}</ref>
+
+}}
+
+==External links==
+* [http://www.ari.uni-heidelberg.de/aricns/cnspages/4c01607.htm ARICNS]
+* [http://www.astro.uiuc.edu/~kaler/sow/alshain.html Beta Aquilae] by Professor Jim Kaler.
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=NAME+ALSHAIN&ident=NAME+ALSHAIN&submit=Aladin+previewer Image β Aquilae]
+{{clear}}
+{{Nearest star systems|9}}
+{{Stars of Aquila}}
+
+[[Category:Stars with proper names]]
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Spectroscopic binaries]]
+[[Category:Bayer objects|Aquilae, Beta]]
+[[Category:Aquila (constellation)]]
+[[Category:Binary stars]]
+[[Category:G-type subgiants]]
+
+[[ca:Alshain]]
+[[de:Alschain]]
+[[es:Alshain]]
+[[fa:شاهین (ستاره)]]
+[[fr:Beta Aquilae]]
+[[ko:알샤인]]
+[[hi:बेटा अक्विलाए तारा]]
+[[id:Beta Aquilae]]
+[[it:Alshain]]
+[[lb:Alshain (Stär)]]
+[[ms:Beta Aquilae]]
+[[nl:Alshain]]
+[[pt:Beta Aquilae]]
+[[ru:Альшаин]]
+[[sk:Alschain]]
+[[zh:河鼓一]]

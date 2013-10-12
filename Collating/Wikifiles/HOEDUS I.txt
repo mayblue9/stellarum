@@ -1,0 +1,124 @@
+{{Starbox begin
+ | name = Zeta Aurigae
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Auriga IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Auriga constellation and its surroundings]]
+     <div style="position: absolute; left: 62.2%; top: 36.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = The location of ζ Aurigae (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|05|02|28.68739}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|+41|04|33.0200}}<ref name=aaa474_2_653/>
+ | appmag_v    = 3.751<ref name=paspj19_209/>
+ | constell    = [[Auriga (constellation)|Auriga]]
+}}
+{{Starbox character
+ | class       = {{nowrap|K5 Ib-II + B5–7 V}}<ref name=apj679_2_1490/><ref name=ar55_1_31/>
+ | r-i         = 0.87
+ | v-r         =
+ | b-v         = +1.293<ref name=paspj19_209/>
+ | u-b         = +0.374<ref name=paspj19_209/>
+ | variable    = [[Algol variable]]
+}}
+{{Starbox astrometry
+ | radial_v    = +12.8<ref name=gcrv1953/>
+ | prop_mo_ra  = +9.45<ref name=aaa474_2_653/>
+ | prop_mo_dec = -20.71<ref name=aaa474_2_653/>
+ | parallax    = 4.15
+ | p_error     = 0.29
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox orbit
+ | reference   = <ref name=apj679_2_1490/>
+ | period_unitless = 972.162&nbsp;d
+ | axis_unitless = 905&nbsp;[[Solar radius|R<sub>☉</sub>]]
+ | eccentricity = {{nowrap|0.3973 ± 0.0007}}
+ | inclination = 87.0
+ | node        = <!--Longitude of node (in degrees)-->
+ | periastron  = [[Julian Date|Reduced JD]] 53039.9 ± 0.10
+ | periarg     = {{nowrap|328.9° ± 0.13}}
+ | k1          = {{nowrap|23.17 ± 0.02}}
+}}
+{{Starbox detail
+ | component1  = ζ Aur A
+ | mass        = {{nowrap|4.94 ± 0.79}}<ref name=an331_4_349/>
+ | radius      = 
+ | luminosity  = 3,254<ref name=an331_4_349/>
+ | temperature = 3,920<ref name=ajss74_1075/>
+ | metal_fe    = –0.26<ref name=ajss74_1075/>
+ | gravity     = 1.33<ref name=ajss74_1075/>
+ | rotational_velocity = 68<ref name=coapa239_1/>
+ | age_myr     = 
+ | component2  = ζ Aur B
+ | mass2       = 4.8<ref name=apj679_2_1490/>
+}}
+{{Starbox catalog
+ | names = Hoedus I, Haedi Haedus, Sadatoni, Saclateni, 8&nbsp;Aurigae, [[Bonner Durchmusterung|BD]]+40°1142, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1137, [[Henry Draper Catalogue|HD]]&nbsp;32068, [[Hipparcos catalogue|HIP]]&nbsp;23453, [[Harvard Revised catalogue|HR]]&nbsp;1612, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;39966.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Zeta Aurigae''' (ζ Aur, ζ Aurigae) is the [[Bayer designation]] for a [[binary star]] system in the northern  [[constellation]] of [[Auriga (constellation)|Auriga]]. It has the traditional names '''Haedus''' and '''Sadatoni'''. Based upon [[parallax]] measurements made during the [[Hipparcos]] mission, this system is approximately {{Convert|790|ly|pc|abbr=off|lk=on}} distant from the Earth. It has a combined [[apparent visual magnitude]] of 3.75,<ref name=paspj19_209/> which is bright enough to be seen with the naked eye.
+
+This is an [[eclipsing binary]] system with the [[Orbital plane (astronomy)|orbital plane]] being oriented close to the line of sight from the Earth; the [[inclination]] of this system is estimated as 87.0°.<ref name=apj679_2_1490/> As a result, an eclipse of one star by the other occurs during each orbit, causing the magnitude to decrease to +3.99. The pair have an [[orbital period]] of 972&nbsp;days (2.66 years) and an [[orbital eccentricity|eccentricity]] of 0.4.<ref name=apj679_2_1490/> The primary component has been categorized as a [[K-type star|K-type]] [[bright giant]] or [[supergiant]] star. Its companion is a [[B-type main sequence star]] of [[stellar classification]] B5&nbsp;V or B7&nbsp;V.<ref name=apj679_2_1490/><ref name=ar55_1_31/>
+
+==Etymology==
+It has the traditional names '''Haedus''' (also '''Hoedus''') and '''Sadatoni''' (rarely ''Saclateri).'' It is one of the two ''hædi'' (kids) of the she-goat [[Capella (star)|Capella]], the other being Hoedus II, [[Eta Aurigae]]. The name Sadatoni is from the Arabic الساعد الثاني ''as-sā<sup>c</sup>id aθ-θānī'' "the second arm (of the charioteer)". The rare traditional name ''Azaleh'' is shared (in the form ''Hassaleh'') with [[Iota Aurigae]].{{citation needed|reason=For Zeta being "Azaleh"|date=December 2010}}
+
+In [[Chinese language|Chinese]], {{lang|zh|柱}} ({{lang|zh-Latn|Zhù}}), meaning ''[[Net (Chinese constellation)|Pillars]]'', refers to an asterism consisting of ζ Aurigae, [[Epsilon Aurigae|ε Aurigae]], [[Eta Aurigae|η Aurigae]], [[Upsilon Aurigae|υ Aurigae]], [[Nu Aurigae|ν Aurigae]], [[Tau Aurigae|τ Aurigae]], [[Chi Aurigae|χ Aurigae]] and [[26 Aurigae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ζ Aurigae itself is known as {{lang|zh|柱二}} ({{lang|zh-Latn|Zhù yī}}, {{lang-en|the Second Star of Pillars}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=ar55_1_31>{{citation | last1=Shenavrin | first1=V. I. | last2=Taranova | first2=O. G. | last3=Nadzhip | first3=A. E. | title=Search for and study of hot circumstellar dust envelopes | journal=Astronomy Reports | volume=55 | issue=1 | pages=31-81 | month=January | year=2011 | doi=10.1134/S1063772911010070 | bibcode=2011ARep...55...31S | postscript=. }}</ref>
+
+<ref name=ajss74_1075>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants | journal=Astrophysical Journal Supplement Series | year=1990 | month=December | volume=74 | pages=1075–1128 | format=PDF | origin=STI  | bibcode=1990ApJS...74.1075M | doi=10.1086/191527 | postscript=. }}</ref>
+
+<ref name=gcrv1953>{{citation | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington, D.C. | bibcode=1953GCRV..C......0W | postscript=. }}</ref>
+
+<ref name=coapa239_1>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B | postscript=. }}</ref>
+
+<ref name=paspj19_209>{{citation | last1=Kiyokawa | first1=M. | title=Photoelectric Observation of Zeta Aurigae during the 1963-64 Eclipse | journal=Publications of the Astronomical Society of Japan | volume=19 | page=209 | year=1967 | bibcode=1967PASJ...19..209K | postscript=. }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H | arxiv=1003.2335 | postscript=. }}</ref>
+
+<ref name=apj679_2_1490>{{citation | last1=Eaton | first1=Joel A. | last2=Henry | first2=Gregory W. | last3=Odell | first3=Andrew P. | title=Orbits and Pulsations of the Classical ζ Aurigae Binaries | journal=The Astrophysical Journal | volume=679 | issue=2 | pages=1490–1498 | month=June | year=2008 | doi=10.1086/587452 | bibcode=2008ApJ...679.1490E | postscript=. |arxiv = 0802.2238 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=zet Aur -- Eclipsing binary of Algol type (detached) | work=SIMBAD Astronomical Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Aurigae | accessdate=2012-08-19 | postscript=. }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%201612 HR 1612]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=05+02+28.6869%2B41+04+33.015&ident=V*+zet+Aur&submit=Aladin+previewer Image Zeta Aurigae]
+
+{{Stars of Auriga}}
+
+[[Category:Henry Draper Catalogue objects|32068]]
+[[Category:Hipparcos objects|023453]]
+[[Category:Auriga (constellation)]]
+[[Category:Bayer objects|Aurigae, Zeta]]
+[[Category:Eclipsing binaries]]
+[[Category:K-type bright giants]]
+[[Category:B-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ca:Dseta Aurigae]]
+[[de:Azaleh]]
+[[es:Azaleh]]
+[[fa:ساعد ثانی]]
+[[fr:Zeta Aurigae]]
+[[ko:마차부자리 제타]]
+[[id:Zeta Aurigae]]
+[[it:Zeta Aurigae]]
+[[ja:ぎょしゃ座ゼータ星]]
+[[pt:Zeta Aurigae]]
+[[ru:Дзета Возничего]]
+[[sk:Azaleh]]
+[[fi:Zeta Aurigae]]
+[[zh:柱二]]

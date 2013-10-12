@@ -1,0 +1,52 @@
+{{Starbox short
+|name     = μ Virginis
+{{Starbox image
+| image=<div style="position: relative">[[File:Virgo IAU.svg|250px]]
+   <div style="position: absolute; left:17.5%; top:49.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+| caption=Merak in Ursa Major.
+}}
+|epoch    = [[J2000.0]]
+|constell = [[Virgo (constellation)|Virgo]]
+|ra       = 14<sup>h</sup> 43<sup>m</sup> 03.6<sup>s</sup>
+|dec      = &minus;5° 39' 30"
+|spectral = F2III
+|appmag_v = +3.87
+|dist_ly  = 60.9 ± 1.1
+|dist_pc  = 18.7 ± 0.3
+|names    = Rijl al Awwa, 107&nbsp;Virginis, [[Star catalogue#BD.2FCD.2FCPD|BD]]-05&nbsp;3936, FK5&nbsp;545, [[Star catalogue#Gl, GJ, Wo|Wo]]&nbsp;9491, [[Henry Draper Catalogue|HD]]&nbsp;129502, [[Hipparcos catalogue|HIP]]&nbsp;71957, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5487, [[Star catalogue#SAO|SAO]]&nbsp;140090.
+}}
+
+'''Mu Virginis''' (μ Vir, μ Virginis) is a [[star]] in the [[constellation]] [[Virgo (constellation)|Virgo]].  It has the traditional name '''Rijl al Awwa'''. 
+
+Rijl al Awwa is a yellow star of [[apparent magnitude]] 3.88 and [[stellar classification|spectral class]] F2&nbsp;III<ref name=aass85_3_1015/> about 61 [[light year]]s from Earth. This star has 1.7 times the mass of the Sun and 2.1 times the Sun's radius. It is shining with 9.8 times the Sun's luminosity, which it is radiating from its outer atmosphere at an [[effective temperature]] of 7,140&nbsp;K.<ref name=aass85_3_1015/>
+
+==Etymology==
+The medieval name Rijl al Awwa is from the Arabic رجل العوى ''rijl al-‘awwa’'' "The foot of the barking (dog)".
+
+==References==
+{{reflist|refs=
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+{{Nearest star systems|13}}
+{{Virgo}}
+
+[[Category:Bayer objects|Virginis, Mu]]
+[[Category:Virgo (constellation)]]
+[[Category:F-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Rijl al Awwa]]
+[[es:Rijl al Awwa]]
+[[eu:Rijl al Awwa]]
+[[fa:مو دوشیزه]]
+[[fr:Mu Virginis]]
+[[it:Mu Virginis]]
+[[nl:Rijl al Awwa]]
+[[pl:Mi Virginis]]
+[[pt:Mu Virginis]]
+[[sk:Rijl al Awwa]]
+[[zh:亢宿增七]]

@@ -1,0 +1,163 @@
+{{For}}
+{{Starbox begin
+| name=Bellatrix (γ Orionis)
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Orion IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Orion constellation and its surroundings]]
+     <div style="position: absolute; left: 125px; top: 132px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Orionis (circled)
+}}
+{{Starbox observe
+| epoch     = J2000
+| constell  = [[Orion (constellation)|Orion]]
+| pronounce = {{IPAc-en|ˈ|b|ɛ|l|ə|t|r|ɪ|k|s}}
+| ra        = {{RA|05|25|07.86325}}<ref name=aaa474_2_653/>
+| dec       = {{DEC|+06|20|58.9318}}<ref name=aaa474_2_653/>
+| appmag_v  = 1.64<ref name=aj76_1058/>
+}}
+{{Starbox character
+| class     = B2&nbsp;III<ref name=araa11_29/>
+| b-v       = –0.21<ref name=aj76_1058/>
+| u-b       = –0.86<ref name=aj76_1058/>
+| variable  = Eruptive{{Citation needed|date=December 2011}}
+}}
+{{Starbox astrometry
+| radial_v  = +18.2<ref name=gcsrv/>
+| prop_mo_ra  = –8.11<ref name=aaa474_2_653/>
+| prop_mo_dec = –12.88<ref name=aaa474_2_653/>
+| parallax  = 12.92
+| p_error   = 0.52
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v  = 
+}}
+{{Starbox detail
+| age_myr   = 20{{+-|2|4}}<ref name=apj736_2_89/>
+| metal_fe  = –0.25<ref name=aj135_1_209/>
+| mass      = 8.4{{+-|0.3|0.1}}<ref name=apj736_2_89/>
+| radius    = 6<ref name=lang2006/>
+| rotational_velocity = {{nowrap|46 ± 8}}<ref name=aaa515_A74/>
+| luminosity = ~6,400<ref name=kaler/>
+| gravity   = 3.60<ref name=aaa515_A74/>
+| temperature = 22,000<ref name=aaa515_A74/>
+}}
+{{Starbox catalog
+| names=Bellatrix, γ Orionis, Amazon Star, warrioress, 24 Ori, Al Najid, [[Harvard Revised catalogue|HR]] 1790, [[Bonner Durchmusterung|BD]] +06°919, [[Henry Draper catalogue|HD]] 35468, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 112740, FK5 201, [[Hipparcos catalogue|HIP]] 25336.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Bellatrix''', also known by its [[Bayer designation]] '''Gamma Orionis''' (γ Ori, γ Orionis), is the third brightest [[star]] in the [[constellation]] [[Orion (constellation)|Orion]]. A second-magnitude star, it is [[list of brightest stars|the twenty-seventh brightest star]] in the night sky. 
+
+==Observational history==
+Since 1963, Gamma Orionis was included with a set of bright stars that astronomers employ as a luminosity standard. These are used for comparison with other stars to check for variability, and so by definition, the apparent magnitude of Gamma Orionis was set to 1.64. However, when an all-sky [[Photometry (astronomy)|photometry]] survey was carried out in 1988, this star was itself found to be variable. It ranges in apparent magnitude from 1.59 to 1.64.<ref name=ibvs4028_1/>
+
+==Properties==
+[[File:1e9m comparison.png|thumb|left|From left to right, the stars Bellatrix, the Sun, and [[Algol|Algol B]]]]
+This is a massive star with about 8.4 times the [[solar mass|Sun's mass]]. It has an estimated age of approximately 20 million years;<ref name=apj736_2_89/> long enough for a star of this mass to consume the hydrogen at its core and begin to evolve away from the [[main sequence]] into a [[giant star]].<ref name=kaler/> The [[effective temperature]] of the outer envelope of this star is 22,000&nbsp;K,<ref name=aaa515_A74/> which is considerably hotter than the 5,778&nbsp;K on the Sun. This high temperature gives this star the blue-white hue that occurs with [[B-type star]]s.<ref name=csiro/> The measured [[angular diameter]] of this star, after correction for [[limb darkening]], is {{nowrap|0.72 ± 0.04 [[milliarcsecond|mas]]}}.<ref name=aaa431_773/> At an estimated distance of {{Convert|250|ly|pc|abbr=off|lk=on}},<ref name=aaa474_2_653/> this yields a physical size of about six times the [[Solar radius|radius of the Sun]].<ref name=lang2006/><ref name=kaler/>
+
+Bellatrix was once thought to belong to the [[Orion OB1 Association]] of stars that share a common motion through space, along with the "Orion's Belt" stars [[Zeta Orionis|ζ Ori]] (Alnitak), [[Epsilon Orionis|ε Ori]] (Alnilam), and [[Delta Orionis|δ Ori]] (Mintaka). However, this is no longer believed to be the case, as Gamma Orionis is now known to be much closer than the rest of the group.<ref name=kaler/> It is not known to have a stellar companion.<ref name=mnras389_2_869/> A 2011 search for nearby companions failed to conclusively find any objects that share a [[proper motion]] with Bellatrix. Three nearby candidates were all found to be background stars.<ref name=apj736_2_89/>
+
+==Etymology and cultural significance==
+The name ''Bellatrix'' is [[Latin]] for "female warrior", and first appeared in the works of [[Abu Ma'shar al-Balkhi]] and [[John of Seville]]. The name originally referred to Capella, but was transferred to Gamma Orionis by the Vienna school of astronomers in the 15th century, and appeared in contemporary reprints of the ''[[Alfonsine tables]]''.<ref name=Kunitzsch86>{{cite journal|last=Kunitzsch|first=Paul|date=1986|title=The Star Catalogue Commonly Appended to the Alfonsine Tables|journal=Journal for the History of Astronomy|volume=17|issue=49|pages=89-98|url=http://adsabs.harvard.edu/full/1986JHA....17...89K|bibcode = 1986JHA....17...89K }}</ref> It was also called the [[Amazons|Amazon Star]], which Richard Hinckley Allen proposed came from a loose translation of the Arabic name ''Al Najīd'', the Conqueror.<ref name=allen1963/> A c.1275 Arabic celestial globe records the name as المرزم "the lion".<ref>{{cite doi|10.1017/S0950473700000513}}</ref> Bellatrix is one of the four [[navigational stars]] in Orion that are used for [[celestial navigation]].<ref name=bennett2011/> The [[Chinese language|Chinese]] name for the star is 参宿五 ("''The Fifth of the Three Stars''").
+
+In the 17th century catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated ''Menkib al Jauza al Aisr'', which was translated into [[Latin]] as ''Humerus Sinister Gigantis''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+The [[Wardaman people]] of northern Australia know Bellatrix as ''Banjan'', the sparkling pigment used in ceremonies conducted by Rigel the Red Kangaroo Leader in a songline when Orion is high in the sky. The other stars of Orion are his ceremonial tools and entourage. Betelgeuse is ''Ya-jungin'' "Owl Eyes Flicking", watching the ceremonies.<ref>{{cite book  | last1 = Harney  | first1 = Bill Yidumduma 
+  | last2 = Cairns  | first2 = Hugh C.  | title = Dark Sparklers  | publisher = Hugh C. Cairns  | location = Merimbula, New South Wales
+|pages=139–40  | year = 2004  | origyear = 2003  | edition = Revised  | isbn = 0-9750908-0-1}}</ref>
+
+To the Inuit, the appearance of Betelgeuse and Bellatrix high in the southern sky after sunset marked the beginning of spring and lengthening days in late February and early March. The two stars were known as ''Akuttujuuk'' "those (two) placed far apart", referring to the distance between them, mainly to people from North Baffin Island and Melville Peninsula.<ref name=inuit>{{cite book |title = The Arctic sky: Inuit astronomy, star lore, and legend |last = MacDonald |first = John |publisher = Royal Ontario Museum/Nunavut Research Institute|location=Toronto, Ontario/Iqaluit, NWT |year = 1998 |isbn = 9780888544278|pages=52–54, 119}}</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | month=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=aj76_1058>{{citation | last1=Crawford | first1=D. L. | last2=Barnes | first2=J. V. | last3=Golson | first3=J. C. | title=Four-color, Hbeta, and UBV photometry for bright B-type stars in the northern hemisphere | journal=Astronomical Journal | volume=76 | pages=1058–1071 | month=December | year=1971 | doi=10.1086/111220 | bibcode=1971AJ.....76.1058C }}</ref>
+
+<ref name=apj736_2_89>{{citation | display-authors=1 | last1=Janson | first1=Markus | last2=Bonavita | first2=Mariangela | last3=Klahr | first3=Hubert | last4=Lafrenière | first4=David | last5=Jayawardhana | first5=Ray | last6=Zinnecker | first6=Hans | title=High-contrast Imaging Search for Planets and Brown Dwarfs around the Most Massive Stars in the Solar Neighborhood | journal=The Astrophysical Journal | volume=736 | issue=2 | page=89 | month=August | year=2011 | doi=10.1088/0004-637X/736/2/89 | bibcode=2011ApJ...736...89J |arxiv = 1105.2577 }}</ref>
+
+<ref name=gcsrv>{{citation | last1=Wilson | first1=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington, D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=SIMBAD>{{citation | title=BELLATRIX -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Orionis }}</ref>
+
+<ref name=aaa515_A74>{{citation | display-authors=1 | last1=Lefever | first1=K. | last2=Puls | first2=J. | last3=Morel | first3=T. | last4=Aerts | first4=C. | last5=Decin | first5=L. | last6=Briquet | first6=M. | title=Spectroscopic determination of the fundamental parameters of 66 B-type stars in the field-of-view of the CoRoT satellite | journal=Astronomy and Astrophysics | volume=515 | page=A74 | month=June | year=2010 | doi=10.1051/0004-6361/200911956 | bibcode=2010A&A...515A..74L |arxiv = 0910.2851 }}</ref>
+
+<ref name=ibvs4028_1>{{citation | last1=Krisciunas | first1=K. | title=Further Photometry of alpha Ori and gamma Ori | journal=Information Bulletin on Variable Stars | volume=4028 | page=1 | month=May | year=1994 | bibcode=1994IBVS.4028....1K }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 77\cdot 0.72)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 12\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | title=BELLATRIX (Gamma Orionis) | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/bellatrix.html | accessdate=2012-12-27 }}</ref>
+
+<ref name=allen1963>{{cite book | last1=Allen | first1=Richard H. | author-link=Richard Hinckley Allen | year=1963 | title=[[Star Names: Their Lore and Meaning]] | edition=reprint | publisher=[[Dover Publications]] Inc. | location=[[New York City|New York]], [[New York|NY]] | isbn=0-486-21079-0 | page=237 | url=books.google.com/books?id=5xQuAAAAIAAJ&pg=PA313 }}</ref>
+
+<ref name=bennett2011>{{citation | first1=George G. | last1=Bennett | title=Complete On-Board Celestial Navigation 2011-2015 | publisher=DoctorZed Publishing | year=2011 | isbn=0-9870924-0-5 | page=172 | url=http://books.google.com/books?id=cLHeY3bbLbMC&pg=PA172&lpg=PA172 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+{{wiktionary|bellatrix}}
+* [[Navigational stars|Navigational Stars]]
+
+{{Stars of Orion}}
+
+{{Sky|05|25|07.9|+|06|20|59|800}}
+
+[[Category:Bayer objects|Orionis, Gamma]]
+[[Category:B-type giants]]
+[[Category:Orion (constellation)]]
+[[Category:Eruptive variables]]
+[[Category:Stars with proper names]]
+
+[[ar:المرزم (نجم)]]
+[[bn:কার্তিকেয় (তারা)]]
+[[be:Белатрыкс]]
+[[ca:Bellatrix]]
+[[cs:Bellatrix]]
+[[da:Bellatrix]]
+[[de:Bellatrix]]
+[[es:Bellatrix]]
+[[fa:ناجذ]]
+[[fr:Gamma Orionis]]
+[[ko:벨라트릭스]]
+[[hi:बॅलाट्रिक्स तारा]]
+[[id:Gamma Orionis]]
+[[it:Bellatrix]]
+[[he:בלטריקס]]
+[[ka:ბელატრიქსი]]
+[[lb:Bellatrix (Stär)]]
+[[hu:Bellatrix]]
+[[mk:Белатрикс]]
+[[nl:Bellatrix (ster)]]
+[[ja:ベラトリックス]]
+[[no:Bellatrix]]
+[[pnb:بلاٹرکس]]
+[[nds:Bellatrix]]
+[[pl:Bellatrix]]
+[[pt:Bellatrix]]
+[[ru:Беллатрикс]]
+[[sk:Bellatrix]]
+[[fi:Bellatrix]]
+[[sv:Bellatrix]]
+[[uk:Беллатрикс]]
+[[zh:参宿五]]

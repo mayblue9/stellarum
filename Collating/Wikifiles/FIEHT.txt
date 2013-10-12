@@ -1,0 +1,132 @@
+{{Starbox begin
+| name=Zeta Ophiuchi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ophiuchus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ophiuchus constellation and its surroundings]]
+     <div style="position: absolute; left: 173px; top: 142px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Ophiuchi (circled)
+}}
+{{Starbox observe
+| epoch=J2000
+| ra       = {{RA|16|37|09.53905}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–10|34|01.5295}}<ref name=aaa474_2_653/>
+| appmag_v = 2.569<ref name=sbpes1984/>
+| constell = [[Ophiuchus]]
+}}
+{{Starbox character
+| class    = O9.5&nbsp;V<ref name=an332_2_147/>
+| b-v      = +0.032<ref name=sbpes1984/>
+| u-b      = –0.857<ref name=sbpes1984/>
+| variable = [[Beta Cephei variable|β Cep]]<ref name=an332_2_147/>
+}}
+{{Starbox astrometry
+| radial_v = –15.0<ref name=scfs/>
+| prop_mo_ra  = +15.26<ref name=aaa474_2_653/>
+| prop_mo_dec = +24.79<ref name=aaa474_2_653/>
+| parallax = 8.91
+| p_error  = 0.20
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = –4.2<ref name=rotational>{{cite doi|10.1046/j.1365-8711.2001.04658.x}}</ref>
+}}
+{{Starbox detail
+| mass     = 20.0<ref name=rotational/>
+| radius   = 8.5<ref name=rotational/>
+| luminosity  = 91,000<ref name=rotational/>
+| temperature = 34,000<ref name=rotational/>
+| gravity  = 3.58<ref name=rotational/>
+| metal_fe =
+| rotational_velocity = 400<ref name=an332_2_147/>
+| age_myr  = {{nowrap|3.0 ± 0.3}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names = 13 Oph, [[Bonner Durchmusterung|BD]]-10&nbsp;4350, FK5&nbsp;622, [[Henry Draper catalogue|HD]]&nbsp;149757, [[Hipparcos catalogue|HIP]]&nbsp;81377, [[Harvard Revised catalogue|HR]]&nbsp;6175, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;160006.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Zeta Ophiuchi''' (ζ Oph, ζ Ophiuchi) is a [[star]] located in the [[constellation]] of [[Ophiuchus]]. It has an [[apparent visual magnitude]] of 2.57,<ref name=sbpes1984/> making it the third brightest star in the constellation. [[Parallax]] measurements give an estimated distance of roughly {{Convert|366|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+ζ Ophiuchi is an enormous star with more than 19<ref name=mnras410_1_190/> times the [[solar mass|Sun's mass]] and eight<ref name=aaa442_1_263/> times its [[solar radius|radius]]. The [[stellar classification]] of this star is O9.5&nbsp;V,<ref name=an332_2_147/> with the [[luminosity class]] of V indicating that it is generating energy in its core by the [[nuclear fusion]] of hydrogen. This energy is being emitted from the outer envelope at an [[effective temperature]] of 34,000K,<ref name=aaa442_1_263/> giving the star the blue hue of an [[O-type star]].<ref name=csiro/> It is rotating rapidly and may be close to the velocity at which it would begin to break up. The [[stellar rotation|projected rotational velocity]] may be as high as {{nowrap|400<ref name=an332_2_147/> km s<sup>–1</sup>}} and it may be rotating at a rate of once per day.
+
+This is a young star with an age of only three million years.<ref name=mnras410_1_190/> Its luminosity is varying in a periodic manner similar to a [[Beta Cephei variable]]. This periodicity has a dozen or more frequencies ranging between 1–10 cycles per day.<ref name=an332_2_147/> In 1979, examination of the spectrum of this star found "moving bumps" in its helium line profiles. This feature has since been found in other stars, which have come to be called ζ Oph stars. These spectral properties are likely the result of non-radial pulsations.<ref name=mnras309_1_221/>
+
+This star is roughly half way through the initial phase of its [[stellar evolution]] and will, within the next few million years, expand into a red [[supergiant]] star wider than the orbit of [[Jupiter]] before ending its life in a [[supernova]] explosion leaving behind a Neutron Star or Pulsar. From the Earth, a significant fraction of the light from this star is absorbed by interstellar dust, particularly at the blue end of the spectrum. In fact, were it not for this dust, ζ Ophiuchi would shine several times brighter and be among the very brightest stars visible.<ref name=kaler/>
+
+X-ray emissions have been detected from Zeta Ophiuchi that vary periodically. The net X-ray flux is estimated at 1.2 × 10<sup>31</sup> [[erg]] s<sup>–1</sup>. In the energy range of 0.5–10&nbsp;[[Electronvolt|keV]], this flux varies by about 20% over a period of 0.77 days. This behavior may be the result of a magnetic field in the star. The measured average strength of the longitudinal field is about {{nowrap|141 ± 45 [[Gauss (unit)|G]]}}.<ref name=an332_2_147/>
+
+[[File:Runaway-star-zeta-ophiuchi-110125.jpg|left|thumb|Infrared image of the shockwave (yellow arc) created by the runaway star Zeta Ophiuchi in an interstellar dust cloud.]]
+ζ Ophiuchi is moving through space with a [[peculiar velocity]] of 30 km s<sup>–1</sup>. Based upon the age and direction of motion of this star, it is a member of the Upper Scorpius sub-group of the [[Scorpius-Centaurus Association]] of stars that share a common origin and [[space velocity (astronomy)|space velocity]].<ref name=aaa216_1_44/> Such [[runaway star]]s may be ejected by dynamic interactions between three or four stars. However, in this case the star may be a former component of a [[binary star]] system in which the more massive primary was destroyed in a [[Type II supernova]] explosion. The [[pulsar]] PSR B1929+10 may be the leftover remnant of this supernova, as it too was ejected from the association with a velocity vector that fits the scenario.<ref name=an332_2_147/>
+
+Due to the high [[Stellar kinematics|space velocity]] of Zeta Ophiuchi, in combination with high intrinsic brightness and its current location in a dust-rich area of the galaxy, the star is creating a bow-shock in the direction of motion.  This shock has been made visible via NASA's [[Wide-field Infrared Survey Explorer]].<ref>{{cite web | title=Runaway Star Plows Through Space| url=http://www.jpl.nasa.gov/wise/newsfeatures.cfm?release=2011-026 | accessdate=2011-01-24 }}</ref> The formation of this bow shock can be explained by a mass loss rate of about {{nowrap|1.1 × 10<sup>−7</sup>}} times the [[solar mass|Mass of the Sun]] per year, which equals the mass of the Sun every nine million years.<ref name=an332_2_147/>
+
+==Etymology==
+It was a member of indigenous Arabic [[Asterism (astronomy)|asterism]] '''al-Nasaq al-Yamānī''', "the Southern Line" of ''al-Nasaqān'' "the Two Lines".,<ref>{{cite book
+  | last=Kunitzsch, P. | first=Smart, T., | year=2006
+  | authorlink=
+  | title=A Dictionary of Modern Star names: A Short Guide to 254 Star names and Their Derivations
+  | edition=Second Revised | publisher=Sky Publishing
+  | location=Cambridge, MA | isbn=1-931559-44-9
+  | page=31}}</ref> along with [[Alpha Serpentis|α Ser]] (Unukalhai), [[Delta Serpentis|δ Ser]] (Qin, Tsin), [[Epsilon Serpentis|ε Ser]] (Ba, Pa), [[Delta Ophiuchi|δ Oph]] (Yed Prior), [[Epsilon Serpentis|ε Ser]] (Yed Posterior) and [[Gamma Ophiuchi|γ Oph]] (Tsung Ching).<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hercules*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=243 }}</ref>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''al-Nasaq al-Yamānī'' or '''Nasak Yamani''' were the title for two stars :[[Delta Serpentis|δ Ser]] as ''Nasak Yamani I'' and [[Epsilon Serpentis|ε Ser]] as ''Nasak Yamani II'' (exclude this star, [[Alpha Serpentis|α Ser]], [[Delta Ophiuchi|δ Oph]], [[Epsilon Ophiuchi|ε Oph]] and [[Gamma Ophiuchi|γ Oph]])<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市右垣}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán}}), meaning ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of ζ Ophiuchi, [[Beta Herculis|β Herculis]], [[Gamma Herculis|γ Herculis]], [[Kappa Herculis|κ Herculis]], [[Gamma Serpentis|γ Serpentis]], [[Beta Serpentis|β Serpentis]], [[Alpha Serpentis|α Serpentis]], [[Delta Serpentis|δ Serpentis]], [[Epsilon Serpentis|ε Serpentis]], [[Delta Ophiuchi|δ Ophiuchi]] and [[Epsilon Ophiuchi|ε Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ζ Ophiuchi itself is known as {{lang|zh|天市右垣十一}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán shíyī}}, {{lang-en|the Eleventh Star of Right Wall of Heavenly Market Enclosure}}), represent the state '''[[Han (state)|Han]]''' (韓),<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ophiuchus*.html Star Names - R.H.Allen p.302]</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> together with [[35 Capricorni]] in ''[[Girl (Chinese constellation)|Twelve States]]'' (asterism).
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=sbpes1984>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=South African Astronomical Observatory Circulars | volume=8 | page=59 | year=1984 | bibcode=1984SAAOC...8...59C }}</ref>
+
+<ref name=an332_2_147>{{citation | last1=Hubrig | first1=S. | last2=Oskinova | first2=L. M. | last3=Schöller | first3=M. | title=First detection of a magnetic field in the fast rotating runaway Oe star ζ Ophiuchi | journal=Astronomische Nachrichten | volume=332 | issue=2 | page=147 | month=February | year=2011 | doi=10.1002/asna.201111516 | bibcode=2011AN....332..147H |arxiv = 1101.5500 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/zetaoph.html | title=ZETA OPH (Zeta Ophiuchi) }}</ref>
+
+<ref name=aaa442_1_263>{{citation | last1=Villamariz | first1=M. R. | last2=Herrero | first2=A. | title=Chemical composition of Galactic OB stars. II. The fast rotator ζ Ophiuchi | journal=Astronomy and Astrophysics | volume=442 | issue=1 | pages=263–270 | month=October | year=2005 | doi=10.1051/0004-6361:20052848 | bibcode=2005A&A...442..263V |arxiv = astro-ph/0507400 }}</ref>
+
+<ref name=SIMBAD>{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Ophiuchi | title=zet Oph -- Be Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate = 2011-01-07 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+<ref name=aaa216_1_44>{{citation | last1=de Geus | first1=E. J. | last2=de Zeeuw | first1=P. T. | last3=Lub | first3=J. | title=Physical parameters of stars in the Scorpio-Centaurus OB association | journal=Astronomy and Astrophysics | volume=216 | issue=1-2 | pages=44–61 | month=June | year=1989 | bibcode=1989A&A...216...44D }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=january | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+{{Stars of Ophiuchus}}
+
+[[Category:Bayer objects|Ophiuchi, Zeta]]
+[[Category:O-type main sequence stars]]
+[[Category:Ophiuchus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ca:Zeta Ophiuchi]]
+[[de:Han (Stern)]]
+[[es:Zeta Ophiuchi]]
+[[fa:زتا مارافسای]]
+[[fr:Zeta Ophiuchi]]
+[[ko:뱀주인자리 제타]]
+[[id:Zeta Ophiuchi]]
+[[it:Zeta Ophiuchi]]
+[[lb:Han (Stär)]]
+[[ja:へびつかい座ゼータ星]]
+[[pl:Zeta Ophiuchi]]
+[[pt:Zeta Ophiuchi]]
+[[sk:Zeta Ophiuchi]]
+[[tr:Zeta Ophiuchi]]
+[[zh:天市右垣十一]]

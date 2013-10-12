@@ -1,0 +1,157 @@
+{{Starbox begin
+| name = 40 Eridani
+}}
+{{Starbox image
+| image =
+     <div style="position: relative">[[File:Eridanus constellation map.svg|250px|alt=Diagram showing star positions and boundaries of the Eridanus constellation and its surroundings]]
+     <div style="position: absolute; left: 88px; top: 46px">[[File:Cercle rouge 100%.svg|9px]]</div>
+     </div>
+| caption = A [[star chart]] of the Eridanus constellation showing the position of 40 Eridani (circled)
+}}
+{{Starbox observe 3s
+| epoch = [[J2000.0]]
+| constell = [[Eridanus (constellation)|Eridanus]]
+| component1 = 40 Eridani A
+| ra1 = {{RA|04|15|16.320}}<ref name="hip">[[Hipparcos Catalogue]]; [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/239 I/239].  Astrometric data updated from J1991.25 to J2000.0.</ref>
+| dec1 = {{DEC|−07|39|10.34}}<ref name="hip" />
+| appmag_v1 = 4.43<ref name="hip" />
+| component2 = 40 Eridani B
+| ra2 = {{RA|04|15|21.786}}<ref name="ucac2">[[Second U.S. Naval Observatory CCD Astrograph Catalog]] (UCAC2); [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/289 I/289].</ref>
+| dec2 = {{DEC|−07|39|29.22}}<ref name="ucac2" />
+| appmag_v2 = 9.52<ref name="gj">[[Gliese Catalogue of Nearby Stars]], preliminary 3rd ed., 1991. [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/70A V/70A].</ref>
+| component3 = 40 Eridani C
+| ra3 = {{RA|04|15|21.50}}<ref name="revl">[http://adsabs.harvard.edu/abs/2003ApJ...582.1011S Improved Astrometry and Photometry for the Luyten Catalog. II. Faint Stars and the Revised Catalog], Samir Salim and Andrew Gould, ''Astrophysical Journal'' '''582''', #2 (January 2003), pp. 1011–1031; [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?J/ApJ/582/1011 J/ApJ/582/1011].</ref>
+| dec3 = {{DEC|−07|39|22.3}}<ref name="revl" />
+| appmag_v3 = 11.17<ref name="gj" />
+}}
+{{Starbox character
+| class = K1V<ref name="hip" /> / DA4<ref name="gj" /> / M4.5eV<ref name="gc">[[General Catalogue of Trigonometric Parallaxes]], 4th ed., 1995. [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/238A I/238A].</ref>
+| r-i = <!--R-I color-->
+| v-r = <!--V-R color-->
+| b-v = 0.82<ref name="hip" /> / 0.03<ref name="gj" /> / 1.67<ref name="gj" />
+| u-b = 0.45<ref name="gj" /> / -0.68<ref name="gj" /> / 0.83<ref name="gj" />
+| variable = <!--Variability type-->
+}}
+{{Starbox astrometry
+| radial_v = -43.0<ref name="geneva" /> / ? / -46<ref name="gj" />
+| prop_mo_ra =<br>-2239.72<ref name="hip" /> / -2228.3<ref name="ucac2" /> /<br>-2237<ref name="revl" />
+| prop_mo_dec =<br>-3420.35<ref name="hip" /> / -3377.1<ref name="ucac2" /> /<br>-3411<ref name="revl" />
+| parallax = 198.26±0.84<ref name="hip" />
+| p_error = <!--Parallax error (in milliarcsec)-->
+| parallax_footnote = <!--Parallax footnote-->
+| dist_ly = 16.45±0.07
+| dist_pc = 5.04±0.02
+| space_v_u = <!--Space velocity (U), σu cos v w (in km/s)-->
+| space_v_v = <!--Space velocity (V), σv cos w (in km/s)-->
+| space_v_w = <!--Space velocity (W), σw (in km/s)-->
+| absmag_v = 5.92 / 11.01 / 12.66
+}}
+{{Starbox visbin
+| reference = <!--Reference-->
+| name = 40 Eridani BC
+| period = ~8,000<ref name="heintz" />
+| axis = <!--Semimajor axis (in arcseconds)-->
+| axis_unitless = ~400<ref name="ss" /> [[Astronomical unit|AU]]
+| eccentricity = <!--Eccentricity-->
+| inclination = <!--Inclination (in degrees)-->
+| node = <!--Longitude of node (in degrees)-->
+| periastron = <!--Periastron epoch-->
+| periarg = <!--Argument of periastron (in degrees)-->
+}}
+{{Starbox visbin
+| reference = <!--Reference-->
+| name = 40 Eridani C
+| period = 252.1<ref name="heintz" />
+| axis = <!--Semimajor axis (in arcseconds)-->
+| axis_unitless = ~35<ref name="heintz" /> [[Astronomical unit|AU]]
+| eccentricity = 0.410<ref name="heintz" />
+| inclination = 108.9<ref name="heintz" />
+| node = 150.9<ref name="heintz" />
+| periastron = 1849.6<ref name="heintz" />
+| periarg = 327.8<ref name="heintz" />
+}}<!--
+-->{{Starbox detail
+| source = <!--[source url]-->
+| mass = 0.84 <ref name="geneva">[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/117A/newcat&recno=2674 HD 26965], database entry, Geneva-Copenhagen Survey of Solar neighbourhood, J. Holmberg et al., 2007, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/117A V/117A], accessed on line November 19, 2008; described in [http://adsabs.harvard.edu/abs/2004A&A...418..989N The Geneva-Copenhagen survey of the Solar neighbourhood. Ages, metallicities, and kinematic properties of ~14 000 F and G dwarfs], B. Nordström, M. Mayor, J. Andersen, J. Holmberg, F. Pont, B. R. Jørgensen, E. H. Olsen, S. Udry, and N. Mowlavi, ''Astronomy and Astrophysics'' '''418''' (May 2004), pp. 989–1019.</ref> / 0.50<ref name="das">[http://adsabs.harvard.edu/abs/1997ApJ...488..375F The Temperature Scale and Mass Distribution of Hot DA White Dwarfs], David S. Finley, Detlev Koester, and Gibor Basri, ''Astrophysical Journal'' '''488''' (October 10, 1997), pp. 375–396.</ref><ref name="hippmr">[http://adsabs.harvard.edu/abs/1998ApJ...494..759P Testing the White Dwarf Mass-Radius Relation with HIPPARCOS], J. L. Provencal, H. L. Shipman, Erik Hog, and P. Thejll, ''Astrophysical Journal'' '''494''' (February 20, 1998), pp. 759–767.</ref> / 0.20<ref name="zak">Catalogue of nearest stars until 10pc, V. A. Zakhozhaj.  Revised 1996. [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/101 V/101].</ref>
+| radius = 0.81<ref name="zak" /> / 0.014<ref name="hippmr" /> / 0.31<ref name="zak" />
+| gravity = <!--Surface gravity (given as the base 10 logarithm expressed in cgs units)-->
+| luminosity = 0.46<ref name="smith" group="note">From ''L''=4π''R''<sup>2</sup>σ''T''<sub>eff</sub><sup>4</sup>, where ''L'' is the luminosity, ''R'' is the radius, ''T''<sub>eff</sub> is the effective surface temperature and ''σ'' is the [[Stefan–Boltzmann constant]].</ref>
+ / 0.013<ref name="keid">[http://www.astro.uiuc.edu/~kaler/sow/keid.html Keid], Jim Kaler, STARS web page, accessed May 15, 2007.</ref> / 0.008<ref name="smith" group="note" />
+| temperature = 5,300<ref name="geneva" /> / 16,500<ref name="das" /> / 3,100<ref name="ir">[http://adsabs.harvard.edu/abs/1983ApJS...53..643J Predicted infrared brightness of stars within 25 parsecs of the sun], H. M. Johnson and C. D. Wright, ''Astrophysical Journal Supplement'' '''53''' (November 1983), pp. 643–711.</ref>
+| metal = [Fe/H]=&minus;0.19<ref name=aaa95>{{cite journal
+ | last=Cayrel de Strobel | first=G.
+ | coauthors=Hauck, B.; Francois, P.; Thevenin, F.; Friel, E.; Mermilliod, M.; Borde, S.
+ | title=A catalogue of Fe/H determinations - 1991 edition
+ | journal=Astronomy & Astrophysics | year=1992 | volume=95
+ | pages=273–336
+ | bibcode=1992A&AS...95..273C}}&mdash;metallicity for component A</ref>
+<!--Metallicity (no units provided by template)-->
+| rotation = <!--Rotation (no units provided by template)-->
+| age_gyr=5.6<ref name="MH08">{{cite journal
+ | author=Mamajek, Eric E.; Hillenbrand, Lynne A.
+ | title=Improved Age Estimation for Solar-Type Dwarfs Using Activity-Rotation Diagnostics
+ | journal=The Astrophysical Journal | volume=687 | issue=2
+ | pages=1264–1293 | month=November | year=2008
+ | doi=10.1086/591785 | bibcode=2008ApJ...687.1264M |arxiv = 0807.1686 }}</ref>
+}}
+{{Starbox catalog
+| names = '''40 Eridani A:'''<br>Keid, [[Bayer designation|ο<sup>2</sup> Eri A]], [[Flamsteed designation|40 Eri A]], [[Aitken Double Star Catalogue|ADS 3093 A]], [[Durchmusterung|BD-07°780]], [[Catalogue of Components of Double and Multiple Stars|CCDM J04153-0739 A]], [[General Catalogue of Trigonometric Parallaxes|GCTP 945]], [[Gliese Catalogue of Nearby Stars|Gliese 166 A]], [[Henry Draper catalogue|HD 26965]], [[Hipparcos Catalogue|HIP 19849]], [[Bright Star Catalogue|HR 1325]], [[Luyten Half-Second catalogue|LHS 23]], [[Luyten Two-Tenths catalogue|LTT 1907]], [[Smithsonian Astrophysical Observatory Star Catalog|SAO 131063]]<br>'''40 Eridani B:'''<br>[[Bayer designation|ο<sup>2</sup> Eri B]], [[Flamsteed designation|40 Eri B]], [[Aitken Double Star Catalogue|ADS 3093 B]], [[Durchmusterung|BD-07°781 A]], [[Catalogue of Components of Double and Multiple Stars|CCDM J04153-0739 B]], [[Henry L. Giclas catalogue|G 160-060]], [[General Catalogue of Trigonometric Parallaxes|GCTP 945]], [[Gliese Catalogue of Nearby Stars|Gliese 166 B]], [[Henry Draper catalogue|HD 26976]], [[Luyten Half-Second catalogue|LHS 24]], [[Luyten Two-Tenths catalogue|LTT 1908]], [[Smithsonian Astrophysical Observatory Star Catalog|SAO 131065]]<br>'''40 Eridani C:'''<br>[[Bayer designation|ο<sup>2</sup> Eri C]], [[Flamsteed designation|40 Eri C]], [[Variable star designation|DY Eri]], [[Aitken Double Star Catalogue|ADS 3093 C]], [[Durchmusterung|BD-07°781 B]], [[Durchmusterung|BD-07°781 C]], [[Catalogue of Components of Double and Multiple Stars|CCDM J04153-0739 C]], [[General Catalogue of Trigonometric Parallaxes|GCTP 945]], [[Gliese Catalogue of Nearby Stars|Gliese 166 C]], [[Luyten Half-Second catalogue|LHS 25]], [[Luyten Two-Tenths catalogue|LTT 1909]]}}
+{{Starbox reference
+| Simbad = HD+26965
+| ARICNS = <!--Code-->
+}}
+{{Starbox end}}
+
+'''40 Eridani''' (also known as '''Omicron<sup>2</sup> Eridani''', or '''Keid''', from the Arabic word ''qayd'', ''(egg) shells'') is a [[triple star|triple]] [[star system]] less than 16.5 [[light year]]s away from [[Earth]].  It is in the constellation [[Eridanus (constellation)|Eridanus]].  The primary star of the system, 40 Eridani A, is easily visible to the naked eye.  The pair 40 Eridani B/C was discovered on January 31, 1783, by [[William Herschel]].<ref>[http://links.jstor.org/sici?sici=0261-0523(1785)75%3C40%3ACODSBW%3E2.0.CO%3B2-P Catalogue of Double Stars], William Herschel, ''Philosophical Transactions of the Royal Society of London'' '''75''' (1785), pp. 40–126</ref><sup>, p.&nbsp;73</sup>  It was again observed by [[Friedrich Georg Wilhelm Struve]] in 1825 and by [[Otto Wilhelm von Struve]] in 1851.<ref name="heintz">[http://adsabs.harvard.edu/abs/1974AJ.....79..819H Astrometric study of four visual binaries], W. D. Heintz, ''Astronomical Journal'' '''79''', #7 (July 1974), pp. 819–825.</ref><ref>[http://adsabs.harvard.edu/abs/1926BAN.....3..128V  The orbit and the masses of 40 Eridani BC], W. H. van den Bos, ''Bulletin of the Astronomical Institutes of the Netherlands'' '''3''', #98 (July 8, 1926), pp. 128–132.</ref>  In 1910, it was discovered that although component B was a faint star, it was white in color.  This meant that it had to be a small star; in fact it was a [[white dwarf]], the first discovered.<ref name="schatzman">''White Dwarfs'', E. Schatzman, Amsterdam: North-Holland, 1958. <sup>, p.&nbsp;1</sup></ref>
+
+== General information ==
+'''40 Eridani A''' is a [[main sequence|main-sequence]] [[dwarf star|dwarf]] of [[spectral type]] K1. Its two companion stars, '''40 Eridani B''' and '''40 Eridani C''', are a 9th magnitude [[white dwarf]] (spectral type DA4) and an 11th magnitude [[red dwarf]] [[flare star]] (spectral type M4.5e) which has the [[variable star]] designation DY Eridani.  Presumably, while B was a main-sequence star, it was the most massive member of the system, but ejected most of its mass before it became a white dwarf.  B and C orbit each other approximately 400 [[astronomical unit]]s from the primary star, A.<ref name="ss" />  Their orbit has a semimajor axis of 35 [[astronomical unit|AU]] (which is also the approximate average distance between B and C) and is rather elliptical ([[Orbital eccentricity|eccentricity]] 0.410).<ref name="heintz" />
+
+Although 40 Eridani B is neither the closest white dwarf, nor the brightest in the night sky, it is by far the easiest to observe; it is nearly three magnitudes brighter than [[Van Maanen's Star]] (the nearest solitary white dwarf), and unlike the companions of [[Procyon]] and [[Sirius]] it is not swamped in the glare of a much brighter primary.<ref name="keid">[http://www.astro.uiuc.edu/~kaler/sow/keid.html Keid], Jim Kaler, STARS web page, accessed 15/5/2007, 10/12/2011.</ref>
+
+==Potential for life==
+[[File:Vulcan hz-590.jpg|320px|thumb|left|Comparison of the [[habitable zone]] of 40 Eridani A (here labeled ''Vulcan'') with the habitable zone in our solar system. (Note that "[[Vulcan (Star Trek planet)|Vulcan]]" is a fictional planet said to be orbiting the star in the [[Star Trek]] universe, not a discovered extrasolar planet.)]]
+The primary component has a [[metallicity]] of <nowiki>[Fe/H]</nowiki>=−0.19, i.e. about 65 per cent of the solar metallicity, thus providing a probably sufficient heavy element abundance for the formation of terrestrial planets.{{Citation needed|date=May 2011}} However, no planet orbiting a member of 40 Eridani is known so far.
+The [[habitable zone]] of 40 Eridani A, where a planet could exist with liquid water, is near 0.68 (calculated from [[habitable zone]]) [[astronomical unit|AU]] from A. At this distance a planet would complete a revolution in 223 Earth days (according to the third [[Kepler's laws of planetary motion|Kepler's law]]) and 40 Eridani A would appear nearly 20%<ref name="radiusperspective" group="note">From <math>h={1\over d}*a</math>, where h is the apparent height, d is the distance of the object, and a is the actual size of the object.</ref> wider than the Sun does on Earth. An observer on a planet in the 40 Eridani A system would see the B/C pair as unusually bright ([[apparent magnitude|magnitudes]] -8 and -6) white and reddish-orange stars in the night sky. This is not bright enough to diminish the darkness at night, though they would be visible in daylight (assuming an Earth-normal atmosphere). (By comparison, Earth's full moon is magnitude −12.6, and [[Venus]] at its brightest is −4.7.) It is extremely unlikely that habitable planets exist around the B star because planets circling 40 Eridani B would probably have been destroyed or sterilized by its evolution into a white dwarf. As for 40 Eridani C, it is prone to flares, which cause large momentary increases in the emission of [[X-ray]]s as well as visible light. This would be lethal to [[Earth]]-type life on planets near the flare star.<ref name="ss">[http://www.solstation.com/stars/40erida3.htm 40 (Omicron2) Eridani 3] at solstation.com, accessed May 15, 2007.</ref>
+
+==See also==
+* [[Stars and planetary systems in fiction#40 Eridani|40 Eridani in fiction]]
+
+== Notes ==
+{{reflist|group=note|2}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/keid.html Keid] at Jim Kaler's STARS.
+* [http://www.solstation.com/stars/40erida3.htm 40 (Omicron2) Eridani 3] at solstation.com.
+* [http://www.stellar-database.com/Scripts/search_star.exe?ID=175600 Omicron(2) Eridani] entry at the Internet Stellar Database.
+
+{{Sky|04|15|16.32|-|07|39|10.34|16.45}}
+{{Nearest systems|4}}
+{{Stars of Eridanus}}
+
+[[Category:Eridanus (constellation)]]
+[[Category:Triple star systems]]
+[[Category:Flamsteed objects|Eridani, 40]]
+[[Category:Bayer objects|Eridani, Omicron2]]
+[[Category:White dwarf stars]]
+[[Category:Stars with proper names]]
+
+[[ar:القيض (نجم)]]
+[[ca:40 Eridani]]
+[[de:Keid]]
+[[es:40 Eridani]]
+[[fa:قید (ستاره)]]
+[[fr:40 Eridani]]
+[[ko:케이드]]
+[[id:40 Eridani]]
+[[it:Keid]]
+[[ja:エリダヌス座40番星]]
+[[pl:40 Eridani]]
+[[pt:40 Eridani]]
+[[ru:40 Эридана]]
+[[sk:Keid]]
+[[fi:40 Eridani]]
+[[zh:波江座40]]

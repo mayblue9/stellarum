@@ -1,0 +1,130 @@
+{{Starbox begin
+ | name=Mintaka Aab/B/C
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Orion IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Orion constellation and its surroundings]]
+     <div style="position: absolute; left: 117px; top: 163px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Orionis (circled)
+}}
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|05|32|00.4}}
+ | dec={{DEC|−00|17|57}}
+ | appmag_v=2.23 (3.2/3.3) / 6.85 / 14.0
+ | constell=[[Orion (constellation)|Orion]]
+}}
+{{Starbox character
+ | class=O9.5 II + B0.5III
+ | b-v=−0.22
+ | u-b=−1.05
+ | variable=[[Eclipsing binary]]
+}}
+{{Starbox astrometry
+ | radial_v=16
+ | prop_mo_ra=1.67
+ | prop_mo_dec=0.46
+ | parallax=3.56
+ | p_error=0.83
+ | absmag_v=−4.99
+}}
+{{Starbox detail
+ | component1=Mintaka A
+ | age_myr=3–6
+ | metal_fe=
+ | mass=20<ref name="kaler"/>
+ | radius=15.8<ref name=mnras189_601/>
+ | rotation=
+ | luminosity=90,000<ref name="kaler" />
+ | temperature=31,802 ± 418<ref name=mnras189_601/>
+ | gravity=3.5<ref name=mnras189_601/>
+ | component2=Mintaka B
+ | mass2=20<ref name="kaler"/>
+ | luminosity2=90,000<ref name="kaler" />
+ | temperature2=33,000<ref name="kaler" />
+}}
+{{Starbox catalog
+ | names=Mintaka, δ Orionis, 34 Orionis, 88 G. Orionis, [[Harvard Revised catalogue|HR]] 1852/1851, [[Bonner Durchmusterung|BD]] −00°983, [[Henry Draper catalogue|HD]] 36486/36485, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 132220/132221, FK5 206, [[Hipparcos catalogue|HIP]] 25930.
+}}
+{{Starbox reference
+ | Simbad=HD+36486
+}}
+{{Starbox end}}
+'''Mintaka''' (δ Orionis, 34 Orionis) is a [[star]] some 900 light years distant in the [[constellation]] [[Orion (constellation)|Orion]]. The name ''Mintaka'' comes from منطقة ''manţaqah'', which means "the belt" in [[Arabic language|Arabic]].<ref name=allen>{{cite book |title=Star-names and their meanings|author=Allen, Richard Hinckley|year=1963|origyear=1899|publisher=Dover Publications|location=New York, NY |isbn=1-931559-44-9|page=314}}</ref> Together with [[Alnitak]] (Zeta Orionis) and [[Alnilam]] (Epsilon Orionis), the three stars make up the [[Orion's Belt|belt of Orion]], known by many names among ancient cultures. When Orion is close to the [[meridian (astronomy)|meridian]], Mintaka is the right-most of the belt's stars as seen by an observer in the [[Northern Hemisphere]] facing [[south]].
+
+==System==
+Mintaka is actually a [[binary star|multiple star]] at the western end of Orion's belt, with a [[apparent magnitude|magnitude]] 7 star about 52" away from the main component and an even fainter star in between. The main component itself is also double, consisting of a [[stellar classification#Class_B|class B]] giant and a smaller but hotter [[stellar classification#Class_O|class O]]. The stars orbit each other every 5.73 days. These two stars are both about 90,000 times as [[luminosity|luminous]] as the [[Sun]] with a mass of some 20 [[solar mass]]es.
+
+In 1904, [[Johannes Franz Hartmann|Johannes Hartmann]] discovered that interstellar space contains a thin gas, the [[interstellar medium]],<ref>{{cite book|authorlink=Isaac Asimov|first=Isaac|last=Asimov|title=[[Asimov's Biographical Encyclopedia of Science and Technology]]|edition=2nd}}</ref> by using Mintaka as a background source.
+
+==Etymology and cultural significance==
+Mintaka was also seen by astrologers as a portent of good fortune.<ref name=allen/>
+
+===Orion's belt===
+{{Main|Orion's Belt}}
+The three belt stars were collectively known by many names in many cultures. Arabic terms include ''Al Nijād'' 'the Belt', ''Al Nasak'' 'the Line', ''Al Alkāt'' 'the Golden Grains or Nuts' and, in modern Arabic, ''Al Mīzān al H•akk'' 'the Accurate Scale Beam'. In [[Chinese mythology]] they were also known as The Weighing Beam.<ref name=allen/> The belt was also the [[Three Stars (Chinese constellation)|Three Stars]] mansion ({{zh|t=參宿|s=参宿|p=Shēn Xiù}}), one of the [[Twenty-eight mansions]] of the [[Chinese constellation]]s.  It is one of the western mansions of the [[White Tiger (Chinese astronomy)|White Tiger]].
+
+In pre-Christian [[Scandinavia]], the belt was known as [[Frigg]]'s [[Distaff]] (''Friggerock'') or [[Freyja]]'s distaff.<ref>Schön, Ebbe. (2004). ''Asa-Tors hammare, Gudar och jättar i tro och tradition''. Fält & Hässler, Värnamo. p. 228.</ref> Similarly Jacob's Staff and Peter's Staff were European [[Bible|biblical]] derived terms, as were the Three Magi, or the Three Kings. [[Väinämöinen]]'s Scythe ([[Kalevala]]) and Kalevan Sword are terms from [[Finnish mythology]].<ref name=allen/>
+
+The [[Seri people]] of northwestern Mexico call the three belt stars ''Hapj'' (a name denoting a hunter), which consists of three stars:  ''Hap'' (mule deer), ''Haamoja'' (pronghorn), and ''Mojet'' (bighorn sheep). ''Hap'' is in the middle and has been shot by the hunter; its blood has dripped onto [[Tiburón Island]].<ref>{{cite book |last=Moser |first=Mary B. |coauthors=Stephen A. Marlett |title=Comcáac quih yaza quih hant ihíip hac: Diccionario seri-español-inglés |url=http://lengamer.org/admin/language_folders/seri/user_uploaded_files/links/File/DiccionarioSeri2005.pdf |year=2005 |publisher=Universidad de Sonora and Plaza y Valdés Editores |location=Hermosillo, Sonora and Mexico City|language=Spanish and English}}</ref>
+
+In Spain and Portugal, this asterism is known as ''Las Tres Marías'' or ''As Três Marias'', which stand for ''The Three Marys'' in Spanish and Portuguese respectively.
+
+In Christian astromythology, Mintaka is also regarded as the third of the [[three Magi]] on their way to [[Bethlehem]] ([[Sirius]]): [[Three Magi#Names|Caspar]], [[Melchior]], [[Balthasar]].
+
+==Namesakes==
+The [[USS Mintaka (AK-94)|USS ''Mintaka'' (AK-94)]] was a [[United States Navy]] [[Crater class cargo ship|''Crater''-class cargo ship]] named after the star.
+
+==See also==
+* [[Stars and planetary systems in fiction#Mintaka (Delta Orionis)|Mintaka in fiction]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name="kaler">{{citation | title=MINTAKA (Delta Orionis) | publisher=University of Illinois | work=Stars | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/mintaka.html | accessdate=2010-02-07 }}</ref>
+
+}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/mintaka.html Mintaka]
+* [http://antwrp.gsfc.nasa.gov/apod/ap090210.html Image of Mintaka] from [[Astronomy Picture of the Day|APOD]]
+* http://www.constellationsofwords.com/stars/Mintaka.html
+
+{{Stars of Orion}}
+{{Sky|05|32|00.4|-|00|17|57|800}}
+
+[[Category:Bayer objects|Orionis, Delta]]
+[[Category:Binary stars]]
+[[Category:Eclipsing binaries]]
+[[Category:O-type bright giants]]
+[[Category:B-type main sequence stars]]
+[[Category:Orion (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:المنطقة (الجبار)]]
+[[bn:চিত্রলেখ]]
+[[ca:Mintaka]]
+[[cs:Mintaka]]
+[[de:Mintaka]]
+[[es:Mintaka]]
+[[fa:منطقه (ستاره)]]
+[[fr:Delta Orionis]]
+[[ko:민타카]]
+[[id:Delta Orionis]]
+[[it:Mintaka]]
+[[he:מינטקה]]
+[[lb:Mintaka (Stär)]]
+[[hu:Mintaka]]
+[[nl:Mintaka]]
+[[ja:ミンタカ]]
+[[no:Mintaka]]
+[[pnb:منٹاکا]]
+[[pl:Mintaka]]
+[[pt:Delta Orionis]]
+[[ru:Минтака]]
+[[sk:Mintaka]]
+[[fi:Delta Orionis]]
+[[zh:參宿三]]

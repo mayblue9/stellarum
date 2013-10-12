@@ -1,0 +1,96 @@
+{{Starbox begin
+| name=P Cygni}}
+{{Starbox image
+| image=[[File:P Cygni Profile.png|thumb]]
+| caption=P Cygni's characteristic and eponymous line profile for [[H-alpha|H-α]]
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|20|17|47.2018}}<ref name="SIMBAD-P-Cygni">{{cite web
+  |title=P Cygni
+  |publisher=SIMBAD Astronomical Database
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=P+Cygni
+  |accessdate=2010-11-25}}</ref>
+| dec={{DEC|+38|01|58.549}}
+| appmag_v=4.795<ref name="SIMBAD-P-Cygni"/><br>3 to 6<ref name=GCVS-P-Cyg>{{cite web
+  |title=GCVS Query=P Cyg
+  |publisher=[[General Catalogue of Variable Stars]] @ [[Centre de données astronomiques de Strasbourg|Sternberg Astronomical Institute, Moscow, Russia]]
+  |url=http://www.sai.msu.su/gcvs/cgi-bin/search.cgi?search=P+Cyg
+  |accessdate=2010-11-25}}</ref>
+| constell=[[Cygnus (constellation)|Cygnus]] }}
+{{Starbox character
+| class=B1Ia+
+| b-v=+0.42
+| u-b=-0.58
+| variable=[[Luminous Blue Variable]]<ref name=GCVS-P-Cyg/> }}
+{{Starbox astrometry
+| radial_v=-8.9
+| prop_mo_ra=-3.53 
+| prop_mo_dec=-6.88 
+| parallax=0.52
+| p_error=0.50
+| parallax_footnote=<ref name="SIMBAD-P-Cygni"/>
+| dist_pc=1,800<ref name=balan/>
+| absmag_v=&minus;7.9<ref name=vg>{{cite doi|10.1051/0004-6361:20000022}}</ref>
+}}
+{{Starbox detail
+| mass=30<ref name=balan>{{cite doi|10.1088/0004-6256/139/6/2269}}</ref>
+| radius=76<ref name=najarro/>
+| luminosity=610,000<ref name=najarro>{{bibcode|2001ASPC..233..133N}}</ref>
+| temperature=18,700<ref name=najarro/>
+| metal=?
+| rotation=75 [[km/s]] (50 days)
+| age=? }}
+{{Starbox catalog
+| names= NOVA Cyg 1600, * 34 Cyg, [[Glazar]] Cyg 11, [[JP11]] 3218, [[TD1 Catalog of Stellar Ultraviolet Fluxes|TD1]] 26474, [[Guide Star Catalog|GSC]] 03151-03442, [[LS II]] +37 50, [[Tycho Catalogue|TYC]] 3151-3442-1, [[Astronomische Gesellschaft Katalog|AG]]+37° 1953, [[HBHA]] 3703-88, [[2MASS]] J20174719+3801585, [[List of astronomical catalogues#A|ALS]] 11097, [[Henry Draper Catalogue|HD]] 193237, [[List of astronomical catalogues#M|MCW]] 849, [[Durchmusterung|BD]]+37° 3871, [[Karl Gordon Henize#Writings|Hen]] 3-1871, [[General Catalogue of Trigonometric Stellar Parallaxes|PLX]] 4837, [[List of astronomical catalogues#C|CEL]] 5017, [[PPM Star Catalogue|PPM]] 84645, V* P Cyg, [[Hilt]] 916, [[RAFGL]] 5493S, [[Boss General Catalogue|GC]] 28218, [[Hipparcos catalogue|HIP]] 100044, [[Catalogue of rotational velocities of the stars|ROT]] 2959, [[GCRV]] 12673, [[Bright Star Catalogue|HR]]7763, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 69773, [[AAVSO]] 2014+37A. }}
+{{Starbox reference |
+  Simbad=P+Cygni }}
+{{Starbox end}}
+
+'''P Cygni''' (34 Cyg) is a [[variable star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]].  The [[Bayer designation|designation]] "P" was originally assigned by [[Johann Bayer]] in ''[[Uranometria]]'' as a [[nova]].
+
+It is a [[hypergiant]] [[luminous blue variable]] (LBV) star of [[stellar classification|spectral type]] B1Ia+ that is one of the most luminous stars in the [[Milky Way]] galaxy. The star is located about 5000 to 6000 [[light year]]s from the Earth. It was unknown until the end of the 16th century, when it suddenly brightened to 3rd [[apparent magnitude|magnitude]]. It was first observed on 18 August (Gregorian) 1600 by [[Willem Blaeu|Willem Janszoon Blaeu]], a Dutch astronomer, mathematician and globe-maker. After six years the star faded slowly, dropping below naked-eye visibility in 1626. It brightened again in 1655, but had faded by 1662. Another outburst took place in 1665; this was followed by numerous fluctuations. Since 1715, however, P Cygni has been a fifth magnitude star, with only minor fluctuations in brightness. Today it has a magnitude of 4.8 ± 0.5.<ref>Robert Burnham, Jr., (1978): ''Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System'', (Revised and Enlarged Edition) Volume Two, [[New York]], Dover Publications, pp. 772-773.</ref>
+
+Due to its erratic nature, P Cygni has sometimes been called a "permanent nova"; however, its behaviour is no longer thought to involve the same processes associated with true [[nova]]e.
+
+Luminous blue variable stars like P Cygni are very rare and short lived, and only form in regions of galaxies where intense star formation is happening. LBV stars are so massive and energetic (typically 50 times the mass of our sun and tens of thousands of times more luminous) that they exhaust their nuclear fuel very quickly. After shining for only a few million years (compared to several billion years for our sun) they erupt in a [[supernova]]. The recent supernova [[SN 2006gy]] <ref>{{cite web | last = Smith | first = Nathan | date = 2007 | url = http://cdsads.u-strasbg.fr/cgi-bin/nph-bib_query?bibcode=2006astro.ph.12617S&amp;db_key=PRE&amp;data_type=HTML&amp;format=&amp;high=45ba3a9f6d12921 | title = SN 2006gy: Discovery of the most luminous supernova ever recorded, powered by the death of an extremely massive star like Eta Carinae | publisher = arXiv preprint | accessdate = 2007-04-28 }}</ref> was likely the end of an LBV star similar to P Cygni but located in a distant galaxy.
+
+P Cygni gives its name to a type of [[astronomical spectroscopy|spectroscopic feature]] called a P Cygni profile, where the presence of both absorption and emission in the [[spectral line]] profile indicate the existence of a gaseous envelope expanding away from the star.  The emission lobe is [[redshift]]ed and the absorption lobe is [[blueshift]]ed with respect to the spectral line's rest wavelength.  These profiles are useful in the study of [[stellar wind]]s in many types of stars.  They are often cited as an indicator of a [[luminous blue variable]] star. <ref>{{cite web|url=http://astro1.panet.utoledo.edu/~gthomps/PCyg.html|title=P Cygni profiles|last=Thompson|first=Greg|accessdate=5 December 2011}}</ref>
+
+==References==
+{{reflist}}
+{{Sky|20|17|47.2|+|38|01|59|6000}}
+
+==External links==
+* [http://laserstars.org/spectra/PCygni.html Spectrum]
+* [http://www.peripatus.gen.nz/Astronomy/objPCyg.html P Cygni]
+* [http://www.aavso.org/vstar/vsots/pcyg.shtml AAVSO Variable Star of the Month. P Cygni: September 2009]
+
+{{Stars of Cygnus}}
+
+[[Category:Cygnus (constellation)]]
+[[Category:Bayer objects|Cygni, P]]
+[[Category:Flamsteed objects|Cygni, 34]]
+[[Category:Henry Draper Catalogue objects|193237]]
+[[Category:Hipparcos objects|100044]]
+[[Category:Luminous blue variable stars]]
+[[Category:Hypergiant stars]]
+[[Category:B-type stars]]
+
+
+{{var-star-stub}}
+{{supergiant-star-stub}}
+
+[[ar:بي الدجاجة]]
+[[de:P Cygni]]
+[[es:P Cygni]]
+[[fa:پی دجاجه]]
+[[fr:P Cygni]]
+[[ko:고니자리 P]]
+[[it:P Cygni]]
+[[ja:はくちょう座P星]]
+[[pt:34 Cygni]]
+[[ru:P Лебедя]]
+[[sk:P Cygni]]
+[[fi:P Cygni]]
+[[zh:天津增九]]

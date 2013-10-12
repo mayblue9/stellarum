@@ -1,0 +1,27 @@
+'''53 Eridani''' (53 Eri) is a [[star]] in the [[constellation]] [[Eridanus (constellation)|Eridanus]].  It has the traditional name '''Sceptrum''' ([[Latin]] "scepter"). 53 Eridani was one of the brighter stars, designated "p Sceptri (Brandenburgici)", in the [[former constellations|obsolete constellation]] [[Sceptrum Brandenburgicum]].
+
+53 Eridani belongs to the [[Stellar classification|spectral class]] K2IIIb and has [[apparent magnitude]] +3.87. It is approximately 109 [[light-year]]s from [[Earth]].
+
+*Coordinates (equinox [[J2000]]):
+**[[Right ascension]]: 4h38m10.80s 
+**[[Declination]]: −14°18'14.0"
+
+==See also==
+*[[Former constellations]]
+
+==External links==
+*[http://www.ianridpath.com/startales/sceptrum.htm Star Tales – Sceptrum Brandenburgicum]
+*[ftp://cdsarc.u-strasbg.fr/pub/cats/IV/27/table3.dat HD-DM-GC-HR-HIP-Bayer-Flamsteed Cross Index (Kostjuk, 2002)] - at Centre de Données astronomiques de Strasbourg.
+
+{{Stars of Eridanus}}
+
+[[Category:Eridanus (constellation)]]
+[[Category:Flamsteed objects|Eridani, 53]]
+[[Category:Stars with proper names]]
+
+[[de:53 Eridani]]
+[[es:53 Eridani]]
+[[fr:53 Eridani]]
+[[id:53 Eridani]]
+[[nl:Sceptrum]]
+[[sk:Sceptrum]]

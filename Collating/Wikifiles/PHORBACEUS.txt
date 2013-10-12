@@ -1,0 +1,30 @@
+{{Starbox short |
+ name=72 Ophiuchi |
+ epoch=[[J2000.0]] |
+ constell=[[Ophiuchus (constellation)|Ophiuchus]] |
+ ra=18<sup>h</sup> 7<sup>m</sup> 21.02<sup>s</sup> |
+ dec=+9° 33' 49.2" |
+ spectral=A4IV |
+ appmag_v=+3.71 |
+ absmag_v=+1.69 |
+ dist_ly=83 |
+ dist_pc=25.46 |
+ names=Phorbaceus, [[Bright Star Catalogue|HR]]&nbsp;6771, [[Henry Draper Catalogue|HD]]&nbsp;165777, [[Bonner Durchmusterung|BD]]&nbsp;+09&nbsp;3564, [[Hipparcos catalogue|HIP]]&nbsp;88771, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;123142, FK5 680, GC&nbsp;24695
+}}
+'''72 Ophiuchi''' (72 Oph) is a [[Stellar classification|Class A4]], fourth-magnitude [[star]] in the [[constellation]] [[Ophiuchus (constellation)|Ophiuchus]]. 72 Ophiuchi is a multiple star system of several components, located about 85 [[light-year]]s from [[Earth]].
+
+==References==
+* {{cite web | title=HD 165777 -- Double or Multiple Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=72+ophiuchi&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-20}}
+
+==External links==
+
+{{Stars of Ophiuchus}}
+
+[[Category:Flamsteed objects|Ophiuchi, 72]]
+[[Category:Ophiuchus (constellation)]]
+
+[[es:72 Ophiuchi]]
+[[fa:۷۲ مارافسای]]
+[[id:72 Ophiuchi]]
+[[uk:HD165777]]
+[[zh:宗人增一]]

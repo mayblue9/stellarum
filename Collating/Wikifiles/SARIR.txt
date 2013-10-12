@@ -1,0 +1,115 @@
+{{Starbox begin
+ | name=Theta Ursae Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 63.9%; top: 37.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of θ Ursae Majoris (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|09|32|51.43390}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+51|40|38.2811}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.166<ref name=mnras384_1_173/>
+ | constell = [[Ursa Major]]
+}}
+{{Starbox character
+ | class    = F6&nbsp;IV<ref name=aaa352_495/>
+ | b-v      = +0.46<ref name=aaa352_495/>
+ | u-b      = +0.03<ref name=clpl4_99/>
+ | variable = Suspected
+}}
+{{Starbox astrometry
+ | radial_v = +14.6<ref name=aaa418_989/>
+ | prop_mo_ra  = -947.46<ref name=aaa474_2_653/>
+ | prop_mo_dec = -535.60<ref name=aaa474_2_653/>
+ | parallax = 74.19
+ | p_error  = 0.14
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v  = 2.43<ref name=mnras384_1_173/>
+}}
+{{Starbox detail
+ | mass      = 1.41<ref name=mnras384_1_173/>
+ | radius    = {{nowrap|2.365 ± 0.008}}<ref name=apj746_1_101/>
+ | gravity   = {{nowrap|3.80 ± 0.10}}<ref name=mnras384_1_173/>
+ | metal_fe  = {{nowrap|–0.18 ± 0.07}}<ref name=mnras384_1_173/>
+ | age_gyr   = 2.2<ref name=aaa418_989/>
+ | luminosity  = {{nowrap|7.871 ± 0.158}}<ref name=apj746_1_101/>
+ | temperature = {{nowrap|6,300 ± 33}}<ref name=apj746_1_101/>
+ | rotational_velocity = 6.8<ref name=mnras384_1_173/>
+}}
+{{Starbox catalog
+ | names = Al Haud, Sarir, θ&nbsp;Ursae Majoris, θ&nbsp;UMa, Theta&nbsp;UMa, 25&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+52&nbsp;1401, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J09329+5141A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;358, [[Boss General Catalogue|GC]]&nbsp;13157, [[Henry Draper catalogue|HD]]&nbsp;82328, [[Hipparcos catalogue|HIP]]&nbsp;46853, [[Bright Star Catalogue|HR]]&nbsp;3775, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;09262+5208 A, [[PPM Star Catalogue|PPM]]&nbsp;32203, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;27289, [[Washington Double Star Catalog|WDS]]&nbsp;J09329+5141A.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Theta Ursae Majoris''' ('''Theta&nbsp;UMa''', '''θ&nbsp;Ursae Majoris''', '''θ&nbsp;UMa''') is a suspected [[spectroscopic binary]] star system in the northern [[circumpolar constellation]] of [[Ursa Major]]. It has an [[apparent visual magnitude]] of 3.17,<ref name=mnras384_1_173/> placing it among the brighter members of this constellation. The distance to this star has been measured directly using the [[parallax]] method, yielding an estimated value of {{Convert|43.96|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> 
+
+In 1976, this was reported as a spectroscopic binary system by Helmut A. Abt and Saul G. Levy, giving it an orbital period of 371 days.<ref name=ajss30_273/> This has been listed as a spectroscopic binary system with an orbital period of 371 days. However, this was brought into question by Christopher L. Morbey and Roger F. Griffin in 1987, who suggested that the data could be explained by random chance.<ref name=apj1_317_343/> Further observations in 2009 with observations with the [[Bok Telescope]] in Arizona did show changes of 180&nbsp;m/s in [[radial velocity]], although there was not sufficient evidence to support a [[Keplerian orbit]].<ref name=apj705_1_543/> There is a 14th-magnitude common [[proper motion]] companion to Theta Ursae Majoris at an [[angular separation]] of 4.1&nbsp;[[arcsecond]]s,<ref name=mnras389_2_869/> so this may potentially be a triple star system.<ref name=kaler/>
+
+The primary component of this putative system has a published [[stellar classification]] of F6&nbsp;IV,<ref name=aaa352_495/> indicating it is a [[subgiant star]] that is [[stellar evolution|evolving]] away from the [[main sequence]]. In 2009, Helmut A. Abt listed it with a stellar classification of F7&nbsp;V, suggesting that it is still on the main sequence.<ref name=apjs180_1_117/> It is larger than the Sun with 141% of the Sun's mass and 250% of the Sun's radius.<ref name=mnras384_1_173/> Consequently it is shining brighter and evolving more rapidly than the Sun, with a luminosity nearly eight<ref name=aaa352_495/> times the Sun's at an age of 2.2 billion years.<ref name=aaa418_989/> This energy is being radiated from the star's [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of 6,300&nbsp;K.<ref name=apj746_1_101/> At this heat, the star glows with the yellow-white hue of an [[F-type star]].<ref name=csiro/>
+
+The [[McDonald Observatory]] team has set limits to the hypothetical presence of one or more planets around the primary with masses between 0.24 and 4.6 [[Jupiter masses]] and average separations spanning between 0.05 and 5.2 [[Astronomical Units|AU]].<ref name=aj132_1_177/>
+
+==Naming and etymology==
+* With [[Tau Ursae Majoris|τ]], [[23 Ursae Majoris|h]], [[Upsilon Ursae Majoris|υ]], [[Phi Ursae Majoris|φ]], [[18 Ursae Majoris|e]], and [[15 Ursae Majoris|f]], it composed the Arabic [[Asterism (astronomy)|asterism]] ''Sarīr Banāt al-Na'sh'', the Throne of the daughters of ''Na'sh'', and ''al-<u>H</u>au<u>d</u>'', the Pond,<ref name="allen1899"/>
+* In [[Chinese language|Chinese]], {{lang|zh|文昌}} ({{lang|zh-Latn|Wén Chāng}}), meaning ''[[Purple Forbidden enclosure|Administrative Center]]'', refers to an asterism consisting of θ Ursae Majoris, [[Phi Ursae Majoris|φ Ursae Majoris]], [[Upsilon Ursae Majoris|υ Ursae Majoris]], [[15 Ursae Majoris]] and [[18 Ursae Majoris]]. Consequently, φ Ursae Majoris itself is known as {{lang|zh|文昌四}} ({{lang|zh-Latn|Wén Chāng sì}}, {{lang-en|the Fourth Star of Administrative Center}}.).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060616.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 16 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=aj132_1_177>{{citation | last=Wittenmeyer | first=R. A. | coauthors=''et al.'' | year=2006 | title=Detection Limits from the McDonald Observatory Planet Search Program | journal=The Astronomical Journal | volume=132 | issue=1 | pages=177–188 | doi=10.1086/504942  | bibcode=2006AJ....132..177W | arxiv=astro-ph/0604171 }}</ref>
+
+<ref name=mnras384_1_173>{{citation | last1=Fuhrmann | first1=Klaus | title=Nearby stars of the Galactic disc and halo - IV | journal=Monthly Notices of the Royal Astronomical Society | volume=384 | issue=1 | pages=173–224 | month=February | year=2008 | doi=10.1111/j.1365-2966.2007.12671.x | bibcode=2008MNRAS.384..173F }}</ref>
+
+<ref name=aaa418_989>{{citation | title=The Geneva-Copenhagen survey of the Solar neighbourhood. Ages, metallicities, and kinematic properties of ˜14 000 F and G dwarfs | display-authors=1 | last1=Nordström | first1=B. | last2=Mayor | first2=M. | last3=Andersen | first3=J. | last4=Holmberg | first4=J. | last5=Pont | first5=F. | last6=Jørgensen | first6=B. R. | last7=Olsen | first7=E. H. | last8=Udry | first8=S. | last9=Mowlavi | first9=N. | journal=Astronomy and Astrophysics | volume=418 | pages=989–1019  | month=May | year=2004 | doi=10.1051/0004-6361:20035959 | bibcode=2004A&A...418..989N |arxiv = astro-ph/0405198 }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=apjs180_1_117>{{citation | last1=Abt | first1=Helmut A. | title=MK Classifications of Spectroscopic Binaries | journal=The Astrophysical Journal Supplement | volume=180 | issue=1 | pages=117–118 | month=January | year=2009 | doi=10.1088/0067-0049/180/1/117 | bibcode=2009ApJS..180..117A }}</ref>
+
+<ref name=SIMBAD>{{citation | title=tet UMa -- Spectroscopic binary  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Theta+Ursae+Majoris | accessdate=2012-02-04 }}</ref>
+
+<ref name="allen1899">{{citation | title=Star-Names and Their Meanings | last=Allen | first=Richard Hinckley | authorlink=Richard Hinckley Allen | year=1899 | publisher=G. E. Stechert | publication-place=New York | page=442 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=apj1_317_343>{{citation | last1=Morbey | first1=C. L. | last2=Griffin | first2=R. F. | title=On the reality of certain spectroscopic orbits | journal=Astrophysical Journal, Part 1 | volume=317 | pages=343–352 | month=June | year=1987 | doi=10.1086/165281 | bibcode=1987ApJ...317..343M }}</ref>
+
+<ref name=ajss30_273>{{citation | last1=Abt | first1=H. A. | last2=Levy | first2=S. G. | title=Multiplicity among solar-type stars | journal=Astrophysical Journal Supplement Series | volume=30 | pages=273–306 | month=March | year=1976 | doi=10.1086/190363 | bibcode=1976ApJS...30..273A }}</ref>
+
+<ref name=apj705_1_543>{{citation | display-authors=1 | last1=Behr | first1=Bradford B. | last2=Hajian | first2=Arsen R. | last3=Cenko | first3=Andrew T. | last4=Murison | first4=Marc | last5=McMillan | first5=Robert S. | last6=Hindsley | first6=Robert | last7=Meade | first7=Jeff | title=Stellar Astrophysics with a Dispersed Fourier Transform Spectrograph. I. Instrument Description and Orbits of Single-lined Spectroscopic Binaries | journal=The Astrophysical Journal | volume=705 | issue=1 | pages=543–553 | month=November | year=2009 | doi=10.1088/0004-637X/705/1/543 | bibcode=2009ApJ...705..543B |arxiv = 0909.3241 }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B |arxiv = 1112.3316 }}. See Table 10.</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/thetauma.html | accessdate=2012-02-25 }}</ref>
+
+}}
+
+{{Nearest star systems|9}}
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Theta]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Binary stars]]
+[[Category:F-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[de:Sarir]]
+[[es:Theta Ursae Majoris]]
+[[fa:حوض (ستاره)]]
+[[fr:Theta Ursae Majoris]]
+[[ko:큰곰자리 세타]]
+[[it:Theta Ursae Majoris]]
+[[pl:Theta Ursae Majoris]]
+[[pt:Theta Ursae Majoris]]
+[[sk:Theta Ursae Majoris]]
+[[zh:文昌四]]

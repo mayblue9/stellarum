@@ -1,0 +1,50 @@
+{{Starbox short |
+ name=θ Serpentis |
+ epoch=[[J2000.0]] |
+ constell=[[Serpens]] |
+ ra=18<sup>h</sup> 56<sup>m</sup> 13.2<sup>s</sup> |
+ dec=+04° 12' 13" |
+ spectral=A5V + A5Vn + G5 |
+ appmag_v=''combined'': +4.03<BR>'''ABC''': 4.62 + 4.98 + 6.71 |
+ dist_ly=132 ± 9 |
+ dist_pc=40 ± 3 |
+ names=Alya, 63&nbsp;Serpentis, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;7142 + HR&nbsp;7141, [[Henry Draper Catalogue|HD]]&nbsp;175639 + HD&nbsp;175638 + HD&nbsp;175726, [[Star catalogue#SAO|SAO]]&nbsp;124070 + SAO&nbsp;124068, [[Hipparcos|HIP]]&nbsp;92951 + HIP&nbsp;92946 + HIP&nbsp;92984, [[Star catalogue#ADS|ADS]]&nbsp;11853, CCDM&nbsp;18563+0413
+}}
+'''Theta Serpentis''' (θ Ser, θ Serpentis) is a [[star system]] in the [[constellation]] [[Serpens]].  It is approximately 132 [[light year]]s from Earth.  Theta Serpentis also has the traditional name '''Alya''', or '''Alga''', from the [[Arabic language|Arabic]] الية ''’alyah'' "[[fat-tailed sheep|fat tail]] (of a sheep)".
+
+In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Dzaneb al Haiyet''', which was translated into [[Latin]] as '''Cauda Serpentis''', meaning ''the serpent's tail''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市左垣}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán}}), meaning ''[[Heavenly Market enclosure|Left Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China, consisting of θ Serpentis, [[Delta Herculis|δ Herculis]], [[Lambda Herculis|λ Herculis]], [[Mu Herculis|μ Herculis]], [[Omicron Herculis|ο Herculis]], [[112 Herculis]], [[Zeta Aquilae|ζ Aquilae]], [[Eta Serpentis|η Serpentis]], [[Nu Ophiuchi|ν Ophiuchi]], [[Xi Serpentis|ξ Serpentis]] and [[Eta Ophiuchi|η Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Serpentis itself is known as {{lang|zh|天市左垣七}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán qī}}, {{lang-en|the Seventh Star of Left Wall of Heavenly Market Enclosure}}), represent the state '''[[Xu (state)|Xu]]''' (徐).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Both '''Theta-1 Serpentis''' and '''Theta-2 Serpentis''' are white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]]s.  θ¹ has an [[apparent magnitude]] of +4.62 while the slightly dimmer θ² has a [[apparent magnitude|magnitude]] of +4.98.  These two stars are 22 [[arcsecond]]s apart on the sky, putting them at least 900 [[astronomical unit]]s apart with an orbital period of at least 14,000 years. Both stars are similar to each other in all respects, having [[luminosity|luminosities]] of 18 and 13 times solar respectively, radii of about twice solar and also [[solar mass|masses]] of roughly 2 times that of our Sun. Both star have a surface temperature of 8,000 [[kelvin]]s.
+
+The third star in the system, '''Theta Serpentis C''', is a yellow G-type star with an apparent magnitude of +6.71.  It is separated by 7 [[arcminute]]s from θ².
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/alya.html Alya]
+{{Stars of Serpens}}
+
+[[Category:Bayer objects|Serpentis, Theta]]
+[[Category:Serpens (constellation)]]
+[[Category:Triple star systems]]
+[[Category:A-type main sequence stars]]
+[[Category:G-type stars]]
+[[Category:Stars with proper names]]
+
+
+{{star-system-stub}}
+
+[[de:Alya]]
+[[es:Alya]]
+[[fa:الیةالحمل]]
+[[nl:Alya]]
+[[pt:Theta1 Serpentis]]
+[[sk:Alya]]

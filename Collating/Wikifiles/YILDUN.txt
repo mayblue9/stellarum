@@ -1,0 +1,102 @@
+{{Starbox begin
+|name=δ Ursae Minoris
+}}
+{{Starbox image
+|image = 
+     <div style="position: relative">[[File:Ursa Minor IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Minor constellation and its surroundings]]
+     <div style="position: absolute; left: 43%; top: 24.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+|caption=Location of δ UMi (circled)
+}}
+{{Starbox observe
+|epoch=J2000
+|ra={{RA|17|32|12.9}}<ref name="SIMBAD"/>
+|dec={{DEC|86|35|11.25}}<ref name="SIMBAD"/>
+|appmag_v=4.35<ref name="SIMBAD"/>
+|constell=[[Ursa Minor]]<ref name=KALER/>
+}}
+{{Starbox character
+|class=A1Vn<ref name="SIMBAD"/>
+|b-v=
+|u-b=
+|variable= 
+}}
+{{Starbox astrometry
+|radial_v=-7.6<ref name="SIMBAD"/>
+|prop_mo_ra=
+|prop_mo_dec=
+|parallax=18.95
+|p_error=0.14
+|parallax_footnote=<ref name="SIMBAD"/>
+|absmag_v=0.62<ref name="polar"/>
+}}
+{{Starbox detail
+|mass=
+|radius=2.8<ref name=KALER/>
+|luminosity=47<ref name=KALER/>
+|temperature=9000<ref name=KALER/>
+|metal=
+|rotation= 19 hours<ref name=KALER/>
+|age=
+}}
+{{Starbox catalog
+|names=Yildun, Vildiur, Gildun, Pherkard,<BR/>Jildun, 23&nbsp;Ursae Minoris, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;6789, [[Henry Draper Catalogue|HD]]&nbsp;166205, [[Star catalogue#BD.2FCD.2FCPD|BD]]+86&nbsp;269, FK5&nbsp;913, [[Hipparcos catalogue|HIP]]&nbsp;85822, [[Star catalogue#SAO|SAO]]&nbsp;2937, GC&nbsp;24236
+}}
+{{Starbox end}}
+'''Delta Ursae Minoris''' (δ UMi, δ Ursae Minoris; also 23 UMi) is a [[star]] in the [[constellation]] [[Ursa Minor]].  It has the traditional name '''Yildun''' (also spelled ''Vildiur, Jildun, Gildun,'' and ''Yilduz),'' from the [[Turkish language|Turkish]] ''yıldız'' "star". It may also{{Citation needed|date=April 2009}} have been called ''Pherkard,'' an alternate spelling of [[Pherkad]], used for γ UMi and 11 UMi. 
+
+Delta Ursae Minoris is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.35.<ref name="SIMBAD"/>  It is approximately 183 [[light years]] from [[Earth]].
+
+==In science fiction==
+The star is mentioned in the [[Honorverse]], a series of [[military science fiction]] novels written by [[David Weber]], as the headquarters of Technodyne Industries of Yildun, a major [[Solarian League]] shipbuilding corporation with rather questionable ethics (e.g. business ties with Manpower Incorporated and Jessyk Combine, both of [[Mesa (Honorverse)|Mesa]]), though the star system is described as including only a (highly mineral-and-metals-rich)  purple asteroid belt.
+
+== References ==
+{{reflist
+| refs =
+
+<ref name="SIMBAD">{{cite web
+  |title=Delta Ursae Minoris
+  |publisher=SIMBAD Astronomical Database
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Ursae+Minoris
+  |accessdate=2012-03-04}}</ref>
+
+<ref name=KALER>{{cite web
+  |title=YILDUN (Delta Ursae Minoris)
+  |publisher=Stars.astro.illinois.edu
+  |author=[[James B. Kaler|Jim Kaler]]
+  |url=http://stars.astro.illinois.edu/sow/yildun.html
+  |accessdate=2012-03-05}}</ref>
+
+<ref name="polar">{{cite web
+  |title=The Polar Project
+  |publisher=[[University of Illinois]]
+  |author=[[James B. Kaler|Jim Kaler]]
+  |url=http://stars.astro.illinois.edu/sow/polaris-p.html
+  |accessdate=2012-03-04}}</ref>
+
+}}
+
+== External links ==
+* {{WikiSky}}
+* [http://stars.astro.illinois.edu/sow/yildun.html YILDUN (Delta Ursae Minoris)] – [[Jim Kaler]]
+
+{{Stars of Ursa Minor}}
+
+[[Category:Bayer objects|Ursae Minoris, Delta]]
+[[Category:Ursa Minor (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{Main-star-stub}}
+
+[[de:Delta Ursae Minoris]]
+[[es:Yildun]]
+[[fa:اخفی‌الفرقدین]]
+[[it:Yildun]]
+[[lb:Yildun (Stär)]]
+[[nl:Yildun]]
+[[pt:Delta Ursae Minoris]]
+[[sk:Yildun]]
+[[sv:Pherkard]]
+[[zh:勾陳二]]

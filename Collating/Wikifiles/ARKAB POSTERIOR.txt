@@ -1,0 +1,100 @@
+{{Starbox begin
+| name = Beta¹ Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 40%; top: 65%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β¹ Sagittarii (circled)
+}}
+{{Starbox short 
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Sagittarius (constellation)|Sagittarius]] 
+| ra=19<sup>h</sup> 22<sup>m</sup> 38.3<sup>s</sup> 
+| dec=&minus;44° 27' 32" 
+| spectral=B9V 
+| appmag_v=+3.96 
+| dist_ly=378 ± 42 
+| dist_pc=116 ± 13 
+| names=Arkab Prior, β¹&nbsp;Sagittarii, β¹&nbsp;Sgr, Beta¹&nbsp;Sgr, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J19226-4428A, [[Durchmusterung|CPD]]-40 &nbsp;8955, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1502, [[Boss General Catalogue|GC]]&nbsp;26703, [[Henry Draper Catalogue|HD]]&nbsp;181454, [[Hipparcos|HIP]]&nbsp;95241, [[Bright Star Catalogue|HR]]&nbsp;7337, [[PPM Star Catalogue|PPM]]&nbsp;325041 , [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;229646, [[Washington Double Star Catalog|WDS]]&nbsp;J19226-4428A
+}}
+{{Starbox end}}
+
+The [[Bayer designation]] '''Beta Sagittarii''' ('''Beta&nbsp;Sgr''', '''β&nbsp;Sagittarii''', '''β&nbsp;Sgr''') is shared by two [[star system]]s, '''β¹ Sagittarii''' and '''β² Sagittarii''', in the [[constellation]] [[Sagittarius (constellation)|Sagittarius]].  The two stars are separated by 0.36° in the sky.  Beta Sagittarii also has the traditional name '''Arkab'''.
+
+==β¹ Sagittarii==
+'''Beta¹ Sagittarii''' ('''Beta¹&nbsp;Sgr''', '''β¹&nbsp;Sagittarii''', '''β¹&nbsp;Sgr'''), also called '''Arkab Prior''' since it leads β² across the sky, is a [[binary star]] lying 378 [[light years]] from [[Earth]].  '''Arkab Prior A''' is a [[stellar classification|spectral type]] B9 [[main sequence]] dwarf which has an [[apparent magnitude]] of +3.96. '''Arkab Prior B''' is a type A3 dwarf with an apparent magnitude of +7.4.  The two stars are separated in the sky by 28 [[arcseconds]], which puts them at least 3300 [[astronomical units]] apart.
+
+==β² Sagittarii==
+{{Starbox begin
+| name = Beta² Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 39.5%; top: 66%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β² Sagittarii (circled)
+}}
+{{Starbox short |
+| name=
+| epoch=
+| constell=[[Sagittarius (constellation)|Sagittarius]] |
+| ra=19<sup>h</sup> 23<sup>m</sup> 13.2<sup>s</sup> |
+| dec=-44° 47' 59" |
+| spectral=F2III |
+| appmag_v=+4.27 |
+| dist_ly=139 ± 5 |
+| dist_pc=43 ± 2 |
+| names=Arkab Posterior, β²&nbsp;Sagittarii, β²&nbsp;Sgr, Beta²&nbsp;Sgr, [[Durchmusterung|CPD]]-45 &nbsp;9701, [[Boss General Catalogue|GC]]&nbsp;26718, [[Henry Draper Catalogue|HD]]&nbsp;181623, [[Hipparcos|HIP]]&nbsp;95294, [[Bright Star Catalogue|HR]]&nbsp;7343, [[PPM Star Catalogue|PPM]]&nbsp;325051, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;229654, 
+}}
+{{Starbox end}}
+
+'''Beta² Sagittarii''' ('''Beta²&nbsp;Sgr''', '''β²&nbsp;Sagittarii''', '''β²&nbsp;Sgr'''), also called '''Arkab Posterior''' since it trails β¹ across the sky, is a [[stellar classification|spectral type]] F2 [[giant star|giant]] which has an [[apparent magnitude]] of +4.27. It is 137 [[light year]]s from [[Earth]].
+
+==Name and etymology==
+* The name '''Arkab''' is from the [[Arabic language|Arabic]] عرقوب ''<sup>c</sup>arqūb'' meaning ''hamstring''
+* *In [[Chinese language|Chinese]], {{lang|zh|天淵}} ({{lang|zh-Latn|Tiān Yuān}}), meaning ''[[Dipper (Chinese constellation)|Celestial Spring]]'', refers to an asterism consisting of β¹ Sagittarii, β² Sagittarii, and [[Alpha Sagittarii|α Sagittarii]], . Consequently, β¹ Sagittarii and β² Sagittarii themself are known as {{lang|zh|天淵一}} ({{lang|zh-Latn|Tiān Yuān yī}}, {{lang-en|the First Star of Celestial Spring}}.) and {{lang|zh|天淵二}} ({{lang|zh-Latn|Tiān Yuān èr}}, {{lang-en|the Second Star of Celestial Spring}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060702.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 2 日]</ref>
+*These two Betas star, together with [[Alpha Sagittarii|α Sgr]] too, were ''Al Ṣuradain'' (ألسردين), the two Surad, desert birds.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-9-4 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=357}}</ref>
+
+==Namesakes==
+[[USS Arkab (AK-130)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist}}
+
+
+{{Star-system-stub}}
+
+
+{{Stars of Sagittarius}}
+
+
+
+[[Category:Bayer objects|Sagittarii, Beta]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Binary stars]]
+[[Category:B-type main sequence stars]]
+[[Category:A-type main sequence stars]]
+[[Category:F-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:العرقوب (نجم)]]
+[[de:Arkab Prior]]
+[[es:Arkab Prior]]
+[[fa:بتا کمان]]
+[[id:Beta Sagittarii]]
+[[lb:Arkab Prior (Stär)]]
+[[nl:Arkab Prior]]
+[[pt:Beta1 Sagittarii]]
+[[sk:Arkab]]
+[[zh:人馬座β]]

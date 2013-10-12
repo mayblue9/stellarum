@@ -1,0 +1,127 @@
+{{Starbox begin
+ | name     = Sigma Scorpii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Scorpius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Scorpius constellation and its surroundings]]
+     <div style="position: absolute; left: 57.4%; top: 42.1%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of σ Scorpii (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|16|21|11.31571}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–25|35|34.0515}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.88<ref name=clpl4/>
+ | constell = [[Scorpius]]
+}}
+{{Starbox character
+ | class    = B1&nbsp;III<ref name=houk1978/> + B1&nbsp;V<ref name=mnras380_3_1276/>
+ | b-v      = +0.13<ref name=clpl4/>
+ | u-b      = –0.70<ref name=clpl4/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –0.4<ref name=gcsrv/>
+ | prop_mo_ra  = –10.60<ref name=aaa474_2_653/>
+ | prop_mo_dec = –16.28<ref name=aaa474_2_653/>
+ | dist_ly = 568{{+-|75|59}}
+ | dist_pc = 174{{+-|23|18}}<ref name=mnras380_3_1276/>
+ | absmag_v = {{nowrap|–4.12 ± 0.34 / −3.32 ± 0.34}}<ref name=mnras380_3_1276/>
+}}
+{{Starbox orbit
+ | reference = <ref name=mnras380_3_1276/>
+ | primary = σ Sco A
+ | name = σ Sco B
+ | period = <!--Period (in years)-->
+ | period_unitless = {{nowrap|33.010 ± 0.002 days}}
+ | axis = <!--Semimajor axis (in arcseconds)-->
+ | axis_unitless = 3.62 ± 0.06 [[Milliarcsecond|mas]]
+ | eccentricity = 0.3220 ± 0.0012
+ | inclination = 158.2 ± 2.3
+ | node = 104 ± 5
+ | periastron = 34889.0 ± 1.0 MJD
+ | periarg = 283 ± 5
+}}
+{{Starbox detail
+ | component1 = σ Sco A
+ | mass     = {{nowrap|18.4 ± 5.4}},<ref name=mnras380_3_1276/> {{nowrap|17.2-18.0}}<ref name=Pecaut/>
+ | radius   = {{nowrap|12.7 ± 1.8}}<ref name=mnras380_3_1276/>
+ | gravity  = 3.85<ref name=mnras380_3_1276/>
+ | metal_fe = {{nowrap|–0.20 ± 0.20}}<ref name=aaa433_2_659/>
+ | age_myr  = {{nowrap|8.0 ± 0.2}},<ref name=mnras410_1_190/> {{nowrap|8-10}}<ref name=Pecaut/>
+ | luminosity  = {{nowrap|(2.9 ± 0.8) × 10<sup>4</sup>}},<ref name=mnras380_3_1276/> {{nowrap|95,500}}<ref name=Pecaut/>
+ | temperature = {{nowrap|26,150 ± 1,070}},<ref name=mnras380_3_1276/>{{nowrap|27,700}}<ref name=Pecaut/>
+ | rotational_velocity = 25<ref name=apj573_1_359/>
+ | component2 = σ Sco B
+ | mass2    = {{nowrap|11.9 ± 3.1}}<ref name=mnras380_3_1276/>
+ | radius2 = 11<ref name=mnras380_3_1276/>
+ | luminosity2 = {{nowrap|(1.6 ± 0.4) × 10<sup>4</sup>}}<ref name=mnras380_3_1276/>
+}}
+{{Starbox catalog
+ | names = Alniyat, Al Niyat, 20&nbsp;Scorpii, [[Star catalogue#ADS|ADS]]&nbsp;10009, [[Bonner Durchmusterung|CD]]-25&nbsp;11485, [[Fifth Fundamental Catalogue|FK5]]&nbsp;607, [[Henry Draper Catalogue|HD]]&nbsp;147165, [[Hipparcos|HIP]]&nbsp;80112, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;6084, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;184336.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Sigma Scorpii''' (σ Sco, σ Scorpii) is a [[star system]] in the [[constellation]] [[Scorpius]]. It has the traditional name '''Al Niyat''', although this name is sometimes also applied to [[Tau Scorpii]], or to the [[Asterism (astronomy)|asterism]] formed by both Sigma and Tau. This system has a combined [[apparent visual magnitude]] of +2.88,<ref name=clpl4/> making it one of the [[List of stars in Scorpius|brighter members]] of the constellation, although greatly outshone by its neighbor [[Antares]]. Based upon [[parallax]] measurements made during the [[Hipparcos]] mission, the distance to Sigma Scorpii is roughly 696&nbsp;[[light year]]s (214&nbsp;[[parsec]]s).<ref name=aaa474_2_653/> North ''et al.'' (2007) computed a more accurate estimate of 568{{+-|75|59}}&nbsp;light years (174{{+-|23|18}}&nbsp;parsecs).<ref name=mnras380_3_1276/>
+
+[[File:Rho Ophiuchi.jpg|thumb|left|The red at bottom right is light from Sigma Scorpii being reflected off the surrounding dust.]]
+
+The brightest component of the system is a double-lined [[spectroscopic binary]], which means that the pair has not been resolved using a telescope. Instead, their orbit is determined by changes in their combined [[spectrum]] caused by the [[Doppler shift]]. This indicates that the pair complete an orbit every 33.01 days and have an [[orbital eccentricity]] of 0.32.<ref name=mnras380_3_1276/>
+
+The primary component of the spectroscopic binary, σ Scorpii A, is an [[stellar evolution|evolved]] [[giant star]] with a [[stellar classification]] of B1&nbsp;III.<ref name=houk1978/> It has around 18 times the mass of the Sun and 12 times the Sun's radius.<ref name=mnras380_3_1276/> This star is radiating about 29,000 times the luminosity of the Sun from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 26,150&nbsp;K.<ref name=mnras380_3_1276/> This is a [[variable star]] of the [[Beta Cephei variable|Beta Cephei type]], causing the apparent magnitude to vary between +2.86 and +2.94 with multiple periods of 0.2468429, 0.239671, and 8.2 days. During each pulsation cycle, the temperature of the star varies by {{nowrap|4,000 ± 2,000&nbsp;K}}.<ref name=mnras380_3_1276/>
+
+The other member of the core pair, σ Scorpii B, is a [[main sequence]] star with a classification of B1&nbsp;V.<ref name=mnras380_3_1276/> Orbiting this binary at a separation half an [[arcsecond]], or at least 120 [[Astronomical Units]] (AU), four times the [[Sun]]&ndash;[[Neptune]] distance, is the magnitude +5.2 σ Scorpii C, which has an orbital period of over a hundred years.  Even farther out at 20 arcseconds, or more than 4500 AU, is σ Scorpii D with a magnitude of +8.7. It is [[stellar classification|classified]] as a B9 [[main sequence|dwarf]].
+
+Given its position, youth, and space velocity, the Sigma Scorpii system is a likely member of the [[Gould Belt]],<ref name=al33_9_571/> and in particular the Upper Scorpius subgroup of the [[Scorpius-Centaurus Association]] (Sco OB2). Recent isochronal age
+estimates for the Sigma Scorpii system yield ages of 8–10 million years through comparison of the HR diagram positions for the stars to modern [[evolutionary track]]s.<ref name=mnras380_3_1276/><ref name="Pecaut">{{Cite journal|author=Mark J. Pecaut, Eric E. Mamajek, & Eric J. Bubar|date=February 2012|title=A Revised Age for Upper Scorpius and the Star Formation History among the F-type Members of the Scorpius-Centaurus OB Association|journal=Astrophysical Journal|volume=746|issue=2|pages=154|url=http://adsabs.harvard.edu/abs/2012ApJ...746..154P}}</ref> This agrees well with 
+mean age for the Upper Scorpius group which is approximately 11 million years.<ref name=Pecaut />
+
+==Culture signification==
+The indigenous Boorong people of northwestern Victoria saw this star (together with [[Tau Scorpii|τ Sco]]) as wives of '' Djuit'' ([[Antares]]).<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=4 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1988mcts.book.....H }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=sig Sco -- Variable Star of beta Cep type | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Sigma+Scorpii | accessdate=2012-02-28 }}</ref>
+
+<ref name=mnras380_3_1276>{{citation | display-authors=1 | last1=North | first1=J. R. | last2=Davis | first2=J. | last3=Tuthill | first3=P. G. | last4=Tango | first4=W. J. | last5=Robertson | first5=J. G. | title=Orbital solution and fundamental parameters of σ Scorpii | journal=Monthly Notices of the Royal Astronomical Society | volume=380 | issue=3 | pages=1276–1284 | month=September | year=2007 | doi=10.1111/j.1365-2966.2007.12188.x | bibcode=2007MNRAS.380.1276N |arxiv = 0707.0897 }}</ref>
+
+<ref name=al33_9_571>{{citation | last1=Bobylev | first1=V. V. | last2=Bajkova | first2=A. T. | title=Kinematics of the Scorpius-Centaurus OB association | journal=Astronomy Letters | volume=33 | issue=9 | pages=571–583 | month=September | year=2007 | doi=10.1134/S1063773707090010 | bibcode=2007AstL...33..571B |arxiv = 0708.0943 }}</ref>
+
+<ref name=aaa433_2_659>{{citation | last1=Niemczura | first1=E. | last2=Daszyńska-Daszkiewicz | first2=J. | title=Metallicities of the β Cephei stars from low-resolution ultraviolet spectra | journal=Astronomy and Astrophysics | volume=433 | issue=2 | pages=659–669 | month=April | year=2005 | doi=10.1051/0004-6361:20040396 | bibcode=2005A&A...433..659N |arxiv = astro-ph/0410440 }}. Note: value taken from [m/H].</ref>
+
+}}
+
+{{Stars of Scorpius}}
+
+[[Category:Scorpius (constellation)]]
+[[Category:Bayer objects|Scorpii, Sigma]]
+[[Category:Flamsteed objects|Scorpii, 20]]
+[[Category:Beta Cephei variables]]
+[[Category:Eclipsing binaries]]
+[[Category:B-type giants]]
+[[Category:B-type main sequence stars]]
+[[Category:Multiple star systems|4]]
+[[Category:Stars with proper names]]
+
+[[de:Sigma Scorpii]]
+[[es:Al Niyat]]
+[[fa:سیگما کژدم]]
+[[fr:Sigma Scorpii]]
+[[it:Sigma Scorpii]]
+[[nl:Alniyat]]
+[[ru:Сигма Скорпиона]]
+[[sk:Sigma Scorpii]]
+[[zh:心宿一]]

@@ -1,0 +1,130 @@
+{{Starbox begin
+| name=Iota Aurigae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Auriga IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Auriga constellation and its surroundings]]
+     <div style="position: absolute; left: 66.0%; top: 51.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ι Aurigae (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|04|56|59.62109}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+33|09|57.9585}}<ref name=aaa474_2_653/>
+| appmag_v = 2.69<ref name=clpl4_99/>
+| constell = [[Auriga (constellation)|Auriga]]
+}}
+{{Starbox character
+| class    = K3&nbsp;II<ref name=araa11_29/>
+| r-i      = 0.82{{Citation needed|date=January 2012}}
+| v-r      = 
+| b-v      = +1.53<ref name=clpl4_99/>
+| u-b      = +1.78<ref name=clpl4_99/>
+| variable = Suspected<ref name=cia152_124/>
+}}
+{{Starbox astrometry
+| radial_v = +17.78<ref name=aaa430_165/>
+| prop_mo_ra  = +6.79<ref name=aaa474_2_653/>
+| prop_mo_dec = -14.88<ref name=aaa474_2_653/>
+| parallax = 6.61
+| p_error  = 0.38
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = {{nowrap|7.1 ± 0.7}}<ref name=mnras410_1_190/>
+| radius   = 127<ref name=mnras256_1_37/>
+| luminosity  = 
+| temperature = 4,160<ref name=apjss74_1075/>
+| gravity  = 1.74<ref name=apjss74_1075/>
+| metal_fe = –0.11<ref name=apjss74_1075/>
+| rotational_velocity = 8<ref name=csrv/>
+| age_myr  = {{nowrap|39.8 ± 4.9}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names=Hassaleh, Kabdhilinan, 3&nbsp;Aurigae, [[Harvard Revised catalogue|HR]]&nbsp;1577, [[Henry Draper Catalogue|HD]]&nbsp;31398, [[Bonner Durchmusterung|BD]]+32°855, [[Fifth Fundamental Catalogue|FK5]]&nbsp;181, [[Hipparcos catalogue|HIP]]&nbsp;23015, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;57522, [[Boss General Catalogue|GC]]&nbsp;6029.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Iota Aurigae''' (ι Aur, ι Aurigae) is a [[star]] in the northern [[constellation]] of [[Auriga (constellation)|Auriga]]. It has the traditional name '''Al Kab''',<ref name=kaler/> short for '''Kabdhilinan''', from the Arabic  الكعب ذي العنان ''al-ka<sup>c</sup>b ðīl-<sup>c</sup>inān''<ref name=allen1899/> "the ankle of the rein holder (charioteer)". Under the name ''Alkab'', this star is a marker on the astrolabe described by [[Geoffrey Chaucer]] in his ''[[Treatise on the Astrolabe]]'' in 1391. In [[Antonín Bečvář]]'s atlas it has the traditional name '''Hassaleh'''. It is known as 五車一 (the First Star of the Five Chariots) in Chinese.{{citation needed|date=January 2012}}
+
+This star has an [[apparent visual magnitude]] of 2.7,<ref name=clpl4_99/> which is bright enough to be [[Bortle Dark-Sky Scale|readily visible]] to the naked eye. [[Parallax]] measurements give a distance estimate of roughly {{Convert|490|ly|pc|abbr=off|lk=on}} from the [[Earth]]. At this distance, [[Extinction (astronomy)|extinction]] from interstellar dust is causing a magnitude reduction of about 0.6.<ref name=kaler/> Examination of the [[spectrum]] yields a [[stellar classification]] of K3&nbsp;II,<ref name=araa11_29/> with the [[luminosity class]] of 'II' indicating this is a category of [[stellar evolution|evolved]] star known as a [[bright giant]]. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> The [[effective temperature]] of the outer envelope is 4,160&nbsp;K,<ref name=apjss74_1075/> which is cooler than the Sun's effective temperature and gives Iota Aurigae the orange hue of a K-type star.<ref name=csiro/>
+
+This star is a weak X-ray emitter with an X-ray luminosity of about {{nowrap|1.8 × 10<sup>27</sup> [[erg]]s s<sup>–1</sup>}}. This emission is most likely coming from [[Coronal loop|transient loops of plasma]] in Iota Aurigae's outer atmosphere, which have a temperature of around {{nowrap|3 million K}}.<ref name=apj431_1_402/> This is a suspected [[variable star]], although this variability remains unconfirmed.<ref name=cia152_124/>
+
+==Unconfirmed substellar companions==
+During the ''Extreme Solar Systems'' conference held on June 25–29, 2007, in  [[Santorini]], Greece, Reffert et al. announced the detection of two [[substellar]] objects orbiting Iota Aurigae in 2:1 resonance. Such companions would be [[brown dwarf]]s with orbital periods of approximately 2 and 4 years. No minimum mass for the candidates was provided. So far the detection has not been confirmed, though Hekker et al. (2008) listed significant radial velocity variations at periods of 767 and 1586 days.<ref name=aaa480_1_215/><ref name="Reffert et al."/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apjss74_1075>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants | journal=Astrophysical Journal Supplement Series (ISSN 0067-0049), | year=1990 | month=December | volume=74 | pages=1075–1128 | format=PDF | origin=STI | bibcode=1990ApJS...74.1075M | doi=10.1086/191527 }}</ref>
+
+<ref name=mnras256_1_37>{{citation | last1=Harper | first1=G. M. | title=The outer atmospheres of the 'hybrid' bright giants - The chromospheres of Alpha TrA (K4 II), IOTA AUR (K3 II), Gamma AQL (K3 II) and Theta HER (K1 II)| journal=[[Monthly Notices of the Royal Astronomical Society]] | volume=256 | issue=1 | pages=37–64 | year=1992| bibcode=1992MNRAS.256...37H | arxiv=0809.0359 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=csrv>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa480_1_215>{{citation | display-authors=1 | last1=Hekker | first1=S. | last2=Snellen | first2=I. A. G. | last3=Aerts | first3=C. | last4=Quirrenbach | first4=A. | last5=Reffert | first5=S. | last6=Mitchell | first6=D. S. | title=Precise radial velocities of giant stars. IV. A correlation between surface gravity and radial velocity variation and a statistical investigation of companion properties| journal=[[Astronomy and Astrophysics]] | volume=480| issue=1 | pages=215–222 | year=2008| bibcode=2008A&A...480..215H | doi=10.1051/0004-6361:20078321 | arxiv=0801.0741 }}</ref>
+
+<ref name="Reffert et al.">{{citation | display-authors=1 | last1=Reffert | first1=S. | last2=Quirrenbach | first2=A. | last3=Hekker | first3=S. | last4=Albrecht | first4=S. | last5=Mitchell | first5=D. S. | last6=Fischer | first6=D. A. | last7=Marcy | first7=G. W. | last8=Butler | first8=R. P. | contribution=Two brown dwarfs in resonance around a K3II giant| title=Extreme Solar Systems, ASP Conference Series, Vol. 398, proceedings of the conference held 25–29 June 2007, at Santorini Island, Greece | pages=115 | year=2008 | url=http://ciera.northwestern.edu/Santorini2007/all_abstracts.pdf }}</ref>
+
+<ref name=cia152_124>{{citation | last1=Strassmeier | first1=K. G.	 | title=Stellar Activity with BRITE: the ``Aurigae'' field | journal=Communications in Asteroseismology | volume=152 | pages=124–130 | month=January | year=2008 | doi=10.1553/cia152s124 | bibcode=2008CoAst.152..124S }}</ref>
+
+<ref name=SIMBAD>{{citation | title=iot Aur -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Iota+Aurigae | accessdate=2012-01-19 }}</ref>
+
+<ref name=apj431_1_402>{{citation | display-authors=1 | last1=Kashyap | first1=V. | last2=Rosner | first2=R. | last3=Harnden | first3=F. R., Jr. | last4=Maggio | first4=A. | last5=Micela | first5=G. | last6=Sciortino | first6=S. | title=X-ray emission on hybird stars: ROSAT observations of alpha Trianguli Australis and IOTA Aurigae | journal=The Astrophysical Journal, Part 1 | volume=431 | issue=1 | pages=402–415 | month=August | year=1994 | doi=10.1086/174494 | bibcode=1994ApJ...431..402K }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=kaler>{{citation | url=http://www.astro.uiuc.edu/~kaler/sow/alkab.html | accessdate=2012-01-18 | | title=Al Kab | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois at Urbana-Champaign }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=91 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA91 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%201577 HR 1577]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=04+56+59.6187%2B33+09+57.925&ident=SV*+ZI+++325&submit=Aladin+previewer Image Iota Aurigae]
+*[http://ciera.northwestern.edu/Santorini2007/posters.html Extreme Solar Systems posters]
+*[http://ciera.northwestern.edu/Santorini2007/all_abstracts.pdf Extreme Solar Systems Abstracts]
+
+{{Stars of Auriga}}
+
+[[Category:Henry Draper Catalogue objects|31398]]
+[[Category:Hipparcos objects|023015]]
+[[Category:Bayer objects|Aurigae, Iota]]
+[[Category:Auriga (constellation)]]
+[[Category:K-type bright giants]]
+[[Category:Stars with proper names]]
+[[Category:Hypothetical planetary systems]]
+
+[[ar:الكعب ذو العنان]]
+[[ca:Iota Aurigae]]
+[[de:Iota Aurigae]]
+[[es:Hassaleh]]
+[[fa:یوتا ارابه‌ران]]
+[[fr:Iota Aurigae]]
+[[id:Iota Aurigae]]
+[[it:Iota Aurigae]]
+[[lb:Hassaleh (Stär)]]
+[[nl:Hassaleh]]
+[[ja:ぎょしゃ座イオタ星]]
+[[nds:Hassaleh]]
+[[pt:Iota Aurigae]]
+[[ru:Йота Возничего]]
+[[sk:Hassaleh]]
+[[zh:五車一]]

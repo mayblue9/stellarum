@@ -1,0 +1,31 @@
+'''Eta Eridani''' (η Eri, η Eridani) is a [[star]] in the [[constellation]] [[Eridanus (constellation)|Eridanus]].  It has the traditional name '''Azha''' ("the breeding place"). The word Azha is a corruption of [[Persian language|Persian]] آشيانه āšiyāne The (ostrich) nest. <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Eridanus*.html Star Name - R.H. Allen p.218]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天苑}} ({{lang|zh-Latn|Tiān Yuàn}}), meaning ''[[Hairy Head (Chinese constellation)|Celestial Meadows]]'', refers to an asterism consisting of η Eridani, [[Gamma Eridani|γ Eridani]], [[Pi Eridani|π Eridani]], [[Delta Eridani|δ Eridani]], [[Epsilon Eridani|ε Eridani]], [[Zeta Eridani|ζ Eridani]], [[Pi Ceti|π Ceti]], [[Tau1 Eridani|τ<sup>1</sup> Eridani]], [[Tau2 Eridani|τ<sup>2</sup> Eridani]], [[Tau3 Eridani|τ<sup>3</sup> Eridani]], [[Tau4 Eridani|τ<sup>4</sup> Eridani]], [[Tau5 Eridani|τ<sup>5</sup> Eridani]] [[Tau6 Eridani|τ<sup>6</sup> Eridani]], [[Tau7 Eridani|τ<sup>7</sup> Eridani]], [[Tau8 Eridani|τ<sup>8</sup> Eridani]] and [[Tau9 Eridani|τ<sup>9</sup> Eridani]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, η Eridani itself is known as {{lang|zh|天苑六}} ({{lang|zh-Latn|Tiān Yuàn liù}}, {{lang-en|the Sixth Star of Celestial Meadows}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Structure==
+
+Eta Eridani belongs to [[stellar classification|spectral class]] K0 and has [[apparent magnitude]] +4.1.  It is 121 [[light year]]s from [[Earth]].
+
+Coordinates for [[J2000]]:
+* [[Right ascension]]: 2h56m25.70s
+* [[Declination]]: &minus;08°53'53.0"
+
+==References==
+<references/>
+
+
+{{Stars of Eridanus}}
+
+[[Category:Eridanus (constellation)]]
+[[Category:Bayer objects|Eridani, Eta]]
+[[Category:Stars with proper names]]
+
+[[ar:أزهى (نجم)]]
+[[de:Azha]]
+[[es:Eta Eridani]]
+[[id:Eta Eridani]]
+[[it:Azha]]
+[[nl:Azha]]
+[[pt:Eta Eridani]]
+[[sk:Azha]]
+[[zh:天苑六]]

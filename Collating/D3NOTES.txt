@@ -1,0 +1,14 @@
+
+How to get from an event on a d3 svg element to the data node attached
+to that element:
+
+
+transition().each("end", function(e) {
+	    d3.select(this).each(function(d, i) {
+		console.log("Hello " + d.name);
+	    });
+	});
+
+use d3.select(this) to select just this element, and then call each()
+on the selection, which runs a function to which is passed the data
+element and the index.

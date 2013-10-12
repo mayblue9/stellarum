@@ -1,0 +1,131 @@
+{{Starbox begin
+| name = β Ursae Majoris
+}}
+{{Starbox image
+| image=<div style="position: relative">[[File:Ursa Major IAU.svg|250px]]
+   <div style="position: absolute; left:47.75%; top:34.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+| caption=Merak in Ursa Major.
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| constell = [[Ursa Major]]
+| ra       = {{RA|11|01|50.47654}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+56|22|56.7339}}<ref name=aaa474_2_653/>
+| appmag_v = +2.37<ref name=clpl4_99/>
+}}
+{{ Starbox character
+| class    = A1&nbsp;V<ref name=apj663_1_365/>
+| variable = Suspected
+| b-v      = -0.02<ref name=clpl4_99/>
+| u-b      = +0.00<ref name=clpl4_99/>
+}}
+{{ Starbox astrometry
+| radial_v = -12.0<ref name=rgcrv/>
+| prop_mo_ra  = +81.43<ref name=aaa474_2_653/>
+| prop_mo_dec = +33.49<ref name=aaa474_2_653/>
+| parallax = 40.90
+| p_error  = 0.16
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{ Starbox detail
+| mass     = 2.7<ref name=apj663_1_365/>
+| radius   = {{nowrap|3.021 ± 0.038}}<ref name=apj746_1_101/>
+| luminosity  = {{nowrap|63.015 ± 1.307}}<ref name=apj746_1_101/>
+| temperature = {{nowrap|9377 ± 75}}<ref name=apj746_1_101/>
+| age_myr = {{nowrap|500 ± 100}}<ref name=aaa442_2_563/>
+| gravity  = 3.83<ref name=aaa442_2_563/>
+| metal_fe = 
+| rotational_velocity = 46<ref name=aaa463_2_671/>
+}}
+{{ Starbox catalog
+|  names=Merak, Mirak,<ref name=allen1899/> β&nbsp;Ursae Majoris, β&nbsp;UMa, Beta&nbsp;UMa, 48&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+57&nbsp;1302, [[Fifth Fundamental Catalogue|FK5]]&nbsp;416, [[Boss General Catalogue|GC]]&nbsp;15145, [[Henry Draper Catalogue|HD]]&nbsp;95418, [[Hipparcos catalogue|HIP]]&nbsp;53910, [[Bright Star Catalogue|HR]]&nbsp;4295, [[PPM Star Catalogue|PPM]]&nbsp;32912, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;27876.<ref name=SIMBAD/>
+}}
+{{ Starbox end }}
+
+'''Beta Ursae Majoris''' ('''Beta&nbsp;UMa''', '''β&nbsp;Ursae Majoris''', '''β&nbsp;UMa''') is a [[star]] in the northern [[circumpolar constellation]] of [[Ursa Major]]. It has the traditional name '''Merak'''. 
+
+The [[apparent visual magnitude]] of this star is +2.37,<ref name=clpl4_99/> which means it is readily visible to the naked eye. It is more familiar to [[northern hemisphere]] observers as one of the "pointer stars" in the [[Big Dipper]], or "The Plough" in England, which is a prominent [[Asterism (astronomy)|asterism]] of seven stars that forms part of the larger constellation. Extending an imaginary straight line from this star through the nearby [[Alpha Ursae Majoris]] (Dubhe) extends to [[Polaris]], the north star.
+
+==Properties==
+Based upon [[parallax]] measurements of this star, it is located at a distance of {{Convert|79.7|ly|pc|abbr=off|lk=on}} from the [[Earth]]. The [[spectrum]] shows this to have a [[stellar classification]] of A1&nbsp;V,<ref name=apj663_1_365/> making it a fairly typical [[main sequence]] star that is generating energy through the [[thermonuclear fusion]] of hydrogen at its core. The [[effective temperature]] of the outer envelope is about 9,225&nbsp;K,<ref name=apj663_1_365/> giving it a white-hued glow that is typical for [[A-type star]]s.<ref name=csiro/> It is larger than the Sun, with about 2.7 times the [[Solar mass|mass]] and 2.84 times the [[Solar radius]]. If they were viewed from the same distance, Beta Ursae Majoris would appear much brighter than the Sun, as it is radiating 68 times the [[solar luminosity|Sun's luminosity]].<ref name=apj663_1_365/><ref name=apj660_2_1556/>
+
+Observation of the star in the [[infrared]] reveal an [[infrared excess|excess emission]] that suggests the presence of a circumstellar [[debris disk]] of orbiting dust,<ref name=apj663_1_365/> much like those discovered around [[Fomalhaut]] and [[Vega]] The mean temperature of this disk is 120&nbsp;K,<ref name=apj660_2_1556/> indicating that it is centered at a radius of 47&nbsp;[[Astronomical Unit]]s from the host star.<ref name=apj663_1_365/> The dust has an estimated mass of about 0.27% the mass of the Earth.<ref name=apj660_2_1556/>
+
+Beta Ursae Majoris is one of five stars in the Big Dipper that form a part of a loose [[open cluster]] called the [[Ursa Major moving group]], sharing the same region of space and not just the same patch of sky by our perspective. This group has an estimated age of about (500 ± 100) million years. As the members of this group share a common origin and motion through space, this yields an estimate for the age of Beta Ursae Majoris.<ref name=aaa442_2_563/> Two stars are known to be located in relatively close proximity: 37 Ursae Majoris at {{Convert|5.2|ly|pc}} and [[Gamma Ursae Majoris]] at {{Convert|11.0|ly|pc}}; much closer to each other than these stars are to the Earth.<ref name=apjss192_1_2/>
+
+==Name and etymology==
+*The name ''Merak'' is derived from the Arabic المراق ''al-maraqq'' "the loins" (of the bear).<ref name=allen1899/>
+*This star as ''Pulaha'', one of the Seven Rishis.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=438}}</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|北斗}} ({{lang|zh-Latn|Běi Dǒu}}), meaning ''[[Purple Forbidden enclosure|Northern Dipper]]'', refers to an asterism consisting of β Ursae Majoris, [[Alpha Ursae Majoris|α Ursae Majoris]], [[Gamma Ursae Majoris|γ Ursae Majoris]], [[Delta Ursae Majoris|δ Ursae Majoris]], [[Epsilon Ursae Majoris|ε Ursae Majoris]], [[Zeta Ursae Majoris|ζ Ursae Majoris]] and [[Eta Ursae Majoris|η Ursae Majoris]]. Consequently, β Ursae Majoris itself is known as {{lang|zh|北斗二}} ({{lang|zh-Latn|Běi Dǒu èr}}, {{lang-en|the Second Star of Northern Dipper}}) and {{lang|zh|天璇}} ({{lang|zh-Latn|Tiān Xuán}}, {{lang-en|Star of Celestial Rotating Jade}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060615.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 15 日]</ref>
+
+==In culture==
+[[USS Merak (1918)]] and [[USS Merak (AF-21)]], both of [[United States]] navy ship.
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue= 2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=apj663_1_365>{{citation | display-authors=1 | last1=Wyatt | first1=M. C. | last2=Smith | first2=R. | last3=Su | first3=K. Y. L. | last4=Rieke | first4=G. H. | last5=Greaves | first5=J. S. | last6=Beichman | first6=C. A. | last7=Bryden | first7=G. | title=Steady State Evolution of Debris Disks around A Stars | journal=The Astrophysical Journal | volume=663 | issue=1 | pages=365–382 | month=July | year=2007 | doi=10.1086/518404 | bibcode=2007ApJ...663..365W |arxiv = astro-ph/0703608 }}</ref>
+
+<ref name=apj660_2_1556>{{citation | display-authors=1 | last1=Rhee | first1=Joseph H. | last2=Song | first2=Inseok | last3=Zuckerman | first3=B. | last4=McElwain | first4=Michael | title=Characterization of Dusty Debris Disks: The IRAS and Hipparcos Catalogs | journal=The Astrophysical Journal | volume=660 | issue=2 | pages=1556–1571 | month=May | year=2007 | doi=10.1086/509912 | bibcode=2007ApJ...660.1556R |arxiv = astro-ph/0609555 }}</ref>
+
+<ref name=aaa442_2_563>{{citation | last1=Monier | first1=R. | title=Abundances of a sample of A and F-type dwarf members of the Ursa Major Group | journal=Astronomy and Astrophysics | volume=442 | issue=2 | pages=563–566 | month=November | year=2005 | doi=10.1051/0004-6361:20053222 | bibcode=2005A&A...442..563M }}</ref>
+
+<ref name=apjss192_1_2>{{citation | last1=Shaya | first1=Ed J. | last2=Olling | first2=Rob P. | title=Very Wide Binaries and Other Comoving Stellar Companions: A Bayesian Analysis of the Hipparcos Catalogue | journal=The Astrophysical Journal Supplement | volume=192 | issue=1 | page=2 | month=January | year=2011 | doi=10.1088/0067-0049/192/1/2 | bibcode=2011ApJS..192....2S |arxiv = 1007.0425 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=MERAK -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=beta+ursae+majoris | accessdate=2012-01-01 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=438 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA438 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B |arxiv = 1112.3316 }}. See Table 10.</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+{{Sky|11|01|50.5|+|56|22|57|1000000000}}
+
+[[Category:Bayer objects|Ursae Majoris, Beta]]
+[[Category:Henry Draper Catalogue objects|095418]]
+[[Category:Ursa Major (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:المراق (نجم)]]
+[[cs:Merak]]
+[[de:Merak (Stern)]]
+[[es:Merak]]
+[[fa:مراق]]
+[[fr:Beta Ursae Majoris]]
+[[fur:Merak]]
+[[ko:메라크]]
+[[hi:पुलह तारा]]
+[[it:Merak (astronomia)]]
+[[he:מראק]]
+[[lb:Merak (Stär)]]
+[[nl:Merak (ster)]]
+[[ja:メラク]]
+[[pl:Merak]]
+[[pt:Beta Ursae Majoris]]
+[[ru:Мерак]]
+[[sk:Merak]]
+[[fi:Beta Ursae Majoris]]
+[[sv:Merak]]
+[[zh:天璇]]

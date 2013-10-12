@@ -1,0 +1,62 @@
+{{For|the AMD Propus processor core|Athlon II}}
+{{Starbox short sources
+| constell=[[Gemini (constellation)|Gemini]]
+| name=[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=V*+eta+Gem Eta Geminorum A/B]
+| epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| ra={{RA|06|14|52.657 / 52.567}}
+| dec={{DEC|+22|30|24.48 / 24.51}}
+| appmag_v=3.15 to 3.9 / 8.8
+| absmag_v=-2.0 to -1.2 / 3.6
+| spectral=M3IIIab / G0
+| dist_ly=350&plusmn;70
+| dist_pc=110&plusmn;20
+| names=Propus, Praepes, Tejat&nbsp;Prior, Pish Pai, &eta;&nbsp;Geminorum, &eta;&nbsp;Gem, 7&nbsp;Geminorum, 7&nbsp;Gem, [[Henry Draper catalogue|HD]]&nbsp;42995, [[Harvard Revised catalogue|HR]]&nbsp;2216, [[Bonner Durchmusterung|BD]]+22°1241, [[Hipparcos catalogue|HIP]]&nbsp;29655, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;78135, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J06149+2230A/B, [[Aitken Double Star Catalog|ADS]]&nbsp;4841A/B|HIP|CCDM|[[Combined General Catalogue of Variable Stars|GCVS]] (4.2)
+}}
+'''Eta Geminorum''' (η Gem, η Geminorum) is a triple [[star system]] in the [[constellation]] [[Gemini (constellation)|Gemini]].  It has the traditional names '''Tejat Prior''', '''Propus''' and '''Praepes''' and '''Pish Pai''' (from the Persian Pīshpāy, پیش‌پای, meaning foreleg).<ref>p. 235, Star-names and Their Meanings, Richard Hinckley Allen, G. E. Stechert, 1899.</ref>
+
+This star, along with [[Gamma Geminorum|γ Gem]] (Alhena), [[Mu Geminorum|μ Gem]] (Tejat Posterior), [[Nu Geminorum|ν Gem]] and [[Xi Geminorum|ξ Gem]] (Alzirr) were ''Al Han'ah'', "the brand" (on the neck of the camel). They also were associated in ''Al Nuḥātai'', the dual form of ''Al Nuḥāt'', "a Camel's Hump"<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Gemini*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=234}} </ref>
+
+In [[Chinese astronomy]], Tejat Prior is called 钺, [[Pinyin]]: Yuè, meaning ''	Battle Axe'', because this star is marking itself and stand alone in ''Battle Axe'' asterism, [[Well (Chinese constellation)|Well]] mansion (see : [[Chinese constellation]])<ref> {{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060526.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 26 日]</ref><ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Gemini*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Gemini]</ref>
+
+==Properties==
+
+Eta Geminorum A is a spectroscopic binary.  The primary is a [[semiregular variable star|semiregular]] [[variable star]] of type SRA whose brightness changes with a period of 234 days between [[apparent magnitude|magnitude]] +3.15 and +3.9. It is located 350 [[light year]]s from the [[Sun]] and is a [[red giant]] of the [[stellar classification|spectral type]] M3.  The secondary, probably a class B, orbits with a period of 8.2 years. Eta Geminorum B, a class G dwarf, orbits the pair with a period of at least 700 years.<ref>[http://adsabs.harvard.edu/abs/1944ApJ...100...63M The Spectrographic Orbit and Light-Variations of η Geminorum], Dean B. McLaughlin and Suzanne E. A. van Dijke, ''Astrophysical Journal'' '''100''' (July 1944), pp. 63&ndash;68.</ref><sup>,</sup><ref>[http://www.astro.uiuc.edu/~kaler/sow/propus.html Eta Geminorum] at Jim Kaler's STARS.</ref> 
+
+Eta Geminorum is near the [[ecliptic]], so it can be [[occultation|occulted]] by the [[Moon]] and, very rarely, by [[planet]]s. The last occultation by a planet took place on July 27, 1910, by [[Venus]], and the next to last on July 11, 1837, by [[Mercury (planet)|Mercury]].
+
+==Namesakes==
+[[USS Propus (AK-132)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+<references />
+
+{{Stars of Gemini}}
+
+[[Category:Bayer objects|Geminorum, Eta]]
+[[Category:Flamsteed objects|Geminorum, 7]]
+[[Category:Triple star systems]]
+[[Category:Gemini (constellation)]]
+[[Category:Semiregular variable stars]]
+[[Category:Stars with proper names]]
+
+[[de:Tejat Prior]]
+[[el:Πρόπους]]
+[[es:Tejat Prior]]
+[[fa:پیش‌پای]]
+[[fr:Eta Geminorum]]
+[[id:Eta Geminorum]]
+[[it:Eta Geminorum]]
+[[lb:Tejat Prior (Stär)]]
+[[nl:Propus]]
+[[nds:Tejat Prior]]
+[[pt:Eta Geminorum]]
+[[ru:Эта Близнецов]]
+[[sk:Propus]]
+[[zh:鉞 (恆星)]]

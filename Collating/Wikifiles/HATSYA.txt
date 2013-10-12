@@ -1,0 +1,124 @@
+{{Starbox begin
+| name=Iota Orionis A/B
+}}
+{{Starbox image
+| image = [[File:Hatsya.png|250px]]
+| caption = Hatsya identified in a [[Stellarium]] screenshot.
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|05|35|25.98191}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–05|54|35.6435}}<ref name=aaa474_2_653/>
+| appmag_v = 2.77<ref name=aass34_1/>
+| constell = [[Orion (constellation)|Orion]]
+}}
+{{Starbox character
+| class    = {{nowrap|O9&nbsp;III + B0.8&nbsp;III/IV}}<ref name=apj554_1_362/>
+| b-v      = –0.24<ref name=aass34_1/>
+| u-b      = –1.08<ref name=aass34_1/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 21.5<ref name=rgcrv/>
+| prop_mo_ra  = +1.42<ref name=aaa474_2_653/>
+| prop_mo_dec = –0.46<ref name=aaa474_2_653/>
+| parallax = 1.40
+| p_error  = 0.22
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=apj554_1_362/>
+| primary = <!--Primary name -->
+| name = <!--Companion name-->
+| period = <!--Period (in years)-->
+| period_unitless = 29.1338&nbsp;days
+| axis = <!--Semimajor axis (in arcseconds)-->
+| axis_unitless = <!--Semimajor axis (no units provided by template)-->
+| eccentricity = 0.764
+| inclination = <!--Inclination (in degrees)-->
+| node = <!--Longitude of node (in degrees)-->
+| periastron = 2,450,072.80 HJD
+| periarg = <!--Argument of periastron (in degrees), secondary -->
+| periarg_primary = <!--Argument of periastron (in degrees), primary -->
+| k1 = <!-- Velocity semi-amplitude (SB1, or primary in SB2), in km/s -->
+| k2 = <!-- Velocity semi-amplitude (secondary in SB2), in km/s -->
+}}
+{{Starbox detail
+| component1 = ι Ori A
+| mass     = 
+| radius   = 
+| luminosity  = 
+| temperature = 32,500<ref name=apj554_1_362/>
+| gravity  = 3.73<ref name=apj554_1_362/>
+| metal_fe = +0.10<ref name=aaa8_197/>
+| rotational_velocity = 122<ref name=ciako/>
+| age_myr  = 4.0–5.5<ref name=apj554_1_362/>
+| component2 = ι Ori B
+| temperature2 = 27,000<ref name=apj554_1_362/>
+| gravity2 = 3.78<ref name=apj554_1_362/>
+| age_myr2 = 9.4 ± 1.5<ref name=apj554_1_362/>
+}}
+{{Starbox catalog
+| names = Hatsya, Na’ir al Saif, Hatysa in Becvar, 44 Orionis, [[Bonner Durchmusterung|BD]]-06&nbsp;1241, [[FK5]]&nbsp;209, [[Henry Draper catalogue|HD]]&nbsp;37043, [[Hipparcos catalogue|HIP]] 26241, [[Harvard Revised catalogue|HR]]&nbsp;1889, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;132323.
+}}
+{{Starbox end}}
+'''Iota Orionis''' (ι Ori, ι Orionis) is a [[star]] in the [[celestial equator|equatorial]] [[constellation]] of [[Orion (constellation)|Orion]] the hunter. The [[apparent visual magnitude]] of Iota Orionis is 2.77,<ref name=aass34_1/> making it the eighth brightest member of Orion. It is the brightest [[star]] in an [[Asterism (astronomy)|asterism]] known as [[Orion's sword]]. Iota Orionis has the traditional names '''Hatsya''' (sometimes with the typographic error ''Hatysa'')<ref name=bakich1995/> and in [[Arabic language|Arabic]], '''Na’ir al Saif''', which means simply "the Bright One of the Sword."<ref name=allen1899/> From [[parallax]] measurements, it is located at a distance of roughly {{Convert|2330|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+Iota Orionis is a quadruple system dominated by a massive [[spectroscopic binary]] with an eccentric (e=0.764), 29-day orbit. The binary is composed of a [[stellar classification|stellar class]] O9&nbsp;III star ([[blue giant]]) and a class B0.8&nbsp;III/IV star, with the secondary being about 2 magnitudes fainter.<ref name=apj554_1_362/> The collision of the [[stellar wind]]s from this pair makes the system a strong [[X-ray]] source. Oddly, the two objects of this system appear to have different ages, with the secondary being about double the age of the primary. In combination with the high eccentricity of their orbit, this suggests that the binary system was created through a capture, rather than by being formed together and undergoing a mass transfer. This capture may have occurred, for example, through an encounter between two binary systems.<ref name=apj554_1_362/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa8_197>{{citation | last1=Conti | first1=P. S. | last2=Loonen | first2=J. P. | title=Coarse analysis of the helium weak B star Iota Ori B | journal=Astronomy and Astrophysics | volume=8 | pages=197–203 | month=October | year=1970 | bibcode=1970A&A.....8..197C }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=ciako>{{citation | last1=Uesugi | first1=Akira | last2=Fukuda | first2=Ichiro | title=Catalogue of rotational velocities of the stars | journal=Contributions from the Institute of Astrophysics and Kwasan Observatory | year=1970 | publisher=University of Kyoto | bibcode=1970crvs.book.....U }}</ref>
+
+<ref name=aass34_1>{{cite journal | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=apj554_1_362>{{citation | display-authors=1 | last1=Bagnuolo | first2=William G., Jr. | last2=Riddle | first2=Reed L. | last3=Gies | first3=Douglas R. | last4=Barry | first4=Donald J. | title=ι Orionis-Evidence for a Capture Origin Binary | journal=The Astrophysical Journal | volume=554 | issue=1 | pages=362–367 | month=June | year=2001 | doi=10.1086/321367 | bibcode=2001ApJ...554..362B }}</ref>
+
+<ref name=bakich1995>{{citation | first1=Michael E. | last1=Bakich | title=The Cambridge Guide to the Constellations | publisher=Cambridge University Press | year=1995 | isbn=0521449219 | page=118 | url=http://books.google.com/books?id=tLMXiFhTnRYC&pg=PA118 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=317 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA317 }}</ref>
+
+}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/nairalsaif.html Iota Orionis] by Dr. Jim Kaler.
+* [http://www.daviddarling.info/encyclopedia/I/Iota_Orionis.html David Darling's encyclopedia entry]
+
+{{Stars of Orion}}
+
+[[Category:Bayer objects|Orionis, Iota]]
+[[Category:O-type giants]]
+[[Category:B-type giants]]
+[[Category:Orion (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:Multiple star systems|4]]
+[[Category:Stars with proper names]]
+
+[[bn:আইওটা অরিয়নিস]]
+[[de:Nair Al Saif]]
+[[es:Hatysa]]
+[[fa:نائر السیف]]
+[[fr:Iota Orionis]]
+[[ko:하트샤]]
+[[id:Iota Orionis]]
+[[it:Iota Orionis]]
+[[lb:Nair-al-Saif (Stär)]]
+[[nl:Nair al Saif]]
+[[ja:オリオン座イオタ星]]
+[[pnb:نائر السیف]]
+[[nds:Nair Al Saif]]
+[[pl:Hatysa]]
+[[pt:Hatysa]]
+[[ru:Наир Аль Саиф]]
+[[sk:Nair Al Saif]]
+[[tr:Iota Orionis]]
+[[uk:HD37043]]
+[[zh:伐三]]

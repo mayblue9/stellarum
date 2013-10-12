@@ -1,0 +1,161 @@
+{{Starbox begin
+ | name = Delta Capricorni
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Capricornus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Capricornus constellation and its surroundings]]
+     <div style="position: absolute; left: 27.2%; top: 36.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of δ Capricorni (circled)
+}}
+{{Starbox observe
+ | epoch = [[J2000.0]]
+ | constell = [[Capricornus]]
+ | ra = {{RA|21|47|02.44424}}<ref name=aaa474_2_653/>
+ | dec = {{DEC|-16|07|38.2335}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.81<ref name=aaa446_2_785/>
+}}
+{{Starbox character
+ | class = {{nowrap|A7m&nbsp;III<ref name=aaa446_2_785/> (kA5hF0mF2III)}}<ref name=aj126_4_2048/>
+ | r-i = <!--R-I color-->
+ | v-r = <!--V-R color-->
+ | b-v = +0.31<ref name=aj79_1290/>
+ | u-b = +0.07<ref name=aj79_1290/>
+ | variable = [[Delta Scuti variable|Delta Scuti]]<br>[[Eclipsing binary]]
+}}
+{{Starbox astrometry
+ | radial_v = -6.3<ref name=gcsrv/>
+ | prop_mo_ra = +261.70<ref name=aaa474_2_653/>
+ | prop_mo_dec = -296.70<ref name=aaa474_2_653/>
+ | parallax = 84.27
+ | p_error = 0.19
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox orbit
+ | reference = <ref name=jrasc86_2_99/>
+ | period_unitless = 1.0227683 days
+ | axis = <!--Semimajor axis (in arcseconds)-->
+ | axis_unitless = <!--Semimajor axis (no units provided by template)-->
+ | eccentricity = 0 (assumed)
+ | inclination = 72.5
+ | node = <!--Longitude of node (in degrees)-->
+ | periastron = 2,448,105.793 ± 0.003 HJD
+ | periarg = <!--Argument of periastron (in degrees), secondary -->
+ | periarg_primary = <!--Argument of periastron (in degrees), primary -->
+ | k1 = 75.3 ± 1.0
+ | k2 = <!-- Velocity semi-amplitude (secondary in SB2), in km/s -->
+}}
+{{Starbox detail
+ | component1 = δ Cap A
+ | mass = 2.0<ref name=jrasc86_2_99/>
+ | radius = 1.91<ref name=jrasc86_2_99/>
+ | gravity = 3.66<ref name=apj658_2_1264/>
+ | luminosity = 
+ | temperature = 7,301<ref name=apj658_2_1264/>
+ | metal_fe = –0.13<ref name=apj658_2_1264/>
+ | rotational_velocity = 105<ref name=aaa393_897/>
+ | age = 
+ | component2 = δ Cap B
+ | mass2 = 0.9<ref name=jrasc86_2_99/>
+}}
+{{Starbox catalog
+ | names = Deneb Algedi, Scheddi, 49&nbsp;Capricorni, [[Star catalogue#ADS|ADS]]&nbsp;15314, [[Bonner Durchmusterung|BD]]−16&nbsp;5943, [[Fifth Fundamental Catalogue|FK5]]&nbsp;819, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;5258.00, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;837, [[Henry Draper catalogue|HD]]&nbsp;207098, [[Hipparcos catalogue|HIP]]&nbsp;107556, [[Harvard Revised catalogue|HR]]&nbsp;8322, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;164644.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+ | Simbad = HD+207098
+ | ARICNS = <!--Code-->
+}}
+{{Starbox end}}
+
+'''Delta Capricorni''' (δ Cap, δ Capricorni), also traditionally named '''Deneb Algedi''' and '''Scheddi''', is a [[binary star]]<ref name=mnras389_2_869/> system approximately 39 [[light-year]]s away in the [[constellation]] of [[Capricornus]] (the Sea [[Goat]]).  The primary star in the system is a [[white giant]] [[star]] and the combined light of its members makes it the brightest "single" star within the constellation.
+
+Because it is near the [[ecliptic]], Delta Capricorni can be [[occultation|occulted]] by the [[Moon]], and also (rarely) by [[planet]]s.
+
+== Stellar system ==
+
+Delta Capricorni is an [[eclipsing binary]] star system similar to [[Algol]], with an orbital period of 1.022768 days and an [[Orbital inclination|inclination]] close to the line of sight from the Earth.<ref name=mnras389_2_869/> The peak [[apparent visual magnitude]] of the pair is 2.81. During an eclipse of the primary, this magnitude drops by 0.24. When the primary is eclipsing the secondary, the magnitude decreases by 0.09.<ref name=aaa446_2_785/>
+
+The primary component, Delta Capricorni A, has an overall [[stellar classification]] of A7m&nbsp;III, indicating that it is a [[giant star]] that has exhausted the supply of hydrogen at its core. More specifically, this is a chemically-peculiar [[Am star]] with a spectral type of kA5hF0mF2&nbsp;III under the revised MK system.<ref name=aj126_4_2048/> This notation indicates that the [[K-line (spectrometry)|K-line]] matches the temperature of an A5 star, the hydrogen spectral type matches an F0 star, and the metallic [[absorption line]]s match an F2 star.<ref name=apj658_2_1264/>
+
+In the past this star was suspected of being a [[Delta Scuti variable]], which is rare for an Am star. This categorization was brought into question during observations in 1994 and it is most likely not a variable star.<ref name=mnras266_L13/> Compared to the Sun, the primary has double the mass and nearly twice the radius.<ref name=jrasc86_2_99/> It is rotating rapidly with a [[projected rotational velocity]] of 105 km s<sup>–1</sup>.<ref name=aaa393_897/> (This rotation rate is synchronous with the orbital period.) Note that it is unusual for an Am star to have such a high rotational velocity.<ref name=mnras266_L13/> The outer envelope of the star is radiating energy at an [[effective temperature]] of 7,301&nbsp;K,<ref name=apj658_2_1264/> giving it the white-hued glow of an A-type star.<ref name=csiro/> The secondary component is a type G or K star with around 90% of the mass of the Sun.<ref name=jrasc86_2_99/>
+
+There are two optical companions. A sixteenth magnitude star is one [[arcminute]] away, while the thirteenth magnitude star D is two arcminutes away from the system.{{Citation needed|date=February 2012}}
+
+==Names and cultural associations==
+The traditional name 'Deneb Algedi' derives from the [[Arabic language|Arabic]] ذنب الجدي (''ðanab al-jady''), meaning "the tail of the goat", referring to the fishlike tail of the celestial sea-goat [[Capricorn]]. According to [[astrology]], Deneb Algedi's representation of a flexible tail is reflected  in its association with both good and bad fortune alike.<ref name=astrology/> It was one of the fifteen [[Behenian fixed stars|Behenian stars]] of [[medieval]] astrology, associated with [[chalcedony]], [[marjoram]] and the [[kabbalistic]] symbol [[Image:Agrippa1531 caudaCapricorni.png|40px]].  
+
+In [[Chinese astronomy]], δ Capricorni is known as {{lang|zh|壘壁陣四}} ({{lang|zh-Latn|''Lěi Bì Zhèn sì''}}), meaning 'The Fourth Star of the Line of Ramparts'.<ref>[http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> This refers to its presence among an [[asterism]] known as '[[Encampment (Chinese constellation)|The Line of Ramparts]]', which also includes [[Kappa Capricorni|κ Capricorni]], [[Epsilon Capricorni|ε Capricorni]], [[Gamma Capricorni|γ Capricorni]], [[Iota Aquarii|ι Aquarii]], [[Lambda Aquarii|λ Aquarii]], [[Sigma Aquarii|σ Aquarii]], [[Phi Aquarii|φ Aquarii]], [[27 Piscium]], [[29 Piscium]], [[33 Piscium]] and [[30 Piscium]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref>{{zh icon}}
+
+== See also ==
+
+* [[Alpha Capricorni]]
+* [[Deneb]]
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa393_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | pages=897–911 | month=October | year=2002 | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R |arxiv = astro-ph/0205255 }}</ref>
+
+<ref name=aj79_1290>{{citation | last1=Feinstein | first1=A. | title=Photoelectric UBVRI observations of AM stars | journal=Astronomical Journal | volume=79 | page=1290 | month=November | year=1974 | doi=10.1086/111675 | bibcode=1974AJ.....79.1290F }}</ref>
+
+<ref name=aj126_4_2048>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Robinson | first5=P. E. | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 Parsecs: The Northern Sample. I. | journal=The Astronomical Journal | volume=126 | issue=4 | pages=2048–2059 | month=October | year=2003 | doi=10.1086/378365 | bibcode=2003AJ....126.2048G |arxiv = astro-ph/0308182 }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=jrasc86_2_99>{{citation | last1=Batten | first1=A. H. | last2=Fletcher | first2=J. M. | title=A new spectroscopic orbit for Delta Capricorni | journal=Journal of the Royal Astronomical Society of Canada | volume=86 | issue=2 | pages=99–109 | month=April | year=1992 | bibcode=1992JRASC..86...99B }}</ref>
+
+<ref name=apj658_2_1264>{{citation | display-authors=1 | last1=Trilling | first1=D. E. | last2=Stansberry | first2=J. A. | last3=Stapelfeldt | first3=K. R. | last4=Rieke | first4=G. H. | last5=Su | first5=K. Y. L. | last6=Gray | first6=R. O. | last7=Corbally | first7=C. J. | last8=Bryden | first8=G. | last9=Chen | first9=C. H. | title=Debris disks in main-sequence binary systems | journal=The Astrophysical Journal | volume=658 | issue=2 | pages=1264–1288 | month=April | year=2007 | doi=10.1086/511668 | bibcode=2007ApJ...658.1289T |arxiv = astro-ph/0612029 }}. See p. 33.</ref>
+
+<ref name=aaa446_2_785>{{citation | display-authors=1 | last1=Malkov | first1=O. Yu. | last2=Oblak | first2=E. | last3=Snegireva | first3=E. A. | last4=Torra | first4=J. | title=A catalogue of eclipsing variables | journal=Astronomy and Astrophysics | volume=446 | issue=2 | pages=785–789 | month=February | year=2006 | doi=10.1051/0004-6361:20053137 | bibcode=2006A&A...446..785M }}</ref>
+
+<ref name=mnras266_L13>{{citation | last1=Lloyd | first1=C. | last2=Wonnacott | first2=D. | title=Is the ROSAT Wide Field Camera EUV source and AM eclipsing binary, Delta Capricorni, also a Delta Scuti variable? | journal=Monthly Notices of the Royal Astronomical Society | volume=266 | pages=L13–L16 | month=January | year=1994 | bibcode=1994MNRAS.266L..13L }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Cap -- Eclipsing binary of Algol type | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Capricorni | accessdate=2012-02-06 }}</ref>
+
+<ref name=astrology>{{citation | last=Wright | first=Anne | year=2003 | url=http://www.winshop.com.au/annew/DenebAlgedi.html | title=The Fixed Stars: Deneb Algedi | accessdate=July 28, 2005 | archiveurl=http://web.archive.org/web/20050616081842/http://www.winshop.com.au/annew/DenebAlgedi.html <!-- Bot retrieved archive --> | archivedate=June 16, 2005 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+*{{cite journal |last=Malasan |first=H. L. |authorlink= |coauthors=''et al.'' |year=1989 |month= |title=Delta Capricorni – an evolved binary or a main-sequence binary? |journal=Astronomical Journal |volume=97 |issue= |pages=499–504 |doi=10.1086/114999 |bibcode=1989AJ.....97..499M}}
+{{reflist}}
+
+== External links ==
+
+* {{cite web |url=http://www.heavens-above.com/hipentry.asp?hip=107556 |title=Delta Capricorni |accessdate=2008-06-21 |work=Heavens Above |publisher=Hipparcos Star Catalog Entry}}
+* {{cite web |url=http://www.astro.uiuc.edu/~kaler/sow/denebalgedi.html |title=Deneb Algedi |accessdate=2008-06-21 |work=[[University of Illinois]] |publisher=STARS |date= |first=Jim |last=Kaler}}
+
+{{Nearest bright star systems|4.}}
+{{Stars of Capricornus}}
+
+[[Category:Bayer objects|Capricorni, Delta]]
+[[Category:Capricornus (constellation)]]
+[[Category:Delta Scuti variables]]
+[[Category:Eclipsing binaries]]
+[[Category:Multiple star systems|4]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+[[Category:A-type giants]]
+
+[[ar:ذنب الجدي]]
+[[de:Deneb Algedi]]
+[[es:Deneb Algedi]]
+[[fa:ذنب‌الجدی]]
+[[fr:Delta Capricorni]]
+[[ko:염소자리 델타]]
+[[id:Delta Capricorni]]
+[[it:Deneb Algedi]]
+[[lb:Deneb Algedi (Stär)]]
+[[mk:Денеб Алгеди]]
+[[nl:Deneb Algedi]]
+[[ja:やぎ座デルタ星]]
+[[pl:Deneb Algedi]]
+[[pt:Delta Capricorni]]
+[[sk:Deneb Algiedi]]
+[[zh:垒壁阵四]]

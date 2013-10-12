@@ -1,0 +1,19 @@
+{{starbox short
+|constell= [[Hydrus (constellation)|Hydrus]]
+|name= Gamma Hydri
+|type= M2III <ref name=SIMBAD> SIMBAD, [http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Gamma+Hydri&submit=SIMBAD+search Gamma Hydri] (accessed 2 October 2012) </ref>
+|ra=   {{RA|03|47|14.34062}} <ref name=SIMBAD/>
+|dec=  {{DEC|-74|14|20.2686}} <ref name=SIMBAD/>
+}}
+'''Gamma Hydri''' ('''γ Hyi''') is a [[star]] in the [[constellation]] [[Hydrus (constellation)|Hydrus]]. Its [[apparent magnitude]] is 3.24.
+
+==References==
+{{reflist}}
+
+{{Stars of Hydrus}}
+
+[[Category:Hydrus (constellation)]]
+[[Category:M-type giants]]
+[[Category:Bayer objects|Hydri, Gamma]]
+
+{{Star-stub}}

@@ -1,0 +1,144 @@
+{{Starbox begin
+ | name=Gamma Cassiopeiae
+}}
+{{Starbox image
+ | image =
+     <div style="position: relative">[[File:Cassiopeia constellation map.svg|250px]]
+     <div style="position: absolute; left: 38.3%; top: 46.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+ | caption = γ Cassiopeiae (circled) is found in the middle of the "W"
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|00|56|42.50108}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+60|43|00.2984}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.47<ref name=aass34_1/>
+ | constell = [[Cassiopeia (constellation)|Cassiopeia]]
+}}
+{{Starbox character
+ | class    = B0.5&nbsp;IVe<ref name=apjs17_371/>
+ | b-v      = –0.15<ref name=aass34_1/>
+ | u-b      = –1.08<ref name=aass34_1/>
+ | variable = [[Gamma Cassiopeiae variable|Gamma Cas]]
+}}
+{{Starbox astrometry
+ | radial_v = –6.8<ref name=gcsrv/>
+ | prop_mo_ra  = +25.17<ref name=aaa474_2_653/>
+ | prop_mo_dec = –3.92<ref name=aaa474_2_653/>
+ | parallax = 5.94
+ | p_error  = 0.12
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = {{nowrap|19.3 ± 0.1}}<ref name=mnras410_1_190/>
+ | radius   = 14
+ | luminosity  = 55,000<ref name=mnras309_1_221/>
+ | temperature = 30,900<ref name=mnras309_1_221/>
+ | metal_fe = 
+ | rotational_velocity = 300<ref name=mnras309_1_221/>
+ | age_myr  = {{nowrap|8.0 ± 0.4}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+ | names=Tsih, 27&nbsp;Cassiopeiae, [[Star catalogue#ADS|ADS]]&nbsp;782, [[Bonner Durchmusterung|BD]]+59 144, [[Fifth Fundamental Catalogue|FK5]]&nbsp;32, [[Henry Draper catalogue|HD]]&nbsp;5394, [[Hipparcos catalogue|HIP]]&nbsp;4427, [[Harvard Revised catalogue|HR]]&nbsp;264, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;11482, WDS&nbsp;00567+6043.
+}}
+{{Starbox end}}
+
+'''Gamma Cassiopeiae''' (γ Cas, γ Cassiopeiae) is the [[Bayer designation]] for a [[star]] in the northern [[circumpolar constellation]] of [[Cassiopeia (constellation)|Cassiopeia]]. Although it is a fairly bright star with an [[apparent visual magnitude]] of 2.47,<ref name=aass34_1/> it has no traditional Arabic or Latin name. However, in [[Chinese language|Chinese]], it has the name '''Tsih''', derived from the word 策 (''cè''), meaning "the whip". It is located at the center of the distinctive "W" shape that forms the constellation's [[Asterism (astronomy)|asterism]]. American [[astronaut]]  [[Gus Grissom|Virgil Ivan "Gus" Grissom]] nicknamed the star '''Navi''' after his own middle name spelled backwards.<ref name="navi1"/> The star was used as an easily identifiable navigational reference point during space missions.<ref name="navi2"/> Based upon [[parallax]] measurements made by the [[Hipparcos]] satellite, this star is located at a distance of roughly {{Convert|550|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+==Properties==
+This is an eruptive [[variable star]], whose brightness changes irregularly between +2.20 mag and +3.40 mag. It is the prototype of the class of [[Gamma Cassiopeiae variable]] stars. The [[apparent magnitude]] of this star was +2.2 in 1937, +3.4 in 1940, +2.9 in 1949, +2.7 in 1965 and now it is +2.15. At maximum intensity, γ Cassiopeiae outshines both [[α Cassiopeiae]] (magnitude +2.25) and [[β Cassiopeiae]] (magnitude +2.3). It is a rapidly spinning star with a [[projected rotational velocity]] of 300 km s<sup>–1</sup>,<ref name=mnras309_1_221/> giving it a pronounced  [[equatorial bulge]]. When combined with the star's high luminosity, the result is the ejection of matter that forms a hot circumstellar disk of gas. The emissions and brightness variations are apparently caused by this "decretion" disk.
+
+The [[spectrum]] of this massive star matches a [[stellar classification]] of B0.5&nbsp;IVe.<ref name=apjs17_371/> A [[luminosity class]] of IV identifies it as a [[subgiant star]] that has reached a stage of its [[stellar evolution|evolution]] where it is exhausting the supply of hydrogen in its core region and transforming into a [[giant star]]. The 'e' suffix is used for stars that show [[emission line]]s of hydrogen in the spectrum, caused in this case by the circumstellar disk. This places it among a category known as [[Be star]]s; in fact, the first such star ever to be so designated.<ref name=kaler/> It has over 19<ref name=mnras410_1_190/> times the Sun's mass and is radiating as much energy as 55,000<ref name=mnras309_1_221/> Suns. At this rate of emission, the star has reached the end of its life as a [[B-type main sequence star]] after a relatively brief 8 million years.<ref name=mnras410_1_190/> The [[stellar atmosphere|outer atmosphere]] has an intense [[effective temperature]] of 30,900,<ref name=mnras309_1_221/> which is causing it to glow with a blue-white hue.
+
+===X-ray emission===
+Gamma Cassiopeiae is the prototype of a small group of stellar sources of [[X-ray astronomy|X-ray]] radiation that is about 10 times stronger than emitted from other B or Be stars. The character of the X-ray spectrum is Be "thermal", possibly emitted from plasmas of temperatures up to least ten million kelvins, and shows very short term and long-term cycles. Historically, it has been held the these X-rays might be excited by matter originating from the star, from a hot wind or a disk around the star, accreting onto the surface of a degenerate companion, such as a [[white dwarf]] or [[neutron star]]. However, there are difficulties with either of these hypotheses. For example, it is not clear that enough matter can be accreted by a white dwarf, at the distance of the purported secondary star implied by the orbital period, sufficient to power an X-ray emission of nearly 10<sup>33</sup> erg/s or 100 [[yottawatt|YW]]. A neutron star could easily power this X-ray flux, but X-ray emission from neutron stars is known to be non-thermal, and thus in apparent variance with the spectral properties.
+
+Evidence suggests that the X-rays maybe associated with the Be star itself or caused by some complex interaction between the star and surrounding decretion disk. One line of evidence is that the X-ray production is known to vary on both short and long time scales with respect to various UV line and continuum changes associated with a B star or with circumstellar matter close to the star.<ref name="SmithRobinson1999"/><ref name="Cranmer2000"/> Moreover, the X-ray emissions exhibit long-term cycles that correlate with the light curves in the visible wavelengths.<ref name="Smith2006"/>
+
+One intriguing property is that Gamma Cassiopeiae exhibits characteristics consistent with a strong, disordered [[stellar magnetic field|magnetic field]]. No field can be measured directly from the [[Zeeman effect]] because of the star's rotation-broadened spectral lines. Instead, the presence of this field is inferred from a robust periodic signal of 1.21 days that suggests a magnetic field rooted on the rotating star's surface. The star's UV and optical spectral lines show ripples moving from blue to red over several hours, which indicates clouds of matter being held frozen over the star's surface by strong magnetic fields. This evidence suggests that a magnetic field from the star is interacting with the decretion disk, resulting in the X-ray emission. A disk dynamo has been advanced as a mechanism to explain this modulation of the X-rays.<ref name="Robinson2002"/> However, difficulties remain with this mechanism, among which is that there are no disk dynamos known to exist in other stars, rendering this behavior more difficult to analyze.
+
+==Companions==
+Gamma Cassiopeiae is a spectroscopic binary with an orbital period of about 204 days and an eccentricity alternately reported as 0.26 and "near zero." The mass of the companion is believed to be about that of our [[Sun]].<ref name="Harmanec2000"/><ref name="Miroschnichenko2002"/>
+
+Gamma Cassiopeiae is an [[optical double]], with a faint [[Magnitude (astronomy)|magnitude]] 11 companion B about 2 arc seconds distant,<ref name="VCD"/><ref name="Nor"/> with the designation of ADS782AB,<ref name=SIMBAD/><ref>{{Cite document |title=VizieR Detailed Page |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIC%204427 |publisher=[[VizieR]] |accessdate=2009-04-13}}</ref> and a further, fainter, optical companion C.<ref name="VCD"/>
+
+The star was referenced in [[O. Henry]]'s short story ''The Skylight Room''.
+
+==See also==
+* [[Iota Ursae Majoris]], informally named ''Dnoces'' for astronaut [[Edward Higgins White|Edward H. White II]]
+* [[Gamma Velorum]], informally named ''Regor'' for astronaut [[Roger B. Chaffee]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=apjs17_371>{{citation | last1=Lesh | first1=Janet Rountree | title=The Kinematics of the Gould Belt: an Expanding Group? | journal=Astrophysical Journal Supplement | volume=17 | page=371 | month=December | year=1968 | doi=10.1086/190179 | bibcode=1968ApJS...17..371L }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aass34_1>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name="navi1">{{citation | work=Apollo 15 Lunar Surface Journal | url=http://history.nasa.gov/alsj/a15/a15.postland.html | title=Post-landing Activities | publisher=NASA }} commentary at 105:11:33</ref>
+
+<ref name="navi2">{{citation | publisher=Heritage Auction Galleries | title=Apollo 10 Flown CSM Star Chart Directly from the Personal Collection of Mission Command Module Pilot John Young | url=http://historical.ha.com/common/view_item.php?Sale_No=6037&Lot_No=0&LotIdNo=12016&ts=off#Photo | accessdate=March 11, 2010 }}</ref>
+
+<ref name="Harmanec2000">{{citation | last=Harmanec | first=P. | last2=Habuda | first2=P. | last3=Štefl | first3=S. | last4=Hadrava | first4=P. | last5=Korčáková | first5=D. | last6=Koubský | first6=P. | last7=Krtička | first7=J. | last8=Kubát | first8=J. | last9=Škoda | first9=P. | year=2000 | title=Properties and nature of Be stars. XX. Binary nature and orbital elements of gamma Cas | journal=Astronomy and Astrophysics | volume=364 | pages=L85–L88 | url=http://aa.springer.de/papers/0364002/2300l85/small.htm | arxiv=astro-ph/0011516 | bibcode=2000A&A...364L..85H }}</ref>
+
+<ref name="Miroschnichenko2002">{{citation | last=Miroschnichenko | first=A. S. | last2==Bjorkman | first2=K. S. | last3=Krugov | first3=V. D. | year=2002 | title=Binary nature and long term nature of Gamma Cassiopeiae | journal=Publications of the Astronomical Society of the Pacific | volume=114 | page=1226 |bibcode = 2002PASP..114.1226M |doi = 10.1086/342766 }}</ref>
+
+<ref name="SmithRobinson1999">{{citation | last=Smith | first=M. A. | last2=Robinson | first2=R. D. | year=1999 | title=A multiwavelength campaign on γ Cassiopeiae. III. The case for magnetically controlled circumstellar kinematics | journal=The [[Astrophysical Journal]] | volume=517 | issue=2 | pages=866–882 | doi=10.1086/307216 | bibcode=1999ApJ...517..866S }}</ref>
+
+<ref name="Cranmer2000">{{citation | last=Cranmer | first=S.| last2=Smith | first2=M. | last3=Robinson | first3=R. | year=2000 | title=A Multiwavelength Campaign on γ Cassiopeiae. IV. The Case for Illuminated Disk-enhanced Wind Streams | journal=Astrophysical Journal | volume=537 | issue=1 | pages=433–447 | doi=10.1086/309008 | bibcode=2000ApJ...537..433C }}</ref>
+
+<ref name="Smith2006">{{citation | last1=Smith | first1=Myron A. | last2=Cohen | first2=David H. | last3=Gu | first3=Ming Feng | last4=Robinson | first4=Richard D. | last5=Evans | first5=Nancy Remage | last6=Schran | first6=Prudence G. | year=2004 | title=High-Resolution Chandra Spectroscopy of γ Cassiopeiae (B0.5e) | journal=Astrophysical Journal | volume=600 | issue=2 | pages=972–985 | doi=10.1086/379873 | bibcode=2004ApJ...600..972S| arxiv=astro-ph/0309293 }}</ref>
+
+<ref name="Robinson2002">{{citation | last=Robinson | first=R. D. | last2=Smith | first2=M. A. | last3=Henry | first3=G. W. | year=2002 | title=X-Ray and Optical Variations in the Classical Be Star γ Cassiopeia: The Discovery of a Possible Magnetic Dynamo | journal=Astrophysical Journal | volume=575 | issue=1 | pages=435–448 | doi=10.1086/341141 | bibcode=2002ApJ...575..435R }}</ref>
+
+<ref name="Nor">{{citation | last=Norton | first=Arthur P. | title=Norton's Star Atlas | year=1973 | page=118 | isbn=0-85248-900-5 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J00567+6043AB -- Double or multiple star| url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=ADS782AB | work=[[SIMBAD]] | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2009-04-13 }}</ref>
+
+<ref name="VCD">{{citation | title=VizieR Correlated Data | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-6?-source=I/196/annex1&-out.all&CCDM=00567%2b6043 | publisher=[[VizieR]] | accessdate=2009-04-13 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=Gamma Cassiopeiae | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/gammacas.html | accessdate=2012-03-31 }}</ref>
+
+}}
+
+==External links==
+* Philippe Stee's homepage: [http://www.oca.eu/stee/page1/page3/page3.html Hot and Active Stars Research]
+*[http://www.aavso.org/vsots_gammacas Gamma Cassiopeiae and the Be Stars].
+*[http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/07/text/ A New Class of X-ray Star?]
+*[http://apod.nasa.gov/apod/ap091224.html Gamma Cas and Friends],  [[Astronomy Picture of the Day]], 2009 December 24
+
+{{Stars of Cassiopeia}}
+
+[[Category:Bayer objects|Cassiopeiae, Gamma]]
+[[Category:B-type subgiants]]
+[[Category:Cassiopeia (constellation)]]
+[[Category:Shell stars]]
+[[Category:Multiple stars|4]]<!-- four stars: A is spectroscopic binary, B and C are optical companions -->
+[[Category:Spectroscopic binaries]]
+[[Category:Be stars]]
+
+[[de:Gamma Cassiopeiae]]
+[[es:Gamma Cassiopeiae]]
+[[fa:گاما ذات‌الکرسی]]
+[[fr:Gamma Cassiopeiae]]
+[[ko:카시오페이아자리 감마]]
+[[hi:गामा कैसिओपिये तारा]]
+[[id:Gamma Cassiopeiae]]
+[[it:Gamma Cassiopeiae]]
+[[nl:Cih]]
+[[ja:ツィー]]
+[[pl:Cih]]
+[[pt:Gamma Cassiopeiae]]
+[[ru:Гамма Кассиопеи]]
+[[sk:Cih]]
+[[sv:Gamma Cassiopeiae]]
+[[zh:策 (恆星)]]

@@ -1,0 +1,36 @@
+{{starbox short |
+ name=Beta Crateris |
+ epoch=[[J2000.0]] |
+ constell=[[Crater (constellation)|Crater]] |
+ ra=11<sup>h</sup> 11<sup>m</sup> 39.5<sup>s</sup> |
+ dec=&minus;22° 49' 33" |
+ appmag_v=4.48 |
+ dist_ly=266 |
+ dist_pc=81.6 |
+ spectral=A2III |
+ names=11 Crateris, [[Bonner Durchmusterung|BD]]&minus;22°3095, [[Henry Draper Catalogue|HD]] 97277, [[Hipparcos Catalogue|HIP]] 54682, [[Bright Star Catalogue|HR]] 4343, [[IRAS]] 11091-2233, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 179624, FK5 421}}
+
+'''Beta Crateris''' (β Crt, β Crateris) is a [[star]] in the [[constellation]] [[Crater (constellation)|Crater]]. Beta Crateris is a white sub-giant belonging to the [[stellar classification|spectral class]] A2, has [[apparent magnitude]] 4.48, and is about 265 [[light year]]s from [[Earth]].
+
+==Name==
+
+Shared with [[Kappa Hydrae|κ Hya]], this star was Al Tizini's '''Al Sharāsīf''' ('''ألصرسىف'''), the Ribs, — i.e. of the Hydra, — and the first of the set<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Crater*.html Star Name - R.H.Allen p. 182]</ref><ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hydra*.html Star Name - R.H.Allen p. 246]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|翼宿}} ({{lang|zh-Latn|Yì Sù}}), meaning ''[[Wings (Chinese constellation)|Wings]] (asterism)'', refers to an asterism consisting of β Crateris, [[Alpha Crateris|α Crateris]], [[Gamma Crateris|γ Crateris]], [[Zeta Crateris|ζ Crateris]], [[Lambda Crateris|λ Crateris]], [[Nu Hydrae|ν Hydrae]], [[Eta Crateris|η Crateris]], [[Delta Crateris|δ Crateris]], [[Iota Crateris|ι Crateris]], [[Kappa Crateris|κ Crateris]], [[Epsilon Crateris|ε Crateris]], [[HD 95808]], [[HD 93833]], [[Theta Crateris|θ Crateris]], [[HD 102574]], [[HD 100219]], [[HD 99922]], [[HD 100307]], [[HD 96819]], [[Chi1 Hydrae|χ<sup>1</sup> Hydrae]], [[HD 102620]] and [[HD 103462]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Crateris itself is known as {{lang|zh|翼宿十六}} ({{lang|zh-Latn|Yì Sù shíliù}}, {{lang-en|the Sixteenth Star of Wings}}.)<ref name=sb0>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0605/ap060531.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 31 日]</ref><ref>{{zh icon}} [http://wbbs.cc.ncku.edu.tw/ccns/index.php/8/179/485635  夢之大地 @ 國立成功大學 WebBBS DreamLand @ National Cheng Kung University WebBBS System]</ref>
+
+==References==
+# [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=*+bet+Crt&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2006&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0 SIMBAD Query Result]
+{{reflist}}
+
+{{Stars of Crater}}
+
+[[Category:Bayer objects|Crateris, Beta]]
+[[Category:Crater (constellation)]]
+[[Category:Flamsteed objects|Crateris, 11]]
+[[Category:Henry Draper Catalogue objects|97277]]
+[[Category:Hipparcos objects|054682]]
+
+[[fa:بتا پیاله]]
+[[id:Beta Crateris]]
+[[pl:Beta Crateris]]
+[[pt:Beta Crateris]]

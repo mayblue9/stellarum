@@ -1,0 +1,136 @@
+{{Starbox begin
+| name=Beta Canum Venaticorum
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Canes Venatici IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Auriga constellation and its surroundings]]
+     <div style="position: absolute; left: 56.7%; top: 40.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = The location of β Canum Venaticorum (circled)
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|12|33|44.54482}}<ref name=aaa474_2_653/>
+| dec={{DEC|+41|21|26.9248}}<ref name=aaa474_2_653/>
+| appmag_v=4.26<ref name=SIMBAD/>
+| constell=[[Canes Venatici]]
+}}
+{{Starbox character
+| class=G0&nbsp;V<ref name=SIMBAD/>
+| b-v=0.58<ref name=mnras133/>
+| u-b=0.04<ref name=mnras133/>
+| variable=
+}}
+{{Starbox astrometry
+| radial_v=+6.9<ref name=gcsrv53/>
+| prop_mo_ra=–704.75<ref name=aaa474_2_653/>
+| prop_mo_dec=+292.74<ref name=aaa474_2_653/>
+| parallax=118.49
+| p_error=0.20
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v=4.64<ref name=cgssn09/>
+}}
+{{Starbox detail
+| mass={{nowrap|1.025 ± 0.050}}<ref name=apj694_2_1085/>
+| radius={{nowrap|1.123 ± 0.028}}<ref name=apj746_1_101/>
+| luminosity={{nowrap|1.151 ± 0.018}}<ref name=apj746_1_101/>
+| temperature={{nowrap|5,653 ± 72}}<ref name=apj746_1_101/>
+| gravity=4.60<ref name=apj131/>
+| metal_fe=–0.21<ref name=apj131/>
+| rotational_velocity={{nowrap|2.9 ± 0.4}}<ref name=aaa537_A147/>
+| age_gyr=5.3<ref name=apj315/> to 7.1<ref name=cgssn09/>
+}}
+{{Starbox catalog
+ | names=Chara, Asterion, Beta CVn, 8 CVn, [[Bonner Durchmusterung|BD]]&nbsp;+42&nbsp;2321, [[Fifth Fundamental Catalogue|FK5]]&nbsp;470, [[Henry Draper catalogue|HD]]&nbsp;109358, [[Hipparcos catalogue|HIP]]&nbsp;61317, [[Harvard Revised catalogue|HR]]&nbsp;4785, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;44230.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+109358
+| ARICNS=00978
+}}
+{{Starbox end}}
+'''Beta Canum Venaticorum''' (β CVn, β Canum Venaticorum) is the [[Bayer designation]] for a [[G-type main sequence star]] in the northern [[constellation]] [[Canes Venatici]]. At an [[apparent visual magnitude]] of 4.26,<ref name=SIMBAD/> it is the second-brightest star in this relatively faint constellation. Based upon an annual [[parallax]] shift of 118.49&nbsp;[[milliarcsecond|mas]],<ref name=aaa474_2_653/> this star is {{Convert|27.53|ly|pc|abbr=off|lk=on}} distant from the Earth.
+
+Along with the brighter star [[Cor Caroli]], the pair form the "southern dog" in this constellation that represents [[hunting dog]]s. The name '''Chara''' was originally applied to the "southern dog", but it later became used specifically to refer to Beta Canum Venaticorum. Chara ''(χαρά)'' means ''Joy'' in [[Greek language|Greek]].<ref name=kaler/>
+
+In [[Chinese language|Chinese]], {{lang|zh|常陳}} ({{lang|zh-Latn|Cháng Chén}}), meaning ''[[Supreme Palace enclosure|Imperial Guards]]'', refers to an asterism consisting of β Canum Venaticorum, [[Alpha Canum Venaticorum|α Canum Venaticorum]], [[10 Canum Venaticorum]], [[6 Canum Venaticorum]], [[2 Canum Venaticorum]], and [[67 Ursae Majoris]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Canum Venaticorum itself is known as {{lang|zh|常陳四}} ({{lang|zh-Latn|Cháng Chén sì}}, {{lang-en|the Fourth Star of Imperial Guards}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Observations==
+At [[apparent magnitude]] 4.26, Beta Canum Venaticorum is the second brightest star in the [[constellation]]. It has a [[stellar classification]] of G0&nbsp;V, and so is a [[G-type main sequence star]]. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> The spectrum of this star shows a very weak [[emission line]] of singly [[ion]]ized calcium (Ca II) from the [[chromosphere]], making it a useful reference star for a reference spectrum to compare with other stars in a similar spectral category.<ref name=apj289_1_269/> (The Ca-II emission lines are readily accessible and can be used to measure the level of activity in a star's [[chromosphere]].)
+
+β CVn is considered to be slightly metal-poor,<ref name=apj131/> which means it has a somewhat lower portion of elements heavier than [[helium]] when compared to the Sun. In terms of mass, age and evolutionary status, however, this star is very similar to the Sun.<ref name=ab6_2_308/> As a result it has been called a [[solar analog]]. It is about 3% more massive than the Sun,<ref name=apj694_2_1085/> with a radius 12% larger than the Sun's and 15% greater luminosity.<ref name=apj746_1_101/>
+
+The components of this star's [[Space velocity (astronomy)|space velocity]] are {{nowrap|(U, V, W)}} = {{nowrap|(–25, 0, +2) km/s}}.<ref name=ab6_2_308/> In the past it was suggested that it may be a [[spectroscopic binary]]. However, further analysis of the data does not seem to bear that out.<ref name=apj317_343/> In addition, a search for a [[brown dwarf]] in orbit around this star failed to discover any such companion, at least down to the sensitivity limit of the instrument used.<ref name=apj130_1212/>
+
+== Possibility of life ==
+In 2006, astronomer [[Margaret Turnbull]] labeled Beta CVn as the top stellar system candidate to search for [[extraterrestrial life]] forms.<ref name=physorg20060219/> Because of its solar-type properties, astrobiologists have listed it among the most astrobiologically interesting stars within 10 parsecs of the Sun.<ref name=ab6_2_308/> However, as of 2009, this star is not known to host planets.<ref name=apj694_2_1085/>
+
+==Chara and Asterion in Military==
+Chara and Asterion is used for the name of three [[United States]] navy ships: [[USS Asterion (AK-100)]], [[USS Asterion (AF-63)]] and [[USS Chara (AKA-58)]].
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=mnras133>{{cite journal | last=Argue | first=A. N. | title=UBV photometry of 550 F, G and K type stars | journal=Monthly Notices of the Royal Astronomical Society | year=1966 | volume=133 | pages=475–493 | bibcode=1966MNRAS.133..475A }}</ref>
+
+<ref name=apj131>{{cite journal | last=Luck | first=R. Earle | coauthors=Heiter, Ulrike | title=Dwarfs in the Local Region | journal=The Astronomical Journal | year=2006 | volume=131 | issue=2 | pages=3069–3092 | doi=10.1086/504080 | bibcode=2006AJ....131.3069L}}</ref>
+
+<ref name=apj315>{{cite journal | last=Barry | first=Don C. | coauthors=Cromwell, Richard H.; Hege, E. Keith | title=Chromospheric activity and ages of solar-type stars | journal=Astrophysical Journal, Part 1 | year=1987 | volume=315 | pages=264–272 | bibcode=1987ApJ...315..264B | doi=10.1086/165131 }}</ref>
+
+<ref name=kaler>{{cite web | last=Kaler | first=Jim | url=http://www.astro.uiuc.edu/~kaler/sow/chara.html | title=Beta Canum Venaticorum | work=Stars | publisher=University of Illinois | accessdate = 2006-12-06 }}</ref>
+
+<ref name=apj289_1_269>{{cite journal | last=Herbig | first=G. H. | title=Chromospheric H-alpha emission in F8-G3 dwarfs, and its connection with the T Tauri stars | journal=Astrophysical Journal | year=1985 | volume=289 | issue=1 | pages=269–278 | bibcode=1985ApJ...289..269H | doi=10.1086/162887 }}</ref>
+
+<ref name=ab6_2_308>{{cite journal | last=de Mello | first=G. P. | coauthors=del Peloso, E. F.; Ghezzi, L. | title=Astrobiologically Interesting Stars Within 10 Parsecs of the Sun | journal=Astrobiology | year=2006 | volume=6 | issue=2 | pages=308–331 | arxiv=astro-ph/0511180 | accessdate=2008-05-05 | doi=10.1089/ast.2006.6.308 | format=abstract | pmid=16689649 | bibcode=2006AsBio...6..308P}}</ref>
+
+<ref name=apj317_343>{{cite journal | last=Morbey  | first=C. L. | coauthors=Griffin, R. F. | title=On the reality of certain spectroscopic orbits | journal=Astrophysical Journal, Part 1 | year=1987 | volume=317 | pages=343–352 | bibcode=1987ApJ...317..343M | doi=10.1086/165281 }}</ref>
+
+<ref name=apj130_1212>{{cite journal | display-authors=1 | last1=Carson | first1=J. C. | last2=Eikenberry | first2=S. S. | last3=Brandl | first3=B. R. | last4=Wilson | first4=J. C. | last5=Hayward | first5=T. L. | title=The Cornell High-Order Adaptive Optics Survey for Brown Dwarfs in Stellar Systems. I. Observations, Data Reduction, and Detection Analyses | journal=The Astronomical Journal | year=2006 | volume=130 | issue=3 | pages=1212–1220 | doi=10.1086/432604 | bibcode=2005AJ....130.1212C|arxiv = astro-ph/0506287 }}</ref>
+
+<ref name=physorg20060219>{{cite news | title=Stars searched for extraterrestrials | publisher= [[PhysOrg.com]] | date=2006-02-19 | url=http://www.physorg.com/news10993.html | accessdate=2008-05-04 }}</ref>
+
+<ref name=gcsrv53>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=bet CVn -- Spectroscopic binary | work=SIMBAD | accessdate=2010-07-04 | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+CVn }}</ref>
+
+<ref name=apj694_2_1085>{{cite journal | last1=van Belle | first1=Gerard T. | last2=von Braun | first2=Kaspar | title=Directly Determined Linear Radii and Effective Temperatures of Exoplanet Host Stars | journal=The Astrophysical Journal | volume=694 | issue=2 | pages=1085–1098 | year=2009 | month=April | doi=10.1088/0004-637X/694/2/1085 | bibcode=2009ApJ...694.1085V | unused_data=year=2009 |arxiv = 0901.1206 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 | postscript=. }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B | arxiv=1112.3316 | postscript=. }}. See Table 10.</ref>
+
+<ref name=aaa537_A147>{{citation | display-authors=1 | last1=Herrero | first1=E. | last2=Ribas | first2=I. | last3=Jordi | first3=C. | last4=Guinan | first4=E. F. | last5=Engle | first5=S. G. | title=Optimizing exoplanet transit searches around low-mass stars with inclination constraints | journal=Astronomy & Astrophysics | volume=537 | page=A147 | month=January | year=2012 | doi=10.1051/0004-6361/201117809 | bibcode=2012A&A...537A.147H | arxiv=1110.5840 | postscript=. }}</ref>
+
+<ref name=cgssn09>{{citation | last1=Holmberg | first1=J. | last2=Nordström | first2=B. | last3=Andersen | first3=J. | title=The Geneva-Copenhagen survey of the solar neighbourhood. III. Improved distances, ages, and kinematics | volume=501 | issue=3 | year=2009 | month=July | pages=941–947 | doi=10.1051/0004-6361/200811191 | journal=Astronomy and Astrophysics | bibcode=2009A&A...501..941H | arxiv=0811.3982 | postscript=. }}</ref>
+
+}}
+
+== External links ==
+*{{cite web | url = http://www.solstation.com/stars/chara.htm | title = Chara | publisher = SolStation | accessdate = 2006-12-06 }}
+* {{cite web | date = 2006-02-18 | url = http://www.spaceref.com/news/viewpr.html?pid=19058 | title = Astronomer announces shortlist of stellar candidates for habitable worlds | publisher = SpaceRef.com | accessdate = 2006-08-10 }}
+
+{{Nearest systems|6}}
+{{Stars of Canes Venatici}}
+
+[[Category:Canes Venatici (constellation)]]
+[[Category:Bayer objects|Canum Venaticorum, Beta]]
+[[Category:G-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[cs:Asterion]]
+[[de:Asterion]]
+[[el:Χαρά (αστέρας)]]
+[[es:Asterion (estrella)]]
+[[fa:بتا تازی‌ها]]
+[[fr:Beta Canum Venaticorum]]
+[[ko:카라 (항성)]]
+[[id:Beta Canum Venaticorum]]
+[[it:Beta Canum Venaticorum]]
+[[lb:Asterion (Stär)]]
+[[ja:りょうけん座ベータ星]]
+[[pt:Beta Canum Venaticorum]]
+[[ru:Бета Гончих Псов]]
+[[sk:Asterion]]
+[[fi:Beta Canum Venaticorum]]
+[[zh:常陳四]]

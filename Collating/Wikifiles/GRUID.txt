@@ -1,0 +1,113 @@
+{{Starbox begin
+| name=Beta Gruis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Grus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Grus constellation and its surroundings]]
+     <div style="position: absolute; left: 44.0%; top: 47.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Gruis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|22|42|40.05027}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|-46|53|04.4752}}<ref name=aaa474_2_653/>
+| appmag_v = 2.146<ref name=sps1966/>
+| constell = [[Grus (constellation)|Grus]]
+}}
+{{Starbox character
+| class    = M5&nbsp;III<ref name=houk1978/>
+| b-v      = +1.620<ref name=sps1966/>
+| u-b      = +1.757<ref name=sps1966/>
+| variable = SRb<ref name=jaavso34_2_156/>
+}}
+{{Starbox astrometry
+| radial_v = +1.6<ref name=scfs/>
+| prop_mo_ra  = +135.16<ref name=aaa474_2_653/>
+| prop_mo_dec = -4.38<ref name=aaa474_2_653/>
+| parallax = 18.43
+| p_error  = 0.42
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 2.4<ref name=aaa352_217/>
+| radius   = 180<ref name=mnras223_2_239/>
+| luminosity  = 2,500<ref name=mnras223_2_239/>
+| temperature = 3,480<ref name=aj132_4_1445/>
+| gravity  = 0.4<ref name=mnras223_2_239/>
+| metal_fe = 0.0<ref name=mnras223_2_239/>
+| rotational_velocity = 
+| age      = 
+}}
+{{Starbox catalog
+| names = Bet&nbsp;Gru, [[Cordoba Durchmusterung|CD]]-47&nbsp;14308, [[FK5]]&nbsp;856, [[Harvard Revised catalogue|HR]]&nbsp;8636, [[Henry Draper catalogue|HD]]&nbsp;214952, [[Hipparcos catalogue|HIP]]&nbsp;112122, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;231258.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad = HD+214952
+}}
+{{Starbox end}}
+
+'''Beta Gruis''' (β Gruis, β Gru) is the second brightest [[star]] in the southern [[constellation]] of [[Grus (constellation)|Grus]]. It was once considered the rear star in the tail of the constellation of the [[Piscis Austrinus|(Southern) Fish]]: it, with [[Alpha Gruis|α]], [[Delta Gruis|δ]], [[Theta Gruis|θ]]. [[Iota Gruis|ι]], and [[Lambda Gruis|λ Gru]], belonged to [[Piscis Austrinus]] in traditional [[Arabian astronomy|Arabic astronomy]].<ref name=allen1963/>
+
+This is a [[red giant]] star<ref name=jaavso34_2_156/> with an estimated mass of about 2.4 times that of the [[Sun]] and a surface temperature of approximately 3,480&nbsp;[[Kelvin|K]],<ref name=aj132_4_1445/> just over half the surface temperature of the Sun. This low temperature accounts for the dull red color of an M-type star. The total luminosity is about 2,500 times that of the Sun, and it has estimated 180 times the Sun's radius.<ref name=aaa352_217/>
+
+Beta Gruis is a type [[semiregular variable star|semiregular variable]] (SRb) star that varies in magnitude by about 0.4. It varies between intervals when it displays regular changes with a 37 day periodicity and times when it undergoes slow irregular variability.<ref name=jaavso34_2_156/>
+
+Beta Gruis played a crucial part in [[Perth Observatory]]'s tracking of comet [[2000 WM1 LINEAR]] in December 2001.<ref>{{cite web | title=Astronomy News | url=http://www.perthobservatory.wa.gov.au/2001_12_01_astronews-archive.html | work= | publisher= | date=December 16, 2001 | accessdate= }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa352_217>{{citation | last1=Gondoin | first1=P. | title=Evolution of X-ray activity and rotation on G-K giants | journal=Astronomy and Astrophysics | volume=352 | pages=217–227 | month=December | year=1999 | bibcode=1999A&A...352..217G }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=2 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1978mcts.book.....H }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=allen1963>{{citation | author-link=Richard Hinckley Allen | last1=Allen | first1=R. H. | year=1963 | title=[[Star Names: Their Lore and Meaning]] | edition=[[Reprint|rep]] | publisher=[[Dover Publications]] Inc. | location=[[New York City|New York]], [[New York|NY]] | isbn=0-486-21079-0 | page=238 }}</ref> 
+
+<ref name=jaavso34_2_156>{{citation | last1=Otero | first1=S. A. | last2=Moon | first2=T. | title=The Characteristic Period of Pulsation of β Gruis | journal=The Journal of the American Association of Variable Star Observers | volume=34 | issue=2 | pages=156–164 | month=December | year=2006 | bibcode=2006JAVSO..34..156O }}</ref>
+
+<ref name=mnras223_2_239>{{citation | last1=Judge | first1=P. G. | title=Constraints on the Outer Atmospheric Structure of Late Type Giant Stars with IUE Application to Alpha-Tauri K5III and Beta-Gruis M5III | journal=Monthly Notices of the Royal Astronomical Society | volume=223 | issue=2 | page=239 | month=November | year=1986 | bibcode=1986MNRAS.223..239J }}</ref>
+
+<ref name=aj132_4_1445>{{citation | last1=Engelke | first1=Charles W. | last2=Price | first2=Stephan D. | last3=Kraemer | first3=Kathleen E. | title=Spectral Irradiance Calibration in the Infrared. XVI. Improved Accuracy in the Infrared Spectra of the Secondary and Tertiary Standard Calibration Stars | journal=The Astronomical Journal | volume=132 | issue=4 | pages=1445–1463 | month=October | year=2006 | doi=10.1086/505865 | bibcode=2006AJ....132.1445E }}</ref>
+
+<ref name=SIMBAD>{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Gruis | title =V* bet Gru  -- Variable Star | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[SIMBAD]] | accessdate=2010-01-05 }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/betagru.html Stars of the week article]
+*[http://encarta.msn.com/encyclopedia_761587671/beta_gruis.html MSN Encarta] ([http://www.webcitation.org/5kwQ1SZAU Archived] 2009-10-31)
+
+{{Stars of Grus}}
+{{Sky|22|42|40.1|-|46|53|05|170}}
+
+[[Category:Irregular variables]]
+[[Category:Grus (constellation)]]
+[[Category:Bayer objects|Gruis, Beta]]
+[[Category:Henry Draper Catalogue objects|214952]]
+[[Category:Hipparcos objects|112122]]
+[[Category:HR objects|8636]]
+[[Category:M-type giants]]
+
+[[ca:Beta Gruis]]
+[[de:Beta Gruis]]
+[[es:Beta Gruis]]
+[[fa:بتا درنا]]
+[[fr:Beta Gruis]]
+[[ko:두루미자리 베타]]
+[[hi:बेटा ग्रुईस तारा]]
+[[it:Beta Gruis]]
+[[ja:つる座ベータ星]]
+[[pl:Beta Gruis]]
+[[pt:Beta Gruis]]
+[[ru:Бета Журавля]]
+[[sk:Beta Gruis]]
+[[fi:Beta Gruis]]
+[[zh:鶴二]]

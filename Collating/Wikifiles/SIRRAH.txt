@@ -1,0 +1,425 @@
+{{good article}}
+{{Starbox 2 
+| name=[[Bayer designation|α Andromedae]]
+| image=[[Image:Alpheratz.gif]]
+| epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]]) 
+| equinox=[[J2000.0]]
+| constell = [[Andromeda (constellation)|Andromeda]]
+| ra_system={{RA|00|08|23.2586}}<ref name=sb1>{{SIMBAD link|ADS+94+A|V* alf And — Spectroscopic binary}}, [[SIMBAD]]. Accessed on line August 12, 2008.</ref><ref name=cg>Astrometric data, mirrored by SIMBAD from the [[Hipparcos]] catalogue, pertains to the center of mass of the α Andromedae binary system. See &sect;2.3.4, ''[http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf Volume 1, The Hipparcos and Tycho Catalogues]'', European Space Agency, 1997, and the [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%20677 entry] in the Hipparcos catalogue ([[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/239 I/239].)</ref>
+| dec_system = {{DEC|+29|05|25.555}}<ref name=sb1 /><ref name=cg />
+| prop_mo_ra_system = 135.68<ref name=sb1 /><ref name=cg />
+| prop_mo_dec_system = −162.95<ref name=sb1 /><ref name=cg />
+| radial_v_system = −10.6&nbsp;±&nbsp;0.3<ref>Value is for the center of mass of the system.</ref><ref name=ryabchikova99 />
+| parallax = 33.60
+| p_error = 0.73
+| parallax_footnote = <ref name=sb1 />
+| appmag_v_a=2.22<ref name=wdsa />
+| appmag_v_b=4.21<ref name=wdsa />
+| u-b_system = −0.46<ref name=bsc2/>
+| b-v_system = −0.11<ref name=bsc2 />
+| r-i_system = −0.10<ref name=bsc2 />
+|absmag_v_a=−0.19 ± 0.30<ref name=ryabchikova99>See §4 for component parameters and Table 3, §5 for elemental abundances in {{Cite journal
+ |author1=Ryabchikova |first1=T. A.
+ |last2=Malanushenko |first2=V. P.
+ |last3=Adelman |first3=S. J.
+ |year=1999
+ |title=Orbital elements and abundance analyses of the double-lined spectroscopic binary alpha Andromedae
+ |journal=[[Astronomy and Astrophysics]]
+ |volume=351 |pages=963
+ |bibcode=1999A&A...351..963R
+}}</ref>
+|absmag_v_b=2.00 ± 0.30<ref name=ryabchikova99 />
+|temperature_a=13800 ± 125<ref name=ryabchikova99 />
+|temperature_b=8500 ± 250<ref name=ryabchikova99 />
+|gravity_a=4.15 ± 0.16<ref name=ryabchikova99 />
+|gravity_b=4.28 ± 0.20<ref name=ryabchikova99 />
+|metal_a=[M/H]&nbsp;=&nbsp;0.2<ref name=ryabchikova99 />
+|metal_b=[M/H]&nbsp;=&nbsp;0.2<ref name=ryabchikova99 />
+|luminosity_bolometric_a=240 ± 90<ref name=ryabchikova99 />
+|luminosity_bolometric_b=13 ± 7<ref name=ryabchikova99 />
+|mass_a=3.60 ± 0.20<ref name=ryabchikova99 />
+|mass_b=1.78 ± 0.08<ref name=ryabchikova99 />
+|radius_a=2.7 ± 0.4<ref name=ryabchikova99 />
+|radius_b=1.65 ± 0.3<ref name=ryabchikova99 />
+|rotational_v_a=52<ref name=ryabchikova99 />
+|rotational_v_b=110 ± 5<ref name=ryabchikova99 />
+|rotation_a=2.38195 [[days|d]]<ref name=sciphys />
+|orbit_footnote=<ref name=wdsa>Entry, WDS identifier 00084+2905, [http://ad.usno.navy.mil/wds/orb6/orb6frames.html Sixth Catalog of Orbits of Visual Binary Stars], William I. Hartkopf & Brian D. Mason, U.S. Naval Observatory. Accessed on line August 12, 2008.</ref>
+|period_unitless=96.7015 ± 0.0044 days
+|axis_unitless=24.0 ± 0.13 [[milliarcsecond|mas]]
+|inclination=105.6 ± 0.23
+|node=284.4 ± 0.21
+|periastron=[[Modified Julian date|MJD]] 47374.563 ± 0.095
+|eccentricity=0.535 ± 0.0046
+|periarg=257.4 ± 0.31
+|simbad_system = HR+15
+|class_a = B8IVpMnHg<ref name=spec2>
+{{cite journal
+ |last1=Tomkin |first1=J.
+ |last2=Pan |first2=X.
+ |last3=McCarthy |first3=J. K.
+ |year=1995
+ |title=Spectroscopic detection of the secondaries of the Hyades interferometric spectroscopic binary theta<sup>2</sup> Tauri and of the interferometric spectroscopic binary alpha Andromedae
+ |journal=[[Astronomical Journal]]
+ |volume=109 |issue= |pages=780
+ |bibcode=1995AJ....109..780T
+ |doi=10.1086/117321
+}}</ref>
+| class_b = A3V<ref name=spec2 />
+| names=Alpheratz, Sirrah, Sirah, α&nbsp;And, Alpha&nbsp;Andromedae, Alpha&nbsp;And, [[Bayer designation|δ&nbsp;Pegasi]], δ&nbsp;Peg, Delta&nbsp;Pegasi, Delta&nbsp;Peg, [[Flamsteed designation|21&nbsp;Andromedae]], 21&nbsp;And, [[Double star designation|H 5 32A]], [[Double star designation|MKT 11]], [[Aitken Double Star Catalogue|ADS]]&nbsp;94&nbsp;A, [[Durchmusterung|BD]]+28°4, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J00083+2905A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1, [[Boss General Catalogue|GC]]&nbsp;127, [[Henry Draper Catalogue|HD]]&nbsp;358, [[Hipparcos Catalogue|HIP]]&nbsp;677, [[Bright Star Catalogue|HR]]&nbsp;15, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;00032+2832&nbsp;A, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;10039, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;346, [[PPM Star Catalogue|PPM]]&nbsp;89441, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;73765, [[Washington Double Star Catalog|WDS]]&nbsp;00084+2905A/Aa.<ref name=sb1 /><ref name=usno /><ref name=usnob>Entry 00084+2905, discoverer code MKT&nbsp;&nbsp;11, components Aa, [http://ad.usno.navy.mil/wds/wdsnewframe1.html The Washington Double Star Catalog], [[United States Naval Observatory]]. Accessed on line September 3, 2008.</ref>}}
+
+'''Alpha Andromedae''' ('''Alpha And''', '''α And''', '''α Andromedae'''), which has the traditional names '''Alpheratz''' (or Alpherat) and '''Sirrah''' (or Sirah), is the [[brightest stars|brightest]] [[star]] in the [[constellation]] of [[Andromeda (constellation)|Andromeda]]. Located immediately northeast of the constellation of [[Pegasus (constellation)|Pegasus]], it is the northeastern star of the Great Square of Pegasus.<ref name=bsc2>
+{{cite web
+ |last=Hoffleit |first=D.
+ |last2=Warren |first2=W. H. Jr
+ |title=HR 15
+ |url=http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%2015
+ |work=[[The Bright Star Catalogue]]
+ |edition=5th Revised
+ |publisher=[[VizieR]]
+}} and {{cite web
+ |last=Hoffleit |first=D.
+ |last2=Warren |first2=W. H. Jr
+ |title=Detailed Description of V/50
+ |url=http://cdsarc.u-strasbg.fr/viz-bin/Cat?V/50
+ |work=[[The Bright Star Catalogue]]
+ |edition=5th Revised
+ |publisher=[[Centre de Données astronomiques de Strasbourg]]
+}}</ref><ref name=darlingalpheratz /> As a connecting star to Pegasus, it is also known as ''δ Pegasi'', though this name is no longer used (another such doubly named connecting star is [[β Tauri]]).<ref name=darlingalpheratz>
+{{cite web
+ |last=Darling |first=D.
+ |date=
+ |title=Alpheratz (Alpha Andromedae)
+ |url=http://www.daviddarling.info/encyclopedia/A/Alpheratz.html
+ |work=[[The Encyclopedia of Science]]
+ |accessdate=August 13, 2008
+}}</ref><ref>
+{{cite web
+ |last=Darling |first=D.
+ |date=
+ |title=Alnath (Beta Tauri)
+ |url=http://www.daviddarling.info/encyclopedia/A/Alnath.html
+ |work=[[The Encyclopedia of Science]]
+ |accessdate=August 13, 2008
+| archiveurl= http://web.archive.org/web/20080705043128/http://www.daviddarling.info/encyclopedia/A/Alnath.html| archivedate= 5 July 2008 <!--DASHBot-->| deadurl= no}}</ref> It is located 97 [[light-year]]s from Earth. Although it appears to the naked eye as a single star, with overall [[apparent visual magnitude]] +2.06, it is actually a [[binary star|binary system]] composed of two stars in close [[orbit]]. The [[chemistry|chemical]] composition of the brighter of the two stars is unusual as it is a [[mercury-manganese star]] whose [[atmosphere]] contains abnormally high levels of [[mercury (element)|mercury]], [[manganese]], and other elements, including [[gallium]] and [[xenon]].<ref name=ryabchikova99 /><ref name=kaler>
+{{cite web
+ |last=Kaler |first=J.
+ |date=2 February 2006
+ |title=Alpheratz
+ |url=http://www.astro.uiuc.edu/~kaler/sow/alpheratz.html
+ |work=STARS
+ |accessdate=August 13, 2008
+| archiveurl= http://web.archive.org/web/20080704154604/http://www.astro.uiuc.edu/%7Ekaler/sow/alpheratz.html| archivedate= 4 July 2008 <!--DASHBot-->| deadurl= no}}</ref> It is the brightest mercury-manganese star known.<ref name=kaler />
+
+This star has for long been treated as being in Pegasus and simultaneously in Andromeda, and [[Johann Bayer]] catalogued it as both α Andromedae and δ Pegasi.
+
+==System==
+The [[radial velocity]] of a star away from or towards the observer can be determined by measuring the [[red shift]] or blue shift of its [[spectrum]]. The American astronomer [[Vesto Slipher]] made a series of such measurements from 1902 to 1904 and discovered that the radial velocity of α Andromedae varied periodically. He concluded that it was in [[orbit]] in a [[spectroscopic binary]] [[star system]] with a period of about 100 days.<ref>
+{{cite journal
+ |author1=Slipher |first1=V. M.
+ |year=1904
+ |title=A list of five stars having variable radial velocities
+ |volume=20 |pages=146
+ |journal=[[The Astrophysical Journal]]
+ |bibcode=1904ApJ....20..146S
+ |doi=10.1086/141148
+}}</ref> A preliminary orbit was published by [[Hans Ludendorff]] in 1907,<ref>
+{{cite journal
+|author1=Ludendorff |first1=H.
+|year=1907
+|title=Provisorische Bahnelemente des spektroskopischen Doppelsterns α Andromedae
+|volume=176 |issue=20 |pages=327
+|journal=[[Astronomische Nachrichten]]
+|bibcode=1907AN....176..327L
+|doi=10.1002/asna.19071762007
+}}</ref> and a more precise orbit was later published by [[Robert Horace Baker]].<ref>
+{{cite journal 
+|author1=Baker |first1=R. H.
+|year=1910
+|title=The orbit of &alpha; Andromedae
+|journal=Publications of the Allegheny Observatory of the Western University of Pennsylvania
+|volume=1 |pages=17
+|bibcode=1910PAllO...1...17B
+}}</ref> 
+
+The fainter star in the system was first resolved [[interferometrically]] by Xiaopei Pan and his coworkers during 1988 and 1989, using the [[Mark III Stellar Interferometer]] at the [[Mount Wilson Observatory]], [[California]], United States. This work was published in 1992.<ref>
+{{cite journal 
+|last1=Pan |first1=X.
+|coauthors=''et al.''
+|year=1992 
+|title=Determination of the visual orbit of the spectroscopic binary Alpha Andromedae with submilliarcsecond precision 
+|journal=[[The Astrophysical Journal]]
+|volume=384 |pages=624
+|bibcode=1992ApJ...384..624P
+|doi=10.1086/170904 
+}}</ref> Because of the difference in luminosity between the two stars, its [[spectral line]]s were not observed until the early 1990s, in observations made by Jocelyn Tomkin, Xiaopei Pan, and James K. McCarthy between 1991 and 1994 and published in 1995.<ref name=spec2 />
+
+The two stars are now known to [[orbit]] each other with a period of 96.7 days.<ref name=wdsa /> The larger, brighter star, called the ''primary'', has a [[spectral type]] of B8IVpMnHg, a [[mass]] of approximately 3.6 [[solar mass]]es, a [[effective temperature|surface temperature]] of about 13,800 [[kelvin|K]], and, measured over all [[wavelengths]], a [[luminosity]] of about 200 times the [[Sun]]'s. Its smaller, fainter companion, the ''secondary'', has a mass of approximately 1.8 solar masses and a surface temperature of about 8,500 K, and, again measured over all wavelengths, a luminosity of about 10 times the [[Sun]]'s. It is an early-type A star whose spectral type has been estimated as A3V.<ref name=ryabchikova99 /><ref name=spec2 />
+
+===Chemical peculiarities===
+In 1906, Norman Lockyer and F. E. Baxandall reported that α Andromedae had a number of unusual lines in its [[spectrum]].<ref>
+{{cite journal
+ |author1=Lockyer |first1=N.
+ |last2=Baxandall |first2=F. E.
+ |year=1906
+ |title=Some Stars with Peculiar Spectra
+ |journal=[[Proceedings of the Royal Society of London]]. Series A
+ |volume=77 |issue=520 |pages=550
+ |bibcode=1906RSPSA..77..550L
+ |doi=10.1098/rspa.1906.0049
+ |jstor=92668
+}}</ref> In 1914, Baxandall pointed out that most of the unusual lines came from [[manganese]], and that similar lines were present in the spectrum of [[μ Leporis]].<ref>
+{{cite journal
+ |author1=Baxandall |first1=F. E.
+ |year=1914
+ |title=Stars, Spectra of, on the enhanced lines of Manganese in the spectrum of a Andromedae
+ |journal=[[Monthly Notices of the Royal Astronomical Society]]
+ |volume=74 |pages=250
+ |bibcode=1914MNRAS..74..250B
+}}</ref> In 1931, [[W. W. Morgan]] identified 12 additional stars with lines from manganese appearing in their spectra.<ref>
+{{cite journal
+ |author1=Morgan |first1=W. W.
+ |year=1931
+ |title=Studies in Peculiar Stellar Spectra. I. The Manganese Lines in α Andromedae
+ |volume=73 |pages=104
+ |journal=[[The Astrophysical Journal]]
+ |bibcode=1931ApJ....73..104M
+ |doi=10.1086/143299
+}}</ref> Many of these stars were subsequently identified as part of the group of [[mercury-manganese stars]],<ref>
+{{cite journal
+ |author1=Cowley |first1=C. R.
+ |last2=Aikman |first2=G. C. L.
+ |year=1975
+ |title=A study of the lambda 3984 feature in the mercury-manganese stars
+ |journal=[[Publications of the Astronomical Society of the Pacific]]
+ |volume=87 |pages=513
+ |bibcode=1975PASP...87..513C
+ |doi=10.1086/129801
+}}</ref> a class of [[chemically peculiar star]]s which have an excess of [[element (chemistry)|element]]s such as [[mercury (element)|mercury]], [[manganese]], [[phosphorus]], and [[gallium]] in their atmospheres.<ref name=cphs>
+{{cite journal
+ |last1=Smith |first1=K. C.
+ |year=1996
+ |title=Chemically peculiar hot stars
+ |journal=[[Astrophysics and Space Science]]
+ |volume=237 |pages=77
+ |bibcode=1996Ap&SS.237...77S
+ |doi=10.1007/BF02424427
+}}</ref><sup>,&nbsp;§3.4.</sup> In the case of α Andromedae, the brighter primary star is a mercury-manganese star which, as well as the elements already mentioned, has excess [[xenon]]. Ryabchikova, Malanushenko, and Adelman have observed that the secondary has excess [[barium]] in its atmosphere and suggest that it be classified as a [[metallic-line star]].<ref name=ryabchikova99 />
+
+In 1970, [[Georges Michaud]] suggested that such [[chemically peculiar stars]] arose from radiative diffusion. According to this theory, in stars with unusually calm [[atmosphere]]s, some [[element (chemistry)|element]]s sink under the force of [[gravity]], while others are pushed to the surface by [[radiation pressure]].<ref name=cphs /><sup>,&nbsp;§4.</sup><ref>
+{{cite journal
+ |author1=Michaud |first1=G.
+ |year=1970
+ |title=Diffusion Processes in Peculiar a Stars
+ |volume=160 |pages=641
+ |journal=[[The Astrophysical Journal]]
+ |bibcode=1970ApJ...160..641M
+ |doi=10.1086/150459
+}}</ref> This theory has successfully explained many observed chemical peculiarities, including those of mercury-manganese stars.<ref name=cphs /><sup>,&nbsp;§4.</sup>
+
+===Variability of primary===
+α Andromedae has been reported to be slightly [[variable star|variable]],<ref name=gcvs2>
+{{cite web
+ |title=alf And * (entry 019001)
+ |url=http://www.sai.msu.su/groups/cluster/gcvs/gcvs/iii/iii.dat
+ |work=[[General Catalogue of Variable Stars]]
+ |publisher=[[Sternberg Astronomical Institute]]
+ |accessdate=August 12, 2008
+}}</ref> but observations from 1990 to 1994 found its brightness to be constant to within less than 0.01 magnitude.<ref>
+{{cite journal
+ |author1=Adelman |first1=S. J.
+ |coauthors=''et al.''
+ |year=1994
+ |title=uvby photometry of the chemically peculiar stars Alpha Andromedae, HD 184905, HR 8216, and HR 8434
+ |journal=[[Astronomy and Astrophysics Supplement]]
+ |volume=106 |pages=333
+ |bibcode=1994A&AS..106..333A
+}}</ref> However, Adelman and his co-workers have discovered, in observations made between 1993 and 1999 and published in 2002, that the [[mercury (element)|mercury]] line in its spectrum at 398.4 [[nanometre|nm]] varies as the primary rotates. This is because the distribution of mercury in its atmosphere is not uniform. Applying [[Doppler imaging]] to the observations allowed Adelman et al. to find that it was concentrated in clouds near the equator.<ref>
+{{cite journal
+ |last1=Adelman |first1=S. J.
+ |coauthors=''et al.''
+ |year=2002
+ |title=The Variability of the Hgiiλ3984 Line of the Mercury‐Manganese Star α Andromedae
+ |journal=[[The Astrophysical Journal]]
+ |volume=575 |pages=449
+ |bibcode=2002ApJ...575..449A
+ |doi=10.1086/341140
+}}</ref> Subsequent Doppler imaging studies, published in 2007, showed that these clouds drift slowly over the star's surface.<ref name=sciphys>
+{{cite journal
+|last1=Kochukhov |first1=O.
+|coauthors=''et al.''
+|year=2007
+|title=Weather in stellar atmosphere revealed by the dynamics of mercury clouds in α Andromedae
+|journal=[[Nature Physics]]
+|volume=3 |issue=8 |pages=526
+|bibcode=2007NatPh...3..526K
+|doi=10.1038/nphys648 
+|arxiv = 0705.4469 }}</ref>
+
+==Etymology and cultural significance==
+The names ''Alpheratz'' and ''Sirrah'' both derive from the Arabic name, '''سرة الفرس''' ''surrat al-faras'' "the navel of the mare". (سرة alone is ''surra.'') The word ''horse'' reflects the star's historical placement in [[Pegasus (constellation)|Pegasus]].<ref name=allen /> Another term for this star used by medieval astronomers writing in [[Arabic language|Arabic]] was راس المراة المسلسلة ''rās al-mar'a al-musalsala'' "the head of the woman in chains",<ref name=allen>
+{{cite book
+ |last=Allen |first=R. A.
+ |year=1899
+ |url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA35
+ |title=Star-names and Their Meanings
+ |page=35
+ |publisher=[[G. E. Stechert]]
+ |lccn=99004138
+}}</ref> the chained woman here being [[Andromeda (mythology)|Andromeda]]. Other Arabic names include ''al-kaff al-khaḍīb'' and ''kaff al-naṣīr''.<ref name=Goldstein1985>
+{{cite journal
+ |last1=Goldstein |first1=B. R.
+ |year=1985
+ |title=Star Lists in Hebrew
+ |journal=[[Centaurus (journal)|Centaurus]]
+ |volume=28 |issue=3 |pages=185
+ |bibcode=1985Cent...28..185G
+ |doi=10.1111/j.1600-0498.1985.tb00745.x
+}}</ref>
+
+In the [[Hinduism|Hindu]] lunar zodiac, this star, together with the other stars in the Great Square of Pegasus ([[&alpha; Pegasi|&alpha;]], [[&beta; Pegasi|&beta;]], and [[&gamma; Pegasi]]), makes up the [[nakshatra]]s of [[Pūrva Bhādrapadā]] and [[Uttara Bhādrapadā]].<ref name=allen />
+
+In [[Chinese language|Chinese]], {{lang|zh|壁宿}} ({{lang|zh-Latn|Bì Sù}}), meaning ''[[Wall (Chinese constellation)|wall]]'', refers to an asterism consisting of α Andromedae and [[&gamma; Pegasi]].<ref>
+{{cite book
+ |author=陳久金
+ |year=2005
+ |title=中國星座神話
+ |page=170
+ |publisher=台灣書房出版有限公司
+ |isbn=978-986-7332-25-7
+}} {{zh icon}}</ref> Consequently, α Andromedae itself is known as {{lang|zh|壁宿二}} ({{lang|zh-Latn|Bì Sù èr}}, {{lang-en|the second star of the wall}}.)<ref>
+{{cite web
+ |url=http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm
+ |title=香港太空館 - 研究資源 - 亮星中英對照表
+ |publisher=[[Hong Kong Space Museum]]
+ |accessdate=November 26, 2008
+| archiveurl= http://web.archive.org/web/20081025110153/http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm| archivedate= 25 October 2008 <!--DASHBot-->| deadurl= no}} {{zh icon}}</ref>
+
+It is also known as one of the "Three Guides" that mark the prime meridian of the heavens, the other two being [[Beta Cassiopeiae]] and [[Gamma Pegasi]]. It was believed to bless those born under its influence with honour and riches.<ref name=Olcott>
+{{cite book
+ |last=Olcott |first=W. T.
+ |year=1911
+ |title=Star Lore of All Ages
+ |page=26
+ |publisher=[[G.P. Putnam's Sons]]
+ |lccn=11031153
+}}</ref>
+
+==Observation==
+[[File:Andromeda constellation map (1).png|thumb|left|250px|Andromeda constellation. &alpha; Andromedae, labeled ''Sirrah'', is at the lower right of the constellation, bordering Pegasus.]]
+
+The location of α Andromedae in the sky is shown on the left. It can be seen by the naked eye and is theoretically visible at all latitudes north of 60° S. During evening from August to October, it will be high in the sky as seen from the northern midlatitudes.<ref>
+{{cite web
+ |last= |first=
+ |date=
+ |title=Alpheratz
+ |url=http://encarta.msn.com/encyclopedia_761587658/Alpheratz.html
+ |work=[[MSN Encarta]]
+ |accessdate=August 19, 2008
+ |archiveurl=http://www.webcitation.org/5kwDneH5Y
+ |archivedate=2009-10-31
+}}</ref>
+{{-}}
+
+==Optical companion==
+{{Starbox begin
+| name = [[Aitken Double Star Catalogue|ADS]]&nbsp;94&nbsp;B}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Andromeda (constellation)|Andromeda]]
+| ra = {{RA|00|08|16.626}}<ref name=sb0>{{SIMBAD link|ADS+94+B|BD+28 4B — Star in double system}}, [[SIMBAD]]. Accessed on line August 12, 2008.</ref>
+| dec = {{DEC|+29|05|45.49}}<ref name=sb0 />
+| appmag_v=10.8<ref name=sb0 />
+}}
+{{Starbox character
+| class = G5<ref name=sb0 />
+| b-v = 1.0<ref name=sb0 />
+}}
+{{Starbox astrometry
+| prop_mo_ra = −3.9<ref name=sb0 />
+| prop_mo_dec = −24.0<ref name=sb0 />
+}}
+{{Starbox relpos
+| epoch = 2000
+| primary = A
+| angdistsec = 89.3
+| angdistref = <ref name=usno>Entry 00084+2905, discoverer code H&nbsp;5&nbsp;&nbsp;32, components Aa-B, [http://ad.usno.navy.mil/wds/wdsnewframe1.html The Washington Double Star Catalog], [[United States Naval Observatory]]. Accessed on line August 12, 2008.</ref>
+| posang = 284
+| posangref = <ref name=usno />
+}}
+{{Starbox catalog
+| names=[[Double star designation|H 5 32B]], [[Durchmusterung|BD]]+28°4B, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J00083+2905B, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;00032+2832&nbsp;B, [[PPM Star Catalogue|PPM]]&nbsp;89439, [[Washington Double Star Catalog|WDS]]&nbsp;00084+2905B.<ref name=usno /><ref name=sb0 />}}
+{{Starbox reference
+| Simbad=ADS+94+B}}
+{{Starbox end}}
+
+The [[binary star|binary system]] described above has an optical [[double star|visual companion]], discovered by [[William Herschel]] on July 21, 1781.<ref name=usno /><ref name=burnham /><ref>See p.140, entry 32 in {{cite journal
+ |last1=Herschel |first1=M.
+ |last2=Watson |first2=D.
+ |year=1782
+ |title=Catalogue of Double Stars. By Mr. Herschel, F. R. S. Communicated by Dr. Watson, Jun
+ |volume=72 |pages=112–162
+ |journal=[[Philosophical Transactions of the Royal Society of London]]
+ |doi=10.1098/rstl.1782.0014
+ |jstor=106455
+}}</ref> Designated as ''ADS 94 B'' in the [[Aitken Double Star Catalogue]], it is a [[G-type star|G-type]] [[star]] with an [[apparent visual magnitude]] of approximately 10.8.<ref name=sb0 /> Although by coincidence it appears near to the other two stars in the sky, it is not close to them in space.<ref name=burnham>
+{{cite book
+ |last=Burnham |first=R.
+ |year=1978
+ |title=Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System
+ |volume=1 |pages=111
+ |publisher=[[Courier Dover Publications]]
+ |isbn=0-486-23567-X
+}}</ref>
+{{-}}
+
+==Notes and references==
+{{reflist|colwidth=30em}}
+
+==External links==
+
+{{Sky|00|08|23.2586||29|05|25.555|97}}
+{{Stars of Andromeda}}
+
+[[Category:Andromeda (constellation)]]
+[[Category:Bayer objects|Andromedae, Alpha]]
+[[Category:Flamsteed objects|Andromedae, 21]]
+[[Category:B-type subgiants]]
+[[Category:Stars with proper names]]
+[[Category:Spectroscopic binaries]]
+[[Category:Henry Draper Catalogue objects|000358]]
+[[Category:Hipparcos objects|000677]]
+[[Category:G-type stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Triple stars]] <!-- Optical -->
+[[Category:Durchmusterung objects|BD+28 4]]
+
+[[ar:سرة الفرس]]
+[[ca:Alpheratz]]
+[[cs:Alpheratz]]
+[[de:Sirrah]]
+[[es:Alpheratz]]
+[[eu:Alpha Andromedae]]
+[[fa:سرةالفرس]]
+[[fr:Alpha Andromedae]]
+[[ko:알페라츠]]
+[[hi:अल्फ़ा ऐन्ड्रौमिडे तारा]]
+[[id:Alpha Andromedae]]
+[[it:Alpheratz]]
+[[la:Alpha Andromedae]]
+[[lb:Sirrah (Stär)]]
+[[mk:Сира]]
+[[nl:Alpheratz]]
+[[ja:アルフェラッツ]]
+[[pl:Alfa Andromedae]]
+[[pt:Alpha Andromedae]]
+[[ro:Alpha Andromedae]]
+[[ru:Альферац]]
+[[sk:Alpheratz]]
+[[fi:Alfa Andromedae]]
+[[sv:Alpheratz]]
+[[tt:Әлфәрәс]]
+[[uk:HD358]]
+[[vi:Alpha Andromedae]]
+[[zh:壁宿二]]

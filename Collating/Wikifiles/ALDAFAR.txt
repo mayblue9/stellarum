@@ -1,0 +1,26 @@
+{{Unreferenced|date=December 2009}}
+'''Eta Lyrae''' (η Lyr, η Lyrae) is a [[star]] in the [[constellation]] [[Lyra (constellation)|Lyra]].  It has the traditional name '''Aladfar''', from the [[Arabic language|Arabic]] '''الأظفر''' ''al-’uz̧fur'' "the talons (of the swooping eagle)", a name it shares with [[Mu Lyrae]] (though the latter is typically spelled ''Alathfar'' in English). 
+ 
+Eta Lyrae belongs to [[stellar classification|spectral class]] B2.5IV and has [[apparent magnitude]] of +4.39. It is approximately 1040 [[light year]]s from [[Earth]].
+
+Coordinates (equinox [[J2000.0]]):
+* [[Right ascension]]: 19h13m45.50s
+* [[Declination]]: +39°08'46.0"
+
+{{Stars of Lyra}}
+
+[[Category:Lyra (constellation)]]
+[[Category:Bayer objects|Lyrae, Eta]]
+[[Category:Stars with proper names]]
+
+[[cs:Eta Lyrae]]
+[[de:Aladfar]]
+[[es:Eta Lyrae]]
+[[fr:Eta Lyrae]]
+[[id:Eta Lyrae]]
+[[lb:Aladfar (Stär)]]
+[[nl:Aladfar]]
+[[pt:Eta Lyrae]]
+[[ru:Эта Лиры]]
+[[sk:Aladfar]]
+[[zh:輦道二]]

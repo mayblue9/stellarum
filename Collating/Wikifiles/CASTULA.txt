@@ -1,0 +1,90 @@
+{{Starbox begin
+| name = Nu Cephei
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]]
+| constell = [[Cepheus (constellation)|Cepheus]] 
+| pronounce = 
+| ra = {{RA|21|45|26.93}}
+| dec = {{DEC|+61|07|14.9}}
+| appmag_v = 4.312
+}}
+{{Starbox character
+| class = A2Iab
+| appmag_1_passband = U
+| appmag_1 = 4.95
+| appmag_2_passband = B
+| appmag_2 = 4.740
+| appmag_3_passband = J
+| appmag_3 = 3.296
+| appmag_4_passband = H
+| appmag_4 = 3.215 
+| appmag_5_passband = K
+| appmag_5 = 2.942
+| appmag_6_passband = 
+| appmag_6 = 
+| appmag_7_passband = 
+| appmag_7 = 
+| appmag_8_passband = 
+| appmag_8 = 
+| r-i = 
+| v-r = 
+| b-v = +0.428
+| u-b = +0.21
+| j-h = 
+| j-k = 
+| variable = Pulsating
+}}
+{{Starbox astrometry
+ | radial_v = -20.8
+ | prop_mo_ra = -3.08
+ | prop_mo_dec = -1.86
+ | parallax = 0.64
+ | p_error = 0.47
+ | parallax_footnote = 
+ | dist_ly = 5,093.75
+ | dist_pc = 1,562.5
+ | absmag_v = -6.65
+ }}
+{{Starbox detail
+| source              =   
+| mass                = 15  
+| radius              = 83.5 
+| gravity             =   
+| luminosity          = 51,000  
+| luminosity_bolometric = 
+| luminosity_visual   =   
+| temperature         = 9,500 
+| metal               =   
+| rotation            =   
+| rotational_velocity =   
+| age                 =   
+| age_gyr             =   
+}}
+{{Starbox catalog
+| names = 10 Cephei, [[Henry Draper catalogue|HD]] 207260, [[Harvard Revised catalogue|HR]] 8334, SAO 19624, FK5 1572, NSV --, [[Bonner Durchmusterung|BD]] +60 2288, [[Hipparcos catalogue|HIP]] 107418}}
+{{Starbox end}}
+
+'''Nu Cephei''' (ν Cep, ν Cep) is a [[Stellar classification|Class A2]], fourth-magnitude [[star]] in the [[constellation]] [[Cepheus (constellation)|Cepheus]]. Nu Cephei is a white pulsating [[variable star]] and [[star system|multiple star system]], located about 5100 [[light-year]]s from Earth.
+
+== References ==
+* {{cite web | title=HD 207260 -- Pulsating variable star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=nu+cephei&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-03-01}}
+
+==External links==
+
+{{Stars of Cepheus}}
+
+[[Category:Bayer objects|Cephei, Nu]]
+[[Category:Henry Draper Catalogue objects|207260]]
+[[Category:A-type supergiants]]
+[[Category:Cepheus (constellation)]]
+[[Category:Stars with proper names|Cor Regis]]
+[[Category:Alpha Cygni variables]]
+
+[[es:Ni Cephei]]
+[[fa:نو قیفاووس]]
+[[id:Nu Cephei]]
+[[pt:Nu Cephei]]
+[[ru:Ню Цефея]]
+[[zh:造父五]]

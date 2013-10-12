@@ -1,0 +1,124 @@
+{{Starbox begin
+| name = Beta Ursae Minoris
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ursa Minor IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Minor constellation and its surroundings]]
+     <div style="position: absolute; left: 49.0%; top: 53.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Ursae Minoris (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|14|50|42.32580}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+74|09|19.8142}}<ref name=aaa474_2_653/>
+| appmag_v = 2.08<ref name=clpl4_99/>
+| constell = [[Ursa Minor]]
+}}
+{{Starbox character
+| class    = K4&nbsp;III<ref name=araa11_29/>
+| b-v      = +1.47<ref name=clpl4_99/>
+| u-b      = +1.78<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +16.96<ref name=aaa430_165/>
+| prop_mo_ra  = -32.61<ref name=aaa474_2_653/>
+| prop_mo_dec = +11.42<ref name=aaa474_2_653/>
+| parallax = 24.91
+| p_error  = 0.12
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = {{nowrap|2.2 ± 0.3}}<ref name=aaa483_3_L43/>
+| radius   = {{nowrap|42.06 ± 0.91}}<ref name=aaa526_A100/>
+| luminosity  = {{nowrap|390 ± 25}}<ref name=aaa526_A100/>
+| temperature = 4,030<ref name=aaa526_A100/>
+| metal_fe = –0.29<ref name=aaa526_A100/>
+| gravity  = 1.83<ref name=aaa526_A100/>
+| rotational_velocity = 8<ref name=csrv239_1/>
+| age_myr  = 
+}}
+{{Starbox catalog
+| names=Kochab, Kocab, Kochah, 7 Ursae Minoris, ''Al Kaukab al Shamaliyy'', [[Bonner Durchmusterung|BD]] +74&nbsp;595, [[FK5]] 550, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 3373.00, [[Henry Draper catalogue|HD]] 131873, [[Hipparcos catalogue|HIP]] 72607, [[Harvard Revised catalogue|HR]] 5563, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 8102.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Beta Ursae Minoris''' (β UMi, β Ursae Minoris) is the brightest star in the bowl of the "Little Dipper" (which is part of the [[constellation]] [[Ursa Minor]]), and only slightly fainter than [[Polaris]], the northern [[pole star]] and brightest star in Ursa Minor. It has the traditional name '''Kochab'''. Kochab is 16 degrees from Polaris and has an [[apparent visual magnitude]] of 2.08.<ref name=clpl4_99/> The distance to this star can be deduced from the [[parallax]] measurements made during the [[Hipparcos]], yielding a value of {{Convert|130.9|ly|pc|abbr=off}}.<ref name=aaa474_2_653/>
+
+Kochab and its neighbor [[Pherkad]] are both [[naked eye]] stars and are sometimes referred to as the "Guardians of the Pole". They served as twin pole stars, Earth's North pole stars, from 1500 BC until 500 AD. Neither star was as proximitous to the pole as Polaris is now. Due to [[precession of the equinoxes]], the previous holder of the title was [[Thuban]], and the next was the present-day [[Polaris]]. This succession of pole stars is a result of earth's [[precession]]al motion.
+
+==Properties==
+This is a [[giant star]] with a [[stellar classification]] of K4&nbsp;III.<ref name=araa11_29/> It is 130 times more luminous than the [[Sun]]. Kochab has reached a state in its [[stellar evolution|evolution]] where the outer envelope has expanded to 42<ref name=aaa526_A100/> times the girth of the Sun. This enlarged atmosphere is radiating 390<ref name=aaa526_A100/> times as much luminosity as the Sun from its [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of 4,030&nbsp;K.<ref name=aaa526_A100/> This heat gives the star the orange-hued glow of a [[K-type star]].<ref name=csiro/>
+
+By modelling this star based upon [[evolutionary track]]s, the mass of this star can be estimated as 2.2 ± 0.3 that of the Sun. A mass estimate using the [[interferometry|interferometrically]]-measured radius of this star and its [[spectroscopy|spectroscopically]]-determined surface gravity yields 2.5 ± 0.9 solar masses.<ref name=aaa483_3_L43/> The star is known to undergo periodic variations in luminosity over roughly 4.6 days, with the [[astroseismology|astroseismic]] frequencies depending sensitively on the star's mass. From this, a much lower mass estimate of 1.3 ± 0.3 solar is reached.<ref name=aaa483_3_L43/>
+
+==Etymology==
+The origin of the name ''Kochab'' is from [[Arabic language|Arabic]] {{lang|ar|الكوكب}} ''al-kawkab'' "the star", short for{{Citation needed|date=February 2012}} {{lang|ar|الكوكب الشمالي}} ''al-kawkab al-šamāliyy'' "the north star" (lit. heavenly body), a name shared with Polaris and may be the star called {{lang|gr|ΠολΟς}} ''Polos'' by the ancient Greeks in an era when it was nearer the pole.<ref>{{cite book|last=Allen|first=Richard Hinckley|title=Star names : their lore and meaning|year=1963|publisher=Dover|location=New York|isbn=0-486-21079-0|pages=458|edition=Unabridged and corr. republication.}}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|北極}} ({{lang|zh-Latn|Běi Jí}}), meaning ''[[Purple Forbidden enclosure|North Pole]]'', refers to an asterism consisting of β Ursae Minoris, [[Gamma Ursae Minoris|γ Ursae Minoris]], [[5 Ursae Minoris]], [[4 Ursae Minoris]] and [[Σ 1694]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Ursae Minoris itself is known as {{lang|zh|北極二}} ({{lang|zh-Latn|Běi Jí èr}}, {{lang-en|the Second Star of North Pole}}.),<ref>{{zh icon}}http://zh.wikipedia.org/wiki/%E5%8C%97%E6%A5%B5_%28%E6%98%9F%E5%AE%98%29</ref> representing {{lang|zh|帝}} ({{lang|zh-Latn|Dì}}), meaning ''Emperor''.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#PrupleForbiddenEnclosure 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | pages=165–186 | month=January | year=2005 | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=csrv239_1>{{citation | author=Bernacca, P. L.; Perinotto, M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aaa483_3_L43>{{citation | display-authors=1 | last1=Tarrant | first1=N. J. | last2=Chaplin | first2=W. J. | last3=Elsworth | first3=Y. | last4=Spreckley | first4=S. A. | last5=Stevens | first5=I. R. | title=Oscillations in β Ursae Minoris. Observations with SMEI | journal=Astronomy and Astrophysics | volume=483 | issue=3, 2008 | pages=L43–L46 | month=June | year=2008 | doi=10.1051/0004-6361:200809738 | bibcode=2008A&A...483L..43T |arxiv = 0804.3253 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=KOCHAB -- Variable Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Ursae+Minoris | accessdate=2012-01-11 }}</ref>
+
+}}
+
+==Further reading==
+*Beyer Steven L., ''The Star Guide'', Little, Brown and Company, 1986.
+* [http://www.webspawner.com/users/cosmic/ Mythology]: Bx Times Reporter, New York
+
+{{s-start}}
+{{s-bef|before=[[Thuban]]}}
+{{s-ttl|title=[[Pole Star]]|years=1900 BC–500}}
+{{s-aft|after=[[Polaris]]}}
+{{end}}
+{{Sky|14|50|42.3|+|74|09|20|126}}
+{{Stars of Ursa Minor}}
+
+[[Category:Bayer objects|Ursae Minoris, Beta]]
+[[Category:K-type giants]]
+[[Category:Ursa Minor (constellation)]]
+[[Category:Northern pole stars]]
+[[Category:Stars with proper names]]
+
+[[ar:كوكب (نجم)]]
+[[be:Кохаб]]
+[[be-x-old:Кохаб]]
+[[ca:Kochab]]
+[[cs:Kochab]]
+[[de:Kochab]]
+[[es:Kochab]]
+[[eu:Beta Ursae Minoris]]
+[[fa:بتا خرس کوچک]]
+[[fr:Beta Ursae Minoris]]
+[[ko:코카브]]
+[[hi:बेटा ध्रुवमत्स्य तारा]]
+[[it:Kochab]]
+[[lb:Kochab (Stär)]]
+[[nl:Kocab]]
+[[ja:コカブ]]
+[[pl:Kochab]]
+[[ru:Кохаб]]
+[[sk:Kochab]]
+[[fi:Beta Ursae Minoris]]
+[[sv:Kochab]]
+[[tt:Акбүзат]]
+[[zh:北極二]]

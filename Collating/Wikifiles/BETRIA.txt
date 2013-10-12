@@ -1,0 +1,97 @@
+{{Starbox begin
+| name=Beta Trianguli Australis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Triangulum Australe IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Triangulum Australe constellation and its surroundings]]
+     <div style="position: absolute; left: 48.8%; top: 38.4%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Trianguli Australis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|15|55|08.56206}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|-63|25|50.6155}}<ref name=aaa474_2_653/>
+| appmag_v = 2.85<ref name=aaass34_1/>
+| constell = [[Triangulum Australe]]
+}}
+{{Starbox character
+| class    = F1&nbsp;V<ref name=aj132_1_161/>
+| b-v      = +0.29<ref name=aaass34_1/>
+| u-b      = +0.05<ref name=aaass34_1/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +0.4<ref name=rgcrv/>
+| prop_mo_ra  = -188.66<ref name=aaa474_2_653/>
+| prop_mo_dec = -401.85<ref name=aaa474_2_653/>
+| parallax = 80.79
+| p_error  = 0.16
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 
+| luminosity  = 
+| temperature = {{nowrap|7,384 ± 368}}<ref name=aaa420_183/>
+| gravity  = {{nowrap|4.219 ± 0.066}}<ref name=aaa420_183/>
+| metal_fe = 
+| rotational_velocity = 79<ref name=csrv70/>
+| rotation = 
+| age_gyr  = 
+}}
+{{Starbox catalog
+| names=[[FK5]]&nbsp;589, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;3589.00, [[Gliese Catalogue of Nearby Stars|GJ]]&nbsp;601, [[Henry Draper catalogue|HD]]&nbsp;141891, [[Hipparcos catalogue|HIP]]&nbsp;77952, [[Harvard Revised catalogue|HR]]&nbsp;5897, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;6339, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;253346.
+}}
+{{Starbox end}}
+'''Beta Trianguli Australis''' (β TrA, β Trianguli Australis) is a [[double star]] in the southern [[circumpolar constellation]] of [[Triangulum Australe]]. It is approximately {{Convert|40.37|ly|pc|abbr=off|lk=on}} from [[Earth]] and has an [[apparent visual magnitude]] of +2.85.<ref name=aaass34_1/> This star has a relatively high rate of [[proper motion]] across the [[celestial sphere]].<ref name=SIMBAD/> It is a [[F-type main-sequence star]] with a [[stellar classification]] of F1&nbsp;V.<ref name=aj132_1_161/> Beta TrA has a 14th magnitude optical companion at an [[angular separation]] of 155&nbsp;[[arcsecond]]s.
+
+Observation with the [[Spitzer Space Telescope]] reveals what appears to be an [[infrared excess|excess infrared emission]] from this star. This suggests the presence of circumstellar material in this system, making it a [[debris disk]] candidate.<ref name=apjl710_1_L26/> This star may be a member of the [[Beta Pictoris moving group]], an association of about 17 stars that share a common origin and a similar motion through space. If it is a member of this group, this would put the age of β TrA at about 12 million years; the same as the group itself.<ref name=aj140_3_713/>
+
+==Modern legacy==
+β TrA appears on the  [[flag of Brazil]], symbolising the state of [[Santa Catarina (state)|Santa Catarina]].<ref name=fotw/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: spectroscopy of stars earlier than M0 within 40 pc-The Southern Sample | journal=[[The Astronomical Journal]] | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=csrv70>{{cite journal | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=aaass34_1>{{cite journal | last=Nicolet | first=B. | month=October | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=aj140_3_713>{{citation | last1=Nakajima | first1=Tadashi | last2=Morino | first2=Jun-Ichi | last3=Fukagawa | first3=Misato | title=Potential Members of Stellar Kinematical Groups within 20 pc of the Sun | journal=The Astronomical Journal | volume=140 | issue=3 | pages=713–722 | month=September | year=2010 | doi=10.1088/0004-6256/140/3/713 | bibcode=2010AJ....140..713N }}</ref>
+
+<ref name=apjl710_1_L26>{{citation | display-authors=1 | last1=Koerner | first1=D. W. | last2=Kim | first2=S. | last3=Trilling | first3=D. E. | last4=Larson | first4=H. | last5=Cotera | first5=A. | last6=Stapelfeldt | first6=K. R. | last7=Wahhaj | first7=Z. | last8=Fajardo-Acosta | first8=S. | last9=Padgett | first9=D. | title=New Debris Disk Candidates Around 49 Nearby Stars | journal=The Astrophysical Journal Letters | volume=710 | issue=1 | pages=L26–L29 | month=February | year=2010 | doi=10.1088/2041-8205/710/1/L26 | bibcode=2010ApJ...710L..26K }}</ref>
+
+<ref name=aaa420_183>{{citation | display-authors=1 | last1=Allende Prieto | first1=C. | last2=Barklem | first2=P. S. | last3=Lambert | first3=D. L. | last4=Cunha | first4=K. | title=S<sup>4</sup>N: A spectroscopic survey of stars in the solar neighborhood. The Nearest 15 pc | journal=Astronomy and Astrophysics | volume=420 | page=183–205 | month=June | year=2004 | doi=10.1051/0004-6361:20035801 | bibcode=2004A&A...420..183A |arxiv = astro-ph/0403108 }}</ref>
+
+<ref name=fotw>{{citation | title=Astronomy of the Brazilian Flag | url=http://www.fotw.net/flags/br_astro.html | publisher=FOTW Flags Of The World website }}</ref>
+
+<ref name=SIMBAD>{{citation | title=LTT 6339 -- High proper-motion Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Trianguli+Australis | accessdate=2012-01-28 }}</ref>
+
+}}
+
+{{Nearest star systems|9}}
+{{Stars of Triangulum Australe}}
+
+[[Category:Triangulum Australe]]
+[[Category:Bayer objects|Trianguli Australis, Beta]]
+[[Category:F-type main sequence stars]]
+[[Category:Circumstellar disks]]
+[[Category:Double stars]]
+
+[[de:Betria]]
+[[es:Beta Trianguli Australis]]
+[[fa:بتا مثلث جنوبی]]
+[[fr:Beta Trianguli Australis]]
+[[ko:남쪽삼각형자리 베타]]
+[[it:Beta Trianguli Australis]]
+[[ja:みなみのさんかく座ベータ星]]
+[[pt:Beta Trianguli Australis]]
+[[sk:Betria]]

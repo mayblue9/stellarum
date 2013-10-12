@@ -1,0 +1,46 @@
+{{Starbox short |
+| name=ν Capricorni
+| epoch=[[J2000.0]]
+| constell=[[Capricornus]]
+| ra=20<sup>h</sup>20<sup>m</sup>39.8<sup>s</sup>
+| dec=&minus;12°45′33″
+| spectral=B9.5V
+| appmag_v=+4.77
+| dist_ly=272 ± 22
+| dist_pc=83 ± 7
+| names=Alshat, 8&nbsp;Capricorni, [[Harvard Revised catalogue|HR]]&nbsp;7773, [[Henry Draper Catalogue|HD]]&nbsp;193432, [[Bonner Durchmusterung|BD]]−13°5642, [[Hipparcos catalogue|HIP]]&nbsp;100310, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;163468, GC&nbsp;28282, [[Star catalogue#ADS|ADS]]&nbsp;13714, CCDM&nbsp;J20207-1246
+}}
+'''Nu Capricorni''' (ν Cap, ν Capricorni) is a [[binary star]] in the [[constellation]] [[Capricornus]].  It has the traditional name '''Alshat''', from the [[Arabic language|Arabic]] الشاة ''aš-šā[t]'', meaning ''the sheep'' that was to be slaughtered by the adjacent [[Dabih]]
+.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Capricornus*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=142 }}</ref> It is approximately 272 [[light year]]s from [[Earth]].
+
+The primary component, '''ν Capricorni A''', is a blue-white [[stellar classification|B-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.77.  Its companion, '''ν Capricorni B''', is a twelfth magnitude star located 54 [[arcsecond]]s or at least 4000 [[Astronomical Units|AU]] from the primary.
+
+==References==
+{{reflist}}
+
+{{Stars of Capricornus}}
+
+[[Category:Bayer objects|Capricorni, Nu]]
+[[Category:Binary stars]]
+[[Category:B-type main sequence stars]]
+[[Category:Capricornus (constellation)]]
+[[Category:Stars with proper names]]
+
+
+{{Multi-star-stub}}
+
+[[de:Alshat]]
+[[es:Alshat]]
+[[fa:نو بزغاله]]
+[[id:Nu Capricorni]]
+[[nl:Alshat]]
+[[pt:Nu Capricorni]]
+[[sk:Alshat]]
+[[zh:牛宿增七]]

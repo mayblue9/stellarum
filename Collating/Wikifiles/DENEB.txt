@@ -1,0 +1,173 @@
+{{About||the Deneb processor core|Phenom II|the Italian steamship|SS Deneb|the star known as Deneb Kaitos|Beta Ceti}}
+{{Starbox begin
+| name=Deneb
+}}
+{{Starbox image
+| image=[[Image:Cygnus constellation map.png|250px]]
+| caption=Cygnus, the constellation in which Deneb is located.
+}}
+{{Starbox observe
+| epoch=J2000
+| constell=[[Cygnus (constellation)|Cygnus]]
+| ra= {{RA|20|41|25.9}}
+| dec= {{DEC|+45|16|49}}
+| appmag_v=1.25
+}}
+{{Starbox character
+| class=A2&nbsp;Ia<ref name=baas25_1319/>
+| b-v=+0.09
+| u-b=&minus;0.24
+| variable=[[Alpha Cygni variable|Alpha Cyg]]
+}}
+{{Starbox astrometry
+| radial_v=&minus;4.5
+| prop_mo_ra=1.99<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| prop_mo_dec=1.95<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| parallax=2.29
+| p_error=0.32
+| parallax_footnote = <ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| dist_pc=802 + 66<ref name="SCHILLER1"/>
+| absmag_v= &minus;8.38<ref name="SCHILLER1"/>
+}}
+{{Starbox detail
+| mass=19 ± 4<ref name="SCHILLER1">{{cite journal
+ | author=Schiller, F.; Przybilla, N.
+ | title=Quantitative spectroscopy of Deneb
+ | journal=Astronomy & Astrophysics
+ | year=2008
+ | month=March
+ | volume=479
+ | issue=3
+ | pages=849–858
+ | bibcode=2008A&A...479..849S
+ | doi=10.1051/0004-6361:20078590
+ | quote=Earlier data had yielded a luminosity of 54,000L<sub>☉</sub> with a radius of 108R<sub>☉</sub>
+ | arxiv=0712.0040v1.pdf}}</ref>
+| radius=203 ± 17<ref name="SCHILLER1"/>
+| luminosity=196,000 ± 32,000</sup><ref name="SCHILLER1"/>
+| temperature=8,525 ± 75<ref name="SCHILLER1"/>
+| rotational_velocity = -4.5
+| gravity = 1.10 ± 0.05<ref name="SCHILLER1"/>
+}}
+{{Starbox catalog
+| names=α Cygni, Alpha Cyg, 50 Cyg, Arided, Aridif, Gallina, Arrioph, [[Harvard Revised catalogue|HR]] 7924, [[Bonner Durchmusterung|BD]] +44°3541, [[Henry Draper catalogue|HD]] 197345, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 49941, FK5: 777, [[Hipparcos catalogue|HIP]] 102098.
+}}
+{{Starbox end}}
+
+'''Deneb''' (α Cyg, α Cygni, [[alpha (letter)|Alpha]] Cygni) is the brightest [[star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]] and one of the vertices of the [[Summer Triangle]].  It is the 19th  [[list of brightest stars|brightest star in the night sky]], with an [[apparent magnitude]] of 1.25. A blue-white supergiant, Deneb is also one of the [[List of most luminous stars|most luminous nearby stars]]. However, its exact distance (and hence luminosity) has been difficult to calculate, so it is anywhere between 54,000 and 196,000 times as luminous as the sun.
+
+Other names include '''Arided''' and '''Aridif''', but these have fallen out of use.<!-- note - these names are so little used I am debating whether they should be in the lead at all - Casliber 4 July 2012 -->
+
+==Visibility==
+[[Image:Summer triangle.png|left|thumb|280px|The [[Summer Triangle]]]]
+Deneb lies at a [[Vertex (geometry)|vertex]] of a widely spaced [[Asterism (astronomy)|asterism]] called the [[Summer Triangle]], the other two members of which are the zero-[[apparent magnitude|magnitude]] stars [[Vega]] in the constellation [[Lyra]] and [[Altair]] in [[Aquila (constellation)|Aquila]].<ref name=pasachoff2000>{{Cite book | first1=Jay M. | last1=Pasachoff | year=2000 | title=A Field Guide to Stars and Planets | edition=4th | publisher=Houghton Mifflin Field Guides | isbn=0-395-93431-1 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref> This formation is the approximate shape of a [[right triangle]], with Deneb located at one of the acute angles. The Summer Triangle is recognizable in the northern skies for there are few other bright stars in its vicinity.<ref name=upgren1998>{{Cite book | first=Arthur R. | last=Upgren | year=1998 | title=Night Has a Thousand Eyes: A Naked-Eye Guide to the Sky, Its Science, and Lore | publisher=Basic Books | isbn=0-306-45790-3 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+==Distance and physical properties==
+[[File:Hertzsprung-Russel StarData.png|thumb|left|Deneb's place at top centre on the [[Hertzsprung-Russell diagram]]]]
+Deneb's [[absolute magnitude]] is currently estimated as &minus;8.4, placing it among the most luminous stars known, with an estimated [[luminosity]] nearly 200,000 times that of our [[Sun]].<ref name="SCHILLER1"/>  This is towards the upper end of various published values over the last few decades.<ref>{{cite doi|10.1086/126523}}</ref><ref>{{cite doi|10.1086/156252}}</ref><ref>{{cite doi|10.1086/154405}}</ref>
+
+Deneb's exact distance from the Earth is still rather uncertain.  The currently accepted distance of around 2,600 light-years (and the associated physical data shown in the starbox) is derived by a variety of methods, including spectral luminosity classes, atmospheric modelling, stellar evolution models, assumed membership of the [[Cyg OB7]] association, and direct measurements of angular diameter.  The original rather inaccurate [[Hipparcos]] [[parallax]] measurement<ref name=aaa323_L49/><ref name=GSM/> was not inconsistent with this distance, but the more recent re-analysis<ref name=aaa474_2_653/> gives a much larger parallax and a distance barely half the widely accepted value.  One 2008 calculation using the Hipparcos data<ref name="arxiv">{{cite arxiv
+| last = Apellániz
+| first = J. Maíz
+| coauthors = E. J Alfaro, A. Sota
+| title = Accurate distances to nearby massive stars with the new reduction of the Hipparcos raw data
+| date = 2008
+| eprint= 0804.2553
+| class=astro-ph
+}}</ref> puts the most likely distance at 1,550 light-years, with an uncertainty of only around 10%, although parallax measurements of asymmetric, pulsating stars embedded within shells is known to be unreliable.  The controversy over whether the direct Hipparcos measurements can be ignored in favour of a wide range of indirect stellar models and interstellar distance scales is similar to the better known situation with the [[Pleiades]].<ref>{{cite doi|10.1051/0004-6361/200912202}}</ref>  The [[Gaia mission|Gaia satellite]] should provide distance measurements at least two orders of magnitude more reliable than Hipparcos and resolve many such questions, although it will not measure Deneb itself.<ref>{{cite arXiv|eprint=1202.3645|version=1|author1=Catherine Turon|author2=Xavier Luri|author3=Eduard Masana|title=Building the cosmic distance scale: From Hipparcos to Gaia|class=astro-ph.IM|year=2012}}</ref>
+
+Even assuming the lowest estimates of distance and luminosity, Deneb is the brightest and most distant of the stars with apparent magnitude brighter than 1.5, and the most distant (by a factor of almost 2) of the 30 brightest stars. Based on its temperature and luminosity, and also on direct measurements of its tiny [[angular diameter]] (a mere 0.002 second of arc), Deneb appears to have a diameter of 100-200 times that of the Sun; if placed at the center of our Solar System, Deneb would extend halfway out to the orbit of the Earth.<ref name="kaler">[http://www.astro.uiuc.edu/~kaler/sow/deneb.html Deneb by Jim Kaler at astro.uiuc.edu]</ref> It is one of the [[List of largest known stars|largest white stars]] known.
+
+Deneb is a bluish-white star of [[stellar classification|spectral type]] A2Ia, with a surface temperature of 8,500 kelvin. Since 1943, its [[spectrum]] has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It is the prototype of a class of [[variable star]]s known as [[Alpha Cygni variable]]s.  Its surface undergoes non-radial fluctuations which cause its brightness and spectral type to change slightly.
+
+Deneb's mass is estimated at 20 solar masses.<ref name="kaler" /><ref name="domeofthesky">[http://domeofthesky.com/clicks/deneb.html Deneb at domeofthesky.com]</ref>  As a blue-white [[supergiant]], its high mass and temperature mean that it will have a short lifespan and will probably go [[supernova]] within a few million years.  It has already stopped fusing [[hydrogen]] in its core. It was probably an O class star during its main-sequence lifetime and is now probably expanding into a [[red supergiant]]. As it expands, it will go through the F, G, K and M spectral types.<ref name="SCHILLER1"/>
+
+Deneb's [[solar wind]] causes it to lose mass at a rate of 0.8 millionth of a solar mass per year, a hundred thousand times the flow rate from the Sun.<ref name="kaler" />
+
+==Etymology and cultural significance==
+The name ''Deneb'' is derived from ''dhaneb'', the Arabic for "tail", from the phrase '''ذنب الدجاجة''' ''Dhanab ad-Dajāja<sup>h</sup>'', or "tail of the hen".<ref name=allen/> Similar names were given to at least seven different stars, most notably [[Beta Ceti|Deneb Kaitos]], the brightest star in the constellation [[Cetus]]; [[Delta Capricorni|Deneb Algedi]], the brightest star in [[Capricornus]]; and [[Denebola]], the second brightest star in [[Leo (constellation)|Leo]]. All these stars are referring to the tail of the animals that their respective constellations represent.
+
+''Denebadigege'' was used in the ''[[Alfonsine Tables]]'',<ref name=Kunitzsch86>{{cite journal|last=Kunitzsch|first=Paul|year=1986|title=The Star Catalogue Commonly Appended to the Alfonsine Tables|journal=Journal for the History of Astronomy|volume=17|issue=49|pages=89–98|bibcode=1986JHA....17...89K}}</ref> other variants include ''Deneb Adige'', ''Denebedigege'' and ''Arided''.  This latter name was derived from ''Al Ridhādh'', a name for the constellation. [[Johann Bayer]] called it ''Arrioph'', derived from ''Aridf'' and ''Al Ridf'', 'the hindmost'  or ''Gallina''.  German poet and author [[Philipp von Zesen|Philippus Caesius]]{{disambiguation needed|date=March 2012}} termed it ''Os rosae'', or ''Rosemund'' in German, or ''Uropygium'' &ndash; the parson's nose.<ref name=allen>{{cite book
+ | author=[[Richard Hinckley Allen|Allen, Richard Hinckley]],
+ | year=1963 |origyear=1899
+ | title=Star Names: Their Lore and Meaning
+ | edition=[[Reprint|rep]].
+ | publisher=[[Dover Publications]] Inc.
+ | location=[[New York City|New York]], [[New York|NY]]
+ | isbn=0-486-21079-0
+ | page = 195}}</ref>
+
+In Chinese, {{lang|zh|天津}} ({{lang|zh-Latn|Tiān Jīn}}), meaning ''[[Girl (Chinese constellation)|Celestial Ford]]'', refers to an asterism consisting of Deneb, [[Gamma Cygni|γ Cygni]], [[Delta Cygni|δ Cygni]], [[30 Cygni]], [[Nu Cygni|ν Cygni]], [[Tau Cygni|τ Cygni]], [[Upsilon Cygni|υ Cygni]], [[Zeta Cygni|ζ Cygni]] and [[Epsilon Cygni|ε Cygni]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, Deneb itself is known as {{lang|zh|天津四}} ({{lang|zh-Latn|Tiān Jīn sì}}, {{lang-en|the Fourth Star of the Celestial Ford}}).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+In the Chinese love story of [[Qi Xi]], Deneb marks the [[magpie]] bridge across the [[Milky Way]], which allows the separated lovers Niu Lang ([[Altair]]) and Zhi Nü ([[Vega]]) to be reunited on one special night of the year in late summer. In other versions of the story Deneb is a fairy who acts as chaperone when the lovers meet.
+
+Deneb is the north pole star of [[Mars]].<ref name =Barlow>a b Barlow, Nadine G. (2008). Mars: an introduction to its interior, surface and atmosphere. Cambridge planetary science. 8. Cambridge University Press. p. 21. ISBN 0-521-85226-9.</ref>
+
+==Namesakes==
+[[USS Arided (AK-73)|USS ''Arided'']] was a [[United States Navy]] [[Crater class cargo ship|''Crater''-class cargo ship]] named after the star.{{citation needed|date=July 2012}}
+
+==See also==
+* [[Deneb in fiction]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa323_L49>{{Cite journal | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref>
+
+<ref name=aaa474_2_653>{{Cite journal | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+<ref name=GSM>{{Cite book | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5 | series=Astronomers’ Universe | isbn=978-3-642-11601-8 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref>
+
+<ref name=baas25_1319>{{Cite journal | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+}}
+
+{{Sky|20|41|25.9|+|45|16|49|1400}}
+{{Stars of Cygnus}}
+
+[[Category:Bayer objects|Cygni, Alpha]]
+[[Category:Cygnus (constellation)]]
+[[Category:Henry Draper Catalogue objects|197345]]
+[[Category:A-type supergiants]]
+[[Category:Arabic words and phrases]]
+[[Category:Alpha Cygni variables]]
+[[Category:Stars with proper names]]
+
+[[ar:ذنب الدجاجة (نجم)]]
+[[az:Deneb]]
+[[be:Дэнеб]]
+[[bg:Денеб]]
+[[ca:Deneb]]
+[[cs:Deneb]]
+[[de:Deneb]]
+[[el:Ντενέμπ]]
+[[es:Deneb]]
+[[eu:Deneb]]
+[[fa:دنب]]
+[[fr:Deneb]]
+[[ko:데네브]]
+[[hi:हंस तारा]]
+[[hr:Deneb]]
+[[id:Alpha Cygni]]
+[[it:Deneb]]
+[[he:דנב]]
+[[la:Deneb]]
+[[lb:Deneb (Stär)]]
+[[lt:Denebas]]
+[[hu:Deneb]]
+[[mk:Денеб]]
+[[nl:Deneb]]
+[[ja:デネブ]]
+[[no:Deneb]]
+[[pl:Deneb]]
+[[pt:Deneb]]
+[[ro:Deneb]]
+[[ru:Денеб]]
+[[sk:Deneb]]
+[[fi:Deneb]]
+[[sv:Deneb]]
+[[tt:Зәнәб]]
+[[tr:Deneb]]
+[[uk:Денеб]]
+[[vi:Sao Deneb]]
+[[zh:天津四]]

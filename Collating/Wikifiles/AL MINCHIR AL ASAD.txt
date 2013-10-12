@@ -1,0 +1,78 @@
+{{Starbox begin
+| name=κ Leonis }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|09|24|39.2591}}<ref name=aaa323/>
+| dec={{DEC|+26|10|56.367}}<ref name=aaa323/>
+| appmag_v=4.473<ref name=SIMBAD/>
+| constell=[[Leo (constellation)|Leo]] }}
+{{Starbox character
+| class=K2III<ref name=SIMBAD/>
+| b-v=+1.23<ref name=clpl4/>
+| u-b=+1.31<ref name=clpl4/>
+| variable= }}
+{{Starbox astrometry
+| radial_v=+27.94<ref name=aaa430/>
+| prop_mo_ra=–31.13<ref name=aaa323/>
+| prop_mo_dec=–48.06<ref name=aaa323/>
+| parallax=15.28
+| p_error=0.83
+| parallax_footnote=<ref name=aaa323/>
+| absmag_v= }}
+{{Starbox detail
+| mass=
+| radius=
+| luminosity=
+| temperature=4,370<ref name=apjss74/>
+| metal=<math>\begin{smallmatrix}\left[\frac{Fe}{H}\right]\ =\ +0.01\end{smallmatrix}</math><ref name=apjss74/>
+| rotation=
+| rotational_velocity=10<ref name=csrv70/>
+| gravity=2.34<ref name=apjss74/>
+| age= }}
+{{Starbox catalog
+| names=1 Leo, [[Harvard Revised catalogue|HR]] 3731, [[Bonner Durchmusterung|BD]]+26 1939, [[Henry Draper catalogue|HD]] 81146, [[Smithsonian Astrophysical Observatory|SAO]] 80807, [[Fifth Fundamental Catalogue|FK5]] 1244, [[Hipparcos catalogue|HIP]] 46146.<ref name=SIMBAD/> }}
+{{Starbox end}}
+
+'''Kappa Leonis''' (κ Leonis, κ Leo) is a 4th-[[Magnitude (astronomy)|magnitude]] [[double star]] in the [[constellation]] [[Leo (constellation)|Leo]].<ref name=SIMBAD/> It was known as ''Minchir el-asad'' on [[Johann Elert Bode|Bode]]'s large [[star atlas]], ''[[Uranographia]]''. This name is derived from the [[Arabic language|Arabic]] ''Minkhir al-Asad'', "the Muzzle of [[Leo (constellation)|(the constellation of) the Lion]]" for this star. The name is erroneously spelt as ''Al Minliar al Asad'' in the [[Yale University|Yale]] ''[[Bright Star Catalogue]]''.<ref name=bsc53/>
+
+Kappa Leonis has [[apparent magnitude]] +4.46 and has a [[stellar classification]] of K2III. It is approximately 210 [[light year]]s from [[Earth]]. 
+
+==References==
+
+{{reflist|refs=
+
+<ref name=aaa323>{{Cite journal | author=Perryman, M. A. C. | coauthors=''et al.'' | title=The HIPPARCOS Catalogue | journal=Astronomy & Astrophysics | volume=323 | pages=L49–L52 | month=April | year=1997 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=CCDM J09247+2611AB  -- Double or multiple star | work=SIMBAD Astronomical Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=kap+leo | accessdate=2010-05-20 }}</ref>
+
+<ref name=bsc53>{{cite web | author=Hoffleit, D.; Warren Jr., W. H. | year=1991 | title=VizieR Correlated Data, HR 3731 | work=Bright Star Catalogue, 5th Revised Ed | publisher=VizieR | url=http://vizier.u-strasbg.fr/viz-bin/VizieR?-6N&-out.form=H0&//*&-source%3DV/50/notes&HR%3D3731 | accessdate=2010-05-20 }}</ref>
+
+<ref name=aaa430>{{cite journal | author=Famaey, B.; Jorissen, A.; Luri, X.; Mayor, M.; Udry, S.; Dejonghe, H.; Turon, C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | pages=165–186 | month=January | year=2005 | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=apjss74>{{cite journal | last=McWilliam | first=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+<ref name=csrv70>{{cite journal | title=A catalogue of stellar rotational velocities | author=Bernacca, P. L.; Perinotto, M. | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=clpl4>{{cite journal | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewskj, W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+}}
+
+{{giant-star-stub}}
+
+{{Stars of Leo}}
+
+[[Category:Bayer objects|Leonis, Kappa]]
+[[Category:Leo (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:منخر الأسد]]
+[[de:Kappa Leonis]]
+[[es:Al Minliar al Asad]]
+[[fa:منقارالاسد]]
+[[fr:Kappa Leonis]]
+[[id:Kappa Leonis]]
+[[nl:Al Minliar al Asad]]
+[[pt:Kappa Leonis]]
+[[sk:Al Minliar al Asad]]
+[[zh:轩辕七]]

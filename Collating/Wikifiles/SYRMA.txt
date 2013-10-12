@@ -1,0 +1,59 @@
+{{Starbox short
+| name     = ι Virginis
+{{Starbox image
+| image=<div style="position: relative">[[File:Virgo IAU.svg|250px]]
+   <div style="position: absolute; left:28.0%; top:50.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+| caption=Location of ι Virginis.
+}}
+| epoch    = [[J2000.0]]
+| constell = [[Virgo (constellation)|Virgo]]
+| ra       = {{RA|14|16|00.9}}
+| dec      = {{DEC|&minus;6|00|02}}
+| spectral = F6&nbsp;III{{Citation needed|date=February 2012}}<!-- Mallik (1999) lists F7 IV. -->
+| appmag_v = +4.07<ref name=aaa352_495/>
+| absmag_v = +2.44<ref name=aaa361_614/>
+| dist_ly  = 69.8 ± 1.3
+| dist_pc  = 21.4 ± 0.4
+| names    = Syrma, 99&nbsp;Virginis, [[Star catalogue#BD.2FCD.2FCPD|BD]]-05&nbsp;3843, FK5&nbsp;525, [[Henry Draper Catalogue|HD]]&nbsp;124850, [[Hipparcos catalogue|HIP]]&nbsp;69701, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5338, [[Star catalogue#SAO|SAO]]&nbsp;139824, [[Star catalogue#Gl, GJ, Wo|Wo]]&nbsp;9473.
+}}
+
+'''Iota Virginis''' (ι Vir, ι Virginis) is a [[star]] in the [[constellation]] [[Virgo (constellation)|Virgo]]. It has the traditional name '''Syrma'''.{{Citation needed|date=January 2012}}<!-- See discussion. -->
+
+Syrma is a yellow star of [[apparent magnitude]] 4.08 and [[stellar classification|spectral class]] F6 III about 70 [[light year]]s from Earth. This star has 1.52 times the mass of the Sun,<ref name=apjss192_1_2/> with a [[projected rotational velocity]] of 14.8 km s<sup>–1</sup>.<ref name=aaa361_614/> It is radiating 8.6 times the luminosity of the Sun from its outer atmosphere at an [[effective temperature]] of 6,282&nbsp;K.<ref name=aaa352_495/> The radius is about 2.5 times that of the Sun.<ref name=aass85_3_1015/>
+
+==In culture==
+The name Syrma is from the Arabic (سرما (تطريز ''sirmā'' "train" (of a garment).
+
+[[USS Syrma (AK-134)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=apjss192_1_2>{{citation | last1=Shaya | first1=Ed J. | last2=Olling | first2=Rob P. | title=Very Wide Binaries and Other Comoving Stellar Companions: A Bayesian Analysis of the Hipparcos Catalogue | journal=The Astrophysical Journal Supplement | volume=192 | issue=1 | page=2 | month=January | year=2011 | doi=10.1088/0067-0049/192/1/2 | bibcode=2011ApJS..192....2S |arxiv = 1007.0425 }}</ref>
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+==External links==
+{{Nearest bright star systems|7.}}
+{{Virgo}}
+
+[[Category:Bayer objects|Virginis, Iota]]
+[[Category:Virgo (constellation)]]
+[[Category:F-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Syrma]]
+[[el:Σύρνα]]
+[[es:Syrma]]
+[[fa:یوتا دوشیزه]]
+[[it:Iota Virginis]]
+[[nl:Syrma]]
+[[sk:Syrma]]
+[[zh:亢宿二]]

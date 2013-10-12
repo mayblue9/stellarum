@@ -1,0 +1,120 @@
+{{Starbox begin
+| name=Beta Pegasi }}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 96px; top: 65px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Pegasi (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|23|03|46.45746}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+28|04|58.0336}}<ref name=aaa474_2_653/>
+| appmag_v = 2.42<ref name=clpl4_99/>
+| constell = [[Pegasus (constellation)|Pegasus]]
+}}
+{{Starbox character
+| class    = M2.3&nbsp;II-III<ref name=SIMBAD />
+| b-v      = +1.67<ref name=clpl4_99/>
+| u-b      = +1.96<ref name=clpl4_99/>
+| variable = [[semi-regular variable|Semi-regular]]<ref name=mnras400_4_1945/>
+}}
+{{Starbox astrometry
+| radial_v = +8.7<ref name=gcsrv/>
+| prop_mo_ra  = +187.65<ref name=aaa474_2_653/>
+| prop_mo_dec = +136.93<ref name=aaa474_2_653/>
+| parallax = 16.64
+| p_error  = 0.15
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = -1.49
+}}
+{{Starbox detail
+| mass     = 2.1<ref name=tsuji2007/>
+| radius   = 95<ref name=Kaler />
+| luminosity  =
+| temperature = 3,689<ref name=aaa480_1_91/>
+| gravity  = 1.20<ref name=aaa480_1_91/>
+| metal_fe = –0.11<ref name=aaa480_1_91/>
+| rotational_velocity = 9.7<ref name=aj135_1_209/>
+| age      = 
+}}
+{{Starbox catalog
+| names = Scheat, 53 Peg, [[Harvard Revised catalogue|HR]] 8775, [[Bonner Durchmusterung|BD]] +27°4480, [[Henry Draper catalogue|HD]] 217906, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 90981, FK5 870, [[Hipparcos catalogue|HIP]] 113881.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+217906
+}}
+{{Starbox end}}
+
+'''Beta Pegasi''' (β Peg, β Pegasi) is a [[star]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. The [[apparent visual magnitude]] of this star averages 2.42, making it the second brightest star in the constellation after [[Epsilon Pegasi]]. Its traditional name is '''Scheat''',<ref name=allen1899/> a name that has also been used for [[Delta Aquarii]]. According to [[Richard Hinckley Allen|Richard H. Allen]], this name comes from the Arabic '''Al Sā'id''' for 'the upper arm', or from '''Sa'd'''. Arabian astronomers named it '''Mankib al Faras''', meaning the "Horse's shoulder". It forms the upper right corner of the [[Great Square of Pegasus]],<ref name=allen1899/> a prominent rectangular [[Asterism (astronomy)|asterism]].
+
+Based upon [[parallax]] measurements, Beta Pegasi is located about {{Convert|196|ly|pc|abbr=off|lk=on}} from the Earth.<ref name=aaa474_2_653/> It is unusual among bright stars in having a relatively cool surface temperature compared to stars like the [[Sun]].<ref name=Kaler/> This star has a [[stellar classification]] of M2.3&nbsp;II-III,<ref name=SIMBAD /> which indicates the spectrum has the characteristics of a star part way between a [[subgiant]] and a [[red giant]]. It has expanded until it is some 95 times as large, and has a total [[luminosity]] of 1500 times that of the Sun.<ref name=Kaler/> The [[effective temperature]] of the star's outer envelope is about 3,700&nbsp;K,<ref name=aaa480_1_91/> giving the star the characteristic orange-red hue of an M-type star.<ref name=csiro/> The [[photosphere]] is sufficiently cool for molecules of [[Titanium(II) oxide|titanium oxide]] to form.<ref name=jbaa106_1_11/>
+
+Beta Pegasi is a [[semi-regular variable]] with a period of 43.3 days<ref name=mnras400_4_1945/> and a brightness that varies from [[apparent magnitude|magnitude]] +2.31 to +2.74.<ref name=var/> It is losing mass at a rate at or below 10<sup>–8</sup> times the [[Solar mass|Sun's mass]] per year, which is creating an expanding shell of gas and dust with a radius of about 3,500 times the [[Solar radius|Sun's radius]] (16 [[Astronomical Unit]]s).<ref name=aaa265_2_711/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa480_1_91>{{citation | display-authors=1 | last1=Soubiran | first1=C. | last2=Bienaymé | first2=O. | last3=Mishenina | first3=T. V. | last4=Kovtyukh | first4=V. V. | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants | journal=Astronomy and Astrophysics | year=2008 | volume=480 | issue=1 | pages=91–101 | bibcode=2008A&A...480...91S | doi=10.1051/0004-6361:20078788 |arxiv = 0712.1370 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+217906 | title =V* bet Peg  -- Pulsating variable Star | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[SIMBAD]] | accessdate=2010-01-05 }}</ref>
+
+<ref name=mnras400_4_1945>{{citation | display-authors=1 | last1=Tabur | first1=V. | last2=Bedding | first2=T. R. | last3=Kiss | first2=L. L. | last3=Moon | first3=T. T. | last4=Szeidl | first4=B. | last5=Kjeldsen | first5=H. | title=Long-term photometry and periods for 261 nearby pulsating M giants | journal=Monthly Notices of the Royal Astronomical Society | volume=400 | issue=4 | pages=1945–1961 | month=December | year=2009 | doi=10.1111/j.1365-2966.2009.15588.x | bibcode=2009MNRAS.400.1945T |arxiv = 0908.3228 }}</ref>
+
+<ref name=Kaler>{{citation | url=http://stars.astro.illinois.edu/sow/scheat.html | title=SCHEAT (Beta Pegasi) | work=Stars | first1=James B. | last1=Kaler | publisher=University of Illinois | date=May 22, 2009 | accessdate=2010-01-05 }}</ref>
+
+<ref name=var>{{citation | title=Query= bet Peg | url=http://www.sai.msu.su/gcvs/cgi-bin/search.cgi?search=bet+Peg | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[General Catalogue of Variable Stars]] | accessdate=2010-01-05}}</ref>
+
+<ref name=allen1899>{{citation | last1=Allen | first1=Richard Hinckley | year=1899 | title=Star Names: Their Lore and Meaning | publisher=[[Dover Publications]] Inc. | location=[[New York City|New York]], [[New York|NY]] | isbn=0-486-21079-0 | page=325 | authorlink=Richard Hinckley Allen | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA325 }}</ref>
+
+<ref name=aaa265_2_711>{{citation | last1=Mauron | first1=N. | last2=Caux | first2=E. | title=K I/Na I scattering observations in circumstellar envelopes - Alpha(1) Herculis, Omicron Ceti, TX PISCIUM and Beta Pegasi | journal=Astronomy and Astrophysics | volume=265 | issue=2 | pages=711–725 | month=November | year=1992 | bibcode=1992A&A...265..711M }}. Solar Radius = 0.0046491 AU.</ref>
+
+<ref name=jbaa106_1_11>{{citation | last1=Gavin | first1=M. | title=Stellar spectroscopy with CCDs - some preliminary results | journal=Journal of the British Astronomical Association | volume=106 | issue=1 | pages=11–15 | month=February | year=1996 | bibcode=1996JBAA..106...11G }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=tsuji2007>{{citation | last1=Tsuji | first1=Takashi | contribution=Isotopic abundances of Carbon and Oxygen in Oxygen-rich giant stars | title=Convection in Astrophysics, Proceedings of IAU Symposium #239 held 21-25 August, 2006 in Prague, Czech Republic | editor1-first=F. | editor1-last=Kupka | editor2-first=I. | editor2-last=Roxburgh | editor3-first=K. | editor3-last=Chan | pages=307–310 | month=May | year=2007 | doi=10.1017/S1743921307000622 | bibcode=2007IAUS..239..307T |arxiv = astro-ph/0610180 }}</ref>
+
+}}
+
+{{Sky|23|03|46.458|+|28|04|58.04|200}}
+{{Stars of Pegasus}}
+
+[[Category:Bayer objects|Pegasi, Beta]]
+[[Category:Pegasus (constellation)]]
+[[Category:M-type bright giants]]
+[[Category:M-type giants]]
+[[Category:Irregular variables]]
+[[Category:Stars with proper names]]
+
+[[ar:الساعد (نجم)]]
+[[ca:Scheat]]
+[[de:Scheat]]
+[[es:Scheat]]
+[[eo:Beto Pegaza]]
+[[fa:ساعد الفرس]]
+[[fr:Beta Pegasi]]
+[[ko:페가수스자리 베타]]
+[[hi:बेटा पॅगासाई तारा]]
+[[id:Beta Pegasi]]
+[[it:Scheat]]
+[[lb:Scheat]]
+[[nl:Scheat]]
+[[ja:シェアト]]
+[[pl:Scheat]]
+[[pt:Beta Pegasi]]
+[[ru:Бета Пегаса]]
+[[sk:Scheat]]
+[[fi:Beta Pegasi]]
+[[tt:Сагыйд]]
+[[uk:Бета Пегаса]]
+[[zh:室宿二]]

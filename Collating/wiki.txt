@@ -1,0 +1,292 @@
+Searching for Theta Eridani...DEMARKED
+{{Starbox begin
+ | name     = Acamar, θ Eri
+}}
+{{Starbox image
+ | image    = [[File:Eridanus constellation map.png|250px]] 
+ | caption  = Acamar is the θ star in the lower right of the map
+}}
+{{Starbox observe 
+ | epoch    = J2000 
+ | ra       = {{RA|02|58|15.67525}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | dec      = {{DEC|-40|18|16.8524}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | appmag_v = 3.2<ref name="SIMBAD" />
+ | constell = [[Eridanus (constellation)|Eridanus]]
+}}
+{{Starbox character 
+ | class    = A3IV-V<ref name="SIMBAD" />  
+ | b-v      = 0.14<ref name=VizieR/>
+ | u-b      = 0.14<ref name="VizieR" />  
+ | variable = suspected
+}}
+{{Starbox astrometry 
+ | radial_v = 11.9 <ref name="SIMBAD" />  
+ | prop_mo_ra  = -52.89<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | prop_mo_dec = +21.98<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | parallax = 20.23
+ | p_error  = 0.55
+ | parallax_footnote = <ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | absmag_v = 0.44
+}}
+{{Starbox detail
+ | component1 = θ<sup>1</sup> Eri
+ | mass     = 2.6<ref name="kaler"/>
+ | radius   = 16.0<ref name=aaa421_241/>
+ | luminosity  = 96<ref name="kaler" /> 
+ | temperature = 8,200<ref name="kaler" /> 
+ | rotational_velocity = 70<ref name="SIMBAD" />
+ | rotation = 569 days<ref name=aaa421_241/>
+ | component2 = θ<sup>2</sup> Eri
+ | mass2    = 2.4<ref name="kaler"/>
+ | luminosity2 = 36<ref name="kaler" />
+ | temperature2 = 9,200<ref name="kaler" /> 
+ | rotational_velocity2 = 90<ref name="SIMBAD" />
+}}
+{{Starbox catalog
+| names='''θ<sup>1</sup> Eri''', [[Henry Draper catalogue|HD]] 18622, [[Hipparcos catalogue|HIP]] 13847, [[Harvard Revised catalogue|HR]] 897, [[Catalogue of Components of Double and Multiple Stars|CCDM]] J02583-4018A, [[Catalogues of Fundamental Stars|FK5]] 106, NSV 01002, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]] 216113, [[Washington Double Star Catalog|WDS]] 02583-4018A  
+----
+'''θ<sup>2</sup> Eri''', [[Henry Draper catalogue|HD]] 18623, [[Hipparcos catalogue|HIP]] 13847, [[Harvard Revised catalogue|HR]] 898, [[Catalogue of Components of Double and Multiple Stars|CCDM]] J02583-4018B, NSV 01002, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]] 216114, [[Washington Double Star Catalog|WDS]] 02583-4018B
+}}
+{{Starbox reference
+| Simbad=HD+18622
+}}
+{{Starbox end}}
+DEMARKED
+$VAR1 = {
+          'ra' => '02, 58, 15.67525',
+          'declination' => '-40, 18, 16.8524'
+        };
+
+Searching for Alpha Eridani...DEMARKED
+{{Starbox begin 
+| name = Achernar 
+}}
+{{Starbox image 
+| image = [[File:Position Alpha Eri.png|250px]] 
+| caption = The position of Achernar (lower right). 
+}}
+{{Starbox observe 
+| epoch = J2000 
+| constell = [[Eridanus (constellation)|Eridanus]] 
+| ra = {{RA|01|37|42.84548}}<ref name=aaa474_2_653/>
+| dec = {{DEC|–57|14|12.3101}}<ref name=aaa474_2_653/>
+| appmag_v = 0.445<ref name=mnassa31_69/>
+}}
+{{Starbox character
+| class = B6 Vep<ref name=aaaa506_2_1055/>
+| b-v = −0.17<ref name=mnassa31_69/>
+| u-b = −0.64<ref name=mnassa31_69/>
+| variable=Lambda Eridani
+}}
+{{Starbox astrometry 
+| radial_v = +16<ref name=rgcrv/>
+| prop_mo_ra = 87.00 ± 0.58<ref name=aaa474_2_653/>
+| prop_mo_dec = −38.24 ± 0.50<ref name=aaa474_2_653/>
+| gal_lat = −58.7920 
+| gal_lon = 290.8412 
+| parallax = 23.39
+| p_error = 0.57 
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v =  
+}}
+{{Starbox detail
+| age = 1–5 × 10<sup>8</sup>{{Citation needed|date=December 2011}}
+| metal_fe = 
+| mass = 6–8<ref name=kaler/>
+| radius = 7.3 × 11.4<ref name=apj676_1_L41/>
+| rotational_velocity = 250<ref name=aaa493_3_L53/>
+| luminosity = 3,150<ref name=apj676_1_L41/>
+| gravity = 3.5<ref name=aaa493_3_L53/>
+| temperature = ~15,000<ref name=aaa493_3_L53/>
+}}
+{{Starbox catalog
+| names=α Eri, [[Harvard Revised catalogue|HR]] 472, [[Cordoba Durchmusterung|CD]] -57°334, [[Henry Draper catalogue|HD]] 10144, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 232481, FK5 54, [[Hipparcos catalogue|HIP]] 7588,<ref name="SIMBAD"/> 水委一. }}
+{{Starbox end}}
+DEMARKED
+$VAR1 = {
+          'ra' => '01, 37, 42.84548'
+        };
+
+Searching for Alpha Crucis...DEMARKED
+{{Starbox begin
+| name=Acrux AB
+}}
+{{Starbox image
+| image=[[File:Acrux kstars.png|250px]]
+| caption=The position of Acrux.
+}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Crux]]
+| ra       = {{RA|12|26|35.89522}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| dec      = {{DEC|-63|05|56.7343}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| appmag_v = 0.77
+}}
+{{Starbox character
+| class    = B0.5IV + B1V<ref name=houk1979/>
+| b-v      = 
+| u-b      = 
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –11.2 / -0.6<ref name=gcsrv53/>
+| prop_mo_ra  = -35.83<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| prop_mo_dec = -14.86<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| gal_lat  = -00.3627
+| gal_lon  = 300.1266
+| parallax = 10.13
+| p_error  = 0.50
+| parallax_footnote = <ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| absmag_v = -4.14
+}}
+{{Starbox detail
+| age      = 
+| metal_fe = 
+| mass     = 14 / 10 
+| radius   = 
+| rotation = 
+| luminosity  = 25,000 
+| rotational_velocity = 124<ref name=crv21970/>
+| temperature = 28,000
+}}
+{{Starbox visbin
+| name=&alpha; Crucis Ab
+| period=0.208
+| axis=1.0 [[Astronomical unit|AU]]
+| eccentricity=0.0
+| inclination=0.0
+| node=
+| periastron=
+}}
+{{Starbox reference
+| Simbad=CCDM+J12266-6306AB
+}}
+{{Starbox end}}
+DEMARKED
+$VAR1 = {
+          'ra' => '12, 26, 35.89522',
+          'declination' => '-63, 05, 56.7343'
+        };
+
+Searching for Alpha Cancri...DEMARKED
+{{Starbox begin |
+| name=Acubens, α Cancri}}
+{{Starbox image |
+| image =[[Image:Cancer constellation map.png|250px]] 
+| caption = Acubens is the α star in the "crab"
+}} 
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Cancer (constellation)|Cancer]]
+|ra={{RA|08|58|29.2217}}<ref name="sb0">{{cite web
+|url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NSV+4327&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+| title =SIMBAD query result: alf Cnc -- Variable Star
+| publisher =Centre de Données astronomiques de Strasbourg
+| accessdate = 2009-09-20}}</ref>
+| dec = {{DEC|+11|51|27.723}}<ref name=sb0 />
+| appmag_v=4.20 to 4.27<ref name=nsv1>NSV 4327, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line October 20, 2009.</ref>
+}}
+{{Starbox character
+| class = A5m<ref name=sb0 />
+| u-b = +0.15<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=3572 HR 3572], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line October 20, 2009.</ref>
+| b-v = +0.14<ref name=bsc2 />
+| r-i = +0.04<ref name=bsc2 />
+}}
+{{Starbox astrometry
+| radial_v = −13.8 ± 2<ref name=sb0 />
+| prop_mo_ra = 41.45<ref name=sb0 />
+| prop_mo_dec = −29.22<ref name=sb0 />
+| parallax = 18.79
+| p_error = 0.99
+| parallax_footnote = <ref name="aaa323">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+| absmag_v=0.6<ref>From apparent magnitude and parallax.</ref>
+}}
+{{Starbox detail 
+  |mass=2<ref name="kaler">{{cite web
+  |title=ACUBENS (Alpha Cancri)
+  |publisher=University of Illinois
+  |author=Professor James B. (Jim) Kaler
+  |url=http://stars.astro.illinois.edu/sow/acubens.html
+  |accessdate=2010-05-13}}</ref> 
+  |radius = 1.0<ref name=cadars3>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=II/224/cadars.dat&recno=4410 HD 76756], database entry, Catalog of Apparent Diameters and Absolute Radii of Stars (CADARS), 3rd edition, L. E. Pasinetti-Fracassini, L. Pastori, S. Covino, and A. Pozzi, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?II/224 II/224].  Accessed on line October 20, 2009.</ref> 
+  |luminosity=23<ref name="kaler" /> 
+  |temperature=
+  |metal= 
+  |rotational_velocity=75<ref name="aaa393">{{cite journal
+  | author=Royer, F.; Grenier, S.; Baylac, M.-O.; Gómez, A. E.; Zorec, J.
+  | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere
+  | journal=Astronomy and Astrophysics
+  | year=2002
+  | volume=393
+  | issue=3
+  | pages=897–911
+  | format=PDF 
+  | bibcode=2002A&A...393..897R
+  | doi=10.1051/0004-6361:20020943|arxiv = astro-ph/0205255 }}</ref>
+  |age=  }}
+{{Starbox catalog
+| names=Acubens, Sertan, Sartan, α Cnc, Alpha Cancri, Alpha Cnc, [[Flamsteed designation|65 Cancri]], 65 Cnc, [[Aitken Double Star Catalogue|ADS]] 7115 A, [[Durchmusterung|BD]]+12 1948, [[Catalog of Components of Double and Multiple Stars|CCDM]] J08585+1151A, [[Fifth Fundamental Catalogue|FK5]] 337, [[Boss General Catalogue|GC]] 12406, [[Henry Draper Catalogue|HD]] 76756, [[Hipparcos Catalogue|HIP]] 44066, [[Bright Star Catalogue|HR]] 3572, [[Index Catalogue of Visual Double Stars|IDS]] 08530+1215 A, [[PPM Star Catalogue|PPM]] 125972, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 98267.<ref name=sb0 /><ref name=bsc2 />}}
+{{Starbox reference
+| Simbad=alpha+cancri}}
+{{Starbox end}}
+DEMARKED
+$VAR1 = {
+          'ra' => '08, 58, 29.2217'
+        };
+
+Searching for Epsilon Canis Majoris...DEMARKED
+{{Starbox begin
+ | name=ε Canis Majoris
+}}
+{{Starbox observe
+ | epoch=J2000
+ | constell=[[Canis Major]]
+ | ra={{RA|06|58|37.6}}
+ | dec={{DEC|–28|58|19}}
+ | appmag_v=1.50
+}}
+{{Starbox character
+ | class=B2 II
+ | b-v=–0.13
+ | u-b=–0.93
+ | variable=
+}}
+{{Starbox astrometry
+ | radial_v=+27.3
+ | prop_mo_ra=+2.63<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | prop_mo_dec=+2.29<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | parallax=7.57
+ | p_error=0.57
+ | parallax_footnote=<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | absmag_v=–4.11
+}}
+{{Starbox detail
+ | age_myr=22.5 ± 2.6<ref name=mnras410_1_190/>
+ | metal_fe=
+ | mass=12.6 ± 1.0<ref name=mnras410_1_190/>
+ | radius=13.9<ref name=mnras189_601/>
+ | gravity=3.31<ref name=mnras351_2_745/>
+ | rotation=
+ | luminosity=38,700<ref name=mnras351_2_745/>
+ | temperature=22,200<ref name=mnras351_2_745/>
+}}
+{{Starbox catalog |
+  names=Adhara, Adharaz, Undara, [[Bayer designation|&epsilon; CMa]], [[Flamsteed designation|21 CMa]], [[Star catalogue#ADS|ADS]] 5654, [[Cordoba Durchmusterung|CoD]] -28°3666, [[Fifth Fundamental Catalogue|FK5]] 268, [[Henry Draper catalogue|HD]] 52089, [[Hipparcos catalogue|HIP]] 33579, [[Harvard Revised catalogue|HR]] 2618, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 172676.
+}}
+{{Starbox reference
+ | Simbad=HD+52089
+}}
+{{Starbox end}}
+DEMARKED
+$VAR1 = {
+          'ra' => '06, 58, 37.6'
+        };
+

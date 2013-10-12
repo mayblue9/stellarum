@@ -1,0 +1,113 @@
+{{Starbox begin
+ | name=Theta Scorpii
+}}
+{{Starbox image 
+ | image = <div style="position: relative">[[file:Scorpius constellation map.svg|250px]]
+     <div style="position: absolute; left:22.5%; top:85.5%">[[File:Locator Dot2.gif|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+ | caption = The position of θ Scorpii in the Scorpius constellation.
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|17|37|19.12985}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–42|59|52.1808}}<ref name=aaa474_2_653/>
+ | appmag_v = +1.87<ref name=clpl4_99/>
+ | constell = [[Scorpius]]
+}}
+{{Starbox character
+ | class    = F0&nbsp;II<ref name=houk1978/>
+ | b-v      = +0.40<ref name=clpl4_99/>
+ | u-b      = +0.21<ref name=clpl4_99/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +1.4<ref name=gcsrv/>
+ | prop_mo_ra  = +5.54<ref name=aaa474_2_653/>
+ | prop_mo_dec = –3.12<ref name=aaa474_2_653/>
+ | parallax = 10.86
+ | p_error  = 1.49
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = {{nowrap|5.66 ± 0.65}}<ref name=an331_4_349/>
+ | radius   = 26<ref name=CADARS/>
+ | luminosity  = 1,834<ref name=an331_4_349/>
+ | temperature = 7,268<ref name=an331_4_349/>
+ | metal_fe = 
+ | gravity  = 2.4 ± 0.2<ref name=ap28_3_335/>
+ | rotational_velocity = 
+ | age_myr  = 
+}}
+{{Starbox catalog
+ | names=Sargas, Girtab, 160 G. Scorpii, [[Catalog of Components of Double and Multiple Stars|CCDM]] 17373-4300, [[Catalogues of Fundamental Stars|FK5]] 654, [[Henry Draper catalogue|HD]] 159532, [[Hipparcos catalogue|HIP]] 86228, [[Harvard Revised catalogue|HR]] 6553, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 228201.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Theta Scorpii''' (θ Sco, θ Scorpii) is a [[star]] in the southern [[zodiac]] [[constellation]] of [[Scorpius]]. It has the traditional name '''Sargas''', of [[Sumer]]ian origin.<ref name=burnham1978/> In Chinese, it is referred to as 尾宿五 ([[Mandarin Chinese|Mandarin]]: wěi xiù wǔ), the Fifth Star of the Tail.{{citation needed|date=March 2012}} The [[apparent visual magnitude]] of this star is +1.87,<ref name=clpl4_99/> making it readily visible to the naked eye and one of the [[List of brightest stars|brightest stars]] in the night sky. It is sufficiently near that the distance can be measured directly using the [[parallax]] technique, which yields an estimate of roughly 300&nbsp;[[light year]]s (90&nbsp;[[parsec]]s).<ref name=aaa474_2_653/>
+
+This is an [[stellar evolution|evolved]] [[bright giant]] star with a [[stellar classification]] of F0&nbsp;II.<ref name=houk1978/> With a mass 5.7 times that of the Sun, it has expanded to about 26<ref name=CADARS/> times the Sun's radius. It is radiating 1,834<ref name=an331_4_349/> times as much luminosity as the Sun from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 7,268,<ref name=an331_4_349/> giving it the yellow-white hued glow of an [[F-type star]].
+
+It has a magnitude 5.36 companion at an [[angular separation]] of 6.470&nbsp;[[arcsecond]]s.<ref name=mnras389_2_869/>
+
+==Modern legacy==
+Sargas appears on the  [[flag of Brazil]], symbolising the state of [[Alagoas]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=2 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1978mcts.book.....H }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=ap28_3_335>{{citation | first1=Z. A. | last1=Samedov | title=Investigation of the atmospheres of the stars ι1 Sco (F2 Ia) and θ Sco (F1 II) | journal=Astrophysics | volume=28 | issue=3 | pages=335–341 | doi=10.1007/BF01112969 |bibcode = 1988Ap.....28..335S }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=tet Sco -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Theta+Scorpii | accessdate=2012-02-18 }}</ref>
+
+<ref name=CADARS>{{citation | display-authors=1 | last1=Pasinetti-Fracassini | first1=L. E. | last2=Pastori | first2=L. | last3=Covino | first3=S. | last4=Pozzi | first4=A. | month=November | year=2000 | title=Catalogue of Stellar Diameters (CADARS) | journal=Astronomy and Astrophysics | volume=367 | pages=521–524 | month=February | year=2001 | doi=10.1051/0004-6361:20000451 | bibcode=2001A&A...367..521P |arxiv = astro-ph/0012289 }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | title=Burnham's celestial handbook: an observer's guide to the universe beyond the solar system | volume=3 | series=Dover books explaining science | edition=2 | publisher=Courier Dover Publications | year=1978 | isbn=0-486-23673-0 | page=1676 | url=http://books.google.com/books?id=PJzIt3SIlkUC&pg=PA1676 }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/girtab.html Theta Sco]
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Theta]]
+[[Category:Binary stars]]
+[[Category:Scorpius (constellation)]]
+[[Category:F-type bright giants]]
+[[Category:Stars with proper names]]
+
+[[ca:Sargas]]
+[[de:Sargas]]
+[[es:Sargas]]
+[[fa:سرگس]]
+[[fr:Theta Scorpii]]
+[[ko:사르가스]]
+[[hi:थेटा स्कोर्पाए तारा]]
+[[it:Sargas]]
+[[he:סרגס]]
+[[lb:Sargas (Stär)]]
+[[lt:Sargasas]]
+[[nl:Sargas]]
+[[ja:サルガス]]
+[[pl:Sargas]]
+[[pt:Theta Scorpii]]
+[[ru:Саргас]]
+[[sk:Sargas]]
+[[fi:Theta Scorpii]]
+[[zh:尾宿五]]

@@ -1,0 +1,93 @@
+{{Starbox begin 
+| name = Delta Eridani 
+}}
+{{Starbox observe 
+| epoch    = J2000 
+| constell = [[Eridanus (constellation)|Eridanus]] 
+| ra       = {{RA|03|43|14.90}}<ref name="hipparcos"/>
+| dec      = {{DEC|–09|45|48.2}}<ref name="hipparcos"/>
+| appmag_v = 3.54 
+}}
+{{Starbox character
+| class    = K0 IV
+| b-v      = 0.92
+| u-b      = 0.69
+| variable = ''Suspected''
+}}
+{{Starbox astrometry 
+| radial_v = –6
+| prop_mo_ra  = –93.16 ± 0.29<ref name="hipparcos"/>
+| prop_mo_dec = +743.64 ± 0.22<ref name="hipparcos"/>
+| gal_lat  = –45.9958 
+| gal_lon  = 198.0872 
+| parallax = 110.61
+| p_error  = 0.29
+| parallax_footnote = <ref name="hipparcos"/>
+| absmag_v = 3.77<ref name=aaa361_614/>
+}}
+{{Starbox detail
+| age      = 
+| metal_fe = 0.13<ref name=aaa526_A100/>
+| mass     = {{nowrap|1.33 ± 0.07}}<ref name=mnras405_3_1907/>
+| radius   = {{nowrap|2.327 ± 0.029}}<ref name=mnras405_3_1907/>
+| gravity  = 3.9<ref name="aaa259"/>
+| rotational_velocity = 1.0<ref name=aaa361_614/>
+| luminosity  = {{nowrap|3.00 ± 0.12}}<ref name=mnras405_3_1907/>
+| temperature = 5,055<ref name=aaa526_A100/>
+}}
+{{Starbox catalog
+| names=δ Eridani, 23 Eridani, [[Henry Draper catalogue|HD]] 23249, [[Harvard Revised catalogue|HR]] 1136, [[Bonner Durchmusterung|BD]]-10°728, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 788, [[Gliese-Jahreiss catalogue|GJ]] 150, [[Luyten Half-Second catalogue|LHS]] 1581, and [[Hipparcos Catalogue|HIP]] 17378. }}
+{{Starbox end}}
+'''Delta Eridani''' (δ Eri, δ Eridani) is a 3.54 magnitude [[star]] in the [[constellation]] of [[Eridanus (constellation)|Eridanus]].  It is also called '''Rana'''. The name [[Rana (genus)|Rana]] means "the [[frog]]" in [[Latin]]<ref>[http://www.constellationsofwords.com/stars/Rana.html Constellations of Words - Eridanus (Rana)]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天苑}} ({{lang|zh-Latn|Tiān Yuàn}}), meaning ''[[Hairy Head (Chinese constellation)|Celestial Meadows]]'', refers to an [[Asterism (astronomy)|asterism]] consisting of δ Eridani, [[Gamma Eridani|γ Eridani]], [[Pi Eridani|π Eridani]], [[Epsilon Eridani|ε Eridani]], [[Zeta Eridani|ζ Eridani]], [[Eta Eridani|η Eridani]], [[Pi Ceti|π Ceti]], [[Tau1 Eridani|τ<sup>1</sup> Eridani]], [[Tau2 Eridani|τ<sup>2</sup> Eridani]], [[Tau3 Eridani|τ<sup>3</sup> Eridani]], [[Tau4 Eridani|τ<sup>4</sup> Eridani]], [[Tau5 Eridani|τ<sup>5</sup> Eridani]], [[Tau6 Eridani|τ<sup>6</sup> Eridani]], [[Tau7 Eridani|τ<sup>7</sup> Eridani]], [[Tau8 Eridani|τ<sup>8</sup> Eridani]] and [[Tau9 Eridani|τ<sup>9</sup> Eridani]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Eridani itself is known as {{lang|zh|天苑三}} ({{lang|zh-Latn|Tiān Yuàn sān}}, {{lang-en|the Third Star of Celestial Meadows}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Structure==
+
+This star is relatively near to the [[Sun]], at a measured distance of about 29 [[light year]]s. It is sometime listed as a [[RS Canum Venaticorum variable|RS Canum Venaticorum]]-type [[variable star]], but this is likely to be an error. (It is currently a ''suspected'' variable.) Rana is a sub-giant star that is near the end of its [[hydrogen]]-burning cycle and is now consuming [[helium]]. This has caused the star to expand and become hotter than a comparable main sequence star. As a sub-giant star it is subject to pulsations in its atmosphere.
+
+[[Radial velocity]] surveys of this star have thus far failed to discern any [[gas giant]]s in orbit.
+
+==References==
+{{reflist|refs=
+
+<ref name="hipparcos">{{cite web | url=http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=I/311/hip2&recno=17335 | title=HIP 17378 | work=Hipparcos, the New Reduction | last1=van Leeuwen | first1=F. | year=2007 | accessdate=2009-12-11 }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P }}</ref>
+
+<ref name="aaa259">{{cite journal | last1=Morell | first1=O. | last2=Kallander | first2=D. | last3=Butcher | first3=H. R | title=The age of the Galaxy from thorium in G dwarfs, a re-analysis | journal=Astronomy and Astrophysics | year=1999 | volume=259 | issue=2 | pages=543–548 | bibcode=1992A&A...259..543M }}</ref>
+
+<ref name=mnras405_3_1907>{{citation | display-authors=1 | last1=Bruntt | first1=H. | last2=Bedding | first2=T. R. | last3=Quirion | first3=P.-O. | last4=Lo Curto | first4=G. | last5=Carrier | first5=F. | last6=Smalley | first6=B. | last7=Dall | first7=T. H. | last8=Arentoft | first8=T. | last9=Bazot | first9=M. | title=Accurate fundamental parameters for 23 bright solar-type stars | journal=Monthly Notices of the Royal Astronomical Society | volume=405 | issue=3 | pages=1907-1923 | month=July | year=2010 | doi=10.1111/j.1365-2966.2010.16575.x | bibcode=2010MNRAS.405.1907B |arxiv = 1002.4268 }}</ref>
+
+}}
+* Fisher, G. F., Hall, D. S., Henry, G. W., Landis, H. J., Renner, T. R., and Shore, S. N., "Delta Eridani: A Very Bright New Variable Star,", ''Information Bulletin on Variable Stars'', No. 2259, 1983.
+* Eaton, J. A.; Poe, C. H., "Limits on the Variability of epsilon Eridani and delta Eridani", ''Information Bulletin on Variable Stars'', 2712, 1985.
+{{reflist}}
+
+==External links==
+* [[Jim Kaler]]'s page on [http://www.astro.uiuc.edu/projects/sow/rana.html Rana]
+* [http://www.solstation.com/stars/rana.htm SolStation entry]
+* [http://nstars.arc.nasa.gov/searches/starinfo.cfm?partb=0343m0945&starpage=0 nStars entry]
+{{Nearest systems|6}}
+{{Stars of Eridanus}}
+
+[[Category:Bayer objects|Eridani, Delta]]
+[[Category:Eridanus (constellation)]]
+[[Category:K-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[de:Delta Eridani]]
+[[es:Rana (estrella)]]
+[[fa:رانا (ستاره)]]
+[[fr:Delta Eridani]]
+[[ko:에리다누스자리 델타]]
+[[id:Delta Eridani]]
+[[it:Rana (astronomia)]]
+[[lb:Rana (Stär)]]
+[[nl:Rana (ster)]]
+[[pt:Delta Eridani]]
+[[ru:Рана (звезда)]]
+[[sk:Rana (hviezda)]]
+[[zh:天苑三]]

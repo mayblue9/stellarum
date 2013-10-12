@@ -1,0 +1,154 @@
+{{redirect|Achenar|the character in the ''Myst'' series|Achenar (Myst)}}
+{{Starbox begin 
+| name = Achernar 
+}}
+{{Starbox image 
+| image = [[File:Position Alpha Eri.png|250px]] 
+| caption = The position of Achernar (lower right). 
+}}
+{{Starbox observe 
+| epoch = J2000 
+| constell = [[Eridanus (constellation)|Eridanus]] 
+| ra = {{RA|01|37|42.84548}}<ref name=aaa474_2_653/>
+| dec = {{DEC|–57|14|12.3101}}<ref name=aaa474_2_653/>
+| appmag_v = 0.445<ref name=mnassa31_69/>
+}}
+{{Starbox character
+| class = B6&nbsp;Vep<ref name=aaaa506_2_1055/>
+| b-v = −0.17<ref name=mnassa31_69/>
+| u-b = −0.64<ref name=mnassa31_69/>
+| variable=Lambda Eridani
+}}
+{{Starbox astrometry 
+| radial_v = +16<ref name=rgcrv/>
+| prop_mo_ra = {{nowrap|87.00 ± 0.58}}<ref name=aaa474_2_653/>
+| prop_mo_dec = {{nowrap|−38.24 ± 0.50}}<ref name=aaa474_2_653/>
+| gal_lat = −58.7920 
+| gal_lon = 290.8412 
+| parallax = 23.39
+| p_error = 0.57 
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v =  
+}}
+{{Starbox detail
+| age = {{nowrap|1–5 × 10<sup>8</sup>}}{{Citation needed|date=December 2011}}
+| metal_fe = 
+| mass = 6–8<ref name=kaler/>
+| radius = {{nowrap|7.3 × 11.4}}<ref name=apj676_1_L41/>
+| rotational_velocity = 250<ref name=aaa493_3_L53/>
+| luminosity = 3,150<ref name=apj676_1_L41/>
+| gravity = 3.5<ref name=aaa493_3_L53/>
+| temperature = ~15,000<ref name=aaa493_3_L53/>
+}}
+{{Starbox catalog
+| names=α Eri, [[Harvard Revised catalogue|HR]] 472, [[Cordoba Durchmusterung|CD]] -57°334, [[Henry Draper catalogue|HD]] 10144, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 232481, FK5 54, [[Hipparcos catalogue|HIP]] 7588,<ref name="SIMBAD"/> 水委一. }}
+{{Starbox end}}
+'''Achernar''' (α Eri, α Eridani, [[alpha (letter)|Alpha]] Eridani), sometimes spelled '''Achenar''', is the brightest star in the [[constellation]] [[Eridanus (constellation)|Eridanus]] and the [[list of brightest stars|ninth-brightest star]] in the night sky. Of the top ten apparent brightest stars (excluding our Sun)—[[Sirius]], [[Canopus]], [[Alpha Centauri]], [[Arcturus]], [[Vega]], [[Capella (star)|Capella]], [[Rigel]], [[Procyon]], Achernar and [[Betelgeuse]]—Achernar is the hottest and bluest. It lies at the southern tip of the constellation.
+
+[[File:Achernar.jpg|thumb|left|170px|Extreme rotation speed has [[Oblate spheroid|flattened]] Achernar.]]
+
+Achernar is a bright, blue star with about six to eight [[solar mass]]es<ref name=kaler/>. As determined by the [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49/><ref name=GSM/> it is approximately {{convert|139|ly|pc|lk=on}} away.<ref name=aaa474_2_653/> It is a [[main sequence]] star with a [[stellar classification]] of B6&nbsp;Vep, but is about 3,150 times more luminous than the [[Sun]]. Achernar is in the deep southern sky and never rises above the horizon beyond 33°N, roughly the latitude of [[Dallas]], Texas. Achernar is best seen from the southern hemisphere in November; it is [[Circumpolar star|circumpolar]] below 33°S.
+
+Until about March 2000, Achernar and [[Fomalhaut]] were the two [[brightest stars|first-magnitude stars]] furthest in angular distance from any other first-magnitude star in the [[celestial sphere]]. [[Antares]], in the constellation of [[Scorpius]], is now the most isolated first-magnitude star, although Antares is located in a constellation with many bright second-magnitude stars, whereas the stars surrounding Achernar and Fomalhaut are considerably fainter. 
+
+Infrared observations of the star using an adaptive optics system on the [[Very Large Telescope]] show that Achernar has a companion star in a close orbit. This appears to be an A-type star in the stellar classification range A0V–A3V, which suggests a stellar mass of about double the [[solar mass|Sun's mass]]. The separation of the two stars is roughly 12.3 [[Astronomical Unit|AU]] and their orbital period is at least 14–15 years.<ref name=aaa484_1_L13/>
+
+As of 2003, Achernar is the least [[Sphere|spherical]] star in the Milky Way studied to date.<ref>See ''“Achernar the Flattest star”'' in ''‘Sky & Telescope’'' P. 20 ''‘Newsnotes’'', September 2003.</ref> It spins so rapidly that it has assumed the shape of an [[oblate spheroid]] with an equatorial diameter 56% greater than its polar diameter. The polar axis is inclined about 65° to the line of sight from the Earth.<ref name=apj676_1_L41/> Since it is actually a binary star, its highly distorted shape may cause non-negligible departures of the companion's orbital trajectory with respect to a [[Kepler orbit|Keplerian ellipse]]. A similar situation occurs for the star [[Regulus]].
+
+Because of the distorted shape of this star, there is a significant temperature variation by latitude. At the pole, the temperature may be above 20,000&nbsp;K, while the equator is at or below 10,000&nbsp;K. The average temperature of the star is about 15,000&nbsp;K. The high polar temperatures are generating a fast polar wind that is ejecting matter from the star, creating a polar envelope of hot gas and plasma. The entire star is surrounded by an extended envelope that can be detected by its [[infrared excess|excess infrared emission]].<ref name=aaa493_3_L53/> The presence of a circumstellar disk of ionized gas is a common feature of [[Be star]]s such as this.<ref name=apj671_1_L49/>
+
+==Name and etymology==
+
+*The name originally comes from the Arabic '''{{lang|ar|آخر النهر}}''' ''{{transl|ar|ākhir an-nahr}}'', meaning, "The End of the River" or "River's End". 
+*In [[Chinese language|Chinese]], {{lang|zh|水委}} ({{lang|zh-Latn|Shuǐ Wěi}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Crooked Running Water]]'', refers to an asterism consisting of Achernar, [[Zeta Phoenicis|ζ Phoenicis]] and [[Eta Phoenicis|η Phoenicis]].<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060727.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 27 日]</ref>
+*The indigenous Boorong people of northwestern Victoria named it as ''Yerrerdetkurrk''.<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref>
+
+==In culture==
+* [[USS Achernar (AKA-53)]] was a United States Navy attack cargo ship.
+* [[Stars and planetary systems in fiction#Achernar (Alpha Eridani)|Achernar in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaaa506_2_1055>{{citation | last1=Nazé | first1=Y. | title=Hot stars observed by XMM-Newton. I. The catalog and the properties of OB stars | journal=Astronomy and Astrophysics | volume=506 | issue=2 | pages=1055–1064 | month=November | year=2009 | doi=10.1051/0004-6361/200912659 | bibcode=2009A&A...506.1055N |arxiv = 0908.1461 }}</ref>
+
+<ref name=rgcrv>{{cite conference | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=mnassa31_69>{{citation | title=UBV Photometry of Some Very Bright Stars | last1=Cousins | first1=A. W. J. | journal=Monthly Notes of the Astronomical Society, Southern Africa | volume=31 | page=69 | year=1972 | bibcode=1972MNSSA..31...69C }}</ref>
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP7588 | title=Achernar -- Be Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-02-16 }}</ref>
+
+<ref name=aaa484_1_L13>{{citation | last1=Kervella | first1=P. | last2=Domiciano de Souza | first2=A. | last3=Bendjoya | first3=Ph. | title=The close-in companion of the fast rotating Be star Achernar | journal=Astronomy and Astrophysics | volume=484 | issue=1 | pages=L13–L16 | month=June | year=2008 | doi=10.1051/0004-6361:200809765 | bibcode=2008A&A...484L..13K |arxiv = 0804.3465 }}</ref>
+
+<ref name=aaa493_3_L53>{{citation | display-authors=1 | last1=Kervella | first1=P. | last2=Domiciano de Souza | first2=A. | last3=Kanaan | first3=S. | last4=Meilland | first4=A. | last5=Spang | first5=A. | last6=Stee | first6=Ph. | title=The environment of the fast rotating star Achernar. II. Thermal infrared interferometry with VLTI/MIDI | journal=Astronomy and Astrophysics | volume=493 | issue=3 | pages=L53–L56 | month=January | year=2009 | doi=10.1051/0004-6361:200810980 | bibcode=2009A&A...493L..53K |arxiv = 0812.2531 }}</ref>
+
+<ref name=apj676_1_L41>{{citation | display-authors=1 | last1=Carciofi | first1=A. C. | last2=Domiciano de Souza | first2=A. | last3=Magalhães | first3=A. M. | last4=Bjorkman | first4=J. E. | last5=Vakili | first5=F. | title=On the Determination of the Rotational Oblateness of Achernar | journal=The Astrophysical Journal | volume=676 | issue=1 | pages=L41–L44 | month=March | year=2008 | doi=10.1086/586895 | bibcode=2008ApJ...676L..41C |arxiv = 0801.4901 }}</ref>
+
+<ref name=apj671_1_L49>{{citation | display-authors=1 | last1=Carciofi | first1=A. C. | last2=Magalhães | first2=A. M. | last3=Leister | first3=N. V. | last4=Bjorkman | first4=J. E. | last5=Levenhagen | first5=R. S. | title=Achernar: Rapid Polarization Variability as Evidence of Photospheric and Circumstellar Activity | journal=The Astrophysical Journal | volume=671 | issue=1 | pages=L49–L52  | month=December | year=2007 | doi=10.1086/524772 | bibcode=2007ApJ...671L..49C |arxiv = 0710.4163 }}</ref>
+
+<ref name=kaler>{{citation | first=James B. | last=Kaler | title=ACHERNAR (Alpha Eridani) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/achernar.html | accessdate=2011-12-20 }}</ref>
+
+}}
+
+==External links==
+*[http://www.solstation.com/x-objects/achernar.htm Achernar at solstation.com]
+*[http://arxiv.org/abs/astro-ph/0602084 Surface temperature and synthetic spectral energy distributions for rotationally deformed stars]
+
+{{Sky|01|37|42.8|-|57|14|12|144}}
+
+{{Stars of Eridanus}}
+
+[[Category:Bayer objects|Eridani, Alpha]]
+[[Category:B-type main sequence stars]]
+[[Category:Eridanus (constellation)]]
+[[Category:Henry Draper Catalogue objects|010144]]
+[[Category:Hipparcos objects|007588]]
+[[Category:HR objects|0472]]
+[[Category:Stars with proper names]]
+[[Category:Southern pole stars]]
+
+[[az:Əxrənnəhr]]
+[[bn:নদীমুখ]]
+[[be:Ахернар]]
+[[bg:Ахернар]]
+[[ca:Achernar]]
+[[cs:Achernar]]
+[[de:Achernar]]
+[[et:Achernar]]
+[[el:Αχερνάρ]]
+[[es:Achernar]]
+[[eu:Achernar]]
+[[fa:آخرالنهر]]
+[[fr:Achernar]]
+[[ga:Achernar]]
+[[ko:아케르나르]]
+[[hi:आकरनार तारा]]
+[[id:Alpha Eridani]]
+[[it:Achernar]]
+[[he:אכרנר]]
+[[ku:Alfaya Çemî]]
+[[la:Achernar]]
+[[lb:Achernar (Stär)]]
+[[lt:Achernaras]]
+[[hu:Achernar]]
+[[nl:Achernar]]
+[[ja:アケルナル]]
+[[no:Achernar]]
+[[pnb:آخرنہر]]
+[[pl:Achernar]]
+[[pt:Achernar]]
+[[ro:Achernar]]
+[[ru:Ахернар]]
+[[sk:Achernar]]
+[[fi:Achernar]]
+[[sv:Achernar]]
+[[tt:Ахирнәр]]
+[[tr:Ağız (yıldız)]]
+[[uk:Ахернар]]
+[[zh:水委一]]

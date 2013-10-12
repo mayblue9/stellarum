@@ -1,0 +1,101 @@
+{{DISPLAYTITLE:Mu<sup>1</sup> Scorpii}}
+{{Starbox begin
+ | name = Mu<sup>1</sup> Scorpii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Scorpius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Scorpius constellation and its surroundings]]
+     <div style="position: absolute; left: 45.0%; top: 60.1%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption = Location of μ<sup>1</sup> Scorpii (circled)
+}}
+{{Starbox observe 
+ | epoch       = J2000 
+ | ra          = {{RA|16|51|52.23111}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|-38|02|50.5694}}<ref name=aaa474_2_653/>
+ | appmag_v    = +3.04<ref name=apjs15_459/>
+ | constell    = [[Scorpius (constellation)|Scorpius]]
+}}
+{{Starbox character 
+ | class       = {{nowrap|B1.5 V + B6.5 V}}<ref name=mnras401_3_2059/>
+ | b-v         = –0.202<ref name=apjs15_459/>
+ | u-b         = –0.859<ref name=apjs15_459/>
+ | variable    =
+}} 
+{{Starbox astrometry 
+ | radial_v    = –25<ref name=gcsrv/>
+ | prop_mo_ra  = –10.58<ref name=aaa474_2_653/> 
+ | prop_mo_dec = –22.06<ref name=aaa474_2_653/> 
+ | parallax    = 6.51
+ | p_error     = 0.91
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = –2.9 ± 0.3<ref name=mnras401_3_2059/>
+}}
+{{Starbox orbit
+ | reference = <ref name=mnras401_3_2059/>
+ | period_unitless = 1.44627&nbsp;days
+ | axis_unitless = 12.90 ± 0.04 R<sub>☉</sub>
+ | eccentricity = 0.0
+ | inclination = 65.4 ± 1
+ | node = <!--Longitude of node (in degrees)-->
+ | periastron = 2412374.434&nbsp;[[Heliocentric Julian Day|HJD]]
+ | periarg = <!--Argument of periastron (in degrees), secondary -->
+ | periarg_primary = <!--Argument of periastron (in degrees), primary -->
+}}
+{{Starbox detail
+ | component1  = μ<sup>1</sup> Sco A
+ | mass        = {{nowrap|8.49 ± 0.05}}<ref name=mnras401_3_2059/>
+ | radius      = {{nowrap|4.07 ± 0.05}}<ref name=mnras401_3_2059/>
+ | gravity     = 
+ | metal_fe    = 
+ | rotation    = 
+ | age_myr     = 
+ | luminosity  = 
+ | temperature = {{nowrap|23,725 ± 500}}<ref name=mnras401_3_2059/>
+ | rotational_velocity = 
+ | component2  = μ<sup>1</sup> Sco B
+ | mass2       = {{nowrap|5.33 ± 0.05}}<ref name=mnras401_3_2059/>
+ | radius2     = {{nowrap|4.38 ± 0.05}}<ref name=mnras401_3_2059/>
+ | temperature2= {{nowrap|16,850 ± 500}}<ref name=mnras401_3_2059/>
+}}
+{{Starbox catalog
+ | names = Denebakrab, [[Bonner Durchmusterung|CD]]−37°11033, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1439, [[Henry Draper Catalogue|HD]]&nbsp;151890, [[Hipparcos catalogue|HIP]]&nbsp;82514, [[Harvard Revised catalogue|HR]]&nbsp;6247, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;208102.
+}}
+{{Starbox end}}	
+:''For other star systems with this [[Bayer designation]], see [[Mu Scorpii]].''
+
+'''Mu<sup>1</sup> Scorpii''' (μ<sup>1</sup> Sco, μ<sup>1</sup> Scorpii) is a [[binary star]] system in the southern [[zodiac]] [[constellation]] of [[Scorpius]]. The combined [[apparent visual magnitude]] of the pair is +3.04,<ref name=apjs15_459/> making it one of the [[List of stars in Scorpius|brighter members]] of Scorpius. Based upon [[parallax]] measurements, the distance of this system from the Earth is roughly 500&nbsp;[[light year]]s (150&nbsp;[[parsec]]s).<ref name=aaa474_2_653/> This system is a member of the [[Scorpius-Centaurus Association]], the nearest [[OB association]] of co-moving stars to the Sun.<ref name=mnras401_3_2059/> 
+
+μ<sup>1</sup> Scorpii is an [[eclipsing binary]] of the [[Beta Lyrae variable|Beta Lyrae type]]. Discovered to be a [[spectroscopic binary]] by [[Solon Irving Bailey]] in 1896, it was only the third such eclipsing pair to be discovered. This is a [[semidetached binary]] system where the secondary is close to filling its [[Roche lobe]], or it may even be overflowing. The two stars revolve each other along a circular orbit with the components separated by 12.9 times the radius of the Sun.<ref name=mnras401_3_2059/> Due to occultation of each component by the other, the apparent magnitude of the system decreased by 0.3 and 0.4 magnitudes over the course of the binary's orbit, which takes 34 hours 42.6 minutes to complete.
+
+The primary component is a [[B-type main sequence star]] with a stellar classification of B1.5&nbsp;V. It has 8.5 times the mass of the Sun and 4.1 times the Sun's radius. The secondary member is a smaller B-type main sequence star with a classification of about B6.5&nbsp;V, having 5.3 times the Sun's mass and 4.4 times the radius of the Sun. The [[effective temperature]] of the [[stellar atmosphere|outer atmosphere]] for each star is 23,725&nbsp;K for the primary and 16,850&nbsp;K for the secondary.<ref name=mnras401_3_2059/> At these temperatures, the two stars glow with a blue-white hue.<ref name=csiro/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=mnras401_3_2059>{{citation | last1=van Antwerpen | first1=C. | last2=Moon | first2=T. | title=New observations and analysis of the bright semidetached eclipsing binary μ1 Sco | journal=Monthly Notices of the Royal Astronomical Society | volume=401 | issue=3 | pages=2059–2066 | month=January | year=2010 | doi=10.1111/j.1365-2966.2009.15796.x | bibcode=2010MNRAS.401.2059V |arxiv = 0910.1241 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Scorpius}}
+
+{{DEFAULTSORT:Mu1 Scorpii}}
+[[Category:Bayer objects|Scorpii, Mu1]]
+[[Category:Beta Lyrae variables]]
+[[Category:B-type main sequence stars]]
+[[Category:Scorpius (constellation)]]
+
+[[es:Mu1 Scorpii]]
+[[fa:مو¹ کژدم]]
+[[fr:Mu1 Scorpii]]
+[[it:Mu1 Scorpii]]
+[[ru:Мю¹ Скорпиона]]
+[[zh:尾宿一]]

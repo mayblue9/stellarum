@@ -1,0 +1,125 @@
+{{More footnotes|date=May 2010}}
+{{Starbox begin
+ | name=μ<sup>1,2</sup> Boötis
+}}
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|15|24|29.4278}}
+ | dec={{DEC|+37|22|37.8}}
+ | appmag_v=4.31<ref name=aass85_3_1015/> / 6.5
+ | constell=[[Boötes (constellation)|Boötes]]
+}}
+{{Starbox character
+ | class=F0V<ref name=aass85_3_1015/> + G1V
+ | r-i = 0.15 / 
+ | v-r = 
+ | b-v = 0.31 / 0.59
+ | u-b = 0.07 / 0.13
+ | variable=
+}}
+{{Starbox astrometry
+ | radial_v=-12.5
+ | prop_mo_ra=-147.68
+ | prop_mo_dec=84.69
+ | parallax=26.96
+ | p_error=0.65
+ | absmag_v=
+}}
+{{Starbox detail
+ | component1 = Mu Boötis A
+ | mass=1.7<ref name=aass85_3_1015/>
+ | radius=1.9<ref name=aass85_3_1015/>
+ | luminosity=8<ref name=aass85_3_1015/>
+ | temperature={{nowrap|7,190 ± 140}}<ref name=aass85_3_1015/>
+ | metal_fe=
+ | gravity=4.14<ref name=aass85_3_1015/>
+ | rotational_velocity=
+ | age_gyr= 
+}}
+{{Starbox visbin
+ | name=CCDM 15245+3722 C
+ | period=260.1
+ | axis=1.463
+ | eccentricity=0.59
+ | inclination=135.4
+ | node=174.9
+ | periastron=1865 }}<!--
+-->{{Starbox catalog
+ | names = Alkalurops, Inkalunis, Icalurus, Clava, Venabulum, 51&nbsp;Boötis, [[Harvard Revised catalogue|HR]]&nbsp;5733+HR&nbsp;5734, [[Henry Draper Catalogue|HD]]&nbsp;137391+HD&nbsp;137392, [[Gliese-Jahreiss catalogue|NN]]&nbsp;3903+NN&nbsp;3904, [[Bonner Durchmusterung|BD]]+37°2636+BD&nbsp;37°2637, [[Fifth Fundamental Catalogue|FK5]]&nbsp;568, [[Hipparcos catalogue|HIP]]&nbsp;75411+HIP&nbsp;75415, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;64686+SAO&nbsp;64687, GC&nbsp;20724+GC&nbsp;20725, [[Star catalogue#ADS|ADS]]&nbsp;9626, CCDM&nbsp;15245+3722. }}
+{{Starbox reference |
+  Simbad=HD+137391
+| ARICNS = }}
+{{Starbox reference |
+  Simbad=HD+137392
+| ARICNS = }}
+{{starbox sources|HIP|CCDM|HR}}
+{{Starbox reference |
+  Simbad=ADS+9626  }}
+{{Starbox end}}
+'''Mu Boötis''' (μ Boo, μ Boötis) is a [[triple star system]] in the [[constellation]] [[Boötes]].  It has the traditional name '''Alkalurops''' (also ''Inkalunis, Clava,'' and ''Venabulum),'' and the [[Flamsteed designation]] 51 Boötis.  Mu Boötis is approximately 121 light-years from Earth.
+
+The name Alkalurops is from Greek καλαύροψ ''kalaurops'' "shepherd's staff", through the Arabic. 
+
+It is known as 七公六 (the Sixth Star of the Seven Excellencies) in Chinese.<ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0606/ap060626.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 26 日]</ref>
+
+The primary component, '''μ¹ Boötis''', is a yellow-white [[stellar classification|F-type]] [[subgiant]] with an [[apparent magnitude]] of +4.31.
+
+==Position==
+
+[[Image:Pos MuBoo.PNG|thumb|left|250px|Illustration of Mu<sup>1,2</sup> Boötis]]
+Separated from the primary by 108 [[arcsecond]]s in the sky is the [[binary star]] '''μ² Boötis''', which has a combined spectral type of G1V and a combined brightness of +6.51 [[apparent magnitude|magnitudes]].  The components of μ² Boötis have apparent magnitudes of +7.2 and +7.8 and are separated by 2.2 [[arcsecond]]s.  They complete one orbit about their common centre of mass every 260 years.
+
+==See also==
+* [[Stars and planetary systems in fiction#Alkalurops (Mu Boötis)|Mu Boötis in fiction]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+==Components==
+
+{| border="0" width="100%" cellpadding="2" cellspacing="1" style="float:right; margin-right:0.5em; background:#CDC9C9;"
+! colspan="1" | NAME || [[Right ascension]] || [[Declination]] || [[Apparent magnitude]] (V) || [[Spectral type]] || Database references
+|- bgcolor="#FFFAFA"
+| ADS 9626 B (ADS 9626 Aa) || 15<sup>h</sup> 24<sup>m</sup> 36<sup>s</sup> ||+37° 23' ||  ||  || [http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=ADS%20%209626%20Aa&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id Simbad]
+|- bgcolor="#FFFAFA"
+| ADS 9626 C (CCDM J15245+3722BC) || 15<sup>h</sup> 24<sup>m</sup> 30.8663<sup>s</sup> || +37° 20' 50.28'' || 6.5 || G1V || [http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=CCDM%20J15245%2b3722BC&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id Simbad]
+|}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205733 HR 5733]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205734 HR 5734]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J15245%2b3722A CCDM J15245+3722]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=15+24+29.4278%2B37+22+37.800&ident=NSV++7063&submit=Aladin+previewer Image Mu Boötis]
+
+{{Stars of Boötes}}
+
+{{DEFAULTSORT:Mu Bootis}}
+[[Category:Flamsteed objects|Bootis, 51]]
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Hipparcos objects]]
+[[Category:Bayer objects|Bootis, Mu]]
+[[Category:Boötes (constellation)]]
+[[Category:Triple star systems]]
+[[Category:G-type main sequence stars]]
+[[Category:F-type subgiants]]
+[[Category:Stars with proper names]]
+
+
+{{star-system-stub}}
+
+[[de:Alkalurops]]
+[[es:Alkalurops]]
+[[fa:مو گاوران]]
+[[id:Mu Boötis]]
+[[it:Mu Boötis]]
+[[lb:Alkalurops (Stär)]]
+[[nl:Alkalurops]]
+[[pt:Mu1 Boötis]]
+[[ru:Мю Волопаса]]
+[[sk:Alkalurops]]
+[[uk:HD137391]]
+[[zh:七公六]]

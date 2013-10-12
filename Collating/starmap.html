@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>CATALOGUS STELLARUM</title>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="jquery-1.8.3.js"></script>
+    <script type="text/javascript" src="stars.js"></script>
+    <script type="text/javascript" src="starmap.js"></script>
+    <link type="text/css" rel="stylesheet" href="starmap.css">
+  </head>
+
+  <body>
+    <h1>CATALOGVS STELLARVM</h1>
+
+    <div id="starmap">
+
+    </div>
+
+<!--    <div id="controls">
+      <form name="controls">
+      <input type="text" id="namefield" name="starname" value="Type here" />
+      <button type="button" onClick="centre_star(document.getElementById('namefield').value);">Go</button>
+      </form>
+    </div> -->
+
+	
+    <div id="text" class="hidden">
+      <div id="title">
+	<span id="starname"></span> <span id="stardesignation"></span>
+      </div>
+      <div id="description"></div>
+    </div>
+
+    <form name="finder">
+      <input id="acfield" type="text" name="star" />
+      <input type="submit" value="Find" />
+    </form>
+
+
+    <script lang="javascript">
+      render_map("div#starmap", 800, 800);
+    </script>
+
+
+  </body>
+</html>

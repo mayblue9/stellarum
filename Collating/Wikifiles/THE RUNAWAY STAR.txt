@@ -1,0 +1,122 @@
+{{Starbox begin
+| name = Groombridge 1830
+}}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Ursa Major constellation map.svg|250px]]
+     <div style="position: absolute; left: 101px; top: 194px">[[Image:Locator Dot.gif|5px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> | 
+  caption=The red dot shows the location of Groombridge 1830 in [[Ursa Major (constellation)|Ursa Major]].
+}}
+{{Starbox observe
+| epoch = J2000
+| ra={{RA|11|52|58.7691}}<ref name=aaa323_L49/>
+| dec={{DEC|+37|43|07.239}}<ref name=aaa323_L49/>
+| appmag_v=6.44<ref name=mnras133_475/>
+| constell=[[Ursa Major]]
+}}
+{{Starbox character
+| class=G8Vp<ref name=yerkes53/>
+| b-v=+0.75<ref name=mnras133_475/>
+| u-b=+0.16<ref name=mnras133_475/>
+| variable=Suspected<ref name=csvs/>
+}}
+{{Starbox astrometry
+| radial_v=–98.0<ref name=rgcrv/>
+| prop_mo_ra=4,003.69<ref name=aaa323_L49/>
+| prop_mo_dec=-5,813.00<ref name=aaa323_L49/>
+| parallax=109.22
+| p_error=0.78
+| parallax_footnote=<ref name=aaa323_L49/>
+| absmag_v=6.62
+}}
+{{Starbox detail
+| mass=0.661<ref name=apj22168_2_297/>
+| radius={{nowrap|0.681 ± 0.006}}<ref name=apj746_1_101/>
+| luminosity={{nowrap|0.212 ± 0.002}}<ref name=apj746_1_101/>
+| temperature={{nowrap|4,759 ± 20}}<ref name=apj746_1_101/>
+| gravity=4.68<ref name=aaa480/>
+| metal_fe=–1.33<ref name=aaa480/>
+| rotation=
+| age_gyr=4.7–5.3<ref name=apj687/>
+}}
+{{Starbox catalog
+| names = [[Bonner Durchmusterung|BD]]+38 2285, [[Fifth Fundamental Catalogue|FK5]] 1307, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 2745.00, [[Gliese-Jahreiss catalogue|GJ]] 451, [[Hipparcos catalogue|HIP]] 57939, [[Harvard Revised catalogue|HR]] 4550, [[Henry Draper catalogue|HD]] 103095, [[Luyten Half-Second catalogue|LHS]] 44, [[Luyten Two-Tenths catalogue|LTT]] 13276, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 62738, 1830 Groombridge, Argelander's Star
+}}
+{{Starbox end}}
+'''Groombridge 1830''' ('''1830 Groombridge''', '''Argelander's Star''')<ref> Peters, C. A. F.; "On the Parallax of Argelander's Star", Monthly Notices of the Royal Astronomical Society, December 1853, v.50, p.302, {{bibcode|1853MNRAS..14...49P}} </ref> is a [[star]] in the [[constellation]] [[Ursa Major]].
+
+==Description==
+It is a yellow-hued [[Stellar classification|class G8]] [[subdwarf]] catalogued by [[Stephen Groombridge]] with the [[Groombridge Transit Circle]] between 1806 and the 1830s and published posthumously in his star catalog, ''Catalogue of Circumpolar Stars'' (1838). Its high [[proper motion]] was noted by [[Friedrich Wilhelm Argelander]] in 1842.
+
+It is {{Convert|29.9|ly|pc|abbr=off|lk=on}} from the Sun as measured by the [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49/><ref name=GSM/> which, as the distance is nearly 10 parsecs, means its [[absolute magnitude]] is almost equal to its [[apparent magnitude]]. It is a member of the [[galactic halo]]; such stars account for only 0.1 to 0.2 percent of the stars near the [[Sun]]. Like most halo stars, it has a low abundance of elements other than hydrogen and helium—what astronomers term a [[Metallicity|metal-poor]] star.<ref name=solstation/>
+
+Once suspected of being a [[binary star]] with a period of 175 days, current consensus is that it is single. In fact, previous suspected observations of a stellar companion were probably "superflares"—analogous to the Sun's [[solar flare]]s, but hundreds to millions of times more energetic.<ref name=solstation/><ref name=as89_1_38/>
+
+==Proper motion==
+When discovered, it had the highest [[proper motion]] of any star known, replacing [[61 Cygni]] in that department. Later it dropped to second place after the discovery of [[Kapteyn's Star]], and still later to third place after the discovery of [[Barnard's Star]]. It is considerably farther away than either of those stars, however, which means its transverse velocity is greater.
+
+Actually, it is the Sun which is following the motion of galaxy rotation by revolving around the center of the [[Milky Way]]; halo stars like Groombridge 1830 do not follow this galaxy rotation and thus are "standing still" and appear to be moving in "retrograde direction" at high speed.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa323_L49>{{Cite journal | display-authors=1 | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. | last4=Hoeg | first4=E. | last5=Bastian | first5=U. | last6=Bernacca | first6=P. L. | last7=Crézé | first7=M. | last8=Donati | first8=F. | last9=Grenon | first9=M. | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=apj687>{{cite journal | author=Mamajek, Eric E.; Hillenbrand, Lynne A. | title=Improved Age Estimation for Solar-Type Dwarfs Using Activity-Rotation Diagnostics | journal=The Astrophysical Journal | volume=687 | issue=2 | pages=1264–1293 | month=November | year=2008 | doi=10.1086/591785 | bibcode=2008ApJ...687.1264M |arxiv = 0807.1686 }}</ref>
+
+<ref name=rgcrv>{{cite conference | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=aaa480>{{cite journal | author=Soubiran, C.; Bienaymé, O.; Mishenina, T. V.; Kovtyukh, V. V. | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants | journal=Astronomy and Astrophysics | volume=480 | issue=1 | month=March | year=2008 | pages=91–101 | doi=10.1051/0004-6361:20078788 | bibcode=2008A&A...480...91S|arxiv = 0712.1370 }}</ref>
+
+<ref name=yerkes53>{{Cite journal | last=Johnson | first=H. L. | coauthors=Morgan, W. W. | title=Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectral atlas | journal=Astrophysical Journal | year=1953 | volume=117 | pages=313–352 | bibcode=1953ApJ...117..313J | doi=10.1086/145697 }}</ref>
+
+<ref name=mnras133_475>{{cite journal | title=UBV photometry of 550 F, G and K type stars | last=Argue | first=A. N. | journal=Monthly Notices of the Royal Astronomical Society | volume=133 | page=475 | year=1966 | bibcode=1966MNRAS.133..475A }}</ref>
+
+<ref name=csvs>{{cite book  | author=Kukarkin, B. V. ''et al.'' | year=1981 | title=Catalogue of suspected variable stars | publisher=Academy of Sciences | location=Moscow, USSR | bibcode=1981NVS...C......0K }}</ref>
+
+<ref name=solstation>{{cite web | url=http://www.solstation.com/stars/groo1830.htm | title=Groombridge 1830 | publisher=SolStation }}</ref>
+
+<ref name=as89_1_38>{{cite journal | title=Superflares and Giant Planets | last=Rubenstein | first=Eric P. | journal=American Scientist | volume=89 | issue=1 | page=38 | month=February | year=2001 | doi=10.1511/2001.1.38 | bibcode=2001AmSci..89...38R |arxiv = astro-ph/0101573 }}</ref>
+
+<ref name=apj22168_2_297>{{cite journal | author=Takeda, Genya; Ford, Eric B.; Sills, Alison; Rasio, Frederic A.; Fischer, Debra A.; Valenti, Jeff A. | title=Structure and Evolution of Nearby Stars with Planets. II. Physical Properties of ~1000 Cool Stars from the SPOCS Catalog | journal=The Astrophysical Journal Supplement Series | volume=168 | issue=2 | pages=297–318 | month=February | year=2007 | doi=10.1086/509763 | bibcode=2007ApJS..168..297T |arxiv = astro-ph/0607235 }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B |arxiv = 1112.3316 }}. See Table 10.</ref>
+
+}}
+
+==External links==
+*{{Cite journal |first=Garik |last=Israelian |last2=''et al.'' |first2=Ramon J. |year=1998 |last3=Rebolo |first3=Rafael |title=Oxygen Abundances in Unevolved Metal-poor Stars from Near-Ultraviolet OH Lines |journal=[[Astrophysical Journal]] |volume=507 |issue=2 |pages=805 |doi=10.1086/306351 |bibcode=1998ApJ...507..805I|arxiv = astro-ph/9806235 }}
+*[http://www.solstation.com/stars/groo1830.htm SolStation.com: Groombridge 1830]
+
+===Discovery of high proper motion===
+*[http://adsabs.harvard.edu//full/seri/AN.../0019//0000202.000.html AN '''19''' (1842) 393/394] (in German)
+*[http://adsabs.harvard.edu//full/seri/AN.../0020//0000091.000.html AN '''20''' (1843) 163/164] (in German)
+*[http://adsabs.harvard.edu//full/seri/AN.../0020//0000155.000.html AN '''20''' (1843) 279/280]
+
+{{Nearest systems|6}}
+{{Stars of Ursa Major}}
+
+<!-- location -->
+[[Category:Ursa Major (constellation)]]
+<!-- star type -->
+[[Category:Binary stars]]
+[[Category:G-type subdwarfs]]
+<!-- cataloguing -->
+[[Category:Henry Draper Catalogue objects|103095]]
+[[Category:Stars with proper names|Argelander's Star]]
+
+[[de:Groombridge 1830]]
+[[es:Groombridge 1830]]
+[[fa:گروم‌بریج ۱۸۳۰]]
+[[fr:Groombridge 1830]]
+[[ko:그룸브리지 1830]]
+[[it:Groombridge 1830]]
+[[lb:Groombridge 1830]]
+[[nl:Groombridge 1830]]
+[[ja:グルームブリッジ1830]]
+[[ru:Грумбридж 1830]]
+[[sk:Groombridge 1830]]
+[[zh:葛羅姆布里吉1830]]

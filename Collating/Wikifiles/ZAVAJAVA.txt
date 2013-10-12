@@ -1,0 +1,121 @@
+{{pp-protected|expiry=2013-07-30T16:55:32Z|small=yes}}
+{{Starbox begin
+|name = Beta Virginis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Virgo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Virgo constellation and its surroundings]]
+     <div style="position: absolute; left: 80.3%; top: 36.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Virginis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|11|50|41.71824}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+1|45|52.9910}}<ref name=aaa474_2_653/>
+| appmag_v = 3.604<ref name=apjs15_459/>
+| constell = [[Virgo (constellation)|Virgo]]
+}}
+{{Starbox character
+| class    = F9&nbsp;V<ref name=araa11_29/>
+| b-v      = +0.553<ref name=apjs15_459/>
+| u-b      = +0.090<ref name=apjs15_459/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v    = +4.1<ref name=aaa501_3_941/>
+| prop_mo_ra  = +740.23<ref name=aaa474_2_653/>
+| prop_mo_dec = -270.43<ref name=aaa474_2_653/>
+| parallax    = 91.50
+| p_error     = 0.22
+| parallax_footnote =<ref name=aaa474_2_653/>
+| absmag_v    = 3.41<ref name=aaa501_3_941/>
+}}
+{{Starbox detail
+| mass        = 1.25<ref name="na10"/>
+| radius      = {{nowrap|1.681 ± 0.008}}<ref name=apj746_1_101/>
+| luminosity  = {{nowrap|3.572 ± 0.052}}<ref name=apj746_1_101/>
+| temperature = {{nowrap|6,132 ± 26}}<ref name=apj746_1_101/>
+| metal_fe    = 0.20<ref name="aaa65"/>
+| gravity     = 4.25<ref name="aaa65"/>
+| rotational_velocity = 4.3<ref name="na10"/>
+| age_gyr     = {{nowrap|2.9 ± 0.3}}<ref name=aaa501_3_941/>
+}}
+{{Starbox catalog
+| names = Zavijava, Zavijah, Alaraph, Minelauva, 5 Virginis, [[Bonner Durchmusterung|BD]] +02°2489, [[FK5]] 445, [[Henry L. Giclas catalogue|Gl]] 449, [[Henry Draper catalogue|HD]] 102870, [[Hipparcos catalogue|HIP]] 57757, [[Harvard Revised catalogue|HR]] 4540, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 119076.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad = HD+102870
+| ARICNS = 00916
+}}
+{{Starbox end}}
+
+'''Beta Virginis''' (β Vir, β Virginis) is a [[star]] in the [[constellation]] [[Virgo (constellation)|Virgo]]. It has the traditional names '''Zavijava''' (also '''Zavijah''') and '''Alaraph'''.<ref>Atlas of the Heavens, part II, catalogue, Antonín Bečvář</ref> Despite being the ''beta'' star of the constellation Virgo it is only the fifth star in order of brightness.
+
+Physically, Beta Virginis is larger and more massive than the Sun, and is comparatively metal-rich (that is, it has a higher preponderance of elements heavier than helium).<ref name="aaa65">{{cite journal
+ |author=Gehren, T.
+ |title=On the chemical composition and age of Beta VIR
+ |journal=Astronomy and Astrophysics |year=1978
+ |volume=65 |issue=3 |pages=427–433
+ |bibcode=1978A&A....65..427G}}</ref>
+
+Since it is close to the [[ecliptic]], it can be [[Occultation|occulted]] by the [[Moon]] and (very rarely) by [[planet]]s. The next planetary [[occultation]] of Zavijava will take place on 11 August 2069, by [[Venus]]. 
+
+This was the star Einstein used during the solar eclipse of September 21, 1922, to determine the speed of light in space,{{Dubious|date=March 2012}} as it was close to the Sun.<!-- Are you sure this wasn't a test of General Relativity? -->
+
+==Etymology==
+The medieval name Zavijava (Zavijah, Zavyava, Zawijah) is from the Arabic زاوية العواء ''zāwiyat al-<sup>c</sup>awwa’'' "Corner of the barking (dog)". Another name was Alaraph.
+
+== Hunt for substellar objects ==
+According to Nelson & Angel (1998),<ref name="1998ApJ">[http://adsabs.harvard.edu/abs/1998ApJ...500..940N The Range of Masses and Periods Explored by Radial Velocity Searches for Planetary Companions]</ref> Beta Virginis could host two or three [[jovian planets]] in wide orbits. The authors have set an upper limit of 1.9, 5 and 23 [[Jupiter masses]] for the putative planets with orbital periods of 15, 25 and 50 years respectively. Also Campbell et al. 1988<ref name="substellar" >[http://adsabs.harvard.edu/abs/1993ApJ...413..349M A search for substellar companions to southern solar-type stars]</ref> inferred the existence of planetary objects or even [[brown dwarfs]] around Beta Virginis.
+However more recent studies have not confirmed the existence of any [[substellar companion]] around Beta Virginis yet. [[McDonald Observatory]] team has set limits to the presence of one or more planets <ref name="Limits" >[http://arxiv.org/abs/astro-ph/0604171 Detection Limits from the McDonald Observatory Planet Search Program]</ref> with masses between 0.16 and 4.2 [[Jupiter masses]] and average separations spanning between 0.05 and 5.2 [[Astronomical Units]].
+
+== In fiction ==
+* Beta Virginis was the original destination of the Bussard scoopship ''Leonora Christine'' in Poul Anderson's [[Tau Zero]].
+
+==References==
+
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name="na10">{{cite journal | last1=Carrier | first1=F. | last2=Eggenberger | first2=P. | last3=D'Alessandro | first3=A. | last4=Weber | first4=L. | title=Solar-like oscillations in the F9 V &beta; Virginis | journal=New Astronomy |year=2005 |volume=10 | issue=4 |pages=315–323 | url=http://www.citebase.org/fulltext?format=application%2Fpdf&identifier=oai%3AarXiv.org%3Aastro-ph%2F0502014 | accessdate=2007-06-05 | doi=10.1016/j.newast.2004.11.003 | arxiv=astro-ph/0502014 | bibcode=2005NewA...10..315C }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B |arxiv = 1112.3316 }}. See Table 10.</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | issue=1 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=aaa501_3_941>{{citation | last1=Holmberg | first1=J. | last2=Nordström | first2=B. | last3=Andersen | first3=J. | title=The Geneva-Copenhagen survey of the solar neighbourhood. III. Improved distances, ages, and kinematics | journal=Astronomy and Astrophysics | volume=501 | issue=3 | pages=941–947 | month=July | year=2009 | doi=10.1051/0004-6361/200811191 | bibcode=2009A&A...501..941H |arxiv = 0811.3982 }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=LHS 2465 -- High proper-motion Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Virginis | accessdate=2012-03-20 }}</ref>
+
+}}
+
+==External links==
+* {{cite web |last=Kaler |first=Jim |year=2007 |url=http://www.astro.uiuc.edu/~kaler/sow/zavijava.html |title=Zavijava |publisher=Stars: Portraits of Stars and their Constellations |accessdate=2007-06-06}}
+* {{cite web |url=http://www.alcyone.de/SIT/mainstars/SIT000833.htm |title=Zavijah |publisher=Alcyone |accessdate=2007-06-06}}
+
+{{Nearest bright star systems|4.}}
+{{Virgo}}
+
+[[Category:Virgo (constellation)]]
+[[Category:Bayer objects|Virginis, Beta]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:زاوية العواء]]
+[[cs:Zavijava]]
+[[de:Beta Virginis]]
+[[es:Zavijava]]
+[[fa:زاویةالعواء]]
+[[fr:Beta Virginis]]
+[[ko:자비야바]]
+[[it:Zavijava]]
+[[nl:Zavijah]]
+[[ja:おとめ座ベータ星]]
+[[pt:Beta Virginis]]
+[[ru:Завийява]]
+[[sk:Zavijava]]
+[[zh:右執法]]

@@ -1,0 +1,106 @@
+{{DISPLAYTITLE:Omicron<sup>2</sup> Canis Majoris}}
+{{Starbox begin
+ | name     = ο² Canis Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Canis Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Canis Major constellation and its surroundings]]
+     <div style="position: absolute; left: 40.3%; top: 46.9%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ο² Canis Majoris (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|07|03|01.47211}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–23|49|59.8523}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.043<ref name=sps1966/>
+ | constell = [[Canis Major]]
+}}
+{{Starbox character
+ | class    = B3&nbsp;Ia<ref name=baas25_1319/>
+ | b-v      = –0.107<ref name=sps1966/>
+ | u-b      = –0.778<ref name=sps1966/>
+ | variable = [[Alpha Cygni variable|α Cyg]]<ref name=aaa507_2_11411201/>
+}}
+{{Starbox astrometry
+ | radial_v = 48.4<ref name=scfs/>
+ | prop_mo_ra  = –2.21<ref name=aaa474_2_653/>
+ | prop_mo_dec = +3.61<ref name=aaa474_2_653/>
+ | parallax = 1.18
+ | p_error  = 0.40
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –7.3<ref name=aaa446_1_279/>
+}}
+{{Starbox detail
+ | mass     = {{nowrap|21.4 ± 2.2}}<ref name=mnras410_1_190/>
+ | radius   = 65<ref name=aaa446_1_279/>
+ | gravity  = 2.05<ref name=aaa446_1_279/>
+ | metal_fe = 
+ | age_myr  = {{nowrap|7.4 ± 1.0}}<ref name=mnras410_1_190/>
+ | luminosity  = 220,000<ref name=aaa446_1_279/>
+ | temperature = 15,500<ref name=aaa446_1_279/>
+ | rotational_velocity = 58<ref name=aaa446_1_279/>
+}}
+{{Starbox catalog
+ | names=24&nbsp;Canis Majoris, [[Bonner Durchmusterung|CD]]&minus;23°4797, [[Fifth Fundamental Catalogue|FK5]]&nbsp;270, [[Henry Draper catalogue|HD]]&nbsp;53138, [[Hipparcos catalogue|HIP]]&nbsp;33977, [[Harvard Revised catalogue|HR]]&nbsp;2653, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;172839.
+}}
+{{Starbox reference
+ | Simbad=HD+53138
+}}
+{{Starbox end}}
+'''Omicron<sup>2</sup> Canis Majoris''' (ο² CMa, ο² Canis Majoris) is a [[star]] in the [[constellation]] [[Canis Major]]. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It has an [[apparent visual magnitude]] of 3.043,<ref name=sps1966/> making it one of the brighter members of the constellation. The distance to this star is roughly 2,800&nbsp;[[light year]]s (800&nbsp;[[parsec]]s), with a 34% [[margin of error]].<ref name=aaa474_2_653/>
+
+This is a massive [[supergiant]] star with a [[stellar classification]] of B3&nbsp;Ia,<ref name=baas25_1319/> indicating that, at the age of around 7&nbsp;million years,<ref name=mnras410_1_190/> it has exhausted the supply of hydrogen at its core and is now undergoing [[nuclear fusion]] of helium to generate energy.<ref name=kaler/> It has about 21<ref name=mnras410_1_190/> times the mass of the Sun and 65<ref name=aaa446_1_279/> times the Sun's radius. In all likelihood, it will end its life as a [[Type II supernova]].<ref name=kaler/>
+
+Omicron<sup>2</sup> Canis Majoris is one of the [[List of most luminous stars|most luminous stars]] known, as it radiates about 220,000<ref name=aaa446_1_279/> times as much luminosity as the Sun from its [[stellar atmosphere|outer envelope]] at a temperature of 15,500&nbsp;K.<ref name=aaa446_1_279/> At this heat, the star is glowing with the blue-white hue of a B-type star.<ref name=csiro/> This star is classified as an [[Alpha Cygni variable|Alpha Cygni-type]] [[variable star]] that undergoes periodic non-radial pulsations, which cause its brightness to cycle from magnitude +2.93 to +3.08 over a 24.44&nbsp;day interval.<ref name=aaa507_2_11411201/> It is losing mass from its [[stellar wind]] at the rate of around {{nowrap|2 × 10<sup>–9</sup>}} times the mass of the Sun per year, or the equivalent of the Sun's mass every 500 million years.<ref name=aaa521_A55/> 
+
+While this star lies in the field of view of the [[open cluster]] named Collinder 121, it is unlikely to be a member. In fact, its optical neighbor, [[Omicron1 Canis Majoris|ο<sup>1</sup> Canis Majoris]] has a much higher likelihood of 23.1% based upon its [[proper motion]] being a closer match to the motion of the cluster.<ref name=aas146_251/> Although they are located near each other on the [[celestial sphere]], ο<sup>1</sup> CMa and ο<sup>2</sup> CMa are most likely not [[gravitationally bound]] to each other as they appear to lie many light years apart.<ref name=aaa474_2_653/><ref name=kaler/>
+
+==Name==
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Thanih al Adzari''' ('''تاني ألعذاري''' - ''taanii al-aðārii''), which was translated into [[Latin]] as '''Secunda Virginum''', meaning ''the second virgin''.<ref name=mnras55_429/> This star, along with [[Epsilon Canis Majoris|ε CMa]] (Adhara), [[Delta Canis Majoris|δ CMa]] (Wezen) and [[Eta Canis Majoris|η CMa]] (Aludra), were '''Al ʽAdhārā''' ('''ألعذاري'''), the Virgins.<ref name=allen1963/><ref>[[Epsilon Canis Majoris|ε CMa]] as '''Aoul al Adzari''' or '''Prima Virginum''' (the first virgin), ο<sup>2</sup> CMa as '''Thanih al Adzari''' or '''Secunda Virginum''' (the second virgin) and [[Delta Canis Majoris|δ CMa]] as '''Thalath al Adzari''' or '''Tertia Virginum'''  (the third virgin). [[Eta Canis Majoris|η CMa]] should be '''Rabah al Adzari''' or '''Quarta Virginum''' (the fourth virgin) consistently, but it was given by the name '''Aludra''', meaning ''the virgin'' (same meaning with Adhara ([[Epsilon Canis Majoris|ε CMa]]) or ''Al ʽAdhārā'')</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa446_1_279>{{citation | last1=Crowther | first1=P. A. | last2=Lennon | first2=D. J. | last3=Walborn | first3=N. R. | title=Physical parameters and wind properties of galactic early B supergiants | journal=Astronomy and Astrophysics | volume=446 | issue=1 | pages=279–293 | month=January | year=2006 | doi=10.1051/0004-6361:20053685 | bibcode=2006A&A...446..279C |arxiv = astro-ph/0509436 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=aaa521_A55>{{citation | last1=Prinja | first1=R. K. | last2=Massa | first2=D. L. | title=Signature of wide-spread clumping in B supergiant winds | journal=Astronomy and Astrophysics | volume=521 | page=L55 | month=October | year=2010 | doi=10.1051/0004-6361/201015252 | bibcode=2010A&A...521L..55P |arxiv = 1007.2744 }}</ref>
+
+<ref name=aaa507_2_11411201>{{citation | display-authors=1 | last1=Lefèvre | first1=L. | last2=Marchenko | first2=S. V. | last3=Moffat | first3=A. F. J. | last4=Acker | first4=A. | title=A systematic study of variability among OB-stars based on HIPPARCOS photometry | journal=Astronomy and Astrophysics | volume=507 | issue=2 | pages=11411201 | month=November | year=2009 | doi=10.1051/0004-6361/200912304 | bibcode=2009A&A...507.1141L }}</ref>
+
+<ref name=aas146_251>{{citation | last1=Baumgardt | first1=H. | last2=Dettbarn | first2=C. | last3=Wielen | first3=R. | title=Absolute proper motions of open clusters. I. Observational data | journal=Astronomy and Astrophysics Supplement | volume=146 | pages=251–258 | month=October | year=2000 | doi=10.1051/aas:2000362 | bibcode=2000A&AS..146..251B |arxiv = astro-ph/0010306 }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Canis_Major*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=130 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=OMI-2 CMA (Omicron-2 Canis Majoris) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/omi2cma.html | accessdate=2012-02-28 }}</ref>
+
+}}
+
+{{Stars of Canis Major}}
+
+[[Category:Canis Major (constellation)]]
+[[Category:Alpha Cygni variables]]
+[[Category:Bayer objects|Canis Majoris, Omicron2]]
+[[Category:B-type supergiants]]
+
+[[es:Ómicron2 Canis Majoris]]
+[[fa:امیکرون۲ سگ بزرگ]]
+[[fr:Omicron2 Canis Majoris]]
+[[it:Omicron2 Canis Majoris]]
+[[ja:おおいぬ座オミクロン2星]]
+[[pt:Omicron2 Canis Majoris]]

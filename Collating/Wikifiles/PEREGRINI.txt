@@ -1,0 +1,99 @@
+{{Starbox begin
+| name     = Mu Velorum
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Vela IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Vela constellation and its surroundings]]
+     <div style="position: absolute; left: 28.1%; top: 48.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of μ Velorum (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|10|46|46.17877}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–49|25|12.9244}}<ref name=aaa474_2_653/>
+| appmag_v = 2.69<ref name=clpl4_99/> {{nowrap|(2.7 + 6.4)}}<ref name=apj526_1_445/>
+| constell = [[Vela (constellation)|Vela]]
+}}
+{{Starbox character
+| class    = G5III + G2V<ref name=apj526_1_445/>
+| b-v      = +0.90<ref name=clpl4_99/>
+| u-b      = +0.57<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +6.2<ref name=rgcrv/>
+| prop_mo_ra  = +63.22<ref name=aaa474_2_653/>
+| prop_mo_dec = –54.21<ref name=aaa474_2_653/>
+| parallax = 27.84
+| p_error  = 0.38
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aass64_1_1/>
+| period = 138
+| axis = 1.427
+| eccentricity = 0.84
+| inclination = 57.0
+| node = 59.1
+| periastron = 1951.1
+| periarg = 178.0
+}}
+{{Starbox detail
+| component1 = μ Vel A
+| mass     = 3.30<ref name=aaa409_251/>
+| radius   = 13<ref name=apjss164_1_173/>
+| gravity  = 2.75<ref name=aaa409_251/>
+| luminosity  = 107<ref name=apj526_1_445/>
+| temperature = 5,047<ref name=aaa409_251/>
+| metal_fe = 
+| rotational_velocity = 6.4<ref name=aaa409_251/>
+| age_myr  = 360<ref name=apj526_1_445/>
+}}
+{{Starbox catalog
+| names = [[Star catalogue#BD.2FCD.2FCPD|CD]]–48&nbsp;5913, [[Henry Draper Catalogue|HD]]&nbsp;93497, [[Hipparcos catalogue|HIP]]&nbsp;52727, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;4216, [[Star catalogue#SAO|SAO]]&nbsp;222321.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Mu Velorum''' (μ Vel, μ Velorum) is a [[binary star]] system in the southern [[constellation]] [[Vela (constellation)|Vela]]. The two stars orbit each other with a [[semi-major axis]] of 1.437&nbsp;[[arcsecond]]s and a [[orbital period|period]] of 116.24&nbsp;years.<ref name=bsc1987/> ([[Wulff-Dieter Heintz]] (1986) lists a period of 138 years with his orbital elements.)<ref name=aass64_1_1/> The pair have a combined [[apparent visual magnitude]] of 2.69,<ref name=clpl4_99/> making the system readily visible to the naked eye. From [[parallax]] measurements, the distance to this system is estimated to be {{Convert|117|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> The system is about 360&nbsp;million years old.<ref name=apj526_1_445/>
+
+The primary component is a [[giant star]] with an apparent magnitude of 2.7 and a [[stellar classification]] of G5&nbsp;III.<ref name=apj526_1_445/> It is radiating about 107 times the luminosity of the Sun from an expanded atmosphere about 13<ref name=apjss164_1_173/> times the Sun's radius. The mass of this star is 3.3<ref name=aaa409_251/> times that of the Sun. In 1998, the [[Extreme Ultraviolet Explorer]] space telescope detected a strong flare that released an X-ray emission nearly equal to the output of the entire star. The quiescent X-ray luminosity of Mu Velorum A is about {{nowrap|1.7 × 10<sup>30</sup> erg s<sup>–1</sup>}}.<ref name=apj526_1_445/>
+
+The fainter companion, Mu Velorum B, is a [[main sequence]] star with an apparent magnitude of 6.4<ref name=apj526_1_445/> and an assigned stellar classification of G2V.<ref name=apj526_1_445/> However, this classification is suspect. Closer examination of the [[spectrum]] suggests the star may actually have a classification of F4V or F5V, which suggests a mass of about 1.5 times the mass of the Sun. Such stars typically do not show a marked level of [[stellar magnetic field|magnetic activity]].<ref name=apj526_1_445/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E | postscript=. }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J | postscript=. }}</ref>
+
+<ref name=apj526_1_445>{{citation | last1=Ayres | first1=Thomas R. | last2=Osten | first2=Rachel A. | last3=Brown | first3=Alexander | title=The Rise and Fall of μ Velorum: A Remarkable Flare on a Yellow Giant Star Observed with the Extreme Ultraviolet Explorer | journal=The Astrophysical Journal | volume=526 | issue=1 | pages=445–450 | month=November | year=1999 | doi=10.1086/308001 | bibcode=1999ApJ...526..445A | postscript=. }}</ref>
+
+<ref name=bsc1987>{{citation | last1=Hoffleit | first1=D. | last2=Warren | first2=W. H., Jr. | title=The Bright Star Catalogue, 5th revised edition | journal=Astronomical Data Center Bulletin | volume=1 | issue=4 | pages=285–294 | year=1987 | bibcode=1987ADCBu...1..285H | postscript=. }}</ref>
+
+<ref name=apjss164_1_173>{{citation | display-authors=1 | last1=Mullan | first1=D. J. | last2=Mathioudakis | first2=M. | last3=Bloomfield | first3=D. S. | last4=Christian | first4=D. J. | title=A Comparative Study of Flaring Loops in Active Stars | journal=The Astrophysical Journal Supplement Series | volume=164 | issue=1 | pages=173–201 | month=May | year=2006 | doi=10.1086/502629 | bibcode=2006ApJS..164..173M | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J10468-4925AB -- Double or multiple star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+93497 | accessdate=2012-02-03 | postscript=. }}</ref>
+
+<ref name=aass64_1_1>{{citation | last1=Heintz | first1=W. D. | title=Orbits of 20 visual binaries | journal=Astronomy and Astrophysics Supplement Series | volume=64 | issue=1 | pages=1–7 | month=April | year=1986 | bibcode=1986A&AS...64....1H | postscript=. }} Listed as Ru 155.</ref>
+
+<ref name=aaa409_251>{{citation | last1=Mallik | first1=Sushma V. | last2=Parthasarathy | first2=M. | last3=Pati | first3=A. K. | title=Lithium and rotation in F and G dwarfs and subgiants | journal=Astronomy and Astrophysics | volume=409 | pages=251–261 | month=October | year=2003 | doi=10.1051/0004-6361:20031084 | bibcode=2003A&A...409..251M | postscript=. }}</ref>
+
+}}
+{{Stars of Vela}}
+[[Category:Bayer objects|Velorum, Mu]]
+[[Category:Vela (constellation)]]
+[[Category:Binary stars]]
+[[Category:G-type giants]]
+[[Category:G-type main sequence stars]]
+
+[[de:My Velorum]]
+[[es:Mu Velorum]]
+[[fa:مو بادبان]]
+[[fr:Mu Velorum]]
+[[it:Mu Velorum]]
+[[pt:Mu Velorum]]
+[[zh:海山增二]]

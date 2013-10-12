@@ -1,0 +1,91 @@
+{{Starbox begin
+|name=T Coronae Borealis
+}}
+{{Starbox observe
+|epoch=J2000
+|ra={{RA|15|59|30.16}}<ref name="AAVSO-VSP">{{cite web
+  |title=T CrB
+  |publisher=AAVSO: Variable Star Plotter (VSP)
+  |url=http://ftp.aavso.org/vsp
+  |accessdate=2010-11-15}}</ref>
+|dec={{DEC|25|55|12.6}}
+|appmag_v=2.0–10.8<ref name="AAVSO-VSP"/>
+|constell=[[Corona Borealis]]
+}}
+{{Starbox character
+|class=M3III<ref name="AAVSO-VSP"/><ref name="SIMBAD-T-CrB"/> / [[White Dwarf]]
+|b-v=
+|u-b=
+|variable=[[recurrent nova]] (NR)<ref name="AAVSO-VSP"/>
+}}
+{{Starbox astrometry
+|radial_v=14.33<ref name="SIMBAD-T-CrB">{{cite web
+  |title=T Coronae Borealis
+  |publisher=SIMBAD Astronomical Database
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=T+Coronae+Borealis
+  |accessdate=2010-11-15}}</ref>
+|prop_mo_ra=
+|prop_mo_dec=
+|parallax=1.61
+|p_error=1.63
+|parallax_footnote=<ref name="SIMBAD-T-CrB"/>
+|absmag_v=
+|dist_pc=
+|dist_ly=
+}}
+{{Starbox detail
+|mass=
+|radius=
+|luminosity=
+|temperature=
+|metal=
+|rotation=
+|age=
+}}
+{{Starbox catalog
+|names=AAVSO 1555+26, 2MASS J15593015+2555126, HD 143454<ref name="SIMBAD-T-CrB"/>
+}}
+{{Starbox end}}
+
+'''T Coronae Borealis''' (''T CrB''), informally nicknamed the ''Blaze Star'',<ref>[http://nedwww.ipac.caltech.edu/level5/Gray/Gray34.html A Digital Spectral Classification Atlas, R. O. Gray], 34. Unusual Stellar Spectra III: two emission-line stars</ref> is a recurring [[nova]] in the [[constellation]] [[Corona Borealis]].  It normally has a [[apparent magnitude|magnitude]] of about 10, which is near the limit of typical binoculars. It has been seen to outburst twice, reaching magnitude 2.0 on May 12, 1866 and magnitude 3.0 on February 9, 1946.<ref name=Sanford1949>{{cite journal
+  |last=Sanford |first=Roscoe F.
+  |title=High-Dispersion Spectrograms of T Coronae Borealis.
+  |journal=Astrophysical Journal
+  |volume=109 |pages=81 |year=1949
+  |doi=10.1086/145106
+  |bibcode=1949ApJ...109...81S}}</ref> Though a more recent paper shows the 1866 outburst with a possible peak range of magnitude 2.5&nbsp;±&nbsp;0.5.<ref name=Schaefer2009>{{cite arxiv
+  |last=Schaefer |first=Bradley E.
+  |title=Comprehensive Photometric Histories of All Known Galactic Recurrent Novae
+  |pages=1–273 |year=2009
+  |eprint=0912.4426 }}</ref>  Even when at peak magnitude of 2.5, this [[recurrent nova]] is dimmer than about 120 stars in the night sky.<ref name="SIMBAD-mag2.5">{{cite web |title=Vmag<2.5 |publisher=SIMBAD Astronomical Database |url=http://simbad.u-strasbg.fr/simbad/sim-sam?Criteria=Vmag%3C2.5 |accessdate=2010-06-25}}</ref>
+
+[[File:T-CrB-Lightcurve-AAVSO.gif|400px|thumb|none|[[American Association of Variable Star Observers|AAVSO]] [[light curve]] of [[recurrent nova]] T CrB from 1 Jan 2008 to 17 Nov 2010.  Up is brighter and down is fainter. Day numbers are [[Julian day]].]]
+
+==See also==
+* [[John Birmingham (astronomer)]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal | last = Wallerstein | first = George | coauthors = Tanya Harrison, Ulisse Munari, and Andrew Vanture | date = 11 May 2008 | title = The Metallicity and Lithium Abundances of the Recurring Novae T CrB and RS Oph | journal = [[Publications of the Astronomical Society of the Pacific]] | volume = 120 | issue = 867 | pages = 492–497 | doi = 10.1086/587965 | bibcode=2008PASP..120..492W}}
+* [http://www.skyandtelescope.com/observing/objects/variablestars/3310256.html R and T Coronae Borealis: Two Stellar Opposites] at Sky & Telescope
+
+==External links==
+* http://www.daviddarling.info/encyclopedia/B/Blaze_Star.html
+* AAVSO: [http://ftp.aavso.org/ql Quick Look View of AAVSO Observations] (get recent magnitude estimates for T CrB)
+
+[[Category:Recurrent novae]]
+[[Category:Corona Borealis (constellation)]]
+
+[[ar:الإكليل الشمالي تي]]
+[[de:T Coronae Borealis]]
+[[es:T Coronae Borealis]]
+[[fa:تی تاج شمالی]]
+[[fr:T Coronae Borealis]]
+[[lb:T Coronae Borealis]]
+[[nl:T Coronae Borealis]]
+[[ja:かんむり座T星]]
+[[pl:T Coronae Borealis]]
+[[sk:T Coronae Borealis]]
+[[zh:北冕座T]]

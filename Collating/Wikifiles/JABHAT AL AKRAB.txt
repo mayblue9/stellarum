@@ -1,0 +1,57 @@
+{{refimprove|date=December 2012}}
+{{Starbox short |
+ name=ω¹ Scorpii |
+ epoch=[[J2000.0]] |
+ constell=[[Scorpius]] |
+ ra=16<sup>h</sup> 06<sup>m</sup> 48.4<sup>s</sup> |
+ dec=&minus;20° 40' 9" |
+ spectral=B1V |
+ appmag_v=+3.93 |
+ dist_ly=424 ± 48 |
+ dist_pc=130 ± 15 |
+ names=Jabhat al Akrab, 9&nbsp;Scorpii, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5993, [[Henry Draper Catalogue|HD]]&nbsp;144470, [[Hipparcos|HIP]]&nbsp;78933
+}}
+The [[Bayer designation]] '''Omega Scorpii''' (ω Sco, ω Scorpii) is shared by two [[star]]s, '''ω¹ Scorpii''' and '''ω² Scorpii''', in the [[constellation]] [[Scorpius]].  They are separated by 0.24° on the sky.  Omega Scorpii also has the traditional name '''Jabhat al [[Akrab]]''', which is derived from the [[Arabic language|Arabic]] جبهة العقرب  ''jabhat[u] al-<sup>c</sup>aqrab'' meaning "[The] forehead of the scorpion".
+
+==ω¹ Scorpii==
+'''Omega-1 Scorpii''' is a blue-white [[stellar classification|B-type]] [[main sequence|dwarf]] with an [[apparent magnitude]] of +3.93.  It is approximately 424 [[light years]] from [[Earth]].
+
+Omega-1 Sco is one of the most massive members of the Upper Scorpius subgroup of the [[Scorpius-Centaurus Association]],
+a group of thousands of young stars with mean age 11 million years at distance 470 light years (145 parsecs).<ref name="Pecaut">{{Cite journal|author=Mark J. Pecaut, Eric E. Mamajek, & Eric J. Bubar|date=February 2012|title=A Revised Age for Upper Scorpius and the Star Formation History among the F-type Members of the Scorpius-Centaurus OB Association|journal=Astrophysical Journal|volume=746|issue=2|pages=154|url=http://adsabs.harvard.edu/abs/2012ApJ...746..154P}}</ref> A recent analysis of the [[HR diagram]] position for the star<ref name=Pecaut /> estimates its [[effective temperature]] to be 26,550 [[Kelvin]] with a [[luminosity]] of 9,120 Suns, consistent with an isochronal age of 5 million years and an estimated mass of 11 [[solar mass]]es.
+
+==ω² Scorpii==
+{{Starbox short |
+ name=ω² Scorpii |
+ epoch=[[J2000.0]] |
+ constell=[[Scorpius]] |
+ ra=16<sup>h</sup> 07<sup>m</sup> 24.3<sup>s</sup> |
+ dec=&minus;20° 52' 8" |
+ spectral=G3II-III |
+ appmag_v=+4.31 |
+ dist_ly=265 ± 19 |
+ dist_pc=81 ± 6 |
+ names=Jabhat al Akrab, 10&nbsp;Scorpii, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5997, [[Henry Draper Catalogue|HD]]&nbsp;144608, [[Hipparcos|HIP]]&nbsp;78990
+}}
+'''Omega-2 Scorpii''' is a yellow [[stellar classification|G-type]] [[bright giant]] with an [[apparent magnitude]] of +4.31.  It is approximately 265 [[light years]] from [[Earth]].
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+}}
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Omega-1]]
+[[Category:Scorpius (constellation)]]
+[[Category:B-type main sequence stars]]
+[[Category:G-type bright giants]]
+[[Category:G-type giants]]
+[[Category:Double stars]]
+
+
+{{Main-star-stub}}
+
+[[fa:امگا کژدم]]
+[[fr:Oméga Scorpii]]
+[[pt:Omega1 Scorpii]]
+[[zh:钩钤一和钩钤二]]

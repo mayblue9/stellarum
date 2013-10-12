@@ -1,0 +1,106 @@
+{{Sky|21|40|05.5|-|16|39|44|139}}
+{{Starbox begin
+| name=γ Capricorni
+}}
+{{Starbox image
+| image = [[File:Capricornus constellation map.png|250px]]
+| caption = Gamma Capricorni is at left center.
+}}
+{{Starbox observe
+| epoch=[[J2000.0]]
+| equinox=[[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell=[[Capricornus]]
+| ra={{RA|21|40|05.4563}}<ref name="hipparcos">{{cite journal
+  | author=Perryman, M. A. C. ''et al''
+  | title=The HIPPARCOS Catalogue
+  | journal=Astronomy & Astrophysics | volume=323
+  | pages=L49–L52 | month=July | year=1997
+  | bibcode=1997A&A...323L..49P }}</ref>
+| dec={{DEC|−16|39|44.308}}<ref name="hipparcos" />
+| appmag_v=+3.69
+}}
+{{Starbox character
+| class=F0p<ref name="SIMBAD" />
+| b-v=+0.32<ref name="clpl4">{{cite journal
+  | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewskj, W. Z.
+  | title=UBVRIJKL photometry of the bright stars
+  | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966
+  | bibcode=1966CoLPL...4...99J }}</ref>
+| u-b=+0.22<ref name="clpl4" />
+| variable=
+}}
+{{Starbox astrometry
+| radial_v=−31.2<ref>{{cite book
+  | last=Wilson | first=Ralph Elmer | year=1953
+  | title=General catalogue of stellar radial velocities
+  | publisher=Carnegie Institution of Washington
+  | url=http://adsabs.harvard.edu/abs/1953QB901.W495.....
+  | accessdate=2007-05-14 }}</ref>
+| prop_mo_ra=187.39<ref name="hipparcos" />
+| prop_mo_dec=−22.33<ref name="hipparcos" />
+| parallax=23.48
+| p_error=1.10
+| parallax_footnote=<ref name="hipparcos" />
+| absmag_v=
+}}
+{{Starbox detail
+| age=
+| metal=<math>\begin{smallmatrix}\left[\frac{Fe}{H}\right]\ =\ 0.5\end{smallmatrix}</math><ref name="aaa249" />
+| mass=
+| radius=
+| rotational_velocity=40<ref>{{cite journal
+  | author=Royer, F.; Grenier, S.; Baylac, M.-O.; Gómez, A. E.; Zorec, J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i
+  | journal=Astronomy and Astrophysics | volume=393
+  | pages=897–911 | year=2002 | month=October
+  | doi=10.1051/0004-6361:20020943
+  | bibcode=2002A&A...393..897R |arxiv = astro-ph/0205255 }}</ref>
+| luminosity_bolometric=
+| temperature=7,520<ref name="aaa249">{{cite journal
+  | author=Burkhart, C.; Coupry, M. F. | title=The A and Am-Fm stars. I - The abundances of Li, Al, Si, and Fe
+  | journal=Astronomy and Astrophysics | volume=249
+  | issue=1 | month=September | year=1991 | pages=205−216
+  | bibcode=1991A&A...249..205B }}</ref>
+| gravity=3.95<ref name="aaa249" />
+}}
+{{Starbox catalog
+| names = Nashira, 40 Capricorni, [[Harvard Revised catalogue|HR]] 8278, [[Henry Draper Catalogue|HD]] 206088, [[Gliese-Jahreiss catalogue|NN]] 4209, [[Bonner Durchmusterung|BD]]−17°6340, [[Fifth Fundamental Catalogue|FK5]] 812, [[Hipparcos catalogue|HIP]] 106985, [[Smithsonian Astrophysical Observatory catalogue|SAO]] 164560.<ref name="SIMBAD">{{cite web
+  | work=SIMBAD | url =http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=HD+206088
+  | title=HD 206088 -- Variable Star of alpha2 CVn type
+  | publisher=Centre de Données astronomiques de Strasbourg
+  | accessdate=2009-11-12 }}</ref>
+}}
+{{Starbox end}}
+'''Gamma Capricorni''' (γ Cap, γ Capricorni) is a [[giant star]] in the [[constellation]] [[Capricornus]].  It has the traditional name '''Nashira''', which comes from the [[Arabic language|Arabic]] '''سعد ناشرة''' - ''sa'd nashirah'' for "the lucky one" or "bearer of good news".  
+
+In [[Chinese language|Chinese]], {{lang|zh|壘壁陣}} ({{lang|zh-Latn|Lěi Bì Zhèn}}), meaning ''[[Encampment (Chinese constellation)|Line of Ramparts]]'', refers to an asterism consisting of γ Capricorni, [[Kappa Capricorni|κ Capricorni]], [[Epsilon Capricorni|ε Capricorni]], [[Delta Capricorni|δ Capricorni]], [[Iota Aquarii|ι Aquarii]], [[Sigma Aquarii|σ Aquarii]], [[Lambda Aquarii|λ Aquarii]], [[Phi Aquarii|φ Aquarii]], [[27 Piscium]], [[29 Piscium]], [[33 Piscium]] and [[30 Piscium]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Capricorni itself is known as {{lang|zh|壘壁陣三}} ({{lang|zh-Latn|Lěi Bì Zhèn sān}}, {{lang-en|the Third Star of Line of Ramparts}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Because it is near the [[ecliptic]], γ Capricorni can be [[occultation|occulted]] by the [[Moon]], and (rarely) by [[planet]]s.
+
+γ Capricorni is a blue-white [[stellar classification|A-type (A7III)]] [[sequence|giant star]] with a mean [[apparent magnitude]] of +3.69.  It is approximately 139 [[light years]] from [[Earth]].  It is classified as an [[Alpha² Canum Venaticorum variable|Alpha2 Canum Venaticorum type]] [[variable star]] and its brightness varies by 0.03 magnitudes.
+
+==Nashira as the name==
+[[Nashira (AK-85)]] is once of [[United States]] navy ship.
+
+==References==
+{{reflist}}
+
+{{var-star-stub}}
+{{Stars of Capricornus}}
+
+[[Category:Alpha2 Canum Venaticorum variables]]
+[[Category:Bayer objects|Capricorni, Gamma]]
+[[Category:Capricornus (constellation)]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:سعد ناشرة]]
+[[de:Nashira]]
+[[es:Nashira]]
+[[fa:ناشره]]
+[[fr:Gamma Capricorni]]
+[[id:Gamma Capricorni]]
+[[lb:Nashira (Stär)]]
+[[nl:Nashira]]
+[[pt:Gamma Capricorni]]
+[[sk:Nashira]]
+[[zh:壘壁陣三]]

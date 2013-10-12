@@ -1,0 +1,95 @@
+{{Starbox begin
+ | name=Theta Aquarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aquarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquarius constellation and its surroundings]]
+     <div style="position: absolute; left: 47.0%; top: 39.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of θ Aquarii (circled)
+}}
+{{Starbox observe
+| epoch        = J2000
+| ra           = {{RA|22|16|50.03635}}<ref name=aaa474_2_653/>
+| dec          = {{DEC|–07|46|59.8480}}<ref name=aaa474_2_653/>
+| appmag_v     = 4.175<ref name=sps1966/>
+| constell     = [[Aquarius (constellation)|Aquarius]]
+}}
+{{Starbox character
+ | class       = G8&nbsp;III–IV<ref name=pasj60_4_781/>
+ | b-v         = +0.983<ref name=sps1966/>
+ | u-b         = +0.818<ref name=sps1966/>
+ | variable    =
+}}
+{{Starbox astrometry
+ | radial_v    = {{nowrap|–13.77 ± 0.17}}<ref name=aj135_1_209/>
+ | prop_mo_ra  = +118.80<ref name=aaa474_2_653/>
+ | prop_mo_dec = –22.18<ref name=aaa474_2_653/>
+ | parallax    = 17.40
+ | p_error     = 0.23
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = +0.23<ref name=pasj60_4_781/>
+}}
+{{Starbox detail
+ | mass        = {{nowrap|2.39<ref name=aaa361_614/> to 2.78<ref name=pasj60_4_781/>}}
+ | radius      = 12<ref name=aj135_1_209/>
+ | luminosity  = {{nowrap|72<ref name=aj135_1_209/> to 83<ref name=pasj60_4_781/>}}
+ | temperature = 4,864<ref name=aj135_1_209/>
+ | metal_fe    = {{nowrap|+0.01<ref name=aj135_1_209/> to +0.09<ref name=pasj60_4_781/>}}
+ | gravity     = 2.8<ref name=aj135_1_209/>
+ | rotational_velocity = 1.6<ref name=aj135_1_209/>
+ | age_myr     = 437<ref name=pasj60_4_781/>
+}}
+{{Starbox catalog
+ | names = Ancha, 43&nbsp;Aquarii, [[Bonner Durchmusterung|BD]]–08&nbsp;5845, [[FK5]]&nbsp;840, [[Henry Draper Catalogue|HD]]&nbsp;211391, [[Hipparcos catalogue|HIP]]&nbsp;110003, [[Bright Star Catalogue|HR]]&nbsp;8499, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;145991.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Theta Aquarii''' (θ Aqr, θ Aquarii) is the [[bayer designation]] for a star in the [[celestial equator|equatorial]] [[constellation]] of [[Aquarius (constellation)|Aquarius]]. It has the traditional name '''Ancha'''; [[Medieval Latin]] for "the [[haunch]]". Visible to the naked eye at [[apparent magnitude]] 4.175,<ref name=sps1966/> it is located at a distance of around {{Convert|187|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> Since it is near the [[ecliptic]] it can be [[occultation|occulted]] by the [[Moon]], or very rarely by [[planet]]s.
+
+In [[Chinese language|Chinese]], {{lang|zh|泣}} ({{lang|zh-Latn|Qì}}), meaning ''[[Emptiness (Chinese constellation)|Weeping]]'', refers to an asterism consisting of θ Aquarii and [[Rho Aquarii|ρ Aquarii]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Aquarii itself is known as {{lang|zh|泣二}} ({{lang|zh-Latn|Qì èr}}, {{lang-en|the Second Star of Weeping}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> Possibly, the name '''Lei''' meaning ''tears (weeping)'' in Chinese, was appear from the Chinese name for this star<ref>[http://www.constellationsofwords.com/stars/Ancha.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Aquarius]</ref>
+
+Ancha belongs to the [[stellar classification|spectral class]] G8 with a [[luminosity class]] of III–IV suggesting that, at an age of 437<ref name=pasj60_4_781/> million years, this star is part way between the [[subgiant star|subgiant]] and [[giant star|giant]] stages of its [[stellar evolution|evolution]]. Estimates of the star's mass range from 2.39<ref name=aaa361_614/> to 2.78<ref name=pasj60_4_781/> times the Sun's mass, with a radius of about 12<ref name=aj135_1_209/> times that of the Sun. It is radiating from 72<ref name=aj135_1_209/> to 83<ref name=pasj60_4_781/> times as much luminosity as the Sun from its enlarged [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 4,864&nbsp;K.<ref name=aj135_1_209/> At this heat, the star glows with the yellow hue of a [[G-type star]].<ref name=csiro/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P | postscript=. }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=tet Aqr -- Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Theta+Aquarii | accessdate=2012-06-30 | postscript=. }}</ref>
+
+<ref name=sps1966>{{cite journal | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G | postscript=. }}</ref>
+
+<ref name=pasj60_4_781>{{citation | display-authors=1 | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar Parameters and Elemental Abundances of Late-G Giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T | postscript=. |arxiv = 0805.2434 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 | postscript=. }}</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=22+16+50.0364-07+46+59.845&ident=*+tet+Aqr&submit=Aladin+previewer Image Ancha]
+
+{{Stars of Aquarius}}
+
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Aquarius (constellation)]]
+[[Category:Bayer objects|Aquarii, Theta]]
+[[Category:K-type giants]]
+[[Category:K-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ca:Theta Aquarii]]
+[[de:Ancha]]
+[[es:Ancha]]
+[[fa:تتا دلو]]
+[[fr:Theta Aquarii]]
+[[id:Theta Aquarii]]
+[[it:Ancha]]
+[[lb:Ancha (Stär)]]
+[[nl:Ancha]]
+[[pt:Theta Aquarii]]
+[[sk:Ancha]]

@@ -1,0 +1,55 @@
+{{Starbox begin
+| name=Beta Piscium
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pisces IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pisces constellation and its surroundings]]
+     <div style="position: absolute; left: 76%; top: 55%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Piscium(circled)
+}}
+{{Starbox short |
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Pisces (constellation)|Pisces]]
+| ra=23<sup>h</sup> 03<sup>m</sup> 52.6<sup>s</sup>
+| dec=+03° 49' 12"
+| spectral=B6Ve
+| appmag_v=+4.53
+| dist_ly=492
+| dist_pc=151
+| names=Fum al Samakah, β&nbsp;Piscium, β&nbsp;Psc, Beta&nbsp;Psc, 4&nbsp;Psc,  [[Star catalogue#BD/CD/CPD|BD]]+03&nbsp;4818, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1602, [[Boss General Catalogue|GC]]&nbsp;32134, [[Henry Draper Catalogue|HD]]&nbsp;217891, [[Hipparcos catalogue|HIP]]&nbsp;113889, [[Bright Star Catalogue|HR]]&nbsp;8773, [[PPM Star Catalogue|PPM]]&nbsp;173700, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;127934
+}}
+
+'''Beta Piscium''' ('''Beta&nbsp;Psc''', '''β&nbsp;Piscium''', '''β&nbsp;Psc''') is a [[star]] in the [[constellation]] [[Pisces (constellation)|Pisces]].  It has the traditional name '''Fum al Samakah'''.
+
+Beta Piscium belongs to the [[spectral class]] B6Ve and is of [[apparent magnitude|magnitude]] +4.53m.  It is approximately 492 [[light-years]] from the Sun.
+
+==Name and etymology==
+*The name ''Fum al Samakah'' was from the Arabic فم السمكة ''fum al-samakah'' "mouth of the fish" (compare [[Fomalhaut]]).<ref>[http://cdsarc.u-strasbg.fr/viz-bin/Cat?cat=IV%2F27A&target=readme& HD-DM-GC-HR-HIP-Bayer-Flamsteed Cross Index, Kostjuk 2002], refer to [ftp://cdsarc.u-strasbg.fr/pub/cats/IV/27A/ table3.dat]</ref><ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Pisces*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Pisces, the Fishes]</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|霹靂}} ({{lang|zh-Latn|Pī Lì}}), meaning ''[[Wall (Chinese constellation)|Thunderbolt]]'', refers to an asterism consisting of refers to an asterism consisting of β Piscium, [[Gamma Piscium|γ Piscium]], [[Theta Piscium|θ Piscium]], [[Iota Piscium|ι Piscium]] and [[Omega Piscium|ω Piscium]]. Consequently, β Piscium itself is known as {{lang|zh|霹靂一}} ({{lang|zh-Latn|Pī Lì yī}}, {{lang-en|the First Star of Thunderbolt}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060708.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 8 日]</ref>
+
+==References==
+<references/>
+
+{{Stars of Pisces}}
+
+[[Category:Bayer objects|Piscium, Beta]]
+[[Category:B-type main sequence stars]]
+[[Category:Flamsteed objects|Piscium, 4]]
+[[Category:Pisces (constellation)]]
+[[Category:Stars with proper names]]
+
+
+{{main-star-stub}}
+
+[[de:Fum as-Samaka]]
+[[es:Fum al Samakah]]
+[[fa:فم‌السمکه]]
+[[fr:Beta Piscium]]
+[[id:Beta Piscium]]
+[[lb:Fum al Samakah (Stär)]]
+[[nl:Fum al Samakah]]
+[[pt:Beta Piscium]]
+[[sk:Fum al Samakah]]
+[[zh:霹雳一]]

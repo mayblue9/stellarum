@@ -1,0 +1,35 @@
+'''Lambda Leonis''' (λ Leo, λ Leonis) is a [[star]] in the [[constellation]] [[Leo (constellation)|Leo]].  It has the traditional name '''Alterf''', from the [[Arabic language|Arabic]] '''الطرف''' ''{{unicode|aṭ-ṭarf}}'' "the view (of the lion)".
+
+This star, along with [[Xi Cancri|ξ Cnc]], were the Persian ''Nahn'', "the Nose", and the Coptic ''Piautos'', "the Eye", both lunar asterisms.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cancer*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=114}}</ref>
+
+Lambda Leonis is of [[stellar classification|spectral class]] K5 and [[apparent magnitude]] +4.32.  It is approximately 336 [[light year]]s from [[Earth]]. 
+
+Coordinates:
+* [[Right ascension]]: 09<sup>h</sup> 31<sup>m</sup> 43.240<sup>s</sup>
+* [[Declination]]: +22° 58' 05.036"
+
+==References==
+{{reflist}}
+
+{{Stars of Leo}}
+
+[[Category:Leo (constellation)]]
+[[Category:Bayer objects|Leonis, Lambda]]
+[[Category:Stars with proper names]]
+
+[[ar:الطرف (نجم)]]
+[[de:Alterf]]
+[[es:Alterf]]
+[[fr:Lambda Leonis]]
+[[id:Lambda Leonis]]
+[[lb:Alterf (Stär)]]
+[[nl:Alterf]]
+[[pt:Lambda Leonis]]
+[[sk:Alterf]]

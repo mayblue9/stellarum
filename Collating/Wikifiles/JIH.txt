@@ -1,0 +1,70 @@
+{{Starbox begin
+| name=Kappa Pegasi }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|21|44|38.7344}}<ref name=aaa323/>
+| dec={{DEC|+25|38|42.128}}<ref name=aaa323/>
+| appmag_v=4.159
+| constell=[[Pegasus (constellation)|Pegasus]] }}
+{{Starbox character
+| class=F5IV
+| b-v=+0.44<ref name=clpl99/>
+| u-b=+0.03<ref name=clpl99/>
+| variable= }}
+{{Starbox astrometry
+| radial_v=−8.1
+| prop_mo_ra=46.66<ref name=aaa323/>
+| prop_mo_dec=13.47<ref name=aaa323/>
+| parallax=28.34
+| p_error=0.88
+| parallax_footnote=<ref name=aaa323/>
+| absmag_v= }}
+{{Starbox detail
+| mass=1.55/1.66/0.81<ref name=apj636_2/>
+| radius=
+| luminosity=
+| temperature=6,579<ref name=apj354/>
+| metal=<math>\begin{smallmatrix}\left[\frac{Fe}{H}\right]\ =\ -0.37\end{smallmatrix}</math><ref name=apj354/>
+| rotational_velocity=35<ref name=csrv70/>
+| gravity=3.00<ref name=apj354/>
+| age= }}
+{{Starbox catalog
+| names=[[Harvard Revised catalogue|HR]] 8315, [[Bonner Durchmusterung|BD]]+24 4463, [[Henry Draper catalogue|HD]] 206901, [[Smithsonian Astrophysical Observatory|SAO]] 89949, [[Hipparcos catalogue|HIP]] 107354.<ref name=SIMBAD/> }}
+{{Starbox end}}
+
+'''Kappa Pegasi''' is a [[triple star]] system in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. It has an apparent brightness of +4.13 [[stellar magnitude|magnitude]] and belongs to the [[spectral class]] F5IV; a [[subgiant star]]. The star has also the traditional name '''Jih'''.{{Fact|date=May 2010}}
+
+This system consists of two components, designated Kappa Pegasi A and B, that are separated by an angular distance of 0.235&nbsp;[[arcsecond]]s. The binary nature of this pair was discovered by [[Sherburne Wesley Burnham|Sherburne W. Burnham]] in 1880. They orbit around each other every 11.6&nbsp;years with a [[semimajor axis]] of 0.4&nbsp;arcseconds. The brighter member of the pair, Kappa Pegasi B, is actually a [[spectroscopic binary]], with the components designated Kappa Pegasi Ba and Kappa Pegasi Bb. They orbit about each other every six days. There is a fourth component, Kappa Pegasi C, which may be an [[optical companion]].<ref name=apj636_2/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa323>{{cite journal | author=Perryman, M. A. C. | coauthors=''et al.'' | title=The HIPPARCOS Catalogue | journal=Astronomy & Astrophysics | volume=323 | pages=L49–L52 | month=April | year=1997 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=kap Peg -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=kap+Peg | accessdate=2010-05-25 }}</ref>
+
+<ref name=apj354>{{cite journal | last=Balachandran | first=Suchitra | title=Lithium depletion and rotation in main-sequence stars | journal=Astrophysical Journal, Part 1 | volume=354 | date=May 1, 1990 | pages=310−332 | month=May | year=1990 | doi=10.1086/168691 | bibcode=1990ApJ...354..310B
+ }}</ref>
+
+<ref name=csrv70>{{cite journal | author=Bernacca, P. L.; Perinotto, M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=clpl99>{{cite journal | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewskj, W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=apj636_2>{{cite journal | author=Muterspaugh, Matthew W. | coauthors=''et al.'' | title=PHASES Differential Astrometry and Iodine Cell Radial Velocities of the κ Pegasi Triple Star System | journal=The Astrophysical Journal | volume=636 | issue=2 | pages=1020−1032 | month=January | year=2006 | doi=10.1086/498209 | bibcode=2006ApJ...636.1020M |arxiv = astro-ph/0509406 }}</ref>
+
+}}
+
+{{Stars of Pegasus}}
+
+[[Category:Bayer objects|Pegasus, Kappa]]
+[[Category:Flamsteed objects|Pegasus, 10]]
+[[Category:Pegasus (constellation)]]
+[[Category:F-type subgiants]]
+[[Category:Stars with proper names]]
+
+{{Subgiant-star-stub}}
+
+[[de:Jih]]
+[[fa:کاپا پگاسوس]]
+[[id:Kappa Pegasi]]
+[[pt:Kappa Pegasi]]

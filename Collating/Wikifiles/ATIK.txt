@@ -1,0 +1,61 @@
+{{Refimprove|date=June 2009}}
+
+[[Image:Perseus constellation map visualization.PNG|250px|thumb|Stars of [[Perseus (constellation)|Perseus]].  Omicron Persei is labeled with a lowercase [[omicron]], located at the bottom of the image.]]
+{{Starbox short |
+| name=ο Persei
+| epoch=[[J2000.0]]
+| constell=[[Perseus (constellation)|Perseus]]
+| ra=03<sup>h</sup> 44<sup>m</sup> 19.132<sup>s</sup><ref name=simbada>[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=omicron+persei Database entry for omicron persei], [[SIMBAD]].  Accessed online July 8, 2009.</ref>
+| dec=+32° 17' 17.69"<ref name=simbada />
+| spectral=B1III/B3V
+| appmag_v=+3.83
+| dist_ly=1000-1600
+| dist_pc=300-500
+| names=Atik, 38 Per, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1131, [[Henry Draper Catalogue|HD]]&nbsp;23180, [[Star catalogue#SAO|SAO]]&nbsp;56673
+}}
+
+'''Omicron Persei''' (ο Per) is a [[star]] in the [[constellation]] [[Perseus (constellation)|Perseus]]. It has the traditional name '''Atik''' (also '''Ati''', '''Al Atik''', Arabic for "the shoulder"). 
+
+Atik is a [[spectroscopic binary|spectroscopic]] [[binary star]] consisting of a [[stellar classification|spectral type]] B1 giant and a type B3 dwarf orbiting each other every 4.5 [[day]]s.
+
+==In fiction==
+{{main|Stars and planetary systems in fiction#Omicron Persei (Al Atik)}}
+Omicron Persei is perhaps best known from the animated television series ''[[Futurama]]'', where it is the solar system of the Omicronians- a race of giant horned toad creatures. Its eighth planet is ruled by the despotic leader, [[List of recurring characters in Futurama#Lrrr|Lrrr]], who loudly and frequently announces the name of his home system.
+
+It has been featured in other [[science fiction]] including ''[[Star Trek]]'', ''[[Mystery Science Theater 3000]]'' and ''[[Transformers]]''.
+
+==Named after Atik==
+[[USS Atik (AK-101)|USS ''Atik'']] was a ship of the [[United States Navy]].
+
+==Ambiguity==
+
+Some sources, including [[Starry Night (planetarium software)]], an atlas,<ref>{{cite book|last=Mullaney|first=James, and Tirion, Wil|title=The Cambridge Double Star Atlas, Chart 7|year=2009|publisher=University Press, Cambridge|isbn=978-0-521-49343-7}}</ref>  and a web site<ref>[http://www.fourmilab.ch/yoursky/catalogues/starname.html Your Sky Object Catalogue: Named Stars]</ref> attribute the name Atik to the nearby, brighter star [[Zeta Persei]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/atik.html Atik]
+
+{{Stars of Perseus}}
+
+<!--Categories-->
+[[Category:Perseus (constellation)]]
+[[Category:Bayer objects|Persei, Omicron]]
+[[Category:B-type giants]]
+[[Category:B-type main sequence stars]]
+[[Category:Binary stars]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[ar:عاتق الثريا]]
+[[de:Atik]]
+[[es:Atik]]
+[[fa:امیکرون برساووش]]
+[[fr:Omicron Persei]]
+[[id:Omicron Persei]]
+[[it:Omicron Persei]]
+[[nl:Atik]]
+[[pt:Omicron Persei]]
+[[sk:Atik]]
+[[tt:Гатикъ]]

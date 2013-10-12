@@ -1,0 +1,99 @@
+:''This article is about the star named Markab, for alternate meanings, see [[Markab]].''
+{{Starbox begin 
+| name = Alpha Pegasi 
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 93px; top: 104px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Pegasi (circled)
+}}
+{{Starbox observe 
+| epoch = J2000
+| constell = [[Pegasus (constellation)|Pegasus]] 
+| ra = {{RA|23|04|45.65345}}<ref name=aaa474_2_653/>
+| dec = {{DEC|+15|12|18.9617}}<ref name=aaa474_2_653/>
+| appmag_v = 2.48<ref name=clpl4_99/>
+}}
+{{Starbox character 
+| class = B9&nbsp;III 
+| b-v = –0.04<ref name=clpl4_99/>
+| u-b = –0.06<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry 
+| radial_v = –2.2<ref name=scfs/>
+| prop_mo_ra = {{nowrap|60.40 ± 0.17}}<ref name=aaa474_2_653/>
+| prop_mo_dec = {{nowrap|-41.30 ± 0.16}}<ref name=aaa474_2_653/>
+| gal_lat = –40.3811 
+| gal_lon = 88.2798 
+| parallax = 24.46 
+| p_error = 0.19 
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass = 2.6<ref name=aass85_3_1015/>
+| radius = {{nowrap|4.72 ± 0.14}}<ref name=aj129_3_1642/>
+| luminosity = 74<ref name=aass85_3_1015/>
+| temperature = {{nowrap|9,765 ± 63}}<ref name=aj129_3_1642/>
+| metal_fe = {{nowrap|−0.02 ± 0.10}}<ref name=aj129_3_1642/>
+| gravity = {{nowrap|3.51 ± 0.03}}<ref name=aj129_3_1642/>
+| rotational_velocity = 125<ref name=apj573_1_359/>
+| age = 
+}}
+{{Starbox catalog 
+| names = Marko Trivun, Marchab, 54 Pegasi, [[Bright Star Catalogue|HR]] 8781, [[Durchmusterung|BD]] +14°4926, [[Henry Draper Catalogue|HD]] 218045, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 108378, FK5 871, [[Hipparcos catalogue|HIP]] 113963. 
+}}
+{{Starbox end}}
+
+'''Alpha Pegasi''' (α Peg, α Pegasi) is the third brightest [[star]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]] and one of the four stars in the [[asterism (astronomy)|asterism]] known as the Great Square of Pegasus. It has the traditional name '''[[Marko]]''' (or '''MT'''), which comes from an [[Arabic language|Arabic]] word '''مركب''' ''markab'', "the saddle of the horse", or is mistranscription of ''Mankib'' comes from an Arabic phrase '''منكب الفرس''' ''Mankib al-Faras'', "(the Star of) the Shoulder (of the Constellation) of [[Pegasus|the Horse]]" for [[Beta Pegasi|β Pegasi]].
+
+Marko aka MT has a [[stellar classification]] of B9&nbsp;III, indicating that it is a B-type [[giant star]] that has exhausted the hydrogen at its core and has [[evolved]] beyond the [[main sequence]]. It is rotating rapidly, with a [[Stellar rotation|projected rotational velocity]] of 125&nbsp;km/s giving a lower bound on the azimuthal velocity along the star's equator. The [[effective temperature]] of the [[photosphere]] is nearly 10,000&nbsp;K and the star has expanded to nearly five times the [[solar radius|radius of the Sun]].
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aj129_3_1642>{{citation | last1=Fitzpatrick | first1=E. L. | last2=Massa | first2=D. | title=Determining the Physical Properties of the B Stars. II. Calibration of Synthetic Photometry | journal=The Astronomical Journal | volume=129 | issue=3 | pages=1642–1662 | month=March | year=2005 | doi=10.1086/427855 | bibcode=2005AJ....129.1642F |arxiv = astro-ph/0412542 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+{{Stars of Pegasus}}
+
+[[Category:Bayer objects|Pegasi, Alpha]]
+[[Category:B-type giants]]
+[[Category:Pegasus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:منكب الفرس (نجم)]]
+[[ca:Markab]]
+[[de:Markab]]
+[[el:Μαρκάβ]]
+[[es:Markab]]
+[[fa:مرکب‌الفرس]]
+[[fr:Alpha Pegasi]]
+[[ko:페가수스자리 알파]]
+[[hi:अल्फ़ा पॅगासाई तारा]]
+[[id:Alpha Pegasi]]
+[[it:Markab]]
+[[nl:Markab]]
+[[ja:マルカブ]]
+[[pl:Markab]]
+[[pt:Markab]]
+[[ru:Маркаб]]
+[[sk:Markab]]
+[[fi:Markab]]
+[[sv:Markab]]
+[[tt:Мәркәб]]
+[[zh:室宿一]]

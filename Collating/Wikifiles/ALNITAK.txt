@@ -1,0 +1,131 @@
+{{Starbox begin |
+   name=Alnitak Aa/Ab/B }}
+{{Starbox image |
+image=[[Image:Ngc2024 2mass.jpg|250px]] |
+caption=Alnitak (in lower right corner) and [[Flame Nebula]] }}
+{{Starbox observe |
+  epoch=J2000 |
+  ra=05<sup>h</sup> 40<sup>m</sup> 45.5<sup>s</sup> |
+  dec=&minus;01° 56&prime; 34&Prime; |
+  appmag_v=2.0/~4/4.21 |
+  constell=[[Orion (constellation)|Orion]] }}
+{{Starbox character |
+  class=O9 Iab/O9/B0 III |
+  b-v=0.14 / ? / &minus;0.01|
+  u-b=&minus;1.07 |
+  variable= }}
+{{Starbox astrometry |
+  radial_v=18 |
+  prop_mo_ra=3.19  |
+  prop_mo_dec=2.03 |
+  parallax=4.43 |
+  p_error=0.64 |
+  absmag_v=&minus;5.25/&minus;3/&minus;2.8 }}<!--
+{{Starbox visbin |
+  name=Alnitak B |
+  period=1,500 |
+  axis=2.728 |
+  eccentricity=0.07 |
+  inclination=72.0 |
+  node=155.5 |
+  periastron=2070.6 }}<!--
+-->{{Starbox detail|
+  mass=28/23/20 |
+  radius=20/? |
+  luminosity=100,000/1,300/? | 
+  temperature=30,000/?/24,000 |
+  metal=? |
+  rotation=140 km/s / ? |
+  age=? }}
+{{Starbox catalog |
+  names=ζ Orionis, 50 Orionis, 126 G. Orionis, [[Harvard Revised catalogue|HR]] 1948/9, [[Bonner Durchmusterung|BD]] &minus;02°1338, [[Henry Draper catalogue|HD]] 37742, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 132444, [[Hipparcos catalogue|HIP]] 26727, TD1 5127, 參宿一. }}
+{{Starbox reference |
+  Simbad=Alnitak }}
+{{Starbox end}}
+'''Alnitak ''' ({{lang-ar|النطاق ''an-niṭāq''}}) is a [[Multiple star|triple star]] some 736 light years distant in the [[constellation]] [[Orion (constellation)|Orion]]. It is part of [[Orion's Belt]] along with [[Alnilam]] and [[Mintaka]], and has a Bayer designation of '''Zeta Orionis'''.
+
+The primary star is a hot [[blue supergiant]] with an absolute magnitude of -5.25, and is the brightest [[Stellar_classification#Class_O|class O]] [[star]] in the night sky with a visual magnitude of +2.04. It has two bluish 4th magnitude companions, producing a combined magnitude for the trio of +1.72. The stars are members of the [[Orion OB1 Association|Orion OB1]] association and the [[Collinder 70]] association.
+
+==Observation history==
+Alnitak has been known since antiquity and, as a component of [[#Orion's belt|Orion's belt]], has been of widespread cultural significance. It was reported to be a double star by amateur German astronomer [[George K. Kunowsky]] in 1819.<ref name=allen/> Much more recently, in 1998, the bright primary was found by a team from the [[Lowell Observatory]] to have a close companion; this had been suspected from observations made with the [[Narrabri Stellar Intensity Interferometer]] in the 1970s.<ref name ="Hummel00"/> Initially thought to be around 1500 light years distant, the Alnitak system's distance was determined to be roughly half that via measurement of its [[parallax|stellar parallax]] by the [[Hipparcos]] satellite.
+
+==System==
+[[Image:Alnitak sun comparision.png|thumb|left|Alnitak compared to the Sun (to scale)]]
+Alnitak is a [[triple star]] system at the eastern end of Orion's belt. The primary (Alnitak A) is itself a close binary, comprising Alnitak Aa (a blue [[supergiant]] of spectral and luminosity type O9.7 Ibe, with an absolute magnitude of -5.25 and an apparent magnitude of 2.0) and Alnitak Ab (a blue dwarf of spectral and luminosity type O V, with an absolute magnitude of about -3.0 and an apparent magnitude of about 4, discovered in 1998 <ref name ="Hummel00">{{cite journal |author=Hummel CA, White NM, Elias NM II, Hajian AR, Nordgren TE|year= 2000|month= |title=ζ Orionis A Is a Double Star |journal=The Astrophysical Journal |volume=540 |issue=2 |pages=L91–L93 |doi=10.1086/312882 |bibcode=2000ApJ...540L..91H}}</ref>). Aa is estimated as being up to 28 times as massive as the sun, and to have a diameter 20 times greater.<ref name ="Remie82">{{cite journal |author=Remie H, Lamers HJGLM|year=1982|title=Effective temperatures, and radii of luminous O and B stars - A test for the accuracy of the model atmospheres|journal=Astronomy and Astrophysics|volume=105|issue=1|pages=85–97 |url=http://adsbit.harvard.edu/cgi-bin/nph-iarticle_query?bibcode=1982A%26A...105...85R |accessdate=2007-12-13 |bibcode=1982A&A...105...85R}}</ref> It is the brightest star of [[Stellar_classification#Class_O|class O]] in the night sky. Alnitak B is a 4th magnitude B-type star which orbits Alnitak A every 1500 years. A fourth star, 9th magnitude Alnitak C, has not been confirmed to be part of the Aa-Ab-B group, and may simply lie along the line of sight.
+
+The Alnitak system is bathed in the nebulosity of [[IC 434]].
+
+==Etymology and cultural significance==
+The traditional name Alnitak, alternately spelled Al Nitak or Alnitah, is taken from the [[Arabic language|Arabic]] النطاق ''an-nitaq'', "the girdle".<ref name=allen>Richard Hinckley Allen, ''Star-names and their meanings'' (1936), p. 314-15.</ref>
+
+===Orion's belt===
+{{Main|Orion's Belt}}
+The three belt stars were collectively known by many names in many cultures. Arabic terms include النجاد ''Al Nijād'' 'the Belt', النسك ''Al Nasak'' 'the Line', العلقات ''Al Alkāt'' 'the Golden Grains or Nuts' and, in modern Arabic, ميزان الحق ''Al Mīzān al H•akk'' 'the Accurate Scale Beam'. In [[Chinese mythology]] they were known as The Weighing Beam.<ref name=allen/> 
+
+The belt was also the [[Three Stars (Chinese constellation)|Three Stars]] mansion ({{zh|t=參宿|s=参宿|p=Shēn Xiù}}), one of the [[Twenty-eight mansions]] of the [[Chinese constellation]]s. It is one of the western mansions of the [[White Tiger (Chinese astronomy)|White Tiger]]. 
+
+In pre-Christian [[Scandinavia]], the belt was known as [[Frigg]]'s [[Distaff]] (''Friggerock'') or [[Freyja]]'s distaff.<ref>Schön, Ebbe. (2004). ''Asa-Tors hammare, Gudar och jättar i tro och tradition''. Fält & Hässler, Värnamo. p. 228.</ref> Similarly Jacob's Staff and Peter's Staff were European [[Bible|biblical]] derived terms, as were the Three Magi, or the Three Kings. [[Väinämöinen]]'s Scythe ([[Kalevala]]) and Kalevan Sword are terms from [[Finnish mythology]].<ref name=allen/> 
+
+The [[Seri people]] of northwestern Mexico call the three belt stars ''Hapj'' (a name denoting a hunter) which consists of three stars:  ''Hap'' (mule deer), ''Haamoja'' (pronghorn), and ''Mojet'' (bighorn sheep). ''Hap'' is in the middle and has been shot by the hunter; its blood has dripped onto [[Tiburón Island]].<ref>{{cite book |last=Moser |first=Mary B. |coauthors=Stephen A. Marlett |title=Comcáac quih yaza quih hant ihíip hac: Diccionario seri-español-inglés |url=http://lengamer.org/admin/language_folders/seri/user_uploaded_files/links/File/DiccionarioSeri2005.pdf |year=2005 |publisher=Universidad de Sonora and Plaza y Valdés Editores |location=Hermosillo, Sonora and Mexico City|language=Spanish and English|format=PDF}}</ref>
+
+In Latin America, this asterism is known as ''Las Tres Mar&iacute;as'' or ''As Três Marias'' which stand for ''The Three Marys'' in Spanish and Portuguese respectively.
+
+==Namesakes==
+[[USS Alnitah (AK-127)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==See also==
+* [[Stars and planetary systems in fiction#Alnitak_.28Zeta_Orionis.29|Alnitak in fiction]]
+* [[Flame Nebula]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web |
+ title=Alnitak 3 | 
+ work=SolStation |
+ url=http://www.solstation.com/x-objects/alnitak3.htm | 
+ accessdate = 2005-12-15}}
+* [http://antwrp.gsfc.nasa.gov/apod/ap100112.html Image of Alnitak] from [[Astronomy Picture of the Day|APOD]]
+* {{WikiSky}}
+
+{{Stars of Orion}}
+{{Sky|05|40|45.5|-|01|56|34|800}}
+
+[[Category:Bayer objects|Orionis, Zeta]]
+[[Category:O-type supergiants]]
+[[Category:B-type giants]]
+[[Category:Triple star systems]]
+[[Category:Orion (constellation)]]
+[[Category:O-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:النطاق (الجبار)]]
+[[bn:ঊষা]]
+[[bg:Алнитак]]
+[[ca:Alnitak]]
+[[cs:Alnitak]]
+[[de:Alnitak]]
+[[es:Alnitak]]
+[[fa:نطاق]]
+[[fr:Zeta Orionis]]
+[[gl:Zeta Orionis]]
+[[ko:알니타크]]
+[[hi:ज़ेटा ओरायोनिस तारा]]
+[[id:Zeta Orionis]]
+[[it:Alnitak]]
+[[he:אלניטק]]
+[[la:Alnitak]]
+[[lb:Alnitak (Stär)]]
+[[hu:Alnitak]]
+[[nl:Alnitak]]
+[[ja:アルニタク]]
+[[no:Alnitak]]
+[[pnb:النطاک]]
+[[pl:Alnitak]]
+[[pt:Zeta Orionis]]
+[[ru:Альнитак]]
+[[sk:Alnitak]]
+[[fi:Zeta Orionis]]
+[[uk:Дзета Оріона]]
+[[zh:參宿一]]

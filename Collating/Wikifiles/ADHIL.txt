@@ -1,0 +1,94 @@
+{{Starbox begin
+ | name=Xi Andromedae
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Andromeda IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Andromeda constellation and its surroundings]]
+     <div style="position: absolute; left: 36.0%; top: 32.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ξ Andromedae (circled)
+}}
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|01|22|20.41924}}<ref name=aaa474_2_653/>
+ | dec={{DEC|+45|31|43.6003}}<ref name=aaa474_2_653/>
+ | appmag_v=+4.90<ref name=clpl4/>
+ | constell=[[Andromeda (constellation)|Andromeda]]
+}}
+{{Starbox character
+ | class=K0&nbsp;IIIb<ref name=mnras389_2_869/>
+ | b-v=+1.08<ref name=clpl4/>
+ | u-b=+0.98<ref name=clpl4/>
+ | variable=
+}}
+{{Starbox astrometry
+ | radial_v=–12.59<ref name=aaa430_165/>
+ | prop_mo_ra=+31.45<ref name=aaa474_2_653/> 
+ | prop_mo_dec=+8.83<ref name=aaa474_2_653/>
+ | parallax=15.21 
+ | p_error=0.28
+ | parallax_footnote=<ref name=aaa474_2_653/>
+ | absmag_v=0.550<ref name=aaa456_3_1109/>
+}}
+{{Starbox detail
+ | mass=2.5<ref name=aaa456_3_1109/>
+ | radius=10<ref name=aj135_1_209/>
+ | luminosity=45.7<ref name=aj135_1_209/>
+ | temperature=4,656<ref name=aj135_1_209/>
+ | metal_fe=+0.03<ref name=aj135_1_209/>
+ | gravity=2.8<ref name=aj135_1_209/>
+ | rotational_velocity=0.0<ref name=aj135_1_209/>
+ | age_myr=
+}}
+{{Starbox catalog
+ | names=Adhil, 46&nbsp;Andromedae, [[Star catalogue#BD.2FCD.2FCPD|BD]]+44&nbsp;287, [[FK5]]&nbsp;1035, [[Henry Draper Catalogue|HD]]&nbsp;8207, [[Hipparcos catalogue|HIP]]&nbsp;6411, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;390, [[Star catalogue#SAO|SAO]]&nbsp;37155.
+}}
+{{Starbox end}}
+'''Xi Andromedae''' (ξ And, ξ Andromedae) is a solitary<ref name=mnras389_2_869/> [[star]] in the northern [[constellation]] of [[Andromeda (constellation)|Andromeda]]. It bears the traditional name '''[[Adhil]]''', which is derived from the Arabic الذيل ''að-ðayl'' "the [[train (clothing)|train]]" (lit. "the tail"). It has an [[apparent magnitude]] of +4.9<ref name=clpl4/> and lies at a distance of roughly {{Convert|214|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+[[John Flamsteed]] did not designate this star ''[[Bayer designation|Bayer Cha.]]'' as number [[46 Andromedae|46th of Andromeda]] in his star [[Star cartography#Important historical star tables|catalogue]] and [[Star cartography#Telescopic atlases|atlas]]. He wrongly designated "ξ" for his [[49 Andromedae|49th of Andromeda]] (Bayer's "A" And).{{citation needed|date=June 2012}}
+
+This star is a [[red clump]] [[giant star]] that has begun generating energy through the fusion of helium at its core, having passed through the [[red giant branch]] of its [[stellar evolution|evolution]].<ref name=aaa456_3_1109/> It has a [[stellar classification]] of K0&nbsp;IIIb,<ref name=mnras389_2_869/> with 2.5<ref name=aaa456_3_1109/> times the mass of the Sun and 10<ref name=aj135_1_209/> times the Sun's radius. Xi Andromedae is emitting nearly 46<ref name=aj135_1_209/> times as much luminosity as the Sun from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 4,656&nbsp;K,<ref name=aj135_1_209/> giving it the orange-hued glow of a [[K-type star]]. It has no measurable [[projected rotational velocity]],<ref name=aj135_1_209/> although this may simply mean that the star's pole of rotation is facing in the general direction of the Earth.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M | postscript=. }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 | postscript=. }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J | postscript=. }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E | postscript=. |arxiv = 0806.2878 }} Note that the 1991 [[Bright Star Catalogue]] has listed this as a [[spectroscopic binary]] with a period of 17.7673d.</ref>
+
+<ref name=aaa456_3_1109>{{citation | display-authors=1 | last1=Mishenina | first1=T. V. | last2=Bienaymé | first2=O. | last3=Gorbaneva | first3=T. I. | last4=Charbonnel | first4=C. | last5=Soubiran | first5=C. | last6=Korotin | first6=S. A. | last7=Kovtyukh | first7=V. V. | title=Elemental abundances in the atmosphere of clump giants | journal=Astronomy and Astrophysics | volume=456 | issue=3 | pages=1109–1120 | month=September | year=2006 | doi=10.1051/0004-6361:20065141 | bibcode=2006A&A...456.1109M |arxiv = astro-ph/0605615 }}</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=01+22+20.4198%2B45+31+43.600&ident=*+ksi+And&submit=Aladin+previewer Image Xi Andromedae]
+* [http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Xi+Andromedae&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id Simbad]
+
+{{Stars of Andromeda}}
+[[Category:Henry Draper Catalogue objects|8207]]
+[[Category:Bayer objects|Andromedae, Xi]]
+[[Category:Flamsteed objects|Andromedae, 46]]
+[[Category:Andromeda (constellation)]]
+[[Category:K-type giants]]
+[[Category:Spectroscopic binaries]]
+
+[[ca:Xi Andromedae]]
+[[de:Adhil]]
+[[fa:کسی زن برزنجیر]]
+[[fr:Xi Andromedae]]
+[[ko:안드로메다자리 크시]]
+[[id:Xi Andromedae]]
+[[it:Xi Andromedae]]
+[[lb:Adhil (Stär)]]
+[[nl:Adhil]]
+[[pt:Xi Andromedae]]
+[[ru:Адхил]]
+[[tt:Әзәйл]]
+[[zh:仙女座ξ]]

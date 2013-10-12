@@ -1,0 +1,106 @@
+{{Starbox begin
+| name=Beta Canis Minoris
+}}
+{{Starbox image
+| image    = [[File:Position Beta Cmi.png|250px]]
+| caption  = Position of Beta Canis Minoris.
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|07|27|09.04174}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+08|17|21.5368}}<ref name=aaa474_2_653/>
+| appmag_v = 2.89<ref name=clpl4_99/>
+| constell = [[Canis Minor]]
+}}
+{{Starbox character
+| class    = B8&nbsp;Ve<ref name=apj654_1_544/>
+| b-v      = –0.09<ref name=clpl4_99/>
+| u-b      = –0.28<ref name=clpl4_99/>
+| variable = SPBe<ref name=apj654_1_544/>
+}}
+{{Starbox astrometry
+| radial_v = +22<ref name=gcsrv/>
+| prop_mo_ra  = -51.76<ref name=aaa474_2_653/>
+| prop_mo_dec = -38.29<ref name=aaa474_2_653/>
+| parallax = 20.17
+| p_error  = 0.20
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 3.5<ref name=apj654_1_544/>
+| radius   = 3.5<ref name=aaa505_2_687/>
+| luminosity  = 195<ref name=apj654_1_544/>
+| temperature = 11,772<ref name=aaa505_2_687/>
+| metal_fe = 
+| gravity  = 3.51<ref name=aaa505_2_687/>
+| rotational_velocity = 210<ref name=apj573_1_359/>
+| age_myr  = 160{{+-|20|60}}<ref name=apj736_2_89/>
+}}
+{{Starbox catalog
+| names=Gomeisa, Algomeyla, Gomelza, 3&nbsp;Canis Minoris, [[Bonner Durchmusterung|BD]]+08°1774, [[Fifth Fundamental Catalogue|FK5]]&nbsp;285, [[Henry Draper catalogue|HD]]&nbsp;58715, [[Hipparcos catalogue|HIP]]&nbsp;36188, [[Harvard Revised catalogue|HR]]&nbsp;2845, [[IRAS]]&nbsp;07244+0823, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;115456.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Beta Canis Minoris''' (β CMi, β Canis Minoris) is a [[star]] in the [[constellation]] of [[Canis Minor]]. In the night sky it is notable for its proximity to the prominent star [[Procyon]]. It has the traditional name '''Gomeisa''', which comes from the [[Arabic language|Arabic]] ''al-ghumaisa’'' "the bleary-eyed (woman)",<ref name=Kaler/> short for مرزم الغميصاء ''mirzam al-ghumaisa’'' "girdle of the bleary-eyed one". In Arabic, the short form would be identical with the name of [[Procyon]].
+
+In [[Chinese language|Chinese]], {{lang|zh|南河}} ({{lang|zh-Latn|Nán Hé}}), meaning ''[[Well (Chinese constellation)|South River]]'', refers to an [[Asterism (astronomy)|asterism]] consisting of β Canis Minoris, [[Procyon]] and [[Epsilon Canis Minoris|ε Canis Minoris]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Canis Minoris itself is known as {{lang|zh|南河二}} ({{lang|zh-Latn|Nán Hé èr}}, {{lang-en|the Second Star of South River}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+From [[parallax]] measurements, the distance to this star is about {{Convert|162|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> It has an [[apparent visual magnitude]] of 2.89,<ref name=clpl4_99/> making it easily visible to the naked eye. Beta Canis Minoris has about 3.5 times the [[solar mass|Sun's mass]] and is rotating rapidly with a [[stellar rotation|projected rotational velocity]] of {{nowrap|210 km s<sup>–1</sup>}},<ref name=apj573_1_359/> which gives a lower bound on the [[azimuth]]al [[rotational velocity]] along the star's equator. The actual rotation rate may be about once per day.<ref name=Kaler/>
+
+The [[stellar classification]] of this star is B8&nbsp;Ve.<ref name=apj654_1_544/> A [[luminosity class]] V star belongs on the [[main sequence]], which means it is presently generating energy through the [[thermonuclear fusion]] of hydrogen at its core. The star is radiating this energy from its outer envelope at an [[effective temperature]] of 12,050&nbsp;K,<ref name=apj654_1_544/> giving it a blue-white hue typical of [[B-type star]]s.<ref name=csiro/> An 'e' classification indicates that the [[spectrum]] contains [[emission lines]], which means this is a [[Be star]] that is surrounded by a thin, circumstellar disk made of gaseous material ejected from the star. This hot, gaseous disk is about three times the radius of the star.<ref name=apj654_1_544/>
+
+Beta Canis Minoris shows little variation in brightness, but it does display changes in the hydrogen emission coming from the gaseous disk. Examination with the Canadian [[Microvariability and Oscillations of STars telescope|MOST]] [[space telescope]] reveals low amplitude changes in luminosity from the star. This variation has a cyclic pattern formed from multiple overlapping [[frequency|frequencies]], with the dominant frequencies being 3.257 and 3.282 cycles per day. As such, it belongs to a class called [[slowly pulsating Be star]]s, or SPBe.<ref name=apj654_1_544/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=apj654_1_544>{{citation | display-authors=1 | last1=Saio | first1=H. | last2=Cameron | first2=C. | last3=Kuschnig | first3=R. | last4=Walker | first4=G. A. H. | last5=Matthews | first5=J. M. | last6=Rowe | first6=J. F. | last7=Lee | first7=U. | last8=Huber | first8=D. | last9=Weiss | first9=W. W. | title=MOST Detects g-Modes in the Late-Type Be Star β Canis Minoris (B8 Ve) | journal=The Astrophysical Journal | volume=654 | issue=1 | pages=544–550 | month=January | year=2007 | doi=10.1086/509315 | bibcode=2007ApJ...654..544S |arxiv = astro-ph/0609460 }}</ref>
+
+<ref name=aaa505_2_687>{{citation | last1=Meilland | first1=A. | last2=Stee | first2=Ph. | last3=Chesneau | first3=O. | last4=Jones | first4=C. | title=VLTI/MIDI observations of 7 classical Be stars | journal=Astronomy and Astrophysics | volume=505 | issue=2 | pages=687–693 | month=October | year=2009 | doi=10.1051/0004-6361/200911960 | bibcode=2009A&A...505..687M |arxiv = 0908.1239 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=bet CMi -- Be Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Canis+Minoris | accessdate=2012-01-09 }}</ref>
+
+<ref name=Kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | title=GOMEISA (Beta Canis Minoris) | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/gomeisa.html | accessdate=2012-01-09 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=apj736_2_89>{{citation | display-authors=1 | last1=Janson | first1=Markus | last2=Bonavita | first2=Mariangela | last3=Klahr | first3=Hubert | last4=Lafrenière | first4=David | last5=Jayawardhana | first5=Ray | last6=Zinnecker | first6=Hans | title=High-contrast Imaging Search for Planets and Brown Dwarfs around the Most Massive Stars in the Solar Neighborhood | journal=The Astrophysical Journal | volume=736 | issue=2 | page=89 | month=August | year=2011 | doi=10.1088/0004-637X/736/2/89 | bibcode=2011ApJ...736...89J |arxiv = 1105.2577 }}</ref>
+
+}}
+
+{{Stars of Canis Minor}}
+
+[[Category:Bayer objects|Canis Minoris, Beta]]
+[[Category:B-type main sequence stars]]
+[[Category:Canis Minor]]
+[[Category:Shell stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الغميصاء(نجم)]]
+[[cs:Gomeisa]]
+[[de:Gomeisa]]
+[[el:Γκομέισα]]
+[[es:Gomeisa]]
+[[fa:غمیصا]]
+[[fr:Beta Canis Minoris]]
+[[ko:고메이사]]
+[[id:Beta Canis Minoris]]
+[[it:Gomeisa]]
+[[lb:Gomeisa (Stär)]]
+[[nl:Gomeisa]]
+[[nds:Gomeisa]]
+[[pl:Gomeisa]]
+[[pt:Beta Canis Minoris]]
+[[ru:Гомейса]]
+[[sk:Gomeisa]]
+[[tt:Гомәйсаэ]]
+[[zh:南河二]]

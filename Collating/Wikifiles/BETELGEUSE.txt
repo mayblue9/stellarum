@@ -1,0 +1,1827 @@
+{{other uses}}
+{{Use dmy dates|date=October 2012}}
+{{Starbox begin
+|name =Betelgeuse (α Ori)
+}}
+{{Starbox image
+|image =[[File:Position Alpha Ori.png|250px]]
+|caption = The pink arrow at the star on left labeled α indicates Betelgeuse in [[Orion (constellation)|Orion]].
+}}
+{{Starbox observe
+|epoch = J2000.0
+|constell = [[Orion (constellation)|Orion]]
+|pronounce = {{IPAc-en|ˈ|b|iː|t|əl|dʒ|uː|z}} or<br /> {{IPAc-en|ˈ|b|ɛ|t|əl|dʒ|uː|z}}<ref name="OED" />
+|ra = {{RA|05|55|10.3053}}<ref name="SIMBAD" />
+|dec = {{DEC|+07|24|25.426}}<ref name="SIMBAD" />
+}}
+{{Starbox character
+|class = M2Iab<ref name="SIMBAD" />
+| appmag_1_passband = [[Visible spectrum|V]]
+| appmag_1 = 0.42 (0.3&nbsp;to&nbsp;1.2)<ref name="SIMBAD" /><ref name="AAVSO" />
+| appmag_2_passband = [[J band|J]]
+| appmag_2 = -2.99 ± 0.10<ref name="SIMBAD" />
+|b-v = 1.85<ref name="NICOLET">{{cite journal
+ | author=Nicolet, B.
+ | title=Catalogue of Homogeneous Data in the UBV Photoelectric Photometric System
+ | journal=Astronomy & Astrophysics
+ | year=1978
+ | volume=34
+ | pages=1–49
+ | bibcode=1978A&AS...34....1N
+ | doi= }}</ref>
+|u-b = 2.06<ref name="NICOLET" />
+|variable = SR&nbsp;c [[semiregular variable star|(semi-regular)]]<ref name="SIMBAD" />
+}}
+{{Starbox astrometry
+|radial_v = +21.91<ref name="SIMBAD" />
+|prop_mo_ra = 24.95 ± 0.08<ref name="HARPER" />
+|prop_mo_dec = 9.56 ± 0.15<ref name="HARPER" />
+|parallax = 5.07
+|p_error = 1.10
+|parallax_footnote=<ref name="HARPER" />
+|dist_ly = 643 ± 146<ref name="HARPER" /> <!--Distance (in light-years)-->
+|dist_pc = 197 ± 45<ref name="HARPER" /> <!--Distance (in parsecs)-->
+|absmag_v = −6.02<ref name="WOLFRAM1">{{cite web
+ |title=Betelgeuse
+ |publisher=[[Wolfram Alpha]]
+ |url=http://www.wolframalpha.com/input/?i=betelgeuse
+ |date=18 May 2009
+ |accessdate=25 June 2012}}</ref><ref name="absmagcalc" group="note">Absolute magnitude calculations can vary significantly depending on the assumed parallax measurements. An absolute magnitude of −6.02 assumes the SIMBAD recorded average apparent magnitude for Betelgeuse of 0.42 and the most recent distance estimates of 197 parsecs. Given a variability of 0.2 – 1.2, the absolute magnitude can be said to vary between – 6.27 to −5.27.</ref>
+}}
+{{Starbox detail
+|mass=7.7–20<ref name="MOHAMED1" />
+|radius=950–1200<ref name="MOHAMED1" /><ref>See [[Betelgeuse#Notes|Note#2]] for additional calculations</ref>
+|luminosity=120,000±30,000<ref name="MOHAMED1"/><ref name="SMITH2009"/><ref name="LUMINOSITYCALCS"/>
+|temperature=3,140–3,641<ref name="MOHAMED1" /><ref name="HARPER2001">{{cite journal
+ | title=A Spatially Resolved, Semiempirical Model for the Extended Atmosphere of α Orionis (M2 Iab)
+ | author=Harper, Graham M.; Brown, Alexander; Lim, Jeremy
+ | journal=The Astrophysical Journal
+ | volume=551
+ | issue=2
+ | pages=1073–98
+ | year=2001
+ | month=April
+ | doi=10.1086/320215
+ | bibcode=2001ApJ...551.1073H}}</ref><ref name="KERVELLA2009" />
+|gravity=-0.5<ref name="LOBEL">{{cite journal
+ | author=Lobel, Alex; Dupree, Andrea K.
+ | title=Modeling the Variable Chromosphere of α Orionis
+ | journal=The Astrophysical Journal,
+ | year=2000
+ | volume=545
+ | issue=1
+ | pages=454–74
+ | url=http://iopscience.iop.org/0004-637X/545/1/454/pdf/51504.web.pdf
+ | accessdate=10 July 2010
+ | bibcode=2000ApJ...545..454L
+ | doi=10.1086/317784}}</ref>
+|metal=0.05 [[Metallicity#Calculation|Fe/H]]<ref name="RAMIREZ">{{cite journal
+ | author=Ramírez, Solange V.
+ | title=Stellar Iron Abundances at the Galactic Center
+ | journal=The Astrophysical Journal,
+ | year=2000, July
+ | volume=537
+ | issue=1
+ | pages=205–20
+ | url=http://iopscience.iop.org/0004-637X/537/1/205/pdf/50790.web.pdf
+ | format=PDF
+ | accessdate=9 July 2010
+ | bibcode=2000ApJ...537..205R
+ | doi=10.1086/309022|arxiv = astro-ph/0002062
+ | last2=Sellgren
+ | first2=K.
+ | last3=Carr
+ | first3=John S.
+ | last4=Balachandran
+ | first4=Suchitra C.
+ | display-authors=4
+ | last5=Blum
+ | first5=Robert
+ | last6=Terndrup
+ | first6=Donald M.
+ | last7=Steed
+ | first7=Adam}}</ref>
+|rotation=5 km/s<ref name="KERVELLA2009" />
+|age = ~7.3{{e|6}}<ref name="WOLFRAM1" /><ref name="ESO0927" />
+}}
+{{Starbox catalog
+|names=Betelgeuse, [[Bayer designation|α Ori]], [[Flamsteed designation|58&nbsp;Ori]], [[Harvard Revised catalogue|HR]]&nbsp;2061, [[Bonner Durchmusterung|BD]] +7° 1055, [[Henry Draper Catalogue|HD]]&nbsp;39801, [[Catalogues of Fundamental Stars|FK5]]&nbsp;224, [[Hipparcos catalogue|HIP]]&nbsp;27989, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;113271, [[Boss General Catalogue|GC]]&nbsp;7451, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J05552+0724AP, [[American Association of Variable Star Observers|AAVSO]]&nbsp;0549+07
+}}
+{{Starbox reference
+ |Simbad=HD+39801}}
+{{Starbox end}}
+
+{{Sky|05|55|10.3053|+|07|24|25.426|600}}
+
+'''Betelgeuse''' ({{IPAc-en|ˈ|b|iː|t|əl|dʒ|uː|z}} or {{IPAc-en|ˈ|b|ɛ|t|əl|dʒ|uː|z}}),<ref name="OED" /> also known by its [[Bayer designation]] '''Alpha Orionis''' ('''α Orionis''', '''α Ori'''), is the [[List of brightest stars|eighth-brightest]] [[star]] in the night sky and second-brightest in the constellation of [[Orion (constellation)|Orion]]. Distinctly reddish, it is a [[semiregular variable star]] whose [[apparent magnitude]] varies between 0.2 and 1.2, the widest range of any [[Luminosity#Magnitude|first-magnitude star]]. Betelgeuse is one of three stars that make up the [[Winter Triangle]], and it marks the center of the [[Winter Hexagon]]. The star's name is derived from the [[Arabic language|Arabic]] {{lang|ar|يد الجوزاء}} ''{{transl|ar|Yad al-Jauzā'}}'', meaning "the Hand of ''al-Jauzā<nowiki>'"</nowiki>'', ''i.e.'' Orion, with mistransliteration into [[medieval Latin]] leading to the first character ''y'' being misread as a ''b''.
+
+The star is classified as a [[red supergiant]] of [[Stellar classification#Spectral types|spectral type]] M2Iab and is one of the [[List of largest known stars|largest]] and most [[Luminosity#Astronomy|luminous]] observable stars. If Betelgeuse were at the center of the Solar System, its surface would extend past the asteroid belt, possibly to the orbit of Jupiter and beyond, wholly engulfing Mercury, Venus, Earth and Mars. Estimates of its mass are poorly constrained, but range from 5 to 30 times that of the Sun. Its distance from Earth was estimated in 2008 at 640 [[light-year]]s, yielding a mean [[absolute magnitude]] of about −6.02. Less than 10 million years old, Betelgeuse has evolved rapidly because of its high mass. Having been ejected from its birthplace in the [[Orion OB1 Association]]—which includes the stars in [[Orion's Belt]]—this crimson [[Stellar kinematics#Runaway stars|runaway]] has been observed moving through the [[interstellar medium]] at a [[supersonic speed]] of 30&nbsp;km/sec, creating a [[bow shock]] over 4 light-years wide. Currently in a late stage of [[stellar evolution]], the supergiant is expected to proceed through its life cycle before exploding as a [[type II supernova]] within the next million years.
+
+In 1920, Betelgeuse became the second star (after the Sun) whose angular size of its [[photosphere]] had been measured. Since then, researchers have used [[telescope]]s with different technical parameters to measure the stellar giant, often with conflicting results. Studies since 1990 have produced an [[angular diameter]] (apparent size) ranging from 0.043 to 0.056 [[arcseconds]], an incongruity largely caused by the star's tendency to periodically change shape. Due to [[limb darkening]], [[Stellar pulsations|variability]], and angular diameters that vary with [[Electromagnetic radiation|wavelength]], many of the star's properties are not yet known with any certainty. Adding to these challenges, the surface of Betelgeuse is obscured by a complex, asymmetric [[circumstellar envelope|envelope]] roughly 250 times the size of the star, caused by colossal [[stellar mass loss|mass loss]].
+
+== Observational history ==
+Betelgeuse and its red coloration have been noted since [[Classical antiquity|antiquity]]; the classical astronomer [[Ptolemy]] described its color as ὑπόκιρρος (''hypókirros''), a term that was later described by a translator of [[Ulugh Beg]]'s ''[[Zij-i Sultani]]'' as ''rubedo'', [[Latin]] for "ruddiness".<ref name="allen" /><ref>''Stella lucida in umero dextro, quae ad rubedinem vergit.'' "Bright star in right shoulder, which inclines to ruddiness."</ref> In the nineteenth century, before modern systems of [[stellar classification]], [[Angelo Secchi]] included Betelgeuse as one of the prototypes for his [[Stellar classification#Secchi classes|Class III]] (orange to red) stars.<ref>{{cite conference
+ | last=Brück | first=H. A. | year=1979
+ | title=P. Angelo Secchi, S. J. 1818–1878
+ | booktitle=Spectral Classification of the Future, Proceedings of the IAU Colloq. 47
+ | location=Vatican City | date=11–15 July 1978
+ | editors=M. F. McCarthy, A. G. D. Philip, and G. V. Coyne
+ | pages=7–20 | bibcode=1979RA......9....7B }}</ref> By contrast, three centuries before  Ptolemy, Chinese astronomers observed Betelgeuse as having a yellow coloration, suggesting that the star may have spent time as a [[yellow supergiant]] around the beginning of the [[common era]],<ref name="NEWSCIENTIST1">{{cite journal
+ | title=Ancient Chinese Suggest Betelgeuse is a Young Star
+ | page=238 | journal=New Scientist | date=22 October 1981
+ | volume=92 | issue=1276
+ | url=http://books.google.com/books?id=L4NTyHivbV8C&pg=PA238
+ | author1=Information
+ | first1=Reed Business }}</ref> an intriguing possibility given current research into the complex circumstellar environment of these stars.<ref name="LEVESQUE1" />
+
+=== Nascent discoveries ===
+[[File:Sir John Herschel with Cap, by Julia Margaret Cameron.jpg|thumb|left|200px|Portrait of [[John Herschel|Sir John Herschel]] in 1867]]
+The variation in Betelgeuse's brightness was first described in 1836 by [[John Herschel|Sir John Herschel]], when he published his observations in ''Outlines of Astronomy''. From 1836 to 1840, he noticed significant changes in magnitude when Betelgeuse outshone Rigel in October 1837 and again in November 1839.<ref name="wilk99" /> A 10-year quiescent period followed; then in 1849, Herschel noted another short cycle of variability, which peaked in 1852. Later observers recorded unusually high [[Maxima and minima|maxima]] with an interval of years, but only small variations from 1957 to 1967. The records of the [[American Association of Variable Star Observers]] (AAVSO) show a maximum [[apparent magnitude|brightness]] of 0.2 in 1933 and 1942, and a minimum of 1.2, observed in 1927 and 1941.<ref name="AAVSO">{{cite web
+ | title=Variable Star of the Month: Alpha Orionis
+ | publisher=[[American Association of Variable Star Observers]] (AAVSO)
+ | author=Davis, Kate (AAVSO Technical Assistant, Web)
+ | url=http://www.aavso.org/vsots_alphaori
+ | year=2000
+ | month=December
+ | accessdate=10 July 2010}}</ref><ref name="BURNHAM">{{cite book
+ | first=Robert
+ | last=Burnham
+ | authorlink=Robert Burnham, Jr.
+ | year=1978
+ | title=Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System, Volume 2
+ | page=1290
+ | publisher=Courier Dover Publications
+ | location=New York
+ | isbn=0-486-23568-8}}</ref> This variability in brightness may explain why [[Johann Bayer]], with the publication of his ''[[Uranometria]]'' in 1603, designated the star ''alpha'' as it may have rivaled the usually brighter Rigel (''beta'').<ref name="100greatest">{{cite book
+ | title=The Hundred Greatest Stars
+ | author=Kaler, James B.
+ | year=2002
+ | publisher=Copernicus Books
+ | location=New York
+ | isbn=0-387-95436-8
+ | page=33}}</ref> From Arctic latitudes, Betelgeuse's red colour and higher location in the sky than Rigel meant the Inuit regarded it as brighter, and one local name was ''Ulluriajjuaq'' "large star".<ref name=inuit>{{cite book |title = The Arctic sky: Inuit astronomy, star lore, and legend |last = MacDonald |first = John |publisher = Royal Ontario Museum/Nunavut Research Institute|location=Toronto, Ontario/Iqaluit, NWT |year = 1998 |isbn = 9780888544278|pages=52–54, 119}}</ref>
+
+In 1920, [[Albert Abraham Michelson|Albert Michelson]] and [[Francis G. Pease|Francis Pease]] mounted a 6-meter [[Interferometry|interferometer]] on the front of the 2.5-meter [[telescope]] at [[Mount Wilson Observatory]]. Helped by [[John August Anderson|John Anderson]], the trio measured the angular diameter of Betelgeuse at 0.047[[arcsecond|"]], a figure which resulted in a diameter of 3.84&nbsp;×&nbsp;10<sup>8</sup>&nbsp;km (2.58 [[Astronomical Unit|AU]]) based on the [[stellar parallax|parallax]] value of 0.018[[arcsecond|"]].<ref name="MICHELSON">{{cite journal
+ | author=Michelson, Albert Abraham; Pease, Francis G.
+ | title=Measurement of the diameter of Alpha Orionis with the interferometer
+ | journal=Astrophysical Journal
+ | year=1921
+ | volume=53
+ | pages=249–59
+ | doi = 10.1086/142603
+ | bibcode = 1921ApJ....53..249M
+ | quote=The 0.047 arcsecond measurement was for a uniform disk. In the article Michelson notes that limb darkening would increase the angular diameter by about 17%, hence 0.055 arcseconds}}</ref> However, limb darkening and measurement errors resulted in uncertainty about the accuracy of these measurements. Beginning with this first [[Angular diameter|angular]] measurement at [[Visible spectrum|visible wavelengths]], researchers have since attempted to measure Betelgeuse's angular diameter at other wavelengths with varying results.{{Citation needed|date = November 2012}}
+
+The 1950s and 1960s saw two developments that would impact stellar [[convection]] theory in red supergiants: the [[Stratoscope]] projects and the 1958 publication of ''Structure and Evolution of the Stars'', principally the work of [[Martin Schwarzschild]] and his colleague at [[Princeton University]], Richard Härm.<ref name="BRUCEMEDAL">{{cite web
+ | title=The Bruce Medalists
+ | work=Martin Schwarzschild 1965
+ | publisher=[[Astronomical Society of the Pacific]] (ASP)
+ | author=Tenn, Joseph S.
+ | url=http://www.phys-astro.sonoma.edu/BruceMedalists/
+ | year=2009
+ | month=June
+ | accessdate=28 September 2010}}</ref><ref name="SCHWARZSCHILD1958">{{cite book
+ | author=Schwarzschild, Martin
+ | title=Structure and Evolution of the Stars.
+ | publisher=Princeton University Press
+ | year=1958
+ | bibcode =1958ses..book.....S
+ | isbn=0-486-61479-4}}</ref> This book disseminated ideas on how to apply computer technologies to create stellar models, while the Stratoscope projects, by taking balloon-borne telescopes above the Earth's [[Wave turbulence|turbulence]], produced some of the finest images of [[Granule (solar physics)|solar granules]] and [[sunspot]]s ever seen, thus confirming the existence of convection in the solar atmosphere.<ref name="BRUCEMEDAL" />
+
+=== Imaging breakthroughs ===
+[[File:Betelgeuse star (Hubble).jpg|thumb|left|200px|Betelgeuse imaged in [[ultraviolet]] light by the [[Hubble Space Telescope]] and subsequently enhanced by [[NASA]]<ref name="GILLILAND1">{{cite journal
+ | author=Gilliland, Ronald L.; Dupree, Andrea K.
+ | title=First Image of the Surface of a Star with the Hubble Space Telescope
+ | journal=Astrophysical Journal Letters,
+ | year=1996
+ | month=May
+ | volume=463
+ | issue=1
+ | pages=L29
+ | url=http://iopscience.iop.org/1538-4357/463/1/L29/pdf/5023.pdf
+ | format=PDF
+ | accessdate=1 August 2010
+ | bibcode=1996ApJ...463L..29G
+ | doi=10.1086/310043
+ | quote=The yellow/red "image" or "photo" of Betelgeuse commonly seen is not a picture of the red giant, but a mathematically generated image based on the photograph. The photograph was of much lower resolution: The entire Betelgeuse image fit within a 10x10 pixel area on the [[Hubble Space Telescope]]s [[Faint Object Camera]]. The images were oversampled by a factor of 5 with bicubic spline interpolation, then deconvolved.}}</ref>]]
+
+The 1970s saw some major advances in astronomical imaging technology beginning with [[Antoine Émile Henry Labeyrie|Antoine Labeyrie]]'s invention of [[speckle interferometry]], a process that significantly reduced the blurring effect caused by [[astronomical seeing]]. It increased the [[optical resolution]] of ground-based [[telescope]]s, allowing for more precise measurements of Betelgeuse's photosphere.<ref name="LABEYRIE1970">{{cite journal
+ | author=Labeyrie, A.
+ | title=Attainment of Diffraction Limited Resolution in Large Telescopes by Fourier Analysing Speckle Patterns in Star Images
+ | journal=Astronomy and Astrophysics
+ | year=1970
+ | month=May
+ | volume=6
+ | pages=85
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1970A%26A.....6...85L&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | accessdate=12 October 2012
+ | bibcode=1970A&A.....6...85L}}</ref><ref name="BONNEAU1973">{{cite journal
+ | author=Bonneau, D.; Labeyrie, A.
+ | title=Speckle Interferometry: Color-Dependent Limb Darkening Evidenced on Alpha Orionis and Omicron Ceti
+ | journal=Astrophysical Journal
+ | year=1973
+ | volume= 181
+ | page=L1
+ | bibcode=1973ApJ...181L...1B
+ | doi=10.1086/181171}}</ref> With improvements in [[infrared telescopy]] atop [[Mount Wilson Observatory|Mount Wilson]], [[McDonald Observatory|Mount Locke]] and [[Mauna Kea Observatories|Mauna Kea]] in Hawaii, astrophysicists began peering into the complex circumstellar shells surrounding the supergiant,<ref name="SUTTON1977">
+{{cite journal
+ | title=Spatial Heterodyne Interferometry of VY Canis Majoris, Alpha Orionis, Alpha Scorpii, and R Leonis at 11 Microns
+ | author=Sutton, E. C.; Storey, J. W. V.; Betz, A. L.; Townes, C. H.; Spears, D. L.
+ | journal=Astrophysical Journal Letters
+ | volume=217
+ | pages=L97–L100
+ | year=1977
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1977ApJ...217L..97S&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | doi=10.1086/182547
+ | bibcode=1977ApJ...217L..97S}}</ref><ref name="BERNAT1975">
+{{cite journal
+ | title=Observations of the circumstellar gas shells around Betelgeuse and Antares
+ | author=Bernat, A. P.; Lambert, D. L.
+ | journal=Astrophysical Journal
+ | volume=201
+ | pages=L153-L156
+ | year=1975
+ | month=November
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1975ApJ...201L.153B&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | doi=10.1086/181964
+ | bibcode=1975ApJ...201L.153B}}</ref><ref name="DYCK1975">
+{{cite journal
+ | title=Circumstellar dust shell models for Alpha Orionis
+ | author=Dyck, H. M.; Simon, T.
+ | journal=Astrophysical Journal
+ | volume=195
+ | pages=689–693
+ | year=1975
+ | month=February
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1975ApJ...195..689D&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | doi=10.1086/153369
+ | bibcode=1975ApJ...195..689D}}</ref> causing them to suspect the presence of huge gas bubbles resulting from convection.<ref name="BOESGAARD1975">
+{{cite journal
+ | title=The circumstellar shell of alpha Orionis from a study of the Fe II emission lines
+ | author=Boesgaard, A. M.; Magnan, C.
+ | journal=Astrophysical Journal, vol. 198
+ | volume=198
+ | pages=pt. 1, p. 369–371, 373–378
+ | year=1975
+ | month=June
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1975ApJ...198..369B&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | doi=10.1086/153612
+ | bibcode=1975ApJ...198..369B}}</ref>  But it was not until the late 1980s and early 1990s, when Betelgeuse became a regular target for [[aperture masking interferometry]], that breakthroughs occurred in visible-light and [[Infrared photography|infrared imaging]]. Pioneered by [[John E. Baldwin]] and colleagues of the [[Cavendish Astrophysics Group]], the new technique employed a small mask with several holes in the telescope pupil plane, converting the [[aperture]] into an ad-hoc interferometric array.<ref name="BERNAT2008">{{cite web
+ | title=Aperture Masking Interferometry
+ | author=Bernat, David
+ | year=2008
+ | work=Ask An Astronomer
+ | publisher=Cornell University Astronomy
+ | url=http://astro.cornell.edu/~dbernat/apm.html#
+ | accessdate=15 October 2012}}</ref>  The technique contributed some of the most accurate measurements of Betelgeuse while revealing bright spots on the star's photosphere.<ref name="BUSCHER">{{cite journal
+ | author=Buscher, D. F.; Baldwin, J. E.; Warner, P. J.; Haniff, C. A.
+ | title=Detection of a bright feature on the surface of Betelgeuse
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=1990
+ | volume=245
+ | page=7
+ | last2=Baldwin
+ | last3=Warner
+ | last4=Haniff
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1990MNRAS.245P...7B&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | bibcode=1990MNRAS.245P...7B}}</ref><ref name="WILSON1">{{cite journal
+ | author=Wilson, R. W.; Dhillon, V. S.; Haniff, C. A.
+ | title=The changing face of Betelgeuse
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=1997
+ | volume=291
+ | page=819
+ | bibcode=1997MNRAS.291..819W
+ | last2=Dhillon
+ | last3=Haniff }}</ref><ref name="BURNS">{{cite journal
+ | author=Burns, D.
+ | title=The surface structure and limb-darkening profile of Betelgeuse
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=1997
+ | month=September
+ | volume=290
+ | issue=1
+ | pages=L11–L16
+ | bibcode=1997MNRAS.290L..11B
+ | last2=Baldwin
+ | last3=Boysen
+ | last4=Haniff
+ | last5=Lawson
+ | last6=MacKay
+ | last7=Rogers
+ | last8=Scott
+ | last9=Warner
+ | first2=J. E.
+ | first3=R. C.
+ | first4=C. A.
+ | display-authors=5
+ | first5=P. R.
+ | first6=C. D.
+ | first7=J.
+ | first8=T. R.
+ | first9=P. J.}}</ref> These were the first optical and infrared images of a stellar disk other than the [[Sun]], taken first from ground-based interferometers and later from higher-resolution observations of the [[Cambridge Optical Aperture Synthesis Telescope|COAST telescope]]. The "bright patches" or "hotspots" observed with these instruments appeared to corroborate a theory put forth by Schwarzschild decades earlier of massive [[Convection zone|convection]] cells dominating the stellar surface.<ref name="TUTHILL">{{cite journal
+ | title=Hotspots on late-type supergiants
+ | author=Tuthill, P. G.; Haniff, C. A.; Baldwin, J. E.
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=285
+ | issue=3
+ | pages=pp. 529–39
+ | year=1997
+ | month=March
+ | bibcode=1997MNRAS.285..529T
+ | last2=Haniff
+ | last3=Baldwin}}</ref><ref name="SCHWARZSCHILD1975" />
+
+In 1995, the [[Hubble Space Telescope]]'s [[Faint Object Camera]] captured an [[Ultraviolet astronomy|ultraviolet image]] with a resolution superior to that obtained by ground-based interferometers—the first conventional-telescope image (or "direct-image" in NASA terminology) of the disk of another star.<ref name="GILLILAND1"/> Because [[ultraviolet]] light is absorbed by the Earth's atmosphere, observations at these wavelengths are best performed by [[space telescopes]].<ref name="cox2000">{{cite book
+  | author=A. N. Cox, editor
+  | title=Allen's Astrophysical Quantities
+  | year=2000
+  | publisher=Springer-Verlag
+  | location=New York
+  | isbn=0-387-98746-0}}</ref> Like earlier pictures, this image contained a bright patch indicating a region in the southwestern quadrant 2,000&nbsp;[[Kelvin|K]] hotter than the stellar surface.<ref>{{cite book
+ | author=Petersen, Carolyn Collins; Brandt, John C.
+ | title=Hubble Vision: Further Adventures with the Hubble Space Telescope
+ | publisher=Cambridge University Press
+ | location=Cambridge, England
+ | year=1998
+ | origyear=1995
+ | edition=2nd
+ | pages=91–92
+ | isbn=0-521-59291-7}}</ref> Subsequent ultraviolet spectra taken with the [[Goddard High Resolution Spectrograph]] suggested that the hot spot was one of Betelgeuse's poles of rotation. This would give the rotational axis an inclination of about 20° to the direction of Earth, and a [[position angle]] from [[Celestial pole|celestial North]] of about 55°.<ref name="UITENBROEK">{{cite journal
+ | author=Uitenbroek, Han; Dupree, Andrea K.; Gilliland, Ronald L.
+ | title=Spatially Resolved Hubble Space Telescope Spectra of the Chromosphere of α Orionis
+ | journal=The Astronomical Journal
+ | year=1998
+ | volume=116
+ | issue=5
+ | pages=2501–12
+ | url=http://iopscience.iop.org/1538-3881/116/5/2501/fulltext
+ | doi=10.1086/300596
+ | bibcode=1998AJ....116.2501U
+ | accessdate=20 June 2007}}</ref>
+{{Clear}}
+
+=== Recent studies ===
+[[File:Light curve of Betelgeuse.png|thumb|left|200px|[[AAVSO]] [[Photometric system|V-band]] [[light curve]] of Betelgeuse (Alpha Orionis) from Dec. 1988 – Aug. 2002 ]]
+In a study published in December 2000, the star's diameter was measured with the [[Infrared Spatial Interferometer]] (ISI) at mid-infrared wavelengths producing a limb-darkened estimate of 55.2&nbsp;±&nbsp;0.5&nbsp;[[Minute of arc|milliarcseconds]] (mas)—a figure entirely consistent with Michelson's findings eighty years earlier.<ref name="MICHELSON" /><ref name="WEINER">{{cite journal
+ | last1=Weiner | first1 = J.
+ | title=Precision Measurements of the Diameters of α Orionis and ο Ceti at 11 Microns
+ | journal=The Astrophysical Journal
+ | year=2000 | month=December
+ | volume=544
+ | issue=2
+ | pages=1097–1100
+ | url=http://iopscience.iop.org/0004-637X/544/2/1097/pdf/52233.web.pdf
+ | bibcode=2000ApJ...544.1097W
+ | doi=10.1086/317264
+ | accessdate=23 June 2007
+ | last2=Danchi
+ | first2=W. C.
+ | last3=Hale
+ | first3=D. D. S.
+ | last4=McMahon
+ | first4=J.
+ | display-authors=4
+ | last5=Townes
+ | first5=C. H.
+ | last6=Monnier
+ | first6=J. D.
+ | last7=Tuthill
+ | first7=P. G.}}</ref> At the time of its publication, the estimated parallax from the [[Hipparcos]] mission was 7.63 ± 1.64&nbsp;mas, yielding an estimated radius for Betelgeuse of 3.6&nbsp;AU. However, numerous interferometric studies in the [[near-infrared]] made at the [[Paranal Observatory]] in Chile argue for much tighter diameters. On 9 June 2009, [[Nobel Prize in Physics|Nobel]] Laureate [[Charles Hard Townes|Charles Townes]] announced that the star had shrunk by 15% since 1993 at an increasing rate without a significant diminution in magnitude.<ref name="UCBERKELEY2009">{{cite web
+ | title=Red Giant Star Betelgeuse Mysteriously Shrinking
+ | author=Sanders, Robert
+ | date=9 June 2009
+ | work=UC Berkeley News
+ | publisher=UC Berkeley
+ | url=http://www.berkeley.edu/news/media/releases/2009/06/09_betelim.shtml
+ | accessdate=18 April 2010}}</ref><ref name="TOWNES1" /> Subsequent observations suggest that the apparent contraction may be due to shell activity in the star's extended atmosphere.<ref name="RAVI1">{{cite journal
+ | author=Ravi, V.; Wishnow, E.; Lockwood, S.; Townes, C.
+ | title=The Many Faces of Betelgeuse
+ | journal=Astronomical Society of the Pacific
+ | year=2011
+ | month=December
+ | pages=1025
+ | url=http://arxiv.org/pdf/1012.0377v1.pdf
+ | bibcode=2011ASPC..448.1025R
+ | accessdate=5 July 2012|arxiv = 1012.0377
+ | last2=Wishnow
+ | last3=Lockwood
+ | last4=Townes
+ | volume=448 }}</ref>
+
+In addition to the discussion of the star's diameter, questions have arisen about the complex dynamics of Betelgeuse's extended atmosphere. The mass that makes up galaxies is recycled as [[life cycle of stars|stars are formed and destroyed]], and red giants are major contributors, yet the mechanics of stellar mass loss remain a mystery.<ref name="BERNAT">
+{{cite journal
+ | title=The Circumstellar Shells and Mass Loss Rates of Four M Supergiants
+ | author=Bernat, Andrew P.
+ | journal=Astrophysical Journal
+ | volume=213
+ | pages=756–66
+ | year=1977
+ | bibcode=1977ApJ...213..756B
+ | doi=10.1086/155205
+}}</ref> With advances in interferometric methodologies, astronomers may be close to resolving this conundrum. In July 2009, images released by the [[European Southern Observatory]], taken by the ground-based [[Very Large Telescope]] Interferometer (VLTI), showed a vast plume of gas being ejected from the star into the surrounding atmosphere with distances approximating 30&nbsp;AU.<ref name="KERVELLA2009">{{cite journal
+ | author=Kervella, P.
+ | title=The Close Circumstellar Environment of Betelgeuse. Adaptive Optics Spectro-imaging in the Near-IR with VLT/NACO
+ | journal=Astronomy and Astrophysics
+ | year=2009
+ | month=September
+ | volume=504
+ | issue=1
+ | pages=115–25
+ | url=http://arxiv.org/pdf/0907.1843v1.pdf
+ | accessdate=10 July 2010
+ | bibcode=2009A&A...504..115K
+ | doi=10.1051/0004-6361/200912521
+ | last2=Verhoelst
+ | first2=T.
+ | last3=Ridgway
+ | first3=S. T.
+ | last4=Perrin
+ | first4=G.
+ | display-authors=5
+ | last5=Lacour
+ | first5=S.
+ | last6=Cami
+ | first6=J.
+ | last7=Haubois
+ | first7=X.|arxiv = 0907.1843 }}</ref><ref name="ESO0927">{{cite web
+ | title=Sharpest Views of Betelgeuse Reveal How Supergiant Stars Lose Mass
+ | date=29 July 2009
+ | work=Press Releases
+ | publisher=[[European Southern Observatory]]
+ | url=http://www.eso.org/public/news/eso0927/
+ | accessdate=6 September 2010}}</ref> This mass ejection was equal to the distance between the Sun and Neptune and is one of multiple events occurring in Betelgeuse's surrounding atmosphere. Astronomers have identified at least six shells surrounding Betelgeuse. Solving the mystery of mass loss in the late stages of a star's evolution may reveal those factors that precipitate the explosive deaths of these stellar giants.<ref name="UCBERKELEY2009" />
+
+== Visibility ==
+[[File:Orion Head to Toe - Reduced.jpg|thumb|left|Photograph from [[Rogelio Bernal Andreo]] showing Betelgeuse in relationship to the dense nebulas of the [[Orion Molecular Cloud Complex]] and [[Orion's Belt]]]]
+In the night sky, Betelgeuse is easy to spot with the naked eye owing to its proximity to the [[Orion's Belt|belt of Orion]] and distinctive orange-red color. In the [[Northern Hemisphere]], beginning in January of each year, it can be seen rising in the east just after sunset. By mid-March, it is visible to virtually every inhabited region of the globe, except for few research stations in [[Antarctica]] at latitudes south of 82°. In May, the red giant can be seen briefly on the western horizon after sunset, reappearing again a few months later on the eastern horizon before sunrise.
+
+The apparent magnitude of Betelgeuse is listed in the astronomical database [[SIMBAD]] at 0.42, making it on average the [[list of brightest stars|eighth brightest star]] in the [[celestial sphere]] excluding the Sun. Because Betelgeuse is a variable star whose brightness ranges between 0.2 and 1.2, there are periods when it will surpass [[Procyon]] to become the seventh brightest star. Occasionally it can even outshine Rigel and become the sixth brightest star, as the latter star, with a nominal apparent magnitude of 0.12, has been reported to fluctuate slightly in brightness, by 0.03 to 0.3 magnitudes.<ref name="bsc1">{{cite web|url=http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=1713 |title= HR 1713, database entry |work= The Bright Star Catalogue, 5th Revised Ed. (Preliminary Version)|author=Hoffleit, D.; Warren, W. H. Jr.| publisher= [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50] |accessdate=19 August 2010}}</ref> At its faintest, Betelgeuse will fall behind [[Deneb]] as the 19th brightest star and compete with [[Beta Crucis|Mimosa]] for the 20th position. [[File:ESO-Betelgeuse.jpg|thumb|right|Image from [[ESO]]'s [[Very Large Telescope]] showing the stellar disk and an extended [[Stellar atmosphere|atmosphere]] with a previously unknown plume of surrounding gas<ref name="APOD3" />]]
+
+Betelgeuse has a [[color index]] (B–V) of 1.85—a figure which points to its advanced "redness." The photosphere has an extended [[Stellar atmosphere|atmosphere]], which displays strong lines of [[Spectral line|emission]] rather than [[Spectral line|absorption]], a phenomenon that occurs when a star is surrounded by a thick gaseous envelope. This extended gaseous atmosphere has been observed moving away from and towards Betelgeuse, depending on radial velocity fluctuations in the photosphere. Betelgeuse is the brightest near-infrared source in the sky with a [[J band]] [[Magnitude (astronomy)|magnitude]] of −2.99.<ref name="2MASS-brightest">{{cite web
+  |date=7 September 2009
+  |title=Very Bright Stars in the 2MASS Point Source Catalog (PSC)
+  |publisher=The Two Micron All Sky Survey at IPAC
+  |author=Cutri, R.; Skrutskie. M.
+  |url=http://www.ipac.caltech.edu/2mass/releases/allsky/doc/sec1_6b.html#satr1
+  |accessdate=28 December 2011}}</ref> As a result, only about 13% of the star's [[radiant energy]] is emitted in the form of visible light. If human eyes were sensitive to radiation at all wavelengths, Betelgeuse would appear as the brightest star in the sky.<ref name="BURNHAM" />
+
+=== Parallax ===
+Since the first successful parallax measurement by [[Friedrich Bessel]] in 1838, astronomers have been puzzled by Betelgeuse's apparent distance. Knowledge of the star's distance improves the accuracy of other stellar parameters, such as [[Luminosity#In astronomy|luminosity]] that, when combined with an angular diameter, can be used to calculate the physical radius and [[effective temperature]]; luminosity and [[Natural abundance|isotopic abundances]] can also be used to estimate the [[Stellar evolution|stellar age]] and [[Star#Mass|mass]].<ref name="HARPER">{{cite journal
+ | author=Harper, Graham M.; Brown, Alexander; Guinan, Edward F.
+ | title=A New VLA-Hipparcos Distance to Betelgeuse and its Implications
+ | journal=The Astronomical Journal
+ | year=2008
+ | month=April
+ | volume=135
+ | issue=4
+ | pages=1430–40
+ | url=http://iopscience.iop.org/1538-3881/135/4/1430/pdf/aj_135_4_1430.pdf
+ | format=PDF
+ | accessdate=10 July 2010
+ | bibcode=2008AJ....135.1430H
+ | doi=10.1088/0004-6256/135/4/1430}}</ref> In 1920, when the first interferometric studies were performed on the star's diameter, the assumed parallax was 0.0180&nbsp;[[arcseconds]]. This equated to a distance of 56&nbsp;[[parsec]]s (pc) or roughly 180&nbsp;[[light-year]]s (ly), producing not only an inaccurate radius for the star but every other stellar characteristic. Since then, there has been ongoing work to measure the distance of Betelgeuse, with proposed distances as high as 400&nbsp;pc or about 1,300&nbsp;ly.<ref name="HARPER" />
+
+Before the publication of the [[Hipparcos Catalogue]] (1997), there were two conflicting parallax measurements for Betelgeuse. The first was the Yale University Observatory (1991) with a published parallax of π = 9.8&nbsp;±&nbsp;4.7 [[Minute of arc|mas]], yielding a distance of roughly 102&nbsp;pc or 330&nbsp;ly.<ref name="YALEPLX">{{cite journal
+ | author=van Altena, W. F.; Lee, J. T.; Hoffleit, D.
+ | title=Yale Trigonometric Parallaxes Preliminary
+ | journal=Yale University Observatory (1991)
+ | year=1995
+ | month=October
+ | bibcode=1995yCat.1174....0V
+ | last2=Lee
+ | last3=Hoffleit
+ | volume=1174
+ | pages=0}}</ref> The second was the [[Hipparcos#Hipparcos Input Catalogue|Hipparcos Input Catalogue]] (1993) with a trigonometric parallax of π = 5 ± 4&nbsp;mas, a distance of 200&nbsp;pc or 650&nbsp;ly—almost twice the Yale estimate.<ref name="HIC">{{cite web
+ | title=Hipparcos Input Catalogue, Version 2 (Turon+ 1993)
+ | work=[[VizieR]]
+ | year=1993
+ | publisher=[[Centre de Données astronomiques de Strasbourg]]
+ | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIC%2027989
+ | accessdate=20 June 2010}}</ref> Given this uncertainty, researchers were adopting a wide range of distance estimates, leading to significant variances in the calculation of the star's attributes.<ref name="HARPER" />[[File:USA.NM.VeryLargeArray.02.jpg|thumb|left|[[National Radio Astronomy Observatory|NRAO]]'s [[Very Large Array]] used to derive Betelgeuse's 2008 distance estimate]]
+
+The results from the Hipparcos mission were released in 1997. The measured parallax of Betelgeuse was π = 7.63&nbsp;±&nbsp;1.64 mas, which equated to a distance of 131&nbsp;pc or roughly 430&nbsp;ly, and had a smaller reported error than previous measurements.<ref name="PERRYMAN">{{Cite journal | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref> However, later evaluation of the Hipparcos parallax measurements for variable stars like Betelgeuse found that the uncertainty of these measurements had been underestimated.<ref name="EYER">{{cite journal
+ | author=Eyer, L.; Grenon, M.
+ | title=Problems Encountered in the Hipparcos Variable Stars Analysis
+ | journal=Delta Scuti and Related Stars, Reference Handbook and Proceedings of the 6th Vienna Workshop in Astrophysics
+ | year=2000
+ | series=ASP Conference Series
+ | volume=210
+ | bibcode=2000ASPC..210..482E
+ | isbn=1-58381-041-2|arxiv = astro-ph/0002235
+ | last2=Grenon
+ | page=482 }}</ref> In 2007, Floor van Leeuwen improved upon the Hipparcos parallax, producing a new figure of π&nbsp;=&nbsp;6.55&nbsp;±&nbsp;0.83, hence a much tighter [[Margin of error|error factor]] yielding a distance of roughly 152&nbsp;±&nbsp;20&nbsp;pc or 520&nbsp;±&nbsp;73&nbsp;ly.<ref name="VANLEEUWEN2007">{{cite journal | title=Hipparcos, the New Reduction | last1=van Leeuwen | first1=F | year=2007 | month=November | work=[[VizieR]] | publisher=[[Centre de Données astronomiques de Strasbourg]] | pages=653 | issue=2 | volume=474 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics | bibcode=2007A&A...474..653V |arxiv = 0708.1752}}</ref>
+
+In 2008, Graham Harper and colleagues, using the [[Very Large Array]] (VLA), produced a [[Radio astronomy|radio]] solution of π = 5.07&nbsp;±&nbsp;1.10&nbsp;mas, equaling a distance of 197&nbsp;±&nbsp;45&nbsp;pc or 643&nbsp;±&nbsp;146&nbsp;ly.<ref name="HARPER" /> As Harper points out: "The revised Hipparcos parallax leads to a larger distance (152&nbsp;±&nbsp;20 pc) than the original; however, the [[astrometric]] solution still requires a significant cosmic noise of 2.4 mas. Given these results it is clear that the Hipparcos data still contain systematic errors of unknown origin." Although the radio data also have systematic errors, the Harper solution combines the datasets in the hope of mitigating such errors.<ref name="HARPER" />  [[European Space Agency]]'s upcoming [[Gaia mission]] will not improve over the measurements of Betelgeuse by the earlier Hipparcos mission because that star is brighter than the approximately V=6 saturation limit of the mission's instruments.<ref name="ESA1">{{cite web
+ |title=Gaia Overview
+ |publisher=[[European Space Agency]]
+ |url=http://www.esa.int/esaSC/120377_index_0_m.html
+ |date=Last update: 4 May 2010
+ |accessdate=14 July 2010}}</ref>
+
+=== Variability ===
+[[File:Betelgeuse pulsating UV (HST).jpg|thumb|left|Ultraviolet image of Betelgeuse showing the star's asymmetrical pulsations, expansion and contraction]]
+Betelgeuse is classified as a semiregular variable star of subgroup SRc; these are pulsating red supergiants with low-amplitude variations and periods of stable brightness.<ref name="AAVSO" /> Different hypotheses have been put forward to explain Betelgeuse's pulsations and their rhythm—which result in an [[absolute magnitude]] oscillation from −5.27 and −6.27.<ref name="absmagrges" group="note">This range of absolute magnitudes assumes an apparent magnitude that varies from 0.2 to 1.2 and a distance of 197&nbsp;pc.</ref> Established theories of stellar structure suggest that the outer layers of this [[supergiant]] gradually expand and contract, causing the surface area (photosphere) to alternately increase and decrease, and the temperature to rise and fall—thereby eliciting the measured cadence in the star's brightness between its dimmest magnitude of 1.2, seen as early as 1927, and its brightest of 0.2, seen in 1933 and 1942. A red supergiant like Betelgeuse will pulsate this way because its stellar atmosphere is unstable. As the star contracts, it absorbs more and more of the energy that passes through it, causing the atmosphere to heat up and expand. Conversely, as the star expands, its atmosphere becomes less dense, allowing the energy to escape and the atmosphere to cool, thus initiating a new contraction phase.<ref name="AAVSO" /> Calculating the star's pulsations and modeling its periodicity have been difficult, as it appears there are several cycles interlaced. As discussed in papers by Stebbins and Sanford in the 1930s, there are short-term variations of around 150 to 300&nbsp;days that modulate a regular cyclic variation with a period of roughly 5.7&nbsp;years.<ref name="GOLDBERG">{{cite journal
+ | author=Goldberg, Leo
+ | title=The Variability of Alpha Orionis
+ | journal=Publications of the Astronomical Society of the Pacific
+ | year=1984
+ | volume=96
+ | pages=366–71
+ | bibcode=1984PASP...96..366G
+ | doi=10.1086/131347}}</ref><ref name="SOLSTATION" />
+
+[[File:Sun poster.svg|thumb|400px|right|An illustration of the structure of the [[Sun]] showing [[photosphere|photospheric]] [[Granule (solar physics)|granules]]]]
+
+The supergiant consistently displays irregular [[Photometry (astronomy)|photometric]], [[polarimetric]] and [[spectroscopic]] variations, phenomena pointing to complex activity on the star's surface and its extended atmosphere.<ref name="BUSCHER" /> In marked contrast to most giant stars that are typically [[long period variable]]s with reasonably regular periods, red giants are generally semiregular or [[Irregular variable|irregular]] with [[Pulsating variable|pulsating]] characteristics. Martin Schwarzschild in 1975 attributed these brightness fluctuations to the changing [[Granule (solar physics)|granulation pattern]] formed by a few giant [[convection cell]]s covering the surface of these stars.<ref name="SCHWARZSCHILD1975">{{cite journal
+ | author=Schwarzschild, Martin
+ | title=On the Scale of Photospheric Convection in Red Giants and Supergiants
+ | journal=Astrophysical Journal
+ | year=1975
+ | volume=195
+ | issue=1
+ | pages=137–44
+ | bibcode=1975ApJ...195..137S
+ | doi=10.1086/153313}}</ref><ref name="FREYTAG">{{cite journal
+ | title=Spots on the Surface of Betelgeuse – Results from New 3D Stellar Convection Models
+ | author=Freytag, B.; Steffen, M.; Dorch, B.
+ | journal=Astronomische Nachrichten
+ | year=2002
+ | month=July
+ | volume=323
+ | issue=3/4
+ | pages=213–19
+ | bibcode=2002AN....323..213F
+ | doi=10.1002/1521-3994(200208)323:3/4<213::AID-ASNA213>3.0.CO;2-H
+}}</ref> For the Sun, these convection cells, known as solar granules, represent the foremost mode of heat transfer—hence those convective elements dominate the brightness variations in the solar photosphere.<ref name="SCHWARZSCHILD1975" /> The typical diameter for a solar granule is about 2,000&nbsp;km (a surface area roughly the size of India), with an average depth of 700&nbsp;km. With a surface of roughly 6 trillion km<sup>2</sup>, there are about 2 million such granules on the Sun's photosphere, and this large number produces a relatively constant flux.<ref name="LEIGHTON">{{cite journal
+ | author=Leighton, Robert B.
+ | title=Transport of Magnetic Fields on the Sun
+ | journal=Astrophysical Journal
+ | year=1964
+ | volume=140
+ | page=1547
+ | bibcode=1964ApJ...140.1547L
+ | doi=10.1086/148058}}</ref> By contrast, Schwarzschild argues that stars like Betelgeuse may only have a dozen granules with diameters of 180 million&nbsp;km or more dominating the surface of the star with depths of about 60 million&nbsp;km, which, due to the low temperatures and extremely low density found in red giant [[Circumstellar envelope|envelopes]], result in convective inefficiency. Consequently, if only a third of these convective cells are visible at any one time, the variations in their observable light emission may result in the recorded irregular brightness variations of the overall light from the star.<ref name="SCHWARZSCHILD1975" />
+
+The hypothesis that gigantic convection cells dominate the surface of red giants and supergiants remains accepted by the astronomical community. When the Hubble Space Telescope captured its first direct image of Betelgeuse in 1995 revealing a mysterious hot spot, astronomers attributed it to convection.<ref name="DUPREE">{{cite journal
+ | author=Dupree, Andrea K.; Gilliland, Ronald L.
+ | title=HST Direct Image of Betelgeuse
+ | journal=Bulletin of the American Astronomical Society
+ | year=1995
+ | month=December
+ | volume=27
+ | page=1328
+ | bibcode=1995AAS...187.3201D
+ | quote=Such a major single feature is distinctly different from scattered smaller regions of activity typically found on the Sun although the strong ultraviolet flux enhancement is characteristic of stellar magnetic activity. This inhomogeneity may be caused by a large scale convection cell or result from global pulsations and shock structures that heat the chromosphere."
+ | last2=Gilliland}}</ref> Two years later, astronomers observed intricate asymmetries in the brightness distribution of the star, revealing at least three bright spots, the magnitude of which was "consistent with convective surface hotspots."<ref name="WILSON1" /> In 2000, another team of astronomers, led by Alex Lobel of the [[Harvard–Smithsonian Center for Astrophysics]], noted that Betelgeuse exhibits raging storms of hot and cold gas in its turbulent atmosphere. The team surmised that large areas of the star's photosphere bulge out in different directions at times, ejecting long plumes of warm gas into the cold dust envelope. Another explanation is the occurrence of [[shock wave]]s caused by warm gas traversing cooler regions of the star.<ref name="SOLSTATION">{{cite web
+ |title=Betelgeuse; Release No.: 04-03
+ |author=SolStation
+ |publisher=Sol Company
+ |url=http://www.nova.org/~sol/solcom/x-objects/betelgeuse.htm
+ |accessdate=20 July 2010}}</ref><ref name="CFA">{{cite web
+ |title=Storms Of Hot And Cold Gas Rage In Betelgeuse's Turbulent Atmosphere
+ |publisher=Harvard–Smithsonian Center for Astrophysics
+ |author=Aguilar, David; Pulliam, Christine; Lobel, A.
+ |year=2004
+ |month=6 January, 9:20&nbsp;am EST,
+ |url=http://www.cfa.harvard.edu/news/archive/pr0403.html
+ |accessdate=27 July 2010}}</ref> Observing the atmosphere of Betelgeuse over a period of five years between 1998 and 2003 with the [[Space Telescope Imaging Spectrograph]] aboard Hubble, the team likened the rise and fall of convection cells in the chromosphere to the blobs in a [[lava lamp]].<ref name="CFA" />
+
+=== Diameter ===
+{{See also|List of largest known stars}}
+
+On 13 December 1920, Betelgeuse became the first star outside the [[Solar System]] to have the angular size of its photosphere measured.<ref name="MICHELSON" /> Although interferometry was still in its infancy, the experiment proved a success. The researchers, using a uniform disk model, determined that Betelgeuse had a diameter of 0.047&nbsp;arcseconds, although the stellar disk was likely 17% larger due to the [[limb darkening]], resulting in an estimate for its angular diameter of about 0.055".<ref name="MICHELSON" /><ref name="TOWNES1">{{cite journal
+ | title= A Systematic Change with Time in the Size of Betelgeuse
+ | author=Townes, C. H.; Wishnow, E. H.; Hale, D. D. S.; Walp, B.
+ | journal=The Astrophysical Journal Letters
+ | volume= 697
+ | issue= 2
+ | pages= L127–28
+ | year=2009
+ | url=http://iopscience.iop.org/1538-4357/697/2/L127/pdf/apjl_697_2_127.pdf
+ | bibcode=2009ApJ...697L.127T
+ | doi=10.1088/0004-637X/697/2/L127}}</ref> Since then, other studies have produced angular diameters that range from 0.042 to 0.069&nbsp;arcseconds.<ref name="BONNEAU1973"/><ref name="WEINER" /><ref name="BALEGA">{{cite journal
+ | author=Balega, Iu.; Blazit, A.; Bonneau, D.; Koechlin, L.; Labeyrie, A.; Foy, R..
+ | title=The angular diameter of Betelgeuse
+ | journal=Astronomy and Astrophysics
+ | month=November
+ | volume=115
+ | issue= 2
+ | year=1982
+ | pages=253–56
+ | bibcode=1982A&A...115..253B
+ | last2=Blazit
+ | last3=Bonneau
+ | last4=Koechlin
+ | last5=Labeyrie
+ | last6=Foy
+}}</ref> Combining these data with historical distance estimates of 180 to 815&nbsp;ly yields a projected radius of the stellar disk of anywhere from 1.2 to 8.9&nbsp;AU.<ref name="NOTEANGULAR" group="note" /> Using the Solar System for comparison, the orbit of [[Solar System#Mars|Mars]] is about 1.5&nbsp;AU, [[Solar System#Ceres|Ceres]] in the [[asteroid belt]] 2.7&nbsp;AU, [[Solar System#Jupiter|Jupiter]] 5.5&nbsp;AU—so, assuming Betelgeuse occupying the place of the Sun, its photosphere might extend beyond the Jovian orbit, not quite reaching [[Solar System#Saturn|Saturn]] at 9.5&nbsp;AU.
+[[File:Betelgeuse radio wavelengths.jpg|thumb|right|260px|Radio image from 1998 (pre-Harper) showing the size of Betelgeuse's photosphere (circle) and the effect of convective forces on the star's atmosphere]]
+
+The precise diameter has been hard to define for several reasons:
+
+# Betelgeuse is a pulsating star, so its diameter changes with time;
+# The star has no definable "edge" as limb darkening causes the optical emissions to vary in color and decrease the farther one extends out from the center;
+# Betelgeuse is surrounded by a circumstellar envelope composed of matter ejected from the star—matter which absorbs and emits light—making it difficult to define the photosphere of the star;<ref name="UCBERKELEY2009" />
+# Measurements can be taken at varying [[wavelengths]] within the [[electromagnetic spectrum]] and the difference in reported diameters can be as much as 30–35%, yet comparing one finding with another is difficult as the star's apparent size differs depending on the wavelength used.<ref name="UCBERKELEY2009" /> Studies have shown that the measured angular diameter is considerably larger at ultraviolet wavelengths, decreases through the visible to a minimum in the near-infrared, and increase again in the mid-infrared spectrum;<ref name="GILLILAND1" /><ref name="PERRIN2">{{cite journal
+ | title=Interferometric Observations of the Supergiant Stars α Orionis and α Herculis with FLUOR at IOTA
+ | author=Perrin, G.; Ridgway, S. T.; Coudé du Foresto, V.; Mennesson, B.; Traub, W. A.; Lacasse, M. G.
+ | journal=Astronomy and Astrophysics
+ | volume=418
+ | issue= 2
+ | pages=675–85
+ | year=2004
+ | doi=10.1051/0004-6361:20040052
+ | bibcode=2004A&A...418..675P
+ | quote=Assuming a distance of {{nowrap|197 ± 45 pc}}, an angular distance of {{nowrap|43.33 ± 0.04 mas}} would equate to a radius of 4.3&nbsp;AU or 920&nbsp;R<sub>☉</sub>|arxiv = astro-ph/0402099 }}</ref><ref name="YOUNG">{{cite web
+ | last=Young
+ | first=John
+ | date=24 November 2006
+ | url=http://www.mrao.cam.ac.uk/telescopes/coast/betel.html
+ | title=Surface Imaging of Betelgeuse with COAST and the WHT
+ | publisher=University of Cambridge
+ | quote=Images of hotspots on the surface of Betelgeuse taken at visible and infra-red wavelengths using high resolution ground-based [[astronomical interferometer|interferometers]]
+ |accessdate=21 June 2007}}</ref>
+# [[Scintillation (astronomy)|Atmospheric twinkling]] limits the resolution obtainable from ground-based telescopes since turbulence degrades angular resolution.<ref name="BUSCHER" />
+
+To overcome these challenges, researchers have employed various solutions. Astronomical interferometry, first conceived by [[Hippolyte Fizeau]] in 1868, was the seminal concept that has enabled major improvements in modern telescopy and led to the creation of the [[Michelson interferometer]] in the 1880s, and the first successful measurement of Betelgeuse.<ref name="PERRIN1">{{cite journal
+ | author=Perrin, Guy; Malbet, Fabien
+ | title=Observing with the VLTI
+ | journal=EAS Publications Series
+ | year=2003
+ | volume= 6
+ | bibcode=2003EAS.....6D...3P
+ | last2=Malbet
+ | pages=3
+ | doi=10.1051/eas/20030601}}</ref> Just as human [[depth perception]] increases when two eyes instead of one perceive an object, Fizeau proposed the observation of stars through two [[apertures]] instead of one to obtain [[Interference (wave propagation)|interferences]] that would furnish information on the star's spatial intensity distribution. The science evolved quickly and multiple-aperture interferometers are now used to capture [[Speckle imaging|speckled images]], which are synthesized using [[Fourier analysis]] to produce a portrait of high resolution.<ref name="APOD1">{{cite web
+ | author=Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
+ | title=3 Auxiliary Telescopes
+ | work=Today's [[Astronomy Picture of the Day]]
+ | date=21 April 2012
+ | url=http://apod.nasa.gov/apod/ap120421.html
+ | accessdate=17 August 2012
+ | quote=Photograph showing three of the four enclosures which house 1.8 meter Auxiliary Telescopes (ATs) at the Paranal Observatory in the Atacama Desert region of Chile.}}</ref> It was this methodology that identified the hotspots on Betelgeuse in the 1990s.<ref name="WORDEN">{{cite journal
+ | author=Worden, S.
+ | title=Speckle Interferometry
+ | journal=New Scientist
+ | year=1978
+ | volume=78
+ | pages=238–40
+ | bibcode=1978NewSc..78..238W}}</ref> Other technological breakthroughs include [[adaptive optics]],<ref name="RODDIER1">{{cite journal
+ | title=Ground-Based Interferometry with Adaptive Optics
+ | author=Roddier, F.
+ | journal=Working on the Fringe: Optical and IR Interferometry from Ground and Space. Proceedings from ASP Conference
+ | volume=194
+ | year=1999
+ | isbn=1-58381-020-X
+ | bibcode=1999ASPC..194..318R
+ | pages=318}}</ref> [[Space observatory|space observatories]] like Hipparcos, [[Hubble Space Telescope|Hubble]] and [[Spitzer Space Telescope|Spitzer]],<ref name="GILLILAND1" /><ref name="NASA1">{{cite web
+ | title=Top Five Breakthroughs From Hubble's Workhorse Camera
+ | date=4 May 2009
+ | url=http://www.jpl.nasa.gov/news/features.cfm?feature=2132
+ | publisher=NASA Jet Propulsion Laboratory, California Institute of Technology
+ |accessdate=28 August 2007}}</ref> and the Astronomical Multi-BEam Recombiner (AMBER), which combines the beams of three telescopes simultaneously, allowing researchers to achieve milliarcsecond [[spatial resolution]].<ref name="MELNICK">{{cite web
+ | author=Melnick, J.; Petrov R.; Malbet, F.
+ | date=23 February 2007
+ | url=http://www.eso.org/public/news/eso0706/
+ | title=The Sky Through Three Giant Eyes, AMBER Instrument on VLT Delivers a Wealth of Results
+ | publisher=[[European Southern Observatory]]
+ |accessdate=29 August 2007}}</ref><ref name="WITTKNOWSKI">{{cite web
+ | title=MIDI and AMBER from the User's Point of View
+ | author=Wittkowski, M.
+ | date=23 February 2007
+ | url=http://www.vlti.org/events/assets/1/proceedings/2.4_Wittkowski.pdf
+ | publisher=[[European Southern Observatory]] [[VLTI]]
+ |accessdate=29 August 2007}}</ref>
+
+Which part of the electromagnetic spectrum—the visible, near-infrared ([[Infrared#Astronomy division scheme|NIR]]) or mid-infrared (MIR)—produces the most accurate angular measurement is still debated.<ref name="NOTEANGULAR" group="note" /> In 1996, Manfred Bester, working with the ISI in the mid-infrared, led a team at the [[Space Sciences Laboratory]] (SSL) at [[University of California, Berkeley|U.C. Berkeley]] to produce a solution, showing Betelgeuse with a uniform disk of 56.6 ± 1.0&nbsp;mas. In 2000, the SSL team produced another measure of 54.7 ± 0.3&nbsp;mas, ignoring any possible contribution from hotspots, which are less noticeable in the mid-infrared.<ref name="WEINER" /> Also included was a theoretical allowance for limb darkening, yielding a diameter of 55.2 ± 0.5&nbsp;mas. The Bester estimate equates to a radius of roughly 5.6&nbsp;AU or 1,200&nbsp;[[Solar radius|R<sub>☉</sub>]], assuming the 2008 Harper distance of 197.0 ± 45&nbsp;pc,<ref name="SMITH2009">{{cite journal
+ | author=Smith, Nathan; Hinkle, Kenneth H.; Ryde, Nils
+ | title=Red Supergiants as Potential Type IIn Supernova Progenitors: Spatially Resolved 4.6 μm CO Emission Around VY CMa and Betelgeuse
+ | journal=The Astronomical Journal
+ | year=2009
+ | month=March
+ | volume=137
+ | issue=3
+ | pages=3558–3573
+ | url=http://arxiv.org/pdf/0811.3037v1.pdf
+ | arxiv=0811.3037
+ | accessdate=9 September 2012
+ | doi=10.1088/0004-6256/137/3/3558
+ | bibcode=2009AJ....137.3558S}}</ref><ref name="LUMINOSITYCALCS">For detailed computations of stellar radius, and implications relating to the star's luminosity, see the [[Luminosity#Computational challenges|Computational challenges]] section in the [[Luminosity]] article.</ref> a figure roughly the size of the Jovian orbit of 5.5&nbsp;AU, published in 2009 in [[Astronomy Magazine|''Astronomy'' Magazine]] and a year later in NASA's [[Astronomy Picture of the Day]].<ref name="ASTRONOMYMAG2009">{{cite journal
+ | title=Red Giant Star Betelgeuse in the Constellation Orion is Mysteriously Shrinking
+ | journal=[[Astronomy Magazine]]
+ | year=2009
+ | url=http://www.astronomy.com/en/News-Observing/News/2009/06/Red%20giant%20star%20Betelgeuse%20in%20the%20constellation%20Orion%20is%20mysteriously%20shrinking.aspx
+ | accessdate=14 September 2012}}</ref><ref name="APOD2">{{cite web| author=Robert Nemiroff (MTU) & Jerry Bonnell (USRA) | title=The Spotty Surface of Betelgeuse  | work=Today's [[Astronomy Picture of the Day]] | date=6 January 2010 | url=http://apod.nasa.gov/apod/ap100106.html | accessdate=18 July 2010}}</ref>
+
+A team of astronomers working in the near-infrared and led by Guy Perrin of the [[Paris Observatory|Observatoire de Paris]] produced a 2004 document arguing that the more accurate photospheric measurement was 43.33 ± 0.04&nbsp;mas.<ref name="PERRIN2" /> The study also put forth an explanation as to why varying wavelengths from the visible to mid-infrared produce different diameters: the star is seen through a thick, warm extended atmosphere. At short wavelengths (the visible spectrum) the atmosphere scatters light, thus slightly increasing the star's diameter. At near-infrared wavelengths ([[Infrared astronomy#Modern infrared astronomy|K and L bands]]), the scattering is negligible, so the classical photosphere can be directly seen; in the mid-infrared the scattering increases once more causing the thermal emission of the warm atmosphere to increase the apparent diameter.<ref name="PERRIN2" /> [[File:Orion's Big Head Revealed in Infrared.jpg|thumb|right|220px|Infrared image of Betelgeuse, [[Meissa]] and [[Bellatrix]] with surrounding nebulas<ref name="NASA2">{{cite web
+ |title=Orion's Big Head Revealed in Infrared
+ |author=NASA/JPL-Caltech/UCLA
+ |publisher=[[NASA]] Mission News
+ |url=http://www.nasa.gov/mission_pages/WISE/multimedia/gallery/pia14040.html
+ |date=Last update: 18 April 2011
+ |accessdate=12 June 2012}}</ref>]]
+
+Studies with the [[Infrared Optical Telescope Array|IOTA]] and VLTI published in 2009 brought strong support to Perrin's analysis and yielded diameters ranging from 42.57 to 44.28&nbsp;mas with comparatively insignificant margins of error.<ref name="HAUBOIS">{{cite journal
+ | author=Haubois, X.
+ | title=Imaging the Spotty Surface of Betelgeuse in the H Band
+ | journal=Astronomy & Astrophysics
+ | year=2009
+ | volume=508
+ | issue=2
+ | pages=923–32
+ | bibcode=2009A&A...508..923H
+ | doi=10.1051/0004-6361/200912927
+ | last2=Perrin
+ | first2=G.
+ | last3=Lacour
+ | first3=S.
+ | last4=Verhoelst
+ | first4=T.
+ | last5=Meimon
+ | first5=S.
+ | display-authors=5
+ | last6=Mugnier
+ | first6=L.
+ | last7=Thiébaut
+ | first7=E.
+ | last8=Berger
+ | first8=J. P.
+ | last9=Ridgway
+ | first9=S. T.|arxiv = 0910.4167 }}</ref><ref name="HERNANDEZ">{{cite journal
+ | author=Hernandez Utrera, O.; Chelli, A
+ | title=Accurate Diameter Measurement of Betelgeuse Using the VLTI/AMBER Instrument
+ | journal=Revista Mexicana de Astronomía y Astrofísica (Serie de Conferencias)
+ | year=2009
+ | volume=37
+ | pages=179–80
+ | url=http://www.astroscu.unam.mx/rmaa/RMxAC..37/PDF/RMxAC..37_ohernandez.pdf
+ | bibcode=2009RMxAC..37..179H
+ | last2=Chelli
+}}</ref> In 2011, Keiichi Ohnaka and colleagues from the [[Max Planck Institute for Radio Astronomy]] produced a third estimate in the near-infrared corroborating Perrin's numbers, this time showing a limb-darkened disk diameter of 42.49&nbsp;±&nbsp;0.06 mas.<ref name="OHNAKA2011">{{cite journal
+ | author=Ohnaka, K.; Weigelt, G.; Millour, F.; Hofmann, K.-H.; Driebe, T.; Schertl, D.; Chelli, A.; Massi, F.; Petrov, R.; Stee, Ph.
+ | title=Imaging the Dynamical Atmosphere of the Red Supergiant Betelgeuse in the CO First Overtone Lines with VLTI/AMBER
+ | journal=Astronomy & Astrophysics
+ | year=2011
+ | month=May
+ | volume=529, id.A163
+ | url=http://arxiv.org/pdf/1104.0958v1.pdf
+ | arxiv=1104.0958
+ | accessdate=14 September 2012
+ | doi=10.1051/0004-6361/201016279
+ | bibcode=2011A&A...529A.163O
+ | quote="We derive a uniform-disk diameter of 42.05 ± 0.05&nbsp;mas and a power-law-type limb-darkened disk diameter of 42.49 ± 0.06&nbsp;mas and a limb-darkening parameter of (9.7 ± 0.5) × 10<sup>−2</sup>"}}</ref> Consequently, if one combines the smaller Hipparcos distance from van Leeuwen of 152 ± 20&nbsp;pc with Perrin's angular measurement of 43.33&nbsp;mas, a near-infrared photospheric estimate would equate to about 3.4&nbsp;AU or 730&nbsp;R<sub>☉</sub>.<ref name="LUMINOSITYCALCS" /><ref name="KERVELLA2011">{{cite journal
+ | author=Kervella, P.; Perrin, G.; Chiavassa, A.; Ridgway, S. T.; Cami, J.; Haubois, X.; Verhoelst, T.
+ | title=The Close Circumstellar Environment of Betelgeuse. II. Diffraction-limited Spectro-imaging from 7.76 to 19.50 μm with VLT/VISIR
+ | journal=Astronomy & Astrophysics
+ | year=2011
+ | volume=531, id.A117
+ | url=http://arxiv.org/pdf/1106.5041v1.pdf
+ | arxiv=1106.5041
+ | accessdate=14 September 2012
+ | doi=10.1051/0004-6361/201116962
+ | bibcode=2011A&A...531A.117K}}</ref>
+
+Central to this discussion is another paper published in 2009 by the Berkeley team, led by Charles Townes, reporting that the radius of Betelgeuse had shrunk from 1993 to 2009 by 15%, with the 2008 angular measurement equal to 47.0&nbsp;mas, not too far from Perrin's estimate.<ref name="TOWNES1" /><ref name="COWEN">{{cite web
+ | url=http://www.sciencenews.org/view/generic/id/44573/title/Betelgeuse_shrinks
+ | title= Betelgeuse Shrinks: The Red Supergiant has Lost 15 Percent of its Size
+ | date=10 June 2009
+ | first=Ron
+ | last=Cowen
+ |quote=The shrinkage corresponds to the star contracting by a distance equal to that between Venus and the Sun, researchers reported June 9 at an American Astronomical Society meeting and in the June 1 Astrophysical Journal Letters.}}</ref> Unlike most earlier papers, this study encompassed a 15-year period at one specific wavelength. Earlier studies have typically lasted one to two years by comparison and have explored multiple wavelengths, often yielding vastly different results. The diminution in Betelgeuse's [[apparent size]] equates to a range of values between 56.0&nbsp;±&nbsp;0.1&nbsp;mas seen in 1993 to 47.0&nbsp;±&nbsp;0.1&nbsp;mas seen in 2008—a contraction of almost 0.9&nbsp;AU in 15&nbsp;years. What is not fully known is whether this observation is evidence of a rhythmic expansion and contraction of the star's photosphere as astronomers have theorized, and if so, what the periodic cycle might be, although Townes suggested that if a cycle does exist, it is probably a few decades long.<ref name="TOWNES1" /> Other possible explanations are photospheric protrusions due to convection or a star that is not spherical but asymmetric causing the ''appearance'' of expansion and contraction as the star rotates on its axis.<ref name="COURTLAND">{{cite web
+ | author=Courtland, Rachel
+ | year=2009
+ | url=http://www.newscientist.com/article/dn17282-betelgeuse-the-incredible-shrinking-star.html
+ | title=Betelgeuse: The incredible Shrinking Star?
+ | work=New Scientist
+ | publisher=Reed Business Information Ltd.
+ |accessdate=25 September 2010}}</ref>
+
+The debate about differences between measurements in the mid-infrared, which suggest a possible expansion and contraction of the star, and the near-infrared, which advocates a relatively constant photospheric diameter, remains to be resolved. In a paper published in 2012, the Berkeley team reported that their measurements were "dominated by the behavior of cool, optically thick material above the stellar photosphere," indicating that the apparent expansion and contraction may be due to activity in the star's outer shells and not the photosphere itself.<ref name="RAVI1" /> This conclusion, if further corroborated, would suggest an average angular diameter for Betelgeuse closer to Perrin's estimate at 43.33&nbsp;arcseconds, hence a stellar radius of about 3.4&nbsp;AU (730&nbsp;R<sub>☉</sub>) assuming the shorter Hipparcos distance of 498&nbsp;±&nbsp;73&nbsp;ly in lieu of Harper's estimate at 643&nbsp;±&nbsp;146&nbsp;ly. The [[Gaia (spacecraft)|Gaia spacecraft]] may clarify assumptions presently used in calculating the size of Betelgeuse's stellar disk.
+
+Once considered as having the largest angular diameter of any star in the sky after the Sun, Betelgeuse lost that distinction in 1997 when a group of astronomers measured [[R Doradus]] with a diameter of 57.0 ± 0.5&nbsp;mas. Betelgeuse is now considered to be in third place, although R Doradus, being much closer to Earth at about 200&nbsp;ly, has a diameter roughly one-third that of Betelgeuse.<ref name="BEDDING">{{cite journal
+ | author=Bedding, T. R.
+ | title=The Angular Diameter of R Doradus: a Nearby Mira-like Star
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | year=1997
+ | volume=286
+ | issue=4
+ | pages=957–62
+ | bibcode=1997MNRAS.286..957B
+|arxiv = astro-ph/9701021
+ | last2=Zijlstra
+ | last3=Von Der Luhe
+ | last4=Robertson
+ | last5=Marson
+ | last6=Barton
+ | last7=Carter
+ | first2=A. A.
+ | first3=O.
+ | display-authors=4
+ | first4=J. G.
+ | first5=R. G.
+ | first6=J. R.
+ | first7=B. S. }}</ref>
+
+== Properties ==
+[[File:Hertzsprung-Russel StarData.png|thumb|220px|right|[[Hertzsprung–Russell diagram]] identifying supergiants like Betelgeuse that have moved off the [[main sequence]]]]
+Betelgeuse is a very large, luminous and cool star classified as a [[red supergiant]] of M2Iab class. The letter "M" in this designation means that it is a red star belonging to the [[Stellar classification#Class M|M spectral class]] and therefore has a relatively low photospheric temperature;<ref name="SIMBAD">{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=betelgeuse
+ | title =SIMBAD Query Result: BETELGEUSE – Semi-regular Pulsating Star
+ | publisher=Centre de Données astronomiques de Strasbourg
+ | accessdate=20 June 2007}}</ref> the "Iab" suffix [[Yerkes spectral classification scheme|luminosity class]] indicates that it is an intermediate luminous supergiant. Uncertainties regarding the star's surface temperature, angular diameter and distance, make it difficult to achieve a precise measurement of Betelgeuse's luminosity. Research from 2012 gives Betelgeuse an average luminosity of 120,000 ± 30,000&nbsp;[[Solar luminosity|L<sub>☉</sub>]],<ref name="MOHAMED1" /> assuming a median temperature of 3,300&nbsp;K and a radius of 1,200&nbsp;[[Solar radius|R<sub>☉</sub>]].<ref name="LUMINOSITYCALCS" /> However, because most of the star's radiation is in the near infrared, the human eye cannot perceive the star's intrinsic brightness. Since 1943, the spectrum of Betelgeuse has served as one of the stable anchor points by which other stars are classified.<ref name="baas25_1319">{{Cite journal
+ | author=Garrison, R. F.
+ | title=Anchor Points for the MK System of Spectral Classification
+ | journal=Bulletin of the American Astronomical Society | volume=25
+ | page=1319| year=1993 | bibcode=1993AAS...183.1710G
+ | url=http://www.astro.utoronto.ca/~garrison/mkstds.html
+ | accessdate=4 February 2012
+}}</ref>
+
+The mass of Betelgeuse has never been measured because it has no known companion.<ref name="NEILSON2011">{{cite journal
+ | author=Neilson, H. R.; Lester, J. B.; Haubois, X.
+ | title=Weighing Betelgeuse: Measuring the Mass of α Orionis from Stellar Limb-darkening
+ | journal=Astronomical Society of the Pacific
+ | pages = 117
+ | year=2011
+ | month=December
+ | volume=9th Pacific Rim Conference on Stellar Astrophysics. Proceedings of a conference held at Lijiang, China in 14–20 April 2011. ASP Conference Series, Vol. 451
+ | url=http://arxiv.org/pdf/1109.4562v1.pdf
+ | arxiv = 1109.4562
+ | accessdate=9 September 2012
+ | bibcode = 2010ASPC..425..103L}}</ref> A mass estimate is only possible using theoretical modeling, a situation which has produced mass estimates ranging from 5 to 30&nbsp;[[solar mass|M<sub>☉</sub>]] in the 2000s.<ref name="POSSON">{{cite arxiv
+ | title=Dark Supergiant: Chandra's Limits on X-rays from Betelgeuse
+ | author=Posson-Brown, Jennifer; Kashyap, Vinay L.; Pease, Deron O.; Drake, Jeremy J.
+ | year=2006
+ | eprint=astro-ph/0606387
+ | bibcode=2006astro.ph..6387P
+ | class=astro-ph}}</ref><ref name="GRAY1">{{cite journal
+ | title=Betelgeuse and Its Variations
+ | author=Gray, David F.
+ | journal=The Astrophysical Journal
+ | volume= 532
+ | issue=1
+ | pages=487–96
+ | year=2000
+ |url=http://iopscience.iop.org/0004-637X/532/1/487/pdf/40185.web.pdf
+ | doi=10.1086/308538
+ | bibcode=2000ApJ...532..487G
+ | quote=The mass of the star is unknown, but most investigators show a preference for a fairly large mass in the range of 10–20&nbsp;M<sub>☉</sub>}}</ref> Smith and colleagues calculated that Betelgeuse began its life as a star of 15 to 20&nbsp;M<sub>⊙</sub>, based on a photospheric measurement of 5.6&nbsp;AU or 1,200&nbsp;R<sub>⊙</sub>.<ref name="SMITH2009">{{cite journal
+ | author=Smith, Nathan; Hinkle, Kenneth H.; Ryde, Nils
+ | title=Red Supergiants as Potential Type IIn Supernova Progenitors: Spatially Resolved 4.6 μm CO Emission Around VY CMa and Betelgeuse
+ | journal=The Astronomical Journal
+ | year=2009
+ | volume=137
+ | issue=3
+ | pages=3558–3573
+ | url=http://arxiv.org/pdf/0811.3037v1.pdf
+ | arxiv=0811.3037
+ | accessdate=9 September 2012
+ | doi=10.1088/0004-6256/137/3/3558
+ | bibcode=2009AJ....137.3558S}}</ref> However, a novel method of determining the supergiant's mass was proposed in 2011 by Hilding Neilson and colleagues, arguing for a stellar mass of 11.6&nbsp;M<sub>⊙</sub> with an upper limit of 16.6 and lower of 7.7&nbsp;M<sub>⊙</sub>, based on observations of the star’s intensity profile from narrow H-band interferometry and using a photospheric measurement of roughly 4.3&nbsp;AU or 955&nbsp;R<sub>⊙</sub>.<ref name="NEILSON2011" /> How the debate will be resolved is still open—at least until a companion is identified allowing for a direct calculation of stellar mass.
+
+Due to its variability and the presence of hotspots, the photospheric temperature of Betelgeuse is uncertain. Studies since 2001 report temperatures ranging from 3,140<ref name="MOHAMED1" /> to 3,641&nbsp;K<ref name="PERRIN2" /> with a median of about 3,300K.<ref name="MOHAMED1" /><ref name="HARPER2001" /><ref name="KERVELLA2009" /> The star is also a slow rotator and the most recent velocity recorded was 5&nbsp;km/s.<ref name="KERVELLA2009" /> Depending on its photospheric radius, it could take the star from 25 to 32&nbsp;years to turn on its axis—much slower than [[Antares]], which has a rotational velocity of 20&nbsp;km/s.<ref name="HR1">{{Cite web
+ |title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991)
+ |work=[[VizieR]]
+ |publisher=[[Centre de Données astronomiques de Strasbourg]]
+ |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%206134
+ |accessdate=7 September 2012}}</ref>
+
+In 2002, astronomers using computer simulations speculated that Betelgeuse might exhibit magnetic activity in its extended atmosphere, a factor where even moderately strong fields could have a meaningful influence over the star's dust, wind and mass-loss properties.<ref name="DORCH">{{cite journal
+ | title=Magnetic Activity in Late-type Giant Stars: Numerical MHD Simulations of Non-linear Dynamo Action in Betelgeuse
+ | author=Dorch, S. B. F.
+ | journal=Astronomy & Astrophysics
+ | volume= 423
+ | issue=3
+ | pages=1101–07
+ | year=2004
+ |url=http://www.astro.ku.dk/~dorch/paper/copies/Dorch2004.pdf
+ | doi=10.1051/0004-6361:20040435
+ | bibcode=2004A&A...423.1101D|arxiv = astro-ph/0403321 }}</ref> A series of [[spectropolarimetry|spectropolarimetric]] observations obtained in 2010 with the [[Bernard Lyot Telescope]] at [[Pic du Midi Observatory]] revealed the presence of a weak magnetic field at the surface of Betelgeuse, suggesting that the giant convective motions of supergiant stars are able to trigger the onset of a small-scale [[dynamo effect]].<ref name="A&A516">
+{{cite journal
+ | title=The Magnetic Field of Betelgeuse : a Local Dynamo from Giant Convection Cells?
+ | author=Aurière, M; Donati, J.-F.; Konstantinova-Antova, R.; Perrin, G. ;Petit, P.; Roudier, T.
+ | journal=Astronomy & Astrophysics
+ | year=2010
+ | volume=516
+ | page=L2
+ | arxiv=1005.4845
+ | bibcode=2010A&A...516L...2A
+ | doi=10.1051/0004-6361/201014925
+}}</ref>
+
+=== Motion ===
+[[File:Orion OB1 & 25 Ori Group.png|thumb|right|Orion OB1 Association]]
+The [[kinematics]] of Betelgeuse are complex. The age of Class M supergiants with an initial mass of 20&nbsp;M<sub>☉</sub> is roughly 10 million years.<ref name="HARPER" /><ref name=" MAEDER">
+{{cite journal
+ | title= The Role of Rotation and Mass Loss in the Evolution of Massive Stars
+ | author= Maeder, André; Meynet, Georges
+ | journal=Publications of the Astronomical Society of the Pacific
+ | page=267
+ | year=2003
+ | bibcode=2003IAUS..212..267M
+ | last2= Meynet
+ | volume= 212
+}}</ref> Given its motion, a corresponding projection back in time would take Betelgeuse around 290&nbsp;parsecs farther from the [[galactic plane]]—an implausible location, as there is no [[star formation]] [[Molecular cloud|region]] there. Moreover, Betelgeuse's projected pathway does not appear to intersect with the [[25 Orionis|25 Ori]] [[Orion OB1 Association|subassociation]] or the far younger Orion Nebula Cluster (ONC, also known as Ori OB1d), particularly since [[Very Long Baseline Array]] astrometry yields a distance to the ONC between 389 and 414&nbsp;parsecs. Consequently, it is likely that Betelgeuse has not always had its current motion through space and has changed course at one time or another, possibly the result of a nearby [[Supernova|stellar explosion]].<ref name="HARPER" /><ref name="REYNOLDS1" />
+
+The most likely star-formation scenario for Betelgeuse is that it is a [[Stellar kinematics#Runaway stars|runaway star]] from the [[Orion OB1 Association]]. Originally a member of a high-mass multiple system within Ori OB1a, Betelgeuse was probably formed about 10–12 million years ago from molecular clouds observed in Orion,<ref>{{cite web| author=Robert Nemiroff (MTU) & Jerry Bonnell (USRA)| title=Orion: Head to Toe | work=Today's [[Astronomy Picture of the Day]] | date=23 October 2010 | url=http://apod.nasa.gov/apod/ap101023.html | accessdate=8 October 2012}}</ref> but has evolved rapidly due to its high mass.<ref name="HARPER" />
+
+Like many young stars in Orion whose mass is greater than 10&nbsp;M<sub>☉</sub>, Betelgeuse will use its fuel quickly and not live long. On the [[Hertzsprung-Russell diagram]], Betelgeuse has moved off the [[main sequence]] and has swelled and cooled to become a [[red supergiant]]. Although young, Betelgeuse has probably exhausted the hydrogen in its core—unlike its OB cousins born about the same time—causing it to contract under the force of gravity into a hotter and denser state. As a result, it has begun to fuse [[helium]] into [[carbon]] and [[oxygen]] producing enough radiation to unfurl its outer envelopes of [[hydrogen]] and helium. Its mass and luminosity are such that the star will eventually fuse higher elements through [[neon]], [[magnesium]], [[sodium]], and [[silicon]] all the way to [[iron]], at which point it will probably collapse and explode as a [[type II supernova]].<ref name="SOLSTATION" /><ref name="KALER">{{cite web
+ | title=Betelgeuse (Alpha Orionis)
+ | publisher=University of Illinois
+ | author=Kaler, James B. (Jim)
+ | work=Stars website
+ | url=http://stars.astro.illinois.edu/sow/betelgeuse.html
+ | accessdate=19 July 2009}}</ref>
+
+=== Density ===
+
+[[File:Star-sizes.jpg|left|thumb|300px|Relative sizes of the planets in the Solar System and several stars, including Betelgeuse<br/>
+1. [[Mercury (planet)|Mercury]] < [[Mars]] < [[Venus]] < [[Earth]] <br/>
+2. [[Earth]] < [[Neptune]] < [[Uranus]] < [[Saturn]] < [[Jupiter]] <br/>
+3. [[Jupiter]] < [[Wolf 359]] < [[Sun]] < [[Sirius]] <br/>
+4. [[Sirius]] < [[Pollux (star)|Pollux]] < [[Arcturus]] < [[Aldebaran]] <br/>
+5. [[Aldebaran]] < [[Rigel]] < [[Antares]] < '''Betelgeuse''' <br/>
+6. '''Betelgeuse''' < [[Mu Cephei]] < [[VV Cephei A]] < [[VY Canis Majoris]].]]
+
+As an early M-type supergiant, Betelgeuse is one of the largest, [[List of most luminous stars|most luminous]] and yet one of the most ethereal stars known. A radius of 5.5&nbsp;AU is roughly 1,180 times the radius of the Sun—able to contain over 2 quadrillion Earths (2.15 × 10<sup>15</sup>) or more than 1.6 billion (1.65 × 10<sup>9</sup>) Suns. That is the equivalent of Betelgeuse being a football stadium like [[Wembley Stadium]] in London with the Earth a tiny [[pearl]], 1 millimeter in diameter, orbiting a Sun the size of a [[mango]].<ref name="NOTEVOLUME" group="note">For computations relating to ''Betelgeuse volume'', click [show].
+
+{{Collapse|1= The analogy is based on the computation of certain ratios – specifically the diameter, radius and volume of the three celestial bodies in question, Betelgeuse, the Sun and Earth. Once these ratios are derived, the relative size of each as they relate to [[Wembley Stadium]] can be easily determined. The calculations begin with the formula for [[angular diameter]] as follows:
+* Betelgeuse [[diameter]] ≈ 0.0552 [[arcseconds]] × 197.0 [[parsecs|pc]] ≈ 11.000 [[Astronomical unit|AU]] (rounded up) × 149,597,871&nbsp;km ≈ 1.646 ×10<sup>9</sup>&nbsp;km,
+* Betelgeuse [[radius]] ≈ 11.000 [[Astronomical unit|AU]] ÷ 2 ≈ 5.500 [[Astronomical unit|AU]] × 149,597,871&nbsp;km ≈ 8.230 ×10<sup>8</sup>&nbsp;km ≈ 823,000,000&nbsp;km,
+* Betelgeuse [[sphere|volume]] ≈ (4÷3×π) × 823,000,000<sup>3</sup> ≈ 2.335 × 10<sup>27</sup> km<sup>3</sup>.
+
+Also:
+* [[Sun|Solar]] radius ≈ 696,000&nbsp;km. Volume ≈ 1.412×10<sup>18</sup> km<sup>3</sup>,
+* Earth radius ≈ 6,371.0&nbsp;km. Volume ≈ 1.083×10<sup>12</sup> km<sup>3</sup>.
+* [[Wembley Stadium#Structure|Wembley Bowl Volume]] ≈ 1,139,100 m<sup>3</sup>. [[Sphere|Spherical radius]] ≈ (1,139,100m<sup>3</sup> ÷ (4/3*π))<sup>1/3</sup> ≈ 64.787 m or 64,787 mm.
+
+Therefore:
+* Betelgeuse ≈ (2.335 × 10<sup>27</sup>) ÷ (1.412×10<sup>18</sup>) ≈ 1.654 × 10<sup>9</sup> Suns,
+* Betelgeuse ≈ (2.335 × 10<sup>27</sup>) ÷ (1.083×10<sup>12</sup>) ≈ 2.156 × 10<sup>15</sup> Earths.
+
+* Solar volume relative to Wembley ≈ 1,139,100&nbsp;m<sup>3</sup> ÷ (1.654 × 10<sup>9</sup>) × 10<sup>9</sup>{i.e. to convert to mm<sup>3</sup>} ≈ 689,000 mm<sup>3</sup> (rounded up)
+* Solar diameter relative to Wembley ≈ (689,000&nbsp;mm<sup>3</sup> ÷ (4/3*π))<sup>1/3</sup> ≈ 55.61845 × 2 ≈ 110&nbsp;mm
+* Earth volume relative to Wembley ≈ 1,139,100&nbsp;m<sup>3</sup> ÷ (2.156 × 10<sup>15</sup>) × 10<sup>9</sup>{i.e. to convert to mm<sup>3</sup>} ≈ 0.528 mm<sup>3</sup>
+* Earth diameter relative to Wembley ≈ (0.528 mm<sup>3</sup> ÷ (4/3*π))<sup>1/3</sup> ≈ 0.501 × 2 ≈ 1.002&nbsp;mm
+* Earth's orbital radius (1&nbsp;AU) relative to Wembley ≈ 1&nbsp;AU ÷ 5.5&nbsp;AU × 64.787 meters = 11.8&nbsp;m
+
+Conclusion:
+* If the immense space of Wembley Stadium were Betelgeuse, the Earth would be a tiny [[pearl]], 1.0&nbsp;mm in diameter, orbiting a Sun, 11.0&nbsp;cm in diameter (i.e. the size of an average [[mango]] or [[grapefruit]]), with an orbital distance of about 11.8&nbsp;m. |bg=#F0F2F5}}</ref> Moreover, observations from 2009 of Betelgeuse exhibiting a 15% contraction in angular diameter would equate to a shortening of the star's radius from about 5.5 to 4.6&nbsp;AU, assuming that the photosphere is a perfect sphere. A reduction of this magnitude would correspond to a diminution in photospheric volume of about 41%.<ref name="NOTEREDUCTION" group="note">For computations relating to ''stellar contraction'', click [show].{{Collapse|1=
+As pointed out in the [[Betelgeuse#Angular anomalies|Angular anomalies]] section, the observed contraction could be due to a shrinking of the star's radius or by other phenomena. Assuming the photosphere is spherical, calculating a reduction in volume begins with the formula for [[angular diameter]] as follows:
+Calculations for 1993 values:
+* Betelgeuse [[radius]] ≈ 0.056&nbsp;[[arcseconds]] × 197.0&nbsp;[[parsecs|pc]] ≈ 11.032&nbsp;[[Astronomical unit|AU]] ÷ 2 ≈ 5.516&nbsp;[[Astronomical unit|AU]] × 149,597,871&nbsp;km ≈ 825,000,000&nbsp;km,
+* Betelgeuse [[sphere|volume]] ≈ (4÷3×π) × 825,000,000<sup>3</sup> ≈ 2.352 × 10<sup>27</sup>&nbsp;km<sup>3</sup>.
+Calculations for 2008 values:
+* Betelgeuse [[radius]] ≈ 0.047&nbsp;[[arcseconds]] × 197.0&nbsp;[[parsecs|pc]] ≈ 9.260&nbsp;AU ÷ 2 ≈ 4.630&nbsp;AU × 149,597,871&nbsp;km ≈ 692,500,000&nbsp;km,
+* Betelgeuse [[sphere|volume]] ≈ (4÷3×π) × 692,500,000<sup>3</sup> ≈ 1.391 × 10<sup>27</sup>&nbsp;km<sup>3</sup>.
+Therefore:
+* Betelgeuse change in volume ≈ 2.352 × 10<sup>27</sup>&nbsp;km<sup>3</sup> – 1.391 × 10<sup>27</sup>&nbsp;km<sup>3</sup> ≈ –9.610E × 10<sup>26</sup>&nbsp;km<sup>3</sup>
+* Betelgeuse percent change in volume ≈ –9.610E × 10<sup>26</sup>&nbsp;km<sup>3</sup> ÷ 2.352 × 10<sup>27</sup>&nbsp;km<sup>3</sup> ≈ –40.86%
+* Betelgeuse volume change as a function of Solar volume ≈ –9.610E × 10<sup>26</sup> ÷ 1.412×10<sup>18</sup>&nbsp;km<sup>3</sup> ≈ –681,000,000 Suns.|bg=#F0F2F5}}
+</ref>[[File:Post L2 Play-Off Final.jpg|thumb|right|Bowl volume of [[Wembley Stadium]]. The center circle (9.15&nbsp;m radius) is a close analogy for the Earth's orbit around the Sun, while the air in the stadium is far denser than Betelgeuse.]]
+Not only is the photosphere enormous, but the star is surrounded by a complex circumstellar environment where light could take over three years to escape.<ref name="BAUD" /> In the outer reaches of the photosphere, the density is extremely low. Yet the mass of the star is believed to be no more than 20&nbsp;M<sub>☉</sub>, with mass loss estimates projected at one to two Suns since birth.<ref name="SMITH2009" /><ref name="KALER" /> Consequently, the average density is less than twelve [[parts per billion]] (1.119 × 10<sup>−8</sup>) that of the Sun. Such star matter is so tenuous that Betelgeuse has often been called a "red-hot vacuum".<ref name="AAVSO" /><ref name="BURNHAM" />
+
+=== Circumstellar dynamics ===
+
+In the late phase of [[stellar evolution]], massive stars like Betelgeuse exhibit high rates of [[stellar mass loss|mass loss]], possibly as much as 1&nbsp;M<sub>☉</sub> every 10,000 years, resulting in a complex [[circumstellar envelope|circumstellar environment]] that is constantly in flux.<ref name="ESO0927"/> In a 2009 paper, stellar mass loss was cited as the "key to understanding the evolution of the universe from the earliest cosmological times to the current epoch, and of planet formation and the formation of life itself.<ref name="RIDGEWAY">
+{{cite journal
+ | title=Quantifying Stellar Mass Loss with High Angular Resolution Imaging
+ | author=Ridgway, Stephen
+ | journal=Astronomy & Astrophysics
+ | volume=247
+ | year=2009
+ | bibcode=2009astro2010S.247R
+ | last2=Aufdenberg
+ | last3=Creech-Eakman
+ | last4=Elias
+ | last5=Howell
+ | last6=Hutter
+ | last7=Karovska
+ | last8=Ragland
+ | last9=Wishnow
+ | pages=247
+ | first2=Jason
+ | first3=Michelle
+ | first4=Nicholas
+ | display-authors=4
+ | first5=Steve
+ | first6=Don
+ | first7=Margarita
+ | first8=Sam
+ | first9=Ed|arxiv = 0902.3008 }}</ref> However, the physical mechanism is not well understood.<ref name="KERVELLA2011" /> When Schwarzschild first proposed his theory of huge convection cells, he argued it was the likely cause of mass loss in evolved supergiants like Betelgeuse.<ref name="SCHWARZSCHILD1975" /> Recent work has corroborated this hypothesis, yet there are still uncertainties about the structure of their convection, the mechanism of their mass loss, the way dust forms in their extended atmosphere, and the conditions which precipitate their dramatic finale as a type II supernova.<ref name="KERVELLA2011" /> In 2001, Graham Harper estimated a stellar wind at 0.03&nbsp;M<sub>☉</sub> every 10,000 years,<ref name="HARPER2001" /> but research since 2009 has provided evidence of episodic mass loss making any total figure for Betelgeuse uncertain.<ref name="ESO0927"/><ref name="OHNAKA2009" /> Current observations suggest that a star like Betelgeuse may spend a portion of its lifetime as a red supergiant, but then cross back across the H-R diagram, pass once again through a brief yellow supergiant phase and then explode as a [[blue supergiant]] or [[Wolf-Rayet star]].<ref name="LEVESQUE1">{{cite journal
+ | author=Levesque, E. M.
+ | title=The Physical Properties of Red Supergiants
+ | journal=Astronomical Society of the Pacific
+ | year=2010
+ | month=June
+ | volume=425 Hot and Cool: Bridging Gaps in Massive Star Evolution ASP Conference Series
+ | url=http://arxiv.org/pdf/0911.4720v1.pdf
+ | accessdate=3 July 2012
+ | bibcode = 2010ASPC..425..103L | arxiv = 0911.4720 | pages = 103 }}</ref>[[File:Betelgeuse Plume eso0927d.jpg|thumb|right|Artist's rendering from [[European Southern Observatory|ESO]] showing Betelgeuse with a gigantic bubble boiling on its surface and a radiant plume of gas being ejected to at least six photospheric radii or roughly the orbit of Neptune]]
+
+As a result of work done by Pierre Kervella and his team at the [[Paris observatory]], astronomers may be close to solving this mystery. They noticed a large plume of gas extending outward at least six times the stellar radius indicating that Betelgeuse is not shedding matter evenly in all directions.<ref name="KERVELLA2009" /><ref name="ESO0927" /> The plume's presence implies that the spherical symmetry of the star's photosphere, often observed in the infrared, is ''not'' preserved in its close environment. Asymmetries on the stellar disk had been reported at different wavelengths. However, due to the refined capabilities of the [[Very Large Telescope#Instruments|NACO]] adaptive optics on the VLT, these asymmetries have come into focus. The two mechanisms that could cause such asymmetrical mass loss, Kervella noted, were large-scale convection cells or polar mass loss, possibly due to rotation.<ref name="KERVELLA2009" /> Probing deeper with ESO's AMBER, Keiichi Ohnaka and colleagues observed that the gas in the supergiant's extended atmosphere is vigorously moving up and down, creating bubbles as large as the supergiant itself, leading his team to conclude that such stellar upheaval is behind the massive plume ejection observed by Kervella.<ref name="ESO0927" /><ref name="OHNAKA2009">
+{{cite journal
+ | title=Spatially Resolving the Inhomogeneous Structure of the Dynamical Atmosphere of Betelgeuse with VLTI/AMBER
+ | author=A. P.Ohnaka, K.
+ | journal=Astronomy & Astrophysics
+ | volume= 503 | issue=1 | pages=183–95
+ | year=2009
+ | bibcode=2009A&A...503..183O
+ | doi=10.1051/0004-6361/200912247
+ | last2=Hofmann
+ | first2=K.-H.
+ | last3=Benisty
+ | first3=M.
+ | last4=Chelli
+ | first4=A.
+ | display-authors=4
+ | last5=Driebe
+ | first5=T.
+ | last6=Millour
+ | first6=F.
+ | last7=Petrov
+ | first7=R.
+ | last8=Schertl
+ | first8=D.
+ | last9=Stee
+ | first9=Ph.
+|arxiv = 0906.4792 }}</ref>
+
+==== Asymmetric shells ====
+
+In addition to the photosphere, six other components of Betelgeuse's atmosphere have now been identified. They are a molecular environment otherwise known as the MOLsphere, a gaseous envelope, a chromosphere, a dust environment and two outer shells (S1 and S2) composed of [[carbon monoxide]] (CO). Some of these elements are known to be asymmetric while others overlap.<ref name="HAUBOIS" />
+[[File:ESO Paranal Platform.jpg|thumb|left|Exterior view of ESO's Very Large Telescope ([[Very Large Telescope|VLT]]) in Paranal, Chile]]
+At about 0.45 stellar radii (~2–3&nbsp;AU) above the photosphere there may lie a molecular layer known as the MOLsphere or  molecular environment. Studies show it to be composed of water vapor and carbon monoxide with an effective temperature of about 1500 ± 500&nbsp;K.<ref name="HAUBOIS" /><ref name="TSUJI">
+{{cite journal
+ | title=Water on the Early M Supergiant Stars α Orionis and μ Cephei
+ | author=Tsuji, T.
+ | journal=The Astrophysical Journal
+ | volume=538 | issue=2 | pages=801–07
+ | year=2000
+ | url=http://iopscience.iop.org/0004-637X/538/2/801/pdf/51446.web.pdf
+ | bibcode=2000ApJ...538..801T
+ | doi=10.1086/309185
+}}</ref> Water vapor had been originally detected in the supergiant's spectrum in the 1960s with the two Stratoscope projects but had been ignored for decades. The MOLsphere may also contain [[Silicon monoxide|SiO]] and [[Aluminium oxide|Al<sub>2</sub>O<sub>3</sub>]]—molecules which could explain the formation of dust particles.
+[[File:Eso-paranal-16.jpg|thumb|left|Interior view of one of the four 8.2-meter Unit Telescopes at ESO's VLT]]
+
+Extending for several radii (~10–40&nbsp;AU) about the photosphere exists another cooler region known as an asymmetric gaseous envelope. It is enriched in oxygen and especially in [[nitrogen]] relative to carbon. These composition anomalies are likely caused by contamination by [[CNO cycle|CNO]]-processed material from the inside of Betelgeuse.<ref name="HAUBOIS" /><ref name="LAMBERT">{{cite journal
+ | title=Carbon, Nitrogen, and Oxygen Abundances in Betelgeuse
+ | author=Lambert, D. L.; Brown, J. A.; Hinkle, K. H.; Johnson, H. R.
+ | journal=Astrophysical Journal
+ | volume=284
+ | pages=223–37
+ | year=1984
+ | bibcode=1984ApJ...284..223L
+ | doi=10.1086/162401
+}}</ref>
+
+Radio-telescope images taken in 1998 confirm that Betelgeuse has a highly complex atmosphere,<ref name="NRAO" /> with a temperature of 3,450 ± 850K—similar to that recorded on the star's surface but much lower than surrounding gas in the same region.<ref name="NRAO">{{cite web
+ |title=VLA Shows "Boiling" in Atmosphere of Betelgeuse
+ |publisher=National Radio Astronomy Observatory
+ |author=Dave Finley
+ |date=8 April 1998
+ |url=http://www.nrao.edu/pr/1998/betel/
+ |accessdate=7 September 2010
+}}</ref><ref name="LIM">
+{{cite journal
+ | title=Large Convection Cells as the Source of Betelgeuse's Extended Atmosphere
+ | author=Lim, Jeremy; Carilli, Chris L.; White, Stephen M.; Beasley, Anthony J.; Marson, Ralph G.
+ | journal=Nature
+ | volume=392
+ | issue=6676
+ | pages=575–77
+ | year=1998
+ | bibcode=1998Natur.392..575L
+ | doi=10.1038/33352
+}}</ref> The VLA images also show this lower-temperature gas progressively cool as it extends outward. Although unexpected, it turns out to be the most abundant constituent of Betelgeuse's atmosphere. "This alters our basic understanding of red-supergiant star atmospheres", explained Jeremy Lim, the team's leader. "Instead of the star's atmosphere expanding uniformly due to gas heated to high temperatures near its surface, it now appears that several giant convection cells propel gas from the star's surface into its atmosphere."<ref name="NRAO" /> This is the same region in which Kervella's 2009 finding of a bright plume, possibly containing carbon and nitrogen and extending at least six photospheric radii in the southwest direction of the star, is believed to exist.<ref name="HAUBOIS" />
+
+The [[chromosphere]] was directly imaged by the Faint Object Camera on board the Hubble Space Telescope in ultraviolet wavelengths. The images also revealed a bright area in the southwest quadrant of the disk.<ref name="LOBEL2004" /> The average radius of the chromosphere in 1996 was about 2.2 times the optical disk (~10&nbsp;AU) and was reported to have a temperature no higher than 5,500K.<ref name="DUPREE" /><ref name="HAUBOIS" /> However in 2004 observations with the STIS, Hubble's high-precision spectrometer, pointed to the existence of warm chromospheric plasma at least one arcsecond away from the star. At a distance of 197&nbsp;pc, the size of the chromosphere could be up to 200&nbsp;AU.<ref name="LOBEL2004">
+{{cite journal
+ | title=Spatially Resolved STIS Spectroscopy of Betelgeuse's Outer Atmosphere
+ | author=Lobel, A.; Aufdenberg, J.; Dupree, A. K.; Kurucz, R. L.; Stefanik, R. P.; Torres, G.
+ | journal=Publications of the Astronomical Society of the Pacific
+ | page= 641
+ | year=2004
+ | bibcode=2004IAUS..219..641L
+ | quote=In the article, Lobel ''et al.'' equate 1 arcsecond to approximately 40 stellar radii, a calculation which in 2004 likely assumed a Hipparcos distance of 131 pc (430 ly) and a photospheric diameter of 0.0552" from Weiner ''et al.''|arxiv = astro-ph/0312076
+ | last2=Aufdenberg
+ | last3=Dupree
+ | last4=Kurucz
+ | last5=Stefanik
+ | last6=Torres
+ | volume=219}}</ref> The observations have conclusively demonstrated that the warm chromospheric plasma spatially overlaps and coexists with cool gas in Betelgeuse's gaseous envelope as well as with the dust in its circumstellar dust shells (see below).<ref name="HAUBOIS" /><ref name="LOBEL2004" />
+
+[[File:Nebula around Betelgeuse.jpg|thumb|[[ESO]]'s [[Very Large Telescope|VLT]] image of a complex [[nebula]] around Betelgeuse; the [[:File:Nebula and betelgeuse VLT.jpg|tiny red circle]] in the middle represents the photosphere, as it ejects its plume of gas into the immediate atmosphere ultimately creating a dust environment that extends ~400 AU from the star.<ref>{{cite news|title=The Flames of Betelgeuse|url=http://www.eso.org/public/news/eso1121/|accessdate=24 June 2011|newspaper=ESO Photo Release|date=23 June 2011}}</ref><ref name="APOD4">{{cite web
+ | author=Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
+ | title=Stardust and Betelgeuse
+ | work=Today's [[Astronomy Picture of the Day]]
+ | date=28 June 2011
+ | url=http://apod.nasa.gov/apod/ap110628.html
+ | accessdate=10 June 2012}}</ref>]]
+
+The first attestation of a dust shell surrounding Betelgeuse was put forth by Sutton and colleagues, who noted in 1977 that dust shells around mature stars often emit large amounts of radiation in excess of the photospheric contribution. Using [[Interferometry#Heterodyne detection|heterodyne interferometry]], they concluded that the red supergiant emits most of its excess beyond 12 stellar radii or roughly the distance of the [[Kuiper belt]] at 50 to 60 AU, depending on the assumed stellar radius.<ref name="SUTTON1977"/><ref name="HAUBOIS"/> Since then, there have been studies done of this dust envelope at varying wavelengths yielding decidedly different results. Studies from the 1990s have estimated the inner radius of the dust shell anywhere from 0.5 to 1.0&nbsp;arcseconds, or 100 to 200&nbsp;AU.<ref name="SKINNER">
+{{cite journal
+ | title=Circumstellar Environments – V. The Asymmetric Chromosphere and Dust Shell of Alpha Orionis
+ | author=Skinner, C. J.
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=288 | issue=2 | pages=295–306
+ | year=1997
+ | bibcode=1997MNRAS.288..295S
+ | last2=Dougherty
+ | last3=Meixner
+ | last4=Bode
+ | last5=Davis
+ | last6=Drake
+ | last7=Arens
+ | last8=Jernigan
+ | first2=S. M.
+ | first3=M.
+ | first4=M. F.
+ | display-authors=5
+ | first5=R. J.
+ | first6=S. A.
+ | first7=J. F.
+ | first8=J. G.
+}}</ref><ref name="DANCHI">
+{{cite journal
+ | title=Characteristics of Dust Shells around 13 Late-type Stars
+ | author=Danchi, W. C.; Bester, M.; Degiacomi, C. G.; Greenhill, L. J.; Townes, C. H.
+ | journal=The Astronomical Journal
+ | volume=107 | issue=4 | pages=1469–1513
+ | year=1994
+ | doi=10.1086/116960
+ | bibcode=1994AJ....107.1469D
+}}</ref> These studies point out that the dust environment surrounding Betelgeuse is not static. In 1994, Danchi et al. reported that Betelgeuse undergoes sporadic dust production involving decades of activity followed by inactivity. In 1997, a group of astronomers led by Chris Skinner noticed significant changes in the dust shell's morphology in one year, suggesting that the shell is asymmetrically illuminated by a stellar radiation field strongly affected by the existence of photospheric hotspots.<ref name="SKINNER" /> The 1984 report of a giant asymmetric dust shell 1&nbsp;pc (206,265&nbsp;AU) from the star has not been corroborated by recent studies, although another report published the same year said that three dust shells were found extending four light-years from one side of the decaying star, suggesting that Betelgeuse sheds its outer layers as it journeys.<ref name="BAUD">
+{{cite journal
+ | title=A Giant Asymmetric Dust Shell around Betelgeuse
+ | author=Baud, B.
+ | journal=Bulletin of the American Astronomical Society
+ | volume=16
+ | page=405
+ | year=1984
+ | month=January
+ | bibcode=1984BAAS...16..405B
+ | last2=Waters
+ | last3=De Vries
+ | last4=Van Albada
+ | last5=Boulanger
+ | last6=Wesselius
+ | last7=Gillet
+ | last8=Habing
+ | last9=Van Der Kruit
+ | first2=R.
+ | first3=J.
+ | first4=G. D.
+ | display-authors=4
+ | first5=F.
+ | first6=P. R.
+ | first7=F.
+ | first8=H. J.
+ | first9=P. C.
+}}</ref><ref name="DAVID">
+{{cite journal
+ | title=The Infrared Universe
+ | author=David, L.; Dooling, D.
+ | journal=Space World,
+ | pages=4–7
+ | year=1984
+ | bibcode=1984SpWd....2....4D
+ | volume=2
+}}</ref>
+
+Although the exact size of the two outer [[carbon monoxide|CO]] shells remains elusive, preliminary estimates suggest that one shell extends from about 1.5 to 4.0 [[arcseconds]] and the other expands as far as 7.0 [[arcseconds]].<ref name="HARPER2009">{{cite journal
+ | title=UV, IR, and mm Studies of CO Surrounding the Red Supergiant α Orionis (M2 Iab)
+ | author=Harper, Graham M.
+ | journal=AIP Conference Proceedings
+ | volume= 1094
+ | pages=868–71
+ | year=2009
+ | doi=10.1063/1.3099254
+ | bibcode=2009AIPC.1094..868H
+ | last2=Carpenter
+ | first2=Kenneth G.
+ | last3=Ryde
+ | first3=Nils
+ | last4=Smith
+ | first4=Nathan
+ | display-authors=5
+ | last5=Brown
+ | first5=Joanna
+ | last6=Brown
+ | first6=Alexander
+ | last7=Hinkle
+ | first7=Kenneth H.
+ | last8=Stempels
+ | first8=Eric}}</ref> Assuming the Jovian orbit of 5.5&nbsp;AU as the star radius, the inner shell would extend roughly 50 to 150 stellar radii (~300 to 800&nbsp;AU) with the outer one as far as 250 stellar radii (~1400&nbsp;AU). The sun's [[heliopause (astronomy)|heliopause]] is estimated at about 100 AU, so the size of this outer shell would be almost fourteen times the size of the Solar System.
+
+==== Supersonic bow shock ====
+
+Betelgeuse is travelling supersonically through the interstellar medium at a speed of 30&nbsp;km per second (i.e. ~6.3&nbsp;AU per year) creating a [[bow shock]].<ref name="MOHAMED1"/><ref name="LAMERS1999">{{cite book
+ | title=Introduction to Stellar Winds
+ | author=Lamers, Henny J. G. L. M.; Cassinelli, Joseph P.
+ | year=1999
+ | month=June
+ | publisher=Cambridge University Press
+ | location=Cambridge, UK
+ | isbn=978-0521595650
+ | bibcode=1999isw..book.....L}}</ref> The shock is not created by the star, but its powerful [[stellar wind]] as it ejects vast amounts of gas into the interstellar medium at a rate of 17&nbsp;km/sec, heating up the material surrounding the star thereby making it visible in infrared light.<ref name="ESA3">{{cite web
+ |title=Akari Infrared Space Telescope: Latest Science Highlights
+ |publisher=[[European Space Agency]]
+ |url=http://www.esa.int/esaSC/SEMCJT4DHNF_index_1.html
+ |date=19 November 2008
+ |accessdate=25 June 2012}}</ref> Because Betelgeuse is so bright, it was only in 1997 that the bow shock was first imaged. The [[comet]]ary structure is estimated to be at least 1 parsec wide, assuming a distance of 643 light-years.<ref name="NORIEGA1">{{cite journal
+ | author=Noriega-Crespo, Alberto; van Buren, Dave; Cao, Yu; Dgani, Ruth
+ | title=A Parsec-Size Bow Shock around Betelgeuse
+ | journal=Astronomical Journal
+ | year=1997
+ | volume=114
+ | pages=837–40
+ | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1997AJ....114..837N&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+ | accessdate=25 June 2012
+ | bibcode=1997AJ....114..837N
+ | doi=10.1086/118517
+ | quote=Noriega in 1997 estimated the size to be 0.8 parsecs, having assumed the earlier distance estimate of 400 ly. With a current distance estimate of 643 ly, the bow shock would measure ~1.28 parsecs or over 4 ly}}</ref>
+
+3D [[Fluid dynamics|hydrodynamic]] simulations of the bow shock made in 2012 indicate that it is very young—less than 30,000 years old—suggesting two possibilities: one, that Betelgeuse moved into a region of the interstellar medium with different properties recently or two, that Betelgeuse has undergone a significant transformation as its stellar wind has changed.<ref name="ASTROBITES1">{{cite web
+ |title=This Star Lives in Exciting Times, or, How Did Betelgeuse Make that Funny Shape?
+ |author=Newton, Elizabeth
+ |publisher=Astrobites
+ |url=http://astrobites.com/2012/04/26/this-star-lives-in-exciting-times-or-how-did-betelgeuse-make-that-funny-shape/
+ |date=26 April 2012
+ |accessdate=25 June 2012}}</ref> In their 2012 paper, Mohamed et al. propose that this phenomenon was caused by Betelgeuse transitioning from a blue supergiant (BSG) to a red supergiant (RSG). In the late evolutionary stage of a star like Betelgeuse, evidence suggests that stars "may undergo rapid transitions from red to blue and vice versa on the Hertzsprung-Russell diagram, with accompanying rapid changes to their stellar winds and bow shocks."<ref name="MOHAMED1">{{cite journal
+ | author=Mohamed, S.; Mackey, J.; Langer, N.
+ | title=3D Simulations of Betelgeuse's Bow Shock
+ | journal=Astronomy & Astrophysics
+ | year=2012
+ | volume= 541, id.A1
+ | bibcode=2012A&A...541A...1M
+ | doi=10.1051/0004-6361/201118002
+ | arxiv=1109.1555v2.pdf
+ | pages=A1}}</ref><ref name="MACKEY1">{{cite journal
+ | author=Mackey, Jonathan
+ | title=Double Bow Shocks around Young, Runaway Red Supergiants: Application to Betelgeuse
+ | journal=The Astrophysical Journal Letters
+ | year=2012
+ | month=May
+ | volume=751
+ | issue=1, article id. L10
+ | pages=837–40
+ | bibcode=2012ApJ...751L..10M
+ | doi=10.1088/2041-8205/751/1/L10
+ | last2=Mohamed
+ | first2=Shazrene
+ | last3=Neilson
+ | first3=Hilding R.
+ | last4=Langer
+ | first4=Norbert
+ | display-authors=5
+ | arxiv=1204.3925v1.pdf
+ | last5=Meyer
+ | first5=Dominique M.-A.
+ | author6=<Please add first missing authors to populate metadata.>}}</ref> Moreover, if future research bears out this hypothesis, Betelgeuse may prove to have traveled close to 200,000 AU as a red supergiant scattering as much as 3 <math>\begin{smallmatrix}M_{\odot} \end{smallmatrix}</math> along its trajectory.<ref name="ESO0927" />
+
+=== Approaching supernova ===
+The fate of Betelgeuse depends on its mass—a critical factor which is not well understood.<ref name="GRAY1" /> Since most investigators posit a mass greater than 10&nbsp;M<sub>☉</sub>, the most likely scenario is that the supergiant will continue to burn and fuse elements until its core is iron, at which point Betelgeuse will explode as a type II supernova. During this event the core will collapse, leaving behind a [[neutron star]] remnant about 20&nbsp;km in diameter.<ref name="100greatest" /> [[File:Betelgeuse supernova.png|thumb|left|[[Celestia]]'s computerized depiction of Orion as it might appear from Earth should Betelgeuse explode as a [[supernova]]]] [[File:Chandra Gamma Ray Burst 01.jpg|thumb|left|Artist depiction of a [[Gamma-ray burst]] showing jets and supernova shell<ref name="CHANDRA1">{{cite web
+ |title=Cosmic Forensics Confirms Gamma-ray Burst/Supernova Connection
+ |author=CXC/M.Weiss; Spectrum: NASA/CXC/N.Butler et al.
+ |publisher=Harvard-Smithsonian Center for Astrophysics
+ |url=http://chandra.harvard.edu/photo/2003/grb020813/
+ |date=Last update: 30 September 2010
+ |accessdate=16 November 2010}}</ref>]]
+
+Betelgeuse is already old for its size class and is expected to explode relatively soon compared to its age.<ref name="ESO0927" /> Solving the riddle of mass-loss will be the key to knowing when a supernova may occur, an event expected in the next million years.<ref name="APOD3">{{cite journal
+ | author=Robert Nemiroff (MTU) & Jerry Bonnell (USRA)
+ | title=Betelgeuse Resolved
+ | journal=Today's [[Astronomy Picture of the Day]]
+ | date=5 August 2009
+ | url=http://antwrp.gsfc.nasa.gov/apod/ap090805.html
+ | accessdate=17 November 2010
+ |quote= Betelgeuse is a candidate to undergo a spectacular supernova explosion almost anytime in the next few thousand years.}}</ref><ref name="EARTHSKY1">{{cite web
+ |title=Betelgeuse: Will explode someday
+ |publisher=EarthSky Communications, Inc
+ |author=Sessions, Larry
+ |date =29 June 2009
+ |url=http://earthsky.org/brightest-stars/betelgeuse-will-explode-someday
+ |accessdate=16 November 2010}}</ref><ref name="TATE" /> Supporting this hypothesis are unusual features that have been observed in the interstellar medium of the [[Orion Molecular Cloud Complex]], which suggest that there have been multiple supernovae in the recent past.<ref name="REYNOLDS1">{{cite journal
+ | title=Optical evidence for a very large, expanding shell associated with the I Orion OB association, Barnard's loop, and the high galactic latitude H-alpha filaments in Eridanus
+ | author=Reynolds, R. J.; Ogden, P. M.
+ | journal=Astrophysical Journal
+ | volume= 229
+ | pages=942–53
+ | year=1979
+ | doi=10.1086/157028
+ | bibcode=1979ApJ...229..942R}}</ref> Betelgeuse's suspected birthplace in the Orion OB1 Association is the probable location for such supernovae. Since the oldest subgroup in the association has an approximate age of 12 million years, the more massive stars likely had sufficient time to reach the end of their lifespan and explode already. Also, because runaway stars are believed to be caused by supernovae, there is strong evidence that OB stars [[Mu Columbae|μ&nbsp;Columbae]], [[AE Aurigae]] and [[53 Arietis]] all originated from such explosions in Ori OB1 2.2, 2.7 and 4.9 million years ago.<ref name="REYNOLDS1" />
+
+Professor J. Craig Wheeler of The University of Texas at Austin predicts Betelgeuse's demise will emit 10<sup>46</sup> [[joule]]s of [[neutrino]]s, which will pass through the star's hydrogen envelope in around an hour, then travel at light speed to reach the Solar System centuries later—providing the first evidence of the cataclysm. The supernova could brighten over a two-week period to an apparent magnitude of −12,<ref name="wheeler">{{cite book
+ | title=Cosmic Catastrophes: Exploding Stars, Black Holes, and Mapping the Universe
+ | author=Wheeler, J. Craig
+ | publisher=Cambridge University Press
+ | location=Cambridge, UK
+ | year=2007
+ | edition=2nd
+ | isbn=0-521-85714-7
+ | pages=115–17}}</ref> outshining the [[Moon]] in the night sky and becoming easily visible in broad daylight.<ref name="ESO0927" /> It would remain at that intensity for two to three months before rapidly dimming.<ref name="wheeler"/> Since its rotational axis is not pointed toward the Earth, Betelgeuse's supernova is unlikely to send a [[gamma ray burst]] in the direction of Earth large enough to damage [[ecosystem]]s.<ref name="TATE">{{cite web
+ |title=Betelgeuse
+ |first=Jean
+ |last=Tate
+ |publisher=Universe Today
+ |url=http://www.universetoday.com/42361/betelgeuse/
+ |date=13 October 2009
+ |accessdate=16 November 2010}}</ref> The flash of ultraviolet radiation from the explosion will likely be weaker than the ultraviolet output of the Sun. The year following the explosion, radioactive decay of [[cobalt]] to iron will dominate emission from the [[supernova remnant]], and the resulting gamma rays will be blocked by the expanding envelope of hydrogen. If the neutron star remnant becomes a [[pulsar]], it could produce gamma rays for thousands of years.<ref name="wheeler"/>
+
+Due to misunderstandings caused by the 2009 publication of the star's 15% contraction,<ref name="UCBERKELEY2009" /><ref name="ASTRONOMYMAG2009" /> Betelgeuse has frequently been the subject of scare stories and rumors suggesting that it will explode within a year, leading to exaggerated claims about the consequences of such an event.<ref>{{cite news
+ | url=http://www.news.com.au/technology/sci-tech/tatooines-twin-suns-coming-to-a-planet-near-you-just-as-soon-as-betelgeuse-explodes/story-fn5fsgyc-1225991009247
+ | title=Tatooine's twin suns – coming to a planet near you just as soon as Betelgeuse explodes
+ | last=Connelly
+ | first=Claire
+ | work=News.com.au
+ | date=19 January 2011
+ | accessdate=14 September 2012
+}}</ref><ref>{{cite web
+ | url=http://blogs.discovermagazine.com/badastronomy/2010/06/01/is-betelgeuse-about-to-blow/
+ | title=Is Betelgeuse about to blow?
+ | last=Plait
+ | first=Phil
+ | date=1 June 2010
+ | accessdate=14 September 2012
+ | work=Bad Astronomy
+ | publisher=Discovery
+}}</ref> The timing and prevalence of these rumors have been linked to broader misconceptions of astronomy, particularly to doomsday predictions relating to the [[2012 phenomenon|Mayan calendar]].<ref>
+{{cite news
+ | url=http://news.discovery.com/space/dont-panic-betelgeuse-wont-explode-in-2012.html
+ | title=Don't panic! Betelgeuse won't explode in 2012!
+ | last=O'Neill
+ | first=Ian
+ | date=20 January 2011
+ | accessdate=14 September 2012
+ | work=Discovery space news
+}}</ref><ref>
+{{cite web
+ | url=http://blogs.discovermagazine.com/badastronomy/2011/01/21/betelgeuse-and-2012/
+ | title=Betelgeuse and 2012
+ | last=Plait
+ | first=Phil
+ | date=21 January 2011
+ | accessdate=14 September 2012
+ | work=Bad Astronomy
+ | publisher=Discovery
+}}</ref> In their 2012 study, physicists at the Space Sciences Laboratory point out that the apparent contraction in the star's diameter may be due to the complex dynamics in the star's surrounding nebula and not the star itself,<ref name="RAVI1" /> reconfirming that until we better understand the nature of mass loss, predicting the timing of a supernova will remain a challenge.
+
+== Star system ==
+
+In 1985, Margarita Karovska, in conjunction with other astrophysicists at the [[Harvard–Smithsonian Center for Astrophysics]], announced the discovery of two close companions orbiting Betelgeuse. Analysis of [[Polarization (waves)|polarization]] data from 1968 through 1983 indicated a close companion with a periodic orbit of about 2.1 years. Using speckle interferometry, the team concluded that the closer of the two companions was located at 0.06 ± 0.01" (~9 AU) from the main star with a position angle (PA) of 273 degrees, an orbit that would potentially place it within the star's chromosphere. The more distant companion was estimated at 0.51 ± 0.01" (~77 AU) with a PA of 278 degrees.<ref name="KAROVSKA1">{{cite journal
+ | title=On a Possible Close Companion to α Ori
+ | author=Karovska, M.; Noyes, R. W.; Roddier, F.; Nisenson, P.; Stachnik, R. V.
+ | journal=Bulletin of the American Astronomical Society
+ | volume=17
+ | page=598
+ | year=1985
+ | bibcode=1985BAAS...17..598K
+ | last2=Noyes
+ | last3=Roddier
+ | last4=Nisenson
+ | last5=Stachnik
+}}</ref><ref name="KAROVSKA2">{{cite journal
+ | title=On the alpha Orionis triple system
+ | author=Karovska, M.; Nisenson, P.; Noyes, R.
+ | journal=Astrophysical Journal
+ | volume=308
+ | pages=675–85
+ | year=1986
+ | doi=10.1086/164497
+ | bibcode=1986ApJ...308..260K
+}}</ref>
+
+In the years that followed no confirmation of Karovska's discovery was published. In 1992, a team of collaborators from the Cavendish Astrophysics Group questioned the finding. They published a paper noting that the brightness features on the surface of Betelgeuse appear to be "too bright to be associated with a passage of the suggested companions in front of the red giant." They also noticed that these features were fainter at 710 nanometers compared to 700 by a factor of 1.8, indicating that such features would have to reside within the molecular atmosphere of the star.<ref name="WILSON2">{{cite journal
+ | title=High-resolution imaging of Betelgeuse and Mira
+ | author=Wilson, R. W.; Baldwin, J. E.; Buscher, D. F.; Warner, P. J.
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=257
+ | issue=3
+ | pages=369–76
+ | year=1992
+ | bibcode=1992MNRAS.257..369W
+ | last2=Baldwin
+ | last3=Buscher
+ | last4=Warner
+}}</ref> Despite this, that same year Karovska published a new paper reconfirming her team's exegesis, but also noting that there was a meaningful correlation between the calculated position angles of the orbiting companion and the reported asymmetries, suggesting a possible connection between the two.<ref name="KAROVSKA3">
+{{cite journal
+ | title=Imaging of the Surface of α ORI
+ | author=Karovska, M.
+ | journal=Proceedings of the 7th Cambridge Workshop, ASP Conference Series
+ | volume=26
+ | page=279
+ | year=1992
+ | bibcode=1992ASPC...26..279K
+}}</ref> Since then, researchers have turned their attention to analyzing the intricate dynamics of the star's extended atmosphere and little else has been published on the possibility of orbiting companions, although as Xavier Haubois and his team reiterate in 2009, the possibility of a close companion contributing to the overall flux has never been fully ruled out.<ref name="HAUBOIS" /> [[Catalog of Components of Double and Multiple Stars|Dommanget's double star catalog]] (CCDM) lists at least four adjacent stars, all within three [[arcminutes]] of this stellar giant, yet aside from apparent magnitudes and position angles, little else is known.<ref name="CCDM">{{cite web |title=CCDM (Catalog of Components of Double & Multiple stars (Dommanget+ 2002) |work=[[VizieR]] |publisher=[[Centre de Données astronomiques de Strasbourg]] |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J05552%2b0724AP |accessdate=22 August 2010}}</ref>
+
+== Ethnological attributes ==
+
+=== Spelling and pronunciation ===
+Betelgeuse has been known as ''Betelgeux'',<ref name="OED">{{Cite encyclopedia
+ | title=Betelgeuse
+ | encyclopedia=Oxford English Dictionary
+ | editor=Simpson, J.; Weiner, E. (eds)
+ | year=1989
+ | edition= 2nd
+ | page=130
+ | location=Oxford
+ | publisher=Clarendon Press
+ | isbn= 0-19-861186-2}}</ref> and in [[German language|German]] ''Beteigeuze''<ref>Likely the result of mistaking the '''l''' for an '''i'''. Ultimately, this led to the modern Betelgeuse.</ref> (according to [[Johann Elert Bode|Bode]]<ref>[[Johann Elert Bode|Bode, Johann Elert]], (ed.). (1782) ''Vorstellung der Gestirne: auf XXXIV Kupfertafeln nach der Parisier Ausgabe des Flamsteadschen Himmelsatlas'', Gottlieb August Lange, Berlin / [[Stralsund]], pl. XXIV.</ref><ref>[[Johann Elert Bode|Bode, Johann Elert]], (ed.) (1801). ''Uranographia: sive Astrorum Descriptio'', Fridericus de Harn, Berlin, pl. XII.</ref>). ''Betelgeux'' and ''Betelgeuze'' were used until the early 20th century, when the spelling ''Betelgeuse'' became universal.<ref name="schaaf">{{cite book
+ |author=Schaaf, Fred
+ |year=2008
+ |title=The Brightest Stars
+ |chapter=Betelgeuse
+ |pages=174–82
+ |publisher=Wiley
+ |location=Hoboken, New Jersey
+ |isbn=0-471-70410-5}}</ref><!-- cites previous two sentences --> There is no consensus for the correct pronunciation of the name,<ref name="RDB">{{cite web|work=The Constellations Web Page|title= Alpha Orionis (Betelgeuse ) |author=Dibon-Smith, Richard|url=http://www.dibonsmith.com/ori_a.htm|accessdate=23 January 2010}}</ref> and pronunciations for the star are as varied as its spellings:
+
+* {{IPAc-en|ˈ|b|ɛ|t|əl|dʒ|uː|z}} [[Oxford English Dictionary]]<ref name="OED" /> and [[Royal Astronomical Society of Canada]]
+* {{IPAc-en|ˈ|b|iː|t|əl|dʒ|uː|z}} [[Oxford English Dictionary]]<ref name="OED" />
+* {{IPAc-en|ˈ|b|ɛ|t|əl|dʒ|ə|z}} (''The Friendly Stars'')<ref name="kanipe">{{cite web
+ | title=SpaceWatch – A Star by Any Other Name
+ | author=Kanipe, Jeff
+ | date=30 June 2005
+ | url=http://www.space.com/spacewatch/spacewatch_001214.html
+ | accessdate=23 October 2009
+ | archiveurl = http://web.archive.org/web/20090522195511/http://www.space.com/spacewatch/spacewatch_001214.html
+ | archivedate = 22 May 2009}}</ref>
+* {{IPAc-en|ˈ|b|iː|t|əl|dʒ|uː|s}} (Canadian Oxford Dictionary, ''Webster's Collegiate Dictionary'')<!-- Schaaf says all 3 pronunciations used -->
+
+=== Etymology ===
+[[File:Islamic Celestial Globe 01.jpg|thumb|right|250px|Image of Islamic [[celestial globe]], ''circa'' AD 1630, showing ''"al-Jauzā"'' (Betelgeuse) and belt of Orion in the foreground; the brass globe served as a map of the heavens and a precision tool for making astronomical calculations.]]There is uncertainty surrounding the first element of the name, rendered as "Bet-". However, "abet" or {{lang|ar|إبط}} is the [[Arabic language|Arabic]] word for "armpit",<ref>{{cite journal | last=Davis | first=George R., Jr. | title=The pronunciations, derivations, and meanings of a selected list of star names | journal=Popular Astronomy | volume=52 | pages=8–29 | year=1944 | bibcode=1944PA.....52....8D }} See p. 23.</ref> which is where the star is in the Orion constellation. Betelgeuse is often mistranslated as "armpit of the central one".<ref>{{cite book | first=Ian | last=Ridpath | year=2006 | authorlink=Ian Ridpath | page=8 | title=The Monthly Sky Guide | edition=7th | publisher=Cambridge University Press | isbn=0-521-68435-8 | url=http://books.google.com/books?id=P3JhtnAX-PwC&pg=PA8 }}</ref> In his 1899 work ''[[Star Names: Their Lore and Meaning|Star-Names and Their Meanings]]'', American amateur naturalist [[Richard Hinckley Allen]] stated the derivation was from the {{lang|ar|ابط الجوزاء}} ''{{transl|ar|Ibṭ al-Jauzah}}'', which he claimed degenerated into a number of forms including ''Bed Elgueze'', ''Beit Algueze'', ''Bet El-gueze'', ''Beteigeuze'' and more, to the forms ''Betelgeuse'', ''Betelguese'', ''Betelgueze'' and ''Betelgeux''. The star was named ''Beldengeuze'' in the ''[[Alfonsine tables|Alfonsine Tables]]'',<ref name="Kunitzsch86">{{cite journal|last=Kunitzsch|first=Paul|year=1986|title=The Star Catalogue Commonly Appended to the Alfonsine Tables|journal=Journal for the History of Astronomy|volume=17|issue=49|pages=89–98|url=http://adsabs.harvard.edu/full/1986JHA....17...89K|bibcode = 1986JHA....17...89K }}</ref> and Italian [[Jesuit]] priest and astronomer [[Giovanni Battista Riccioli]] had called it ''Bectelgeuze'' or ''Bedalgeuze''.<ref name="allen">{{cite book
+ | author=[[Richard Hinckley Allen|Allen, Richard Hinckley]],
+ | year=1963 |origyear=1899
+ | title=Star Names: Their Lore and Meaning
+ | edition=[[Reprint|rep]].
+ | publisher=[[Dover Publications]] Inc.
+ | location=[[New York City|New York]], [[New York|NY]]
+ | url= http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Orion*.html
+ | isbn=0-486-21079-0
+ | pages = 310–12}}</ref> Paul Kunitzsch, Professor of Arabic Studies at the University of Munich, refuted Allen's derivation and instead proposed that the full name is a corruption of the Arabic {{lang|ar|يد الجوزاء}} ''{{transl|ar|Yad al-Jauzā'}}'' meaning "the Hand of ''al-Jauzā<nowiki>'"</nowiki>'', ''i.e.'', Orion.<ref name="KUNITZSCH1959">{{cite book
+ |author=Kunitzsch, Paul
+ |year=1959
+ |title=Arabische Sternnamen in Europa
+ |publisher=[[Otto Harrassowitz]]
+ |location=[[Wiesbaden]]
+ |page=}}</ref>
+European [[transliteration|mistransliteration]] into [[medieval Latin]] led to the first character ''y'' ('''ﻴ''', with two dots underneath) being misread as a ''b'' ('''ﺒ''', with only one dot underneath).
+During the [[Renaissance]], the star's name was written as {{lang|ar|بيت الجوزاء}} ''{{transl|ar|Bait al-Jauzā'}}'' ("house of Orion") or {{lang|ar|بط الجوزاء}} ''{{transl|ar|Baţ al-Jauzā'}}'', incorrectly thought to mean "armpit of Orion" (a true translation of "armpit" would be {{lang|ar|ابط}}, transliterated as ''{{transl|ar|Ibţ}})''. This led to the modern rendering as ''Betelgeuse''.<ref name="Kunitzsch">{{cite book
+ |author= Kunitzsch, Paul; Smart, Tim
+ |year = 2006
+ |title = A Dictionary of Modern star Names: A Short Guide to 254 Star Names and Their Derivations
+ |edition = 2nd rev.
+ |publisher = [[New Track Media#Sky Publishing|Sky Pub]]
+ |location = [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts|MA]]
+ |isbn = 978-1-931559-44-7
+ |page = 45}}</ref>
+Other writers have since accepted Kunitzsch's explanation.<ref name="KALER" />
+
+The last part of the name, "-elgeuse", comes from the Arabic {{lang|ar|الجوزاء}} ''{{transl|ar|al-Jauzā'}}'', a historical Arabic name of the constellation Orion, a feminine name in old [[Arabian legend]], and of uncertain meaning. Because {{lang|ar|جوز}} ''{{transl|ar|j-w-z}}'', the [[Root (linguistics)|root]] of ''{{transl|ar|jauzā'}}'', means "middle", ''{{transl|ar|al-Jauzā'}}'' roughly means "the Central One". Later, ''{{transl|ar|al-Jauzā'}}'' was also designated as the scientific [[Arabic]] name for Orion and for [[Gemini (constellation)|Gemini]]. The modern Arabic name for Orion is {{lang|ar|الجبار}} ''{{transl|ar|al-Jabbār}}'' ("the Giant"), although the use of {{lang|ar|الجوزاء}} ''{{transl|ar|al-Jauzā'}}'' in the name of the star has continued.<ref name="Kunitzsch" /> The 17th century English translator [[Edmund Chilmead]] gave it the name ''Ied Algeuze'' ("Orion's Hand"), from [[Jakob Christmann|Christmannus]].<ref name="allen" /> Other Arabic names recorded include ''{{transl|ar|Al Yad al Yamnā}}'' ("the Right Hand"), ''{{transl|ar|Al Dhira}}'' ("the Arm"), and ''{{transl|ar|Al Mankib}}'' ("the Shoulder"), all appended to "of the giant",<ref name="allen" /> as {{lang|ar|منكب الجوزاء}} ''{{transl|ar|Mankib al Jauzā'}}''. In [[Persian language|Persian]], however, the name is {{lang|fa|اِبطالجوزا}}, derived from the Arabic {{lang|ar|ابط الجوزاء}} ''{{transl|ar|Ibţ al-Jauzā'}}'', "armpit of Orion".[[File:Dunhuang Star Atlas - Orion.jpg|thumb|right|250px|[[Dunhuang Star Chart]], ''circa'' AD 700, showing {{lang|zh|参宿四}} {{lang|zh-Latn|Shēnxiùsì}} (Betelgeuse), the Fourth Star of the constellation of Three Stars<ref name="DUNHUANG1">{{cite web
+ | title=Dunhuang Star Chart
+ | publisher=British Library
+ | work=International Dunhuang Project (IDP)
+ | url=http://idp.bl.uk/4DCGI/education/astronomy/atlas.html
+ | accessdate=16  June 2012}}</ref>]]
+
+=== Other names ===
+Other terms for Betelgeuse included the Persian ''{{lang|fa-Latn|Bašn}}'' "the Arm", and [[Coptic language|Coptic]] ''{{lang|cop-Latn|Klaria}}'' "an Armlet".<ref name="allen" /> ''{{lang|sa-Latn|Bahu}}'' was its [[Sanskrit]] name, as part of a Hindu understanding of the constellation as a running antelope or stag.<ref name="allen" /> In traditional [[Chinese astronomy]], Betelgeuse was known as {{lang|zh|参宿四}} (''{{lang|zh-Latn|Shēnxiùsì}}, the Fourth Star of the constellation of [[Three Stars (Chinese constellation)|Three Stars]]'')<ref name="sb2">{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0605/ap060525.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 25 日]</ref> as the [[Orion (Chinese astronomy)|Chinese constellation]] {{lang|zh|参宿}} originally referred to the three stars in the [[Orion's Belt|girdle of Orion]]. This constellation was ultimately expanded to ten stars, but the earlier name stuck.<ref name="ridpath">{{cite web |url =  http://www.ianridpath.com/startales/orion2.htm |last = Ridpath |first = Ian  |title = Orion Continued |accessdate =24 June 2012 |work = Star Tales}}</ref> In Japan, the Taira or [[Heike clan]] adopted Betelgeuse and its red color as its symbol, calling the star ''Heike-boshi'', ({{lang|ja|平家星}}), while the Minamoto or [[Genji clan]] had chosen  Rigel and its white color. The two powerful families fought a legendary war in [[Japanese history]], the stars seen as facing each other off and only kept apart by the Belt.<ref name="RENSHAW1">{{cite web
+ |title=Yowatashi Boshi; Stars that Pass in the Night
+ |author=Steve Renshaw and Saori Ihara
+ |publisher=Griffith Observer
+ |url=http://www2.gol.com/users/stever/orion.htm
+ |date=October 1999
+ |accessdate=25 June 2012}}</ref><ref>[[Hōei Nojiri]]"Shin seiza jyunrei"p.19 ISBN 978-4-12-204128-8</ref>
+
+In Tahitian lore, Betelgeuse was one of the pillars propping up the sky, known as ''Anâ-varu'', the pillar to sit by. It was also called ''Ta'urua-nui-o-Mere'' "Great festivity in parental yearnings".<ref name="henry1907">{{cite journal|last=Henry|first=Teuira |year=1907|title=Tahitian Astronomy: Birth of Heavenly Bodies|journal=The Journal of the Polynesian Society |volume=16|issue=2|pages=101–04|jstor=20700813}}</ref> A Hawaiian term for it was ''Kaulua-koko'' "brilliant red star".<ref name="brosch">{{Cite book | last=Brosch | first=Noah | title=Sirius Matters | year=2008 | publisher=Springer | isbn=1-4020-8318-1 | page= 46 |url = http://books.google.com/?id=ricStR4SE-UC&pg=PA46&dq=Betelgeuse+Chinese+astronomy#v=onepage&q=Betelgeuse%20Chinese%20astronomy&f=false}}</ref> The [[Lacandon people]] of Central America knew it as ''chäk tulix'' "red butterfly".<ref>{{cite book|last=Milbrath|first=Susan |title=Star Gods of the Maya: Astronomy in Art, Folklore, and Calendars|publisher=University of Texas Press|location=Austin, Texas|year=1999|pages=39|isbn=0292752261|url=http://books.google.com/?id=DgqLplWtGPgC&pg=PA39&dq=betelgeuse+folklore#v=onepage&q=betelgeuse%20folklore&f=false}}</ref>
+
+=== Mythology ===
+
+With the [[history of astronomy]] intimately associated with [[mythology]] and [[astrology]] before the [[scientific revolution]], the red star, like the planet Mars that derives its name from a [[Mars (mythology)|Roman war god]], has been closely associated with the [[wikt:martial|martial]] [[archetype]] of conquest for millennia, and by extension, the motif of death and rebirth.<ref name="allen" /> Other cultures have produced different myths. Stephen R. Wilk has proposed the constellation of Orion could have represented the Greek mythological figure [[Pelops]], who had an artificial shoulder of ivory made for him, with Betelgeuse as the shoulder, its color reminiscent of the reddish yellow sheen of ivory.<ref name="wilk99" />
+
+In the Americas, Betelgeuse signifies a severed limb of a man-figure (Orion)—the [[Pemon people|Taulipang]] of Brazil know the constellation as Zililkawai, a hero whose leg was cut off by his wife, with the variable light from Betelgeuse linked to the severing of the limb. Similarly, the [[Lakota people]] of North America see it as a chief whose arm has been severed.<ref name="wilk99">{{cite journal|last=Wilk|first=Stephen R.|year=1999|title=Further Mythological Evidence for Ancient Knowledge of Variable Stars|journal= The Journal of the American Association of Variable Star Observers|volume=27|issue=2|pages=171–74|bibcode=1999JAVSO..27..171W}}</ref> The [[Wardaman people]] of northern Australia knew the star as ''Ya-jungin'' "Owl Eyes Flicking", its variable light signifying its intermittent watching of ceremonies led by the Red Kangaroo Leader Rigel.<ref>{{cite book  | last1 = Harney  | first1 = Bill Yidumduma 
+  | last2 = Cairns  | first2 = Hugh C.  | title = Dark Sparklers  | publisher = Hugh C. Cairns  | location = Merimbula, New South Wales
+|pages=139–40  | year = 2004  | origyear = 2003  | edition = Revised  | isbn = 0-9750908-0-1}}</ref> In South African mythology, Betelgeuse was perceived as a lion casting a predatory gaze toward the three zebras represented by Orion's Belt.<ref>{{cite book
+ | first=C. Scott | last=Littleton | year=2005 | page=1056
+ | title=Gods, goddesses, and mythology | volume=1
+ | publisher=Marshall Cavendish | isbn=0-7614-7559-1
+ | url=http://books.google.com/books?id=HC93q4gsOAwC&pg=PA1056 }}</ref> 
+
+A Sanskrit name for Betelgeuse was ''ãrdrã'' "the moist one", eponymous of the [[Ardra (nakshatra)|''Ardra'']] [[nakshatra|lunar mansion]] in [[Hindu astrology]].<ref name="motz">{{cite book|last=Motz|first=Lloyd|coauthors=Nathanson, Carol|title=The Constellations: An Enthusiast's Guide to the Night Sky|publisher=Aurum Press|location=London, United Kingdom|year=1991|page=85|isbn=1-85410-088-2}}</ref> The [[Rigvedic deities|Rigvedic God]] of storms [[Rudra]] presided over the star; this association was linked by 19th century star enthusiast [[Star Names: Their Lore and Meaning|Richard Hinckley Allen]] to Orion's stormy nature.<ref name="allen" /> The constellations in Macedonian folklore represented agricultural items and animals, reflecting their village way of life. To them, Betelgeuse was ''Orach'' "the ploughman", alongside the rest of Orion which depicted a plough with oxen. The rising of Betelgeuse at around 3&nbsp;am in late summer and autumn signified the time for village men to go to the fields and plough.<ref>{{cite journal|title=Macedonian Folk Constellations |author=Cenev, Gjore |journal=Publications of the Astronomical Observatory of Belgrade|volume= 85|pages=97–109|bibcode=2008POBeo..85...97C|year=2008}}</ref> To the Inuit, the appearance of Betelgeuse and Bellatrix high in the southern sky after sunset marked the beginning of spring and lengthening days in late February and early March. The two stars were known as ''Akuttujuuk'' "those (two) placed far apart", referring to the distance between them, mainly to people from North Baffin Island and Melville Peninsula.<ref name=inuit/>
+
+The opposed locations of Orion and Scorpio, with their corresponding bright variable red stars Betelgeuse and Antares, were noted by ancient cultures around the world. The setting of Orion and rising of Scorpio signify the death of Orion by the scorpion. In China they signify brothers and rivals Shen and Shang.<ref name="wilk99" /> The [[Batak (Indonesia)|Batak]] of Sumatra marked their New Year with the first new moon after the sinking of Orion's Belt below the horizon, at which point Betelgeuse remained "like the tail of a rooster". The positions of Betelgeuse and Antares at opposite ends of the celestial sky were considered significant and their constellations were seen as a pair of scorpions. Scorpion days marked as nights that both constellations could be seen.<ref name="kelley11">{{cite book|last=Kelley, David H.; Milone, Eugene F.; Aveni, A.F. |title=Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy|publisher=Springer|location=New York, New York|year=2011|pages=307|isbn=144197623X|url=http://books.google.com/?id=ILBuYcGASxcC&pg=PA307&dq=Betelgeuse+legend#v=onepage&q=Betelgeuse%20&f=false}}</ref>
+
+=== In popular culture ===
+{{see also|Betelgeuse in fiction}}
+
+The star's unusual name inspired the 1988 film ''[[Beetlejuice]]'', and script writer [[Michael McDowell (author)|Michael McDowell]] was impressed by how many people made the connection. He added that they had received a suggestion the sequel be named ''Sanduleak-69 202'' after the former star of [[SN 1987A]].<ref name="schaaf" /><!-- ref cites two previous sentences --> In [[August Derleth]]'s short story "The Dweller in the Darkness" set in [[H. P. Lovecraft]]'s [[Cthulhu Mythos]], Betelgeuse is the home of the 'benign' [[Elder God (Cthulhu Mythos)|Elder Gods]].<ref name="conley" /> The identity of the red star Borgil mentioned in ''[[Lord of the Rings]]'' was much debated and [[Aldebaran]], Betelgeuse and the planet Mars were touted as candidates. Professor Kristine Larsen has concluded the evidence points to it being Aldebaran as it precedes Menelvagor (Orion).<ref>{{cite journal
+ |author=Larsen, Kristine
+ |title=A Definitive Identification of [[J. R. R. Tolkien|Tolkien]]'s "Borgil": An Astronomical and Literary Approach
+ |journal=Tolkien Studies
+ |volume=2
+ |year=2005
+ |issue=1
+ |pages=161–70
+ |doi=10.1353/tks.2005.0023}}</ref> Astronomy writer [[Robert Burnham, Jr.]] proposed the term ''padparadaschah'' which denotes a rare orange sapphire in India, for the star.<ref name="schaaf" /> In the popular science fiction series "[[The Hitchhiker's Guide to the Galaxy]]" by [[Douglas Adams]], [[Ford Prefect (character)|Ford Prefect]] was from "a small planet somewhere in the vicinity of Betelgeuse."<ref name="conley">{{cite book
+ |title=Magic Words: A Dictionary
+ |author=Conley, Craig
+ |year=2008
+ |page=121
+ |url=http://books.google.com/?id=3SB60Wavy6MC&pg=PA121&dq=%22Ford+Prefect%22+Betelgeuse#v=onepage&q=%22Ford%20Prefect%22%20Betelgeuse&f=false
+ |accessdate=22 September 2010
+ |isbn=1-57863-434-2
+ |publisher=Weiser}}</ref> In the poetic work "[[Betelguese, a Trip Through Hell]]" by Jean Louis De Esque, hell is on Betelgeuse because De Esque believed that it was "a celestial pariah, an outcast, the largest of all known comets or outlawed suns in the universe."<ref>{{cite wikisource|title=Betelguese, a trip through hell|wslink=Betelguese, a trip through hell|last=De Esque|first=Jean Louis|authorlink=|year=1908|publisher=Connoisseur's Press|pages=7|scan=}}</ref>
+
+Two American navy ships were named after the star, both World War II vessels, the {{USS|Betelgeuse|AKA-11}} launched in 1939 and {{USS|Betelgeuse|AK-260}} launched in 1944. In 1979, a French supertanker named ''[[Betelgeuse incident|Betelgeuse]]'' was moored off [[Whiddy Island]] discharging oil when it exploded, killing 50 people in one of the worst disasters in Ireland's history.<ref>{{cite news
+ | first=Nicolla | last=Tallant | date=15 July 2007
+ | work=Independent Digital
+ | publisher=Independent News & Media PLC
+ | title=Survivor recalls the night an apocalypse came to Whiddy
+ | url=http://www.independent.ie/national-news/survivor-recalls-the-night-an-apocalypse-came-to-whiddy-1037842.html
+ | accessdate=10 June 2011}}</ref>
+
+== Notes ==
+{{reflist|group="note"|refs=
+{{#tag:ref|
+The following table provides a non-exhaustive list of angular measurements conducted since 1920. Also included is a column providing a current range of radii for each study based on Betelgeuse's most recent distance estimate (Harper et al) of {{nowrap|197 ± 45 pc}}:
+{{table
+|type = class="wikitable" cellpadding="1" style="border:darkgrey; text-align:center; background:none; vertical-align:middle;"
+|hdrs = style="width:50pt; text-align:left;"{{!}}Article
+! style="width:30pt;"{{!}}Year<sup>1</sup>
+! style="width:50pt;"{{!}}Telescope
+! style="width:15pt;"{{!}}[[Measurements|#]]
+! style="width:80pt;"{{!}}[[Electromagnetic Spectrum|Spectrum]]
+! style="width:70pt;"{{!}}<big>λ</big> ([[Micrometer|μm]])
+! style="width:75pt;"{{!}}<big>{{unicode|∅}}</big> ([[Milliarcseconds|mas]])<sup>2</sup>
+! style="width:70pt;"{{!}}Radii<sup>3</sup> @<br>197±45 [[parsec|pc]]
+! style="width:160pt;"{{!}}Notes
+| row1 = align="left"{{!}} Michelson<ref name="MICHELSON" />
+{{!}}1920
+{{!}}[[Mount Wilson Observatory|Mt-Wilson]]
+{{!}}1
+{{!}}[[Visible spectrum|Visible]]
+{{!}}0.575
+{{!}}47.0 ± 4.7
+{{!}}3.2–6.3 AU
+{{!}}align="left" {{!}}Limb darkened +17% = 55.0
+| row2 = align="left" {{!}} Bonneau<ref name="BONNEAU1973"/>
+{{!}}1972
+{{!}}[[Palomar Observatory|Palomar]]
+{{!}}8
+{{!}}Visible
+{{!}}0.422–0.719
+{{!}}52.0–69.0
+{{!}}3.6–9.2 AU
+{{!}}align="left" {{!}}Strong correlation of <big>{{unicode|∅}}</big> with <big>λ</big>
+| row3 =  style="text-align:left;" rowspan="2"{{!}} Balega<ref name="BALEGA" />
+{{!}}1978
+{{!}} style="text-align:center;"{{!}}[[ESO 3.6 m Telescope|ESO]]
+{{!}}3
+{{!}}Visible
+{{!}}0.405–0.715
+{{!}}45.0–67.0
+{{!}}3.1–8.6 AU
+{{!}} rowspan="2" style="text-align:left; vertical-align:middle;"{{!}}No correlation of <big>{{unicode|∅}}</big> with <big>λ</big>
+| row4 = 1979
+{{!}}[[Special Astrophysical Observatory of the Russian Academy of Science|SAO]]
+{{!}}4
+{{!}}Visible
+{{!}}0.575–0.773
+{{!}}50.0–62.0
+{{!}}3.5–8.0 AU
+| row5 = align="left"{{!}} Buscher<ref name="BUSCHER" />
+{{!}}1989
+{{!}}[[William Herschel Telescope|WHT]]
+{{!}}4
+{{!}}{{!}}Visible
+{{!}}0.633–0.710
+{{!}}54.0–61.0
+{{!}}4.0–7.9 AU
+{{!}}align="left"{{!}}Discovered asymmetries/hotspots
+| row6 = align="left"{{!}} Wilson<ref name="WILSON2" />
+{{!}}1991
+{{!}}WHT
+{{!}}4
+{{!!}}Visible
+{{!}}0.546–0.710
+{{!}}49.0–57.0
+{{!}}3.5–7.1 AU
+{{!}}align="left"{{!}}Confirmation of hotspots
+| row7 =  style="text-align:left;" rowspan="2"{{!}} Tuthill<ref name="TUTHILL" />
+{{!}}1993
+{{!}}WHT
+{{!}}8
+{{!}}Visible
+{{!}}0.633–0.710
+{{!}}43.5–54.2
+{{!}}3.2–7.0 AU
+{{!}} rowspan="2" style="text-align:left; vertical-align:middle;"{{!}}Study of hotspots on 3 stars
+| row8 = 1992
+{{!}}WHT
+{{!}}1
+{{!}}[[Infrared#Astronomy division scheme|NIR]]
+{{!}}0.902
+{{!}}42.6 ± 0:03
+{{!}}3.0–5.6 AU
+| row9 = rowspan="2" align="left"{{!}}Gilliland<ref name="GILLILAND1" />
+{{!}}rowspan="2"{{!}}1995
+{{!}}rowspan="2"{{!}}[[Hubble Space Telescope|HST]]
+{{!}}rowspan="2"{{!}}
+{{!}}rowspan="2"{{!}}[[ultraviolet|UV]]
+{{!}}0.24–0.27
+{{!}}104–112
+{{!}}10.3–11.1
+{{!}}rowspan="2" align="left"{{!}}FWHM diameters
+| row10 = 0.265–0.295
+{{!}}92–100
+{{!}}9.1–9.8
+| row11 = align="left"{{!}} Weiner<ref name="WEINER" />
+{{!}}1999
+{{!}}[[Infrared Spatial Interferometer|ISI]]
+{{!}}2
+{{!}}MIR ([[Infrared astronomy#Modern infrared astronomy|N Band]])
+{{!}}11.150
+{{!}}54.7 ± 0.3
+{{!}}4.1–6.7 AU
+{{!}}align="left"{{!}}Limb darkened = 55.2 ± 0.5
+| row12 = align="left"{{!}} Perrin<ref name="PERRIN2" />
+{{!}}1997
+{{!}}[[Infrared Optical Telescope Array|IOTA]]
+{{!}}7
+{{!}}NIR ([[Infrared astronomy#Modern infrared astronomy|K Band]])
+{{!}}2.200
+{{!}}43.33 ± 0.04
+{{!}}3.3–5.2 AU
+{{!}}align="left"{{!}}K&L Band,11.5μm data contrast
+| row13 = align="left"{{!}} Haubois<ref name="HAUBOIS" />
+{{!}}2005
+{{!!}}IOTA
+{{!}}6
+{{!}}NIR ([[Infrared astronomy#Modern infrared astronomy|H Band]])
+{{!}}1.650
+{{!}}44.28 ± 0.15<sup>‡</sup>
+{{!}}3.4–5.4 AU
+{{!}}align="left" {{!}} Rosseland diameter 45.03 ± 0.12
+| row14 = align="left" {{!}} Hernandez<ref name="HERNANDEZ" />
+{{!}}2006
+{{!}} [[Very Large Telescope|VLTI]]
+{{!}}2
+{{!!}}NIR (K Band)
+{{!}}2.099–2.198
+{{!}}42:57 ± 0:02
+{{!}}3.2–5.2 AU
+{{!}}align="left" {{!}} High precision AMBER results.
+| row15 = align="left"{{!}} Ohnaka<ref name="OHNAKA2009" />
+{{!}}2008
+{{!}}VLTI
+{{!}}3
+{{!}}NIR (K Band)
+{{!}}2.280–2.310
+{{!}}43.19 ± 0.03
+{{!}}3.3–5.2 AU
+{{!}}align="left" {{!}} Limb darkened 43.56 ± 0.06
+| row16 =  style="text-align:left;" rowspan="3" {{!}} Townes<ref name="TOWNES1" />
+{{!}}1993
+{{!}}ISI
+{{!}} style="vertical-align:middle;" rowspan="3" {{!}}17
+{{!}}[[Infrared#Astronomy division scheme|MIR]] (N Band)
+{{!}}11.150
+{{!}}56.00 ± 1.00
+{{!}}4.2–6.8 AU
+{{!}} style="text-align:left;" rowspan="3" {{!}}Systematic study involving 17 measurements at the same wavelength from 1993 to 2009
+| row17 = 2008
+{{!!}}ISI
+{{!}}MIR (N Band)
+{{!}}11.150
+{{!}}47.00 ± 2.00
+{{!}}3.6–5.7 AU
+| row18 = 2009
+{{!}}ISI
+{{!}}MIR (N Band)
+{{!}}11.150
+{{!}}48.00 ± 1.00
+{{!}}3.6–5.8 AU
+| row19 =  align="left" {{!}} Ohnaka<ref name="OHNAKA2011" />
+{{!}}2011
+{{!}}VLTI
+{{!}}3
+{{!}}NIR (K Band)
+{{!}}2.280–2.310
+{{!}}42.05 ± 0.05
+{{!}}3.2–5.2 AU
+{{!}} align="left" {{!}}Limb darkened 42.49 ± 0.06
+| row20 =  align="left" {{!}} Harper<ref name="HARPER" />
+{{!}}2008
+{{!}}[[Very Large Array|VLA]]
+{{!}}
+{{!}} style="text-align:left;" colspan="5"{{!}}Also noteworthy, Harper et al in the conclusion of their paper make the following remark: ''"In a sense, the derived distance of 200 pc is a balance between the 131&nbsp;pc (425&nbsp;ly) Hipparcos distance and the radio which tends towards 250&nbsp;pc (815&nbsp;ly)"''—hence establishing ± 815&nbsp;ly as the outside distance for the star.
+}}
+
+<sup>1</sup>The final year of observations, unless otherwise noted.
+<sup>2</sup>Uniform disk measurement, unless otherwise noted.
+<sup>3</sup>Radii calculations use the same methodology as outlined in Note #2 below <sup>‡</sup>Limb darkened measurement.|group=note|name=NOTEANGULAR}}
+}}
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+{{commons category|Betelgeuse}}
+{{Portal|Astronomy|Star}}
+* [http://www.mrao.cam.ac.uk/telescopes/coast/betel.html Surface imaging of Betelgeuse with COAST and the WHT] Interferometric images taken at different wavelengths.
+* [http://www.ipac.caltech.edu/outreach/Edu/Regions/irregions.html Near, Mid and Far Infrared] Infrared Processing and Analysis Center (IPAC) webpage showing pictures at various wavelengths.
+* [[Astronomy Picture of the Day|APOD]] Pictures:
+# [http://apod.nasa.gov/apod/ap071225.html Mars and Orion Over Monument Valley] Skyscape showing the relative brightness of Betelgeuse and Rigel.
+# [http://apod.nasa.gov/apod/ap101023.html Orion: Head to Toe] Breathtaking vista the Orion Molecular Cloud Complex from Rogelio Bernal Andreo.
+# [http://apod.nasa.gov/apod/ap100106.html The Spotty Surface of Betelgeuse] A reconstructed image showing two hotspots, possibly convection cells.
+# [http://apod.nasa.gov/apod/ap001222.html Simulated Supergiant Star] Freytag's "Star in a Box" illustrating the nature of Betelgeuse's "monster granules".
+# [http://apod.nasa.gov/apod/ap000725.html Why Stars Twinkle] Image of Betelgeuse showing the effect of atmospheric twinkling in a microscope.
+* [http://www.astro.uu.se/~bf/movie/dst35gm04n26/rsgintro_en.html Red supergiant movie] Numerical simulation of a red supergiant star like Betelgeuse.
+
+{{Stars of Orion}}
+
+{{featured article}}
+
+[[Category:Arabic words and phrases]]
+[[Category:Bayer objects|Orionis, Alpha]]
+[[Category:Flamsteed objects|Orionis, 58]]
+[[Category:Henry Draper Catalogue objects|039801]]
+[[Category:Hipparcos objects|027989]]
+[[Category:HR objects|2061]]
+[[Category:M-type supergiants]]
+[[Category:Orion (constellation)]]
+[[Category:Semiregular variable stars]]
+[[Category:Stars with proper names]]
+
+{{Link FA|it}}
+[[ar:منكب الجوزاء]]
+[[az:Bətəlgeyze]]
+[[bn:আর্দ্রা]]
+[[be:Бетэльгейзе]]
+[[bg:Бетелгейзе]]
+[[bs:Betelgez]]
+[[ca:Betelgeuse]]
+[[cs:Betelgeuze]]
+[[da:Betelgeuse]]
+[[de:Beteigeuze]]
+[[el:Μπετελγκέζ]]
+[[es:Betelgeuse]]
+[[eo:Betelĝuzo]]
+[[eu:Alfa Orionis]]
+[[fa:ابط‌الجوزا]]
+[[fr:Bételgeuse]]
+[[ga:Betelgeuse]]
+[[gl:Alpha Orionis]]
+[[ko:베텔게우스]]
+[[hi:आर्द्रा तारा]]
+[[hr:Betelgeuse]]
+[[io:Betelgeuse]]
+[[id:Betelgeuse]]
+[[is:Betelgás]]
+[[it:Betelgeuse]]
+[[he:ביטלג'וז]]
+[[jv:Betelgeuse]]
+[[ka:ბეთელჰეიზე]]
+[[ku:Betelcewza]]
+[[la:Alpha Orionis]]
+[[lv:Betelgeize]]
+[[lb:Betelgeuse (Stär)]]
+[[lt:Betelgeizė]]
+[[li:Betelgeuse]]
+[[hu:Betelgeuse]]
+[[mk:Бетелгез]]
+[[ml:തിരുവാതിര (നക്ഷത്രം)]]
+[[mr:काक्षी]]
+[[ms:Betelgeuse]]
+[[nl:Betelgeuze (ster)]]
+[[ja:ベテルギウス]]
+[[no:Betelgeuse]]
+[[pnb:بتلجوز]]
+[[nds:Beteigeuze]]
+[[pl:Betelgeza]]
+[[pt:Betelgeuse]]
+[[ro:Betelgeuse]]
+[[ru:Бетельгейзе]]
+[[simple:Betelgeuse]]
+[[sk:Betelgeuze]]
+[[sr:Бетелгез]]
+[[sh:Betelgeuse]]
+[[fi:Betelgeuze]]
+[[sv:Betelgeuse]]
+[[ta:திருவாதிரை (நட்சத்திரம்)]]
+[[tt:Бителҗәүза]]
+[[th:ดาวบีเทลจุส]]
+[[tr:Betelgeuse]]
+[[uk:Бетельгейзе]]
+[[vi:Betelgeuse]]
+[[vls:Betelgeuze]]
+[[zh:參宿四]]

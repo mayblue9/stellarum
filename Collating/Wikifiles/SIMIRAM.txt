@@ -1,0 +1,93 @@
+{{Starbox begin
+| name=Omega Carinae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Carina IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Carina constellation and its surroundings]]
+     <div style="position: absolute; left: 30.1%; top: 63.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ω Carinae (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|10|13|44.21739}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–70|02|16.4563}}<ref name=aaa474_2_653/>
+| appmag_v = 3.29<ref name=scfs/>
+| constell = [[Carina (constellation)|Carina]]
+}}
+{{Starbox character
+| class    = B8&nbsp;IIIe<ref name=aaa459_1_137/>
+| b-v      = –0.083<ref name=apjs15_459/>
+| u-b      = –0.285<ref name=apjs15_459/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +7.0<ref name=scfs/>
+| prop_mo_ra  = -36.01<ref name=aaa474_2_653/>
+| prop_mo_dec = +7.09<ref name=aaa474_2_653/>
+| parallax = 9.54
+| p_error  = 0.09
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 
+| luminosity  = 
+| temperature = 13,275<ref name=aaa440_1_305/>
+| metal    = 
+| gravity  = 3.581<ref name=aaa440_1_305/>
+| rotational_velocity = 245<ref name=aaa440_1_305/>
+| age      = 
+}}
+{{Starbox catalog
+| names = [[Harvard Revised catalogue|HR]]&nbsp;4037, [[Henry Draper Catalogue|HD]]&nbsp;89080, [[Bonner Durchmusterung|CP]]−69°1178, [[Fifth Fundamental Catalogue|FK5]]&nbsp;385, [[Hipparcos catalogue|HIP]]&nbsp;50099, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;250885.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Omega Carinae''' (ω Car, ω Carinae) is a [[star]] in the [[constellation]] [[Carina (constellation)|Carina]]. With a [[declination]] greater than 70 degrees south of the [[celestial equator]], it is the most southerly of the bright stars of Carina (third-magnitude or brighter), and it is part of a southern [[Asterism (astronomy)|asterism]] known as the '''[[Diamond Cross]]'''. This star has an [[apparent visual magnitude]] of 3.3<ref name=scfs/> and is located at a distance of about {{Convert|342|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+Omega Carinae has a [[stellar classification]] of B8&nbsp;IIIe,<ref name=aaa459_1_137/> which places it among a category known as [[Be star]]s that display [[emission line]]s of hydrogen their [[spectrum]]. Omega Carinae is a [[shell star]],<ref name=aaa459_1_137/> having a circumstellar disk of gas surrounding its equator. The [[luminosity class]] of III indicates it has [[stellar evolution|evolved]] into a [[giant star]], having exhausted the hydrogen at its core and left the [[main sequence]]. The [[effective temperature]] of 13,275&nbsp;K<ref name=aaa440_1_305/> in its outer envelope is what gives this star the blue-white hue that is characteristic of B-type stars.
+
+This star is rotating rapidly with a [[stellar rotation|projected rotational velocity]] of {{nowrap|245 km s<sup>–1</sup>}}, which gives a lower limit to the star's [[azimuth]]al velocity along the equator. The critical equatorial velocity, at which the star would begin to break up, is {{nowrap|320 km s<sup>–1</sup>}}. The star's axis of rotation is inclined by an estimated angle of 70.8° to the line of sight from the Earth.<ref name=aaa440_1_305/>
+
+==In culture==
+In [[Chinese language|Chinese]], {{lang|zh|南船}} ({{lang|zh-Latn|Nán Chuán}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Southern Boat]]'', refers to an asterism consisting of ω Carinae, [[V337 Carinae]], [[PP Carinae]], [[Theta Carinae|θ Carinae]] and [[Beta Carinae|β Carinae]] .<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ω Carinae itself is known as {{lang|zh|南船四}} ({{lang|zh-Latn|Nán Chuán sì}}, {{lang-en|the Fourth Star of Southern Boat}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060728.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 28 日]</ref>
+
+Rarely, this star is called by the name '''Simiram'''.{{Citation needed|date=January 2012}}
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=aaa459_1_137>{{citation | last1=Rivinius | first1=Th. | last2=Štefl | first2=S. | last3=Baade | first3=D. | title=Bright Be-shell stars | journal=Astronomy and Astrophysics | volume=459 | issue=1 | pages=137–145 | month=November | year=2006 | doi=10.1051/0004-6361:20053008 | bibcode=2006A&A...459..137R }}</ref>
+
+<ref name=aaa440_1_305>{{citation | display-authors=1 | last1=Frémat | first1=Y. | last2=Zorec | first2=J. | last3=Hubert | first3=A.-M. | last4=Floquet | first4=M. | title=Effects of gravitational darkening on the determination of fundamental parameters in fast-rotating B-type stars | journal=Astronomy and Astrophysics | volume=440 | issue=1 | pages=305–320 | month=September | year=2005 | doi=10.1051/0004-6361:20042229 | bibcode=2005A&A...440..305F |arxiv = astro-ph/0503381 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=ome Car -- Be Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=omega+carinae | accessdate=2012-01-13 }}</ref>
+
+}}
+
+==External links==
+* [http://www.southernskyphoto.com/southern_sky/crosses.htm Southern Sky Photos]
+
+{{Stars of Carina}}
+
+[[Category:Bayer objects|Carinae, Omega]]
+[[Category:B-type giants]]
+[[Category:Carina (constellation)]]
+
+[[de:Omega Carinae]]
+[[fa:امگا شاه‌تخته]]
+[[fr:Omega Carinae]]
+[[id:Omega Carinae]]
+[[it:Omega Carinae]]
+[[pt:Omega Carinae]]
+[[ru:Омега Киля]]
+[[zh:南船四]]

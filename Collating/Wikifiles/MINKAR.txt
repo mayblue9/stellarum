@@ -1,0 +1,101 @@
+{{Starbox begin
+ | name = Epsilon Corvi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Corvus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Corvus constellation and its surroundings]]
+     <div style="position: absolute; left: 58.5%; top: 51.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ε Corvi (circled)
+}}
+{{Starbox observe 
+ | epoch    = J2000 
+ | ra       = {{RA|12|10|07.48058}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–22|37|11.1620}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.024<ref name=aaass22_9/>
+ | constell = [[Corvus (constellation)|Corvus]]
+}}
+{{Starbox character 
+ | class    = K2&nbsp;III<ref name=houk1979/>
+ | b-v      = +1.318<ref name=aaass22_9/>
+ | u-b      = +1.458<ref name=aaass22_9/>
+ | variable = 
+}} 
+{{Starbox astrometry 
+ | radial_v = +4.9<ref name=scfs/>
+ | prop_mo_ra  = –71.74
+ | prop_mo_dec = +10.25
+ | parallax = 10.26
+ | p_error  = 0.16
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –1.82{{+-|0.15|0.14}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail 
+ | mass     = 3.2<ref name=aaa439_1_227/>
+ | radius   = 52<ref name=lang2006/>
+ | luminosity  = 
+ | gravity  = 2.16<ref name=ajss74_1075/>
+ | temperature = 4,320<ref name=ajss74_1075/>
+ | metal_fe = –0.13<ref name=ajss74_1075/>
+ | rotational_velocity = 1.0<ref name=aaa439_1_227/>
+ | rotation = 
+ | age_myr  = 
+}}
+{{Starbox catalog
+ | names = 2&nbsp;Crv, [[FK5]]&nbsp;453, [[Henry Draper Catalogue|HD]]&nbsp;105707, [[Hipparcos|HIP]]&nbsp;59316, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;4630, [[Star catalogue#SAO|SAO]]&nbsp;180531.<ref name=SIMBAD/>
+}}
+{{Starbox end}}	
+'''Epsilon Corvi''' (ε Crv, ε Corvi) is a [[star]] in the southern [[constellation]] of [[Corvus (constellation)|Corvus]]. It has the traditional name '''Minkar''', from [[Arabian]] '''ألمنخر''' ''almánxar'' meaning "the nostril of the crow"<ref>[http://www.constellationsofwords.com/stars/Minkar.html Constellations of Words - Corvi (Minkar)]</ref> The [[apparent visual magnitude]] is +3.0<ref name=aaass22_9/> and it is located at a distance of {{Convert|318|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|軫宿}} ({{lang|zh-Latn|Zhěn Sù}}), meaning ''[[Chariot (Chinese constellation)|Chariot]] (asterism)'', refers to an asterism consisting of ε Corvi, [[Gamma Corvi|γ Corvi]], [[Delta Corvi|δ Corvi]] and [[Beta Corvi|β Corvi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Corvi itself is known as {{lang|zh|軫宿二}} ({{lang|zh-Latn|Zhěn Sù èr}}, {{lang-en|the Second Star of Chariot}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Epsilon Corvi is a [[giant star]] with a [[stellar classification]] of K2&nbsp;III, having consumed the hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. It has about three times the Sun's mass.<ref name=aaa439_1_227/> The [[interferometry]]-measured [[angular diameter]] of this star is about 4.99&nbsp;[[milliarcseconds|mas]],<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 52 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> The [[effective temperature]] of the outer envelope is 4,320&nbsp;K,<ref name=ajss74_1075/> giving it an orange hue that is characteristic of a K-type star.<ref name=csiro/>
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=ajss74_1075>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=4 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1988mcts.book.....H }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaass22_9>{{citation | last1=Celis S. | first1=L. | title=Photoelectric photometry of late-type variable stars | journal=Astronomy and Astrophysics Supplement Series | volume=22 | pages=9–17 | month=October | year=1975 | bibcode1975A&AS...22....9C |bibcode = 1975A&AS...22....9C }}</ref>
+
+<ref name=aaa439_1_227>{{citation | display-authors=1 | last1=Melo | first1=C. H. F. | last2=de Laverny | first2=P. | last3=Santos | first3=N. C. | last4=Israelian | first4=G. | last5=Randich | first5=S. | last6=Do Nascimento | first6=J. D., Jr. | last7=de Medeiros | first7=J. R. | title=On the nature of lithium-rich giant stars. Constraints from beryllium abundances | journal=Astronomy and Astrophysics | volume=439 | issue=1 | pages=227–235 | month=August | year=2005 | doi=10.1051/0004-6361:20041805 | bibcode=2005A&A...439..227M |arxiv = astro-ph/0504133 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 97\cdot 4.99)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 104\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=SIMBAD>{{citation | title=MINKAR -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Minkar | accessdate=2012-01-24-23 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+
+{{Stars of Corvus}}
+
+[[Category:Corvus (constellation)]]
+[[Category:Bayer objects|Corvi, Epsilon]]
+[[Category:Stars with proper names]]
+
+[[de:Minkar]]
+[[es:Minkar]]
+[[fr:Epsilon Corvi]]
+[[id:Epsilon Corvi]]
+[[it:Epsilon Corvi]]
+[[lb:Minkar (Stär)]]
+[[nl:Minkar]]
+[[pl:Minkar]]
+[[pt:Epsilon Corvi]]
+[[sk:Minkar]]
+[[zh:軫宿二]]

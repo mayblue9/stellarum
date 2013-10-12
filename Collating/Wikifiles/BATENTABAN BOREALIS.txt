@@ -1,0 +1,109 @@
+{{Starbox begin
+| name=Chi Draconis A/B
+}}
+{{Starbox image
+| image=<div style="position: relative">[[File:Draco IAU.svg|250px]]
+     <div style="position: absolute; left: 86px; top: 61px">[[File:Map pointer.svg|17px]]</div>
+     </div>
+| caption=Location of Chi Draconis.
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|18|21|03.38255}}<ref name=aaa474_2_653/>
+| dec={{DEC|+72|43|58.2518}}<ref name=aaa474_2_653/>
+| appmag_v=3.570<ref name=aaa418_989/> (3.68 / 5.67)
+| constell=[[Draco (constellation)|Draco]]
+}}
+{{Starbox character
+| class=F7V<ref name=SIMBAD/> / K0V
+| b-v=0.49
+| u-b=-0.06
+| variable=Suspected
+}}
+{{Starbox astrometry
+| radial_v=+32.4<ref name=aaa418_989/>
+| prop_mo_ra=531.21<ref name=aaa474_2_653/>
+| prop_mo_dec=-349.71<ref name=aaa474_2_653/>
+| parallax=124.11
+| p_error=0.87
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v=4.04<ref name=aaa418_989/>
+}}
+{{Starbox orbit
+| reference=<ref name=aj139_6_2308/>
+| name=Chi Draconis B
+| period={{nowrap|0.7680599 ± 0.000061}}
+| axis={{nowrap|0.1244 ± 0.0011}}
+| eccentricity={{nowrap|0.428 ± 0.012}}
+| inclination={{nowrap|74.42 ± 0.58}}
+| node={{nowrap|230.30 ± 0.51}}
+| periarg={{nowrap|119.3 ± 1.1}}
+| periastron={{nowrap|1984.8324 ± 0.0026}}
+}}
+{{Starbox detail
+| component1=χ Dra A
+| mass={{nowrap|1.029 ± 0.026}}<ref name=aar18_1_67/>
+| radius={{nowrap|1.20 ± 0.09}}<ref name=aar18_1_67/>
+| luminosity=1.86<ref name=aar18_1_67/>
+| temperature={{nowrap|6,150 ± 150}}<ref name=aar18_1_67/>
+| metal_fe=−0.41<ref name=aaa418_989/>
+| rotational_velocity=11<ref name=aaa396_1_131/>
+| age_gyr=5.3<ref name=aaa418_989/>
+| component2=χ Dra B
+| mass2={{nowrap|0.748 ± 0.017}}<ref name=aar18_1_67/>
+| radius2={{nowrap|0.73 ± 0.11}}<ref name=aar18_1_67/>
+| temperature2={{nowrap|4,940 ± 200}}<ref name=aar18_1_67/>
+| luminosity2=0.29<ref name=aar18_1_67/>
+}}
+{{Starbox catalog
+| names=[[Bayer designation|&chi; Dra]], [[Flamsteed designation|44 Dra]], [[Bonner Durchmusterung|BD]] +72°839, [[Fifth Fundamental Catalogue|FK5]] 695, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 4245.00, [[Henry L. Giclas catalogue|Gl]] 713, [[Henry Draper catalogue|HD]] 170153, [[Hipparcos catalogue|HIP]] 89937, [[Harvard Revised catalogue|HR]] 6927, [[Luyten Half-Second catalogue|LHS]] 3379, [[Luyten Two-Tenths catalogue|LTT]] 15438, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 9087.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Chi Draconis''' (χ Dra, χ Draconis, Chi Draconis) is a [[star]] system in the [[constellation]] [[Draco (constellation)|Draco]].
+
+The first companion is a yellow-white (class F) fourth-magnitude star with a mass approximately equal to that of the [[sun]], but it is nearly twice as luminous. The second companion is an orange (class K) sixth-magnitude star, that is less massive and of lesser [[luminosity]] than the sun. In 1898 this system was reported to be a [[spectroscopic binary]] system, with an orbital period of 280.55 days. The two stars have an average separation of nearly an [[astronomical unit]], which would disrupt the orbit of any Earth-like planet that was close enough to the primary to support liquid water. The two stars have less than half the abundance of heavy elements as the [[Sun]] and are approximately a billion years older.<ref name=aaa418_989/>
+
+==In fiction==
+: See ''[[Stars and planetary systems in fiction#Chi Draconis (Batentaban Borealis)|Chi Draconis in fiction]]''.
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=chi Dra -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=chi+Dra | accessdate=2011-10-15 }}</ref>
+
+<ref name=aaa418_989>{{citation | title=The Geneva-Copenhagen survey of the Solar neighbourhood. Ages, metallicities, and kinematic properties of ˜14 000 F and G dwarfs | display-authors=1 | last1=Nordström | first1=B. | last2=Mayor | first2=M. | last3=Andersen | first3=J. | last4=Holmberg | first4=J. | last5=Pont | first5=F. | last6=Jørgensen | first6=B. R. | last7=Olsen | first7=E. H. | last8=Udry | first8=S. | last9=Mowlavi | first9=N. | journal=Astronomy and Astrophysics | volume=418 | pages=989–1019  | month=May | year=2004 | doi=10.1051/0004-6361:20035959 | bibcode=2004A&A...418..989N |arxiv = astro-ph/0405198 }}</ref>
+
+<ref name=aaa396_1_131>{{Cite journal |first=D. N. |last=Monin |first2=S. N. |last2=Fabrika |first3=G. G. |last3=Valyavin |year=2002 |title=Magnetic survey of bright northern main sequence stars |journal=Astronomy & Astrophysics |volume=396 |issue=1 |pages=131–141 |doi=10.1051/0004-6361:20021425 |bibcode=2002A&A...396..131M}}</ref>
+
+<ref name=aj139_6_2308>{{citation | display-authors=1 | last1=Farrington | first1=C. D. | last2=ten Brummelaar | first2=T. A. | last3=Mason | first3=B. D. | last4=Hartkopf | first4=W. I. | last5=Alister | first5=H. A. | last6=Raghavan | first6=D. | last7=Turner | first7=N. H. | last8=Sturmann | first8=L. | last9=Sturmann | first9=J. | title=Separated Fringe Packet Observations with the CHARA Array. I. Methods and New Orbits for χ Draconis, HD 184467, and HD 198084 | journal=The Astronomical Journal | volume=139 | issue=6 | pages=2308–2318 | month=June | year=2010 | doi=10.1088/0004-6256/139/6/2308 | bibcode=2010AJ....139.2308F }}</ref>
+
+<ref name=aar18_1_67>{{citation | last1=Torres | first1=G. | last2=Andersen | first2=J. | last3=Giménez | first3=A. | title=Accurate masses and radii of normal stars: modern results and applications | journal=The Astronomy and Astrophysics Review | volume=18 | issue=1-2 | pages=67–126 | doi=10.1007/s00159-009-0025-1 | bibcode=2010A&ARv..18...67T |arxiv = 0908.2624 }} See p. 56, entry #15.</ref>
+
+}}
+
+==External links==
+* [http://www.ari.uni-heidelberg.de/aricns/cnspages/4c01485.htm ARICNS]
+* [http://www.solstation.com/stars/chidrac2.htm Chi Draconis 2] at SolStation.
+* [http://nstars.arc.nasa.gov/searches/starinfo.cfm?partb=1821p7243&starpage=0 nStars database entry]
+{{Nearest systems|6}}
+{{Stars of Draco}}
+
+[[Category:Draco (constellation)]]
+[[Category:Binary stars]]
+[[Category:Bayer objects]]
+[[Category:F-type main sequence stars]]
+[[Category:K-type main sequence stars]]
+
+[[es:Ji Draconis]]
+[[fa:بطن‌الثعبان شمالی]]
+[[fr:Chi Draconis]]
+[[ko:용자리 키]]
+[[id:Chi Draconis]]
+[[it:Chi Draconis]]
+[[ja:りゅう座カイ星]]
+[[pt:Chi Draconis]]
+[[ru:Хи Дракона]]
+[[tt:Бәтынсөгъбан Шимали]]
+[[zh:御女四]]

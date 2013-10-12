@@ -1,0 +1,79 @@
+{{Starbox begin |
+   name=Menkib, ξ Per}}
+{{Starbox image |
+  image=[[File:Perseus constellation map.svg|250px]] | 
+  caption=Stars of [[Perseus (constellation)|Perseus]] }}
+{{Starbox observe |
+  epoch=J2000 |
+  ra={{RA|03|58|57.9011}}<ref name="SIMBAD">{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Menkhib
+ | title =SIMBAD query result: Menkhib -- Emission Line Star 
+ | publisher =Centre de Données astronomiques de Strasbourg
+ | accessdate = 2010-02-08 }}</ref>
+ | dec={{DEC|+35|47|27.717}}<ref name="SIMBAD" /> 
+ | appmag_v=4.042<ref name="SIMBAD" />
+ | constell=[[Perseus (constellation)|Perseus]] }}
+{{Starbox character
+ |class=O7.5IIIe<ref name="SIMBAD" />
+ | b-v=+0.03<ref name="SIMBAD" />
+ | u-b=+-0.97<ref name="SIMBAD" />
+ |variable=slightly variable }}
+{{Starbox astrometry |
+| radial_v=70.1<ref name="SIMBAD" />
+| prop_mo_ra=1.92<ref name="SIMBAD" />
+| prop_mo_dec=2.30<ref name="SIMBAD" />
+| parallax=1.84
+| p_error=0.70
+| parallax_footnote=<ref name="SIMBAD" /> 
+| absmag_v=&minus;4.70 }}
+{{Starbox detail|
+  mass=40 <ref name="kaler">{{cite web
+  |title=MENKIB (Xi Persei)
+  |publisher=University of Illinois
+  |author=Professor James B. (Jim) Kaler
+  |url=http://stars.astro.illinois.edu/sow/menkib.html
+  |accessdate=2010-02-07}}</ref>|
+  radius= |
+  luminosity=330,000 <ref name="kaler" />| 
+  temperature=37,000 <ref name="kaler" />|
+  metal= |
+  rotation=216 km/s. |
+  age=2&ndash;3{{e|6}}<ref name="kaler" />| }}
+{{Starbox catalog |
+  names=46 Per, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1228, [[Henry Draper Catalogue|HD]]&nbsp;24912, FK5&nbsp;148, [[Star catalogue#SAO|SAO]]&nbsp;56856}}
+{{Starbox end}}
+
+'''Xi Persei''' (ξ Per) is a [[star]] in the [[constellation]] [[Perseus (constellation)|Perseus]].  It has the traditional name '''Menkib''' (''Menchib'', ''Menkhib'', [[Arabic language|Arabic]] for "shoulder" [of the Pleiades]).  Menkib has an [[apparent magnitude]] of +4.042 and is classified as a [[blue giant]] ([[stellar classification|spectral class]] O7.5III). It is approximately 1800 [[light year]]s from [[Earth]].
+
+Its apparent [[luminosity]] is 13,500 times that of the [[Sun]].  If we include the ultraviolet light that emanates from Menkib, however, its total [[bolometer|(bolometric)]] luminosity increases to 330,000 times that of the Sun. 
+
+The star has a mass of some 40 [[solar mass]]es and a surface temperature of 37,000 [[kelvin]]s, making it one of the hottest stars that can be seen with the naked eye.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/menkib.html Menkib]
+* [http://antwrp.gsfc.nasa.gov/apod/ap060924.html Image of Menkib] from [[Astronomy Picture of the Day|APOD]]
+
+
+{{Stars of Perseus}}
+
+[[Category:Bayer objects|Persei, Xi]]
+[[Category:O-type giants]]
+[[Category:Flamsteed objects|Persei, 46]]
+[[Category:Henry Draper Catalogue objects|024912]]
+[[Category:Perseus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[de:Xi Persei]]
+[[es:Menchib]]
+[[fa:کسی برساووش]]
+[[fr:Xi Persei]]
+[[ko:멘키브]]
+[[id:Xi Persei]]
+[[it:Xi Persei]]
+[[ja:ペルセウス座クシー星]]
+[[pt:Xi Persei]]
+[[sk:Menchib]]
+[[zh:卷舌三]]

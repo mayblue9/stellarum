@@ -1,0 +1,31 @@
+{{refimprove|date=December 2009}}
+'''Tau Pegasi''' (τ Peg, τ Pegasi) is a 4.6 [[apparent magnitude|magnitude]] star in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. The star has also the traditional names '''Salm''', '''Kerb''' (or ''El Khereb'') and '''Markab''', a name shared with [[Alpha Pegasi|α Pegasi]], [[k Puppis]] and [[Kappa Velorum|κ Velorum]]. τ Pegasi belongs to the [[spectral classification|spectral class]] A5&nbsp;Vp, making it an [[A-type main sequence star]].
+
+This is a [[Delta Scuti variable]] star with a pulsation period of 0.94 hours. It is rotating rapidly with a [[projected rotational velocity]] of 150 km s<sup>–1</sup>. Tau Pegasi is radiating nearly 30 times the luminosity of the Sun from its outer atmosphere at an [[effective temperature]] of 7,762&nbsp;K.<ref name=mnras309_1_221/>
+
+==Coordinates (equinox 2000)==
+*Right Ascension: 23h20m38.20s         
+*Declination: +23°44'25.0"
+
+==References==
+{{reflist|refs=
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+}}
+
+{{Stars of Pegasus}}
+{{star-stub}}
+
+[[Category:Bayer objects|Pegasi, Tau]]
+[[Category:Pegasus (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+<!-- [[nl:Tau Pegasi]] -->
+
+[[de:Tau Pegasi]]
+[[es:Tau Pegasi]]
+[[id:Tau Pegasi]]
+[[pt:Tau Pegasi]]
+[[zh:飛馬座τ]]

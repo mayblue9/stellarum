@@ -1,0 +1,231 @@
+{{Starbox begin |
+ | name=Schedar, α Cas}}
+{{Starbox image |
+ | image =[[File:Cassiopeia constellation map.svg|250px]] 
+ | caption = Shedar is the α star found at the bottom right of the "W"
+}}
+{{Starbox observe 
+ |epoch=J2000 
+ |ra={{RA|00|40|30.4405}}<ref name="SIMBAD"/>
+ | dec={{DEC|+56|32|14.392}}<ref name="SIMBAD"/>  
+  |appmag_v=2.240<ref name="KHARCHENKO">{{cite journal
+   | title=All-sky Compiled Catalogue of 2.5 million stars 
+   | author=Kharchenko, N. V.; Roeser, S.
+   | year=2009
+   | month=September
+   | work=[[VizieR]] 
+   | publisher=[[Centre de Données astronomiques de Strasbourg]] 
+   | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=I/280B/ascc&recno=158513
+   | bibcode=2009yCat.1280....0K
+   | accessdate=2011-01-06
+   | quote=The absolute magnitude is computed using the Kharcheko apparent magnitude of 2.240 and the Van Leeuwen parallax of 14.29}}</ref>
+ |constell=[[Cassiopeia (constellation)|Cassiopeia]] }}
+{{Starbox character 
+ |class=K0IIIa<ref name="SIMBAD"/>  
+ |b-v=1.16<ref name="MERMILLIOD">{{cite journal
+  | author=Mermilliod, J.-C.
+  | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished)
+  | journal=Catalogue of Eggen's UBV data.
+  | year=1986
+  | origin=SIMBAD
+  | bibcode=1986EgUBV........0M}}</ref>
+ |u-b=1.14<ref name="MERMILLIOD"/>
+ |variable=Suspected}}
+{{Starbox astrometry 
+ |radial_v=−4.31  
+ |prop_mo_ra=50.36<ref name="SIMBAD"/>  
+ |prop_mo_dec=−32.17<ref name="SIMBAD"/>  
+ |parallax=14.29
+ |p_error=0.15
+ |parallax_footnote=<ref name="LEEUWEN"/>
+ |absmag_v=−1.985<ref name="KHARCHENKO"/>}}
+{{Starbox detail
+ |mass=4&ndash;5<ref name="kaler">{{cite web
+   |title=SHEDAR (Alpha Cassiopeiae)
+   |publisher=University of Illinois
+   |author=Professor James B. (Jim) Kaler
+   |url=http://stars.astro.illinois.edu/sow/shedar.html
+   |accessdate=2010-02-22| archiveurl= http://web.archive.org/web/20100327123048/http://stars.astro.illinois.edu/sow/shedar.html| archivedate= 27 March 2010 <!--DASHBot-->| deadurl= no}}</ref>
+ |radius={{nowrap|42.1 ± 1.7}}<ref name="HAJIAN"/>
+ |luminosity=676<ref>See Notes section for calculations</ref>
+ |temperature=4,530<ref name="kaler"/>
+ |metal_fe=–0.1<ref name="SOUBIRIAN">{{cite journal
+   | author=Soubiran, C.; Bienaymé, O.; Mishenina, T. V.; Kovtyukh, V. V.
+   | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants
+   | journal=Astronomy and Astrophysics
+   | year=2008
+   | volume=480
+   | issue=1
+   | pages=91–101
+   | url=http://cds.aanda.org/index.php?option=article&access=bibcode&bibcode=2008A%2526A...480...91S
+   | format=PDF
+   | accessdate=2010-12-31
+   | bibcode=2008A&A...480...91S 
+   | doi=10.1051/0004-6361:20078788|arxiv = 0712.1370 }}</ref>
+ |rotational_velocity=21<ref name="HR1"/> 
+ | age=1&ndash;2{{e|8}}<ref name="kaler" /> }}
+
+{{Starbox catalog |
+  names=[[Bayer designation|α Cas]], [[Flamsteed designation|18&nbsp;Cas]], [[Harvard Revised catalogue|HR]]&nbsp;168, [[Bonner Durchmusterung|BD]]+55°139, [[Henry Draper catalogue|HD]]&nbsp;3712, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;21609, [[Fifth Fundamental Catalogue|FK5]]&nbsp;21, [[Hipparcos catalogue|HIP]]&nbsp;3179, GC&nbsp;792, [[Star catalogue#ADS|ADS]]&nbsp;561, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J00405+5632 }}
+
+{{Starbox reference |
+  Simbad=SCHEDAR}}
+{{Starbox end}}
+
+{{Sky|00|40|30.5|+|56|32|14.5|100000000}}
+
+'''Alpha Cassiopeiae''' (α Cas, α Cassiopeiae ) is a [[second magnitude]] star in the [[constellation]] [[Cassiopeia (constellation)|Cassiopeia]], with the traditional name '''Schedar''', sometimes spelt '''Shedir'''.  Though listed as the alpha star by [[Johann Bayer]], Schedar's visual brightness closely rivals the beta star in the constellation, [[Beta Cassiopeiae|Caph]].  Depending on which [[passband]] is used, α Cas may be marginally brighter or dimmer than β Cas.  However, recent calculations from the All-Sky catalog indicate that Schedar is the brightest in Cassiopeia, with a [[visual magnitude]] of 2.240.  With Schedar located farther away from Earth than Caph, at 228 [[light year]]s versus 54, Schedar is almost 18 times brighter that its rival insofar as [[Absolute magnitude|intrinsic brightness]] is concerned.
+
+== Visibility ==
+[[File:Cassiopeia in Milky Way.png|thumb|left|280px| [[Cassiopeia (constellation)|Cassiopeia]] in the context of the [[Milky Way]].]]
+With a declination of 56° 32' North, Schedar is principally visible in the [[northern hemisphere]].  The star is yet discernible to most observers across the globe reaching as far south as [[Perth, Western Australia|Perth, Australia]], [[Santiago, Chile]] and other settlements north ±&nbsp;33° South latitude, albeit just above the horizon.  Schedar is located in line-of-sight of the [[Milky Way]] [[galaxy]], so there are other notable celestial objects one can view close to this star&mdash;the [[Pacman Nebula]], [[NGC 436]] and [[NGC 457]] being a few. 
+
+Alpha Cas reaches its [[zenith]] above cities like [[Edinburgh]], [[Copenhagen]] and [[Moscow]].  It is [[Circumpolar star|circumpolar]] throughout Europe, Russia, and as far south as Los Angeles, California on the North American continent as well as other locations around the globe having a latitude greater than ± 33° North.  Since Schedar is listed as a second magnitude star, it is easily observable to the naked eye as long as one's stargazing is not hindered by the [[light pollution]] common to most cities.
+
+The best time for your observation is during the late autumn months of the northern hemisphere, when Cassiopeia passes the meridian at midnight, but given its circumpolar nature in many northern localities, it is visible to many of the world's inhabitants throughout the year.
+
+=== Photometric variations ===
+Depending on the [[photometric system]] used, Schedar's apparent magnitude is marginally brighter or dimmer than Caph, the beta star in the constellation.  The [[UBV photometric system|Johnson UBV system]] throughout the latter half of the twentieth century indicated a visual magnitude that ranged from about 2.20 to 2.23, thus making it slightly brighter than Caph with its variable magnitude ranging from 2.25 to 2.31.<ref name="SIMBAD">{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=SCHEDAR
+ | title =SIMBAD query result: SCHEDAR -- Star 
+ | publisher =Centre de Données astronomiques de Strasbourg
+ | accessdate=2010-02-22 }}</ref>  However recent calculations in the optical V band between 500&mdash;600 [[nanometers]] (nm) by Floor Van Leeuwen in 2007 produced a new measurement for both stars, 2.4107 for Schedar and 2.3579 for Caph, suggesting that Caph ranks as the brightest in the constellation.<ref name="LEEUWEN">{{cite journal
+   | title=Hipparcos, the New Reduction
+   | author=van Leeuwen, F
+   | year=2007
+   | month=November
+   | work=[[VizieR]] 
+   | publisher=[[Centre de Données astronomiques de Strasbourg]]
+   | pages=653–664
+   | issue=2
+   | volume=474 
+   | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%203179
+   | doi=10.1051/0004-6361:20078357
+   | journal=Astronomy and Astrophysics
+   | bibcode=2007A&A...474..653V
+   | accessdate=2010-12-31|arxiv = 0708.1752 }}</ref>  The confusion arises because of the use of different [[passband]]s.
+
+=== Angular analysis ===
+With the advances in [[optical interferometry]] in the 1990s, Schedar's [[angular diameter]] was measured in 1998 at various [[wavelength]]s ranging from 500&mdash;850&nbsp;nm.  The result was a [[Limb darkening|limb darkened]] angular measurement of 5.62&nbsp;±&nbsp;0.06 [[milliarcseconds]] (mas),<ref name="HAJIAN">{{cite journal
+   | title=Direct Confirmation of Stellar Limb Darkening with the Navy Prototype Optical Interferometer
+   | author=Hajian, Arsen R.; Armstrong, J. T.; Hummel, C. A.; Benson, J. A.;, ''et al''
+   | journal=The Astrophysical Journal
+   | year=1998
+   | month=March
+   | volume=496
+   | issue=1
+   | pages=484
+   | url=http://iopscience.iop.org/0004-637X/496/1/484/pdf/37367.pdf
+   | format=PDF
+   | accessdate=2010-02-22  
+   | doi=10.1086/305388
+   | bibcode=1998ApJ...496..484H}}</ref> a diameter which equates to roughly 0.393 [[Astronomical Unit|AU]] or 42.3[[Solar radius|R<sub>☉</sub>]], assuming a parallax of 14.29 mas.<ref name="NOTERADIUS" group="note">To determine Schedar's ''average radius'' in terms of solar units, the calculations begin with the formula for [[angular diameter]] as follows:
+
+:<math>\begin{smallmatrix} {\delta} = \frac{d_S}{D_S}\end{smallmatrix}</math>
+
+where '''<math>{\delta}</math>''' equals the angular diameter of Schedar in [[arcseconds]], '''<math>{d_S}</math>''' the star's '''d'''iameter in [[Astronomical Unit|AU]], and '''<math>{D_S}</math>'''  the '''D'''istance from Earth in [[parsec]]s.  If we know the angular diameter and the Distance, then we can solve for '''<math>{d_S}</math>''' as follows:
+
+:<math>\begin{smallmatrix}d_S = \delta \cdot D_S = {0.00562} \cdot 70.0 = 0.393 AU\end{smallmatrix}</math>
+
+To obtain Schedar's radius:
+
+:<math>\begin{smallmatrix}R_S = {\left ( {\frac {d_S}{2}} \right )} = {\left ( {\frac {0.393}{2}} \right )} = 0.197 AU\end{smallmatrix}</math>
+
+To convert 0.197 AU into Solar units, the math is straightforward.  Since 1 AU = 149,597,871&nbsp;km and the mean diameter of the Sun = 1,392,000&nbsp;km (hence a mean radius of 696,000&nbsp;km), the calculation is as follows:
+
+:<math>\begin{smallmatrix}d_S = {\left ( 0.197 AU \right )} {\left ( {\frac {149,597,871 km}{696,000 km}} \right )} = 42.31 R_{\odot} (rounded)\end{smallmatrix}</math>.</ref> With the [[planet]] [[Solar System#Inner planets|Mercury]] orbiting the Sun at approximately 0.4&nbsp;[[Astronomical unit|AU]], Schedar's [[photosphere]] extends to roughly half the [[Mercury (planet)|mercurial]] orbit.
+
+== Properties ==
+[[File:Cassiopeia starfield.jpg|thumb|260px|left|Cassiopeia starfield showing α Cas, the orange giant, in relation to the other stars in the constellation.]]
+Schedar is an orange [[giant star]] whose [[spectral classification]] in the [[SIMBAD]] astronomical database is listed as K0IIIa, a [[K-type main sequence star|stellar class]] that is notably cooler than the [[Sun]].<ref name="SIMBAD"/>  However, because the orange giant is nearing the final stages of its [[Stellar evolution|evolution]], the photosphere has expanded substantially, yielding a [[bolometer|bolometric]] [[luminosity]] that is approximately 676[[Solar luminosity|L<sub>☉</sub>]]<ref name="NOTELUMINOSITY" group="note">
+The formula for Schedar's bolometric luminosity is as follows:
+
+:<math>\begin{smallmatrix}\frac{L_{\rm S}}{L_{\odot}} = {\left ( \frac{R_{\rm S}}{R_{\odot}} \right )}^2 {\left ( \frac{T_{\rm S}}{T_{\odot}} \right )}^4\end{smallmatrix}</math>  where... S = Schedar, L = Luminosity, R = Radius and T = Temperature.
+Therefore:
+
+:<math>\begin{smallmatrix}\frac{L_{\rm S}}{L_{\odot}} = {\left ( {\frac{42.3}{1}} \right )}^2 {\left ( {\frac{4,530}{5,778}} \right )}^4 = 676 L_{\odot}\end{smallmatrix}</math>
+
+Note: Luminosity calculations are highly dependent on angular diameter and distance variables.</ref>
+
+According to ''[[Hipparcos]]'', the New Reduction (van Leeuwen, 2007), the estimated distance to the star is about 70 [[parsec]]s or 228 [[light year]]s.<ref name="LEEUWEN"/> Like all giant stars, Schedar rotates slowly with an approximate velocity of 21&nbsp;km/s&mdash;a speed which takes the star approximately 102 days to make one complete revolution on its axis.<ref name="HR1">{{cite web 
+   |title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991)
+   |work=[[VizieR]]
+   |publisher=[[Centre de Données astronomiques de Strasbourg]]
+   |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%20168
+   |accessdate=2010-12-31}}</ref> 
+
+Schedar has been sometimes classified as a [[variable star]], but no variability has been detected since the 19th century. Also, three companions to the star have been listed in the [[Washington Double Star Catalog]], but it seems that all of them are just line-of-sight [[double star|optical components]].
+{{Clear}}
+
+== Ethnological influences ==
+[[File:Mercatur Cassiopeia.jpg|thumb|right|220px|Illustration from [[Gerardus Mercator]] showing Schedar near the heart of the celestial Queen.<ref name="HARVARD">{{cite web 
+ |title=Cassiopeia — The Queen
+ |publisher= The Mercator Globes at Harvard Map Collection     
+ |author=Gerard Mercator (1512-1594) 
+ |url=http://hcl.harvard.edu/libraries/maps/exhibits/mercator/main.html
+ | accessdate=2011-01-02}}</ref>]]
+
+=== Etymology ===
+The traditional name, Schedar, was first encountered in the [[Alfonsine tables]] of the thirteenth century.  The term comes from the Arabic word '''صدر''' ''şadr'', meaning "breast", a word which is derived from its relative position in the heart of the mythological queen [[Cassiopeia (mythology)|Cassiopeia]].<ref name="ALLEN">{{Cite web
+ | title=Star Names: Their Lore and Meaning 
+ | publisher=Dover Publications  
+ | author=[[Richard Hinckley Allen]] 
+ | page=142
+ | year=1963 
+ | accessdate=2010-12-31  |url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cassiopeia*.html}}</ref>  [[Johannes Hevelius]] used the name "Schedir" in his writings, although there are additional spellings of this Arabic [[transliteration]] such as Shedar, Shadar, Sheder, Seder, Shedis, and Shedir.  [[Ulug Beg]] named the star "Al Dhāt al Kursiyy" ([[Arabic]] '''ألضة ألكرسي''', meaning "the lady in the chair"), which [[Giovanni Battista Riccioli]] changed to "Dath Elkarti".<ref name="ALLEN"/>
+
+In Chinese, {{lang|zh|王良}} ({{lang|zh-Latn|Wáng Liáng}}) refers to the Chinese [[Asterism (astronomy)|asterism]] ''[[Legs (Chinese constellation)|Wang Liang]]'', a famous charioteer during the [[Spring and Autumn Period]].  The stellar pattern consists of α Cassiopeiae, [[Beta Cassiopeiae|β Cassiopeiae]], [[Kappa Cassiopeiae|κ Cassiopeiae]], [[Eta Cassiopeiae|η Cassiopeiae]] and [[Lambda Cassiopeiae|λ Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Cassiopeiae itself is known as {{lang|zh|王良四}} ({{lang|zh-Latn|Wáng Liáng sì}}, {{lang-en|the Fourth Star of Wang Liang}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_s.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+=== Legacy ===
+In 1551, [[Gerardus Mercator]], a [[Flanders|Flemish]] [[cartographer]], produced a celestial globe portraying the 48 traditional [[Ptolemy|Ptolemaic]] constellations in addition to two others, [[Coma Berenices]] and [[Antinous (constellation)|Antinous]].<ref name="HARVARD"/>  On this globe, he represents Cassiopeia as the Queen of Ethiopia, punished for her boasting by being chained to a chair hanging upside-down. Schedar is found near her left breast, reflecting its Arabic etymological origin. 
+{{Clear}}
+
+==See also==
+* [[List of stars in Cassiopeia]]
+* [[Stellar classification#Class K|Class K Stars]]
+* [[Angular diameter]]
+* [[Betelgeuse]] for an in-depth discussion [[red giants]].
+
+== Notes ==
+<references group="note" />
+
+== References ==
+{{Reflist|colwidth=25em}}
+
+==External links==
+*Jim Kaler's Stars, University of Illinois:[http://stars.astro.illinois.edu/sow/shedar.html SHEDAR (Alpha Cassiopiae)]
+*Harvard Map Collection [http://hcl.harvard.edu/libraries/maps/exhibits/mercator/main.html The Mercator Globes]
+*''The Internet Encyclopedia of Science'': [http://www.daviddarling.info/encyclopedia/S/Shedar.html Shedar (Alpha Cassiopeiae)]
+
+{{Stars of Cassiopeia}}
+
+[[Category:Bayer objects|Cassiopeiae, Alpha]]
+[[Category:Cassiopeia (constellation)]]
+[[Category:Flamsteed objects|Cassiopeiae, 18]]
+[[Category:Henry Draper Catalogue objects|003712]]
+[[Category:K-type giants]]
+[[Category:Suspected variables]]
+[[Category:Stars with proper names]]
+
+[[ar:صدر ذات الكرسي]]
+[[ca:Schedar]]
+[[cs:Schedir]]
+[[de:Schedir]]
+[[es:Schedar]]
+[[fa:آلفا ذات‌الکرسی]]
+[[fr:Alpha Cassiopeiae]]
+[[ko:쉐다르]]
+[[hy:Շեդար]]
+[[hi:अल्फ़ा कैसिओपिये तारा]]
+[[id:Alpha Cassiopeiae]]
+[[it:Shedir]]
+[[lb:Schedir (Stär)]]
+[[nl:Schedar]]
+[[ja:シェダル]]
+[[pl:Szedar]]
+[[pt:Alpha Cassiopeiae]]
+[[ru:Шедар]]
+[[sk:Schedar]]
+[[fi:Alfa Cassiopeiae]]
+[[sv:Schedar]]
+[[zh:王良四]]

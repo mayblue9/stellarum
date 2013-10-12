@@ -1,0 +1,114 @@
+{{Starbox begin
+ | name = Mu Ursae Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 56.4%; top: 54.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of μ Ursae Majoris (circled)
+}}
+{{Starbox observe 
+ | epoch       = J2000 
+ | ra          = {{RA|10|22|19.744}}<ref name=frosty_drew />
+ | dec         = {{DEC|+41|29|58.28}}<ref name=frosty_drew />
+ | appmag_v    = +3.06<ref name=aaa352_495/>
+ | constell    = [[Ursa Major]]
+}}
+{{Starbox character 
+ | class       = M0&nbsp;IIIab<ref name=aaa352_495/>
+ | b-v         = +1.59<ref name=clpl4_99/>
+ | u-b         = +1.90<ref name=clpl4_99/>
+ | variable    = 
+}}
+{{Starbox astrometry
+ | radial_v    = {{nowrap|–21.30 ± 1.66}}<ref name=aj135_1_209/>
+ | prop_mo_ra  = –81.47<ref name=aaa474_2_653/>
+ | prop_mo_dec = +35.34<ref name=aaa474_2_653/>
+ | parallax    = 14.16
+ | p_error     = 0.54
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox orbit
+ | reference = <ref name=apj125_712/>
+ | period_unitless = {{nowrap|230.089 ± 0.039 days}}
+ | eccentricity = {{nowrap|0.061 ± 0.022}}
+ | periastron = 2425577.03&nbsp;JD
+ | periarg = {{nowrap|236.4 ± 17.4}}
+ | k1 = {{nowrap|7.43 ± 0.16}}
+}}
+{{Starbox detail
+ | mass        = 
+ | radius      = 75<ref name=aaa498_2_489/>
+ | luminosity  = 977<ref name=aaa498_2_489/>–1,200<ref name=aj135_1_209/>
+ | temperature = 3,899<ref name=aj135_1_209/>
+ | gravity     = 1.0<ref name=aj135_1_209/>
+ | metal_fe    = +0.00<ref name=aaa338_623/>
+ | age_myr     = 
+ | rotational_velocity = 7.5<ref name=aj135_1_209/>
+}}
+{{Starbox catalog 
+ | names = Tania Australis, Alkafzah al Thaniyah, μ&nbsp;Ursae Majoris, μ&nbsp;UMa, Mu&nbsp;UMa, 34&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+42&nbsp;2115, [[Fifth Fundamental Catalogue|FK5]]&nbsp;386, [[Boss General Catalogue|GC]]&nbsp;14232, [[Henry Draper Catalogue|HD]]&nbsp;89758, [[Hipparcos catalogue|HIP]]&nbsp;50801, [[Bright Star Catalogue|HR]]&nbsp;4069, [[PPM Star Catalogue|PPM]]&nbsp;51850, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;43310.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Mu Ursae Majoris''' ('''Mu&nbsp;UMa''', '''μ&nbsp;Ursae Majoris''', '''μ&nbsp;UMa''') is a [[star]] in the [[constellation]] [[Ursa Major]]. An [[apparent visual magnitude]] of +3.06<ref name=aaa352_495/> places it among the [[List of stars in Ursa Major|brighter members]] of the constellation. [[Parallax]] measurements give an estimated distance of roughly {{Convert|230|ly|pc|abbr=off|lk=on}} from Earth, with a [[margin of error]] of 4%.<ref name=aaa474_2_653/> This star has the proper name '''Tania Australis''' (formerly ''Tania australis''<ref name=piazzi1814/>)
+
+Mu Ursae Majoris is an [[stellar evolution|evolved]] star that is currently in the [[red giant]] stage with a [[stellar classification]] of M0&nbsp;IIIab.<ref name=aaa352_495/> It has expanded to 75<ref name=aaa498_2_489/> times the radius of the Sun whilst the [[stellar atmosphere|outer atmosphere]] has cooled to an [[effective temperature]] of 3,899&nbsp;K,<ref name=aj135_1_209/> giving it the orange-red hued glow of an [[M-type star]].<ref name=csiro/> Estimates of the luminosity range from 977<ref name=aaa498_2_489/>–1,200<ref name=aj135_1_209/> times that of the Sun. It is classified as a [[semiregular variable|semiregular]] [[variable star]] and its brightness varies from magnitude 2.99<sup>m</sup> to 3.33<sup>m</sup>. 
+
+This is a [[spectroscopic binary]] star system with a companion a mere 1.5{{citation needed|date=March 2012}} [[astronomical unit|AU]] from the primary with an [[orbital period]] of 230 days.<ref name=apj125_712/>
+
+==Name and etymology==
+*The traditional name ''Tania''' (share with [[Lambda Ursae Majoris|λ UMa]]) comes from the Arabic phrase  {{transl|ar|''Al Fiḳrah al Thānia''}} "the Second Spring (of the Gazelle)".<ref name=rhallen1899>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen :Star Names — Their Lore and Meaning - Ursa Major, the Greater Bear]</ref> The term ''Australis'' meaning "the south side" in [[Latin]].
+*In [[Chinese language|Chinese]], {{lang|zh|三台}} ({{lang|zh-Latn|Sān Tái}}), meaning ''[[Purple Forbidden enclosure|Three Steps]]'', refers to an asterism consisting of μ Ursae Majoris, [[Iota Ursae Majoris|ι Ursae Majoris]], [[Kappa Ursae Majoris|κ Ursae Majoris]], [[Lambda Ursae Majoris|λ Ursae Majoris]], [[Nu Ursae Majoris|ν Ursae Majoris]] and [[Xi Ursae Majoris|ξ Ursae Majoris]]. Consequently, μ Ursae Majoris itself is known as {{lang|zh|三台四}} ({{lang|zh-Latn|Sān Tái sì}}, {{lang-en|the Fourth Star of Three Steps}}) and {{lang|zh|中台二}} ({{lang|zh-Latn|Zhōng Tái èr}}, {{lang-en|Star of Second Middle Step}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060621.html (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 21 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=aaa338_623>{{citation | last1=Mallik | first1=Sushma V. | title=Chromospheric activity in cool stars and the lithium abundance | journal=Astronomy and Astrophysics | volume=338 | pages=623–636 | month=October | year=1998 | bibcode=1998A&A...338..623M }}</ref>
+
+<ref name=SIMBAD>{{citation | title=34 UMa -- Spectroscopic binary | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=34+UMa | accessdate=2012-03-05 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa498_2_489>{{citation | display-authors=1 | last1=Jorissen | first1=A. | last2=Frankowski | first2=A. | last3=Famaey | first3=B. | last4=van Eck | first4=S. | title=Spectroscopic binaries among Hipparcos M giants. III. The eccentricity - period diagram and mass-transfer signatures | journal=Astronomy and Astrophysics | volume=498 | issue=2 | pages=489–500 | month=May | year=2009 | doi=10.1051/0004-6361/200810703 | bibcode=2009A&A...498..489J |arxiv = 0901.0938 }}</ref>
+
+<ref name=apj125_712>{{citation | last1=Jackson | first1=E. S. | last1=Shane | first1=W. W. | last1=Lynds | first1=Beverly T. | title=The Orbits of the Spectroscopic Binaries Omicron Tauri, Xi Cancri, and Mu Ursae Majories | journal=Astrophysical Journal | volume=125 | page=712 | month=May | year=1957 | doi=10.1086/146345 | bibcode=1957ApJ...125..712J }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=piazzi1814>{{citation | author-link=Giuseppe Piazzi | last1=Piazzi | first1=G. | title=The Palermo Catalogue | publication-place=Palermo | year=1814 }}</ref>
+
+<ref name=frosty_drew>[http://frostydrew.org/stars.dc/star/id-43310/pss-obsy/ Frosty Drew Observatory & Sky Theatre — Tania Australis]</ref>
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Mu]]
+[[Category:Ursa Major (constellation)]]
+[[Category:M-type giants]]
+[[Category:Semiregular variable stars]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[ar:القفزة الثاني الجنوبي]]
+[[de:My Ursae Majoris]]
+[[es:Tania Australis]]
+[[fa:مو خرس بزرگ]]
+[[fr:Mu Ursae Majoris]]
+[[it:Tania Australis]]
+[[lb:Tania Australis (Stär)]]
+[[ms:Mu Ursae Majoris]]
+[[nl:Tania Australis]]
+[[ja:おおぐま座ミュー星]]
+[[pl:Mi Ursae Majoris]]
+[[pt:Mu Ursae Majoris]]
+[[ru:Танийа Южная]]
+[[sk:Mí Ursae Majoris]]
+[[zh:大熊座μ]]

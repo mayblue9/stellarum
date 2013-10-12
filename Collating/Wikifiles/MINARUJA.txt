@@ -1,0 +1,53 @@
+{{Starbox short
+| name = Sigma Hydrae
+| epoch = [[J2000.0]]
+| constell = [[Hydra (constellation)|Hydra]]
+| ra = 8<sup>h</sup> 38<sup>m</sup> 45.4<sup>s</sup>
+| dec = 3° 20' 29"
+| spectral = K1III
+| appmag_v = 4.44
+| dist_ly = 353
+| dist_pc = 108.28
+| names =5 Hydrae, [[Henry Draper catalogue|HD]] 73471, [[Harvard Revised catalogue|HR]] 3418, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]] 116988, FK5 1224, NSV --, [[Bonner Durchmusterung|BD]] +03 2026, [[Hipparcos catalogue|HIP]] 42402}}
+
+'''Sigma Hydrae''' (σ Hydrae, σ Hya) is the 4th-[[Magnitude (astronomy)|magnitude]] [[star]] in the [[constellation]] [[Hydra (constellation)|Hydra]]. Sigma Hydrae belongs to [[stellar classification|spectral class]] K1+III and has [[apparent magnitude]] +4.44. It is approximately 353 [[light year]]s from [[Earth]]
+
+==Etymology==
+
+It is also known by the proper name '''Minchir''', and  appears as ''Minchir es-schudscha<nowiki>'</nowiki>'' on [[Johann Elert Bode|Bode]]'s large [[star atlas]], ''[[Uranographia]]'', which is derived from the [[Arabic language|Arabic]] ''Minkhir al-Shuja‘'', "the [[Nostril]] of [[Hydra (constellation)|Hydra]]", for this star.  The name is erroneously spelt as ''Al Minliar al Shuja'' in the [[Yale University|Yale]] ''[[Bright Star Catalogue]]''.[http://vizier.u-strasbg.fr/viz-bin/VizieR?-6N&-out.form=H0&//*&-source%3DV/50/notes&HR%3D3418].
+
+This star, along with [[Delta Hydrae|δ Hya]] (Lisan al Shudja), [[Epsilon Hydrae|ε Hya]], [[Zeta Hydrae|ζ Hya]], [[Eta Hydrae|η Hya]] and [[Rho Hydrae|ρ Hya]], were Ulug Beg's '''Min al Azʽal''', "Belonging to the Uninhabited Spot".<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hydra*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=249 }}</ref>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Min al Azʽal'' or '''Minazal''' were the title for five stars : [[Delta Hydrae|δ Hya]] as ''Minazal I'', [[Eta Hydrae|η Hya]] as ''Minazal II'', [[Epsilon Hydrae|ε Hya]] as ''Minazal III'', [[Rho Hydrae|ρ Hya]] as ''Minazal IV'' and [[Zeta Hydrae|ζ Hya]] as ''Minazal V'' (exclude this star)<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|柳宿}} ({{lang|zh-Latn|Liǔ Sù}}), meaning ''[[Willow (Chinese constellation)|Willow]] (asterism)'', refers to an asterism consisting of σ Hydrae, [[Delta Hydrae|δ Hydrae]], [[Eta Hydrae|η Hydrae]], [[Rho Hydrae|ρ Hydrae]], [[Epsilon Hydrae|ε Hydrae]], [[Zeta Hydrae|ζ Hydrae]], [[Omega Hydrae|ω Hydrae]] and [[Theta Hydrae|θ Hydrae]]<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, σ Hydrae itself is known as {{lang|zh|柳宿二}} ({{lang|zh-Latn|Liǔ Sù èr}}, {{lang-en|the Second Star of Willow}}.).<ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0605/ap060528.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 28 日]</ref>
+
+The people of [[Groote Eylandt]], called '''Unwala''', "The Crab", for the star cluster including this star, [[Delta Hydrae|δ Hya]] (Lisan al Shudja), [[Epsilon Hydrae|ε Hya]], [[Zeta Hydrae|ζ Hya]], [[Eta Hydrae|η Hya]] and [[Rho Hydrae|ρ Hya]].<ref>''Encyclopaedia of the history of science, technology, and medicine in non-western cultures'', ed. [[Helaine Selin]], Dordrecht, Kluwer Academic Publishers, 1997, [http://books.google.com/books?id=raKRY3KQspsC p.105].</ref>
+
+== References ==
+* {{cite web | title=HD 73471 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=sigma+hydrae&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2006-11-05 }}
+{{reflist}}
+
+==External links==
+{{Stars of Hydra}}
+
+[[Category:Bayer objects|Hydrae, Sigma]]
+[[Category:Hydra (constellation)]]
+[[Category:Stars with proper names]]
+
+[[de:Minchir]]
+[[es:Al Minliar al Shuja]]
+[[fa:منخرالشجاع]]
+[[fr:Sigma Hydrae]]
+[[id:Sigma Hydrae]]
+[[nl:Al Minliar al Shuja]]
+[[pt:Sigma Hydrae]]
+[[sk:Minchir]]
+[[zh:柳宿二]]

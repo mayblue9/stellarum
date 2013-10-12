@@ -1,0 +1,136 @@
+{{Starbox begin
+| name=Alpha Fornacis
+}}
+{{Starbox image
+| image=[[File:Fornax constellation map.png|250px]]
+| caption=Location of α Fornacis (upper left).
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|3|12|04.5277}}<ref name=hipparcos/>
+| dec={{DEC|–28|59|15.425}}<ref name=hipparcos/>
+| appmag_v=3.85<ref name=SIMBAD/>
+| constell=[[Fornax]]
+}}
+{{Starbox character
+| class=F8IV<ref name=aaa323/>
+| b-v=+0.581<ref name=aaass47/>
+| u-b=+0.082<ref name=aaass47/>
+| variable=
+}}
+{{Starbox astrometry
+| radial_v=–20.5<ref name=rgcrc/>
+| prop_mo_ra=371.49<ref name=hipparcos/>
+| prop_mo_dec=612.28<ref name=hipparcos/>
+| parallax=70.86
+| p_error=0.67
+| parallax_footnote=<ref name=hipparcos/>
+| absmag_v=
+}}
+{{Starbox detail
+| mass={{nowrap|1.33 ± 0.01}}<ref name=aaa373/>
+| radius={{nowrap|2.04 ± 0.06}}<ref name=mnras405_3_1907/>
+| luminosity={{nowrap|4.87 ± 0.16}}<ref name=mnras405_3_1907/>
+| temperature=6,240<ref name=aaa373/>
+| metal_fe=–0.20<ref name=aaa373/>
+| rotation=
+| rotational_velocity=3.9<ref name=mnras405_3_1907/>
+| gravity=4.27<ref name=aaa373/>
+| age_gyr=2.9<ref name=aaa418/>
+}}
+{{Starbox catalog
+| names=[[Flamsteed designation|12]] Eridani, [[Cordoba Durchmusterung|CD]]-29 1177, [[Gliese-Jahreiss catalogue|GJ]] 127, [[Henry Draper catalogue|HD]] 20010, [[Hipparcos catalogue|HIP]] 14879, [[Harvard Revised catalogue|HR]] 963, [[Luyten Two-Tenths catalogue|LTT]] 1512, [[Smithsonian Astrophysical Observatory|SAO]] 168373.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=Alpha+Fornacis }}
+{{Starbox end}}
+
+'''Alpha Fornacis''' (α Fornacis, α For) is the brightest [[star]] in the [[constellation]] [[Fornax]], its only star brighter than magnitude 4.0. It has the proper names '''Dalim''' (in [[Giuseppe Piazzi|Piazzi]]'s ''[[Palermo Catalogue]]'')<ref>{{cite book
+  |author= Piazzi, G., (ed.)
+  |year = 1814
+  |title = Praecipuarum Stellarum Inerrantium Positiones Mediae Ineunte Saeculo XIX: ex Observationibus Habitis in Specula Panormitana ab anno 1792 ad annum 1813
+  |publisher = 
+  |location = [[Palermo]]
+  |page = 21}}</ref><ref>{{cite book
+  |author= Kunitzsch, P.,
+  |year = 1959
+  |title = Arabische Sternnamen in Europa
+  |publisher = [[Otto Harrassowitz]]
+  |location = [[Wiesbaden]]
+  |page = 155}}</ref><ref>{{cite book
+  |author= Laffitte, R.,
+  |year = 2005
+  |title = Héritages arabes: Des noms arabes pour les étoiles
+  |edition = 2<sup>éme</sup> revue et corrigée
+  |publisher = Librairie Orientaliste Paul Geunthner / Les Cahiers de l'Orient
+  |location = [[Paris]]
+  |page = 229}}</ref> and '''Fornacis''' (in [[Elijah Hinsdale Burritt|Burritt]]'s ''[[Star atlas|Atlas]]'').<ref>{{cite book
+  |author= Burritt, E. H.,
+  |year = 1835
+  |title = Atlas, Designed to Illustrate the Geography of the Heavens 
+  |edition = new
+  |publisher = F. J. Huntington
+  |location = New York
+  |page = }} plate III.</ref> This star was formally identical with '''12 [[Eridanus (constellation)|Eridani]]'''.
+
+The [[stellar classification]] of Alpha Fornacis is F8IV, where the luminosity class IV indicates this is a [[subgiant]] star that has just evolved off the [[main sequence]].<ref name=apj627_2/> It has 33% more mass than the [[Sun]] and is an estimated 2.9 billion years old.<ref name=aaa373/><ref name=aaa418/> Alpha Fornacis is a [[binary star]]<ref name=aaa341/> and has a high [[proper motion]].<ref name=SIMBAD/> This system displays an [[infrared excess|excess of infrared emission]], which may indicate the presence of circumstellar material such as a [[debris disk]].<ref name=aaass96_3/> 
+
+The [[Space velocity (astronomy)|space velocity]] components of this star are (U, V, W) = (–35, +20, +30) km/s.<ref name=gliese/> Approximately 350,000 years ago, Alpha Fornacis experienced a close encounter with the [[A-type main sequence star]] [[HD 17848]]. The two came within an estimated {{Convert|0.265|ly|pc|abbr=on}} of each other.<ref name=deltorn_kalas01/>
+
+==References==
+{{reflist|refs=
+
+<ref name=SIMBAD>{{cite web | title=LHS 1515  -- High proper-motion Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=LHS+1515 | accessdate=2010-05-10 }}</ref>
+
+<ref name=hipparcos>{{Cite journal | author=Perryman, M. A. C. | coauthors=''et al.'' | title=The HIPPARCOS Catalogue | journal=Astronomy & Astrophysics | volume=323 | pages=L49–L52 | month=April | year=1997 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=aaa341>{{cite journal | title=Visual binary orbits and masses POST HIPPARCOS | last=Söderhjelm | first=Staffan | journal=Astronomy and Astrophysics | volume=341 | pages=121–140 | month=January | year=1999 | bibcode=1999A&A...341..121S }}</ref>
+
+<ref name=aaa323>{{cite journal | author=Favata, F.; Micela, G.; Sciortino, S. | title=The [Fe/H] distribution of a volume limited sample of solar-type stars and its implications for galactic chemical evolution. | journal=Astronomy and Astrophysics | volume=323 | pages=809–818 | month=July | year=1997 | bibcode=1997A&A...323..809F }}</ref>
+
+<ref name=aaa373>{{cite journal | author=Santos, N. C.; Israelian, G.; Mayor, M. | title=The metal-rich nature of stars with planets | journal=Astronomy and Astrophysics | volume=373 | issue=3 | pages=1019–1031 | month=July | year=2001 | doi=10.1051/0004-6361:20010648 | bibcode=2001A&A...373.1019S |arxiv = astro-ph/0105216 }}</ref>
+
+<ref name=apj627_2>{{cite journal | author=Lopez, Bruno; Schneider, Jean; Danchi, William C. | title=Can Life Develop in the Expanded Habitable Zones around Red Giant Stars? | journal=The Astrophysical Journal | volume=627 | issue=2 | pages=974–985 | month=July | year=2005 | doi=10.1086/430416 | bibcode=2005ApJ...627..974L |arxiv = astro-ph/0503520 }}</ref>
+
+<ref name=deltorn_kalas01>{{cite conference | author=Deltorn, J.-M.; Kalas, P. | year=2001 | title=Search for Nemesis Encounters with Vega, ε Eridani, and Fomalhaut | booktitle=Young Stars Near Earth: Progress and Prospects | series=ASP Conference Series | volume=244 | editors=Ray Jayawardhana and Thomas Greene | location=San Francisco | publisher=Astronomical Society of the Pacific | isbn=1-58381-082-X, 2001 | page=227 | bibcode=2001ASPC..244..227D }}</ref>
+
+<ref name=aaass96_3>{{cite journal | author=Oudmaijer, Rene D. | coauthors=''et al.'' | title=SAO stars with infrared excess in the IRAS Point Source Catalog | journal=Astronomy and Astrophysics Supplement Series | volume=96 | issue=3 | pages=625–643 | month=December | year=1992 | bibcode=1992A&AS...96..625O }}</ref>
+
+<ref name=aaa418>{{cite journal | author=Nordström, B.; Mayor, M.; Andersen, J.; Holmberg, J.; Pont, F.; Jørgensen, B. R.; Olsen, E. H.; Udry, S.; Mowlavi, N. | title=The Geneva-Copenhagen survey of the Solar neighbourhood. Ages, metallicities, and kinematic properties of ˜14 000 F and G dwarfs | journal=Astronomy and Astrophysics | volume=418 | issue=3 | pages=989–1019 | month=may | year=2004 | doi=10.1051/0004-6361:20035959 | bibcode=2004A&A...418..989N |arxiv = astro-ph/0405198 }} See VizierR catalogue [http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/130/gcs3&recno=9191 V/130].</ref>
+
+<ref name=gliese>{{cite journal | last=Gliese | first=W. | title=Catalogue of Nearby Stars | year=1969 | journal=Veröffentlichungen des Astronomischen Rechen-Instituts Heidelberg | bibcode=1969VeARI..22....1G }}</ref>
+
+<ref name=aaass47>{{cite journal | author=Rakos, K. D. | coauthors=''et al'' | title=Photometric and astrometric observations of close visual binaries | journal=Astronomy and Astrophysics Supplement Series | volume=47 | year=1982 | month=February | pages=221&ndash;235 | bibcode=1982A&AS...47..221R }}</ref>
+
+<ref name=rgcrc>{{Cite conference | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=mnras405_3_1907>{{citation | display-authors=1 | last1=Bruntt | first1=H. | last2=Bedding | first2=T. R. | last3=Quirion | first3=P.-O. | last4=Lo Curto | first4=G. | last5=Carrier | first5=F. | last6=Smalley | first6=B. | last7=Dall | first7=T. H. | last8=Arentoft | first8=T. | last9=Bazot | first9=M. | title=Accurate fundamental parameters for 23 bright solar-type stars | journal=Monthly Notices of the Royal Astronomical Society | volume=405 | issue=3 | pages=1907–1923 | month=July | year=2010 | doi=10.1111/j.1365-2966.2010.16575.x | bibcode=2010MNRAS.405.1907B |arxiv = 1002.4268 }}</ref>
+
+}}
+
+== External links ==
+* [http://server1.sky-map.org/starview?object_type=1&object_id=647&locale=EN α For (Dalim)] - [http://www.sky-map.org/ SKY-MAP.ORG]
+* [http://lhldigital.lindahall.org/cdm4/document.php?CISOROOT=/astro_atlas&CISOPTR=4112&REC=17 LHL Digital Collections] - [http://www.lindahall.org/ Linda Hall library] 
+
+{{Nearest bright star systems|5.}}
+{{Stars of Fornax}}
+
+[[Category:Binary stars]]
+[[Category:Fornax (constellation)]]
+[[Category:Bayer objects|Fornacis, alpha]]
+[[Category:Flamsteed objects|Eridanus, 12]]
+[[Category:Henry Draper Catalogue objects|20010]]
+[[Category:Hipparcos objects|014879]]
+[[Category:Stars with proper names]]
+
+[[es:Fornacis]]
+[[fa:آلفا کوره]]
+[[fr:Alpha Fornacis]]
+[[ko:화로자리 알파]]
+[[it:Alfa Fornacis]]
+[[nl:Fornacis]]
+[[ja:ろ座アルファ星]]
+[[pt:Alpha Fornacis]]
+[[ru:Альфа Печи]]
+[[sk:Alfa Fornacis]]
+[[zh:天爐座α]]

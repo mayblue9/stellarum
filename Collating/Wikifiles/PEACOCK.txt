@@ -1,0 +1,120 @@
+{{Starbox begin
+| name=Alpha Pavonis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pavo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pavo constellation and its surroundings]]
+     <div style="position: absolute; left: 86px; top: 70px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Pavonis (circled)
+}}
+{{Starbox observe
+| epoch=J2000
+| ra = {{RA|20|25|38.85705}}<ref name=aaa474_2_653/>
+| dec = {{DEC|−56|44|06.3230}}<ref name=aaa474_2_653/>
+| appmag_v = 1.94<ref name=aass34_1/>
+| constell = [[Pavo (constellation)|Pavo]]
+}}
+{{Starbox character
+| class = B2&nbsp;IV<ref name=SIMBAD/>
+| b-v = −0.20<ref name=aass34_1/>
+| u-b = −0.71<ref name=aass34_1/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +2.0<ref name=wilson1953/>
+| prop_mo_ra = 6.90<ref name=aaa474_2_653/>
+| prop_mo_dec = −86.02<ref name=aaa474_2_653/>
+| parallax = 18.24
+| p_error = 0.52
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass = {{nowrap|6.3 ± 0.2}}<ref name=aa50_369/> to {{nowrap|9.0 ± 0.1}}<ref name=apj559_1_388/>
+| radius = 4.5–5.6<ref name=aaa367_521/>
+| luminosity = 2,200<ref name=aa50_369/>
+| temperature = 18,000<ref name=aaa201_2_273/>
+| gravity = 3.8<ref name=aaa201_2_273/>
+| metal_fe = 
+| rotational_velocity = 39<ref name=aaa201_2_273/>
+| age_myr = 0.2<ref name=mnras410_1_190/> to 30<ref name=apj559_1_388/>
+}}
+{{Starbox catalog
+| names=[[Cordoba Durchmusterung|CD]] -57°9674, [[FK5]] 764, [[Henry Draper catalogue|HD]] 193924, [[Hipparcos catalogue|HIP]] 100751, [[Bright Star Catalogue|HR]] 7790, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 246574.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+193924
+}}
+{{Starbox end}}
+
+'''Alpha Pavonis''' (α Pav) is a [[star]] in the southern [[constellation]] [[Pavo (constellation)|Pavo]], near the shared border with the [[Telescopium]] constellation. It is also known by the name '''Peacock''', which was assigned by [[Her Majesty's Nautical Almanac Office]] in the late 1930s during the creation of the [[Air Almanac]], a navigational almanac for the [[Royal Air Force]].  Of the fifty-seven stars included in the new almanac, two had no classical names: [[Epsilon Carinae]] and Alpha Pavonis. The RAF insisted that all of the stars must have names, so new names were invented.  Alpha Pavonis was named "Peacock" ('pavo' is Latin for 'peacock') whilst Epsilon Carinae was called "Avior".<ref name=sadler1993/>
+
+At an apparent magnitude of 1.94,<ref name=aass34_1/> this is the brightest star in Pavo. Based upon [[parallax]] measurements, this star is about {{Convert|179|ly|pc|abbr=off|lk=on}} distant from the [[Earth]].<ref name=aaa474_2_653/> It has an estimated six times the [[Solar mass|Sun's mass]] and 5–6 times the [[solar radius|Sun's radius]],<ref name=aaa367_521/> but 2,200 times the [[Solar luminosity|luminosity of the Sun]].<ref name=aa50_369/> However, Tetzlaff  et al (2011) suggest a much higher mass of 9 times the mass of the Sun.<ref name=mnras410_1_190/> The [[effective temperature]] of the [[photosphere]] is 18,000&nbsp;K,<ref name=aaa201_2_273/> which gives the star a blue-white hue.<ref name=csiro/> A [[stellar classification]] of B2&nbsp;IV suggests it is a [[subgiant star]] that has begun to evolve from the [[main sequence]] with the exhaustion of the hydrogen at its core.
+
+Stars with the mass of Alpha Pavonis are believed not to have a [[convection zone]] near their surface. Hence the material found in the [[stellar atmosphere|outer atmosphere]] is not processed by the [[nuclear fusion]] occurring at the core. This means that the surface abundance of elements should be representative of the material out of which it originally formed. In particular, the surface abundance of [[deuterium]] should not change during the star's main sequence lifetime. The measured ratio of deuterium to hydrogen in this star amounts to less than {{nowrap|5 × 10<sup>–6</sup>}}, which suggests this star may have formed in a region with an unusually low abundance of deuterium, or else the deuterium was consumed by some means. A possible scenario for the latter is that the deuterium was burned through while Alpha Pavonis was a [[pre-main-sequence star]].<ref name=aaa201_2_273/>
+
+Alpha Pavonis is a [[spectroscopic binary]] consisting of a pair of stars that orbit around each other with a period of 11.753&nbsp;days.<ref name=aaa201_2_273/> However, in part because the two stars have not been individually [[Optical resolution|resolved]], little is known about the companion. The system may be a member of the Tucana-Horologium [[Stellar association|association of stars]] that share a common motion through space.<ref name=apj559_1_388/> The estimated age of this association is 30&nbsp;million years, which, as the members share a common origin, suggests a similar age for Alpha Pavonis.<ref name=aaa508_2_833/> However, Tetzlaff  et al (2011) suggest an age for this star of only 200,000 years. This star has a [[peculiar velocity]] of {{nowrap|13 km s<sup>–1</sup>}} relative to its neighbors.<ref name=mnras410_1_190/>
+
+== Notes ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=wilson1953>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aass34_1>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=sadler1993>{{citation | last1=Sadler | first1=D. H. | title=A Personal History of H.M. Nautical Almanac Office | page=46 | publisher=Edited and privately published by Wilkins, G. A. | year=1993 }}</ref>
+
+<ref name=aaa201_2_273>{{citation | display-authors=1 | last1=Vidal-Madjar | first1=A. | last2=Ferlet | first2=R. | last3=Coupry | first3=M. F. | last4=Spite | first4=M. | title=Deuterium in early-type stars - The case of Alpha-Pavonis | journal=Astronomy and Astrophysics | volume=201 | issue=2 | pages=273–275 | month=August | year=1988 | bibcode=1988A&A...201..273V }}</ref>
+
+<ref name=apj559_1_388>{{citation | title=Tucana Association | last1=Zuckerman | first1=B. | last2=Song | first2=Inseok | last3=Webb | first3=R. A. | journal=The Astrophysical Journal | volume=559 | issue=1 | pages=388–394 | month=September | year=2001 | doi=10.1086/322305 | bibcode=2001ApJ...559..388Z }}</ref>
+
+<ref name=aaa508_2_833>{{citation | display-authors=1 | last1=da Silva | first1=L. | last2=Torres | first2=C. A. O. | last3=de La Reza | first3=R. | last4=Quast | first4=G. R. | last5=Melo | first5=C. H. F. | last6=Sterzik | first6=M. F. | title=Search for associations containing young stars (SACY). III. Ages and Li abundances | journal=Astronomy and Astrophysics | volume=508 | issue=2 | pages=833–839 | month=December | year=2009 | doi=10.1051/0004-6361/200911736 | bibcode=2009A&A...508..833D |arxiv = 0909.0677 }}</ref>
+
+<ref name=aaa367_521>{{citation | display-authors=1 | last1=Pasinetti Fracassini | first1=L. E. | last2=Pastori | first2=L. | last3=Covino | first3=S. | last4=Pozzi | first4=A. | title=Catalogue of Apparent Diameters and Absolute Radii of Stars (CADARS) - Third edition - Comments and statistics | journal=Astronomy and Astrophysics | volume=367 | pages=521–524 | month=February | year=2001 | doi=10.1051/0004-6361:20000451 | bibcode=2001A&A...367..521P |arxiv = astro-ph/0012289 }}</ref>
+
+<ref name=aa50_369>{{citation | last1=Jerzykiewicz | first1=M. | last2=Molenda-Zakowicz | first2=J. | title=Empirical Luminosities and Radii of Early-Type Stars after Hipparcos | journal=Acta Astronomica | volume=50 | pages=369–380 | month=September | year=2000 | bibcode=2000AcA....50..369J }}</ref>
+
+<ref name=SIMBAD>{{citation | title=PEACOCK -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Pavonis | accessdate=2011-12-23 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/peacock.html Peacock]
+
+{{Stars of Pavo}}
+
+[[Category:Bayer objects|Pavonis, Alpha]]
+[[Category:B-type subgiants]]
+[[Category:Henry Draper Catalogue objects|193924]]
+[[Category:Hipparcos objects|100751]]
+[[Category:HR objects|7790]]
+[[Category:Pavo (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[ca:Peacock]]
+[[de:Alpha Pavonis]]
+[[es:Peacock (estrella)]]
+[[fa:آلفا طاووس]]
+[[fr:Alpha Pavonis]]
+[[ko:피콕 (항성)]]
+[[hi:अल्फ़ा पैवोनिस तारा]]
+[[id:Alpha Pavonis]]
+[[it:Alfa Pavonis]]
+[[he:פיקוק]]
+[[la:Alpha Pavonis]]
+[[lb:Peacock (Stär)]]
+[[nl:Pauw (ster)]]
+[[ja:くじゃく座アルファ星]]
+[[pl:Peacock]]
+[[pt:Alpha Pavonis]]
+[[sk:Peacock]]
+[[fi:Alfa Pavonis]]
+[[zh:孔雀十一]]

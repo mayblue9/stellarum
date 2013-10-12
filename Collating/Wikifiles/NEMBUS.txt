@@ -1,0 +1,110 @@
+{{Starbox begin
+| name = 51 Andromedae
+}}
+{{Starbox observe
+| epoch = J2000
+| constell = [[Andromeda (constellation)|Andromeda]] 
+| ra = {{RA|01|37|59.56}}<ref name="hipparcos"> {{cite web | url=http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=I/311/hip2&recno=7593 | title=HIP 7607 | work=Hipparcos, the New Reduction | author=van Leeuwen, F. | year=2007 | accessdate=2010-04-02}}</ref>
+| dec = {{DEC|+48|37|41.6}}<ref name="hipparcos"/>
+| appmag_v = 3.57
+}}
+{{Starbox character
+| class = K3III
+| b-v = 1.28
+| u-b = 1.45
+| variable=None }}
+{{Starbox astrometry
+| radial_v = 16.1
+| prop_mo_ra = 61.95 ± 0.17<ref name="hipparcos"/>
+| prop_mo_dec = -112.15 ± 0.17<ref name="hipparcos"/>
+|  gal_lat = -13.5297 
+|  gal_lon = 130.8145  
+| parallax = 18.41
+| p_error = 0.18
+| parallax_footnote = <ref name="hipparcos"/>
+| absmag_v = 5.833
+}}
+{{Starbox detail
+| mass=2.3<ref name=aaa352_217/>
+| radius={{nowrap|21.5 ± 0.9}}<ref name=aj118_6_3032/>
+| luminosity=
+| temperature=
+| metal=
+| gravity=
+| rotation=
+| age=
+}}
+{{Starbox catalog
+| names= [[Bayer designation|&upsilon; Per]], [[Flamsteed designation|51 And]], [[Henry Draper Catalogue|HD]] 9927, [[Durchmusterung|BD]]+47° 467, [[Hipparcos catalogue|HIP]] 7607, [[Bright Star Catalogue|HR]] 464, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 37375. }}
+{{Starbox reference |
+  Simbad=HD+9927 }}
+{{Starbox end}}
+
+'''51 Andromedae''' is a 4th [[Magnitude (astronomy)|magnitude]] [[star]], the 5th brighest in the [[constellation]] [[Andromeda (constellation)|Andromeda]]. It does not have a [[Bayer designation]].  It is occasionally called by the proper name '''Nembus'''<ref>{{Cite book
+|last=Allen
+|first=R. H.
+|author=
+|authorlink=Richard Hinckley Allen
+|coauthors=
+|year=1899
+|title=Star-names and Their Meanings
+|publisher=G. E. Stechart
+|location=New York
+|ref-id=Allen
+}}, p.334.</ref><ref>p. 5, [http://books.google.com/books?id==DvQNAAAAQAAJ ''Astronomers' Stars''], Patrick Moore, London, Routledge, 1987.</ref> in [[Johann Bayer|Bayer]]'s ''[[Uranometria]]'' (1603)<ref>[http://www.lindahall.org/services/digital/ebooks/bayer/ Scans of the plates of ''Uranometria'' by J. Bayer, 1603] @Linda Hall Library</ref> and [[Johann Elert Bode|Bode]]'s [[star atlas]] ''[[Uranographia]]'' (1801).<ref>[http://www.ianridpath.com/startales/andromeda.htm Scan of the plates of ''Uranographia'' by J.E. Bode, 1801] @Ian Ridpath's ''Star Tales''</ref>
+
+[[Ptolemy]] included this star in Andromeda in the ''[[Almagest]]'', but it was moved into Perseus by [[Johann Bayer]], who designated it ''Upsilon Persei'' (υ Per).  [[John Flamsteed|Flamsteed]] moved it back, and the International Astronomical Union made Flamsteed's '''51 Andromedae''' its official designation in 1930.<ref name=iau1932/><ref>{{Cite book
+|last=Allen
+|first=R. H.
+|author=
+|authorlink=Richard Hinckley Allen
+|coauthors=
+|year=1899
+|title=Star-names and Their Meanings
+|publisher=G. E. Stechart
+|location=New York
+|ref-id=Allen
+}}, p.34.</ref><ref> Wagman, Morton (2003) ''Lost Stars'' p.240, McDonald and Woodward, Blacksburg, Virginia. ISBN 0-939923-78-5.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天大將軍}} ({{lang|zh-Latn|Tiān Dà Jiāng Jūn}}), meaning ''[[Bond (Chinese constellation)|Heaven's Great General]]'', refers to an asterism consisting of 51 Andromedae, [[Gamma Andromedae|γ Andromedae]], [[Phi Persei|φ Persei]], [[49 Andromedae]], [[Chi Andromedae|χ Andromedae]], [[Upsilon Andromedae|υ Andromedae]], [[Tau Andromedae|τ Andromedae]], [[56 Andromedae]], [[Beta Trianguli|β Trianguli]], [[Gamma Trianguli|γ Trianguli]] and [[Delta Trianguli|δ Trianguli]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, 51 Andromedae itself is known as {{lang|zh|天大將軍三}} ({{lang|zh-Latn|Tiān Dà Jiāng Jūn sān}}, {{lang-en|the Third Star of Heaven's Great General}}.)<ref>{{zh icon}} http://zh.wikipedia.org/zh-tw/%E5%A4%A9%E5%A4%A7%E5%B0%86%E5%86%9B%E4%B8%89</ref>
+
+51 Andromedae is an orange [[stellar classification|K-type]] [[giant star|giant]] with an [[apparent magnitude]] of +3.59.  It is approximately 177 [[light years]] from the [[Earth]].<ref name="hipparcos"/>
+
+== References ==
+{{Reflist|refs=
+
+<ref name=aaa352_217>{{citation | last1=Gondoin | first1=P. | title=Evolution of X-ray activity and rotation on G-K giants | journal=Astronomy and Astrophysics | volume=352 | pages=217–227 | month=December | year=1999 | bibcode=1999A&A...352..217G }}</ref>
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+<ref name=iau1932>{{citation | title=Ephemerides | work=Report of Commissions | journal=Transactions of the International Astronomical Union | page=20 | volume=4 | year=1932 | url=http://books.google.com/books?id=3G03AAAAIAAJ&pg=PA20 }}</ref>
+
+}}
+
+== External links ==
+* {{cite web | title=HD 9927 -- Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=51+andromedae | accessdate=2007-04-01}}
+* [http://server6.wikisky.org/starview?object_type=1&object_id=512&object_name=51+And&locale=EN wikisky.org]
+* http://www.alcyone-software.com/cgi-bin/search.pl?object=HR0464
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=01+37+59.5561%2B48+37+41.567&ident=*+ups+Per&submit=Aladin+previewer Image 51 Andromedae]
+
+{{Stars of Andromeda}}
+
+[[Category:Flamsteed objects|Andromedae, 51]]
+[[Category:Andromeda (constellation)]]
+[[Category:K-type giants]]
+
+{{star-stub}}
+{{giant-star-stub}}
+
+[[ca:51 Andromedae]]
+[[de:51 Andromedae]]
+[[es:51 Andromedae]]
+[[fa:۵۱ زن برزنجیر]]
+[[fr:51 Andromedae]]
+[[ko:안드로메다자리 51]]
+[[id:51 Andromedae]]
+[[it:51 Andromedae]]
+[[ja:アンドロメダ座51番星]]
+[[pl:51 Andromedae]]
+[[ru:51 Андромеды]]
+[[zh:天大将军三]]

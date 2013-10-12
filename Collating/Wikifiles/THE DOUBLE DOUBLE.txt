@@ -1,0 +1,235 @@
+{{redirect|The Double Double||double-double (disambiguation)}}
+
+{{Starbox begin
+| name = Epsilon Lyrae
+}}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Lyra constellation map.png|200px]]
+     <div style="position: absolute; left: 125px; top: 100px">[[Image:Locator Dot2.gif|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> |
+  caption=The red dot shows the location of ε2 lyrae.}}
+{{Starbox observe 2s
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]]
+| constell = [[Lyra]]
+| component1 = Epsilon<sup>1</sup> Lyrae
+| ra1 = {{RA|18|44|20.3453}}
+| dec1 = {{DEC|+39|40|12.444}}
+| appmag_v1 = 4.7
+| component2 = Epsilon<sup>2</sup> Lyrae
+| ra2 = {{RA|18|44|22.7803}}
+| dec2 = {{DEC|+39|36|45.798}}
+| appmag_v2 = 5.1
+}}
+{{Starbox character
+| class = F1V / A8V
+| r-i = <!--R-I color-->
+| v-r = <!--V-R color-->
+| b-v = <!--B-V color-->
+| u-b = <!--U-B color-->
+| variable = <!--Variability type-->
+}}
+{{Starbox astrometry
+| radial_v = <!--Radial velocity (in km/sec)-->
+| prop_mo_ra = <!--Proper motion (RA), μα cos δ (in milliarcsec/yr)-->
+| prop_mo_dec = <!--Proper motion (dec), μδ (in milliarcsec/yr)-->
+| parallax = 20.10
+| p_error = 0.76
+| parallax_footnote = <!--Parallax footnote-->
+| dist_ly = <!--Distance (in light years)-->
+| dist_pc = <!--Distance (in parsecs)-->
+| space_v_u = <!--Space velocity (U), σu cos v w (in km/s)-->
+| space_v_v = <!--Space velocity (V), σv cos w (in km/s)-->
+| space_v_w = <!--Space velocity (W), σw (in km/s)-->
+| absmag_v = <!--Absolute magnitude (Johnson-Cousins V system)-->
+}}
+{{Starbox catalog
+| names = 4 Lyr, [[Harvard Revised catalogue|HR]] 7051, HD 173582, [[Hipparcos catalogue|HIP]] 91919, [[Bonner Durchmusterung|BD]] +39 03509, SAO 67310, ADS 11635, CCDM 18443+3938, TYC 03122-3438 2, GSC 03122-3438, [[Washington Double Star Catalog|WDS]]  18443+3940}}
+{{Starbox reference
+| Simbad = eps01+Lyr
+| ARICNS = <!--Code-->
+}}
+{{Starbox reference
+| Simbad = eps02+Lyr
+| ARICNS = <!--Code-->
+}}
+{{Starbox end}}
+
+'''Epsilon Lyrae''' (&epsilon; Lyr, &epsilon; Lyrae), also known as the '''Double Double''', is a [[Multiple star|multiple star system]] approximately 162 [[light-year]]s away in the [[constellation]] of [[Lyra]].  
+
+==Star System==
+The widest two components of the system are easily separated when viewed through binoculars, or even with the [[naked eye]] under excellent conditions.<ref name="Burnhams">{{cite book|last=Burnham|first=Robert|title=Burnham's Celestial Handbook|year=1966|publisher=Dover Publications Inc.|isbn=0-486-24064-9|pages=1151–1153|url=http://books.google.com/books?id=gPd8k5xn3JEC&q=burnham%27s+celestial+handbook&dq=burnham%27s+celestial+handbook&hl=en&ei=rnsOTfPEOcP_lgew5_H9Bw&sa=X&oi=book_result&ct=result&resnum=2&ved=0CCwQ6AEwAQ}}</ref> The northern star is called &epsilon;<sup>1</sup> and the southern one is called &epsilon;<sup>2</sup>; they both lie around 162 light years from Earth and orbit each other. When viewed at higher magnifications, both stars of the binary can be further split into binaries; that is, the system contains two binary stars orbiting each other. Being able to view the components of each is a common benchmark for the resolving power of telescopes, since the individual doubles are so close together: the stars of &epsilon;<sup>1</sup> were 2.35 arc-seconds apart in 2006, those of &epsilon;<sup>2</sup> were separated by about the same amount in that year. Since the first high-precision measurements of their orbit in the 1980s, both binaries have moved only a few degrees in [[position angle]].
+
+The component stars of &epsilon;<sup>1</sup> have magnitudes of 4.7 and 6.2 separated by 2.6" and have an orbital period that can only be crudely estimated at 1200 years, which places them at roughly 140 AU apart. The component stars of &epsilon;<sup>2</sup> have magnitudes 5.1 and 5.5 separated by 2.3", and orbit in perhaps half that period. &epsilon;<sup>1</sup> and &epsilon;<sup>2</sup> themselves are not closer than 0.16 light years apart, and would take hundreds of thousands of years to complete an orbit. An observer at one pair would see the other pair shining with the light of a quarter Moon (which is about mv = -5.0), less than a degree away from each other.<ref>http://www.astro.uiuc.edu/~kaler/sow/epslyr.html</ref> <ref>http://observing.skyhound.com/archives/jul/HR_7051.html</ref>
+
+A fifth component of this system, orbiting one of the &epsilon;<sup>2</sup> pair, was detected by [[speckle imaging|speckle interferometry]] in 1985 and confirmed in two subsequent observations.  No orbit can be prepared from such limited data, but its rapid motion suggests a period of a few tens of years. Its maximum observed separation of 0.2 arc-seconds precludes direct visual observation.
+
+A number of other nearby stars may also be part of the system, bringing the system to a total of ten stars.  The arrangement of the system is summarised in the tables below.
+
+{| class="wikitable" style="text-align:center; width:80%;"
+|+ Stars in the system
+|-
+|
+! scope="col" | Magnitude
+! scope="col" | Spectral Type
+|-
+! scope="row" | A
+| 5.02
+| A2
+|-
+! scope="row" | B
+| 6.02
+| A4
+|-
+! scope="row" | C
+| 5.14
+| A3
+|-
+! scope="row" | D
+| 5.37
+| A5
+|-
+! scope="row" | E
+| 11.71
+|
+|-
+! scope="row" | F
+| 11.2
+|
+|-
+! scope="row" | G
+| 13.83
+| 
+|-
+! scope="row" | H
+| 13.22
+| 
+|-
+! scope="row" | I
+| 10.43
+| 
+|-
+! scope="row" | a
+| 10.43
+| 
+|}<ref name="Burnhams"/><ref name="wds">{{cite web|title=Washington Double Star Catalog|url=http://ad.usno.navy.mil/wds/Webtextfiles/wdsnewframe.html|accessdate=19 December 2010}}</ref>
+
+{| class="wikitable" style="text-align:center; width:80%;"
+|+ Orbit pairs
+|-
+|
+! scope="col" | Separation (arcsec)
+! scope="col" | Separation (au)
+! scope="col" | Most Recent Position Angle
+! scope="col" | Period (years)
+! scope="col" | Semi-major axis (arcseconds)
+! scope="col" | Notes
+|-
+! scope="row" | AB-CD
+| 208.2
+| 10,500
+| 238
+| 
+|
+| &epsilon;<sup>1</sup>-&epsilon;<sup>2</sup>
+|-
+! scope="row" | AB
+| 2.3
+| 116
+| 347
+| 1804.41
+| 4.742
+| components of &epsilon;<sup>1</sup>
+|-
+! scope="row" | CD
+| 2.4
+| 121
+| 79
+| 724.307
+| 2.92
+| components of &epsilon;<sup>2</sup>
+|-
+! scope="row" | Ca
+| 0.1
+| 5
+| 225
+| 
+| 
+| recently discovered interferometric companion
+|-
+! scope="row" | AI
+| 149.6
+| 7500
+| 138
+| 
+| 
+| 
+|-
+! scope="row" | CE
+| 63.7
+| 3200
+| 333
+| 
+| 
+| 
+|-
+! scope="row" | EF
+| 46
+| 2300
+| 37
+| 
+| 
+|
+|-
+! scope="row" | EG
+| 50
+| 2500
+| 238
+| 
+|
+| 
+|-
+! scope="row" | GH
+| 35
+| 1800
+| 358
+| 
+| 
+|
+|}<ref name="Burnhams" /><ref name="wds"/><ref>{{cite web|title=Sixth Orbit Catalog|url=http://ad.usno.navy.mil/wds/orb6.html|accessdate=19 December 
+2010}}</ref>
+
+==References==
+{{Reflist}}
+
+== See also ==
+
+* [[HD 98800]]
+
+
+== External links ==
+
+* [http://www.skyhound.com/sh/archive/jul/HR_7051.html Epsilon Lyrae -- The Double Double]
+* [http://www.daviddarling.info/encyclopedia/E/Epsilon_Lyrae.html Epsilon Lyrae]
+{{Stars of Lyra}}
+
+[[Category:Multiple star systems|5]]
+[[Category:F-type main sequence stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Lyra (constellation)]]
+[[Category:Bayer objects|Lyrae, Epsilon]]
+[[Category:Flamsteed objects|Lyrae, 4]]
+[[Category:Henry Draper Catalogue objects|173582]]
+[[Category:Hipparcos objects|91919]]
+[[Category:HR objects|7051]]
+
+[[fa:اپسیلون شلیاق]]
+[[id:Epsilon Lyrae]]
+[[it:Epsilon Lyrae]]
+[[pt:Epsilon1 Lyrae]]
+[[ru:Эпсилон Лиры]]
+[[sk:Epsilon Lyrae]]
+[[fi:Epsilon Lyrae]]
+[[sv:Epsilon Lyrae]]
+[[zh:織女二]]

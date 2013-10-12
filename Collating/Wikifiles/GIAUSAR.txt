@@ -1,0 +1,33 @@
+'''Lambda Draconis''' (λ Dra, λ Draconis) is a [[star]] in the [[constellation]] [[Draco (constellation)|Draco]].  It has the traditional names '''Gianfar''', Giansar, Juza, Giausar or Giauzar.
+
+In [[Chinese language|Chinese]], {{lang|zh|紫微右垣}} ({{lang|zh-Latn|Zǐ Wēi Yòu Yuán}}), meaning ''[[Purple Forbidden enclosure|Right Wall of Purple Forbidden Enclosure]]'', refers to an asterism consisting of λ Draconis, [[Alpha Draconis|α Draconis]], [[Kappa Draconis|κ Draconis]], [[24 Ursae Majoris]], [[43 Camelopardalis]], [[Alpha Camelopardalis|α Camelopardalis]] and [[BK Camelopardalis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, λ Draconis itself is known as {{lang|zh|紫微右垣三}} ({{lang|zh-Latn|Zǐ Wēi Yòu Yuán sān}}, {{lang-en|the Third Star of Right Wall of Purple Forbidden Enclosure}}.),<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> representing {{lang|zh|上輔}} ({{lang|zh-Latn|Shǎngfǔ}}), meaning ''First Minister''.<ref>[http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#PrupleForbiddenEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> 上輔 (Shǎngfǔ) is westernized into '''Sang Poo''' or '''Shaou Poo''' by R.H. Allen.<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html Star Name - R.H. Allen p. 210]</ref>
+
+==Structure==
+
+Lambda Draconis belongs to [[stellar classification|spectral class]] M0 and has [[apparent magnitude]] +4.1.  It is approximately 334 [[light year]]s from [[Earth]].
+
+Coordinates ([[J2000]]):
+*[[Right ascension]]: 11h28m30s
+*[[Declination]]: +69°36'0"
+
+==Namesakes==
+[[USS Giansar (AK-111)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist}}
+
+{{Stars of Draco}}
+
+[[Category:Draco (constellation)]]
+[[Category:Bayer objects|Draconis, Lambda]]
+[[Category:Stars with proper names]]
+
+[[de:Lambda Draconis]]
+[[es:Gianfar]]
+[[fr:Lambda Draconis]]
+[[id:Lambda Draconis]]
+[[lb:Gianfar (Stär)]]
+[[nl:Gianfar]]
+[[pt:Lambda Draconis]]
+[[sk:Gianfar]]
+[[zh:上輔]]

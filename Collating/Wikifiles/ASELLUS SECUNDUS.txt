@@ -1,0 +1,114 @@
+{{Starbox begin
+ | name = Iota Boötis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Boötes IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Boötes constellation and its surroundings]]
+     <div style="position: absolute; left: 52.0%; top: 14.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ι Boötis (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|14|16|09.92995}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+51|22|02.0267}}<ref name=aaa474_2_653/>
+ | appmag_v = 4.75<ref name=aass85_3_1015/>
+ | constell = [[Boötes (constellation)|Boötes]]
+}}
+{{Starbox character
+ | class    = A9&nbsp;V<ref name=aass85_3_1015/>
+ | r-i      = 0.09
+ | v-r      = 
+ | b-v      = 0.2
+ | u-b      = 0.06
+ | variable = [[Delta Scuti variable]]
+}}
+{{Starbox astrometry
+ | radial_v = -18.7
+ | prop_mo_ra  = -149.39<ref name=aaa474_2_653/>
+ | prop_mo_dec = +88.72<ref name=aaa474_2_653/>
+ | parallax = 34.40
+ | p_error  = 0.19
+| parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 2.3<ref name=aass85_3_1015/>
+ | radius   = 1.0<ref name=aass85_3_1015/>
+ | luminosity  = 11<ref name=aass85_3_1015/>
+ | temperature = 10,560 ± 340<ref name=aass85_3_1015/>
+ | metal_fe =  
+ | gravity  = 4.80<ref name=aass85_3_1015/>
+ | rotational_velocity =
+ | age      = 
+}}
+{{Starbox catalog
+ | names = Asellus Secondus, 21&nbsp;Boötis, [[Bonner Durchmusterung|BD]]+52°1784, [[Fifth Fundamental Catalogue|FK5]]&nbsp;528, [[Henry Draper Catalogue|HD]]&nbsp;125161, [[Hipparcos catalogue|HIP]]&nbsp;69713, [[Harvard Revised catalogue|HR]]&nbsp;5350, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;29071, [[Gliese-Jahreiss catalogue|Wo]]&nbsp;9474.
+}}
+{{Starbox reference
+ | Simbad = HD+125161
+ | ARICNS = 
+}}
+{{starbox sources|HIP|CCDM|HR}}
+{{Starbox reference
+ | Simbad = ADS+9198
+}}
+{{Starbox end}}
+
+'''Iota Boötis''' (ι Boo, ι Boötis) is a [[star system]] in the [[constellation]] [[Boötes]].  It has the traditional name '''Asellus Secundus''' ([[Latin language|Latin]] for "second [[donkey]] colt")<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Bootes*.html Star Name - R.H.Allen p.105]</ref> and the [[Flamsteed designation]] 21 Boötis.  
+
+This star, along with the other ''Asselus'' ([[Theta Boötis|θ Boo]] and [[Kappa Boötis|κ Boo]]) and [[Lambda Boötis|λ Boo]], were '''Al Aulād al Dhiʼbah''' ('''ألعولد ألذعب''' - ''al aulād al dhiʼb''), "the Whelps of the Hyenas".<ref name=allen1963/>
+
+In [[Chinese language|Chinese]], {{lang|zh|梗河}} ({{lang|zh-Latn|Tiān Qiāng}}), meaning ''[[Purple Forbidden enclosure|Celestial Spear]]'', refers to an asterism consisting of ι Boötis, [[Kappa Boötis|κ<sup>2</sup> Boötis]] and [[Theta Boötis|θ Boötis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ι Boötis itself is known as {{lang|zh|天槍三}} ({{lang|zh-Latn|Tiān Qiāng èr}}, {{lang-en|the Second Star of Celestial Spear}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Iota Boötis is a [[double star]], with components at an [[angular distance]] of 38.6 [[arcsecond]]s, easily separated with binoculars.  It is approximately 97 [[light year]]s from Earth.
+
+==Components==
+
+The primary component, '''Iota Boötis A''', a [[spectroscopic binary]],{{Citation needed|date=May 2010}} is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with a mean [[apparent magnitude]] of +4.75.  It is classified as a [[Delta Scuti variable|Delta Scuti type]] [[variable star]] and its brightness varies from magnitude +4.73 to +4.78.  The companion, '''Iota Boötis B''', is a magnitude +8.27 star belonging to spectral class A2.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Bootes*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=105}}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205350 HR 5350]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J14162%2b5122A CCDM J14162+5122]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=V*+iot+Boo&ident=V*+iot+Boo&submit=Aladin+previewer Image Iota Boötis]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+{{reflist}}
+
+{{Stars of Boötes}}
+
+[[Category:Henry Draper Catalogue objects|125161]]
+[[Category:Hipparcos objects|069713]]
+[[Category:Bayer objects|Boötis, Iota]]
+[[Category:Boötes (constellation)]]
+[[Category:Delta Scuti variables]]
+[[Category:Flamsteed objects|Boötis, 21]]
+[[Category:Spectroscopic binaries]]
+[[Category:Triple star systems]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{var-star-stub}}
+{{star-system-stub}}
+
+[[de:Iota Boötis]]
+[[es:Iota Bootis]]
+[[fa:یوتا گاوران]]
+[[id:Iota Boötis]]
+[[it:Iota Boötis]]
+[[lb:Asellus Secundus (Stär)]]
+[[nl:Asellus Secondus]]
+[[pt:Iota Boötis]]
+[[sk:Asellus Secundus]]
+[[zh:天槍二]]

@@ -1,0 +1,111 @@
+{{refimprove|date=February 2012}}
+{{Starbox begin
+ | name=γ Boötis
+}}
+{{Starbox image 
+ | image = [[Image:Boötes constellation map.png|150px]]
+ | caption =γ Boötis (upper center)
+}} 
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|14|32|04.6719}}
+ | dec={{DEC|+38|18|29.709}}
+ | appmag_v=+3.0
+ | constell=[[Boötes (constellation)|Boötes]]
+}}
+{{Starbox character
+ | class=A7&nbsp;III<ref name=mnras309_1_221/>
+ | r-i = +0.08
+ | v-r = 
+ | b-v = +0.19
+ | u-b = +0.12
+ | variable=[[Delta Scuti variable]]<ref name=mnras309_1_221/>
+}}
+{{Starbox astrometry
+ | radial_v=-36.5
+ | prop_mo_ra=-115.55
+ | prop_mo_dec=151.87
+ | parallax=38.29
+ | p_error=0.73
+ | parallax_footnote=
+ | absmag_v=
+}}
+{{Starbox detail
+ | mass=
+ | radius=
+ | luminosity=34<ref name=mnras309_1_221/>
+ | temperature=7,800<ref name=mnras309_1_221/>
+ | metal_fe=
+ | gravity=
+ | rotational_velocity=140<ref name=mnras309_1_221/>
+ | age=
+}}
+{{Starbox catalog
+ | names = Seginus, Haris, Ceginus, Segin, 27&nbsp;Boötis, [[Harvard Revised catalogue|HR]]&nbsp;5435, [[Henry Draper Catalogue|HD]]&nbsp;127762, [[Bonner Durchmusterung|BD]]+38°2565, [[Fifth Fundamental Catalogue|FK5]]&nbsp;535, [[Hipparcos catalogue|HIP]]&nbsp;71075, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;64203.
+}}
+{{Starbox reference
+ | Simbad=HD+127762
+ | ARICNS = 
+}}
+{{starbox sources|HIP|CCDM|HR}}
+{{Starbox end}}
+'''Gamma Boötis''' (γ Boo, γ Boötis) is a [[star]] in the [[constellation]] [[Boötes]].  It has the traditional name '''Seginus''' (also ''Segin'', ''Ceginus'') of uncertain origin. It was listed as ''Haris'' in [[Antonín Bečvář|Bečvář]]. 
+
+==Properties==
+
+Gamma Boötis is approximately 85 [[light year]]s away from Earth. It belongs to the [[Stellar classification|spectral class]] A7III.  It is a [[Delta Scuti variable|Delta Scuti type]] [[variable star]] with a period of 1.13 hours.<ref name=mnras309_1_221/> Its brightness varies from magnitude +3.02 to +3.07.
+
+==Etymology==
+In [[Chinese astronomy]], Seginus is called 招搖, [[Pinyin]]: Zhāoyáo, meaning ''Twinkling Indicator'', because this star is marking itself and stand alone in ''Twinkling Indicator'' asterism, [[Root (Chinese constellation)|Root]] mansion (see : [[Chinese constellation]]).<ref>{{zh icon}}   [http://aeea.nmns.edu.tw/2006/0606/ap060629.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 29 日]</ref> 招搖 (Zhāoyáo), westernized into '''Chaou Yaou''', but the name ''Chaou Yaou'' was designated for [[Beta Boötis|β Boötis]] (Nekkar) by R.H. Allen and the meaning is "to beckon, excite, or move." <ref>[http://www.constellationsofwords.com/stars/Nekkar.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Boötes]</ref>
+
+In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Menkib al Aoua al Aisr''' (منكب العواء الأيسر - ''mankibu lʿawwaaʾi lʾaysar''), which was translated into [[Latin]] as '''Humerus Sinister Latratoris''', meaning ''the left shoulder of barker''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+The name Seginus resulted from [[Latinization (literature)|Latinization]] of an [[Arabic language|Arabic]] form of the [[Greek language|Greek]] name of the [[constellation]] of [[Boötes]] (Theguius). The name Haris comes from the Arabic name of the constellation of Boötes, Al Haris Al Sama, which means "the guard".
+
+==Namesakes==
+[[USS Seginus (AK-133)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205435 HR 5435]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J14321%2b3818A CCDM J14321+3818]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=14+32+04.6719%2B38+18+29.709&ident=V*+gam+Boo&submit=Aladin+previewer Image Gamma Boötis]
+{{reflist}}
+
+{{Stars of Boötes}}
+
+{{DEFAULTSORT:Gamma Bootis}}
+[[Category:Flamsteed objects|Bootis, 27]]
+[[Category:Henry Draper Catalogue objects|127762]]
+[[Category:Hipparcos objects|071075]]
+[[Category:Bayer objects|Bootis, Gamma]]
+[[Category:Boötes (constellation)]]
+[[Category:Delta Scuti variables]]
+[[Category:A-type giants]]
+[[Category:Stars with proper names]]
+
+{{var-star-stub}}
+
+[[de:Seginus]]
+[[es:Seginus]]
+[[fa:گاما گاوران]]
+[[fr:Gamma Bootis]]
+[[id:Gamma Boötis]]
+[[it:Seginus]]
+[[lb:Ceginus (Stär)]]
+[[ja:うしかい座ガンマ星]]
+[[pt:Gamma Boötis]]
+[[sk:Seginus]]
+[[uk:HD127762]]
+[[zh:招摇]]

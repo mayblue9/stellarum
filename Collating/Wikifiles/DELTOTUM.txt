@@ -1,0 +1,97 @@
+{{Distinguish|Beta Trianguli Australis}}
+{{Starbox begin
+| name     = Beta Trianguli
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Triangulum IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Triangulum constellation and its surroundings]]
+     <div style="position: absolute; left: 107px; top: 83px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Trianguli (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| constell = [[Triangulum]] 
+| ra       = {{RA|02|09|32.62712}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+34|59|14.2694}}<ref name=aaa474_2_653/>
+| appmag_v = +3.00<ref name=clpl4_99/>
+}}
+{{Starbox character
+| class    = A5III<ref name=aj74_375/>
+| b-v      = +0.14<ref name=clpl4_99/>
+| u-b      = +0.11<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +9.9<ref name=gcrv1953/>
+| prop_mo_ra = 149.16<ref name=aaa474_2_653/>
+| prop_mo_dec = –39.10<ref name=aaa474_2_653/>
+| parallax = 25.71
+| p_error  = 0.34
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass        = 
+| radius      = 
+| luminosity  = 
+| temperature = 
+| gravity     = 
+| metal_fe    = 
+| rotational_velocity = 70<ref name=aaa393_897/>
+| age_gyr     = 
+}}<!--
+-->{{Starbox catalog
+| names = β&nbsp;Trianguli, β&nbsp;Tri, Beta&nbsp;Tri, 4&nbsp;Trianguli, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;622, [[Henry Draper Catalogue|HD]]&nbsp;13161, [[Star catalogue#BD/CD/CPD|BD]]+34&nbsp;381, FK5&nbsp;75, [[Hipparcos catalogue|HIP]]&nbsp;10064, [[Star catalogue#SAO|SAO]]&nbsp;55306.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Beta&nbsp;Trianguli''' ('''Beta&nbsp;Tri''', '''β&nbsp;Trianguli''', '''β&nbsp;Tri''') is the [[Bayer designation]] for a [[binary star]] system in the [[constellation]] [[Triangulum]], located about 127 [[light years]] from [[Earth]].<ref name=aaa474_2_653/> Although the [[apparent magnitude]] is only 3.0,<ref name=clpl4_99/> it is the brightest [[star]] in the [[constellation]] [[Triangulum]].<ref name=garfinckle1997/>
+
+The star Beta Trianguli has a [[stellar classification]] of A5III, indicating that it has [[stellar evolution|evolved]] away from the [[main sequence]] and is now a [[giant star]]. It is among the least [[variable star|variable]] of the stars that were observed by the [[Hipparcos]] spacecraft, with a magnitude varying by only 0.0005.<ref name=aaa367_297/> This is a probable [[spectroscopic binary]] star system with an orbital period of 31.39 days and an [[Orbital eccentricity|eccentricity]] of 0.43.<ref name=mnras389_2_869/> They are separated by a distance of less than 5 [[Astronomical Unit|AU]].<ref name=pap5/>
+
+Based on observations using the [[Spitzer Space Telescope]], as reported in 2005, this system is emitting an [[infrared excess|excess of infrared radiation]]. This emission can be explained by a circumbinary [[debris disk|ring of dust]] orbiting at a distance of about 10–20&nbsp;AU from the stars. The dust is emitting infrared radiation at a blackbody temperature of 100&nbsp;K.<ref name=pap5/>
+
+==Naming==
+*In combination with [[Alpha Trianguli]], these stars were called Al Mīzān, which is [[Arabic language|Arabic]] for "The Scale Beam".<ref name=garfinckle1997/>
+*In [[Chinese language|Chinese]], {{lang|zh|天大將軍}} ({{lang|zh-Latn|Tiān Dà Jiāng Jūn}}), meaning ''[[Bond (Chinese constellation)|Heaven's Great General]]'', refers to an asterism consisting of β Trianguli, [[Gamma Andromedae|γ Andromedae]], [[Phi Persei|φ Persei]], [[51 Andromedae]], [[49 Andromedae]], [[Chi Andromedae|χ Andromedae]], [[Upsilon Andromedae|υ Andromedae]], [[Tau Andromedae|τ Andromedae]], [[56 Andromedae]], [[Gamma Trianguli|γ Trianguli]] and [[Delta Trianguli|δ Trianguli]]. Consequently, β Trianguli itself is known as {{lang|zh|天大將軍九}} ({{lang|zh-Latn|Tiān Dà Jiāng Jūn jiǔ}}, {{lang-en|the Ninth Star of Heaven's Great General}}.).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060710.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 10 日]</ref>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcrv1953>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa393_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | pages=897–911 | month=October | year=2002 | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R |arxiv = astro-ph/0205255 }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=garfinckle1997>{{citation | first1=Robert A. | last1=Garfinkle | title=Star-Hopping: Your Visa to Viewing the Universe | publisher=Cambridge University Press | year=1997 | isbn=0-521-59889-3 | page=238 | url=http://books.google.com/books?id=40JzBYGREL0C&pg=PA238 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=bet Tri -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Trianguli | accessdate=2011-12-12 }}</ref>
+
+<ref name=aaa367_297>{{citation | last1=Adelman | first1=S. J.	 | title=Research Note Hipparcos photometry: The least variable stars | journal=Astronomy and Astrophysics | volume=367 | pages=297–298 | month=February | year=2001 | doi=10.1051/0004-6361:20000567 | bibcode=2001A&A...367..297A }}</ref>
+
+<ref name=pap5>{{citation | display-authors=1 | last1=Stansberry | first1=J. A. | last2=Stapelfeldt | first2=K. R. | last3=Trilling | first3=D. T. | last4=Su | first4=K. Y. | last5=Rieke | first5=G. H. | last6=Chen | first6=C. | contribution=A Spitzer Survey for Debris Disks in Binary Star Systems | title=Protostars and Planets V, Proceedings of the Conference held October 24-28, 2005, in Hilton Waikoloa Village, Hawai'i | year=2005 | bibcode=2005prpl.conf.8613S }}</ref>
+
+}}
+
+{{Stars of Triangulum}}
+
+[[Category:Bayer objects|Trianguli, Beta]]
+[[Category:Triangulum (constellation)]]
+[[Category:A-type giants]]
+
+[[es:Beta Trianguli]]
+[[fa:بتا مثلث]]
+[[fr:Beta Trianguli]]
+[[it:Beta Trianguli]]
+[[ja:さんかく座ベータ星]]
+[[pt:Beta Trianguli]]
+[[sv:Beta Trianguli]]
+[[zh:天大将军九]]

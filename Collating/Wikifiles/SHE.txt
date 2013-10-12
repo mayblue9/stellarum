@@ -1,0 +1,74 @@
+{{Starbox begin
+| name=Mu Columbae }}
+{{Starbox observe
+| epoch=J2000
+| ra=05<sup>h</sup> 45<sup>m</sup> 59.9<sup>s</sup>
+| dec=-32° 18&prime; 23&Prime;
+| appmag_v=5.15
+| constell=[[Columba (constellation)|Columba]] }}
+{{Starbox character
+| class=O9.5 V
+| b-v=-0.28
+| u-b=-1.06
+| variable=Suspected }}
+{{Starbox astrometry
+| radial_v=+109.2
+| prop_mo_ra=3.01
+| prop_mo_dec=-22.62
+| parallax=2.52
+| p_error=0.55
+| dist_ly=1300
+| dist_pc=400
+| absmag_v=-2.84 }}
+{{Starbox detail
+| mass=12-15
+| radius=4.5
+| luminosity=23,300
+| temperature=33,700
+| metal=?
+| rotation=1.5 days (~153 km/s.)
+| age=2.7 &times; 10<sup>6</sup> }}
+{{Starbox catalog
+| names=[[Harvard Revised catalogue|HR]] 1996,  [[Cordoba Durchmusterung|CD]] -32°2538, [[Henry Draper catalogue|HD]] 38666, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 196149, [[Hipparcos catalogue|HIP]] 27204. }}
+{{Starbox end}}
+'''Mu Columbae''' (μ Col, μ Columbae) is a [[star]] in the [[constellation]] of [[Columba (constellation)|Columba]]. It is one of the few [[Stellar classification|O-class]] stars that is visible to the unaided eye. The star is known to lie approximately 1,300 [[light year]]s from our [[solar system]] (with an error margin of a few hundred light years).
+
+This is a relatively fast rotating star that completes a full revolution approximately every 1.5 days. (Compare this to our [[Sun]], which at only 22% of this star's diameter rotates only once every 25.4 days.) This rate of rotation is fairly typical for stars of this class.
+
+Based on measurements of [[proper motion]] and [[radial velocity]], astronomers know that this star and [[AE Aurigae]] are moving away from each other at a [[relative velocity]] of over 200&nbsp;km/s. Their common point of origin intersects with [[Iota Orionis]] in the [[Trapezium (astronomy)|Trapezium cluster]], some two and half million years in the past. The most likely scenario that could have created these [[runaway star]]s is a collision between two [[binary star]] systems, with the stars being ejected along different trajectories radial to the point of intersection.
+
+==Etymology==
+
+In [[Chinese astronomy]], Mu Columbae is called 屎, [[Pinyin]]: Shǐ, meaning ''	Excrement'', because this star is marking itself and stand alone in ''Excrement'' asterism, [[Three Stars (Chinese constellation)|Three Stars]] mansion (see : [[Chinese constellation]]).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060715.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 15 日]</ref> 屎 (Shǐ) westernized into '''She''' by R.H. Allen, with the meaning is "the Secretions" <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Columba_Noae*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Columbae]</ref>
+
+This star, along with [[Zeta Canis Majoris|ζ CMa]], [[Lambda Canis Majoris|λ CMa]], [[Gamma Columbae|γ Col]], [[Delta Columbae|δ Col]], [[Theta Columbae|θ Col]], [[Kappa Columbae|κ Col]], [[Lambda Columbae|λ Col]] and [[Xi Columbae|ξ Col]], were '''Al Ḳurūd''' ('''ألقرد''' - ''al-qird''), the Apes.<ref>{{cite journal
+ | last=Davis Jr. | first=G. A.
+ | title=The Pronunciations, Derivations, and Meanings of a Selected List of Star Names
+ | journal=Popular Astronomy
+ | volume=18 | page=14 | month=October | year=1944
+ | bibcode=1944PA.....52....8D }}</ref>
+
+==References==
+* A. Blaauw & W.W. Morgan, 1954, "The Space Motions of AE Aurigae and mu Columbae with Respect to the Orion Nebula", ''Astrophysical Journal'', v.119, p.&nbsp;625.
+* R. Hoogerwerf, J.H.J. de Bruijne, P.T. de Zeeuw, 2000, "The origin of runaway stars", ''Astrophysical Journal'', v.544, issue 2, pp.&nbsp;L133-L136.
+{{reflist}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/mucol.html Mu Columbae] by Professor Jim Kaler.
+{{Stars of Columba}}
+
+[[Category:Columba (constellation)]]
+[[Category:O-type main sequence stars]]
+[[Category:Runaway stars]]
+
+[[de:My Columbae]]
+[[es:Mu Columbae]]
+[[fa:مو کبوتر]]
+[[fr:Mu Columbae]]
+[[ko:비둘기자리 뮤]]
+[[it:Mu Columbae]]
+[[pt:Mu Columbae]]
+[[ro:Mu Columbae]]
+[[ru:Мю Голубя]]
+[[zh-yue:屎星]]
+[[zh:天鸽座μ]]

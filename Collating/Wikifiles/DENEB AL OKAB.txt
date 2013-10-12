@@ -1,0 +1,134 @@
+{{Starbox begin
+| name=Zeta Aquilae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Aquila IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquila constellation and its surroundings]]
+     <div style="position: absolute; left: 63.3%; top: 20.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Aquilae (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|19|05|24.60802}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+13|51|48.5182}}<ref name=aaa474_2_653/>
+| appmag_v = 2.983<ref name=sps1966/>
+| constell = [[Aquila (constellation)|Aquila]]
+}}
+{{Starbox character
+| class    = A0&nbsp;Vn<ref name=aj74_375/>
+| b-v      = +0.009<ref name=sps1966/>
+| u-b      = +0.080<ref name=sps1966/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = –25<ref name=rgcrv/>
+| prop_mo_ra  = -.25<ref name=aaa474_2_653/>
+| prop_mo_dec = –95.56<ref name=aaa474_2_653/>
+| parallax = 39.28
+| p_error  = 0.16
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 2.37<ref name=aaa487_3_1041/>
+| radius   = 2.27<ref name=apj698_2_1068/>
+| luminosity  = 39.4<ref name=apj698_2_1068/>
+| temperature = {{nowrap|9,620 ± 20}}<ref name=apj698_2_1068/>
+| gravity  = 4.17<ref name=aass85_3_1015/>
+| metal_fe = 
+| rotational_velocity = 317<ref name=aaa463_2_671/>
+| age_myr  = 100 ± 50<ref name=apj698_2_1068/>
+}}
+{{Starbox catalog
+| names = Deneb el Okab, 17&nbsp;Aql, [[Durchmusterung|BD]]+13&nbsp;3899, [[FK5]]&nbsp;716, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;4095, [[Henry Draper Catalogue|HD]]&nbsp;177724, [[Hipparcos catalogue|HIP]]&nbsp;93747, [[Bright Star Catalogue|HR]]&nbsp;7235, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;104461.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Zeta Aquilae''' (ζ Aql, ζ Aquilae) is a [[double star]] in the equatorial [[constellation]] of [[Aquila (constellation)|Aquila]]. It has the traditional name '''Deneb el Okab''', meaning "the tail of the falcon". As a third magnitude star,<ref name=sps1966/> Zeta Aquilae is readily visible with the naked eye. [[Parallax]] measurements place it at a distance of approximately {{Convert|83|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+Zeta Aquilae has a [[stellar classification]] of A0&nbsp;Vn,<ref name=aj74_375/> with the [[luminosity class]] 'V' indicating is a [[main sequence]] star that is generating energy through the [[nuclear fusion]] of hydrogen at its core. It has more than double the mass and twice the radius of the [[Sun]],<ref name=aaa487_3_1041/><ref name=apj698_2_1068/> and is radiating more than 39 times the Sun's luminosity.<ref name=apj698_2_1068/> The [[effective temperature]] of the star's outer envelope is about 9620&nbsp;K,<ref name=apj698_2_1068/> which gives it the white hue typical of A-type stars. The estimated age of this star is 50–150 million years.<ref name=aaa487_3_1041/>
+
+This star is rotating rapidly, with a [[stellar rotation|projected rotational velocity]] of 317&nbsp;km s<sup>−1</sup> giving a lower bound on the [[azimuth]]al velocity along the equator.<ref name=aaa463_2_671/> As a result, it has a pronounced equatorial bulge, causing the star to assume an [[oblate spheroid]]al shape. The equatorial radius is about 30.7% greater than the polar radius.<ref name=aaa487_3_1041/> Because of the [[Doppler effect]], this rapid rotation makes the [[absorption line]]s in the star's [[spectrum]] broaden and smear out, as indicated by the 'n' suffix in the stellar class.
+
+Astronomers use Zeta Aquilae as a telluric standard star.<ref name=mnras314_2_420/> That is, the spectrum of this star is used to correct for [[telluric contamination]] from the Earth's atmosphere when examining the spectra of neighboring stars.<ref name=niessen2007/> Observation of this star in the [[infrared]] band during the [[2MASS]] survey appeared to reveal [[infrared excess|excess emission]]. However, the distribution of this emission couldn't be readily explained by a conjectured [[debris disk|disk of circumstellar dust]].<ref name=aaa487_3_1041/> Instead, the detection was later ascribed to errors caused by saturation of the near-infrared detectors.<ref name=apj698_2_1068/>
+
+This star has two 12th magnitude companions at [[angular separation]]s of 6.5 and 158.6 [[arcsecond]]s.{{citation needed|date=January 2012}}
+
+==Etymology==
+It has the traditional names '''Deneb el Okab''', from an [[Arabic language|Arabic]] term ذنب العقاب ''ðanab al-<sup>c</sup>uqāb'' meaning "the tail of the falcon", and the [[Standard Mandarin|Mandarin]] names '''Woo''' and '''Yuë''', derived from and represent the state  '''[[Wu (state)|Wu]]''' (吳),  an old state was located at the mouth of the [[Yangtze River]], and  '''[[Yue (state)|Yue]]''' (越), an old state in [[Zhejiang]] province<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> (together with [[19 Capricorni]] or [[Psi Capricorni|ψ Capricorni]] in R.H.Allen's version,<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Capricornus*.html Star Names - R.H.Allen p.142]</ref> in ''[[Girl (Chinese constellation)|Twelve States]]'' asterism).  According to the R.H. Allen's works, it shares names with [[Epsilon Aquilae|ε Aquilae]].<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Aquila*.html Star Names - R.H.Allen p.61]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市左垣}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán}}), meaning ''[[Heavenly Market enclosure|Left Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the left borderline of the enclosure, consisting of ζ Aquilae, [[Delta Herculis|δ Herculis]], [[Lambda Herculis|λ Herculis]], [[Mu Herculis|μ Herculis]], [[Omicron Herculis|ο Herculis]], [[112 Herculis]], [[Theta1 Serpentis|θ<sup>1</sup> Serpentis]], [[Eta Serpentis|η Serpentis]], [[Nu Ophiuchi|ν Ophiuchi]], [[Xi Serpentis|ξ Serpentis]] and [[Eta Ophiuchi|η Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ζ Aquilae itself is known as {{lang|zh|天市左垣六}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán liù}}, {{lang-en|the Sixth Star of Left Wall of Heavenly Market Enclosure}}), represent the states which have mentioned above.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Dzeneb al Tair''' (from '''ذنب الطائر''' - ''ðanab aṭ-ṭā’ir''), which was translated into [[Latin]] as '''Cauda (Vulturis) Volantis''', meaning ''the eagle's tail''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+==In culture==
+The system is depicted in the computer game ''[[Descent II]]''.<ref>http://www.youtube.com/watch?v=KQCLZjyg07M#t=178s</ref>
+
+==Components==
+
+{| border="0" cellpadding="2" cellspacing="1" style="margin-right:0.5em; background:#CDC9C9;"
+! colspan="1" | Name || [[Right ascension]] || [[Declination]] || [[Apparent magnitude]] (V) || Database references
+|- bgcolor="#FFFAFA"
+| BD+13&nbsp;3899B || {{RA|01|09|42.2}} || {{DEC|+35|36|54}} || 14.4 || [http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=BD%2b13%20%203899B Simbad]
+|- bgcolor="#FFFAFA"
+| BD+13&nbsp;3899C || {{RA|01|09|35.334}} || {{DEC|+35|36|24.4}} || 12.9 || [http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=BD%2b13%20%203899C Simbad]
+|}
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=aaa487_3_1041>{{citation | display-authors=1 | last1=Absil | first1=O. | last2=di Folco | first2=E. | last3=Mérand | first3=A. | last4=Augereau | first4=J.-C. | last5=Coudé du Foresto | first5=V. | last6=Defrère | first5=D. | last6=Kervella | first6=P. | last7=Aufdenberg | first7=J. P. | last8=Desort | first8=M. | last9=Ehrenreich | first9=D. | title=A near-infrared interferometric survey of debris disc stars. II. CHARA/FLUOR observations of six early-type dwarfs | journal=Astronomy and Astrophysics | volume=487 | issue=3 | pages=1041–1054 | month=September | year=2008 | doi=10.1051/0004-6361:200810008 | bibcode=2008A&A...487.1041A |arxiv = 0806.4936 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=zet Aql -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Aquilae | accessdate=2012-01-13 }}</ref>
+
+<ref name=niessen2007>{{citation | first1=P. E. | last1=Niessen | editor1-first=Andreas | editor1-last=Kaufer | editor2-first=Florian | editor2-first=Kerber | contribution=Quantitative spectroscopy with the UVES | title=The 2007 ESO Instrument Calibration Workshop: Proceedings of the ESO Workshop Held in Garching, Germany, 23-26 January 2007 | series=Eso Astrophysics Symposia | publisher=Springer | year=2008 | isbn=3-540-76962-5 | pages=365–374 | url=http://books.google.com/books?id=k5QRClQq7JgC&pg=PA367 }}</ref>
+
+<ref name=mnras314_2_420>{{citation | last1=Kiss | first1=László L. | last2=Vinkó | first2=József | title=A photometric and spectroscopic study of the brightest northern Cepheids - III. A high-resolution view of Cepheid atmospheres | journal=Monthly Notices of the Royal Astronomical Society | volume=314 | issue=2 | pages=420–432 | month=may | year=2000 | doi=10.1046/j.1365-8711.2000.03375.x | bibcode=2000MNRAS.314..420K |arxiv = astro-ph/9912438 }}</ref>
+
+<ref name=apj698_2_1068>{{citation | display-authors=1 | last1=Plavchan | first1=Peter | last2=Werner | first2=M. W. | last3=Chen | first3=C. H. | last4=Stapelfeldt | first4=K. R. | last5=Su | first5=K. Y. L. | last6=Stauffer | first6=J. R. | last7=Song | first7=I. | title=New Debris Disks Around Young, Low-Mass Stars Discovered with the Spitzer Space Telescope | journal=The Astrophysical Journal | volume=698 | issue=2 | pages=1068–1094 | month=June | year=2009 | doi=10.1088/0004-637X/698/2/1068 | bibcode=2009ApJ...698.1068P |arxiv = 0904.0819 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=*+zet+Aql&ident=*+zet+Aql&submit=Aladin+previewer Image Zeta Aquilae]
+
+{{Stars of Aquila}}
+
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Bayer objects|Aquilae, Zeta]]
+[[Category:Aquila (constellation)]]
+[[Category:Double stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ca:Dseta Aquilae]]
+[[de:Deneb el Okab Australis]]
+[[es:Zeta Aquilae]]
+[[fa:ذنب‌العقاب]]
+[[fr:Zeta Aquilae]]
+[[id:Zeta Aquilae]]
+[[it:Zeta Aquilae]]
+[[lb:Deneb el Okab Australis]]
+[[nl:Deneb el Okab]]
+[[pt:Zeta Aquilae]]
+[[sk:Zeta Aquilae]]
+[[zh:天鷹座ζ]]

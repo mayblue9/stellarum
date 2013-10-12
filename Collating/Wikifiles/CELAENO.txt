@@ -1,0 +1,130 @@
+{{Starbox begin
+| name=Celaeno, 16 Tau}}
+{{Starbox image 
+| image = [[File:M45map.jpg|250px]]
+| caption = Celaeno is found just above [[Electra (star)|Electra]] (map right).
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|03|44|48.2154}}<ref name="aaa323">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+| dec={{DEC|+24|17|22.093}}<ref name="aaa323" />
+| appmag_v=+5.448
+| constell=[[Taurus (constellation)|Taurus]] }}
+{{Starbox character
+| class=B7IV
+| b-v=–0.046<ref name="yerkes53">{{Cite journal
+  | last=Johnson | first=H. L. | coauthors=Morgan, W. W. | title=Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectral atlas
+  | journal=Astrophysical Journal
+  | year=1953 | volume=117 | pages=313–352
+  | bibcode=1953ApJ...117..313J
+  | doi=10.1086/145697 }}</ref>
+| u-b=–0.33<ref name="yerkes53" />
+| variable= }}
+{{Starbox astrometry
+| radial_v=+2.9<ref>{{Cite book
+  | last=Wilson | first=Ralph Elmer | year=1953
+  | title=General catalogue of stellar radial velocities
+  | publisher=Carnegie Institution of Washington
+  | url=http://adsabs.harvard.edu/abs/1953QB901.W495.....
+  | accessdate=2007-05-14 }}</ref>
+| prop_mo_ra=20.73<ref name="aaa323" />
+| prop_mo_dec=–44.00<ref name="aaa323" />
+| parallax=7.53
+| p_error=1.23
+| parallax_footnote=<ref name="aj124">{{Cite journal
+  | author=Makarov, Valeri V.
+  | title=Computing the Parallax of the Pleiades from the Hipparcos Intermediate Astrometry Data: An Alternative Approach | month=December | year=2002
+  | journal=The Astronomical Journal | volume=124
+  | issue=6 | pages=3299–3304
+  | doi=10.1086/344683 | bibcode=2002AJ....124.3299M}}</ref>
+| absmag_v= }}
+{{Starbox detail
+| mass=~9 - 10
+| radius=4.4<ref name="CADARS" />
+| luminosity=
+| temperature=12,800<ref name="aj100" />
+| metal=
+| rotation=
+| rotational_velocity=185<ref name="sprc" />
+| gravity=3.9<ref name="aj100" />
+| age= }}
+{{Starbox catalog
+| names=16 Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1140, [[Henry Draper Catalogue|HD]]&nbsp;23288, [[Star catalogue#BD/CD/CPD|BD]]+23&nbsp;505, [[Hipparcos catalogue|HIP]]&nbsp;17489, [[Star catalogue#SAO|SAO]]&nbsp;76126, GC&nbsp;4475.<ref name="SIMBAD">{{Cite web
+  | title=Celeno | work=SIMBAD
+  | publisher=Centre de Données astronomiques de Strasbourg
+  | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=celeno | accessdate=2009-10-10 }}</ref>
+ }}
+{{Starbox end}}
+'''Celaeno''' ('''Celeno''' or '''16 Tauri''') is a [[star]] in the [[constellation]] [[Taurus (constellation)|Taurus]] and a member of the [[Pleiades (star cluster)|Pleaides]] [[open cluster]] of stars. Celaeno is sometimes called the ''Lost Pleiad'',<ref>{{Cite book
+  | first=Richard Hinckley | last=Allen | year=1899
+  | page=407 | title=Star-names and their meanings
+  | publisher=G. E. Stechert
+  | url=http://books.google.com/books?id=5xQuAAAAIAAJ
+  | accessdate=2009-10-10 }}</ref> a name alluded to in a poem by [[Alfred Austin]]. Star gazers often only see six of the [[Pleiades_(star_cluster)#Brightest_stars_in_Pleiades|seven Pleiades sisters]] with the unaided eye because Celaeno, with an apparent magnitude of +5.45, requires clear, dark clear skies to be observed.
+
+16 Tauri is a blue-white [[stellar classification|B-type]] [[subgiant]] with an [[apparent magnitude]] of +5.45. It is approximately 430 [[light years]] from [[Earth]];<ref name="aj124" /> about the same distance as the Pleiades. The [[interstellar extinction]] of this star is fairly small at 0.05 magnitudes.<ref>{{Cite journal
+  | author=Breger, M. | year=1984 | month=August
+  | title=The Pleiades cluster. I - Polarization and reddening of the brighter stars | pages=145–148
+  | journal=Astronomy and Astrophysics | volume=137
+  | issue=1 | bibcode=1984A&A...137..145B
+  | accessdate=2009-10-10 }}</ref> The projected rotational velocity of the equator is 185&nbsp;km/s.<ref name="sprc">{{Cite conference
+  | author=Abt, Helmut A.; Levato, Hugo; Grosso, Monica | editors=K. S. Cheng, K. C. Leung, T. P. Li
+  | title=Rotational velocities of B stars
+  | booktitle=Proceedings, Stellar astrophysics - a tribute to Helmut A. Abt. Sixth Pacific Rim Conference
+  | location=Xi'an, China | date=July 11–17, 2002
+  | publisher=Kluwer Academic Publishers
+  | isbn=1-4020-1683-2 | pages=165–172 }} Vizier table J/ApJ/573/359.</ref> It is over four times the [[Solar radius|radius of the Sun]] and has a surface temperature of 12,800&nbsp;K.<ref name="CADARS">{{Cite web
+  | author=Pasinetti-Fracassini, L. E.; Pastori, L.; Covino, S.; Pozzi, A. | month=November | year=2000
+  | title=Catalogue of Stellar Diameters (CADARS) (Pasinetti-Fracassini+ 2001)
+  | work=VizieR On-line Data Catalog: II/224
+  | url=http://cdsarc.u-strasbg.fr/cgi-bin/qcat?II/224
+  | accessdate=2009-10-10 }}</ref><ref name="aj100">{{Cite journal
+  | unused_data=1994-2003
+  | author=Wolff, Sidney C. | year=1990
+  | title=Luminosities, masses, and ages of B-type stars
+  | pages=1994
+  | journal=Astronomical Journal | volume=100
+  | month=December
+  | doi=10.1086/115654
+| bibcode=1990AJ....100.1994W}}</ref>
+
+
+==Namesakes==
+[[USS Celeno (AK-76)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+
+==References==
+{{Reflist|2}}
+{{Stars of Taurus}}
+
+{{DEFAULTSORT:Celaeno (Star)}}
+[[Category:Flamsteed objects|Tauri, 16]]
+[[Category:Taurus (constellation)]]
+[[Category:B-type subgiants]]
+[[Category:Pleiades Open Cluster]]
+[[Category:Stars with proper names]]
+
+[[ar:سالينو (نجم)]]
+[[cs:Celaeno]]
+[[de:Celaeno]]
+[[es:Celeno (estrella)]]
+[[fr:16 Tauri]]
+[[ko:켈라에노 (항성)]]
+[[it:Celeno (astronomia)]]
+[[la:Celaeno (stella)]]
+[[lb:Celaeno (Stär)]]
+[[nl:Celaeno]]
+[[ja:ケラエノ]]
+[[no:Celaeno (stjerne)]]
+[[nds:Celaeno]]
+[[pl:Celaeno (gwiazda)]]
+[[ru:Целено (звезда)]]
+[[sk:Celaeno]]
+[[zh:昴宿增九]]

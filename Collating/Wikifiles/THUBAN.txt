@@ -1,0 +1,168 @@
+{{About|the star|AMD's Thuban processor core|Phenom II}}
+:''Th'uban is also an enemy in the video game [[Final Fantasy X]].''
+{{Starbox begin
+| name=Thuban, α Dra}}
+{{Starbox image
+| image=[[File:Draco constellation map.png|250px]]
+| caption=Location of α Draconis (center right).}}
+{{Starbox observe
+ |epoch=J2000
+  | ra={{RA|14|04|23.3498}}<ref name="SIMBAD">{{cite web
+  | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Draconis
+  | title =SIMBAD query result: NAME THUBAN -- Spectroscopic binary
+  | publisher =Centre de Données astronomiques de Strasbourg
+  | accessdate =2010-12-16}}</ref>
+  | dec={{DEC|64|22|33.062}}<ref name="SIMBAD"/>
+  | appmag_v=3.6452 <ref name="LEEUWEN"/>
+  | constell=[[Draco (constellation)|Draco]]}}
+{{Starbox character
+  | class=A0III <ref name="LEEUWEN"/>
+|b-v=-0.05 <ref name="MERMILLIOD">{{cite journal
+  | author=Mermilliod, J.-C.
+  | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished)
+  | journal=Catalogue of Eggen's UBV data.
+  | year=1986
+  | origin=SIMBAD 
+  | bibcode=1986EgUBV........0M}}</ref>
+  |u-b=-0.08<ref name="MERMILLIOD"/>
+  | variable=None }}
+{{Starbox astrometry
+  | radial_v=-13.0
+  | prop_mo_ra=-56.34 <ref name="LEEUWEN"/>
+  | prop_mo_dec= 17.21 <ref name="LEEUWEN"/>
+  | gal_lat=+50.9588
+  | gal_lon=110.5237
+  | parallax=10.76
+  | p_error=0.17
+  |parallax_footnote=<ref name="LEEUWEN">{{cite journal
+    | title=Hipparcos, the New Reduction
+    | author=van Leeuwen, F
+    | year=2007
+    | month=November
+    | work=[[VizieR]] 
+    | publisher=[[Centre de Données astronomiques de Strasbourg]]
+    | pages=653–664
+    | issue=2
+    | volume=474 
+    | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2068756
+    | doi=10.1051/0004-6361:20078357
+    | journal=Astronomy and Astrophysics
+    | bibcode=2007A&A...474..653V
+    | accessdate=2010-12-16|arxiv = 0708.1752 }}</ref>
+  |absmag_v=-1.20 <ref name="LEEUWEN"/>}}
+{{Starbox detail
+  | mass=3.85
+  | luminosity=300<ref name="KALER">{{cite web
+    |title=THUBAN (Alpha Draconis)
+    |publisher=University of Illinois
+    |author=Professor James B. (Jim) Kaler
+    |url=http://stars.astro.illinois.edu/sow/thuban.html
+    |accessdate=2010-12-16}}</ref>  
+  | radius=6.75}}
+{{Starbox visbin |
+  name=Alpha Draconis B |
+  period=0.13963 |
+  axis= |
+  eccentricity= |
+  inclination= |
+  node= |
+  periastron= }}
+{{Starbox catalog
+| names= [[Bayer designation|Alpha&nbsp;Draconis]], [[Guide Star Catalog|GSC]]&nbsp;04174-01262, [[2MASS]]&nbsp;J14042335+6422331, [[Flamsteed designation|11&nbsp;Dra]], [[Henry Draper Catalogue|HD]]&nbsp;123299, [[Astronomische Gesellschaft Katalog|AG]]+64°&nbsp;666, [[General Catalogue of Trigonometric Stellar Parallaxes|PLX]]&nbsp;3209, [[Tycho Catalogue|TYC]]&nbsp;4174-1262-1, [[Bonner Durchmusterung|BD]]+65°&nbsp;978, [[FK5]]&nbsp;521, [[Hipparcos catalogue|HIP]]&nbsp;68756, [[PPM Star Catalogue|PPM]]&nbsp;18861, [[Boss General Catalogue|GC]]&nbsp;19019, [[Bright Star Catalogue|HR]]&nbsp;5291, [[IRAS]]&nbsp;14030+6436, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;16273}}
+{{Starbox reference |
+  Simbad=Alpha+Draconis }}
+{{Starbox end}}
+
+'''Thuban''' also known by its [[Bayer designation]] '''Alpha Draconis''' (α Draconis, α Dra) is a [[star]] (or star system) in the [[constellation]] of [[Draco (constellation)|Draco]]. A relatively inconspicuous star in the night sky of the [[Northern Hemisphere]], it is historically significant as having been the north [[pole star]] in ancient times. Thuban is an [[Arabic]] word for [[snake]] {{lang|ar|ثعبان}} ''{{transl|ar|DIN|thuʿbān}}''.
+
+Even though [[Johann Bayer]] gave Thuban the designation [[Alpha]], its [[apparent magnitude]] of 3.65  is 3.7 times fainter than the brightest star in the constellation, [[Gamma Draconis]] (Eltanin), whose apparent magnitude is 2.24. <!--The Alpha designation is apparently due to its history as the ancient pole star.{{Fact|date=January 2008}}-->
+
+== Visibility ==
+Given good viewing conditions, Thuban is relatively easy to spot in the night sky, due to its location in relation to the [[Big Dipper]] [[Asterism (astronomy)|asterism]] of [[Ursa Major]]. While it is well known that the two outer stars of the 'dipper' point to the modern-day [[pole star]] [[Polaris]], it is less well known that the two inner stars, [[Gamma Ursae Majoris|Phecda]] and [[Delta Ursae Majoris|Megrez]], point to Thuban, just 15 degrees of arc from Megrez.  Thuban is not bright enough to be viewed from badly [[light pollution|light-polluted]] areas.
+
+=== Pole star ===
+[[File:Precession N.gif|thumb|left|Precession of the equinoxes for the Pole Star. Thuban is toward the right of the image, below the -2000 mark.]]
+Due to the [[Precession (astronomy)|precession]] of [[Earth]]'s rotational axis, Thuban was the naked-eye star closest to the [[north pole]] from 3942 BC, when it moved farther north than [[Theta Boötis]], until 1793 BC, when it was superseded by [[Kappa Draconis]]. It was closest to the pole in 2787 BC, when it was less than two and a half arc-minutes away from the pole. It remained within one degree of true north for nearly 200 years afterwards, and even 900 years after its closest approach, was just five degrees off the pole. Thuban was considered the pole star until about 1900 BC, when the much brighter [[Beta Ursae Minoris|Kochab]] began to approach the pole as well.
+
+Having gradually drifted away from the pole over the last 4,800 years, Thuban is now seen in the night sky at a [[declination]] of 64° 20' 45.6", [[Right ascension|RA]] 14h 04m 33.58s. After moving nearly 47 degrees off the pole by 10000 AD, Thuban will gradually move back toward the north celestial pole. In 20346 AD, it will again be the pole star, that year reaching a maximum declination of 88° 43' 17.3", RA 19h 08m 54.17s.
+
+{| class="wikitable" cellpadding="2" style="margin: 1em auto 1em auto;"
+! width="120" align="center"|Preceded by
+! width="160" align="center"|[[Pole Star]]
+! width="120" align="center"|Succeeded by
+|-
+|align="center"|'''''(unknown)'''''
+|align="center"|c. 4000 BC–1900 BC
+|align="center"|[[Kochab]] & [[Pherkad]]
+|}
+
+== Properties ==
+
+Thuban has a [[stellar classification|spectral class]] of A0III, indicating its similarity to [[Vega]] in temperature and [[electromagnetic spectrum|spectrum]], but more luminous and more massive. Thuban is not a [[main sequence]] star; it has now ceased [[hydrogen]] [[nuclear fusion|fusion]] in its core and is fusing [[helium]]. That makes it a white giant star, being 250 times more luminous than our [[Sun]] but over 300 [[light-year]]s distant.
+
+Thuban has no real anomalies other than the relative rarity of being a giant star in the A class, which is usually reserved for main sequence stars and the occasional supergiant. This indicates that Thuban has not been a giant star for very long and may well still be in the process of expanding, probably to eventually become a K class red-orange giant of the [[Aldebaran]] sort. It may also mean that it has recently run out of helium to fuse and is contracting before starting to burn [[carbon]], in which case it may end up a [[blue giant]] such as [[Beta Centauri]].
+
+Thuban is a [[binary star]], with a companion star in a 51-day orbit. The companion has not been directly imaged, and from its mass is probably a [[red dwarf]] or a low mass [[white dwarf]].
+
+== Etymology ==
+In [[Chinese language|Chinese]], {{lang|zh|紫微右垣}} ({{lang|zh-Latn|Zǐ Wēi Yòu Yuán}}), meaning ''[[Purple Forbidden enclosure|Right Wall of Purple Forbidden Enclosure]]'', refers to an asterism consisting of α Draconis, [[Kappa Draconis|κ Draconis]], [[Lambda Draconis|λ Draconis]], [[24 Ursae Majoris]], [[43 Camelopardalis]], [[Alpha Camelopardalis|α Camelopardalis]] and [[BK Camelopardalis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Draconis itself is known as {{lang|zh|紫微右垣一}} ({{lang|zh-Latn|Zǐ Wēi Yòu Yuán yī}}, {{lang-en|the First Star of Right Wall of Purple Forbidden Enclosure}}.),<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> representing {{lang|zh|右樞}} ({{lang|zh-Latn|Yòushū}}), meaning ''Right Pivot''.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#PrupleForbiddenEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> 右樞 (Yòushū) is westernized into '''Yu Choo''' by R.H. Allen with the same meaning.<ref name="ALLEN">{{Cite web
+| title=Star Names: Their Lore and Meaning 
+| work=Dover Publications 
+| author=Richard Hinckley Allen 
+| page=210 
+| year=1963 
+| accessdate=2010-12-17
+|url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html 
+| authorlink=Richard Hinckley Allen}}</ref>
+
+==See also==
+* [[Lists of stars]] in the constellation [[List of stars in Draco|Draco]]
+* [[Stellar classification#Class A|Class A Stars]]
+* [[Giant star]]
+* [[Stars and planetary systems in fiction#Alpha Draconis (Thuban)|Thuban in fiction]]
+
+==References==
+{{Reflist|colwidth=25em}}
+
+== External links ==
+*Jim Kaler's Stars, University of Illinois:[http://www.astro.uiuc.edu/~kaler/sow/thuban.html THUBAN (Alpha Draconis)]
+*NASA's: [http://www-istp.gsfc.nasa.gov/stargaze/Sprecess.htm History of Precession]
+*Crystalinks:[http://www.crystalinks.com/precession.html Precession of the Equinoxes]
+
+{{Stars of Draco}}
+
+{{Sky|14|04|23.3498|+|64|22|33.062|310}}
+
+[[Category:Henry Draper Catalogue objects|123299]]
+[[Category:Hipparcos objects|068756]]
+[[Category:HR objects|5291]]
+[[Category:Bayer objects|Draconis, Alpha]]
+[[Category:Flamsteed objects|Draconis, 11]]
+[[Category:Binary stars]]
+[[Category:Draco (constellation)]]
+[[Category:A-type giants]]
+[[Category:Northern pole stars]]
+[[Category:Stars with proper names]]
+[[Category:Spectroscopic binaries]]
+
+[[ar:الثعبان (نجم)]]
+[[ca:Thuban]]
+[[de:Thuban]]
+[[el:Θουμπάν]]
+[[es:Thuban]]
+[[fa:ثعبان]]
+[[fr:Alpha Draconis]]
+[[ko:투반]]
+[[id:Alpha Draconis]]
+[[it:Thuban]]
+[[lb:Thuban (Stär)]]
+[[nl:Thuban]]
+[[ja:トゥバン]]
+[[pl:Thuban]]
+[[pt:Thuban]]
+[[ro:Thuban]]
+[[ru:Тубан]]
+[[sk:Thuban]]
+[[sh:Thuban]]
+[[tt:Сөгъбан]]
+[[zh:右樞]]

@@ -1,0 +1,95 @@
+{{Refimprove|date=December 2009}}
+{{Starbox begin
+| name = Upsilon Orionis 
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equino = [[J2000.0]]
+| constell = [[Orion (constellation)|Orion]] 
+| pronounce = 
+| ra = {{RA|5|31|55.80}}
+| dec = {{DEC|-07|18|05.00}}
+| appmag_v = +4.62
+}}
+{{Starbox character
+| class = B0&nbsp;V<ref name=baas25_1319/>
+| appmag_1_passband = 
+| appmag_1 = 
+| appmag_2_passband = 
+| appmag_2 =
+| appmag_3_passband = 
+| appmag_3 = 
+| appmag_4_passband = 
+| appmag_4 = 
+| appmag_5_passband = 
+| appmag_5 = 
+| appmag_6_passband = 
+| appmag_6 = 
+| appmag_7_passband = 
+| appmag_7 = 
+| appmag_8_passband = 
+| appmag_8 = 
+| r-i = 
+| v-r = 
+| b-v = -0.26
+| u-b = -1.07
+| j-h = 
+| j-k = 
+| variable = Variable Star
+}}
+{{Starbox astrometry
+ | radial_v = +17.4
+ | prop_mo_ra = -0.54
+ | prop_mo_dec = -4.44
+ | parallax = 2.11
+ | p_error = 0.74
+ | parallax_footnote = 
+ | dist_ly = 1,545.02
+ | dist_pc = 473.93 
+ | absmag_v = -3.75
+ }}
+{{Starbox detail
+| source              =   
+| mass                = 20.6 
+| radius              = 6.68
+| gravity             = 4.42
+| luminosity          = 39,800 
+| luminosity_bolometric = 
+| luminosity_visual   =   
+| temperature         = 31,560
+| metal               = 25% [[Sun]]   
+| rotation            =   
+| rotational_velocity = +17.4  
+| age                 =   
+| age_gyr             =   
+}}
+{{Starbox catalog
+| names = Upsilon Orionis, υ Ori, 36 Orionis, HD 36512, HIP 25923
+}}
+{{Starbox end}}
+
+'''Upsilon Orionis''' (υ Ori, υ Orionis) is a [[star]] in the [[constellation]] [[Orion (constellation)|Orion]]. It has the traditional name '''Thabit''' ([[Arabic language|Arabic]] for "the imperturbable one"). Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/>
+
+Thabit belongs to the [[Stellar classification|spectral class]] B0V and has [[apparent magnitude]] +4.62. Thabit is approximately 1545 [[light year]]s from [[Earth]].
+
+==References==
+{{reflist|refs=
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+}}
+{{Stars of Orion}}
+
+[[Category:Orion (constellation)]]
+[[Category:Bayer objects|Orionis, Upsilon]]
+[[Category:Stars with proper names]]
+
+[[de:Ypsilon Orionis]]
+[[fa:اوپسیلون شکارچی]]
+[[id:Upsilon Orionis]]
+[[it:Upsilon Orionis]]
+[[lb:Thabit (Stär)]]
+[[nl:Thabit]]
+[[pt:Upsilon Orionis]]
+[[sk:Thabit]]
+[[zh:参宿增卅六]]

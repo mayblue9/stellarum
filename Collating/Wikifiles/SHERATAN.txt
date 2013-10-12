@@ -1,0 +1,145 @@
+{{Starbox begin
+| name=Beta Arietis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Aries IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aries constellation and its surroundings]]
+     <div style="position: absolute; left: 167px; top: 98px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Arietis (circled)
+}}
+{{Starbox observe
+| epoch=J2000
+| ra       = {{RA|01|54|38.41099}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+20|48|28.9133}}<ref name=aaa474_2_653/>
+| appmag_v = 2.655<ref name=sps1966/>
+| constell = [[Aries (constellation)|Aries]]
+}}
+{{Starbox character
+| class    = A5&nbsp;V<ref name=apj658_2_1264/>
+| b-v      = +0.142<ref name=sps1966/>
+| u-b      = +0.170<ref name=sps1966/>
+| variable =
+}}
+{{Starbox astrometry
+| radial_v    = -1.9<ref name=gcsrv/>
+| prop_mo_ra  = +98.74<ref name=aaa474_2_653/>
+| prop_mo_dec = -110.41<ref name=aaa474_2_653/>
+| parallax    = 54.74
+| p_error     = 0.75
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v    = {{nowrap|1.55 ± 0.09}}<ref name=mnras382_3_1073/>
+}}
+{{Starbox visbin
+| name         = Beta Arietis B
+| reference    = <ref name=apj356_641/>
+| period_unitless = {{nowrap|106.9954 ± 0.0005 days}}
+| axis_unitless = {{nowrap|36.1 ± 0.3 [[milliarcseconds|mas]]}}
+| eccentricity = {{nowrap|0.903 ± 0.012}}
+| inclination  = {{nowrap|44.7 ± 1.3}}
+| node         = {{nowrap|79.1 ± 0.8}}
+| periarg      = {{nowrap|209.1 ± 1.2}}
+}}
+{{Starbox detail
+| component1  = A
+| mass        = {{nowrap|2.34 ± 0.10}}<ref name=apj356_641/>
+| radius      = 
+| luminosity  = 23<ref name=apj356_641/>
+| temperature = 9,000<ref name=aaass27_35/>
+| gravity     = 4.0<ref name=aaass27_35/>
+| metal_fe    = 0.16<ref name=aaass27_35/>
+| rotational_velocity = 73<ref name=aaa463_2_671/>
+| age_gyr     = 0.3<ref name=aj126_4_2048/>
+| component2  = B
+| mass2       = {{nowrap|1.34 ± 0.07}}<ref name=apj356_641/>
+| luminosity2 = 1.3<ref name=apj356_641/>
+}}
+{{Starbox catalog
+| names = Sheratan, Sharatan, Al Sharatain,<ref name=allen1899/> 6 Arietis, [[Henry L. Giclas catalogue|Gl]] 80, [[Harvard Revised catalogue|HR]] 553, [[Bonner Durchmusterung|BD]] +20°306, [[Henry Draper catalogue|HD]] 11636, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 75012, [[Fifth Fundamental Catalogue|FK5]] 66, [[Hipparcos catalogue|HIP]] 8903.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+11636
+| ARICNS = 00161
+}}
+{{Starbox end}}
+
+'''Beta Arietis''' (β Ari, β Arietis) is a [[binary star]] system in the [[constellation]] [[Aries (constellation)|Aries]], marking the Ram's second horn. It has the traditional name '''Sheratan''' (or ''Sharatan, Sheratim),''<ref name=allen1899/> and the [[Flamsteed designation]] '''6 Arietis'''. The traditional name, in full ''Al Sharatan,'' is from the Arabic الشراطان ''aš-šarāţān'' "the two signs", a reference to the star having marked the northern vernal equinox together with [[Gamma Arietis]] several thousand years ago.{{Citation needed|date=December 2011}}
+
+In [[Chinese language|Chinese]], {{lang|zh|婁宿}} ({{lang|zh-Latn|Lóu Su}}), meaning ''[[Bond (Chinese constellation)|Bond]] (asterism)'', refers to an asterism consisting of β Arietis, [[Gamma Arietis|γ Arietis]] and [[Alpha Arietis|α Arietis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Arietis itself is known as {{lang|zh|婁宿一}} ({{lang|zh-Latn|Lóu Su yī}}, {{lang-en|the First Star of Bond}}).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_s.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Beta Arietis has an [[apparent visual magnitude]] of 2.66. Based on [[parallax]] measurements, it is located at a distance of {{Convert|59.6|ly|pc|abbr=off|lk=on}} from Earth. This is a [[spectroscopic binary]] star system consisting of a pair of stars orbiting around each other with a separation that can not currently be resolved with a conventional telescope. However, the pair have been resolved using the [[Mark III Stellar Interferometer]] at the [[Mount Wilson Observatory]]. This allows the [[orbital elements]] to be computed, as well as the individual masses of the two stars. The stars complete their highly [[elliptical orbit]] every 107 days.<ref name=apj356_641/>
+
+The primary star has a [[stellar classification]] of A5&nbsp;V, which means it is an [[A-type main sequence star]] that is generating energy through the [[thermonuclear fusion]] of hydrogen in its core region.<ref name=apj658_2_1264/> The [[NStars]] project gives the star an spectral type of kA4&nbsp;hA5&nbsp;mA5&nbsp;Va under the revised [[MK spectral classification]] system.<ref name=aj126_4_2048/> The spectrum of the secondary star has not been determined, but, based on the mass, it may have a [[stellar classification]] of F5&nbsp;III–V or G0&nbsp;V. It is about four magnitudes fainter than the primary; hence the energy output from the system is dominated by the primary star.<ref name=apj356_641/> In a few million years, as the primary evolves toward a [[red giant]], significant amounts of mass transfer to the secondary component is expected.<ref name=mnras384_1_173/>
+
+The primary has been classified as a rapid rotator, with a [[stellar rotation|projected rotational velocity]] of 73&nbsp;km/s providing a lower bound on the [[azimuth]]al rotational velocity along the equator.<ref name=aaa463_2_671/> It may also be a mildly [[Am star]], which is a class of stars that show a peculiar spectrum with strong [[absorption line]]s from various elements and deficiencies in others. In β Arietis, these absorption lines are broadened because of the [[Doppler effect]] from the rotation, making analysis of the abundance patterns difficult.<ref name=aaass27_35/>
+
+This system has been examined with the [[Spitzer Space Telescope]] for the presence of an [[infrared excess|excess emission of infrared]], which would indicate a disk of dust. However, no significant excess was detected.<ref name=aj126_4_2048/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation| first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaass27_35>{{citation | last1=Mitton | first1=J. | title=Spectroscopic observations and curve-of-growth analyses of the four A stars omicron Peg, beta Ari, kappa Ari and 32 Vir. | journal=Astronomy and Astrophysics, Supplement Series | volume=27 | pages=35–46 | month=January | year=1977 | bibcode=1977A&AS...27...35M }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=sps1966>{{cite journal | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=apj658_2_1264>{{citation | display-authors=1 | last1=Trilling | first1=D. E. | last2=Stansberry | first2=J. A. | last3=Stapelfeldt | first3=K. R. | last4=Rieke | first4=G. H. | last5=Su | first5=K. Y. L. | last6=Gray | first6=R. O. | last7=Corbally | first7=C. J. | last8=Bryden | first8=G. | last9=Chen | first9=C. H. | title=Debris disks in main-sequence binary systems | journal=The Astrophysical Journal | volume=658 | issue=2 | pages=1264–1288 | month=April | year=2007 | doi=10.1086/511668 | bibcode=2007ApJ...658.1289T |arxiv = astro-ph/0612029 }}</ref>
+
+<ref name=aj126_4_2048>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Robinson | first5=P. E. | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 Parsecs: The Northern Sample. I. | journal=The Astronomical Journal | volume=126 | issue=4 | pages=2048–2059 | month=October | year=2003 | doi=10.1086/378365 | bibcode=2003AJ....126.2048G |arxiv = astro-ph/0308182 }}</ref>
+
+<ref name=mnras382_3_1073>{{citation | last1=Malkov | first1=O. Yu. | title=Mass-luminosity relation of intermediate-mass stars | journal=Monthly Notices of the Royal Astronomical Society | volume=382 | issue=3 | pages=1073–1086 | month=December | year=2007 | doi=10.1111/j.1365-2966.2007.12086.x | bibcode=2007MNRAS.382.1073M }}</ref>
+
+<ref name=apj356_641>{{citation | display-authors=1 | last1=Pan | first1=X. P. | last2=Shao | first2=M. | last3=Colavita | first3=M. M. | last4=Mozurkewich | first4=D. | last5=Simon | first5=R. S. | last6=Johnston | first6=K. J. | title=Apparent orbit of the spectroscopic binary Beta Arietis with the time Mark III Stellar Interferometer | journal=Astrophysical Journal | volume=356 | pages=641–645 | year=1990 |doi=10.1086/168870 | bibcode=1990ApJ...356..641P }}</ref>
+
+<ref name=allen1899>{{citation | title=Star-Names and Their Meanings | last=Allen | first=Richard Hinckley | authorlink=Richard Hinckley Allen | year=1899 | publisher=G. E. Stechert | location=New York | pages=81–82 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA81 | accessdate=2011-12-24 }}</ref>
+
+<ref name=mnras384_1_173>{{citation | last1=Fuhrmann | first1=Klaus | title=Nearby stars of the Galactic disc and halo - IV | journal=Monthly Notices of the Royal Astronomical Society | volume=384 | issue=1 | pages=173–224 | month=February | year=2008 | doi=10.1111/j.1365-2966.2007.12671.x | bibcode=2008MNRAS.384..173F }}</ref>
+
+<ref name=SIMBAD>{{citation | title=bet Ari -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Arietis | accessdate=2011-12-29 }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?GJ%2080 GJ 80] Catalog
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=01+54+38.4091%2B20+48+28.926&ident=SV*+ZI+++101&submit=Aladin+previewer Image Beta Arietis]
+* [http://www.astro.uiuc.edu/~kaler/sow/sheratan.html Beta Arietis] by Professor Jim Kaler.
+* [http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00161.htm ARICNS entry]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+
+{{Stars of Aries}}
+
+[[Category:Henry Draper Catalogue objects|11636]]
+[[Category:Binary stars]]
+[[Category:Hipparcos objects|08903]]
+[[Category:Aries (constellation)]]
+[[Category:Bayer objects|Arietis, Beta]]
+[[Category:Flamsteed objects|Arietis, 6]]
+[[Category:A-type main sequence stars]]
+[[Category:Spectroscopic binaries]]
+[[Category:G-type stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الشرطان (نجم)]]
+[[ca:Beta Arietis]]
+[[cs:Sheratan]]
+[[de:Sheratan]]
+[[es:Sheratan]]
+[[fa:شرطان]]
+[[fr:Beta Arietis]]
+[[ko:양자리 베타]]
+[[id:Beta Arietis]]
+[[it:Beta Arietis]]
+[[lb:Sheratan (Stär)]]
+[[nl:Sharatan]]
+[[pl:Beta Arietis]]
+[[pt:Beta Arietis]]
+[[ru:Бета Овна]]
+[[sk:Sheratan]]
+[[uk:Шератан]]
+[[zh:娄宿一]]

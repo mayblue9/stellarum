@@ -1,0 +1,103 @@
+{{Starbox begin
+ | name = Lambda Velorum
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Vela IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Vela constellation and its surroundings]]
+     <div style="position: absolute; left: 58.4%; top: 35.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of λ Velorum (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|09|07|59.75787}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|-43|25|57.3273}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.21<ref name=clpl4_99/>
+ | constell = [[Vela (constellation)|Vela]]
+}}
+{{Starbox character
+ | class    = K4.5&nbsp;Ib-II<ref name=mnras408_4_2290/>
+ | b-v      = +1.65<ref name=clpl4_99/>
+ | u-b      = +1.80<ref name=clpl4_99/>
+ | variable = [[slow irregular variable|LC]]<ref name=al32_9_604/>
+}}
+{{Starbox astrometry
+ | radial_v = +18.4<ref name=gcsrv/>
+ | prop_mo_ra  = -24.01<ref name=aaa474_2_653/>
+ | prop_mo_dec = +13.52<ref name=aaa474_2_653/>
+ | parallax = 5.99
+ | p_error  = 0.11
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = {{nowrap|8.5 ± 0.3}}<ref name=mnras410_1_190/>
+ | radius   = 207<ref name=kaler/>
+ | gravity  = 1.4<ref name=aj1_232_797/>
+ | metal_fe = +0.23<ref name=aj1_232_797/>
+ | age_myr  = {{nowrap|31.6 ± 1.7}}<ref name=mnras410_1_190/>
+ | luminosity  = 10,000<ref name=kaler/>
+ | temperature = 4,235<ref name=aj1_232_797/>
+ | rotational_velocity = 
+}}
+{{Starbox catalog
+ | names=Alsuhail, Al Suhail al Wazn, Suhail, Al' Sukhal', [[Cordoba Durchmusterung|CD]] -42°4990, [[FK5]] 345, [[Henry Draper catalogue|HD]] 78647, [[Hipparcos catalogue|HIP]] 44816, [[Harvard Revised catalogue|HR]] 3634,  [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 220878.
+}}
+{{Starbox end}}
+'''Lambda Velorum''' (λ Vel or λ Velorum) is a [[star]] in the southern [[constellation]] of [[Vela (constellation)|Vela]].  It has the traditional name '''[[Suhail]]''', which, confusingly, is sometimes used for [[Gamma Velorum]]. With an mean [[apparent visual magnitude]] of 2.21,<ref name=clpl4_99/> this is the [[List of stars in Vela|third brightest]] star in the constellation and one of the [[List of brightest stars|brighter stars]] in the sky. The distance to this star can be measured directly using the [[parallax]] technique, yielding an estimated {{Convert|545|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+Lambda Velorum is an [[stellar evolution|evolved]] star that is part way between the [[bright giant]] and [[supergiant]] stages, with a [[stellar classification]] of K4.5&nbsp;Ib-II.<ref name=mnras408_4_2290/> This star has exhausted the hydrogen in its core region and now generates part of its energy through the [[nuclear fusion]] of helium at the core. In the process, the star's outer envelope has expanded to form a deep, [[convection zone|convective]], [[hydrogen burning]] layer that is generating a [[stellar magnetic field|magnetic field]]. The surface strength of this field has been measured at {{nowrap|1.72 ± 0.33 [[Gauss (unit)|G]]}}.<ref name=mnras408_4_2290/> It is an LC-type, [[slow irregular variable|slow irregular]] [[variable star]] with its brightness varying between apparent magnitudes +2.14 to +2.30.<ref name=al32_9_604/>
+
+This star has about 8.5<ref name=mnras410_1_190/> times the mass of the Sun, placing it at the lower edge of the mass range where a star will end its life as a [[Type II supernova]].<ref name=mnras408_4_2290/> Massive stars use their [[hydrogen]] "fuel" much faster than do smaller stars and Lambda Velorum is estimated to be only some 32 million years old.<ref name=mnras410_1_190/> The outer envelope has an [[effective temperature]] of 4,235&nbsp;K,<ref name=aj1_232_797/> giving it the cool orange hue of a K-type star.<ref name=csiro/>
+
+==Etymology==
+The medieval name Suhail (Al Suhail, Alsuhail, Suhail Alwazn) is short for the Arabic السهيل الوزن ''suhayl al-[[wazn]]'' "The glorious (star) of the cycle". Sometimes also seen is '''Suhail''' ('''al''') '''Muhlif''', also used for [[Gamma Velorum]].
+
+In [[Chinese astronomy]], Suhail is called 天記, [[Pinyin]]: Tiānjì, meaning ''Judge for Estimating the Age of Animals'', because this star is marking itself and stand alone in ''Judge for Estimating the Age of Animals'' asterism, [[Ghost (Chinese constellation)|Ghost]] mansion (see : [[Chinese constellation]]).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060629.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 29 日]</ref> 天記 (Tiānjì), westernized into '''Tseen Ke''', but the name ''Tseen Ke'' was designated for [[Psi Velorum|ψ Vel]] by R. H. Allen works and the meaning is "Heaven's Record".<ref name=Allen/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj1_232_797>{{citation | last1=Luck | first1=R. E. | title=The chemical compositions of nine southern supergiant stars | journal=Astrophysical Journal, Part 1 | volume=232 | pages=797–806 | month=September | year=1979 | doi=10.1086/157340 | bibcode=1979ApJ...232..797L }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=mnras408_4_2290>{{citation | display-authors=1 | last1=Grunhut | first1=J. H. | last2=Wade | first2=G. A. | last3=Hanes | first3=D. A. | last4=Alecian | first4=E. | title=Systematic detection of magnetic fields in massive, late-type supergiants | journal=Monthly Notices of the Royal Astronomical Society | volume=408 | issue=4 | pages=2290–2297 | month=November | year=2010 | doi=10.1111/j.1365-2966.2010.17275.x | bibcode=2010MNRAS.408.2290G |arxiv = 1006.5891 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=al32_9_604>{{citation | display-authors=1 | last1=Ruban | first1=E. V. | last2=Alekseeva | first2=G. A. | last3=Arkharov | first3=A. A. | last4=Hagen-Thorn | first4=E. I. | last5=Galkin | first5=V. D. | last6=Nikanorova | first6=I. N. | last7=Novikov | first7=V. V. | last8=Pakhomov | first8=V. P. | last9=Puzakova | first9=T. Yu. | title==Spectrophotometric observations of variable stars | journal=Astronomy Letters | volume=32 | issue=9 | pages=604–607 | month=September | year=2006 | doi=10.1134/S1063773706090052 | bibcode=2006AstL...32..604R }}. See the [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=J/PAZh/32/672 J/PAZh/32/672] VizieR catalogue entry.</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | title=SUHAIL (Lamda Velorum) | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/suhail.html | accessdate=2012-02-17 }}</ref>
+
+<ref name=Allen>{{citation | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Argo_Navis*.html | first1=Richard Hinckley | last1=Allen | title=Star Names — Their Lore and Meaning: Argo Navis }}</ref>
+
+}}
+
+{{Stars of Vela}}
+[[Category:Bayer objects|Velorum, Lambda]]
+[[Category:K-type supergiants]]
+[[Category:K-type bright giants]]
+[[Category:Irregular variables]]
+[[Category:Vela (constellation)]]
+[[Category:Stars with proper names]]
+
+[[de:Suhail]]
+[[es:Suhail]]
+[[fa:لاندا بادبان]]
+[[fr:Lambda Velorum]]
+[[hi:लाम्डा वलोरम तारा]]
+[[ko:돛자리 람다]]
+[[it:Lambda Velorum]]
+[[nl:Alsuhail]]
+[[ja:アル・スハイル・アル・ワズン]]
+[[pl:Alsuhail]]
+[[pt:Lambda Velorum]]
+[[sk:Suhail]]
+[[zh:天記]]

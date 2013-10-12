@@ -1,0 +1,127 @@
+{{Starbox begin
+| name=Zeta Herculis A/B
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Hercules IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Hercules constellation and its surroundings]]
+     <div style="position: absolute; left: 64.7%; top: 39.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Herculis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|16|41|17.16104 }}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+31|36|09.7873}}<ref name=aaa474_2_653/>
+| appmag_v = 2.81<ref name=clpl4_99/>
+| constell = [[Hercules (constellation)|Hercules]]
+}}
+{{Starbox character
+| class    = {{nowrap|F9 IV + G7 V}}<ref name=aj81_245/>
+| b-v      = +0.65<ref name=clpl4_99/>
+| u-b      = +0.21<ref name=clpl4_99/>
+| variable = Suspected
+}}
+{{Starbox astrometry
+| radial_v = –68.43<ref name=aaa382_118/>
+| prop_mo_ra  = –461.52<ref name=aaa474_2_653/>
+| prop_mo_dec = +342.28<ref name=aaa474_2_653/>
+| parallax = 93.32
+| p_error  = 0.47
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 2.65<ref name=aaa361_614/>
+}}
+{{Starbox orbit
+| reference = <ref name=aaa341_121/>
+| primary = 
+| name = 
+| period = 34.45
+| axis = 1.33
+| eccentricity = 0.46
+| inclination = 131
+| node = 50
+| periastron = 1967.7
+| periarg = 111
+}}
+{{Starbox detail
+| component1 = ζ Her A
+| mass     = {{nowrap|1.45 ± 0.01}}<ref name=aaa379_245/>
+| radius   = 2.56–2.61<ref name=aaa379_245/>
+| luminosity  = {{nowrap|6.55 ± 0.39}}<ref name=aaa379_245/>
+| temperature = {{nowrap|5,820 ± 50}}<ref name=aaa379_245/>
+| gravity  = 3.4–3.6<ref name=aaa379_245/>
+| metal_fe = {{nowrap|0.04 ± 0.003}}<ref name=aaa379_245/>
+| rotational_velocity = 4.8<ref name=aaa361_614/>
+| rotation = 34.4&nbsp;years<ref name=aaa361_614/>
+| age_gyr  = 6.2<ref name=apj1_315_264/>
+| component2 = ζ Her B
+| mass2    = {{nowrap|0.98 ± 0.02}}<ref name=aaa379_245/>
+| radius2  = 0.915–0.920<ref name=aaa379_245/>
+| luminosity2  = {{nowrap|0.62 ± 0.06}}<ref name=aaa379_245/>
+| temperature2 = {{nowrap|5,300 ± 150}}<ref name=aaa379_245/>
+}}
+{{Starbox catalog
+| names = ζ&nbsp;Her, 40&nbsp;Her, 40&nbsp;Herculis, ADS 10157 AB, [[Bonner Durchmusterung|BD]]+31&nbsp;2884, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;3799.00, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;635, [[Henry Draper catalogue|HD]]&nbsp;150680, [[Hipparcos catalogue|HIP]]&nbsp;81693, [[Harvard Revised catalogue|HR]]&nbsp;6212, [[Luyten Half-Second catalogue|LHS]]&nbsp;3234, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;14952, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;65485, WDS&nbsp;J16413+3136AB.
+}}
+{{Starbox end}}
+'''Zeta Herculis''' (ζ Her, ζ Herculis) is a multiple [[star]] system in the [[constellation]] Hercules. It has a combined [[apparent visual magnitude]] of 2.81,<ref name=clpl4_99/> which is readily visible to the naked eye. [[Parallax]] measurements put it at a distance of about {{Convert|35.0|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+The primary member is a [[subgiant star]] that is somewhat larger than the [[Sun]] and has just begun to evolve away from the [[main sequence]] as the supply of hydrogen at its core becomes exhausted. It is orbited by a smaller companion star at a mean [[angular separation]] of 1.5&nbsp;arcseconds, which corresponds to a physical separation of 150 [[Astronomical Unit]]s.<ref name=aaa379_245/> This distance is large enough so that the two stars do not have a significant tidal effect on each other. The stars orbit each other over a [[orbital period|period]] of 34.45&nbsp;years, with a [[semi-major axis]] of 1.33" and an [[orbital eccentricity|eccentricity]] of 0.46.<ref name=aaa341_121/>
+
+Component A has a [[stellar classification]] of F9&nbsp;IV.<ref name=aj81_245/> It has about 2.6 times the radius of the Sun and 1.45 times the Sun's mass. This star is radiating more than six times the luminosity of the Sun at an [[effective temperature]] of 5,820&nbsp;K. The secondary component is about the same size and mass as the Sun, with an effective temperature of 5,300&nbsp;K. Both stars are rotating slowly.<ref name=aaa379_245/> There may be a faint third member of this system, although little is known about it.<ref name=paob80_155/>
+
+This system forms part of the [[Zeta Herculis moving group]] of stars. This group includes: [[Phi2 Pavonis|&phi;<sup>2</sup> Pavonis]], [[zeta Reticuli|&zeta; Reticuli]], [[1 Hydrae]], [[Gliese 456|Gl 456]], [[Gliese 678|Gl 678]], and [[Gliese 9079|Gl 9079]].<ref name=aj102_1816/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj81_245>{{citation | last1=Edwards | first1=T. W. | title=MK classification for visual binary components | journal=Astronomical Journal | volume=81 | pages=245–249 | month=April | year=1976 | doi=10.1086/111879 | bibcode=1976AJ.....81..245E }}</ref>
+
+<ref name=aaa382_118>{{citation | last1=Tokovinin | first1=A. A. | last2=Smekhov | first2=M. G. | title=Statistics of spectroscopic sub-systems in visual multiple stars | journal=Astronomy and Astrophysics | volume=382 | pages=118–123 | month=January | year=2002 | doi=10.1051/0004-6361:20011586 | bibcode=2002A&A...382..118T }}</ref>
+
+<ref name=aj102_1816>{{citation | first1=G. F. Porto | last1=de Mello | first2=L. | last2=da Silva | title=On the physical existence of the Zeta HER moving group - A detailed analysis of Phi exp 2 Pavonis | journal=Astronomical Journal | year=1991 | volume=102 | pages=1816–1825 | doi=10.1086/116006 | bibcode=1991AJ....102.1816P }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa341_121>{{citation | last1=Söderhjelm | first1=Staffan | title=Visual binary orbits and masses POST HIPPARCOS | journal=Astronomy and Astrophysics | volume=341 | pages=121–140 | month=January | year=1999 | bibcode=1999A&A...341..121S }}</ref>
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P }}</ref>
+
+<ref name=apj1_315_264>{{citation | last1=Barry | first1=Don C. | last2=Cromwell | first2=Richard H. | last3=Hege | first3=E. Keith | title=Chromospheric activity and ages of solar-type stars | journal=Astrophysical Journal, Part 1 | volume=315 | pages=264–272 | month=April | year=1987 | doi=10.1086/165131 | bibcode=1987ApJ...315..264B }}</ref>
+
+<ref name=paob80_155>{{citation | last1=Zhuchkov | first1=R. Ya. | last2=Orlov | first3=V. V. | last3=Rubinov | first3=A. V. | title=Multiple stars with low hierarchy: stable or unstable? | journal=Publications of the Astronomical Observatory of Belgrade | volume=80 | pages=155–160 | month=May | year=2006 | bibcode=2006POBeo..80..155Z }}</ref>
+
+<ref name=aaa379_245>{{citation | display-authors=1 | last1=Morel | first1=P. | last2=Berthomieu | first2=G. | last3=Provost | first3=J. | last4=Thévenin | first4=F. | title=The zeta Herculis binary system revisited. Calibration and seismology | journal=Astronomy and Astrophysics | volume=379 | pages=245–256 | month=November | year=2001 | doi=10.1051/0004-6361:20011336 | bibcode=2001A&A...379..245M |arxiv = astro-ph/0110004 }}</ref>
+
+}}
+
+==External links==
+* {{cite web | url = http://www.ari.uni-heidelberg.de/datenbanken/aricns/cnspages/4c01326.htm | title = Gl 635 | publisher = ARICNS | accessdate = 2006-07-27 }}
+* {{cite web | url = http://cdsweb.u-strasbg.fr/cgi-bin/bibobj?2005A%26A...433..151Z&HD+150680 | title = HD 150680 &mdash; Spectroscopic binary | publisher = SIMBAD | accessdate = 2006-07-27 }}
+* {{cite web | author = Prof. Jim Kaler | url = http://www.astro.uiuc.edu/~kaler/sow/zetaher.html | title = Zeta Herculis | publisher = Stars | accessdate = 2006-07-27 }}
+
+{{Nearest star systems|7}}
+{{Stars of Hercules}}
+
+[[Category:Bayer objects|Herculis, Zeta]]
+[[Category:Flamsteed objects|Herculis, 40]]
+[[Category:Henry Draper Catalogue objects|150680]]
+[[Category:Hipparcos objects|081693]]
+[[Category:HR objects|6212]]
+[[Category:Gliese and GJ objects|0635]]
+[[Category:Hercules (constellation)]]
+[[Category:Binary stars]]
+[[Category:G-type subgiants]]
+[[Category:K-type main sequence stars]]
+
+[[es:Zeta Herculis]]
+[[fa:زتا هرکول]]
+[[fr:Zeta Herculis]]
+[[ko:허큘리스자리 제타]]
+[[id:Zeta Herculis]]
+[[it:Zeta Herculis]]
+[[pt:Zeta Herculis]]
+[[ru:Дзета Геркулеса]]
+[[sk:Zeta Herculis]]
+[[zh:天纪二]]

@@ -1,0 +1,112 @@
+{{Starbox begin 
+| name = Pi Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 43.8%; top: 32.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of π Sagittarii (circled)
+}}
+{{Starbox observe 
+| epoch    = [[J2000.0]]
+| constell = [[Sagittarius (constellation)|Sagittarius]]
+| ra       = {{RA|19|09|45.83293}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–21|01|25.0103}}<ref name=aaa474_2_653/>
+| appmag_v = +2.89<ref name=mnras402_2_1369/>
+}} 
+{{Starbox character 
+| class    = F2&nbsp;II<ref name=mnras402_2_1369/>
+| b-v      = +0.35<ref name=aass34_1/>
+| u-b      = +0.22<ref name=aass34_1/>
+| variable = 
+}} 
+{{Starbox astrometry
+| radial_v = –9.8<ref name=gcrv1953/>
+| prop_mo_ra  = –1.36<ref name=aaa474_2_653/>
+| prop_mo_dec = –36.45<ref name=aaa474_2_653/>
+| parallax = 6.40
+| p_error  = 0.43
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = {{nowrap|5.9 ± 0.3}}<ref name=mnras402_2_1369/>
+| radius   = 
+| luminosity  = 
+| temperature = {{nowrap|6,590 ± 50}}<ref name=mnras402_2_1369/>
+| gravity  = {{nowrap|2.21 ± 0.05}}<ref name=mnras402_2_1369/>
+| metal_fe = 
+| rotational_velocity = 30<ref name=csrv/>
+| age_myr  = 67<ref name=mnras402_2_1369/>
+}} 
+{{Starbox catalog 
+| names = Albaldah, π&nbsp;Sagittarii, π&nbsp;Sgr, Pi&nbsp;Sgr, 41&nbsp;Sagittarii, [[Star catalogue#BD/CD/CPD|BD]]-21&nbsp;5275, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J19098-2101AB,  [[Fifth Fundamental Catalogue|FK5]]&nbsp;720, [[Boss General Catalogue|GC]]&nbsp;26386, [[Henry Draper Catalogue|HD]]&nbsp;178524, [[Hipparcos|HIP]]&nbsp;94141, [[Bright Star Catalogue|HR]]&nbsp;7264, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;19038-2111 AB, [[PPM Star Catalogue|PPM]]&nbsp;269391, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;187756, [[Washington Double Star Catalog|WDS]]&nbsp;J19098-2101AB.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Pi Sagittarii''' ('''Pi&nbsp;Sgr''', '''π&nbsp;Sagittarii''', '''π&nbsp;Sgr''') is a [[triple star system]] in the [[zodiac]] [[constellation]] [[Sagittarius (constellation)|Sagittarius]]. It has the traditional name '''Albaldah'''<ref name=allen1899/>.
+
+Albaldah has an [[apparent visual magnitude]] of +2.89,<ref name=mnras402_2_1369/> which is sufficiently bright to be readily seen with the naked eye. Based upon [[parallax]] measurements, this star is located at a distance of roughly {{Convert|510|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/> Because it is close to the [[ecliptic]], Albaldah can sometimes be [[occultation|occulted]] by the [[Moon]], and, very rarely, [[planet]]s of the Solar System. The next occultation by a planet takes place on February 17, 2035, when it will be occulted by [[Venus]].<ref name=grego2008/>
+
+The [[spectrum]] of this star matches a [[stellar classification]] of F2&nbsp;II.<ref name=mnras402_2_1369/> The 'II' [[luminosity class]] is for a [[bright giant]] star that has exhausted the hydrogen at its core and has followed an [[evolutionary track]] away from the [[main sequence]] of stars like the Sun. Because it has nearly six times the mass of the Sun,<ref name=mnras402_2_1369/> it reached this stage in a mere 67 million years.<ref name=mnras402_2_1369/> The outer envelope is radiating energy at an [[effective temperature]] of about 6,590&nbsp;K,<ref name=mnras402_2_1369/> giving it the yellow-white hue of an F-type star.<ref name=csiro/>
+
+Pi Sagittarii has two nearby companions. The first is located at an [[angular separation]] of 0.1 [[arcsecond]]s from Albaldah, or at least 13 [[Astronomical Unit]]s (AU).  The second  is 0.4 arcseconds away, which is 40 AU or more. Nothing is known about the orbits of these stars.<ref name=Kaler/>
+
+==Name and etymology==
+*The name '''Albaldah''' is comes from the [[Arabic language|Arabic]] بلدة ''{{Unicode|bálda}}'' 'the town'.<ref name=Kaler/>. In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Nir al Beldat''', which was translated into [[Latin]] as '''Lucida Oppidi''', meaning ''the brightest of the town''.<ref name=mnras55_429/>
+*This star, together with [[Zeta Sagittarii|ζ Sgr]] and [[Sigma Sagittarii|σ Sgr]] may have been the Akkadian ''Gu-shi-rab‑ba'', the Yoke of the Sea.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-9-4 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|建}} ({{lang|zh-Latn|Jiàn}}), meaning ''[[Dipper (Chinese constellation)|Establishment]]'', refers to an asterism consisting of π Sagittarii, [[Xi2 Sagittarii|ξ² Sagittarii]], [[Omicron Sagittarii|ο Sagittarii]], [[43 Sagittarii]], [[Rho1 Sagittarii|ρ¹ Sagittarii]] and [[Upsilon Sagittarii|υ Sagittarii]]. Consequently, π Sagittarii itself is known as {{lang|zh|建三}} ({{lang|zh-Latn|Jiàn sān}}, {{lang-en|the Third Star of Establishment}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=mnras402_2_1369>{{citation | display-authors=1 | last1=Lyubimkov | first1=Leonid S. | last2=Lambert | first2=David L. | last3=Rostopchin | first3=Sergey I. | last4=Rachkovskaya | first4=Tamara M. | last5=Poklad | first5=Dmitry B. | title=Accurate fundamental parameters for A-, F- and G-type Supergiants in the solar neighbourhood | journal=Monthly Notices of the Royal Astronomical Society | volume=402 | issue=2 | pages=1369–1379 | month=February | year=2010 | doi=10.1111/j.1365-2966.2009.15979.x | bibcode=2010MNRAS.402.1369L |arxiv = 0911.1335 }}</ref>
+
+<ref name=gcrv1953>{{citation | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington, D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=csrv>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A Catalogue of Stellar Rotational Velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=aass34_1>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J19098-2101AB -- Double or multiple star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Pi+Sagittarii | accessdate=2012-01-15 }}</ref>
+
+<ref name=Kaler>{{citation | first1=James B. | last1=Kaler | title=ALBALDAH (Pi Sagitarii) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/albaldah.html | accessdate=2012-01-21 }}</ref>
+
+<ref name=mnras55_429>{{cite journal | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=grego2008>{{citation | first1=Peter | last1=Grego | chapter=7. Observing Venus | title=Venus and Mercury, and How to Observe Them | series=Astronomers' Observing Guides | year=2008 | pages=229–247 | doi=10.1007/978-0-387-74286-1_7 }}</ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Pi]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Triple star systems]]
+[[Category:F-type bright giants]]
+[[Category:Stars with proper names]]
+
+[[de:Albaldah]]
+[[es:Albaldah]]
+[[fa:بلطه]]
+[[fr:Pi Sagittarii]]
+[[it:Pi Sagittarii]]
+[[lb:Albaldah (Stär)]]
+[[nl:Albaldah]]
+[[ja:いて座パイ星]]
+[[pl:Pi Sagittarii]]
+[[pt:Pi Sagittarii]]
+[[ru:Пи Стрельца]]
+[[sk:Albaldah]]
+[[zh:建三]]

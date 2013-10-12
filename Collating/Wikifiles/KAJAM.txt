@@ -1,0 +1,112 @@
+{{Starbox begin |
+   name=Kajam, ω Her }}
+{{Starbox image 
+ | image = [[File:Hercules Historical View.png|250px]]
+ | caption =Historical view of the [[Hercules (constellation)|Hercules]] constellation showing the star Kajam (ω Her) as "the club" in the hero's right hand.}}
+{{Starbox observe
+ |epoch=J2000
+ |ra={{RA|16|25|24.9533}}<ref name="SIMBAD">{{cite web
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%402744284&Name=HR%20%206008&submit=submit
+  | title=SIMBAD query result:V* ome Her -- Variable Star of alpha2 CVn type
+  | publisher =Centre de Données astronomiques de Strasbourg
+  | accessdate = 2010-09-26 }}</ref>
+  | dec={{DEC|14|01|59.770}}<ref name="SIMBAD"/>
+  |appmag_v=4.5821<ref name="LEEUWEN">{{cite journal
+  | title=Hipparcos, the New Reduction
+  | author=van Leeuwen, F
+  | year=2007
+  | month=November
+  | work=[[VizieR]] 
+  | publisher=[[Centre de Données astronomiques de Strasbourg]]
+  | pages=653–664
+  | issue=2
+  | volume=474 
+  | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2079043
+  | doi=10.1051/0004-6361:20078357
+  | journal=Astronomy and Astrophysics
+  | bibcode=2007A&A...474..653V
+  | accessdate=2010-09-26|arxiv = 0708.1752 }}</ref>
+ |constell=[[Hercules (constellation)|Hercules]] }}
+{{Starbox character 
+  |class=B9p Cr<ref name="LEEUWEN" /> 
+  |b-v=+0.00<ref name="MERMILLIOD">{{cite journal
+  | author=Mermilliod, J.-C.
+  | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished)
+  | journal=Catalogue of Eggen's UBV data.
+  | year=1986
+  | origin=SIMBAD
+  | format=PDF 
+  | bibcode=1986EgUBV........0M}}</ref>
+  |u-b=0.01<ref name="MERMILLIOD"/>
+  |variable= }} 
+{{Starbox astrometry 
+  |radial_v=-5.9<ref name="SIMBAD" />  
+  |prop_mo_ra=39.39<ref name="SIMBAD" />  
+  |prop_mo_dec=-59.89<ref name="SIMBAD" />  
+  |parallax=13.87
+  |p_error=0.94
+  |parallax_footnote=<ref name="PERRYMAN">{{cite journal
+  | author=Perryman, M. A. C.; Lindegren, L.; Kovalevsky, J.; Hoeg, E. et al
+  | title=The HIPPARCOS Catalogue
+  | journal=Astronomy and Astrophysics
+  | year=1997
+  | volume=323
+  | pages=L49–L52
+  | format=PDF 
+  | bibcode=1997A&A...323L..49P}}</ref>
+  |absmag_v=0.29}}
+{{Starbox catalog
+ |names=Kajam, Kujam, Cujam, [[Bayer designation|ω Her]], [[Flamsteed designation|24&nbsp;Her]], [[Harvard Revised catalogue|HR]]&nbsp;6117, [[Bonner Durchmusterung|BD]]&nbsp;+14° 3049, [[Henry Draper Catalogue|HD]]&nbsp;148112, [[Catalogues of Fundamental Stars|FK5]]&nbsp;613, [[Hipparcos catalogue|HIP]]&nbsp;80463, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;102153, [[Boss General Catalogue|GC]]&nbsp;22090, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J16254+1402AB}}
+
+{{Starbox reference
+ |Simbad=HD+148112}}
+{{Starbox end}}	
+
+{{Sky|16|25|24.953|+|14|01|59.77|1000000}}
+
+'''Omega Herculis''' (ω Her, ω Herculis) is a [[star]] in the [[constellation]] [[Hercules (constellation)|Hercules]].  It has the traditional name '''Kajam''' ("club") (also written as ''Cajam'', ''Cujam'').<ref name="BBC1">{{cite web
+  |title=Constellations: Hercules 'the Strongman'
+  |publisher=The BBC (British Broadcasting Corporation)
+  |author=Kurt Vonnegut
+  |url=http://www.bbc.co.uk/dna/h2g2/A29778916
+  |accessdate=2010-11-14}}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|斗}} ({{lang|zh-Latn|Dǒu}}), meaning ''[[Heavenly Market enclosure|Dipper for Liquid]]'', refers to an asterism consisting of ω Herculis, [[49 Serpentis]], [[13 Herculis]], [[29 Herculis]] and [[33 Herculis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ω Herculis itself is known as {{lang|zh|斗一}} ({{lang|zh-Latn|Dǒu yī}}, {{lang-en|the First Star of Dipper for Liquid}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Omega Herculis was a latter designation of '''51 Serpentis'''.<ref>{{cite journal
+ | last=Wagman | first=M.
+ | title=Flamsteed's Missing Stars
+ | journal=Journal for the History of Astronomy, Vol.18, NO. 3/AUG, P.209, 1987
+ | volume=18 | page=221 | month=August | year=1987
+ | bibcode=1987JHA....18..209W }}</ref> 
+
+==Structure==
+Omega Herculis belongs to [[stellar classification|spectral class]] B9pCr and has [[apparent magnitude]] +4.58.  It is approximately 240 [[light year]]s from [[Earth]].
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Hercules|Hercules]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Variable star]]
+* [[Double star]]
+
+== References ==
+{{reflist}}
+
+
+{{Stars of Hercules}}
+
+[[Category:Hercules (constellation)]]
+[[Category:Bayer objects|Herculis, Omega]]
+[[Category:B-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Omega Herculis]]
+[[es:Kajam]]
+[[fa:امگا هرکول]]
+[[fr:Omega Herculis]]
+[[lb:Kajam (Stär)]]
+[[nl:Cujam]]
+[[pt:Omega Herculis]]
+[[sk:Kajam]]
+[[uk:HD148112]]
+[[zh:武仙座ω]]

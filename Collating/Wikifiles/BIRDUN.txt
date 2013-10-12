@@ -1,0 +1,108 @@
+{{Starbox begin
+ | name = ε Centauri
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Centaurus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Centaurus constellation and its surroundings]]
+     <div style="position: absolute; left: 40.3%; top: 55.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption = Location of ε Centauri (circled) near the center
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|13|39|53.25774}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|−53|27|59.0081}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.34<ref name=apjs15_459/>
+ | constell = [[Centaurus]]
+}}
+{{Starbox character
+ | class    = B1&nbsp;III<ref name=an331_4_349/>
+ | b-v      = −0.246<ref name=apjs15_459/>
+ | u-b      = −0.939<ref name=apjs15_459/>
+ | variable = [[Beta Cephei variable|β Cep]]
+}}
+{{Starbox astrometry
+ | radial_v = +3.0<ref name=rgcrv/>
+ | prop_mo_ra  = −15.30<ref name=aaa474_2_653/>
+ | prop_mo_dec = −11.72<ref name=aaa474_2_653/>
+ | parallax = 7.63
+ | p_error  = 0.48
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –3.9<ref name=aaa216_1_44/>
+}}
+{{Starbox detail
+ | mass     = {{nowrap|11.60 ± 1.06}}<ref name=an331_4_349/>
+ | radius   = 
+ | metal_fe = {{nowrap|–0.14 ± 0.10}}<ref name=aaa433_3_1031/>
+ | gravity  = 3.68<ref name=aaa216_1_44/>
+ | age_myr  = {{nowrap|15.8 ± 5.7}}<ref name=mnras410_1_190/>
+ | luminosity  = 15,217<ref name=an331_4_349/>
+ | temperature = 24,000<ref name=an331_4_349/>
+ | rotational_velocity = 160<ref name=mnras309_1_221/>
+}}
+{{Starbox catalog
+ | names = Al&nbsp;Birdhaun, [[Bonner Durchmusterung|CP]]−52&nbsp;6655, [[Fifth Fundamental Catalogue|FK5]]&nbsp;504, [[Henry Draper catalogue|HD]]&nbsp;118716, [[Hipparcos catalogue|HIP]]&nbsp;66657, [[Harvard Revised catalogue|HR]]&nbsp;5132, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;241047.
+}}
+{{Starbox reference
+ | Simbad=HD+118716
+}}
+{{Starbox end}}
+'''Epsilon Centauri''' (ε Cen, ε Centauri) is a [[star]] in the southern [[constellation]] of [[Centaurus]]. It is one of the [[List of stars in Centaurus|brightest stars]] in the constellation with an [[apparent visual magnitude]] of +2.34.<ref name=apjs15_459/> [[Parallax]] measurements put it at a distance of around {{Convert|430|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|南門}} ({{lang|zh-Latn|Nán Mén}}), meaning ''[[Horn (Chinese constellation)|Southern Gate]]'', refers to an asterism consisting of ε Centauri and [[Alpha Centauri|α Centauri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Centauri itself is known as {{lang|zh|南門一}} ({{lang|zh-Latn|Nán Mén yī}}, {{lang-en|the First Star of Southern Gate}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060725.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 25 日]</ref>
+
+ε Centauri is a massive star with nearly 12 times the mass of the Sun.<ref name=an331_4_349/> The [[spectrum]] matches a [[stellar classification]] of B1&nbsp;III,<ref name=an331_4_349/> indicating this is an [[stellar evolution|evolved]] [[giant star]]. It is radiating more than 15,000<ref name=an331_4_349/> times the luminosity of the Sun from its outer atmosphere at an [[effective temperature]] of 24,000&nbsp;K,<ref name=an331_4_349/> giving it the blue-white hue of a B-type star.<ref name=csiro/> This is classified as a [[Beta Cephei variable|Beta Cephei type]] [[variable star]] with a primary period of 0.16961 days (4 hours 4 minutes), completing 5.9 cycles per day.<ref name=aaa433_3_1031/> During each cycle, the brightness of the star varies from apparent magnitude +2.29 to +2.31.
+
+This star is a [[proper motion]] member of the Lower-Centaurus Crux sub-group in the [[Scorpius-Centaurus Association|Scorpius-Centaurus]] [[Stellar association|OB association]], the nearest such association of co-moving massive stars to the Sun.<ref name=aaa216_1_44/> Epsilon Centauri is a relatively young star, with an age of around 16 million years.<ref name=mnras410_1_190/>
+
+==See also==
+*[[List of brightest stars|Brightest stars]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=aaa216_1_44>{{citation | last1=de Geus | first1=E. J. | last2=de Zeeuw | first1=P. T. | last3=Lub | first3=J. | title=Physical parameters of stars in the Scorpio-Centaurus OB association | journal=Astronomy and Astrophysics | volume=216 | issue=1-2 | pages=44–61 | month=June | year=1989 | bibcode=1989A&A...216...44D }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=january | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=aaa433_3_1031>{{citation | last1=Daszyńska-Daszkiewicz | first1=J. | last2=Niemczura | first2=E. | title=Metallicity of mono- and multiperiodic β Cephei stars | journal=Astronomy and Astrophysics | volume=433 | issue=3 | pages=1031–1035 | month=April | year=2005 | doi=10.1051/0004-6361:20040397 | bibcode=2005A&A...433.1031D |arxiv = astro-ph/0410442 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Centaurus}}
+
+[[Category:Centaurus (constellation)]]
+[[Category:Bayer objects|Centauri, Epsilon]]
+[[Category:Beta Cephei variables]]
+[[Category:B-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:البردون (نجم)]]
+[[bar:Epsilon Centauri]]
+[[ca:Epsilon Centauri]]
+[[de:Epsilon Centauri]]
+[[es:Épsilon Centauri]]
+[[fa:برذون]]
+[[fr:Epsilon Centauri]]
+[[ko:센타우루스자리 엡실론]]
+[[hi:ऍप्सिलन सॅन्टौरी तारा]]
+[[id:Epsilon Centauri]]
+[[it:Epsilon Centauri]]
+[[ja:バーダン]]
+[[pl:Εpsilon Centauri]]
+[[pt:Epsilon Centauri]]
+[[ru:Эпсилон Центавра]]
+[[sk:Epsilon Centauri]]
+[[zh:南门一]]

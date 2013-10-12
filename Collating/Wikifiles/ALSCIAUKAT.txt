@@ -1,0 +1,39 @@
+{{Starbox short
+ | name=31 Lyncis
+ | epoch=[[J2000.0]]
+ | constell=[[Lynx (constellation)|Lynx]]
+ | ra={{RA|08|22|50.13}}
+ | dec={{DEC|+43|11|18.1}}
+ | spectral=K4.5&nbsp;III
+ | appmag_v=+4.25
+ | absmag_v=-1.13
+ | dist_ly=389
+ | dist_pc=119.33
+ | names=Alsciaukat, [[Bonner Durchmusterung|BD]]&nbsp;+43&nbsp;1815, FK5 314, [[Bright Star Catalogue|HR]]&nbsp;3275, [[Henry Draper Catalogue|HD]]&nbsp;70272, [[Hipparcos catalogue|HIP]]&nbsp;41075, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;42319, NSV 4030, GC&nbsp;11401.
+}}
+
+'''31 Lyncis''' is the fourth-brightest star in the [[constellation]] [[Lynx (constellation)|Lynx]]. Its [[apparent magnitude]] is +4.25 and it belongs to the [[spectral class]] K4.5III-IIIb. This star has the traditional names '''Alsciaukat''', from [[Arabic language|Arabic]] '''الشوكة''' ''aš-šawkat'' "the thorn", and '''Mabsuthat''' (Arabic '''المبسوطة''' ''al-mabsūtah)'' "the outstretched (paw)".
+
+31 Lyncis is an [[orange giant]] star located about 390 [[light year]]s from [[Earth]].
+
+== References ==
+* Richard Hinckley Allen, ''Star Names, Their Lore and Legend'', [[New York]], Dover.
+* {{cite web | title=HD 70272 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=31+lyncis&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-31}}
+
+==External links==
+{{Stars of Lynx}}
+{{giant-star-stub}}
+
+[[Category:Flamsteed objects|Lyncis, 31]]
+[[Category:Lynx (constellation)|Lyncis, 31]]
+[[Category:K-type giants|Lyncis, 31]]
+[[Category:Stars with proper names]]
+
+[[de:Alsciaukat]]
+[[es:Alsciaukat]]
+[[fa:شوکة]]
+[[id:31 Lyncis]]
+[[it:31 Lyncis]]
+[[nl:Alsciaukat]]
+[[sv:31 Lyncis]]
+[[zh:上台增四]]

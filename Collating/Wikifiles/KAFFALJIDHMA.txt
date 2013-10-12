@@ -1,0 +1,116 @@
+{{Starbox begin
+ | name = Gamma Ceti
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cetus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cetus constellation and its surroundings]]
+     <div style="position: absolute; left: 29.0%; top: 20.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Ceti (circled) near the center
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|02|43|18.03910}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+03|14|08.9390}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.47<ref name=clpl4_99/>&nbsp;(3.56/6.63/10.16)<ref name=mnras389_2_869/>
+ | constell = [[Cetus (constellation)|Cetus]]
+}}
+{{Starbox character
+ | class    = {{nowrap|A3 V + F3 V + K5}}<ref name=mnras389_2_869/>
+ | b-v      = +0.09<ref name=clpl4_99/>
+ | u-b      = +0.07<ref name=clpl4_99/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –5.1<ref name=gcsrv/>
+ | prop_mo_ra  = –146.10<ref name=aaa474_2_653/>
+ | prop_mo_dec = –146.12<ref name=aaa474_2_653/>
+ | parallax = 40.97
+ | p_error  = 0.63
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | component1 = γ Cet A
+ | mass     = 
+ | radius   = 1.9<ref name=lang2006/>
+ | metal_fe = 
+ | gravity  = 
+ | age_myr  = 300<ref name=apj653_1_675/>
+ | luminosity  = 
+ | temperature = 
+ | rotational_velocity = 186<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+ | names = Gam Cet, 86&nbsp;Ceti, [[Bonner Durchmusterung|BD]]+02&nbsp;422, [[Henry Draper catalogue|HD]]&nbsp;16970, [[Hipparcos catalogue|HIP]]&nbsp;12706, [[Harvard Revised catalogue|HR]]&nbsp;804, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;110707.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Gamma Ceti''' (γ Cet, γ Ceti) is a [[star system]] in the [[celestial equator|equatorial]] [[constellation]] [[Cetus (constellation)|Cetus]]. It has the traditional name '''Kaffaljidhma''' and has an [[apparent visual magnitude]] of 3.47.<ref name=clpl4_99/> Based upon [[parallax]] measurements, this star is located at a distance of about 80&nbsp;[[light year]]s (24.4&nbsp;[[parsec]]s) from Earth.<ref name=aaa474_2_653/>
+
+==Properties==
+Gamma Ceti appears to be a [[triple star system]]. The inner pair have an [[angular separation]] of 2.6&nbsp;[[arcsecond]]s. The primary component of this pair is a visual magnitude 3.6, [[A-type main sequence star]] with a [[stellar classification]] of A3&nbsp;V. The fainter secondary component is an [[F-type main sequence star]] that has a classification of F3&nbsp;V and a magnitude of 6.6.<ref name=mnras389_2_869/> The contrasting colors of these two stars makes them a popular target of amateur astronomers. The two can be resolved with a small, {{Convert|4|in|cm|abbr=on}} aperture telescope under ideal seeing conditions, although at times they are can be a challenge to resolve even with a much larger scope.<ref name=mollise2006/> At a wide separation of 840&nbsp;arcseconds is a dim, magnitude 10.2 [[K-type star]] with a classification of K5. The [[luminosity class]] of this last component remains undetermined.<ref name=mnras389_2_869/>
+
+The measured [[angular diameter]] of the primary star is {{nowrap|0.74 ± 0.08 [[milliarcsecond|mas]]}}.<ref name=aaa431_773/> At the estimated distance of this system, this yields a physical size of about 1.9 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> The secondary component of this system is an [[X-ray astronomy|X-ray source]] with a luminosity of {{nowrap|2.2 × 10<sup>29</sup> erg s<sup>–1</sup>}}.<ref name=aaa475_2_677/> Gamma Ceti is about 300<ref name=apj653_1_675/>&nbsp;million years old and it appears to be a member of the stream of stars loosely associated with the [[Ursa Major moving group]].<ref name=aj125_4_1980/> The primary has been examined for an [[infrared excess|excess of infrared emission]] that would suggest the presence of circumstellar matter, but none was found.<ref name=apj653_1_675/>
+
+==Etymology==
+The title ''Kaffaljidhma'' was derived from [[Arabic language|Arabic]] '''الكف الجذماء''' ''Al Kaff al Jidhmah'', meaning "The cut-short hand".<ref name=allen/> According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Al Kaff al Jidhmah'' was originally the title for five stars: γ Cet as ''Kaffaljidhma'', [[Xi1 Ceti|ξ<sup>1</sup> Cet]] as ''Al Kaff al Jidhmah I'', [[Xi2 Ceti|ξ<sup>2</sup> Cet]] as ''Al Kaff al Jidhmah II'', [[Delta Ceti|δ Cet]] as ''Al Kaff al Jidhmah III'' and [[Mu Ceti|μ Cet]] as ''Al Kaff al Jidhmah IV'' (excluding [[Alpha Ceti|α Cet]] and [[Lambda Ceti|λ Cet]]).<ref name=rhoads1971/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天囷}} ({{lang|zh-Latn|Tiān Qūn}}), meaning ''[[Stomach (Chinese constellation)|Circular Celestial Granary]]'', refers to an asterism consisting of γ Ceti, [[Alpha Ceti|α Ceti]], [[Kappa1 Ceti|κ<sup>1</sup> Ceti]], [[Lambda Ceti|λ Ceti]], [[Mu Ceti|μ Ceti]], [[Xi1 Ceti|ξ<sup>1</sup> Ceti]], [[Xi2 Ceti|ξ<sup>2</sup> Ceti]], [[Nu Ceti|ν Ceti]], [[Delta Ceti|δ Ceti]], [[75 Ceti]], [[70 Ceti]], [[63 Ceti]] and [[66 Ceti]]. Consequently, γ Ceti itself is known as {{lang|zh|天囷八}} ({{lang|zh-Latn|Tiān Qūn bā}}, {{lang-en|the Eighth Star of Circular Celestial Granary}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060711.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 11 日]</ref>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=LTT 10892 -- High proper-motion Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Ceti | accessdate=2012-03-04 }}</ref>
+
+<ref name=allen>{{citation | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html | title=Star Names: Their Lore and Meaning | first1=Richard Hinckley | last1=Allen | page=160 | edition=Dover | year=1963 | publisher=University of Chicago }}</ref>
+
+<ref name=rhoads1971>{{citation | url=http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf | first1=Jack W. | last1=Rhoads | title=Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars | publisher=Jet Propulsion Laboratory, California Institute of Technology | date=November 15, 1971 }}</ref>
+
+<ref name=aaa475_2_677>{{citation | last1=Schröder | first1=C. | last2=Schmitt | first2=J. H. M. M. | title=X-ray emission from A-type stars | journal=Astronomy and Astrophysics | volume=475 | issue=2 | pages=677–684 | month=November | year=2007 | doi=10.1051/0004-6361:20077429 | bibcode=2007A&A...475..677S }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(24.4\cdot 0.74\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 3.88\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=aj125_4_1980>{{citation | display-authors=1 | last1=King | first1=Jeremy R. | last1=Villarreal | first1=Adam R. | last1=Soderblom | first1=David R. | last1=Gulliver | first1=Austin F. | last1=Adelman | first1=Saul J. | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group | journal=The Astronomical Journal | volume=125 | issue=4 | pages=1980–2017 | month=April | year=2003 | doi=10.1086/368241 | bibcode=2003AJ....125.1980K }}</ref>
+
+<ref name=mollise2006>{{citation | first1=Rod | last1=Mollise | title=The urban astronomer's guide: a walking tour of the cosmos for city sky watchers | series=Patrick Moore's practical astronomy series | publisher=Springer | year=2006 | isbn=1-84628-216-0 | page=200 | url=http://books.google.com/books?id=Z0mvZk0s_TMC&pg=PA200 }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | title=KAFFALJIDHMA (Gamma Ceti) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/kaffaljidhma.html | accessdate=2012-03-04 }}
+
+{{Stars of Cetus}}
+
+[[Category:Cetus (constellation)]]
+[[Category:Bayer objects|Ceti, Gamma]]
+[[Category:Stars with proper names]]
+
+[[ar:كف الجذماء]]
+[[de:Kaffaljidhm]]
+[[es:Kaffaljidhma]]
+[[fr:Gamma Ceti]]
+[[id:Gamma Ceti]]
+[[it:Kaffaljidhma]]
+[[lb:Kaffaljidhm (Stär)]]
+[[pl:Gamma Ceti]]
+[[pt:Gamma Ceti]]
+[[sk:Kaffaljidhm]]
+[[zh:鯨魚座γ]]

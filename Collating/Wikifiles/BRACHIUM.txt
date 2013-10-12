@@ -1,0 +1,107 @@
+{{Starbox begin
+ | name = Sigma Librae
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Libra IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Libra constellation and its surroundings]]
+     <div style="position: absolute; left: 54.7%; top: 63.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of σ Librae (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+ | constell = [[Libra (constellation)|Libra]]
+ | ra       = {{RA|15|04|04.21608}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–25|16|55.0606}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.29<ref name=aass34_1/>
+}}
+{{Starbox character
+ | class    = M3/M4&nbsp;III<ref name=houk1978/>
+ | b-v      = +1.70<ref name=aass34_1/>
+ | u-b      = +1.94<ref name=aass34_1/>
+ | r-i      = 
+ | variable = Semi-regular<ref name=mnras355_2_601/>
+}}
+{{Starbox astrometry
+ | radial_v = –4.2<ref name=scfs/>
+ | prop_mo_ra  = –71.16<ref name=aaa474_2_653/>
+ | prop_mo_dec = −43.34<ref name=aaa474_2_653/>
+ | parallax = 11.31
+ | p_error  = 0.25
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –1.5<ref name=mnras355_2_601/>
+}}
+{{Starbox detail
+ | mass     = 2.1<ref name=tsuji2007/>
+ | gravity  = 0.9 ± 0.3<ref name=aaa533_A107/>
+ | rotational_velocity = 
+ | radius   = 
+ | luminosity = 
+ | temperature = 3,600<ref name=tsuji2007/>
+ | metal_fe = 0.00<ref name=aaa533_A107/>
+}}
+{{Starbox catalog
+ | names = 20 Librae, [[Cordoba Durchmusterung|CD]]–24&nbsp;11834, [[FK5]] 556, [[Henry Draper Catalogue|HD]]&nbsp;133216, [[Hipparcos catalogue|HIP]]&nbsp;73714, [[Bright Star Catalogue|HR]]&nbsp;5603, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;183139.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Sigma Librae''' (σ Lib, σ Librae) is a [[star]] in the [[constellation]] [[Libra (constellation)|Libra]]. It has the traditional names '''Brachium''' ("Arm"<sup>[[Latin]]</sup>), '''Cornu''' ("Horn"<sup>[[Latin]]</sup>), and '''Zubenalgubi''' ("Southern Claw"<sup>[[Arabic language|Arabic]]</sup>). The [[apparent visual magnitude]] is +3.29,<ref name=aass34_1/> making it a third magnitude star that is visible to the naked eye. Based upon [[parallax]] measurements, this star is at a distance of roughly {{Convert|288|ly|pc|abbr=off|lk=on}} from [[Earth]], with a 2% [[margin of error]].<ref name=aaa474_2_653/> At that distance, the visual magnitude of the star is diminished by 0.20 ± 0.17 from [[extinction (astronomy)|extinction]] caused by intervening gas and dust.<ref name=aaa533_A107/>
+
+This star was originally given the [[Bayer designation]] "Gamma Scorpii"<ref name=burnham1978/> (γ Sco) despite the fact that it is well within the constellation Libra and far from the boundary with [[Scorpius]]. It did not receive its current Bayer designation as Sigma Librae until the 19th century. The new name was agreed upon by Commission 3 of the [[International Astronomical Union]] on July 31, 1930.<ref name=iau1932/>
+
+Sigma Librae has a [[Stellar classification|spectral class]] M3/M4&nbsp;III,<ref name=houk1978/> which places it in the [[red giant]] stage of its [[stellar evolution|evolution]]. This is a semi-regular [[variable star]] with a single pulsation period of 20&nbsp;days.<ref name=mnras355_2_601/> It shows small amplitude variations in magnitude of 0.10–0.15 on time scales as brief as 15–20 minutes, with cycles of repetition over intervals of 2.5–3.0 hours.<ref name=ap53_4_523/> This form of variability indicates that the star is on the [[asymptotic giant branch]] and is generating energy through the nuclear fusion of hydrogen and helium along concentric shells surrounding an inert core of carbon and oxygen.<ref name=cia152_178/>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W | postscript=. }}</ref>
+
+<ref name=aass34_1>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N | postscript=. }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=4 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1988mcts.book.....H | postscript=. }}</ref>
+
+<ref name=mnras355_2_601>{{citation | last1=Yeşilyaprak | first1=C. | last2=Aslan | first2=Z. | title=Period-luminosity relation for M-type semiregular variables from Hipparcos parallaxes | journal=Monthly Notices of the Royal Astronomical Society | volume=355 | issue=2 | pages=601–607 | month=December | year=2004 | doi=10.1111/j.1365-2966.2004.08344.x | bibcode=2004MNRAS.355..601Y | postscript=. }}</ref>
+
+<ref name=ap53_4_523>{{citation | last1=Ruban | first1=E. V. | last2=Arkharov | first2=A. A. | title=Microvariability and fast variability of stars. II. The semiregular red giants L2 Pup, 2 Cen, η Gem, and σ Lib | journal=Astrophysics | volume=53 | issue=4 | pages=523–535 | month=December | year=2010 | doi=10.1007/s10511-010-9144-7 | bibcode=2010Ap.....53..523R | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=sig Lib -- Semi-regular pulsating Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Sigma+Librae | accessdate=2012-01-14 | postscript=. }}</ref>
+
+<ref name=tsuji2007>{{citation | last1=Tsuji | first1=Takashi | contribution=Isotopic abundances of Carbon and Oxygen in Oxygen-rich giant stars | title=Convection in Astrophysics, Proceedings of IAU Symposium #239 held 21-25 August, 2006 in Prague, Czech Republic | editor1-first=F. | editor1-last=Kupka | editor2-first=I. | editor2-last=Roxburgh | editor3-first=K. | editor3-last=Chan | pages=307–310 | month=May | year=2007 | doi=10.1017/S1743921307000622 | bibcode=2007IAUS..239..307T |arxiv = astro-ph/0610180 | postscript=. }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | title=Burnham's celestial handbook: an observer's guide to the universe beyond the Solar System | volume=2 | series=Dover Books on Astronomy | edition=2nd | publisher=Courier Dover Publications | year=1978 | isbn=0486235688 | page=1108 | url=http://books.google.com/books?id=wB9uZ9lH5bgC&pg=PA1108 | postscript=. }}</ref>
+
+<ref name=iau1932>{{citation | title=Report of Commissions: Ephemerides | journal=Transactions of the International Astronomical Union | page=20 | volume=4 | year=1932 | url=http://books.google.com/books?id=3G03AAAAIAAJ&pg=PA20 | postscript=. }}</ref>
+
+<ref name=cia152_178>{{citation | last1=Lebzelter | first1=T. | last2=Hron | first2=J. | title=BRITE stars on the AGB | journal=Communications in Asteroseismology | volume=152 | pages=178–181 | month=January | year=2008 | doi=10.1553/cia152s178 | bibcode=2008CoAst.152..178L }}</ref>
+
+<ref name=aaa533_A107>{{citation | display-authors=1 | last1=Dehaes | first1=S. | last2=Bauwens | first2=E. | last3=Decin | first3=L. | last4=Eriksson | first4=K. | last5=Raskin | first5=G. | last6=Butler | first6=B. | last7=Dowell | first7=C. D. | last8=Ali | first8=B. | last9=Blommaert | first9=J. A. D. L. | title=Structure of the outer layers of cool standard stars | journal=Astronomy & Astrophysics | volume=533 | page=A107 | month=September | year=2011 | doi=10.1051/0004-6361/200912442 | bibcode=2011A&A...533A.107D }}</ref>
+
+}}
+
+== External links ==
+*{{citation | first1=James B. | last1=Kaler | work=Stars | title=ZUBENHAKRABI (Sigma Librae = Gamma Scorpii) | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/zubenh.html | accessdate=2012-03-22 }}
+
+{{Stars of Libra}}
+
+[[Category:Libra (constellation)]]
+[[Category:Bayer objects|Librae, Sigma]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Sigma Librae]]
+[[es:Brachium]]
+[[fa:سیگما ترازو]]
+[[fr:Sigma Librae]]
+[[id:Sigma Librae]]
+[[it:Sigma Librae]]
+[[lb:Brachium (Stär)]]
+[[lt:Žastas]]
+[[nl:Brachium]]
+[[ja:てんびん座シグマ星]]
+[[pt:Sigma Librae]]
+[[ru:Сигма Весов]]
+[[sk:Brachium]]
+[[tr:Sigma Libra]]
+[[zh:折威七]]

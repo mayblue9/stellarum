@@ -1,0 +1,134 @@
+{{Starbox begin
+ | name=Epsilon Pegasi
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 61.4%; top: 55.1%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ε Pegasi (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|21|44|11.15614}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+09|52|30.0311}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.399<ref name=saaoc8_59/>
+ | constell = [[Pegasus (constellation)|Pegasus]]
+}}
+{{Starbox character
+ | class    = K2&nbsp;Ib<ref name=araa11_29/>
+ | b-v      = +1.527<ref name=saaoc8_59/>
+ | u-b      = +1.722<ref name=saaoc8_59/>
+ | variable = LC<ref name=gcvs/>
+}}
+{{Starbox astrometry
+ | radial_v = {{nowrap|3.39 ± 0.06}}<ref name=aaa430_165/>
+ | prop_mo_ra  = +26.92<ref name=aaa474_2_653/>
+ | prop_mo_dec = +0.4<ref name=aaa474_2_653/>
+ | parallax = 4.73
+ | p_error  = 0.17
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –4.142<ref name=aaa480_1_91/>
+}}
+{{Starbox detail
+ | mass     = {{nowrap|11.7 ± 0.8}}<ref name=mnras410_1_190/>
+ | radius   = 185<ref name=lang2006/>
+ | luminosity  = 3895(v)/12,250(bol)<ref name=mnras226_563/>
+ | temperature = 4,379<ref name=aaa480_1_91/>
+ | metal_fe = –0.04<ref name=aaa480_1_91/>
+ | gravity  = 1.01<ref name=aaa480_1_91/>
+ | rotational_velocity = 8<ref name=coapa239_1/>
+ | age_myr  = {{nowrap|20.0 ± 4.5}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+ | names=Enif, Enf, Enir, Al Anf, Os Pegasi, Fom, 8&nbsp;Peg, [[Bonner Durchmusterung|BD]]+09&nbsp;4891, [[FK5]]&nbsp;815, [[Henry Draper catalogue|HD]]&nbsp;206778, [[Hipparcos catalogue|HIP]]&nbsp;107315, [[Harvard Revised catalogue|HR]]&nbsp;8308, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;127029.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+ | Simbad=HD+206778
+}}
+{{Starbox end}}
+'''Epsilon Pegasi''' (ε Peg, ε Pegasi) is the brightest [[star]] in the northern [[constellation]] of [[Pegasus (constellation)|Pegasus]]. It has the traditional name '''Enif'''. The name "Enif" is derived from the [[Arabic language|Arabic]] word for ''nose'', due to its position as the muzzle of Pegasus. With an [[apparent visual magnitude]] of 2.4,<ref name=saaoc8_59/> this is a second-magnitude star that is readily visible to the naked eye. The distance to this star can be estimated using [[parallax]] measurements from the [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49/><ref name=GSM/> yielding a value of around {{Convert|690|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|危宿}} ({{lang|zh-Latn|Wēi Sù}}), meaning ''[[Rooftop (Chinese constellation)|Rooftop]] (asterism)'', refers to an asterism consisting of ε Pegasi, [[Alpha Aquarii|α Aquarii]] and [[Theta Pegasi|θ Peg]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Pegasi itself is known as {{lang|zh|危宿三}} ({{lang|zh-Latn|Wēi Sù sān}}, {{lang-en|the Third Star of Rooftop}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+This is an [[stellar evolution|evolved]] star that has entered the [[supergiant]] stage, as indicated by the [[stellar classification]] of K2&nbsp;Ib.<ref name=araa11_29/> It is estimated to be 12<ref name=mnras410_1_190/> times the [[solar mass|Sun's mass]]. The measured [[angular diameter]] of this star, after correction for [[limb darkening]], is {{nowrap|8.17 ± 0.09 [[milliarcsecond|mas]]}}.<ref name=aaa431_773/> At the estimated distance of this star, this yields an enormous physical size of about 185 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> From this expanded envelope, it is radiating roughly 12,250<ref name=mnras226_563/> times the [[solar luminosity|luminosity of the Sun]] at an [[effective temperature]] of 4,337&nbsp;K.<ref name=aaa480_1_91/> This temperature is cooler than the Sun, giving it the orange-hued glow of a K-type star.<ref name=csiro/>
+
+Enif probably only has a few million years left to go, although it is unknown whether it will explode in a [[supernova]] or die off as a rare neon-oxygen [[white dwarf]], due to its mass straddling the dividing line between stars destined to explode or not. Enif has been observed to brighten radically upon a few occasions, giving rise to the theory that it (and possibly other supergiants) erupt in massive [[solar flare|flares]] that dwarf those of our own [[Sun]].<ref name=kaler/> It is a type LC [[slow irregular variable]] star that varies from +0.7 to +3.5 in [[apparent magnitude|magnitude]].<ref name=gcvs/> The [[spectrum]] of this star shows an overabundance of the elements [[strontium]] and [[barium]], which may be the result of the [[S-process]] of [[nucleosynthesis]] in the outer atmosphere of the star.<ref name=mnras226_563/> It has a relatively high [[peculiar velocity]] of {{nowrap|21.6 km s<sup>–1</sup>}}.<ref name=mnras410_1_190/>
+
+==See also==
+* [[Epsilon Pegasi in fiction]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaa480_1_91>{{citation | display-authors=1 | last1=Soubiran | first1=C. | last2=Bienaymé | first2=O. | last3=Mishenina | first3=T. V. | last4=Kovtyukh | first4=V. V. | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants | journal=Astronomy and Astrophysics | year=2008 | volume=480 | issue=1 | pages=91–101 | bibcode=2008A&A...480...91S | doi=10.1051/0004-6361:20078788 |arxiv = 0712.1370 }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | issue=1 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=coapa239_1>{{cite journal | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=saaoc8_59>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=South African Astronomical Observatory Circulars | volume=8 | page=59 | month=1984 | bibcode=1984SAAOC...8...59C }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=gcvs>{{citation | title=eps Peg | url=http://www.sai.msu.su/gcvs/cgi-bin/search.cgi?search=eps+Peg | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[General Catalogue of Variable Stars]] | accessdate=2010-01-05 }}</ref>
+
+<ref name=SIMBAD>{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+206778 | title=V* eps Peg  -- Pulsating variable Star | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[SIMBAD]] | accessdate=2010-01-05 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 211\cdot 8.17)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 370.8\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=mnras226_563>{{citation | last1=Smith | first1=Verne V. | last2=Lambert | first2=David L. | title=Are the red supergiants Epsilon Peg and 12 PUP victims of mild s-processing? | journal=Monthly Notices of the Royal Astronomical Society | volume=226 | pages=563–579 | month=June | year=1987 | bibcode=1987MNRAS.226..563S }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=ENIF (Epsilon Pegasi) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/enif.html | accessdate=2012-02-08 }}</ref>
+
+}}
+
+{{Sky|21|44|11.158|+|09|52|30.04|700}}
+{{Stars of Pegasus}}
+
+[[Category:Bayer objects|Pegasi, Epsilon]]
+[[Category:Flamsteed objects|Pegasi, 8]]
+[[Category:K-type supergiants]]
+[[Category:Pegasus (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Irregular variables]]
+
+[[ar:الأنف (نجم)]]
+[[ca:Enif]]
+[[de:Enif]]
+[[es:Enif]]
+[[eo:Epsilono Pegaza]]
+[[fa:اپسیلون اسب بالدار]]
+[[fr:Epsilon Pegasi]]
+[[ko:에니프]]
+[[hi:ऍप्सिलन पॅगासाई तारा]]
+[[id:Epsilon Pegasi]]
+[[it:Enif]]
+[[lb:Enif (Stär)]]
+[[ms:Epsilon Pegasi]]
+[[nl:Enif]]
+[[ja:エニフ]]
+[[pl:Enif]]
+[[pt:Epsilon Pegasi]]
+[[ru:Эпсилон Пегаса]]
+[[sk:Enif]]
+[[fi:Epsilon Pegasi]]
+[[tt:Әнеф]]
+[[zh:危宿三]]

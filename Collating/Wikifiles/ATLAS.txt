@@ -1,0 +1,67 @@
+{{Starbox begin
+| name=Atlas A }}
+{{Starbox image 
+| image = [[File:M45map.jpg|250px]]
+| caption = Atlas is found on the left section of the map.
+}}
+{{Starbox observe
+| epoch=J2000
+| ra=03<sup>h</sup> 49<sup>m</sup> 09.7<sup>s</sup>
+| dec=+24° 03&prime; 12&Prime;
+| appmag_v=3.62
+| constell=[[Pleiades (star cluster)|Pleiades]] }}
+{{Starbox character
+| class=B8 III
+| b-v=-0.09
+| u-b=-0.36
+| variable=Suspected }}
+{{Starbox astrometry
+| radial_v=+8.5
+| prop_mo_ra=17.77
+| prop_mo_dec=-44.7
+| parallax=8.57
+| p_error=1.03
+| dist_ly=435
+| dist_pc=128
+| absmag_v=-2.04}}
+{{Starbox catalog
+| names=27 Tauri, [[Harvard Revised catalogue|HR]] 1178, [[Bonner Durchmusterung|BD]] +23°557, [[Henry Draper catalogue|HD]] 23850, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 76228, [[Fifth Fundamental Catalogue|FK5]] 142, GC 4586, ADS 2786, CCDM 03492+2403, NSV 01345, [[Hipparcos catalogue|HIP]] 17847. }}
+{{Starbox end}}
+'''Atlas''' is a [[triple star system]] in the [[Pleiades (star cluster)|Pleiades]] [[open cluster]] (M45).  It is also known as '''27 Tauri'''.
+
+The primary component, '''Atlas A''', is a blue-white [[stellar classification|B-type]] [[giant star|giant]] with an [[apparent magnitude]] of +3.62.  It is a [[spectroscopic binary]] whose components have magnitudes of +4.1 and +5.6.  The binary makes one orbit every 1250 days.  Atlas also has a dimmer magnitude +6.8 companion, '''Atlas B''', at a separation of 0.4 [[arcsecond]]s or at least 52 [[astronomical unit]]s away.
+
+==External links==
+{{Commons cat|Atlas (star)}}
+* [http://www.alcyone.de/SIT/mainstars/SIT000780.htm Alcyone ephemeris]
+
+{{Stars of Taurus}}
+
+[[Category:B-type giants]]
+[[Category:Flamsteed objects|Tauri, 27]]
+[[Category:Pleiades Open Cluster]]
+[[Category:Taurus (constellation)]]
+[[Category:Triple star systems]]
+[[Category:Spectroscopic binaries]]
+[[Category:Suspected variables]]
+[[Category:Stars with proper names]]
+
+
+{{multi-star-stub}}
+
+[[als:Atlas (Stern)]]
+[[ar:أطلس (نجم)]]
+[[de:Atlas (Stern)]]
+[[es:Atlas (estrella)]]
+[[fa:ستاره اطلس]]
+[[fr:Atlas (étoile)]]
+[[ko:아틀라스 (항성)]]
+[[it:Atlas (astronomia)]]
+[[la:Atlas (systema stellare)]]
+[[lb:Atlas (Stär)]]
+[[nl:Atlas (ster)]]
+[[no:Atlas (stjerne)]]
+[[pl:Atlas (gwiazda)]]
+[[ru:Атлас (звезда)]]
+[[sk:Atlas (hviezda)]]
+[[zh:昴宿七]]

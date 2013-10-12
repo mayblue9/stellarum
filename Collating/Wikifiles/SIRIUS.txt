@@ -1,0 +1,578 @@
+{{redirect|Sirius B|other uses of Sirius B|Sirius B (disambiguation)|other uses of Sirius|Sirius (disambiguation)}}
+{{Starbox begin
+ | name=Sirius [http://simbad.u-strasbg.fr/simbad/sim-id?Ident=name+sirius+a A] / [http://simbad.u-strasbg.fr/simbad/sim-id?Ident=name+sirius+b B]
+}}
+{{Starbox image
+ | image =
+     <div style="position: relative">[[File:Canis Major constellation map.svg|250px]]
+     <div style="position: absolute; left: 84px; top: 88px">[[File:Cercle rouge 100%.svg|17px]]</div>
+     </div><!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+ | caption = The position of Sirius (circled).
+}}
+{{Starbox image
+ | image =
+     <div style="position: relative">[[File:Sirius night sky view.jpg|250px]]
+     | caption = Sirius as it appears in the night sky.
+}}
+{{Starbox observe
+ | epoch=[[J2000.0]] ([[International Celestial Reference System|ICRS]])
+ | constell=[[Canis Major]]
+ | pronounce={{IPAc-en|ˈ|s|ɪr|i|ə|s}}<ref name="Dictionary.com" />
+ | ra={{RA|06|45|08.9173}}<ref name="SIMBADa" /><ref name="note-Astrometry" group="note" />
+ | dec={{DEC|−16|42|58.017}}<ref name="SIMBADa" /><ref name="note-Astrometry" group="note" />
+ | appmag_v=−1.47 (A)<ref name="SIMBADa" /> / 8.30 (B)<ref name="McCook2006" />
+}}
+{{Starbox character
+ | class=A1V (A)<ref name="SIMBADa" /> / [[White dwarf|DA2]] (B)<ref name="McCook2006" />
+ | b-v=0.01 (A)<ref name="SIMBADa" /> / −0.03 (B)<ref name="McCook2006" />
+ | u-b=−0.05 (A)<ref name="Hoffleit1991" /> / −1.04 (B)<ref name="McCook2006" />
+}}
+{{Starbox astrometry
+ | radial_v=−7.6<ref name="SIMBADa" />
+ | prop_mo_ra=−546.05<ref name="SIMBADa" /><ref name="note-Astrometry" group="note" />
+ | prop_mo_dec=−1223.14<ref name="SIMBADa" /><ref name="note-Astrometry" group="note" />
+ | parallax=379.21
+ | parallax_footnote=<ref name="SIMBADa" /><ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+ | p_error=1.58
+ | absmag_v=1.42 (A)<ref name="note-Magnitude" group="note" /> / 11.18 (B)<ref name="McCook2006" />
+}}
+{{Starbox visbin
+| reference=<ref name="VanDenBos1960" />
+| name=α CMa B
+| period=50.090 ± 0.055
+| axis=7.50 ± 0.04
+| eccentricity=0.5923 ± 0.0019
+| inclination=136.53 ± 0.43
+| node=44.57 ± 0.44
+| periastron=1894.130 ± 0.015
+| periarg=147.27 ± 0.54
+}}
+{{Starbox detail
+| component1 = α CMa A
+| metal_fe=0.50<ref name="Qiu2001"/>
+| mass=2.02<ref name="Liebert2005" />
+| radius=1.711<ref name="Liebert2005" />
+| rotation=16 km/s<ref name="Royer2002"/>
+| luminosity=25.4<ref name="Liebert2005" />
+| temperature=9,940<ref name="Adelman2004" />
+| age={{nowrap|2–3 × 10<sup>8</sup>}}<ref name="Liebert2005" />
+| gravity=4.33<ref name="Adelman2004" />
+| component2 = α CMa B
+| mass2=0.978<ref name="Liebert2005" />
+| radius2={{nowrap|0.0084 ± 3%}}<ref name="Holberg1998" />
+| luminosity2=0.026<ref name="note-Luminosity" group="note" />
+| temperature2=25,200<ref name="Liebert2005" />
+| gravity2=8.57<ref name="Holberg1998" />
+}}
+{{Starbox catalog
+| names='''System''': Dog Star, Aschere, Canicula, Al Shira, Sothis,<ref name="Allen1899"/> Alhabor,<ref name=gingerich/>
+Mrgavyadha, Lubdhaka,<ref name="Kumar2002" /> Tenrōsei,<ref name="Spahn1996" /> α Canis Majoris (α CMa), 9 Canis Majoris (9 CMa), [[Henry Draper catalogue|HD]] 48915, [[Harvard Revised catalogue|HR]] 2491, [[Bonner Durchmusterung|BD]] −16°1591, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 1577.00 A/B, [[Gliese-Jahreiss catalogue|GJ]] 244 A/B, [[Luyten Half-Second catalogue|LHS]] 219, ADS 5423, LTT 2638, [[Hipparcos catalogue|HIP]] 32349. <br />'''B''': EGGR 49, WD 0642-166.<ref name="SIMBADa" /><ref name="SIMBADb" /><ref name="VanAltena1995" />
+}}
+{{Starbox end}}
+
+'''Sirius''' is the [[list of brightest stars|brightest star]] in the night sky. With a visual [[apparent magnitude]] of −1.46, it is almost twice as bright as [[Canopus]], the next brightest [[star]]. The name "Sirius" is derived from the [[Ancient Greek]]: {{lang|grc|Σείριος}} ''Seirios'' ("glowing" or "scorcher"). The star has the [[Bayer designation]] [[alpha (letter)|Alpha]] [[Canis Major]]is (α CMa). What the naked eye perceives as a single star is actually a [[binary star]] system, consisting of a white [[main sequence|main-sequence]] star of [[spectral type]] A1V, termed '''Sirius A''', and a faint [[white dwarf]] companion of spectral type DA2, called '''Sirius B'''. The distance separating Sirius A from its companion varies between 8.1 and 31.5 [[Astronomical unit|AU]].<ref name="Schaaf2008"/>
+
+Sirius appears bright because of both its intrinsic [[luminosity]] and its proximity to [[Earth]]. At a distance of 2.6 [[parsec]]s (8.48&nbsp;[[light-year|ly]]), as determined by the [[Hipparcos]] astrometry satellite,<ref name="aaa474_2_653"/><ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref><ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref> the Sirius system is one of Earth's [[List of nearest stars|near neighbors]]; for Northern-hemisphere observers between 30 degrees and 73 degrees of latitude (including almost all of Europe and North America), it is the closest star (after the [[Sun]]) that can be seen with a naked eye. Sirius is gradually moving closer to the Solar System, so it will slightly increase in brightness over the next 60,000 years. After that time its distance will begin to recede, but it will continue to be the brightest star in the Earth's sky for the next 210,000 years.<ref>''Sky and Telescope'', April 1998 (p60), based on computations from [[Hipparcos]] data.</ref>
+
+Sirius A is about twice as massive as the [[Sun]] and has an [[Absolute magnitude|absolute visual magnitude]] of 1.42. It is 25 times more luminous than the Sun<ref name="Liebert2005" /> but has a significantly lower luminosity than other bright stars such as Canopus or [[Rigel]]. The system is between 200 and {{Nowrap|300 million}} years old.<ref name="Liebert2005" /> It was originally composed of two bright bluish stars. The more massive of these, Sirius B, consumed its resources and became a [[red giant]] before shedding its outer layers and collapsing into its current state as a [[white dwarf]] around {{Nowrap|120 million}} years ago.<ref name="Liebert2005" />
+
+Sirius is also known colloquially as the "'''Dog Star'''", reflecting its prominence in its [[constellation]], [[Canis Major]] (Greater Dog).<ref name="Allen1899" /> The [[heliacal rising]] of Sirius marked the flooding of the [[Nile]] in [[Ancient Egypt]] and the "[[dog days]]" of summer for the [[Ancient Greece|ancient Greeks]], while to the Polynesians it marked winter and was an important star for navigation around the Pacific Ocean.
+
+==Observational history==
+{| style="float: left; margin: 5px; border: 1px solid black;"
+|- style="text-align:center;"
+|
+<hiero>X1:N14-M44</hiero>
+[[Hieroglyph]] of<br />Sirius/Sopdet
+|}
+Sirius, known in [[ancient Egypt]] as ''[[Sopdet]]'' ([[Greek language|Greek]]: Σῶθις = [[Sothis]]), is recorded in the earliest [[astronomy|astronomical]] records. During the era of the [[Middle Kingdom of Egypt|Middle Kingdom]], Egyptians based [[Egyptian calendar|their calendar]] on the [[heliacal rising]] of Sirius, namely the day it becomes visible just before sunrise after moving far enough away from the glare of the Sun. This occurred just before the annual flooding of the [[Nile]] and the summer [[solstice]],<ref name="Wendorf2001" /> after a 70-day absence from the skies.<ref name="Holberg2007-4-5" /> The hieroglyph for Sothis features a star and a triangle. Sothis was identified with the great goddess [[Isis]], who formed a part of a triad with her husband [[Osiris]] and their son [[Horus]], while the 70-day period symbolised the passing of Isis and Osiris through the ''[[duat]]'' (Egyptian underworld).<ref name="Holberg2007-4-5"/>
+
+The ancient Greeks observed that the appearance of Sirius heralded the hot and dry summer, and feared that it caused plants to wilt, men to weaken, and women to become aroused.<ref name="Holberg2007-19" /> Due to its brightness, Sirius would have been noted to [[Scintillation (astronomy)|twinkle]] more in the unsettled weather conditions of early summer. To Greek observers, this signified certain emanations which caused its malignant influence. Anyone suffering its effects was said to be ''astroboletos'' (ἀστροβόλητος) or "star-struck". It was described as "burning" or "flaming" in literature.<ref name="Holberg2007-20"/> The season following the star's appearance came to be known as the Dog Days of summer.<ref name="Holberg2007-16-17" /> The inhabitants of the island of [[Kea (island)|Ceos]] in the [[Aegean Sea]] would offer sacrifices to Sirius and [[Zeus]] to bring cooling breezes, and would await the reappearance of the star in summer. If it rose clear, it would portend good fortune; if it was misty or faint then it foretold (or emanated) pestilence. Coins retrieved from the island from the 3rd century BC feature dogs or stars with emanating rays, highlighting Sirius' importance.<ref name="Holberg2007-20" /> The Romans celebrated the heliacal setting of Sirius around April 25, sacrificing a dog, along with incense, wine, and a sheep, to the goddess [[Robigo]] so that the star's emanations would not cause [[Rust (fungus)|wheat rust]] on wheat crops that year.<ref name="Ovid" />
+
+[[Ptolemy]] of Alexandria mapped the stars in Books&nbsp;VII and VIII of his ''[[Almagest]]'', in which he used Sirius as the location for the globe's central meridian. He curiously depicted it as one of six red-coloured stars (see the [[Sirius#Red controversy|Red controversy]] section below). The other five are class M and K stars, such as [[Arcturus]] and [[Betelgeuse]].<ref name="Holberg2007-32" />
+
+Bright stars were important to the ancient [[Polynesian culture|Polynesians]] for navigation between the many islands and atolls of the Pacific Ocean. Low on the horizon, they acted as stellar compasses to assist mariners in charting courses to particular destinations. They also served as latitude markers; the declination of Sirius matches the latitude of the archipelago of [[Fiji]] at 17°S and thus passes directly over the islands each night.<ref name="Holberg2007-25"/> Sirius served as the body of a "Great Bird" constellation called ''Manu'', with [[Canopus]] as the southern wingtip and [[Procyon]] the northern wingtip, which divided the Polynesian night sky into two hemispheres.<ref name="Holberg2007-25-26" /> Just as the appearance of Sirius in the morning sky marked summer in Greece, so it marked the chilly onset of winter for the [[Māori people|Māori]], whose name ''Takurua'' described both the star and the season. Its culmination at the [[winter solstice]] was marked by celebration in [[Hawaii]], where it was known as ''Ka'ulua'', "Queen of Heaven". Many other Polynesian names have been recorded, including ''Tau-ua'' in the [[Marquesas Islands]], ''Rehua'' in [[New Zealand]], ''Aa'' and ''Hoku-Kauopae'' in Hawaii,<ref name="Holberg2007-26" /> and ''Ta'urua-fau-papa'' "Festivity of original high chiefs" and ''Ta'urua-e-hiti-i-te-tara-te-feiai'' "Festivity who rises with prayers and religious ceremonies" in Tahiti.<ref name=henry1907>{{cite journal|last=Henry|first=Teuira |year=1907|title=Tahitian Astronomy: Birth of Heavenly Bodies|journal=The Journal of the Polynesian Society |volume=16|issue=2|pages=101–04|jstor=20700813}}</ref> 
+
+The indigenous Boorong people of northwestern Victoria named Sirius as ''Warepil''.<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref>
+
+===Kinematics===
+In 1718, [[Edmond Halley]] discovered the [[proper motion]] of the hitherto presumed "fixed" stars<ref name="Aitken1942" /> after comparing contemporary [[astrometry|astrometric]] measurements with those given in Ptolemy's ''Almagest''. The bright stars [[Aldebaran]], [[Arcturus]] and Sirius were noted to have moved significantly, the last of which having progressed 30 [[Minute of arc|arc minutes]] (about the diameter of the [[moon]]) southwards in 1,800 years.<ref name="Holberg2007-41-42" />
+
+In 1868, Sirius became the first star to have its velocity measured. Sir [[William Huggins]] examined the spectrum of this star and observed a noticeable [[red shift]]. He concluded that Sirius was receding from the Solar System at about 40&nbsp;km/s.<ref name="Daintith1994" /><ref name="Huggins1868" /> Compared to the modern value of −7.6&nbsp;km/s,<ref name="SIMBADa" /> this both was an overestimate and had the wrong sign; the minus means it is approaching the Sun. However, it is notable for introducing the study of celestial [[radial velocity|radial velocities]].
+
+===Discovery of a companion===
+[[Image:Celestia Sirius.jpg|thumb|right|A simulated image of Sirius A and B using [[Celestia]]]]
+
+In 1844 the German astronomer [[Friedrich Bessel]] deduced from changes in the proper motion of Sirius that it had an unseen companion.<ref name="Bessel1844" /> Nearly two decades later, on January 31, 1862, American telescope-maker and astronomer [[Alvan Graham Clark]] first observed the faint companion, which is now called Sirius B, or affectionately "the Pup".<ref name="Flammarion1877" /> This happened during testing of an {{convert|18.5|in|mm|adj=on}} aperture [[great refractor]] telescope for [[Dearborn Observatory]], which was the largest refracting telescope lens in existence at the time, and the largest telescope in America.<ref name=craig/>
+
+The visible star is now sometimes known as Sirius A. Since 1894, some apparent orbital irregularities in the Sirius system have been observed, suggesting a third very small companion star, but this has never been definitely confirmed. The best fit to the data indicates a six-year orbit around Sirius A and a mass of only 0.06&nbsp;[[solar mass]]es. This star would be five to ten magnitudes fainter than the white dwarf Sirius&nbsp;B, which would account for the difficulty of observing it.<ref name="Benest1995" /> Observations published in 2008 were unable to detect either a third star or a planet. An apparent "third star" observed in the 1920s is now confirmed as a background object.<ref name="BonnetBidaud2008" />
+
+In 1915, [[Walter Sydney Adams]], using a 60-inch (1.5&nbsp;m) reflector at [[Mount Wilson Observatory]], observed the [[spectrum]] of Sirius B and determined that it was a faint whitish star.<ref name="Adams1915" /> This led astronomers to conclude that it was a white dwarf, the second to be discovered.<ref name="Holberg2005" /> The diameter of Sirius A was first measured by [[Robert Hanbury Brown]] and [[Richard Q. Twiss]] in 1959 at [[Jodrell Bank]] using their stellar [[intensity interferometer]].<ref name="Hanbury1958" /> In 2005, using the [[Hubble Space Telescope]], astronomers determined that Sirius B has nearly the diameter of the Earth, {{convert|12,000|km|mi|sp=us}}, with a mass that is 98% of the Sun.<ref name="Brown2005" /><ref name="McGourty2005" /><ref name="Bond2005" /><ref name="Barstow2005" />
+
+===Red controversy===
+Around 150 AD, the Greek astronomer of the Roman period [[Claudius Ptolemy]] described Sirius as reddish, along with five other stars, [[Betelgeuse]], [[Antares]], [[Aldebaran]], [[Arcturus]] and [[Pollux (star)|Pollux]], all of which are clearly of orange or red hue.<ref name="Holberg2007-157" /> The discrepancy was first noted by amateur astronomer [[Thomas Barker (meteorologist)|Thomas Barker]], squire of [[Lyndon, Rutland|Lyndon Hall]] in [[Rutland]], who prepared a paper and spoke at a meeting of the Royal Society in London in 1760.<ref name="Ceragioli1995" /> The existence of other stars changing in brightness gave credence to the idea that some may change in colour too; [[Sir John Herschel]] noted this in 1839, possibly influenced by witnessing [[Eta Carinae]] two years earlier.<ref name="Holberg2007-158" /> [[Thomas Jefferson Jackson See]] resurrected discussion on red Sirius with the publication of several papers in 1892, and a final summary in 1926.<ref name="Holberg2007-161" /> He cited not only Ptolemy but also the poet [[Aratus]], the orator [[Cicero]], and general [[Germanicus]] as colouring the star red, though acknowledging that none of the latter three authors were astronomers, the last two merely translating Aratus' poem ''Phaenomena''.<ref name="Holberg2007-162" /> [[Seneca the Younger|Seneca]], too, had described Sirius as being of a deeper red colour than Mars.<ref name="Whittet1999" /> However, not all ancient observers saw Sirius as red. The 1st century AD poet [[Marcus Manilius]] described it as "sea-blue", as did the 4th century [[Avienus]].<ref name="Holberg2007-163" /> It is the standard star for the color white in ancient China, and multiple records from the 2nd century BC up to the 7th century AD all describe Sirius as white in hue.<ref name="Jiang1992" /><ref name="Jiang1993" />
+
+In 1985, German astronomers Wolfhard Schlosser and Werner Bergmann published an account of an 8th century [[Lombardy|Lombardic]] manuscript, which contains ''De cursu stellarum ratio'' by St. [[Gregory of Tours]]. The [[Latin]] text taught readers how to determine the times of nighttime prayers from positions of the stars, and Sirius is described within as ''rubeola''&nbsp;— "reddish". The authors proposed this was further evidence Sirius B had been a red giant at the time.<ref name="Schlosser1985" /> However, other scholars replied that it was likely St. Gregory had been referring to Arcturus instead.<ref name="McCluskey1987" /><ref name="VanGent1987" />
+
+The possibility that [[stellar evolution]] of either Sirius A or Sirius B could be responsible for this discrepancy has been rejected by astronomers on the grounds that the timescale of thousands of years is too short and that there is no sign of the nebulosity in the system that would be expected had such a change taken place.<ref name="Whittet1999"/> An interaction with a third star, to date undiscovered, has also been proposed as a possibility for a red appearance.<ref name="Kuchner2000" /> Alternative explanations are either that the description as red is a poetic metaphor for ill fortune, or that the dramatic [[scintillation (astronomy)|scintillation]]s of the star when it was observed rising left the viewer with the impression that it was red. To the naked eye, it often appears to be flashing with red, white and blue hues when near the horizon.<ref name="Whittet1999" />
+
+==Visibility==
+[[Image:Sirius A and B Hubble photo.jpg|thumb|left|The image of Sirius A and Sirius B taken by the [[Hubble Space Telescope]]. The white dwarf can be seen to the lower left.<ref name="Hubble2005" /> The [[diffraction spikes]] and concentric rings are [[Point spread function|instrumental effects]].]]
+With an [[apparent magnitude]] of −1.46, Sirius is the brightest star in the night sky, almost twice the brightness of the second brightest star, [[Canopus]].<ref name="Holberg2007-xi"/> However, it is not as bright as the [[Moon]], [[Venus]], or [[Jupiter]]. At times, [[Mercury (planet)|Mercury]] and [[Mars]] are also brighter than Sirius.<ref name="Espenak-Mars" /> Sirius can be seen from almost every inhabited region of the Earth's surface, with only [[Northernmost settlements|those north of 73 degrees]] unable to see it. However, it does not rise very high when viewed from some northern cities, reaching only 13° above the horizon from [[Saint Petersburg]].<ref name="Holberg2007-82" /> Sirius, along with [[Procyon]] and Betelgeuse, forms one of the three [[Vertex (geometry)|vertices]] of the [[Winter Triangle]] to observers in the [[Northern Hemisphere]].<ref name="Darling" /> Due to its [[declination]] of roughly −17°,<ref name="SIMBADa" /> Sirius is a [[circumpolar star]] from latitudes south of 73° S. From the [[Southern Hemisphere]] in early July, Sirius can be seen in both the evening where it sets after the Sun, and in the morning where it rises before the Sun.<ref name="Stargazers2000" /> Due to [[precession]] (and slightly proper motion), Sirius will move further south. From AD 9000 Sirius won't be visible anymore from northern and central Europe and in AD 14000 (when [[Vega]] is close to the North Pole) its declination will be -67º and thus will be circumpolar throughout South Africa and in most parts of Australia.
+
+Sirius can even be observed in daylight with the naked eye under the right conditions. Ideally, the sky should be very clear, with the observer at a high altitude, the star passing overhead, and the Sun low down on the horizon.<ref name="Henshaw1984" /> These observing conditions are more easily met in the southern hemisphere, due to the southerly declination of Sirius.
+
+The orbital motion of the Sirius binary system brings the two stars to a minimum angular separation of 3&nbsp;[[arcsecond]]s and a maximum of 11&nbsp;arcseconds. At the closest approach, it is an observational challenge to distinguish the white dwarf from its more luminous companion, requiring a telescope with at least 300&nbsp;mm (12&nbsp;in) aperture and excellent seeing conditions. A [[periastron]] occurred in 1994<ref name="note-Periastron" group="note" /> and the pair have since been moving apart, making them easier to separate with a telescope.<ref name="Mullaney2008" />
+
+At a distance of 2.6 parsecs (8.6&nbsp;ly), the Sirius system contains two of the eight [[List of nearest stars|nearest stars]] to the [[Solar System]]<ref name="Todd2006" /> and is the fifth closest stellar system to ours.<ref name="Todd2006" /> This proximity is the main reason for its brightness, as with other near stars such as [[Alpha Centauri]] and in stark contrast to distant, highly luminous supergiants such as Canopus, Rigel or Betelgeuse.<ref name="RASNZ" /> However, it is still around 25 times more luminous than the Sun.<ref name="Liebert2005" /> The closest large neighbouring star to Sirius is Procyon, 1.61 parsecs (5.24&nbsp;ly) away.<ref name="SolStation" /> The ''[[Voyager 2]]'' spacecraft, launched in 1977 to study the four [[Jovian planets]] in the Solar System, is expected to pass within {{convert|4.3|ly|pc}} of Sirius in approximately 296,000 years.<ref name="Angrum2005" />
+
+==System==
+[[Image:Sirius A & B X-ray.jpg|thumb|right|200px|A [[Chandra X-ray Observatory]] image of the Sirius star system, where the spike-like pattern is due to the support structure for the transmission grating. The bright source is Sirius B. Credit: NASA/SAO/CXC.]]
+Sirius is a binary star system consisting of two white stars orbiting each other with a separation of about {{convert|20|AU}}<ref name="note-Separation" group="note"/> (roughly the distance between the Sun and [[Uranus]]) and a period of 50.1 years. The brighter component, termed Sirius A, is a [[main sequence|main-sequence]] star of [[spectral type]] A1V, with an estimated surface temperature of 9,940&nbsp;[[Kelvin|K]].<ref name="Adelman2004"/> Its companion, Sirius B, is a star that has already evolved off the main sequence and become a white dwarf. Currently 10,000 times less luminous in the visual spectrum, Sirius B was once the more massive of the two.<ref name="Holberg2007-214"/> The age of the system has been estimated at around 230 million years. Early in its lifespan it was thought to have been two bluish white stars orbiting each other in an elliptical orbit every 9.1 years.<ref name="Holberg2007-214" /> The system emits a [[infrared excess|higher than expected level of infrared radiation]], as measured by [[IRAS]] space-based observatory. This may be an indication of dust in the system, and is considered somewhat unusual for a binary star.<ref name="SolStation" /><ref name="Backman1986" /> The [[Chandra X-ray Observatory]] image shows Sirius B outshining its bright partner as it is a brighter X-ray source.<ref name="Brosch2008-126" />
+
+===Sirius A===
+[[Image:Sirius A and B artwork.jpg|thumb|right|An artist's impression of Sirius A and Sirius B. Sirius A is the larger of the two stars.]]
+Sirius A has a mass double that of the Sun.<ref name="Liebert2005"/><ref name="Braganca2003"/> The radius of this star has been measured by an [[astronomical interferometer]], giving an estimated angular diameter of 5.936±0.016&nbsp;[[milliarcsecond|mas]]. The [[stellar rotation|projected rotational velocity]] is a relatively low 16&nbsp;km/s,<ref name="Royer2002" /> which does not produce any significant flattening of its disk.<ref name="Kervella2003" /> This is at marked variance with the similar-sized [[Vega]], which rotates at a much faster 274&nbsp;km/s and bulges prominently around its equator.<ref name="Aufdenberg2006" />  A weak [[magnetic field]] has been detected on the surface of Sirius A.<ref name=petit2011/>
+
+Stellar models suggest that the star formed during the collapsing of a [[molecular cloud]], and that after {{Nowrap|10 million}} years, its internal energy generation was derived entirely from nuclear reactions. The core became [[convection zone|convective]] and utilized the [[CNO cycle]] for energy generation.<ref name="Kervella2003"/> It is predicted that Sirius A will have completely exhausted the store of hydrogen at its core within a billion (10<sup>9</sup>) years of its formation. At this point it will pass through a [[red giant]] stage, then settle down to become a white dwarf.
+
+Sirius A is classed as an [[Am star]] because the spectrum shows deep metallic [[absorption line]]s,<ref name=auriere2010/> indicating an enhancement in elements heavier than helium, such as iron.<ref name="SolStation" /><ref name="Kervella2003"/> When compared to the Sun, the proportion of iron in the atmosphere of Sirius A relative to hydrogen is given by <math>\begin{smallmatrix}[\frac{Fe}{H}]=0.5\end{smallmatrix}</math>,<ref name="Qiu2001" /> which is equivalent to 10<sup>0.5</sup>, meaning it has 316% of the proportion of iron in the Sun's atmosphere. The high surface content of metallic elements is unlikely to be true of the entire star, rather the iron-peak and heavy metals are radiatively levitated towards the surface.<ref name="Kervella2003"/>
+
+===Sirius B===
+[[Image:Orbit Sirius B arcsec.png|thumb|right|The orbit of Sirius B around A as seen from Earth (slanted ellipse) and as seen face-on (wide horizontal ellipse).]]
+With a mass nearly equal to the Sun's, Sirius B is one of the more massive [[white dwarf]]s known (0.98 [[solar masses]]<ref name="Leicester2005"/>); it is almost double the 0.5–0.6 [[solar-mass]] average. Yet that same mass is packed into a volume roughly equal to the Earth's.<ref name="Leicester2005"/> The current surface temperature is 25,200&nbsp;K.<ref name="Liebert2005"/> However, since there is no internal heat source, Sirius B will steadily cool as the remaining heat is radiated into space over a period of more than two billion years.<ref name="Imamura1995"/>
+
+A white dwarf forms only after the star has evolved from the main sequence and then passed through a red giant stage. This occurred when Sirius B was less than half its current age, around 120 million years ago. The original star had an estimated 5 solar masses<ref name="Liebert2005"/> and was a [[B-type star]] (roughly B4-5)<ref name="Siess2000"/><ref name="Palla2005"/> when it still was on the main sequence. While it passed through the red giant stage, Sirius B may have enriched the [[metallicity]] of its companion.
+
+This star is primarily composed of a carbon–oxygen mixture that was generated by helium fusion in the progenitor star.<ref name="Liebert2005"/> This is overlaid by an envelope of lighter elements, with the materials segregated by mass because of the high surface gravity.<ref name="Koester1990"/> Hence the outer atmosphere of Sirius B is now almost pure hydrogen—the element with the lowest mass—and no other elements are seen in this star's spectrum.<ref name="Holberg2004"/>
+
+===Sirius star cluster===
+In 1909, [[Ejnar Hertzsprung]] was the first to suggest that Sirius was a member of the [[Ursa Major Moving Group]], based on his observations of the system's movements across the sky. The Ursa Major Group is a set of 220 stars that share a common motion through space and were once formed as members of an [[open cluster]], which has since become gravitationally unbound.<ref name="Frommert2003" /> However, analyses in 2003 and 2005 found Sirius's membership in the group to be questionable: the Ursa Major Group has an estimated age of 500±100&nbsp;million years, while Sirius, with metallicity similar to the Sun's, has an age that is only half this, making it too young to belong to the group.<ref name="Liebert2005" /><ref name="King2003" /><ref name="Croswell2005" /> Sirius may instead be a member of the proposed Sirius Supercluster, along with other scattered stars such as [[Beta Aurigae]], [[Alpha Coronae Borealis]], [[Beta Crateris]], [[Beta Eridani]] and [[Beta Serpentis]].<ref name="Eggen1992" /> This is one of three large clusters located within {{convert|500|ly|pc}} of the Sun. The other two are the [[Hyades (star cluster)|Hyades]] and the [[Pleiades (star cluster)|Pleiades]], and each of these clusters consists of hundreds of stars.<ref name="Olano2001" />
+
+==Etymology and cultural significance==
+{{See also|Winter triangle}}
+The most commonly used proper name of this star comes from the [[Latin]] ''Sīrius'', from the [[Ancient Greek]] ''Σείριος'' (''Seirios'', "glowing" or "scorcher"),<ref name="Liddell1980" /> although the Greek word itself may have been imported from elsewhere before the [[Archaic period in Greece|Archaic period]],<ref name="Holberg2007-15-16" /> one authority suggesting a link with the Egyptian god [[Osiris]].<ref name="Brosch2008-21" /> The name's earliest recorded use dates from the 7th century BC in [[Hesiod]]'s poetic work ''[[Works and Days]]''.<ref name="Holberg2007-15-16" /> Sirius has over 50 other designations and names attached to it.<ref name="Holberg2007-xi" /> In [[Geoffrey Chaucer]]'s essay [[Treatise on the Astrolabe]], it bears the name Alhabor, and is depicted by a hound's head. This name is widely used on medieval [[astrolabe]]s from Western Europe.<ref name=gingerich>{{cite doi|10.1111/j.1749-6632.1987.tb37197.x}}</ref> In [[Sanskrit]] it is known as ''Mrgavyadha'' "deer hunter", or ''Lubdhaka'' "hunter". As Mrgavyadha, the star represents [[Rudra]] ([[Shiva]]).<ref name="Kak" /><ref name="Magee1995" />  The star is referred as ''Makarajyoti'' in [[Malayalam]] and has religious significance to the pilgrim center [[Sabarimala]].{{citation needed|date=January 2012}} In Scandinavia, the star has been known as ''Lokabrenna'' ("burning done by Loki", or "Loki's torch").<ref name=rydberg1889/> In the [[astrology]] of the [[Middle Ages]], Sirius was a [[Behenian fixed star]],<ref name="Tyson1993" /> associated with [[beryl]] and [[juniper]]. Its astrological symbol [[File:Sirius - Agrippa.png]]  was listed by [[Heinrich Cornelius Agrippa]].<ref name="Agrippa1533" />
+
+Many cultures have historically attached special significance to Sirius, particularly in relation to dogs. Indeed, it is often colloquially called the "Dog Star" as the brightest star of [[Canis Major]], the "Great Dog" constellation.
+
+It was classically depicted as [[Orion (mythology)|Orion]]'s dog. The Ancient Greeks thought that Sirius's emanations could affect dogs adversely, making them behave abnormally during the "dog days," the hottest days of the summer.  The Romans knew these days as ''dies caniculares'', and the star Sirius was called Canicula, "little dog." The excessive panting of dogs in hot weather was thought to place them at risk of desiccation and disease. In extreme cases, a foaming dog might have [[rabies]], which could infect and kill humans whom they had bitten.<ref name="Holberg2007-20"/> [[Homer]], in the [[Iliad]], describes the approach of [[Achilles]] toward [[Troy]] in these words:{{quote|<poem>Sirius rises late in the dark, liquid sky
+On summer nights, star of stars,
+Orion's Dog they call it, brightest
+Of all, but an evil portent, bringing heat
+And fevers to suffering humanity.<ref name="Homer" /></poem>}}
+
+In Iranian mythology, especially in [[Persian mythology]] and in [[Zoroastrianism]], the ancient religion of [[Persia]], Sirius appears as ''[[Tishtrya]]'' and is revered as a divinity. Beside passages in the [[sacred texts]] of the [[Avesta]], the [[Avestan]] language ''Tishtrya'' followed by the version ''Tir'' in [[Middle Persian|Middle]] and [[New Persian]] is also depicted in the [[Persian literature|Persian]] epic [[Shahnameh]] of [[Ferdowsi]]. Due to the concept of the [[yazatas]], powers which are "worthy of worship", Tishtrya is a divinity of rain and fertility and an antagonist of [[apaosha]], the demon of drought. In this struggle, Tishtrya is beautifully depicted as a white horse.<ref>{{cite book
+|author=Doostkhah, Jalil
+|title=Avesta. Kohantarin Sorōdhāye Irāniān|year=1996
+|publisher=Morvarid Publications
+|location=Tehran|isbn=964-6026-17-6
+}}</ref><ref>{{cite book
+|author=West, E. W.
+|title=Pahlavi Texts|year=1895-1910
+|publisher=Routledge Curzon, 2004
+|isbn=0-7007-1544-4
+}}</ref><ref>{{cite book
+|author=Razi, Hashem
+|title=Encyclopaedia of Ancient Iran
+|year=2002|publisher=Sokhan Publications
+|location=Tehran|isbn=964-372-027-6}}</ref><ref>{{cite book
+|author=Ferdowsi, A.
+|title=Shahnameh e Ferdowsi
+|publisher=Bank Melli Iran Publications, 2003
+|isbn=964-93135-3-2}}</ref>
+
+In [[Chinese astronomy]] the star is known as the star of the "celestial wolf" ({{CJKV|t=天狼|s=天狼|j=天狼|}}; [[Pinyin|Chinese romanization]]: Tiānláng; [[Romanization of Japanese|Japanese romanization]]: Tenrō;<ref name="Holberg2007-22" /> in the [[Well (Chinese constellation)|Mansion of Jǐng]] (井宿). Farther afield, many nations among the indigenous peoples of North America also associated Sirius with canines; the [[Seri people|Seri]] and [[Tohono O'odham]] of the southwest note the star as a dog that follows mountain sheep, while the [[Blackfoot]] called it "Dog-face". The [[Cherokee]] paired Sirius with Antares as a dog-star guardian of either end of the "Path of Souls". The [[Pawnee people|Pawnee]] of Nebraska had several associations; the Wolf (Skidi) tribe knew it as the "Wolf Star", while other branches knew it as the "Coyote Star". Further north, the Alaskan [[Inuit]] of the [[Bering Strait]] called it "Moon Dog".<ref name="Holberg2007-23" />
+
+Several cultures also associated the star with a bow and arrows. The Ancient Chinese visualized a large bow and arrow across the southern sky, formed by the constellations of [[Puppis]] and Canis Major. In this, the arrow tip is pointed at the wolf Sirius. A similar association is depicted at the [[Dendera Temple complex|Temple of Hathor]] in [[Dendera]], where the goddess [[Satis|Satet]] has drawn her arrow at [[Hathor]] (Sirius). Known as "Tir", the star was portrayed as the arrow itself in later Persian culture.<ref name="Holberg2007-24" />
+
+Sirius is mentioned in ''Surah'', ''An-Najm'' ("The Star"), of the [[Qur'an]], where it is given the name  الشِّعْرَى (transliteration: ''aš-ši‘rā'' or ''ash-shira''; the leader).<ref name="Staff2007" />  The verse is: "وأنَّهُ هُوَ رَبُّ الشِّعْرَى", "That He is the Lord of Sirius (the Mighty Star)." (An-Najm:49)<ref name="Quran" /> [[Ibn Kathir]] said in his commentary "[[Ibn 'Abbas]], Mujahid, [[Qatada]] and Ibn Zayd said about Ash-Shi`ra that it is the bright star, named Mirzam Al-Jawza' (Sirius), which a group of Arabs used to worship."<ref name="tom1977" /> The alternate name ''Aschere'', used by [[Johann Bayer]], is derived from this.<ref name="Allen1899"/> 
+
+In [[Theosophy]], it is believed the ''Seven Stars of the [[Pleiades in folklore and literature|Pleiades]]'' transmit the [[spiritual energy]] of the [[Seven Rays#In Theosophy|Seven Rays]] from the ''Galactic Logos'' to the ''Seven Stars of the [[Ursa Major|Great Bear]]'', then to Sirius. From there is it sent via the [[Sun]] to the god of [[Earth]] ([[Sanat Kumara]]), and finally through the seven [[Masters of the Ancient Wisdom|Masters of the Seven Rays]] to the [[human race]].<ref name="Baker1977" />
+
+===Dogon===
+{{See also|Nommo}}
+
+The [[Dogon people]] are an [[ethnic]] group in [[Mali]], [[West Africa]], reported to have traditional astronomical knowledge about Sirius that would normally be considered impossible without the use of telescopes. According to [[Marcel Griaule]]'s books ''Conversations with Ogotemmêli'' and ''The Pale Fox'' they knew about the fifty-year orbital period of Sirius and its companion prior to western astronomers. They also refer to a third star accompanying Sirius A and B. [[Robert K. G. Temple|Robert Temple]]'s 1976 book ''[[The Sirius Mystery]]'', credits them with knowledge of the four Galilean moons of [[Jupiter]] and the rings of [[Saturn]]. This has been the subject of controversy and speculation. According to a 1978 ''[[Skeptical Inquirer]]'' article it is possibly the result of cultural contamination.<ref name="Ridpath1978" /> Some have suggested the contaminators to have been the [[ethnographers]] themselves.<ref name="Ortiz"/><ref name="Coppens"/> Others see this explanation as being too simplistic.<ref name="Apter1999" />
+[[File:Yoonir-Symbole de l'Univers.jpg|thumb|upright|''Yoonir'', symbol of the Universe in [[Serer religion]].<ref name="Gravrand">[[Henry Gravrand|Gravrand, Henry]], "La civilisation [[Serer people|sereer]] : ''Pangool''", vol. 2, Les Nouvelles Editions [[Africa]]ines du [[Senegal]], (1990) pp 20-21, 149-155, ISBN 2-7236-1055-1</ref><ref name=" Museum of Civilization ">Clémentine Faïk-Nzuji Madiya, Canadian Museum of Civilization, Canadian Centre for Folk Culture Studies, International Centre for African Language, Literature and Tradition (Louvain, Belgium). ISBN 0-660-15965-1. pp 5, 27, 115</ref>]]
+
+===Serer religion===
+{{main|Serer religion|Saltigue}}
+In the [[Serer religion|religion]] of the [[Serer people]] of [[Senegal]], the [[Gambia]] and [[Mauritania]], Sirius is called ''Yoonir'' from the [[Serer language]] (and some of the [[Cangin languages|Cangin language]] speakers, who are all ethnically Serers). The star Sirius is one of the most important and sacred stars in [[Serer religion#Cosmology|Serer religious cosmology]] and symbolism. The Serer high priests and priestesses, ([[Saltigue]]s, the hereditary "rain priests"<ref>Galvan, Dennis Charles, "The State Must be our Master of Fire : How Peasants Craft Culturally Sustainable Development in Senegal", Berkeley, University of California Press, (2004), pp 86-135, ISBN 978-0-520-23591-5.</ref>) chart ''Yoonir'' in order to forecast rain fall and enable Serer farmers to start planting seeds. In Serer religious cosmology, it is the symbol of the universe.<ref name="Gravrand"/><ref name=" Museum of Civilization "/>
+
+===Modern legacy===
+{{See also|Sirius in fiction}}
+<!--
+ Unless a definite link can be established to the
+ star by means of citations, other uses of the name
+ Sirius should be added to the disambiguation page.
+-->
+<!-- I. Popular culture. -->
+Sirius is frequently a [[Sirius in fiction|subject]] used in [[science fiction]] and related [[popular culture]],<ref name="AsimovAnalog1993" /> and even the subject of poetry.<ref name="Brosch2008-33" /> Sirius is featured on the coat of arms of [[Macquarie University]], and is the name of its alumnae journal.<ref name="Macquarie2007" /> The name of the North American [[satellite radio]] company, Satellite CD Radio, Inc., was changed to [[Sirius Satellite Radio]] in November 1999, being named after "the brightest star in the night sky".<ref name="SiriusSatelliteRadio" /> Composer [[Karlheinz Stockhausen]] has been claimed to have said on several occasions that he came from a planet in the Sirius system.<ref name="McEnery2001" /><ref name="Guardian2005" /> Astronomer Noah Brosch has speculated that the name of the character [[Sirius Black]] from the [[Harry Potter]] stories, who owns a unique ability to transform into a black dog, might have been inspired by "Sirius B".<ref name="Brosch2008-33"/>
+In the BBC Doctor Who series, the Doctor reveals the star actually consists of two smaller ones.
+
+<!-- II. Vehicles -->
+Sirius is one of the 27 stars on the [[flag of Brazil]], where it represents the state of [[Mato Grosso]].<ref name="Araujo2009"/>
+
+Seven ships of Great Britain's [[Royal Navy]] have been called {{HMS|Sirius}} since the 18th century, with [[HMS Sirius (1786)|the first]] being the [[flagship]] of the [[First Fleet]] to Australia in 1788.<ref name="Henderson1988" /> The [[Royal Australian Navy]] subsequently named a vessel {{HMAS|Sirius|O 266|6}} in honor of the flagship.<ref name="RAN" /> American vessels include the {{USNS|Sirius|T-AFS-8|6}} as well as a monoplane model—the [[Lockheed Sirius]], the first of which was flown by [[Charles Lindbergh]].<ref name="VanDerLinden2000" /> The name was also adopted by [[Mitsubishi Motors]] for the [[Mitsubishi Sirius engine]] in 1980.<ref name="Mitsubishi2007" />
+
+==See also==
+{{Portal|Star}}
+* [[List of brightest stars]]
+* [[List of nearest stars]]
+* [[Sothic cycle]]
+
+==Notes==
+{{Reflist|group="note"|refs=
+
+<ref name="note-Astrometry" group="note">Astrometric data, mirrored by SIMBAD from the [[Hipparcos]] catalogue, pertains to the center of mass of the Sirius system. See §2.3.4, ''[http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf Volume 1, The Hipparcos and Tycho Catalogues]'', European Space Agency, 1997, and the [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2032349 entry for Sirius] in the Hipparcos catalogue ([[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/239 I/239].)</ref>
+
+<ref name="note-Luminosity" group="note">[[Luminosity#Computing between brightness and luminosity|Bolometric luminosity]] of Sirius B calculated from L=4πR<sup>2</sup>σT<sub>eff</sub><sup>4</sup>. (This simplifies to Ls=(Rs)^2*(Ts)^4, where Ls, Rs and Ts are Luminosity, Radius and Temperature all relative to solar values) See: {{cite book
+ | first=Roger John | last=Tayler | year=1994
+ | title=The Stars: Their Structure and Evolution
+ | publisher=Cambridge University Press
+ | page=16 | isbn=0-521-45885-4 }}</ref>
+
+<ref name="note-Magnitude" group="note">For apparent magnitude ''m'' and parallax ''π'', the absolute magnitude ''M<sub>v</sub>'' of Sirius A is given by:
+:<math>\begin{smallmatrix}M_v\ =\ m + 5 (\log_{10} {\pi} + 1)\ =\ -1.47 + 5 (\log_{10}{0.37921} + 1)\ =\ 1.42\end{smallmatrix}</math>
+See: {{cite book
+ | first=Roger John | last=Tayler | year=1994
+ | title=The Stars: Their Structure and Evolution
+ | publisher=Cambridge University Press
+ | page=16 | isbn=0-521-45885-4 }}</ref>
+
+<ref name="note-Periastron" group="note">Two full 50.09-year orbits following the periastron epoch of 1894.13 gives a date of 1994.31.</ref>
+
+<ref name="note-Separation" group="note">1&nbsp;light&nbsp;year&nbsp;=&nbsp;63,241&nbsp;AU; semi-major axis =&nbsp;distance × tan(subtended angle) =&nbsp;8.6 × 63,241 × tan(7.56″) =&nbsp;19.9&nbsp;A.U., approximately</ref>
+}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name="Adams1915">{{cite journal | bibcode=1915PASP...27..236A | title=The Spectrum of the Companion of Sirius | first=W. S. | last=Adams | journal=Publications of the Astronomical Society of the Pacific | volume=27 |issue=161 | month=December |year=1915 | pages=236–237 | doi=10.1086/122440 | ref=harv }}</ref>
+
+<ref name="Adelman2004">{{cite conference | first=Saul J. | last=Adelman | title=The Physical Properties of normal A stars | booktitle=Proceedings of the International Astronomical Union | pages=1–11 | publisher=Cambridge University Press | date=July 8–13, 2004 | location=Poprad, Slovakia | bibcode=2004IAUS..224....1A }}</ref>
+
+<ref name="Agrippa1533">{{cite book | first=Heinrich Cornelius | last=Agrippa | year=1533 | title=De Occulta Philosophia | isbn=90-04-09421-0 }}</ref>
+
+<ref name="Aitken1942">{{cite journal | last=Aitken | first=R. G. | year=1942 | title=Edmund Halley and Stellar Proper Motions | journal=Astronomical Society of the Pacific Leaflets | volume=4 | pages=103–112 | bibcode=1942ASPL....4..103A | ref=harv }}</ref>
+
+<ref name="Allen1899">{{cite book | first=Richard Allen | last=Hinckley | url=http://books.google.com/?id=5xQuAAAAIAAJ | title=Star-names and Their Meanings | publisher=G. E. Stechert | location=New York | year=1899 | pages=117–25}}</ref>
+
+<ref name="Angrum2005">{{cite web | last=Angrum | first=Andrea | date=2005-08-25 | url =http://voyager.jpl.nasa.gov/mission/interstellar.html | title=Interstellar Mission | publisher=NASA/JPL | accessdate=2007-05-07 }}</ref>
+
+<ref name="Apter1999">{{cite journal | last=Apter | first=Andrew | title=Griaule's Legacy: Rethinking "la parole claire" in Dogon Studies | journal=[[Cahiers d'Études africaines]] | year=1999 | volume=45 | issue=1 | pages=95–129 | url=http://www.sscnet.ucla.edu/history/apter/Cahiers.pdf | accessdate=2008-04-16 | format=PDF | ref=harv }}</ref>
+
+<ref name="Araujo2009">{{cite web | first=Paulo Araújo | last=Duarte | title=Astronomia na Bandeira Brasileira | publisher=Universidade Federal de Santa Catarina | url=http://classic-web.archive.org/web/20080502120005/http://www.cfh.ufsc.br/~planetar/textos/astroban.htm | accessdate=2009-07-09 }}</ref>
+
+<ref name="AsimovAnalog1993">{{cite book | author=The editors of ''Asimov's Science Fiction'' and ''Analog'' | title=Writing Science Fiction & Fantasy | publisher=St. Martin's Griffin | year=1993 | page=108 | isbn=978-0-312-08926-9 }}</ref>
+
+<ref name="Aufdenberg2006">{{cite journal | last=Aufdenberg | first=J.P. | coauthors=Ridgway, S.T. ''et al.'' | title=First results from the CHARA Array: VII. Long-Baseline Interferometric Measurements of Vega Consistent with a Pole-On, Rapidly Rotating Star? | journal=Astrophysical Journal | year=2006 | volume=645 | issue=1 | pages=664–675 | url=http://www.chara.gsu.edu/CHARA/Papers/Paper6.pdf | format=PDF | accessdate=2007-11-09 | doi=10.1086/504149 | ref=harv | bibcode=2006ApJ...645..664A|arxiv = astro-ph/0603327 }}</ref>
+
+<ref name="Backman1986">{{cite conference | first=D. E. | last=Backman | co-authors=Gillett, F. C.; Low, F. J. | title=IRAS observations of nearby main sequence stars and modeling of excess infrared emission | booktitle=Proceedings, 6th Topical Meetings and Workshop on Cosmic Dust and Space Debris | publisher=COSPAR and IAF | date=June 30 – July 11, 1986 | location=Toulouse, France | bibcode=1986AdSpR...6...43B | id=ISSN 0273-1177 }}</ref>
+
+<ref name="Baker1977">{{cite book | first=Douglas | last=Baker | year=1977 | title=The Seven Rays: Key to the Mysteries | location=Wellingborough, Herts. | isbn=0-87728-377-X | publisher=Aquarian Press }}</ref>
+
+<ref name="Barstow2005">{{cite journal | author=Barstow, M. A.; Bond, Howard E.; Holberg, J. B.; Burleigh, M. R.; Hubeny, I.; Koester, D. | title=Hubble Space Telescope spectroscopy of the Balmer lines in Sirius B | journal=Monthly Notices of the Royal Astronomical Society | year=2005 | volume=362 | issue=4 | pages=1134–1142 | bibcode=2005MNRAS.362.1134B | doi=10.1111/j.1365-2966.2005.09359.x | ref=harv |arxiv = astro-ph/0506600 }}</ref>
+
+<ref name="Benest1995">{{cite journal | author=Benest, D.; Duvent, J. L. | title=Is Sirius a triple star? | journal=Astronomy and Astrophysics | year=1995 | month=July | volume=299 | pages=621–628 | bibcode=1995A&A...299..621B | ref=harv | last2=Duvent }} – For the instability of an orbit around Sirius B, see §3.2.</ref>
+
+<ref name="Bessel1844">{{cite journal | bibcode=1844MNRAS...6..136. | title=On the Variations of the Proper Motions of ''Procyon'' and ''Sirius'' | author=Bessel, F. W.; communicated by Herschel, J. F. W. | journal=Monthly Notices of the Royal Astronomical Society | volume=6 | month=December | year=1844 | pages=136–141 | ref=harv }}</ref>
+
+<ref name="Bond2005">{{cite news | first=Peter | last=Bond | title=Astronomers Use Hubble to 'Weigh' Dog Star's Companion | publisher=Royal Astronomical Society | date=2005-12-14 | url=http://www.ras.org.uk/index.php?option=com_content&task=view&id=897&Itemid=2 | accessdate=2006-08-04 }}</ref>
+
+<ref name="BonnetBidaud2008">{{cite journal | author=Bonnet-Bidaud, J. M.; Pantin, E. | title=ADONIS high contrast infrared imaging of Sirius-B | journal=Astronomy and Astrophysics | volume=489 | issue=2 | pages=651–655 | year=2008 | month=October | doi=10.1051/0004-6361:20078937 | arxiv=0809.4871 | ref = harv | bibcode=2008A&A...489..651B}}</ref>
+
+<ref name="Braganca2003">{{cite web | last=Bragança | first=Pedro | date=2003-07-15 | url=http://www.space.com/scienceastronomy/brightest_stars_030715-1.html |archiveurl= http://replay.web.archive.org/20090616051842/http://www.space.com/scienceastronomy/brightest_stars_030715-1.html |archivedate= 2009-06-16 | title=The 10 Brightest Stars | publisher=SPACE.com | accessdate=2006-08-04 }}</ref>
+
+<ref name="Brosch2008-21">Brosch, p. 21.</ref>
+<ref name="Brosch2008-33">Brosch, p. 33.</ref>
+<ref name="Brosch2008-126">Brosch, p. 126.</ref>
+
+<ref name="Brown2005">{{cite web | author=Brown, Dwayne; Weaver, Donna | date=2005-12-13 |url=http://hubblesite.org/newscenter/archive/releases/2005/36/text/ | title=Astronomers Use Hubble to "Weigh" Dog Star's Companion | publisher=NASA | accessdate=2007-10-13 }}</ref>
+
+<ref name="Ceragioli1995">{{cite journal | last=Ceragioli | first=R. C. | title=The Debate Concerning 'Red' Sirius | journal=Journal for the History of Astronomy | year=1995 | volume=26 | issue=3 | pages=187–226 | bibcode=1995JHA....26..187C | ref=harv }}</ref>
+
+<ref name="Coppens">{{cite web | url=http://www.philipcoppens.com/dogonshame.html | title=Dogon Shame | accessdate=2007-10-13 | first=Philip | last=Coppens }}</ref>
+
+<ref name="Croswell2005">{{cite web | url=http://www.astronomy.com/asy/default.aspx?c=a&id=3391 | title=The life and times of Sirius B | first=Ken | last=Croswell | work=Astronomy'', online | date=July 27, 2005 | accessdate=2007-10-19 }}</ref>
+
+<ref name="Daintith1994">{{cite book | year=1994 | first=John | last=Daintith | coauthors=Mitchell, Sarah; Tootill, Elizabeth; Gjertsen, D. | title=Biographical Encyclopedia of Scientists | page=442 | publisher=CRC Press | isbn=0-7503-0287-9 }}</ref>
+
+<ref name="Darling">{{cite web | last=Darling | first=David | url=http://www.daviddarling.info/encyclopedia/W/Winter_Triangle.html | title=Winter Triangle | work=The Internet Encyclopedia of Science | accessdate=2007-10-20 }}</ref>
+
+<ref name="Dictionary.com">{{cite web | url=http://dictionary.reference.com/browse/sirius | title=Sirius | work=Dictionary.com Unabridged (v 1.1) | publisher=Random House, Inc | accessdate=2008-04-06 }}</ref>
+
+<ref name="Eggen1992">{{cite journal | last=Eggen | first=Olin J. | title=The Sirius supercluster in the FK5 | journal=Astronomical Journal | year=1992 | volume=104 | issue=4 | pages=1493–1504 | bibcode=1992AJ....104.1493E | doi=10.1086/116334 | ref=harv }}</ref>
+
+<ref name="Espenak-Mars">{{cite web | last=Espenak | first=Fred | url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/mars2.html | title=Mars Ephemeris | work=Twelve Year Planetary Ephemeris: 1995–2006, NASA Reference Publication 1349 }}</ref>
+
+<ref name="Flammarion1877">{{cite journal | bibcode=1877AReg...15..186F | title=The Companion of Sirius | author=Flammarion, Camille | journal=The Astronomical Register | volume=15 | issue=176 | month=August | year=1877 | pages=186–189 | ref=harv }}</ref>
+
+<ref name="Frommert2003">{{cite web | last=Frommert | first=Hartmut | coauthors=Kronberg, Christine | date=April 26, 2003 | url=http://seds.lpl.arizona.edu/Messier/xtra/ngc/uma-cl.html | title=The Ursa Major Moving Cluster, Collinder 285 | publisher=SEDS | accessdate=2007-11-22 }}</ref>
+
+<ref name="Guardian2005">{{cite news | url=http://www.guardian.co.uk/music/2005/oct/13/classicalmusicandopera | title=Beam me up, Stocky | work=The Guardian | date=2005-10-13 }}</ref>
+
+<ref name="Hanbury1958">{{cite journal | author=Brown, R. Hanbury; Twiss, R. Q. | title=Interferometry of the Intensity Fluctuations in Light. IV. A Test of an Intensity Interferometer on Sirius A | journal=Proceedings of the Royal Society of London | year=1958 | volume=248 | issue=1253 | pages=222–237 | bibcode=1958RSPSA.248..222B | doi=10.1098/rspa.1958.0240 | ref=harv }}</ref>
+
+<ref name="Henderson1988">{{cite book | title=The Sirius: Past and Present | author=Henderson, G.; Stanbury, M. | year=1988 | publisher=Collins | location=Sydney | isbn=0-7322-2447-0|page=38 }}</ref>
+
+<ref name="Henshaw1984">{{cite journal | first=C. | last=Henshaw | title=On the Visibility of Sirius in Daylight | journal=Journal of the British Astronomical Association | year=1984 | volume=94 | issue=5 | pages=221–222 | bibcode=1984JBAA...94..221H | ref=harv }}</ref>
+
+<ref name="Hoffleit1991">{{cite web | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%202491 | title=Entry for HR 2491 | work=Bright Star Catalogue, 5th Revised Ed. (Preliminary Version)'' | author=Hoffleit, D.; Warren, Jr., W. H. | year=1991 | publisher=[[Centre de Données astronomiques de Strasbourg|CDS]] }} ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].</ref>
+
+<ref name="Holberg1998">{{cite journal | last=Holberg | first=J. B. | coauthors=Barstow, M. A.; Bruhweiler, F. C.; Cruise, A. M.; Penny, A. J. | title=Sirius B: A New, More Accurate View | journal=The Astrophysical Journal | year=1998 | volume=497 | issue=2 | pages=935–942  | doi=10.1086/305489 | bibcode=1998ApJ...497..935H | ref=harv }}</ref>
+
+<ref name="Holberg2004">{{cite journal | last=Holberg | first=J. B. | coauthors=Barstow, M. A.; Burleigh, M. R.; Kruk, J. W.; Hubeny, I.; Koester, D. | title=FUSE observations of Sirius B | journal=Bulletin of the American Astronomical Society | year=2004 | volume=36 | page=1514 | bibcode=2004AAS...20510303H | ref=harv | last2=Barstow | last3=Burleigh | last4=Kruk | last5=Hubeny | last6=Koester }}</ref>
+
+<ref name="Holberg2005">{{cite journal | last=Holberg | first=J. B. | title=How Degenerate Stars Came to be Known as White Dwarfs | journal=Bulletin of the American Astronomical Society | year=2005 | volume=37 | issue=2 | page=1503 | bibcode=2005AAS...20720501H | ref=harv }}</ref>
+
+<ref name="Holberg2007-xi">{{harvard citation|Holberg|2007|loc=p. xi}}</ref>
+<ref name="Holberg2007-4-5">{{harvard citation|Holberg|2007|loc=pp. 4–5}}</ref>
+<ref name="Holberg2007-15-16">{{harvard citation|Holberg|2007|loc=pp. 15–16}}</ref>
+<ref name="Holberg2007-16-17">{{harvard citation|Holberg|2007|loc=pp. 16–17}}</ref>
+<ref name="Holberg2007-19">{{harvard citation|Holberg|2007|loc=p. 19}}</ref>
+<ref name="Holberg2007-20">{{harvard citation|Holberg|2007|loc=p. 20}}</ref>
+<ref name="Holberg2007-22">{{harvard citation|Holberg|2007|loc=p. 22}}</ref>
+<ref name="Holberg2007-23">{{harvard citation|Holberg|2007|loc=p. 23}}</ref>
+<ref name="Holberg2007-24">{{harvard citation|Holberg|2007|loc=p. 24}}</ref>
+<ref name="Holberg2007-25">{{harvard citation|Holberg|2007|loc=p. 25}}</ref>
+<ref name="Holberg2007-25-26">{{harvard citation|Holberg|2007|loc=pp. 25–26}}</ref>
+<ref name="Holberg2007-26">{{harvard citation|Holberg|2007|loc=p. 26}}</ref>
+<ref name="Holberg2007-32">{{harvard citation|Holberg|2007|loc=p. 32}}</ref>
+<ref name="Holberg2007-41-42">{{harvard citation|Holberg|2007|loc=pp.41–42}}</ref>
+<ref name="Holberg2007-82">{{harvard citation|Holberg|2007|loc=p. 82}}</ref>
+<ref name="Holberg2007-157">{{harvard citation|Holberg|2007|loc=p. 157}}</ref>
+<ref name="Holberg2007-158">{{harvard citation|Holberg|2007|loc=p. 158}}</ref>
+<ref name="Holberg2007-161">{{harvard citation|Holberg|2007|loc=p. 161}}</ref>
+<ref name="Holberg2007-162">{{harvard citation|Holberg|2007|loc=p. 162}}</ref>
+<ref name="Holberg2007-163">{{harvard citation|Holberg|2007|loc=p. 163}}</ref>
+<ref name="Holberg2007-214">{{harvard citation|Holberg|2007|loc=p. 214}}</ref>
+
+<ref name="Homer">{{cite book | last=Homer | year=1997 | others=Trans. [[Stanley Lombardo]] | title=Iliad | publisher=Hackett | location=Indianapolis |isbn=978-0-87220-352-5 }} 22.33–37.</ref>
+
+<ref name="Hubble2005">{{cite news | title=The Dog Star, Sirius, and its Tiny Companion | publisher=Hubble News Desk | date=2005-12-13 | url=http://hubblesite.org/newscenter/newsdesk/archive/releases/2005/36/image/a | accessdate=2006-08-04 }}</ref>
+
+<ref name="Huggins1868">{{cite journal | last=Huggins | first=W. | title=Further observations on the spectra of some of the stars and nebulae, with an attempt to determine therefrom whether these bodies are moving towards or from the Earth, also observations on the spectra of the Sun and of Comet&nbsp;II | journal=Philosophical Transactions of the Royal Society of London | year=1868 | volume=158 | issue=0 | pages=529–564 | doi=10.1098/rstl.1868.0022 | ref=harv }}</ref>
+
+<ref name="Imamura1995">{{cite web | last=Imamura | first=James N. | date=1995-10-02 | url=http://zebu.uoregon.edu/~imamura/208/feb24/cool.html | title=Cooling of White Dwarfs | publisher=University of Oregon | accessdate=2007-01-03 | archiveurl = http://web.archive.org/web/20061215101415/http://zebu.uoregon.edu/~imamura/208/feb24/cool.html| archivedate = December 15, 2006}}</ref>
+
+<ref name="Jiang1992">{{cite journal | author=江晓原 | year=1992 | title=中国古籍中天狼星颜色之记载 | journal=Ť�文学报 | volume=33 | issue=4 | language=Chinese | ref=harv }}</ref>
+
+<ref name="Jiang1993">{{cite journal |author=Jiang, Xiao-Yuan | title=The colour of Sirius as recorded in ancient Chinese texts | bibcode=1993ChA&A..17..223J | journal=Chinese Astronomy and Astrophysics | volume=17 | issue=2 |pages=223–228 | year=1993 | month=April | doi=10.1016/0275-1062(93)90073-X |ref=harv }}</ref>
+
+<ref name="Kak">{{cite web | url=http://www.indiastar.com/kak5.htm | accessdate=2010-07-23 | work=IndiaStar Review of Books | title=Indic ideas in the Greco-Roman world | author=Kak, Subhash }}</ref>
+
+<ref name="Kervella2003">{{cite journal | last=Kervella | first=P. | coauthors=Thevenin, F.; Morel, P.; Borde, P.; Di Folco, E. | title=The interferometric diameter and internal structure of Sirius A | journal=Astronomy and Astrophysics | arxiv=astro-ph/0306604 | year=2003 | volume=407 | issue=2 | pages=681–688 | doi=10.1051/0004-6361:20030994 | ref=harv | bibcode=2003A&A...408..681K}}</ref>
+
+<ref name="King2003">{{cite journal | last=King | first=Jeremy R. | coauthors=Villarreal, Adam R.; Soderblom, David R.; Gulliver, Austin F.; Adelman, Saul J. | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group | journal=Astronomical Journal | year=2003 | volume=125 | issue=4 | pages=1980–2017 | bibcode=2003AJ....125.1980K | doi=10.1086/368241 | ref=harv }}</ref>
+
+<ref name="Koester1990">{{cite journal | last=Koester | first=D. | coauthors=Chanmugam, G. | title=Physics of white dwarf stars | journal=Reports on Progress in Physics | year=1990 | volume=53 | issue=7 | pages=837–915 | bibcode=1990RPPh...53..837K | doi=10.1088/0034-4885/53/7/001 | ref=harv }}</ref>
+
+<ref name="Kuchner2000">{{cite journal | last=Kuchner | first=Marc J. | coauthors=Brown, Michael E. | title= A Search for Exozodiacal Dust and Faint Companions Near Sirius, Procyon, and Altair with the NICMOS Coronagraph | journal=Publications of the Astronomical Society of the Pacific | year=2000 | volume=112 | issue=772 | pages=827–832 | arxiv=astro-ph/0002043 | doi= 10.1086/316581 | ref=harv | bibcode=2000PASP..112..827K}}</ref>
+
+<ref name="Kumar2002">{{cite book | first=Nagendra Kumar | last=Singh | year=2002 | title=Encyclopaedia of Hinduism, A Continuing Series | page=794 | publisher=Anmol Publications PVT. LTD | isbn=81-7488-168-9 }}</ref>
+
+<ref name="Leicester2005">{{cite web | date=2005-12-01 | url=http://www2.le.ac.uk/ebulletin/news/press-releases/2000-2009/2005/12/nparticle-h8g-39x-fhd?searchterm=sirius | title=Astronomers Use Hubble to "Weigh" Dog Star's Companion | publisher=University of Leicester | accessdate=2009-12-13 }}</ref>
+
+<ref name="Liddell1980">{{cite book | last=Liddell | first=Henry G. | year=1980 | authorlink=Henry Liddell | coauthors=[[Robert Scott (philologist)|Scott, Robert]] | title=Greek-English Lexicon | edition=Abridged | publisher=Oxford University Press | location=Oxford | isbn=0-19-910207-4}}</ref>
+
+<ref name="Liebert2005">{{cite journal | first=J. | last=Liebert | coauthors=Young, P. A.; Arnett, D.; Holberg, J. B.; Williams, K. A. | title=The Age and Progenitor Mass of Sirius B | journal=The Astrophysical Journal | year=2005 | volume=630 | issue=1 | pages=L69–L72 | bibcode=2005ApJ...630L..69L | doi=10.1086/462419 | ref=harv |arxiv = astro-ph/0507523 }}</ref>
+
+<ref name="Macquarie2007">{{cite web | title=About Macquarie University—Naming of the University | work=Macquarie University official website | publisher=Macquarie University | year=2007 | url=http://www.mq.edu.au/about/naming.html | accessdate=2007-12-27}}</ref>
+
+<ref name="Magee1995">{{cite web | url=http://www.religiousworlds.com/mandalam/shiva.htm | title=Shri Shri Shiva Mahadeva }}</ref>
+
+<ref name="McCluskey1987">{{cite journal | author=McCluskey, S. C. | year=1987 | month=January | title=The colour of Sirius in the sixth century | journal=Nature | issue=325 | page=87 |volume=318 | doi=10.1038/325087a0| ref=harv |bibcode = 1987Natur.325...87M }}</ref>
+
+<ref name="McCook2006">{{cite web | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?WD%200642-166 | title=Entry for WD 0642-166 | work=A Catalogue of Spectroscopically Identified White Dwarfs (August 2006 version) | author=McCook, G. P.; Sion, E. M. | publisher=[[Centre de Données astronomiques de Strasbourg|CDS]] }} ID [http://vizier.u-strasbg.fr/viz-bin/Cat?III/235A III/235A].)</ref>
+
+<ref name="McEnery2001">{{cite news | url=http://archive.salon.com/people/bc/2001/01/16/stockhausen/index.html | title=Karlheinz Stockhausen | work=Salon.com | author=McEnery, Paul | date=2001-01-16 }}</ref>
+
+<ref name="McGourty2005">{{cite news | first=Christine | last=McGourty | title=Hubble finds mass of white dwarf
+  | publisher=BBC News | date=2005-12-14 | url=http://news.bbc.co.uk/2/hi/science/nature/4528586.stm
+  | accessdate=2007-10-13 }}</ref>
+
+<ref name="Mitsubishi2007">{{cite web  | title=Mitsubishi Motors history | work=Mitsubishi Motors – South Africa Official Website | publisher=Mercedes Benz | year=2007 | url=http://www.mitsubishi-motors.co.za/featuresites/mm_history/Galant.asp | accessdate=2008-01-27 | archiveurl=http://web.archive.org/web/20071230102112/http://www.mitsubishi-motors.co.za/featuresites/mm_history/Galant.asp <!--Added by H3llBot--> | archivedate=2007-12-30}}</ref>
+
+<ref name="Mullaney2008">{{cite web | last=Mullaney | first=James | month=March | year=2008 | url=http://www.skyandtelescope.com/observing/objects/doublestars/3309846.html?page=3&c=y | title=Orion's Splendid Double Stars: Pretty Doubles in Orion's Vicinity | publisher=Sky & Telescope | accessdate=2008-02-01 }}</ref>
+
+<ref name="Olano2001">{{cite journal | last=Olano | first=C. A. | title=The Origin of the Local System of Gas and Stars | journal=The Astronomical Journal | year=2001 | volume=121 | issue=1 | pages=295–308 | bibcode=2001AJ....121..295O | doi=10.1086/318011 | ref=harv }}</ref>
+
+<ref name="Ortiz">{{cite web | url=http://www.ramtops.co.uk/dogon.html | title=The Dogon Revisited | accessdate=2007-10-13 | first=Bernard R. Ortiz | last=de Montellano }}</ref>
+
+<ref name="Ovid">[[Ovid]]. ''[[Fasti (poem)|Fasti]]'' IV, lines 901–942.</ref>
+
+<ref name="Palla2005">{{cite conference | first=Francesco | last=Palla | title=Stellar evolution before the ZAMS | booktitle=Proceedings of the international Astronomical Union 227 | pages=196–205 | publisher=Cambridge University Press | date=May 16–20, 2005 | location=Italy | bibcode=976IAUS...73...75P }}</ref>
+
+<ref name="Qiu2001">{{cite journal | last=Qiu | first=H. M. | coauthors=Zhao, G.; Chen, Y. Q.; Li, Z. W. | title=The Abundance Patterns of Sirius and Vega | journal=The Astrophysical Journal | year=2001 | volume=548 | issue=2 | pages=953–965 | doi=10.1086/319000 | ref=harv | bibcode=2001ApJ...548..953Q}}</ref>
+
+<ref name="Quran">{{cite web | title=An-Najm (The Star), Surah 53 | year=2007 | work=Translations of the Qur'an | url=http://www.usc.edu/schools/college/crcc/engagement/resources/texts/muslim/quran/053.qmt.html | publisher=University of Southern California, Center for Muslim-Jewish Engagement | accessdate=2009-08-08 }}</ref>
+
+<ref name="RAN">{{cite web | publisher=Royal Australian Navy | title=HMAS Sirius | url= http://www.navy.gov.au/HMAS_Sirius |accessdate=2008-09-13}}</ref>
+
+<ref name="RASNZ">{{cite web | url=http://www.rasnz.org.nz/Stars/BrightStars.htm | title=The Brightest Stars | publisher=Royal Astronomical Society of New Zealand | accessdate=2007-12-14 }}</ref>
+
+<ref name="Ridpath1978">{{cite web | last=Ridpath | first=Ian | year=1978 | url=http://www.csicop.org/si/7809/sirius.html|title=Investigating the Sirius "Mystery" | publisher=Committee for Skeptical Inquiry | accessdate=2007-06-26 |archiveurl=http://web.archive.org/web/20030217073018/http://www.csicop.org/si/7809/sirius.html |archivedate=2003-02-17}}</ref>
+
+<ref name="Royer2002">{{cite journal | last=Royer | first=F. | coauthors=M. Gerbaldi, R. Faraggiana, and A. E. Gómez | title=Rotational velocities of A-type stars. I. Measurement of v sin i in the southern hemisphere | journal=Astronomy and Astrophysics | arxiv=astro-ph/0110490 | year=2002 | volume=381 | issue=1 | pages=105–121 | doi=10.1051/0004-6361:20011422 | ref=harv | bibcode=2002A&A...381..105R}}</ref>
+
+<ref name="Schaaf2008">{{cite book | first=Fred | last=Schaaf | title=The Brightest Stars | location=Hoboken, New Jersey | publisher=John Wiley & Sons | year=2008 | page=94 | isbn=0-471-70410-5 | url=http://books.google.com/?id=LvnNFyPAQyUC&pg=PA94&lpg=PA94#v=onepage&q | accessdate=2010-07-23 }}</ref>
+
+<ref name="Schlosser1985">{{cite journal | author=Schlosser, W.; Bergmann, W. | year=1985 | month=November | title=An early-medieval account on the red colour of Sirius and its astrophysical implications | journal=Nature | issue=318 | pages=45–46 | doi=10.1038/318045a0  | volume=318 | ref=harv|bibcode = 1985Natur.318...45S }}</ref>
+
+<ref name="Siess2000">{{cite web | last=Siess | first=Lionel | year=2000 | url = http://astropc0.ulb.ac.be/~siess/server/iso.html|title = Computation of Isochrones | publisher = Institut d'Astronomie et d'Astrophysique, Université libre de Bruxelles| accessdate=2007-03-24}} {{Dead link|date=April 2012|bot=H3llBot}}</ref>
+
+<ref name="SIMBADa">[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=name+sirius+a Database entry for Sirius A], [[SIMBAD]]. Accessed online October 20, 2007.</ref>
+
+<ref name="SIMBADb">[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=name+sirius+b Database entry for Sirius B], [[SIMBAD]]. Accessed on line October 23, 2007.</ref>
+
+<ref name="SiriusSatelliteRadio">{{cite web |url=http://www.referenceforbusiness.com/history2/57/Sirius-Satellite-Radio-Inc.html |title=Sirius Satellite Radio, Inc. – Company Profile, Information, Business Description, History, Background Information on Sirius Satellite Radio, Inc |publisher=Net Industries, LLC |accessdate=2008-01-22 }}</ref>
+
+<ref name="SolStation">{{cite web | url=http://www.solstation.com/stars/sirius2.htm|title = Sirius 2 | publisher = SolStation
+ | accessdate = 2006-08-04 }}</ref>
+
+<ref name="Spahn1996">{{cite book | author=Spahn, Mark; Hadamitzky, Wolfgang; Fujie-Winter, Kimiko | title=The Kanji dictionary | page=724 | work=Tuttle language library | year=1996 | publisher=Tuttle Publishing | isbn=0-8048-2058-9 }}</ref>
+
+<ref name="Staff2007">{{cite web | author=Staff | year=2007 | url=http://www.britannica.com/eb/article-9067991/Sirius | title=Sirius | publisher=Britannica Online Encyclopedia | accessdate=2007-09-10 }}</ref>
+
+<ref name="Stargazers2000">{{cite web | url=http://www.stargazers.iinet.net.au/Canismajor.htm | year=2000 | title=Stories from the Stars | publisher=Stargazers Astronomy Shop | accessdate=2008-12-17 }}</ref>
+
+<ref name="Todd2006">{{cite web | last=Henry | first=Todd J. | date=2006-07-01 | url = http://www.chara.gsu.edu/RECONS/TOP100.posted.htm | title = The One Hundred Nearest Star Systems | publisher = RECONS | accessdate = 2006-08-04 }}</ref>
+
+<ref name="tom1977">{{cite web | date=2012-07-09 | url = http://www.qtafsir.com/index.php?option=com_content&task=view&id=1679&Itemid=109 | title = Tafsir Ibn Kathir }}</ref>
+
+<ref name="Tyson1993">{{cite book | first=Donald | last=Tyson | year=1993 | coauthors=Freake, James | title=Three Books of Occult Philosophy | publisher=Llewellyn Worldwide | isbn=0-87542-832-0 }}</ref>
+
+<ref name="VanAltena1995">{{cite book | author=van Altena, W. F.; Lee, J. T.; Hoffleit, E. D. | year=1995 | title=The general catalogue of trigonometric parallaxes | edition=4th | publisher=Yale University Observatory }} ([[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/238A I/238A].</ref>
+
+<ref name="VanDenBos1960">{{cite journal | last=van den Bos | first=W. H. |title=The Orbit of Sirius | year=1960 | journal=Journal des Observateurs | volume=43 | pages=145–151 | bibcode=1960JO.....43..145V | ref=harv}}</ref>
+
+<ref name="VanDerLinden2000">{{cite web | last=van der Linden | first=F. R. | title=Lockheed 8 Sirius | year=2000 | work=National Air and Space Museum | publisher=[[Smithsonian Institution]] | url=http://www.nasm.si.edu/research/aero/aircraft/lockheed_sirius.htm |accessdate =2008-01-26 | archiveurl=http://web.archive.org/web/20080105074408/http://www.nasm.si.edu/research/aero/aircraft/lockheed_sirius.htm <!--Added by H3llBot--> | archivedate=2008-01-05}}</ref>
+
+<ref name="VanGent1987">{{cite journal | author=van Gent, R. H. | year=1987 | month=January | title=The colour of Sirius in the sixth century | journal=Nature | issue=325 | pages=87–89 | doi=10.1038/325087b0 | volume=318 | ref=harv |bibcode = 1987Natur.325...87V }}</ref>
+
+<ref name="Wendorf2001">{{cite book | first=Fred | last=Wendorf | coauthors=Schild, Romuald | year=2001 | title=Holocene Settlement of the Egyptian Sahara: Volume 1, The Archaeology of Nabta Plain | page=500 | publisher=Springer | isbn=0-306-46612-0 | url=http://books.google.com/?id=qUk0GyDJRCoC&pg=PP1&dq=isbn=0-306-46612-0 | format=Google Book Search preview | accessdate=2008-05-16 }}</ref>
+
+<ref name="Whittet1999">{{cite journal | author=Whittet, D. C. B. | title=A physical interpretation of the 'red Sirius' anomaly | journal=Monthly Notices of the Royal Astronomical Society | year=1999 | volume=310 | issue=2 | pages=355–359 | bibcode=1999MNRAS.310..355W|doi=10.1046/j.1365-8711.1999.02975.x | ref=harv }}</ref>
+
+<ref name=craig>{{cite web | author=Craig, John; Gravatt, William; Slater, Thomas; Rennie, George | title=The Craig Telescope | work=craig-telescope.co.uk | url=http://www.craig-telescope.co.uk/lens.html | accessdate=2011-03-01 }}</ref>
+
+<ref name=auriere2010>{{cite journal | title=No detection of large-scale magnetic fields at the surfaces of Am and HgMn stars | author=Aurière, M. | coauthors=''et al.'' | journal=Astronomy and Astrophysics | volume=523 | month=November | year=2010 | doi=10.1051/0004-6361/201014848 | bibcode=2010A&A...523A..40A | pages=A40 |arxiv = 1008.3086 }}</ref>
+
+<ref name=petit2011>{{cite journal | title=Detection of a weak surface magnetic field on Sirius A: are all tepid stars magnetic ?  | author=Petit, P. | coauthors=''et al.'' | journal=Astronomy and Astrophysics | volume=532 | month=August | year=2011 | doi=10.1051/0004-6361/201117573 | bibcode=2011A&A...532L..13P | pages=L13 |arxiv = 1106.5363 }}</ref>
+
+<ref name=rydberg1889>{{cite book | first=Viktor | last=Rydberg | year=1889 | title=Teutonic mythology | volume=1 | editors=Rasmus Björn Anderson | publisher=S. Sonnenschein & co | url=http://books.google.com/books?id=ZHnXAAAAMAAJ&pg=PA610 }}</ref>
+
+}}
+
+===Cited texts===
+* {{Cite book | last=Brosch | first=Noah | title=Sirius Matters | year=2008 | publisher=Springer | isbn=1-4020-8318-1 | ref=harv | postscript=<!--None-->}}
+* {{Cite book | last=Holberg | first=J.B. | title=Sirius: Brightest Diamond in the Night Sky | year=2007 | publisher=Praxis Publishing | location=Chichester, UK | isbn=0-387-48941-X | ref=harv | postscript=<!--None-->}}
+
+==External links==
+{{wiktionary|dog days}}
+{{Commons category|Sirius}}
+* [http://www.astro.uiuc.edu/~kaler/sow/sirius.html Professor Kaler's webpage on Sirius]
+* [http://apod.nasa.gov/apod/ap001006.html Astronomy Picture of the Day of Sirius B in x-ray]
+* [http://chandra.harvard.edu/chronicle/0400/sirius_part2.html Discussion on Dogon issue]
+* [http://www.johnsankey.ca/siriustime.html Sirius time]
+* {{cite journal
+ | last=Barker | first=Tho. | coauthors=Stukeley, W.
+ | title=Remarks on the Mutations of the Stars
+ | journal=Philosophical Transactions
+ | year=1760 | volume=51
+ | issue=0 | pages=498–504
+ | jstor=105393
+ | doi=10.1098/rstl.1759.0049
+ | ref=harv
+}}
+
+{{Nearest systems|2}}
+{{Stars of Canis Major}}
+
+{{featured article}}
+{{Sky|06|45|08.9173|-|16|42|58.017|9}}
+
+[[Category:Bayer objects|Canis Majoris, Alpha]]
+[[Category:Binary stars]]
+[[Category:Canis Major (constellation)]]
+[[Category:Flamsteed objects|Canis Majoris, 9]]
+[[Category:Henry Draper Catalogue objects|048915]]
+[[Category:Hipparcos objects|032349]]
+[[Category:HR objects|2491]]
+[[Category:Gliese and GJ objects|0244]]
+[[Category:Mythological dogs]]
+[[Category:White dwarf stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+{{Link GA|ru}}
+{{Link FA|de}}
+{{Link FA|es}}
+{{Link FA|it}}
+{{Link FA|tr}}
+
+[[ar:الشعرى اليمانية]]
+[[ast:Sirius]]
+[[bn:লুব্ধক]]
+[[be:Сірыус]]
+[[bg:Сириус]]
+[[ca:Sírius]]
+[[cs:Sirius]]
+[[cy:Sirius]]
+[[da:Sirius (stjerne)]]
+[[de:Sirius]]
+[[et:Siirius]]
+[[el:Σείριος]]
+[[es:Sirio]]
+[[eo:Siriuso]]
+[[eu:Sirius]]
+[[fa:شباهنگ (ستاره)]]
+[[fr:Sirius]]
+[[ga:Sirius]]
+[[gl:Alfa Canis Majoris]]
+[[ko:시리우스]]
+[[hi:व्याध तारा]]
+[[hr:Sirius]]
+[[id:Sirius]]
+[[it:Sirio]]
+[[he:סיריוס]]
+[[jv:Sirius]]
+[[ka:სირიუსი]]
+[[kk:Сүмбіле]]
+[[kv:Сириус]]
+[[ku:Qurix]]
+[[la:Sirius]]
+[[lv:Sīriuss]]
+[[lb:Sirius (Stär)]]
+[[lt:Sirijus]]
+[[li:Sirius (staar)]]
+[[hu:Szíriusz]]
+[[mk:Сириус]]
+[[ml:സിറിയസ്]]
+[[mr:व्याध (तारा)]]
+[[nl:Sirius (ster)]]
+[[ne:व्याध तारा]]
+[[ja:シリウス]]
+[[no:Sirius]]
+[[pnb:سیریس]]
+[[nds:Sirius]]
+[[pl:Syriusz]]
+[[pt:Sirius]]
+[[ro:Sirius]]
+[[qu:Chuqichinchay warani]]
+[[ru:Сириус]]
+[[scn:Siriu]]
+[[simple:Sirius]]
+[[sk:Sírius]]
+[[sl:Sirij]]
+[[ckb:گەلاوێژ (ئەستێرە)]]
+[[sr:Сиријус]]
+[[sh:Sirius]]
+[[fi:Sirius]]
+[[sv:Sirius]]
+[[tt:Сириус]]
+[[th:ดาวซิริอุส]]
+[[tr:Sirius]]
+[[uk:Сіріус]]
+[[vi:Sao Thiên Lang]]
+[[zh:天狼星]]

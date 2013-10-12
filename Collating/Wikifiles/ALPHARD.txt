@@ -1,0 +1,144 @@
+{{About||the programming language|Alphard (programming language)|the vehicle|Toyota Alphard}}
+{{Starbox begin
+| name=Alpha Hydrae
+}}
+{{Starbox image
+| image=<div style="position: relative">[[file:Hydra constellation map.svg|250px]]
+     <div style="position: absolute; left:75%; top:35%">[[image:Locator Dot2.gif|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+| caption=Alphard is the α star in the constellation of Hydra.
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|09|27|35.2433}}<ref name="hipparcos"/>
+| dec      = {{DEC|–08|39|30.969}}<ref name="hipparcos" />
+| appmag_v = +2.00<ref name=aaa526_A100/>
+| constell = [[Hydra (constellation)|Hydra]]
+}}
+{{Starbox character
+| class    = K3&nbsp;II-III<ref name=aaa526_A100/>
+| b-v      = +1.44<ref name="aj76"/>
+| u-b      = +1.73<ref name="aj76" />
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = -4.3<ref name=rgcrv/>
+| prop_mo_ra  = –14.49<ref name="hipparcos" />
+| prop_mo_dec = 33.25<ref name="hipparcos" />
+| parallax_footnote = <ref name="hipparcos" />
+| parallax = 18.40
+| p_error  = 0.78
+| absmag_v = {{nowrap|−1.69 ± 0.09}}<ref name="aaa458" />
+}}
+{{Starbox detail
+| mass     = {{nowrap|3.03 ± 0.36}}<ref name="aaa458"/>
+| radius   = {{nowrap|50.5 ± 4.0}}<ref name="aaa458" />
+| luminosity  = {{nowrap|780 ± 78}}<ref name=aaa526_A100/>
+| temperature = 4,120<ref name="mnras374"/>
+| gravity  = 1.54<ref name="mnras374" />
+| metal_fe = -0.06<ref name="mnras374" />
+| rotation = 2,991&nbsp;days<ref name=aaa421_241/>
+| rotational_velocity = 1.1<ref name=aaa421_241/>
+| age      = {{nowrap|(4.2 ± 1.6) × 10<sup>8</sup>}}<ref name="aaa458" />
+}}
+{{Starbox catalog
+| names=Alphard, Alfard, Alphart, Kalbelaphard, Cor Hydrae, 30 Hydrae, [[Harvard Revised catalogue|HR]] 3748, [[Bonner Durchmusterung|BD]] -08°2680, [[Henry Draper catalogue|HD]] 81797, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 136871, FK5 354, [[Hipparcos catalogue|HIP]] 46390.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Alphard''' (α Hya, α Hydrae, [[Alpha (letter)|Alpha]] Hydrae) is the brightest [[star]] in the [[constellation]] [[Hydra (constellation)|Hydra]]. The name Alphard is from the [[Arabic language|Arabic]] '''الفرد''' (''al-fard''), "the solitary one", there being no other bright stars near it. It was also known as the "backbone of the Serpent" to the Arabs. In [[ancient China]] it formed part of an [[Asterism (astronomy)|asterism]] called the "red bird". The European astronomer [[Tycho Brahe]] dubbed it ''Cor Hydræ'', the heart of the snake.<ref>{{cite book
+  | first=William Tyler | last=Olcott | year=2004
+  | title=Star Lore: Myths, Legends, and Facts
+  | page=226 | publisher=Courier Dover Publications
+  | isbn=0-486-43581-4 }}</ref>
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Soheil al Fard''', which was translated into [[Latin]] as '''Soheil Solitarius''', meaning ''the bright solitary one''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|星宿}} ({{lang|zh-Latn|Xīng Sù}}), meaning ''[[Star (Chinese constellation)|Star]] (asterism)'', refers to an asterism consisting of Alphard, [[Tau Hydrae|τ<sup>1</sup> Hydrae]], [[Tau Hydrae|τ<sup>2</sup> Hydrae]], [[Iota Hydrae|ι Hydrae]], [[26 Hydrae]], [[27 Hydrae]], [[HD 82477]] and [[HD 82428]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, Alphard itself is known as {{lang|zh|星宿一}} ({{lang|zh-Latn|Xīng Sù yī}}, {{lang-en|the First Star of Star}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Alphard has three times the [[Solar mass|mass of the Sun]]. The estimated age of this star is 420 million years and it has evolved away from the [[main sequence]] to become a [[giant star]] with a [[spectral classification]] of K3 and luminosity class between II and III.<ref name="aaa458" /> The angular diameter of this star has been measured using long baseline interferometry, yielding a value of {{nowrap|9.09 ± 0.09}} milliarcseconds.<ref>{{cite journal
+  | author=Le Bouquin, J.-B. | coauthors=''et al''.
+  | title=Post-processing the VLTI fringe-tracking data: first measurements of stars
+  | journal=Astronomy and Astrophysics | volume=493
+  | issue=2 | year=2009 | month=January | pages=747–752
+  | doi=10.1051/0004-6361:200810613 | bibcode=2009A&A...493..747L|arxiv = 0812.2328 }}</ref> It has expanded to 50 times the [[Solar radius|radius of the Sun]].<ref name="aaa458" />
+
+Alphard's spectrum shows a mild excess of [[barium]], an element that is normally produced by the [[s-process]] of [[Stellar nucleosynthesis|nucleosynthesis]]. Typically a [[barium star]] belongs to a [[binary star|binary system]] and the anomalies in abundances are explained by mass transfer from a companion [[white dwarf]] star.<ref>{{cite journal
+  | author=Mennessier, M. O. | coauthors=''et al''.
+  | title=Barium Stars, Galactic Populations and Evolution
+  | journal=Astronomy and Astrophysics | volume=326
+  | pages=722–730 | month=October | year=1997
+  | bibcode=1997A&A...326..722M | accessdate=2009-10-09 }}</ref>
+
+Precise radial velocity measurements have shown variations in the stellar [[radial velocity|radial velocities]] and [[spectral line]] profiles. The [[oscillation]]s are multi-periodic with periods from several hours up to several days. The short-term oscillations were assumed to be a result of stellar [[pulsation]]s, similar to the solar ones. A correlation between the variations in the asymmetry of the spectral line profile and the radial velocity has also been found. The multi-periodic oscillations make HD 81797 (Alphard) an object of interest for [[asteroseismology|asteroseismologic]] investigations.<ref>{{cite journal
+  | author=Setiawan, J., Roth, M., Weise, P., Dölinger, M. P.
+  | title=Multi-periodic oscillations of HD 32887 and HD 81797 | volume=77 | pages=510–514 | year=2006
+  | journal=Memorie della Societa Astronomica Italiana
+  | bibcode=2006MmSAI..77..510S | accessdate=2009-10-09 |arxiv = astro-ph/0505184 }}</ref>
+
+==Modern legacy==
+Alphard appears on the  [[flag of Brazil]], symbolising the state of [[Mato Grosso do Sul]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name="hipparcos">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. | last4=Hoeg | first4=E. | last5=Bastian | first5=U. | last6=Bernacca | first6=P. L. | last7=Crézé | first7=M. | last8=Donati | first8=F. | last9=Grenon | first9=M. | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name="aj76">{{cite journal | last1=Pfleiderer | first1=J. | last2=Mayer | first2=U. | title=Near-ultraviolet surface photometry of the southern Milky Way | month=October | year=1971 | journal=Astronomical Journal | volume=76 | pages=691–700 | doi=10.1086/111186 | bibcode=1971AJ.....76..691P }}</ref>
+
+<ref name=rgcrv>{{cite conference | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name="aaa458">{{cite journal | last1=da Silva | first1=L. | coauthors=''et al''. | title=Basic physical parameters of a selected sample of evolved stars | journal=Astronomy and Astrophysics | volume=458 | issue=2 | month=November | year=2006 | pages=609–623 | doi=10.1051/0004-6361:20065105 | bibcode=2006A&A...458..609D | arxiv=astro-ph/0608160 }}</ref>
+
+<ref name="mnras374">{{cite journal | last1=Cenarro | first1=A. J. | coauthors=''et al''. | year=2007 | title=Medium-resolution Isaac Newton Telescope library of empirical spectra - II. The stellar atmospheric parameters | journal=Monthly Notices of the Royal Astronomical Society | volume=374 | issue=2 | pages=664–690 | month=January | doi=10.1111/j.1365-2966.2006.11196.x | bibcode=2007MNRAS.374..664C | arxiv=astro-ph/0611618 }}</ref>
+
+<ref name=aaa421_241>{{citation | display-authors=1 | last1=Setiawan | first1=J. | last2=Pasquini | first2=L. | last3=da Silva | first3=L. | last4=Hatzes | first4=A. P. | last5=von der Lühe | first5=O. | last6=Girardi | first6=L. | last7=de Medeiros | first7=J. R. | last8=Guenther | first8=E. | title=Precise radial velocity measurements of G and K giants. Multiple systems and variability trend along the Red Giant Branch	 | journal=Astronomy and Astrophysics | volume=421 | pages=241–254 | month=July | year=2004 | doi=10.1051/0004-6361:20041042-1 | bibcode=2004A&A...421..241S }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=Alphard | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Alphard | accessdate=2009-10-09 }}</ref>
+
+}}
+{{Stars of Hydra}}
+
+[[Category:Bayer objects|Hydrae, Alpha]]
+[[Category:Hydra (constellation)]]
+[[Category:K-type bright giants]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:الفرد (نجم)]]
+[[az:Əlfərd]]
+[[ca:Alphard]]
+[[de:Alphard]]
+[[es:Alfard]]
+[[fa:قلب‌‌الفرد]]
+[[fr:Alpha Hydrae]]
+[[gl:Alfard]]
+[[hi:अलफ़र्द तारा]]
+[[ko:알파드]]
+[[id:Alpha Hydrae]]
+[[it:Alphard]]
+[[he:אלפארד]]
+[[la:Alphard]]
+[[lb:Alphard (Stär)]]
+[[lt:Alfardas]]
+[[nl:Alphard]]
+[[ja:アルファルド]]
+[[no:Alphard]]
+[[pl:Alphard]]
+[[pt:Alpha Hydrae]]
+[[ru:Альфард]]
+[[sk:Alfard]]
+[[sv:Alphard]]
+[[vi:Alpha Hydrae]]
+[[zh:星宿一]]

@@ -1,0 +1,126 @@
+{{Starbox begin
+ | name = Epsilon Cassiopeiae
+}}
+{{Starbox image
+ | image = [[File:Cassiopeia constellation map.png|250px]] 
+ | caption = Segin is the leftmost star in the "W"
+}}
+{{Starbox observe 
+ | epoch    = J2000 
+ | ra       = {{RA|01|54|23.72567}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+63|40|12.3628}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.37<ref name=clpl4_99/>
+ | constell = [[Cassiopeia (constellation)|Cassiopeia]]
+}}
+{{Starbox character 
+ | class    = B3&nbsp;III<ref name="SIMBAD" />  
+ | b-v      = -0.15<ref name=clpl4_99/>
+ | u-b      = -0.62<ref name=clpl4_99/>
+ | variable = Periodic<ref name=mnras331_1_45/>
+}}
+{{Starbox astrometry 
+ | radial_v = −8.1<ref name=scfs/>
+ | prop_mo_ra  = +32.09<ref name=aaa474_2_653/>
+ | prop_mo_dec = −18.94<ref name=aaa474_2_653/>
+ | parallax = 7.92
+ | p_error  = 0.43
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = {{nowrap|9.2 ± 0.2}}<ref name=mnras410_1_190/>
+ | radius   = 6<ref name=lang2006/>
+ | luminosity  = 2,500<ref name="kaler" />
+ | temperature = 15,174<ref name=pasj62_5_1239/>
+ | gravity  = 3.5<ref name=pasj62_5_1239/>
+ | metal    = 
+ | rotational_velocity = 30<ref name=apj573_1_359/>
+ | age_myr  = {{nowrap|15.4 ± 3.0}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog 
+ | names=Segin, 45&nbsp;Cassiopeiae, [[Bonner Durchmusterung|BD]]+62&nbsp;320, [[Fifth Fundamental Catalogue|FK5]]&nbsp;63, [[Henry Draper Catalogue|HD]]&nbsp;11415, [[Hipparcos catalogue|HIP]]&nbsp;8886, [[Harvard Revised catalogue|HR]]&nbsp;542, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;12031.<ref name="SIMBAD" />
+}}
+{{Starbox reference 
+ | Simbad=HR542
+}}
+{{Starbox end}}
+
+'''Epsilon Cassiopeiae''' (ε Cas, ε Cassiopeiae) is a [[star system]] in the [[constellation]] [[Cassiopeia (constellation)|Cassiopeia]]. It has the traditional name '''Segin.''' With an [[apparent visual magnitude]] of 3.4,<ref name=clpl4_99/> this is one of the [[List of stars in Cassiopeia|brightest stars]] in the constellation. The distance to this star has been determined directly using [[parallax]] measurements, yielding a value of around {{Convert|390|-|430|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+==Properties==
+This is a [[giant star]] with a [[stellar classification]] of B3&nbsp;III,<ref name="SIMBAD" /> indicating that is has exhausted the hydrogen at its core and entered a later [[stellar evolution|evolutionary]] stages of its lifetime. Cote ''et al.'' (2003) indicate that it displays the spectral properties of a [[Be star]], even though it is not categorized as such.<ref name=aaa274_3_870/> The presence of [[emission line]]s in the spectrum indicates the presence of a circumstellar [[shell star|shell of gas]] that has been thrown off by the star.<ref name=aass84_1_11/> The outer atmosphere of Epsilon Cassiopeiae has an [[effective temperature]] of 15,174&nbsp;K,<ref name=pasj62_5_1239/> giving it the blue-white hue of a B-type star.<ref name=csiro/> The [[interferometer]]-measured [[angular diameter]] is 0.43&nbsp;[[milliarcsecond]]s.<ref name=aj118_6_3032/> At the estimated distance of this star, this yields a physical size of roughly 6 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/>
+
+Observation of this star during the [[Hipparcos]] mission suggest that it may undergo weak periodic [[variable star|variability]]. The amplitude of this variation is 0.0025 in magnitude with a frequency of 11.17797 times per day, or one cycle every 2.15 hours. The [[signal-to-noise ratio]] for this measured variation is 4.978.<ref name=mnras331_1_45/> Hipparcos measurements of the [[space velocity (astronomy)|space velocity]] components for this star suggest that it is a member of the Cas-Tau group of co-moving stars, with a 93% likelihood. This group may be kinematically associated with the [[Alpha Persei Cluster]], indicating that the Cas-Tau group, including Epsilon Cassiopeiae, may have been separated from the cluster through tidal interactions.<ref name=aj117_1_354/>
+
+==Etymology==
+
+In [[Chinese language|Chinese]], {{lang|zh|閣道}} ({{lang|zh-Latn|Gé Dào}}), meaning ''[[Legs (Chinese constellation)|Flying Corridor]]'', refers to an asterism consisting of ε Cassiopeiae, [[Iota Cassiopeiae|ι Cassiopeiae]], [[Delta Cassiopeiae|δ Cassiopeiae]], [[Theta Cassiopeiae|θ Cassiopeiae]], [[Nu Cassiopeiae|ν Cassiopeiae]] and [[Omicron Cassiopeiae|ο Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Cassiopeiae itself is known as {{lang|zh|閣道二}} ({{lang|zh-Latn|Gé Dào èr}}, {{lang-en|the Second Star of Flying Corridor}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_s.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+While some published reports incorrectly claim that this star was designated by NASA as '''Navi''', in honor of astronaut [[Virgil I. Grissom|Virgil Ivan "Gus" Grissom]], one of the three astronauts who died in the [[Apollo 1]] accident,<ref name="jrao"/> the actual star so designated is [[Gamma Cassiopeiae]] in the center of the constellation.<ref name="navi1"/><ref name="navi2"/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name="jrao">{{cite news |first=Joe |last=Rao |url=http://www.space.com/spacewatch/star_names_030829.html |title=NightSky Friday: Rotanev, Derf, Navi, and other Backward Star Names |publisher=[[Space.com]] |date=August 29, 2003}}</ref>
+<ref name="navi1">{{cite web |work=Apollo 15 Lunar Surface Journal |url=http://history.nasa.gov/alsj/a15/a15.postland.html |title=Post-landing Activities |publisher=NASA}} commentary at 105:11:33</ref>
+
+<ref name="navi2">{{cite web |publisher=Heritage Auction Galleries |title=Apollo 10 Flown CSM Star Chart Directly from the Personal Collection of Mission Command Module Pilot John Young |url=http://historical.ha.com/common/view_item.php?Sale_No=6037&Lot_No=0&LotIdNo=12016&ts=off#Photo |accessdate=March 11, 2010}}</ref>
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HR542 | title =SIMBAD query result: Eps Cas -- Be Star | publisher =Centre de Données astronomiques de Strasbourg | accessdate = 2010-02-21 }}</ref>
+
+<ref name="kaler">{{cite web | title=SEGIN (Epsilon Cassiopeiae) | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/Segin.html | accessdate=2010-02-21}}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=pasj62_5_1239>{{citation | display-authors=1 | last1=Takeda | first1=Yoichi | last2=Kambe | first2=Eiji | last3=Sadakane | first3=Kozo | last4=Masada | first4=Seiji | title=Oxygen and Neon Abundances of B-Type Stars in Comparison with the Sun | journal=Publications of the Astronomical Society of Japan | volume=62 | issue=5 | pages=1239–1248 | month=October | year=2010 | bibcode=2010PASJ...62.1239T |arxiv = 1008.1220 }}</ref>
+
+<ref name=mnras331_1_45>{{citation | last1=Koen | first1=Chris | last2=Eyer | first2=Laurent | title=New periodic variables from the Hipparcos epoch photometry | journal=Monthly Notices of the Royal Astronomical Society | volume=331 | issue=1 | pages=45–59 | month=March | year=2002 | doi=10.1046/j.1365-8711.2002.05150.x | bibcode=2002MNRAS.331...45K |arxiv = astro-ph/0112194 }}</ref>
+
+<ref name=aj117_1_354>{{citation | display-authors=1 | last1=de Zeeuw | first1=P. T. | last2=Hoogerwerf | first2=R. | last3=de Bruijne | first3=J. H. J. | last4=Brown | first4=A. G. A. | last5=Blaauw | first5=A. | title=A HIPPARCOS Census of the Nearby OB Associations | journal=The Astronomical Journal | volume=117 | issue=1 | pages=354–399 | month=January | year=1999 | doi=10.1086/300682 | bibcode=1999AJ....117..354D |arxiv = astro-ph/9809227 }}</ref>
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 126\cdot 0.43)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 12\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aaa274_3_870>{{citation | last1=Cote | first1=J. | last2=van Kerkwijk | first2=M. H. | title=New Bright Be-Stars and the Be-Star Frequency | journal=Astronomy and Astrophysics | volume=274 | issue=3 | page=870 | month=July | year=1993 | bibcode=1993A&A...274..870C }}</ref>
+
+<ref name=aass84_1_11>{{citation | last1=Andrillat | first1=A. | last2=Jaschek | first2=M. | last3=Jaschek | first3=C. | title=A survey of Be stars in the infrared. II - Determination of envelope dimensions | journal=Astronomy and Astrophysics Supplement Series | volume=84 | issue=1 | pages=11–28 | month=July | year=1990 | bibcode=1990A&AS...84...11A }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=january | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+{{Stars of Cassiopeia}}
+
+[[Category:Bayer objects|Cassiopeiae, Epsilon]]
+[[Category:B-type giants]]
+[[Category:Cassiopeia (constellation)]]
+[[Category:Stars with proper names]]
+
+[[de:Epsilon Cassiopeiae]]
+[[es:Epsilon Cassiopeiae]]
+[[eo:Segin]]
+[[fa:اپسیلون ذات‌الکرسی]]
+[[fr:Epsilon Cassiopeiae]]
+[[ko:세긴]]
+[[id:Epsilon Cassiopeiae]]
+[[it:Segin]]
+[[nl:Segin]]
+[[pt:Epsilon Cassiopeiae]]
+[[ru:Сегин]]
+[[sk:Segin]]
+[[sv:Segin]]
+[[uk:HD11415]]
+[[zh:閣道二]]

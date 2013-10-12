@@ -1,0 +1,45 @@
+{{Starbox short |
+| name=γ Cancri
+| epoch=[[J2000.0]]
+| constell=[[Cancer (constellation)|Cancer]]
+| ra=08<sup>h</sup>43<sup>m</sup>17.1<sup>s</sup>
+| dec=+21°28′07″
+| spectral=A1IV
+| appmag_v=+4.66
+| dist_ly=158 ± 7
+| dist_pc=49 ± 2
+| names=Asellus Borealis, Severnyj Oslenok, 43&nbsp;Cancri, [[Harvard Revised catalogue|HR]]&nbsp;3449, [[Henry Draper Catalogue|HD]]&nbsp;74198, [[Bonner Durchmusterung|BD]]+21°1895, [[Fifth Fundamental Catalogue|FK5]]&nbsp;1228, [[Hipparcos catalogue|HIP]]&nbsp;42806, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;80378, GC&nbsp;11982, CCDM&nbsp;08433+2128
+}}
+'''Gamma Cancri''' (γ Cnc, γ Cancri) is a [[star system]] in the [[constellation]] [[Cancer (constellation)|Cancer]].  It has the traditional name '''Asellus Borealis''' ([[Latin language|Latin]] for "northern [[donkey]] colt").
+
+In [[Chinese language|Chinese]], {{lang|zh|鬼宿}} ({{lang|zh-Latn|Guǐ Su}}), meaning ''[[Ghost (Chinese constellation)|Ghost]] (asterism)'', refers to an asterism consisting of γ Cancri, [[Theta Cancri|θ Cancri]], [[Eta Cancri|η Cancri]] and [[Delta Cancri|δ Cancri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Cancri itself is known as {{lang|zh|鬼宿三}} ({{lang|zh-Latn|Guǐ Su sān}}, {{lang-en|the Third Star of Ghost}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+γ Cancri is a white [[stellar classification|A-type]] [[subgiant]] with an [[apparent magnitude]] of +4.66.  It is approximately 158 [[light year]]s from [[Earth]]. Since it is near the [[ecliptic]], it can be [[occultation|occulted]] by the [[Moon]] and, very rarely, by [[planet]]s. 
+It will die in about 510 million years.
+
+==References==
+{{reflist}}
+
+{{subgiant-star-stub}}
+{{Stars of Cancer}}
+
+[[Category:Bayer objects|Cancri, Gamma]]
+[[Category:Cancer (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[de:Asellus Borealis]]
+[[es:Asellus Borealis]]
+[[eu:Asellus Borealis]]
+[[fa:گاما خرچنگ]]
+[[fr:Gamma Cancri]]
+[[id:Gamma Cancri]]
+[[it:Asellus Borealis]]
+[[lb:Asellus Borealis (Stär)]]
+[[nl:Asellus Borealis]]
+[[ja:かに座ガンマ星]]
+[[pl:Gamma Cancri]]
+[[pt:Gamma Cancri]]
+[[ru:Гамма Рака]]
+[[sk:Asellus Borealis]]
+[[zh:鬼宿三]]

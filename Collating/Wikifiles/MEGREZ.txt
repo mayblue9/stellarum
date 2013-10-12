@@ -1,0 +1,128 @@
+{{Starbox begin
+| name = Delta Ursae Majoris
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 35.5%; top: 31.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Ursae Majoris (circled)
+}}
+{{Starbox observe 
+| epoch    = J2000 
+| ra       = {{RA|12|15|25.56063}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+57|01|57.4156}}<ref name=aaa474_2_653/>
+| appmag_v = +3.312<ref name=aaass65_2_405/>
+| constell = [[Ursa Major]]
+}}
+{{Starbox character 
+| class    = A3&nbsp;V<ref name=aj74_375/>
+| b-v      = +0.075<ref name=aaass65_2_405/>
+| u-b      = +0.067<ref name=aaass65_2_405/>
+| variable = 
+}}
+{{Starbox astrometry 
+| radial_v = -20.2<ref name=scfs/> 
+| prop_mo_ra  = +143.42<ref name=aaa474_2_653/> 
+| prop_mo_dec = -129.88<ref name=aaa474_2_653/> 
+| parallax = 55.82
+| p_error  = 0.25
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail 
+| mass     = 1.63<ref name=apjss192_1_2/>
+| radius   = 1.4<ref name=aass85_3_1015/>
+| luminosity  = 14<ref name=aass85_3_1015/>
+| temperature = 9,480 ± 570<ref name=aass85_3_1015/>
+| metal_fe = 
+| gravity  = 4.49<ref name=aass85_3_1015/>
+| rotational_velocity = 233<ref name=aaa393_3_897/>
+| age_gyr  = 0.3<ref name=apj663_1_365/>
+}}
+{{Starbox catalog
+| names = Megrez, δ&nbsp;Ursae Majoris, δ&nbsp;UMa, Delta&nbsp;UMa, 69&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+57&nbsp;1363, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J12155+5702A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;456, [[Boss General Catalogue|GC]]&nbsp;16736, [[Henry Draper Catalogue|HD]]&nbsp;106591, [[Hipparcos catalogue|HIP]]&nbsp;59774, [[Bright Star Catalogue|HR]]&nbsp;4660, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;12105+5735 A, [[PPM Star Catalogue|PPM]]&nbsp;33469, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;28315, [[Washington Double Star Catalog|WDS]]&nbsp;J12154+5702A.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+[[File:Ursa Major2.jpg|thumb|200px|right|Book plate by Sydney Hall depicting Ursa Major's stars]]
+'''Delta Ursae Majoris''' ('''Delta&nbsp;UMa''', '''δ&nbsp;Ursae Majoris''', '''δ&nbsp;UMa''') is the [[Bayer designation]] for a [[star]] in the northern [[circumpolar constellation]] of [[Ursa Major]]. It has the traditional names '''Megrez''' {{IPAc-en|ˈ|m|ɛ|ɡ|r|ɛ|z}}, and ''Kaffa.'' Megrez has an [[apparent magnitude]] of +3.3,<ref name=aaass65_2_405/> making it the dimmest of the seven stars in the [[Big Dipper]] [[asterism (astronomy)|asterism]]. [[Parallax]] measurements yield a distance estimate of {{Convert|58.4|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+Megrez has 63%<ref name=apjss192_1_2/> more mass of the Sun and is about 1.4<ref name=aass85_3_1015/> times the Sun's radius. It has a [[stellar classification]] of A3&nbsp;V,<ref name=aj74_375/> which means it is an [[A-type main sequence star]] that is generating energy at its core through the [[nuclear fusion]] of hydrogen. It shines at 14<ref name=aass85_3_1015/> times the luminosity of the Sun, with this energy being emitted from its outer envelope at an [[effective temperature]] of 9,480&nbsp;K.<ref name=aass85_3_1015/> This gives it the white hue typical of an A-type star.<ref name=csiro/>
+
+This star has an [[infrared excess|excess emission of infrared radiation]], indicating the presence of circumstellar matter. This forms a [[debris disk]] around an orbital radius of 16&nbsp;[[Astronomical Unit]]s from the star. This radius is unusually small for the estimated age of the disk, which may be explained by drag from the [[Poynting–Robertson effect]] causing the dust to spiral inward.<ref name=apj663_1_365/>
+
+It has two faint companions, an 11th magnitude star at an [[angular separation]] of 190 [[arcsecond]]s, and a 10th magnitude star 186 [[arcsecond]]s away.{{Citation needed|date=February 2012}}
+
+Megrez is a marginally outlying member of the [[Ursa Major moving group]], an [[stellar association|association]] of stars that share a common motion through space and likely formed in the same [[molecular cloud]]. The [[Space velocity (astronomy)|space velocity]] components of Delta Ursae Majoris in the [[galactic coordinate system]] are [U, V, W] = [+15.35, +1.17, –11.52]{{nowrap| km s<sup>–1</sup>}}.<ref name=aj125_4_1980/>
+
+==Name and etymology==
+*The traditional name ''Megrez'' comes from the Arabic {{Lang-ar|المغرز}} ''al-maghriz'' "the base [of the bear's tail]".
+*This star as ''Atri'', one of the Seven Rishis.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=438}}</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|北斗}} ({{lang|zh-Latn|Běi Dǒu}}), meaning ''[[Purple Forbidden enclosure|Northern Dipper]]'', refers to an asterism consisting of δ Ursae Majoris, [[Alpha Ursae Majoris|α Ursae Majoris]], [[Beta Ursae Majoris|β Ursae Majoris]], [[Gamma Ursae Majoris|γ Ursae Majoris]], [[Epsilon Ursae Majoris|ε Ursae Majoris]], [[Zeta Ursae Majoris|ζ Ursae Majoris]] and [[Eta Ursae Majoris|η Ursae Majoris]]. Consequently, δ Ursae Majoris itself is known as {{lang|zh|北斗四}} ({{lang|zh-Latn|Běi Dǒu sì}}, {{lang-en|the Fourth Star of Northern Dipper}}) and {{lang|zh|天權}} ({{lang|zh-Latn|Tiān Quán}}, {{lang-en|Star of Celestial Balance}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060615.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 15 日]</ref>
+
+==Namesakes==
+[[USS Megrez (AK-126)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apjss192_1_2>{{citation | last1=Shaya | first1=Ed J. | last2=Olling | first2=Rob P. | title=Very Wide Binaries and Other Comoving Stellar Companions: A Bayesian Analysis of the Hipparcos Catalogue | journal=The Astrophysical Journal Supplement | volume=192 | issue=1 | page=2 | month=January | year=2011 | doi=10.1088/0067-0049/192/1/2 | bibcode=2011ApJS..192....2S |arxiv = 1007.0425 }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=aaa393_3_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere | journal=Astronomy and Astrophysics | year=2002 | volume=393 | issue=3 | pages=897–911 | bibcode=2002A&A...393..897R | doi=10.1051/0004-6361:20020943 | arxiv=astro-ph/0205255 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–4 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apj663_1_365>{{citation | display-authors=1 | last1=Wyatt | first1=M. C. | last2=Smith | first2=R. | last3=Su | first3=K. Y. L. | last4=Rieke | first4=G. H. | last5=Greaves | first5=J. S. | last6=Beichman | first6=C. A. | last7=Bryden | first7=G. | title=Steady State Evolution of Debris Disks around A Stars | journal=The Astrophysical Journal | volume=663 | issue=1 | pages=365–382 | month=July | year=2007 | doi=10.1086/518404 | bibcode=2007ApJ...663..365W |arxiv = astro-ph/0703608 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=MEGREZ -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Ursae+Majoris | accessdate=2012-02-04 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aj125_4_1980>{{citation | display-authors=1 | last1=King | first1=Jeremy R. | last2=Villarreal | first2=Adam R. | last3=Soderblom | first3=David R. | last4=Gulliver | first4=Austin F. | last5=Adelman | first5=Saul J. | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group | journal=The Astronomical Journal | volume=125 | issue=4 | pages=1980–2017 | month=April | year=2003 | doi=10.1086/368241 | bibcode=2003AJ....125.1980K }}</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Delta]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Triple star systems]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:المغرز (نجم)]]
+[[cs:Megrez]]
+[[de:Megrez]]
+[[es:Megrez]]
+[[fa:مغرز]]
+[[fr:Delta Ursae Majoris]]
+[[fur:Megrez]]
+[[ko:메그레즈]]
+[[hi:अत्रि तारा]]
+[[it:Megrez]]
+[[he:מגרז]]
+[[lb:Megrez (Stär)]]
+[[nl:Megrez]]
+[[ja:メグレズ]]
+[[pl:Megrez]]
+[[pt:Delta Ursae Majoris]]
+[[ru:Мегрец]]
+[[sk:Megrez]]
+[[fi:Delta Ursae Majoris]]
+[[sv:Megrez]]
+[[zh:天權]]

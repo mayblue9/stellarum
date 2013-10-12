@@ -1,0 +1,106 @@
+{{Starbox begin
+ | name=Gamma Gruis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Grus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Grus constellation and its surroundings]]
+     <div style="position: absolute; left: 61.0%; top: 29.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Gruis (circled) near the center
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|21|53|55.72620}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–37|21|53.4790}}<ref name=aaa474_2_653/>
+ | appmag_v = 3.003<ref name=sps1966/>
+ | constell = [[Grus (constellation)|Grus]]
+}}
+{{Starbox character
+ | class    = B8&nbsp;III<ref name=houk1979/>
+ | b-v      = –0.121<ref name=sps1966/>
+ | u-b      = –0.307<ref name=sps1966/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –2.1<ref name=gcsrv/>
+ | prop_mo_ra  = +98.07<ref name=aaa474_2_653/>
+ | prop_mo_dec = –13.22<ref name=aaa474_2_653/>
+ | parallax = 15.45
+ | p_error  = 0.67
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 
+ | radius   = 4.5<ref name=mnras189_601/>
+ | luminosity  = 
+ | temperature = 12,520<ref name=aaa501_1_297/>
+ | metal_fe =
+ | rotational_velocity = 57<ref name=aaa393_3_897/>
+ | age_gyr  = 
+}}
+{{Starbox catalog
+ | names = γ&nbsp;Gruis, γ&nbsp;Gru, Gamma&nbsp;Gru, [[Durchmusterung|CPD]]−37 &nbsp;9119, [[Fifth Fundamental Catalogue|FK5]]&nbsp;822, [[Boss General Catalogue|GC]]&nbsp;30640, [[Henry Draper catalogue|HD]] 207971, [[Hipparcos catalogue|HIP]] 108085, [[Bright Star Catalogue|HR]]&nbsp;8353, [[PPM Star Catalogue|PPM]]&nbsp;301949, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;213374.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Gamma Gruis''' ('''Gamma&nbsp;Gru''', '''γ&nbsp;Gruis''', '''γ&nbsp;Gru''') is a  [[star]] in the southern [[constellation]] of [[Grus (constellation)|Grus]]. It is known as '''Al Dhanab''', "the Tail (of the constellation of the [[Piscis Austrinus|Southern Fish]])"<ref name=allen1963/> and once belonged to the [[Ptolemy|Ptolemaic]] constellation [[Piscis Austrinus]]. With an [[apparent visual magnitude]] of 3.0,<ref name=sps1966/> it is the third brightest star in the constellation.
+
+In [[Chinese language|Chinese]], {{lang|zh|敗臼}} ({{lang|zh-Latn|Bài Jiù}}), meaning ''[[Emptiness (Chinese constellation)|Decayed Mortar]]'', refers to an asterism consisting of γ Gruis, [[Lambda Gruis|λ Gruis]], [[Gamma Piscis Austrini|γ Piscis Austrini]] and [[19 Piscis Austrini]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Gruis itself is known as {{lang|zh|敗臼一}} ({{lang|zh-Latn|Bài Jiù yī}}, {{lang-en|the First Star of Decayed Mortar}}.)<ref> {{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060705.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 5 日]</ref>
+
+Based upon [[parallax]] measurements, this star is located at a distance of roughly {{Convert|211|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/> Analysis of the [[spectrum]] shows it to match a [[stellar classification]] of B8&nbsp;III,<ref name=houk1979/> with the [[luminosity class]] of III indicating this is a [[giant star]] that has exhausted the supply of hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. The [[luminosity]] of Gamma Gruis is around 390 times that of the [[Sun]], with a significant portion of the energy emission being in the ultraviolet.<ref name=kaler/> Its outer envelope has an [[effective temperature]] of 12,520&nbsp;K,<ref name=aaa501_1_297/> which give the star a blue-white hue. Gamma Gruis is rotating relatively rapidly with a [[projected rotational velocity]] of {{nowrap|57 km s<sup>–1</sup>}}.<ref name=aaa393_3_897/> By way of comparison, the Sun has an [[azimuth]]al velocity along its equator of just {{nowrap|2 km s<sup>–1</sup>}}.
+
+Based upon analysis of data collected during the [[Hipparcos]] mission, this star may have a [[proper motion]] companion that is causing gravitational perturbation of Gamma Gruis.<ref name=aaa464_1_377/>
+
+== See also ==
+* [[Traditional Chinese star names#Grus]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982mcts.book.....H }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=aaa393_3_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere | journal=Astronomy and Astrophysics | year=2002 | volume=393 | issue=3 | pages=897–911 | bibcode=2002A&A...393..897R | doi=10.1051/0004-6361:20020943 | arxiv=astro-ph/0205255 }}</ref>
+
+<ref name=sps1966>{{cite journal | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=SIMBAD>{{citation | title=HD 207971 -- Star | work=SIMBAD Astronomical Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Gruis | accessdate=2007-03-30}}</ref>
+
+<ref name=allen1963>{{citation | last1=Allen | first1=R. H. | author-link=Richard Hinckley Allen | year=1963 | title=[[Star Names: Their Lore and Meaning]] | edition=Reprint | publisher=[[Dover Publications]] Inc. | location=New York, NY | isbn=0-486-21079-0 | page=238 }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first4=M. F. | last5=Torres | first5=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=kaler>{{citation | first=James B. | last=Kaler | title=AL DHANAB (Gamma Gruis) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/aldhanab.html | accessdate=2012-02-11 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name=aaa464_1_377>{{citation | last1=Frankowski | first1=A. | last2=Jancart | first2=S. | last3=Jorissen | first3=A. | title=Proper-motion binaries in the Hipparcos catalogue. Comparison with radial velocity data | journal=Astronomy and Astrophysics | volume=464 | issue=1 | pages=377–392 | month=March | year=2007 | doi=10.1051/0004-6361:20065526 | bibcode=2007A&A...464..377F |arxiv = astro-ph/0612449 }}</ref>
+
+}}
+
+{{Stars of Grus}}
+
+[[Category:Grus (constellation)]]
+[[Category:Bayer objects|Gruis, Gamma]]
+[[Category:B-type giants]]
+[[Category:Henry Draper Catalogue objects|207971]]
+[[Category:Hipparcos objects|108085]]
+[[Category:HR objects|8353]]
+[[Category:Stars with proper names]]
+
+[[de:Aldhanab]]
+[[es:Aldhanab]]
+[[fa:گاما درنا]]
+[[fr:Gamma Gruis]]
+[[id:Gamma Gruis]]
+[[it:Gamma Gruis]]
+[[lb:Aldhanab]]
+[[nl:Al Dhanab]]
+[[ja:つる座ガンマ星]]
+[[pt:Gamma Gruis]]
+[[ru:Гамма Журавля]]
+[[sk:Aldhanab]]
+[[zh:天鶴座γ]]

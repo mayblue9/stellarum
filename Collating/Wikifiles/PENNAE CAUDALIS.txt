@@ -1,0 +1,38 @@
+{{DISPLAYTITLE:Pi<sup>2</sup> Cygni}}
+{{Starbox short |
+ name=Pi<sup>2</sup> Cygni |
+ epoch=[[J2000.0]] |
+ constell=[[Cygnus (constellation)|Cygnus]] |
+ ra=21<sup>h</sup> 46<sup>m</sup> 47.61<sup>s</sup> |
+ dec=+49° 18' 34.5" |
+ spectral=B3III |
+ appmag_v=+4.23 |
+ absmag_v=-3.52 |
+ dist_ly=1156 |
+ dist_pc=354.6 |
+ names=Sama al Azrak, 81 Cygni, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;8335, [[Henry Draper Catalogue|HD]]&nbsp;207330, [[Star catalogue#BD/CD/CPD|BD]]+48&nbsp;3504, FK5&nbsp;821, [[Hipparcos catalogue|HIP]]&nbsp;107533, [[Star catalogue#SAO|SAO]]&nbsp;51293, GC&nbsp;30512}}
+
+'''Pi<sup>2</sup> Cygni''' (π<sup>2</sup> Cyg, π<sup>2</sup> Cygni) is a fourth-magnitude [[star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]]. It has the traditional name '''Pennae Caudalis''', which is [[Latin]] for "Tail Feathers" (of Cygnus the [[Swan]]). Another name is '''''Sama al Azrak''''' ([[Arabic language|Arabic]] '''السماء الازرق''' ~ ''as-sama al-azraq''), meaning "The Blue Sky".
+
+In [[Chinese language|Chinese]], {{lang|zh|螣蛇}} ({{lang|zh-Latn|Téng Shé}}), meaning ''[[Flying serpent (asterism)|Flying Serpent]]'', refers to an asterism consisting of π<sup>2</sup> Cygni, [[Alpha Lacertae|α Lacertae]], [[4 Lacertae]], [[Pi1 Cygni|π<sup>1</sup> Cygni]], [[HD 206267]], [[Epsilon Cephei|ε Cephei]], [[Beta Lacertae|β Lacertae]], [[Sigma Cassiopeiae|σ Cassiopeiae]], [[Rho Cassiopeiae|ρ Cassiopeiae]], [[Tau Cassiopeiae|τ Cassiopeiae]], [[AR Cassiopeiae]], [[9 Lacertae]], [[3 Andromedae]], [[7 Andromedae]], [[8 Andromedae]], [[Lambda Andromedae|λ Andromedae]], [[Kappa Andromedae|κ Andromedae]], [[Psi Andromedae|ψ Andromedae]] and [[Iota Andromedae|ι Andromedae]]. Consequently, π<sup>2</sup> Cygni itself is known as {{lang|zh|螣蛇三}} ({{lang|zh-Latn|Téng Shé sān}}, {{lang-en|the Third Star of Flying Serpent}})<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060707.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 7 日]</ref>
+
+==Structure==
+
+Pi<sup>2</sup> Cygni is a [[binary star|spectroscopic binary]] with its main component being a [[stellar classification|Class B3]] [[blue giant]] star with an [[apparent magnitude]] of +4.23 and a stellar [[luminosity]] nearly 2,200 times that of the [[Sun]]. This binary star system is approximately 1156 [[light years]] from [[Earth]].
+
+==References==
+* {{cite web | title=HD 207330 -- Spectroscopic binary | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=pi2+cygni&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-25}}
+{{reflist}}
+
+{{Stars of Cygnus}}
+
+[[Category:Bayer objects|Cygni, Pi2]]
+[[Category:Cygnus (constellation)]]
+[[Category:B-type giants]]
+[[Category:Spectroscopic binaries]]
+
+{{giant-star-stub}}
+
+[[fa:پی۲ ماکیان]]
+[[id:Pi2 Cygni]]
+[[pt:Pi2 Cygni]]

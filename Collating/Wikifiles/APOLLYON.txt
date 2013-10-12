@@ -1,0 +1,94 @@
+{{DISPLAYTITLE:Iota<sup>1</sup> Scorpii}}
+{{Starbox begin
+| name = Iota<sup>1</sup> Scorpii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Scorpius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Scorpius constellation and its surroundings]]
+     <div style="position: absolute; left: 25.5%; top: 64.2%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of Iota<sup>1</sup> Scorpii (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|17|47|35.08113}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|−40|07|37.1893}}<ref name=aaa474_2_653/>
+| appmag_v = 3.03<ref name=clpl4_99/>
+| constell = [[Scorpius]]
+}}
+{{Starbox character
+| class    = F2&nbsp;Ia<ref name=houk1978/>
+| b-v      = +0.51<ref name=clpl4_99/>
+| u-b      = +0.26<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = −27.6<ref name=gcsrv/>
+| prop_mo_ra  = +0.01<ref name=aaa474_2_653/>
+| prop_mo_dec = −6.24<ref name=aaa474_2_653/>
+| parallax = 1.69
+| p_error  = 0.15
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = {{nowrap|12.11 ± 0.66}}<ref name=an331_4_349/>
+| radius   = 125<ref name=kaler/> to 400<ref name=CADARS/>
+| luminosity  = 35,070<ref name=an331_4_349/>
+| temperature = 7,000<ref name=aj1_232_797/>
+| gravity  = 1.25<ref name=aj1_232_797/>
+| metal_fe = 0.27<ref name=aj1_232_797/>
+| rotational_velocity = 
+| age_myr  = {{nowrap|17.0 ± 0.5}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names = ι<sup>1</sup>&nbsp;Sco, Iota-1 Scorpii, [[Cordoba Durchmusterung|CD]]-40&nbsp;11838, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;228420, [[FK5]]&nbsp;666, [[Henry Draper catalogue|HD]]&nbsp;161471, [[Hipparcos catalogue|HIP]]&nbsp;87073, [[Harvard Revised catalogue|HR]]&nbsp;6615.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Iota<sup>1</sup> Scorpii''' (ι<sup>1</sup> Scorpii) is [[star]] in the southern [[constellation]] of [[Scorpius]]. With an [[apparent visual magnitude]] of 3.03,<ref name=clpl4_99/> this star can be seen with the naked eye. It is sometimes called by the proper name '''[[Apollyon]]'''.<ref name=moore2010/> [[Parallax]] measurements place it at a distance of roughly {{Convert|1930|ly|pc|abbr=off|lk=on}} from [[Earth]], with a 9% [[margin of error]].<ref name=aaa474_2_653/>
+
+This star has a [[stellar classification]] of F2&nbsp;Ia,<ref name=houk1978/> with the 'Ia' [[luminosity class]] indicating this is an [[stellar evolution|evolved]] star that has expanded to become a [[supergiant]]. It has about 12 times the [[solar mass|Sun's mass]]<ref name=an331_4_349/> and is radiating about  35,070 times the [[solar luminosity|Sun's luminosity]].<ref name=an331_4_349/> The radius is uncertain, with estimates ranging from 125<ref name=kaler/> to 400<ref name=CADARS/> times that of the Sun. The [[effective temperature]] of the outer envelope is about 7,000&nbsp;K,<ref name=aj1_232_797/> which gives it a yellow-white hue typical of an F-type star.<ref name=csiro/>
+
+Iota<sup>1</sup> Scorpii has a 10th magnitude companion at an [[angular separation]] of 37.5&nbsp;[[arcseconds]], which, at the distance of this star, gives it a projected physical separation of 20,000&nbsp;[[Astronomical Unit]]s (AU). As the relative separation of the two stars along the line of sight to the Earth is not known, however, this distance represents only a minimum value for their separation.<ref name=kaler/>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj1_232_797>{{citation | last1=Luck | first1=R. E. | title=The chemical compositions of nine southern supergiant stars | journal=Astrophysical Journal, Part 1 | volume=232 | pages=797–806 | month=September | year=1979 | doi=10.1086/157340 | bibcode=1979ApJ...232..797L }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=2 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1978mcts.book.....H }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants	 | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=CADARS>{{citation | display-authors=1 | last1=Pasinetti-Fracassini | first1=L. E. | last2=Pastori | first2=L. | last3=Covino | first3=S. | last4=Pozzi | first4=A. | month=November | year=2000 | title=Catalogue of Stellar Diameters (CADARS) | journal=Astronomy and Astrophysics | volume=367 | pages=521–524 | month=February | year=2001 | doi=10.1051/0004-6361:20000451 | bibcode=2001A&A...367..521P |arxiv = astro-ph/0012289 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=Iota-1 Scorpii | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/iota1sco.html | accessdate=2012-01-12 }}</ref>
+
+<ref name=moore2010>{{citation | first1=Patrick | last1=Moore | title=The Sky at Night | series=Patrick Moore's Practical Astronomy | publisher=Springer | year=2010 | isbn=1-4419-6408-8 | page=97 | url=http://books.google.com/books?id=7u7k3qBd-boC&pg=PA97 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=HR 6615 -- Emission-line Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Iota1+Scorpii | accessdate=2012-01-12 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Iota1]]
+[[Category:Scorpius (constellation)]]
+[[Category:F-type supergiants]]
+
+[[es:Iota1 Scorpii]]
+[[fa:یوتا¹ کژدم]]
+[[fr:Iota1 Scorpii]]
+[[it:Iota1 Scorpii]]
+[[pt:Iota1 Scorpii]]
+[[sk:Iota1 Scorpii]]

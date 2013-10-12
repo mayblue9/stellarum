@@ -1,0 +1,109 @@
+{{Starbox begin
+| name = Alpha Trianguli Australis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Triangulum Australe IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Triangulum Australe constellation and its surroundings]]
+     <div style="position: absolute; left: 93px; top: 128px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Trianguli Australis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|16|48|39.89508}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–69|01|39.7626}}<ref name=aaa474_2_653/>
+| appmag_v = 1.91<ref name=scfs/>
+| constell = [[Triangulum Australe]]
+}}
+{{Starbox character
+| class    = K2&nbsp;IIb-IIIa<ref name=aaa120_1_21/>
+| b-v      = +1.44<ref name=clpl4_99/>
+| u-b      = +1.56<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v    = –3.3<ref name=scfs/>
+| prop_mo_ra  = 17.99<ref name=aaa474_2_653/>
+| prop_mo_dec = –31.58<ref name=aaa474_2_653/>
+| parallax    = 8.35
+| p_error     = 0.15
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v    = –3.68<ref name=apj658_2_L107/>
+}}
+{{Starbox detail
+| mass     = 7<ref name=aaa120_1_21/>
+| radius   = 
+| luminosity  = 5,500<ref name=apj658_2_L107/>
+| gravity  = 1.5<ref name=aaa120_1_21/>
+| temperature = 4,150<ref name=aaa120_1_21/>
+| metal_fe = –0.06<ref name=aaa120_1_21/>
+| rotational_velocity = 
+| age      = {{nowrap|4.8 × 10<sup>7</sup>}}<ref name=aaa120_1_21/>
+}}
+{{Starbox catalog
+| names=Atria, [[Harvard Revised catalogue|HR]] 6217,  [[Cordoba Durchmusterung|CD]] -68°2822, [[Henry Draper catalogue|HD]] 150798, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 253700, [[Fifth Fundamental Catalogue|FK5]] 625, GC 22558, [[Hipparcos catalogue|HIP]] 82273.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=Alpha+Trianguli+Australis
+}}
+{{Starbox end}}
+
+'''Alpha Trianguli Australis''' (α TrA, α Trianguli Australis) is the brightest [[star]] in the southern [[circumpolar constellation]] [[Triangulum Australe]], forming an apex of a triangle with [[Beta Trianguli Australis|Beta]] and [[Gamma Trianguli Australis]] that gives the constellation its name ([[Latin]] for southern triangle). This star has the traditional name '''Atria''', which is merely a contraction of its [[Bayer designation]].<ref name=ridpath1989/> In traditional Chinese it is called 三角形三 ([[Standard Chinese|Mandarin]]: sān jiǎo xín sān), the Third Star of the Triangle.
+
+Alpha Trianguli Australis is a [[bright giant]] star with an [[apparent magnitude]] of +1.91. Based upon [[parallax]] measurements, this star is located roughly {{Convert|391|ly|pc|abbr=off|lk=on}} distant from the Earth.<ref name=aaa474_2_653/> The estimated age of the star is 48 million years old; sufficiently old for a massive star to evolve away from the [[main sequence]] and expand into a giant.<ref name=aaa120_1_21/> It has a mass roughly seven times the [[solar mass|mass of the Sun]], but is emitting about 5,500 times the [[solar luminosity|Sun's luminosity]]. The [[effective temperature]] of the star's outer envelope is 4,150&nbsp;K,<ref name=aaa120_1_21/> which gives it the characteristic orange hue of a K-type star.<ref name=csiro/> With a diameter 130 times that of our sun, it would almost reach the orbit of Venus if placed at the centre of our solar system. The proper name Atria is a contraction of its Bayer designation.<ref name="kaleratria">{{cite web|url=http://stars.astro.illinois.edu/sow/atria.html|title=Atria (Alpha Trianguli Australis |last=Kaler|first=Jim|work=Stars|publisher=University of Illinois|accessdate=17 October 2012}}</ref>
+
+There is evidence that Atria may be a [[binary star]]. It displays unusual properties for a star of its class, including [[flare star|stellar flares]] and a higher than normal emission of X-rays. These can be explained by a young, [[Stellar magnetic field|magnetically active]] companion with a [[stellar classification]] of about G0&nbsp;V. Such a star would have a mass similar to the Sun, with an orbital period of at least 130&nbsp;years. Young, [[G-type star]]s have a high temperature [[corona]] and frequently emit flares causing sudden increases in luminosity. The pair may be separated by about 50&nbsp;[[Astronomical Unit]]s.<ref name=apj658_2_L107/>
+
+==In culture==
+Atria appears on the [[flag of Brazil]], symbolizing the state of [[Rio Grande do Sul]].<ref name=brazil_flag/>
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+	
+<ref name=aaa120_1_21>{{citation | last1=Kovacs | first1=N. | title=Model-atmosphere analysis of high-dispersion spectra of four red giants and supergiants | journal=Astronomy and Astrophysics | volume=120 | issue=1 | pages=21–35 | month=April | year=1983 | bibcode=1983A&A...120...21K }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=brazil_flag>{{cite web | title=Astronomy of the Brazilian Flag | url=http://www.fotw.net/flags/br_astro.html | publisher=FOTW Flags Of The World website | accessdate=2011-12-26 }}</ref>
+
+<ref name=apj658_2_L107>{{citation | last1=Ayres | first1=Thomas R. | last2=Brown | first2=Alexander | last3=Harper | first3=Graham M. | title=α TrA Junior | journal=The Astrophysical Journal | volume=658 | issue=2 | pages=L107–L110 | month=April | year=2007 | doi=10.1086/514818 | bibcode=2007ApJ...658L.107A }}</ref>
+
+<ref name=ridpath1989>{{citation | first1=Ian | last1=Ridpath | title=Star tales | publisher=James Clarke & Co. | year=1989 | isbn=0-7188-2695-7 | page=125 | url=http://books.google.com/books?id=gFrdcTdeVaEC&pg=RA1-PA12 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=alf TrA -- Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Trianguli+Australis | accessdate=2011-12-26 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler  | title=ATRIA (Alpha Trianguli Australis) | work=Stars | publisher=University of Illinois | url=http://www.astro.uiuc.edu/~kaler/sow/atria.html | accessdate=2011-12-26 }}
+
+{{Stars of Triangulum Australe}}
+
+[[Category:Bayer objects|Trianguli Australis, Alpha]]
+[[Category:Henry Draper Catalogue objects|150798]]
+[[Category:Hipparcos objects|082273]]
+[[Category:K-type bright giants]]
+[[Category:Triangulum Australe]]
+
+[[de:Atria]]
+[[es:Atria (estrella)]]
+[[fa:آلفا مثلث جنوبی]]
+[[fr:Alpha Trianguli Australis]]
+[[ko:아트리아]]
+[[hi:अल्फ़ा ट्राऐंगुलाइ ऑस्ट्रालिस तारा]]
+[[it:Alfa Trianguli Australis]]
+[[he:אטרייה (כוכב)]]
+[[la:Alpha Trianguli Australis]]
+[[nl:Atria]]
+[[ja:アトリア]]
+[[pl:Atria]]
+[[pt:Alpha Trianguli Australis]]
+[[sk:Atria]]
+[[fi:Alfa Trianguli Australis]]
+[[zh:三角形三]]

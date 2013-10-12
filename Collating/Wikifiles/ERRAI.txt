@@ -1,0 +1,165 @@
+{{Starbox begin
+| name = Alrai, γ Cep}}
+{{Starbox image
+| image=[[Image:Cepheus constellation map.png|250px]]
+| caption=Location of γ Cephei (top center).}}
+{{Starbox observe
+| epoch = J2000.0
+| constell=[[Cepheus (constellation)|Cepheus]]
+| ra = {{RA|23|39|20.85}}<ref name="hipparcos"/> 
+| dec = {{DEC|+77|37|56.2}}<ref name="hipparcos"/>
+| appmag_v = 3.22
+}}
+{{Starbox character 2s
+| component1 = Gamma Cephei A
+| class1 = K1IVe
+| r-i1 = <!--R-I color-->
+| v-r1 = <!--V-R color-->
+| b-v1 = 1.03
+| u-b1 = 0.94
+| variable1 = Suspected
+| component2 = Gamma Cephei B
+| class2 = M4V<ref name="Neuhäuser2007"/>
+| r-i2 = <!--R-I color-->
+| v-r2 = <!--V-R color-->
+| b-v2 = <!--B-V color-->
+| u-b2 = <!--U-B color-->
+| variable2 = <!--Variability type-->
+}}
+{{Starbox astrometry
+| radial_v = 8.8
+| prop_mo_ra = -47.96 ± 0.45<ref name="hipparcos"/>
+| prop_mo_dec = 126.59 ± 0.40<ref name="hipparcos"/>
+| parallax = 72.69
+| p_error = 0.41
+| parallax_footnote = <ref name="Neuhäuser2007"/>
+| absmag_v = 2.51
+}}
+{{Starbox orbit
+| reference = <ref name="Neuhäuser2007"/>
+| primary = A
+| name = B
+| period = 67.5 ± 1.4
+| axis = 1.467 ± 0.046
+| axis_unitless = 20.18 ± 0.66 [[Astronomical unit|AU]]
+| eccentricity = 0.4112 ± 0.0063
+| periarg = 161.01 ± 0.40
+| node = 18.04 ± 0.98
+| inclination = 119.3 ± 1.0
+| periastron = 1991.605 ± 0.031
+}}
+{{Starbox detail
+| source = <!--[source url]-->
+| component1 = Gamma Cephei A
+| mass = 1.40 ± 0.12<ref name="Neuhäuser2007"/>
+| radius = {{nowrap|4.79 ± 0.06}}<ref name=aj118_6_3032/>
+| luminosity = 
+| temperature = 
+| metal = 
+| rotation = 
+| age_gyr = 6.6<ref name="torres07"/>
+| component2 = Gamma Cephei B
+| mass2 = 0.409 ± 0.018<ref name="Neuhäuser2007"/>
+}}
+{{Starbox catalog
+| names = 35 Cep, [[Henry L. Giclas catalogue|Gl]] 903, [[Harvard Revised catalogue|HR]] 8974, [[Durchmusterung|BD]] +76°928, [[Henry Draper catalogue|HD]] 222404, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 5725.00, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 10818, FK5 893, [[Hipparcos catalogue|HIP]] 116727.
+}}
+{{Starbox reference
+| Simbad=Gamma+Cephei 
+| NSTED=Gamma+Cephei
+| EPE=Gamma+Cephei
+}}
+{{Starbox end}}
+'''Gamma Cephei''' (γ Cep, γ Cephei), traditionally named '''Errai''', '''Er Rai''', and or '''Alrai''', is a [[binary star|binary star system]] approximately 45 [[light-year]]s away in the [[constellation]] of [[Cepheus (constellation)|Cepheus]].  Gamma Cephei contains an [[apparent magnitude]] of 3.22.  The visible part of the system is a [[spectral classification|stellar class]] K1III-IV orange [[subgiant]] star on its first ascent off the main sequence.  It is about 6.6 billion years old (based on Fe/H metallicity).<ref name="torres07" /> Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/>
+
+Gamma Cephei is the naked-eye star that will succeed [[Polaris]] as the Earth's northern [[pole star]], due to the [[precession of the equinoxes]]. It will be closer to the northern [[celestial pole]] than Polaris around 3000 CE and will make its closest approach around 4000 CE. The "title" will pass to [[Iota Cephei|ι Cephei]] some time around [[5th millennium AD|5200]] CE.
+
+The star has a companion star with a mass approximately 0.409 times that of our Sun.<ref name="Neuhäuser2007"/> Gamma Cephei B is of stellar mass and is assumed to be of similar age to its primary. It is probably a [[red dwarf]] of class M4, 6.2 degrees of magnitude fainter than the K-type primary star.<ref name="Neuhäuser2007"/>
+
+== Etymology ==
+
+Gamma Cephei's traditional name derives from the [[Arabic language|Arabic]] '''الراعي''' ''ar-rā‘ī'', meaning "the shepherd".  Confusingly, the star [[Beta Ophiuchi|β Ophiuchi]] is sometimes also called Alrai, but it is more commonly known as ''[[Cebalrai]]'' or ''[[Kelb Alrai]]'', meaning "shepherd's dog".
+
+In [[Chinese language|Chinese]], {{lang|zh|紫微左垣}} ({{lang|zh-Latn|Zǐ Wēi Zuǒ Yuán}}), meaning ''[[Purple Forbidden enclosure|Left Wall of Purple Forbidden Enclosure]]'', refers to an asterism consisting of γ Cephei, [[Iota Draconis|ι Draconis]], [[Theta Draconis|θ Draconis]], [[Eta Draconis|η Draconis]], [[Zeta Draconis|ζ Draconis]], [[Upsilon Draconis|υ Draconis]], [[73 Draconis]] and [[23 Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Cephei itself is known as {{lang|zh|紫微左垣七}} ({{lang|zh-Latn|Zǐ Wēi Zuǒ Yuán qī}}, {{lang-en|the Seventh Star of Left Wall of Purple Forbidden Enclosure}}.),<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> representing {{lang|zh|右樞}} ({{lang|zh-Latn|Shǎowèi}}), meaning ''The Second Imperial Guard''<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#PrupleForbiddenEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> or ''Minor Guard''<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cepheus*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Cepheus]</ref>
+
+== Planetary system ==
+A planet orbiting Gamma Cephei A was tentatively identified by a Canadian team consisting of Bruce Campbell, Gordon Walker and Stephenson Yang in 1988.<ref>{{cite journal | author=Campbell et al.| title=A search for substellar companions to solar-type stars | journal=The [[Astrophysical Journal]] | volume=331 |year=1988 | pages=902–921| doi=10.1086/166608 | last2=Walker | first2=G. A. H. | last3=Yang | first3=S. | bibcode=1988ApJ...331..902C}}</ref> Its existence was also announced by [[Anthony Lawton]] and [[P Wright]] in 1989.<ref>{{cite journal | author=Lawton ''and '' Wright |  title=A planetary system for Gamma Cephei? |journal=British Interplanetary Society|year=1989 | volume=42 |  pages=335–336 |last1=Lawton |first1=A. T. | last2= Wright| first2=P. | bibcode=1989JBIS...42..335L }}</ref> This would have been the first confirmed extrasolar planet and its ostensible discovery was based on the same [[radial velocity]] technique later used successfully by others. However, the claim was retracted in 1992 because the quality of the data was not good enough to establish discovery. But in 2002, evidence of the planet was considerably strengthened by new measurements by Artie Hatzes and his collaborators at the [[McDonald Observatory]].<ref name="Hatzes2003"/>
+
+The secondary star B orbits A at only 9.5 times the semimajor axis of A's planet. This is the smallest ratio of planetary orbits in multiple systems. The orbits are probably [[coplanar]].<ref name="torres07" />
+
+{{OrbitboxPlanet begin|name=Gamma Cephei A}}
+{{OrbitboxPlanet
+| exoplanet = [[Gamma Cephei Ab|b]]
+| mass = ≥1.60 ± 0.13
+| period = 902.9 ± 3.5
+| semimajor = 2.044 ± 0.057
+| eccentricity = 0.115 ± 0.058
+}}
+{{Orbitbox end}}
+
+== See also ==
+* [[Iota Horologii]]
+* [[Gliese 777]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+<ref name="Hatzes2003">{{cite journal | url=http://iopscience.iop.org/0004-637X/599/2/1383/fulltext/ | title=A Planetary Companion to Gamma Cephei A | last1=Hatzes | first1=Artie P. | last2=Cochran | first2=William D. | last3=Endl | first3=Michael | last4=McArthur | first4=Barbara | last5=Paulson | first5=Diane B. | last6=Walker | first6=Gordon A. H. | last7=Campbell | first7=Bruce | last8=Yang | first8=Stephenson | display-authors=1 | journal=The Astrophysical Journal | volume=599 | issue=2 | pages=1383–1394 | year=2003 | arxiv=astro-ph/0305110 | bibcode=2003ApJ...599.1383H | doi=10.1086/379281 }}</ref>
+
+<ref name="Neuhäuser2007">{{cite journal | url=http://www.aanda.org/articles/aa/full/2007/05/aa6581-06/aa6581-06.html | title=Direct detection of exoplanet host star companion γ Cep B and revised masses for both stars and the sub-stellar object | last1=Neuhäuser | first1=R. | last2=Mugrauer | first2=M. | last3=Fukagawa | first3=M. | last4=Torres | first4=G. | last5=Schmidt | first5=T. | display-authors=1 | journal=Astronomy and Astrophysics | volume=462 | issue=2 | pages=777–780 | year=2007 | arxiv=astro-ph/0611427 | bibcode=2007A&A...462..777N | doi=10.1051/0004-6361:20066581 }}</ref>
+
+<ref name="torres07">{{cite journal | journal=The [[Astrophysical Journal]] | volume=654 | issue=2 | pages=1095–1109 | title=The Planet Host Star γ Cephei: Physical Properties, the Binary Orbit, and the Mass of the Substellar Companion | first1=Guillermo | last1=Torres | year=2007 | doi=10.1086/509715 | bibcode=2007ApJ...654.1095T | arxiv=astro-ph/0609638 }}</ref>
+
+<ref name="hipparcos">{{cite web | url=http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=I/311/hip2&recno=116337 | title=HIP 116727 | work=Hipparcos, the New Reduction | author=van Leeuwen, F. | year=2007 | accessdate=2009-12-06}}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+}}
+
+==External links==
+* http://jumk.de/astronomie/exoplanets/errai.shtml
+* [http://mcdonaldobservatory.org/news/releases/2002/1009.html '''McDonald Observatory''': Planet Search finds first planet orbiting close-in binary star]
+* [http://austral.as.utexas.edu/planets/gamcep/gamcep.html A Planetary Companion to the Binary Star Gamma Cephei]
+* [http://www.solstation.com/stars2/errai2.htm '''SolStation''': Errai 2]
+* [http://www.extrasolar.net/startour.asp?StarCatId=normal&StarId=196 '''Extrasolar Visions''': Gamma Cephei A] + [http://www.extrasolar.net/planettour.asp?StarCatId=normal&PlanetId=235 Gamma Cephei Ab] + [http://www.extrasolar.net/startour.asp?StarCatId=normal&StarId=230 Gamma cephei B]
+<div style="clear: both"></div>
+
+{{s-start}}
+{{s-bef|before=[[Polaris]]}}
+{{s-ttl|title=[[Pole Star]]|years=3000–[[6th millennium|5200]]}}
+{{s-aft|after=[[Iota Cephei]]}}
+{{end}}
+{{Sky|23|39|20.8|+|77|37|56|44.9}}
+{{Nearest star systems|9}}
+{{Stars of Cepheus}}
+
+[[Category:Bayer objects|Cephei, Gamma]]
+[[Category:Cepheus (constellation)]]
+[[Category:Flamsteed objects|Cephei, 35]]
+[[Category:Henry Draper Catalogue objects|222404]]
+[[Category:Hipparcos objects|116727]]
+[[Category:HR objects|8974]]
+[[Category:K-type subgiants]]
+[[Category:M-type main sequence stars]]
+[[Category:Northern pole stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الراعي (نجم)]]
+[[de:Gamma Cephei]]
+[[es:Errai]]
+[[fa:راعی]]
+[[fr:Gamma Cephei]]
+[[gl:Gamma Cephei]]
+[[ko:세페우스자리 감마]]
+[[id:Gamma Cephei]]
+[[it:Alrai]]
+[[pl:Gamma Cephei]]
+[[pt:Gamma Cephei]]
+[[ru:Гамма Цефея]]
+[[sk:Alrai]]
+[[fi:Gamma Cephei]]
+[[tt:Әлрагый]]
+[[th:แกมมาเซเฟย์]]
+[[zh:少衛增八]]

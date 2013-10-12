@@ -1,0 +1,79 @@
+{{Starbox begin
+| name=Eta Piscium
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pisces IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pisces constellation and its surroundings]]
+     <div style="position: absolute; left: 31%; top: 40%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of η Piscium(circled)
+}}
+{{Starbox short |
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Pisces (constellation)|Pisces]]
+| ra=01<sup>h</sup> 31<sup>m</sup> 29<sup>s</sup>
+| dec=+15° 20' 45"
+| spectral=G7IIIa
+| appmag_v=+3.62
+| dist_ly=294
+| dist_pc=90
+| names=η&nbsp;Piscium, η&nbsp;Psc, Eta&nbsp;Psc, 99&nbsp;Piscium, [[Star catalogue#BD/CD/CPD|BD]]+14&nbsp;231, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J01315+1521AB, [[Fifth Fundamental Catalogue|FK5]]&nbsp;50, [[Boss General Catalogue|GC]]&nbsp;1839, [[Henry Draper Catalogue|HD]]&nbsp;9270, [[Hipparcos Catalogue|HIP]]&nbsp;7097, [[Bright Star Catalogue|HR]]&nbsp;437, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;01261+1450, [[PPM Star Catalogue|PPM]]&nbsp;117418, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;92484, [[Washington Double Star Catalog|WDS]]&nbsp;J01315+1521AB.
+}}
+
+'''Eta Piscium''' ('''Eta&nbsp;Psc''', '''η&nbsp;Piscium''', '''η&nbsp;Psc''') is the brightest [[star]] in the [[constellation]] [[Pisces (constellation)|Pisces]]. Eta Piscium is located at a distance of about 294 [[light year]]s from [[Earth]] and shines at [[apparent magnitude|magnitude]] +3.62. It is of [[stellar classification|Spectral type]] G7 III. 
+
+The total [[luminosity]] of this star is 316 times that of the [[Sun]] while its surface temperature is 4930 [[kelvin]]s. The star has a radius of {{nowrap|26 ± 2}}<ref name=aj118_6_3032/> times solar while its mass is 3.5 to 4 [[solar mass]]es.
+
+Eta Piscium has a faint companion star with a separation of about 1".
+
+==Name and etymology==
+*The star, sometimes known as '''Alpherg''',<ref name="YILDIZ">{{cite web
+ | url=http://www.pultar.org/mustafa/YAS/Baliklar.html
+ | title =YILDIZ ADLARI SÖZLÜĞÜ (Dictionary of Star Names)
+ | publisher=[[Mustafa Pultar]]
+ | accessdate=2012-08-28}}</ref> has an obscure [[Babylonia]]n name '''Kullat Nunu'''−the latter being the Babylonian word for ''fish'' and the former "Kullat" referring to either a bucket or the cord that ties the fish together.<ref name="YILDIZ"/><ref name="ALLEN">{{cite book
+ | author=[[Richard Hinckley Allen|Allen, Richard Hinckley]],
+ | year=1963 |origyear=1899
+ | title=Star Names: Their Lore and Meaning
+ | edition=[[Reprint|rep]].
+ | publisher=[[Dover Publications]] Inc.
+ | location=[[New York City|New York]], [[New York|NY]]
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Pisces*.html
+ | isbn=0-486-21079-0
+ | pages = 328–29}}</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|右更}} ({{lang|zh-Latn|Yòu Gèng}}), meaning ''[[Bond (Chinese constellation)|Official in Charge of the Pasturing]]'', refers to an asterism consisting of refers to an asterism consisting of η Piscium, [[Rho Piscium|ρ Piscium]], [[Pi Piscium|π Piscium]], [[Omicron Piscium|ο Piscium]] and [[104 Piscium]]. Consequently, η Piscium itself is known as {{lang|zh|右更二}} ({{lang|zh-Latn|Yòu Gèng èr}}, {{lang-en|the Second Star of Official in Charge of the Pasturing}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060519.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 19 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/kullatnunu.html Eta Psc]
+
+{{Stars of Pisces}}
+
+[[Category:Bayer objects|Pisces, Eta]]
+[[Category:Flamsteed objects|Pisces, 99]]
+[[Category:Pisces (constellation)]]
+[[Category:G-type giants]]
+[[Category:Stars with proper names]]
+
+
+{{star-stub}}
+
+[[bg:Кулат Нуну]]
+[[de:Kullat Nunu]]
+[[es:Kullat Nunu]]
+[[fa:اتا ماهی]]
+[[fr:Eta Piscium]]
+[[id:Eta Piscium]]
+[[it:Eta Piscium]]
+[[la:Eta Piscium]]
+[[lb:Kullat Nunu (Stär)]]
+[[ja:うお座イータ星]]
+[[pt:Eta Piscium]]
+[[zh:右更二]]

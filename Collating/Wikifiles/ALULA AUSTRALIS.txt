@@ -1,0 +1,111 @@
+{{Starbox begin
+| name=Xi Ursae Majoris }}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Ursa Major constellation map.svg|250px]]
+     <div style="position: absolute; left: 134px; top: 223px">[[Image:Locator Dot.gif|5px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> | 
+  caption=The red dot shows the location of Xi Ursae Majoris in [[Ursa Major (constellation)|Ursa Major]]. }}
+{{Starbox observe
+| epoch=J2000
+| ra=11<sup>h</sup> 18<sup>m</sup> 11.0<sup>s</sup>
+| dec=+31° 31&prime; 45&Prime;
+| appmag_v=3.79 (4.32/4.84)
+| constell=[[Ursa Major]] }}
+{{Starbox character
+| class=G0 Ve/G0 Ve
+| b-v=0.59
+| u-b=0.04
+| variable=? }}
+{{Starbox astrometry
+| radial_v=-15.0
+| prop_mo_ra=-429
+| prop_mo_dec=-587
+| parallax=113.20
+| p_error=4.60
+| parallax_footnote=<ref name=mnras349_1_1069/>
+| absmag_v=4.71/5.23 }}
+{{Starbox detail
+| mass=1.05/0.90
+| radius=1.01/0.78
+| luminosity=1.1/0.67
+| temperature=~5,900/5,900
+| metal=0.98/0.76
+| rotation=3 km/s
+| age=6 &times; 10<sup>9</sup> }}
+{{Starbox visbin
+| reference =<ref name=aj109_1669_332/>
+| name=&xi; UMa A
+| period=59.878
+| axis=2.536
+| eccentricity=0.398
+| inclination=127.94
+| node=101.85 (ascending)
+| periastron=1935.195 }}
+{{Starbox catalog
+| names=Alula Australis, ξ&nbsp;Ursae Majoris, ξ&nbsp;UMa, Xi&nbsp;UMa, 53 UMa&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+32°2132, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J11182+3132AB, [[Boss General Catalogue|GC]]&nbsp;15537, [[Henry Draper catalogue|HD]] 98230/98231, [[Hipparcos catalogue|HIP]] 55203, [[Bright Star Catalogue|HR]]&nbsp;4374/4375,  [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;11128+3206 AB / 11128+3206, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;62484, [[Washington Double Star Catalog|WDS]]&nbsp;J11182+3132AB. 
+}}
+{{Starbox end}}
+'''Xi Ursae Majoris''' ('''Xi&nbsp;UMa''', '''ξ&nbsp;Ursae Majoris''', '''ξ&nbsp;UMa''') is a [[star system]] in the [[constellation]] [[Ursa Major]]. On May 2, 1780, Sir [[William Herschel]] discovered that this was a [[binary star]] system, making it the first such system ever discovered. It was the first visual double star for which an orbit was calculated, when it was computed by [[Félix Savary]] in [[1828 in science|1828]].
+
+The two components are yellow [[G-type main-sequence star]]s. The brighter component, '''Xi Ursae Majoris A''', has a mean [[apparent magnitude]] of +4.41. It is classified as an [[RS Canum Venaticorum variable|RS Canum Venaticorum type]] [[variable star]] and its brightness varies by 0.01 magnitudes. The companion star, '''Xi Ursae Majoris B''' has an apparent magnitude of +4.87.  The orbital period of the two stars is 59.84 years, and they are currently separated by 1.2 [[arcsecond]]s, or at least 10 [[Astronomical Unit|AU]]s.
+
+Each component of this double star is itself a [[spectroscopic binary]].  B's binary companion, denoted '''Xi Ursae Majoris Bb''', is unresolved, but the binary star is known to have an orbital period of 3.98 days. The masses of both A and B's companions (Ab and Bb) (deduced by the sum total mass of the system minus the likely masses of Aa and Ba determined by their class) indicate that they are probably MV stars (red dwarfs), Bb being on the cool end of the M spectrum, not much hotter than a brown dwarf.<ref>http://www.astro.illinois.edu/~jkaler/sow/alulaaus.html</ref>
+
+It also has the proper name '''Alula Australis'''<ref>[[Giuseppe Piazzi|Piazzi, G.]], ''The Palermo Catalogue'', Palermo, 1814.</ref> (and erroneously ''Alula Australe''<ref>[[Antonín Bečvář|Bečvář, A.]], ''Atlas Coeli (Atlas of the Heavens) II - Catalogue'', Plague, 1964.</ref>).
+
+==Name and etymology==
+*The traditional name ''Alula''' (share with [[Nu Ursae Majoris|ν UMa]]) comes from the Arabic phrase  {{transl|ar|''Al Ḳafzah al Ūla''}} "the First Spring".<ref name=rhallen1899>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen :Star Names — Their Lore and Meaning - Ursa Major, the Greater Bear]</ref> The term ''Australis'' meaning "the south side" in [[Latin]].
+*In [[Chinese language|Chinese]], {{lang|zh|三台}} ({{lang|zh-Latn|Sān Tái}}), meaning ''[[Purple Forbidden enclosure|Three Steps]]'', refers to an asterism consisting of ξ Ursae Majoris, [[Iota Ursae Majoris|ι Ursae Majoris]], [[Kappa Ursae Majoris|κ Ursae Majoris]], [[Lambda Ursae Majoris|λ Ursae Majoris]], [[Mu Ursae Majoris|μ Ursae Majoris]] and [[Nu Ursae Majoris|ν Ursae Majoris]]. Consequently, ξ Ursae Majoris itself is known as {{lang|zh|三台六}} ({{lang|zh-Latn|Sān Tái liù}}, {{lang-en|the Sixth Star of Three Steps}}) and {{lang|zh|下台二}} ({{lang|zh-Latn|Xià Tái èr}}, {{lang-en|Star of Second Lower Step}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060621.html (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 21 日]</ref>
+
+[[File:Xi UMa orbit.gif|Orbit of Xi Ursae Majoris.]]
+
+==WISE J111838.70+312537.9==
+In 2012 Wright et al. discovered the fifth component and the second brown dwarf (if Bb is also a brown dwarf) of the system using [[Wide-field Infrared Survey Explorer|Wide-field Infrared Survey Explorer (WISE)]] data — a T8.5 brown dwarf WISE J111838.70+312537.9 with angular separation 8.5 [[arcminute|arc-min]], and the projected physical separation about 4000 [[Astronomical unit|AU]].{{r|Wright2012}}
+
+== Notes ==
+{{reflist|refs=
+
+<ref name=mnras349_1_1069>{{citation | title=Kinematics of chromospherically active binaries and evidence of an orbital period decrease in binary evolution | last1=Karataş | first1=Y. | last2=Bilir | first2=S. | last3=Eker | first3=Z. | last4=Demircan | first4=O. | journal=Monthly Notices of the Royal Astronomical Society | volume=349 | issue=3 | pages=1069&ndash;1092 | month=April | year=2004 | doi=10.1111/j.1365-2966.2004.07588.x | bibcode=2004MNRAS.349.1069K |arxiv = astro-ph/0404219 }}</ref>
+
+<ref name=aj109_1669_332>{{citation | last1=Mason | first1=Brian D. | last2=McAlister | first2=Harold A. | last3=Hartkopf | first3=William I. | last5=Shara | first5=M. M. | title=Binary star orbits from speckle interferometry. 7: The multiple system XI Ursae Majoris | journal=The Astronomical Journal | volume=109 | issue=1669 | pages=332&ndash;340 | month=January | year=1995 | bibcode=1995AJ....109..332M |doi = 10.1086/117277 }}</ref>
+
+<ref name="Wright2012">{{Rr/2012arXiv1203.5764W}}</ref>
+}}
+
+==External links==
+*[http://www.solstation.com/orbits/aluaussys.htm Animation of the orbits of the stars in the Alula Australis System at SolStation.com]
+*[http://www.solstation.com/stars/alulaaus.htm Main Article on Alula Australis at SolStation.com]
+* [http://www.astro.uiuc.edu/~kaler/sow/alulaaus.html Alula Australis] by Dr. Jim Kaler.
+{{Nearest systems|6}}
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Xi]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Multiple star systems|4]]
+[[Category:RS Canum Venaticorum variables]]
+[[Category:G-type main sequence stars]]
+[[Category:Red dwarf stars]]
+[[Category:T-type stars]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+[[Category:Gliese and GJ objects|0423]]
+[[Category:WISE objects]]
+
+
+{{star-system-stub}}
+
+[[ar:القفزة الأولى الجنوبي]]
+[[de:Xi Ursae Majoris]]
+[[es:Alula Australis]]
+[[fa:کسی خرس بزرگ]]
+[[fr:Xi Ursae Majoris]]
+[[ko:큰곰자리 크시]]
+[[it:Xi Ursae Majoris]]
+[[nl:Alula Australis]]
+[[pl:Ksi Ursae Majoris]]
+[[pt:Xi Ursae Majoris]]
+[[ru:Алула Южная]]
+[[sk:Alula Australis]]
+[[fi:Ksii Ursae Majoris]]
+[[zh:下台二]]

@@ -1,0 +1,164 @@
+{{Starbox begin
+ | name = Alpha Arietis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Aries IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aries constellation and its surroundings]]
+     <div style="position: absolute; left: 61%; top: 36.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of α Arietis (circled)
+}}
+{{Starbox observe
+ | epoch       = [[J2000.0]]
+ | equinox     = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+ | constell    = [[Aries (constellation)|Aries]]
+ | ra          = {{RA|02|07|10.40570}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|+23|27|44.7032}}<ref name=aaa474_2_653/>
+ | appmag_v    = 2.00<ref name=clpl4_99/>
+}}
+{{Starbox character
+ | class       = {{nowrap|K2 III Ca-1}}<ref name=bsc2 />
+ | u-b         = +1.13<ref name=clpl4_99/>
+ | b-v         = +1.15<ref name=clpl4_99/>
+ | v-r         = +0.7<ref name=sb0 />
+ | r-i         = +0.62<ref name=bsc2 />
+ | variable    = Suspected<ref name=nsv1 />
+}}
+{{Starbox astrometry
+ | radial_v    = {{nowrap|−14.2 ± 0.9}}<ref name=rgcrv/>
+ | prop_mo_ra  = +188.55<ref name=aaa474_2_653/>
+ | prop_mo_dec = −148.08<ref name=aaa474_2_653/>
+ | parallax    = 49.56
+ | p_error     = 0.25
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = {{nowrap|+0.47 ± 0.04}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail
+ | mass        = {{nowrap|1.5 ± 0.2}}<ref name=aaa529_A134/>
+ | radius      = {{nowrap|14.9 ± 0.3}}<ref name=aaa526_A100/>
+ | temperature = 4,480<ref name=aaa526_A100/>
+ | gravity     = 2.57<ref name=aaa526_A100/>
+ | metal_fe    = –0.25<ref name=aaa526_A100/>
+ | rotational_velocity = 3.44<ref name=aaa529_A134/>
+ | luminosity_bolometric = {{nowrap|91 ± 6}}<ref name=aaa526_A100/>
+}}
+{{Starbox catalog
+ | names=Hemal, Hamul, Hamal, Ras&nbsp;Hammel, El&nbsp;Nath, Arietis, α&nbsp;Ari, [[Bayer designation|Alpha&nbsp;Arietis]], Alpha&nbsp;Ari, [[Flamsteed designation|13&nbsp;Arietis]], 13&nbsp;Ari, [[Durchmusterung|BD]]+22&nbsp;306, [[Fifth Fundamental Catalogue|FK5]]&nbsp;74, [[Boss General Catalogue|GC]]&nbsp;2538, [[Gliese–Jahreiß catalogue|GJ]]&nbsp;84.3, [[Gliese–Jahreiß catalogue|GJ]]&nbsp;9072, [[Henry Draper Catalogue|HD]]&nbsp;12929, [[Hipparcos Catalogue|HIP]]&nbsp;9884, [[Bright Star Catalogue|HR]]&nbsp;617, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;10711, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;7032, [[PPM Star Catalogue|PPM]]&nbsp;91373, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;75151.<ref name=bsc2 /><ref name=sb0 />
+}}
+{{Starbox reference
+| Simbad=alf+ari
+}}
+{{Starbox end}}
+
+'''Alpha Arietis''' ('''α Ari''', '''α Arietis''') is the [[Bayer designation]] for the brightest star in the northern [[zodiac]]al [[constellation]] of [[Aries (constellation)|Aries]].<ref name=bsc2 /><ref name=kaler /> It has the traditional name '''Hamal''', which comes from the Arabic phrase for "head of the ram", and the [[Flamsteed designation]] of 13 Arietis. With an [[apparent visual magnitude]] of 2.0,<ref name=clpl4_99/> it among the [[List of brightest stars|brightest stars in the night sky]]. Based upon [[parallax]] measurements made with [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49/><ref name=GSM/> α Arietis is about {{Convert|65.8|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> It is a [[giant star]] that may host an orbiting planet with a mass greater than Jupiter.<ref name=aaa529_A134/>
+
+==Properties==
+The [[spectrum]] of this star matches a [[stellar classification]] of {{nowrap|K2 III Ca-1}}, with the [[luminosity class]] of III indicating that it is an [[stellar evolution|evolved]] [[giant star]] that has exhausted the supply of hydrogen at its core and is now on the [[red giant branch]].<ref name=mnras340_3_763/> The 'Ca-1' portion of the classification indicates that it shows weaker than normal [[absorption line|lines]] of [[calcium]] in its [[spectrum]]. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It is estimated to have about 50%<ref name=aaa529_A134/> more mass than the Sun, while [[Astronomical interferometer|interferometric]] measurements show it to be 15<ref name=aaa526_A100/> times larger in diameter. Despite its enlarged girth, this star is still spinning with a slightly faster equatorial [[azimuth]]al velocity than the Sun, having a [[projected rotational velocity]] of 3.44&nbsp;km s<sup>−1</sup>.<ref name=aaa529_A134/>
+
+Alpha Arietis is radiating about 91<ref name=aaa526_A100/> times the Sun's luminosity from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 4,480&nbsp;K.<ref name=aaa526_A100/> This is cooler than the surface of the Sun, giving it the orange-hued glow of a [[K-type star]]. It is suspected to be slightly [[variable star|variable]], with an amplitude of 0.06 magnitude.<ref name=nsv1 /> The abundance of elements other than hydrogen and helium, what astronomers term the star's [[metallicity]], is only around half that in the Sun.<ref name=aaa526_A100/>
+
+In 2011, the likely presence of a planet in orbit around this star was reported by Byeong-Cheol Lee et al. It was detected using the [[radial velocity method]], based upon measurements made between 2003 and 2010 at the [[Bohyunsan Optical Astronomy Observatory]] in Korea. The object has an [[orbital period]] of 381&nbsp;days and an [[orbital eccentricity|eccentricity]] of 0.25. The lower bound on this object's mass is about 1.8 times the mass of [[Jupiter]]. The estimated [[semi-major axis]] of the planet's orbit is 1.2&nbsp;[[astronomical unit]]s (AU),<ref name=aaa529_A134/> which would give it a [[periapsis]] distance of 0.9&nbsp;AU and an [[apoapsis]] distance of 1.5&nbsp;AU. By comparison, the star has a radius of 0.07&nbsp;AU.<ref name=orbit_note/>
+
+{{OrbitboxPlanet begin
+| table_ref = <ref name=EPEalfArib/>
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Alpha Arietis b|b]]
+| mass = ≥ 1.8 ± 0.2
+| period = 380.8 ± 0.3
+| semimajor = 1.2
+| eccentricity = 0.25 ± 0.03
+}}
+{{Orbitbox end}}
+
+==In culture==
+Hamal's orientation with relation to the Earth's orbit around the [[Sun]] gives it a certain importance not apparent from its modest brightness.  Between 2000 and 100 [[BCE]], the apparent path of the Sun through the Earth's sky placed it in Aries at the northern [[vernal equinox]], the point in time marking the start of [[spring (season)|spring]] in the [[Northern Hemisphere]].<ref name=ecs/> This is why most [[astrology]] columns in modern newspapers begin with Aries.<ref name=raymo1982/> While the vernal equinox has moved to [[Pisces (constellation)|Pisces]] since then due to [[precession of the equinoxes]],<ref name=ecs /> Hamal has remained in mind as a bright star near what was apparently an important place when people first studied the night sky.<ref name=kaler />
+
+The name ''Hamal'' (also written ''Hemal'', ''Hamul'', ''Ras Hammel'') derives from the Arabic {{lang|ar|راس الحمل}} ''rās al-ħamal'' "head of the ram", in turn from the name for the constellation as a whole, ''Al Ħamal'' "the ram".<ref name=allen1899/> In [[Chinese language|Chinese]], {{lang|zh|婁宿}} ({{lang|zh-Latn|Lóu Su}}), meaning ''[[Bond (Chinese constellation)|Bond]] (asterism)'', refers to an asterism consisting of α Arietis, [[Beta Arietis|β Arietis]] and [[Gamma Arietis|γ Arietis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Arietis itself is known as {{lang|zh|婁宿三}} ({{lang|zh-Latn|Lóu Su sān}}, {{lang-en|the Third Star of Bond}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> The other name of Hamal, ''Hamul'', is used for the name of [[United States]] navy ship, [[USS Hamul (AD-20)]].
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=nsv1>NSV 725, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line December 16, 2008.</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=617 HR 617], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line December 16, 2008.</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa529_A134>{{citation | display-authors=1 | last1=Lee | first1=B.-C. | last2=Mkrtichian | first2=D. E. | last3=Han | first3=I. | last4=Kim | first4=K.-M. | last5=Park | first5=M.-G. | title=A likely exoplanet orbiting the oscillating K-giant α Arietis | journal=Astronomy & Astrophysics | volume=529 | page=A134 | month=May | year=2011 | doi=10.1051/0004-6361/201016293 | bibcode=2011A&A...529A.134L |arxiv = 1104.4431 }}</ref>
+
+<ref name=allen1899>{{citation | pages=78, 80 | url=http://books.google.com/books?id=5xQuAAAAIAAJ | title=Star-names and Their Meanings | first1=Richard Hinckley | last1=Allen | publication-place=New York | publisher=G. E. Stechert | year=1899 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008	 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+<ref name=EPEalfArib>{{citation | url=http://exoplanet.eu/planet.php?p1=alf+Ari&p2=b | title=Notes for Planet alf Ari b | first1=Jean | last1=Schneider | year=2011 | work=[[Extrasolar Planets Encyclopaedia]] |accessdate=2011-10-12 }}</ref>
+
+<ref name=raymo1982>{{citation | page=196 | title=365 Starry Nights: An Introduction to Astronomy for Every Night of the Year | first1=Chet | last1=Raymo | publication-place=New York | publisher=Simon and Schuster | year=1982 | isbn=0-671-76606-6 }}</ref> 
+
+<ref name=ecs>{{citation | pages=151, 152 | title=The Ever-changing Sky: A Guide to the Celestial Sphere | first1=James B. | last1=Kaler | publication-place=Cambridge, UK | publisher=Cambridge University Press | year=2002 | isbn=0-521-49918-6 }}</ref>
+
+<ref name=mnras340_3_763>{{citation | last1=Stoesz | first1=Jeffrey A. | last1=Herwig | first1=Falk | title=Oxygen isotopic ratios in first dredge-up red giant stars and nuclear reaction rate uncertainties revisited | journal=Monthly Notice of the Royal Astronomical Society | volume=340 | issue=3 | pages=763–770 | month=April | year=2003 | doi=10.1046/j.1365-8711.2003.06332.x | bibcode=2003MNRAS.340..763S |arxiv = astro-ph/0212128 }}</ref>
+
+<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/hamal.html Hamal], ''Stars'', Jim Kaler.  Accessed on line December 16, 2008.</ref>
+
+<ref name=sb0>{{SIMBAD link|alf+ari|NAME HAMAL -- Variable Star}}, database entry, [[SIMBAD]].  Accessed on line December 16, 2008.</ref>
+
+<ref name=orbit_note>For ''a'' = 1.2&nbsp;AU and ''e'' = 0.25, the periapsis is given by {{nowrap|''a'' × (1 - ''e'')}} = 9&nbsp;AU and the apoapsis is {{nowrap|''a'' × (1 + ''e'')}} = 15&nbsp;AU. The [[solar radius]] is 0.0046491&nbsp;AU, so the star's radius is {{nowrap|14.9 × 0.0046491}} = 0.069&nbsp;AU.</ref>
+
+}}
+
+==External links==
+* {{cite web |url=http://exoplanet.eu/star.php?st=alf+Ari |title=Notes for star alf Ari |author=Jean Schneider |year=2011 |work= |publisher=[[Extrasolar Planets Encyclopaedia]] |accessdate=12 October 2011}}
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?GJ%2084.3 GJ 84.3], entry in the [[Gliese–Jahreiß catalogue]] (''Preliminary Version of the Third Catalogue of Nearby Stars'', W. Gliese and H. Jahreiss, 1991, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://cdsarc.u-strasbg.fr/viz-bin/Cat?V/70A V/70A].)
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=02+07+10.4071%2B23+27+44.723&ident=NAME+HAMAL&submit=Aladin+previewer Image of Hamal] from [[Aladin Sky Atlas|Aladin]].
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars], Purple Hell.
+
+{{Nearest bright star systems|7.}}
+{{Stars of Aries}}
+
+[[Category:Aries (constellation)]]
+[[Category:K-type giants]]
+[[Category:Bayer objects|Arietis, Alpha]]
+[[Category:Flamsteed objects|Arietis, 13]]
+[[Category:Henry Draper Catalogue objects|012929]]
+[[Category:Hipparcos objects|009884]]
+[[Category:Stars with proper names]]
+[[Category:Durchmusterung objects|BD+22 306]]
+
+[[be:Гамаль]]
+[[ca:Alpha Arietis]]
+[[cs:Alpha Arietis]]
+[[de:Hamal]]
+[[es:Hamal]]
+[[fa:آلفا بره]]
+[[fr:Alpha Arietis]]
+[[ko:하말]]
+[[hi:अल्फ़ा अरायटिस तारा]]
+[[id:Alpha Arietis]]
+[[it:Hamal]]
+[[he:המל]]
+[[la:Alpha Arietis]]
+[[lb:Hamal (Stär)]]
+[[nl:Hamal]]
+[[ja:ハマル]]
+[[pl:Alfa Arietis]]
+[[pt:Alpha Arietis]]
+[[ru:Хамаль]]
+[[sk:Hamal]]
+[[fi:Alfa Arietis]]
+[[sv:Alfa Arietis]]
+[[tt:Хәмәл (йолдыз)]]
+[[uk:Гамаль]]
+[[zh:娄宿三]]

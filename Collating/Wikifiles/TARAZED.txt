@@ -1,0 +1,140 @@
+{{Starbox begin
+| name=γ Aquilae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Aquila IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquila constellation and its surroundings]]
+     <div style="position: absolute; left: 44.9%; top: 27.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Aquilae (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|19|46|15.58029}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+10|36|47.7408}}<ref name=aaa474_2_653/>
+| appmag_v = 2.712<ref name=saaoc8_59/>
+| constell = [[Aquila (constellation)|Aquila]]
+}}
+{{Starbox character
+| class    = K3&nbsp;II<ref name=araa11_29/>
+| b-v      = +1.500<ref name=saaoc8_59/>
+| u-b      = +1.720<ref name=saaoc8_59/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = -2.79<ref name=aaa430_165/>
+| prop_mo_ra  = +16.99<ref name=aaa474_2_653/>
+| prop_mo_dec = -2.98<ref name=aaa474_2_653/>
+| parallax = 8.26
+| p_error  = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = –3.38{{+-|0.24|0.22}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail
+| mass     = {{nowrap|5.66 ± 0.66}}<ref name=an331_4_349/>
+| radius   = 95<ref name=lang2006/>
+| luminosity  = 2,538<ref name=an331_4_349/>
+| temperature = 4,210<ref name=apjss74/>
+| gravity  = 1.63<ref name=apjss74/>
+| metal_fe = –0.29<ref name=apjss74/>
+| rotational_velocity = 8<ref name=csrv/>
+| age_gyr  = 
+}}
+{{Starbox catalog
+| names = Tarazed, Reda, 50&nbsp;Aql, gam&nbsp;Aql, [[Durchmusterung|BD]]+10&nbsp;4043, [[FK5]]&nbsp;741, [[Henry Draper Catalogue|HD]]&nbsp;186791, [[Hipparcos catalogue|HIP]]&nbsp;97278, [[Bright Star Catalogue|HR]]&nbsp;7525, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;105223.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+186791
+| ARICNS = 
+}}
+{{Starbox reference
+| Simbad=IDS+19415%2B1022
+}}
+{{Starbox end}}
+
+'''Gamma Aquilae''' (γ Aql, γ Aquilae) is a [[star]] in the [[constellation]] [[Aquila (constellation)|Aquila]]. It has the traditional name '''Tarazed'''.<ref name=kaler/> This star has an [[apparent visual magnitude]] of 2.712,<ref name=saaoc8_59/> so it is readily visible to the naked eye at night. [[Parallax]] measurements place it at a distance of {{Convert|395|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+[[File:Altair-Tarazed-heic0720c.jpg|Position of Tarazed relative to [[Altair]] (center)|thumb|left|140px]]
+Gamma Aquilae is a relatively young star with an age of about 100 million years. Nevertheless, it has reached a stage of its [[stellar evolution|evolution]] where it has consumed the hydrogen at its core and expanded into what is termed a [[bright giant]] star, with a [[stellar classification]] of K3&nbsp;II.<ref name=araa11_29/> The star is now burning [[helium]] into [[carbon]] in its core. After it has finished generating energy through nuclear fusion, Gamma Aquilae will become a [[white dwarf]].<ref name=kaler/>
+
+The [[interferometry]]-measured [[angular diameter]] of Gamma Aquilae is {{nowrap|7.271 ± 0.073 [[milliarcseconds|mas]]}},<ref name=aj126_5_2502/> which, at its estimated distance, equates to a physical radius of about 95 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> With almost six times the [[solar mass|Sun's mass]], this is an enormous star that is radiating over 2,500 times the luminosity of the Sun.<ref name=an331_4_349/> An [[effective temperature]] of 4,210&nbsp;K in its outer envelope gives it the orange hue typical of K-type stars.<ref name=apjss74/><ref name=csiro/>
+
+==In culture==
+The traditional name '''Tarazed'''  may derive from [[Persian language|Persian]] شاهين ترازو ''šāhin tarāzu'' "the beam of the scale", referring to an [[asterism (astronomy)|asterism]] of the Scale, [[Alpha Aquilae|α]], [[Beta Aquilae|β]] and γ Aquillae. Persian ''šāhīn'' means "royal falcon", "beam", and "pointer", and gave its name (as "falcon") to [[Beta Aquilae]].  In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Menkib al Nesr''' ('''منكب ألنسر''' - ''mankib al-nasr''), which was translated into [[Latin]] as '''Humerus Vulturis''', meaning ''the eagle's shoulder''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|河鼓}} ({{lang|zh-Latn|Hé Gŭ}}), meaning ''[[Ox (Chinese constellation)|River Drum]]'', refers to an asterism consisting of γ Aquilae, [[Beta Aquilae|β Aquilae]] and [[Altair]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Aquilae itself is known as {{lang|zh|河鼓三}} ({{lang|zh-Latn|Hé Gŭ sān}}, {{lang-en|the Third Star of River Drum}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> In Chinese mythology, [[The Jade Emperor#The princess and the cowherd|The Princess and the Cowherd]], this star and [[Beta Aquilae|β Aql]], are children of Niulang (牛郎, The Cowherd, [[Altair]]) and Zhinü (織女, The Princess, [[Vega]]).
+
+The Koori people of Victoria knew β and γ Aquilae as the [[Black Swan]] wives of ''Bunjil'' (Altair), the [[Wedge-tailed Eagle]].<ref>{{cite book|last=Mudrooroo|title=Aboriginal mythology : an A-Z spanning the history of aboriginal mythology from the earliest legends to the present day|publisher=HarperCollins|location=London|year=1994|page=4|isbn=1-85538-306-3}}</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apjss74>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | issue=1 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=csrv>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=saaoc8_59>{{citation | last1=Cousins | first1=A. W. J. | title=Standardization of Broadband Photometry of Equatorial Standards | journal=South African Astronomical Observatory Circulars | volume=8 | page=59 | year=1984 | bibcode=1984SAAOC...8...59C }}</ref>
+
+<ref name=SIMBAD>{{citation | title=TARAZED -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Aquilae | accessdate=2012-01-09 }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=aj126_5_2502>{{citation | display-authors=1 | last1=Mozurkewich | first1=D. | last2=Armstrong | first2=J. T. | last3=Hindsley | first3=R. B. | last4=Quirrenbach | first4=A. | last5=Hummel | first5=C. A. | last6=Hutter | first6=D. J. | last7=Johnston | first7=K. J. | last8=Hajian | first8=A. R. | last9=Elias | first9=Nicholas M., II | title=Angular Diameters of Stars from the Mark III Optical Interferometer | journal=The Astronomical Journal | volume=126 | issue=5 | pages=2502–2520 | month=November | year=2003 | doi=10.1086/378596 | bibcode=2003AJ....126.2502M }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 121\cdot 7.271)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 189.2\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=TARAZED (Gamma Aquilae) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/tarazed.html | accessdate=2012-01-10 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+
+==External links==
+* [http://www.constellationsofwords.com/stars/Tarazed.html Tarazed]
+* [http://www.scenta.co.uk/tcaep/nonxml/astronomy/constellations/19460060.htm Tarazed]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=HR&HR=7525 HR 7525]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=NAME+TARAZED&ident=NAME+TARAZED&submit=Aladin+previewer Image Gamma Aquilae]
+
+{{Stars of Aquila}}
+
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Spectroscopic binaries]]
+[[Category:Bayer objects|Aquilae, Gamma]]
+[[Category:Aquila (constellation)]]
+[[Category:K-type bright giants]]
+[[Category:Stars with proper names]]
+
+[[ca:Gamma Aquilae]]
+[[de:Tarazed]]
+[[es:Tarazed]]
+[[fa:شاهین ترازو (ستاره)]]
+[[fr:Gamma Aquilae]]
+[[ko:독수리자리 감마]]
+[[id:Gamma Aquilae]]
+[[it:Tarazed]]
+[[lb:Tarazed (Stär)]]
+[[nl:Tarazed]]
+[[pl:Tarazed]]
+[[pt:Gamma Aquilae]]
+[[ru:Таразед]]
+[[sk:Tarazet]]
+[[sv:Gamma Aquilae]]
+[[zh:河鼓三]]

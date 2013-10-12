@@ -1,0 +1,55 @@
+{{Starbox short |
+ name=ν Scorpii |
+ epoch=[[J2000.0]] |
+ constell=[[Scorpius]] |
+ ra=16<sup>h</sup> 11<sup>m</sup> 59.7<sup>s</sup> |
+ dec=&minus;19° 27' 39" |
+ spectral='''AB''': B2IV + B2IV<BR>'''CD''': B8V + B9VpSi |
+ appmag_v=''combined'': +4.00<BR>'''AB''': 4.4 + 6.9<BR>'''CD''': 6.5 + 7.9 |
+ dist_ly=437 ± 65 |
+ dist_pc=134 ± 20 |
+ names= [[List of Arabic star names|Jabbah]], [[Flamsteed designation|14&nbsp;Scorpii, 14&nbsp;Sco]], [[Star catalogue#BS, BSC, HR|HR]]&nbsp;6026 + HR&nbsp;6027, [[Henry Draper Catalogue|HD]]&nbsp;145501 + HD&nbsp;145502, [[Star catalogue#SAO|SAO]]&nbsp;159763 + SAO 159764, [[Hipparcos|HIP]]&nbsp;79374, [[Star catalogue#ADS|ADS]]&nbsp;9951, {{nowrap|CCDM&nbsp;16120-1928}}, [[Bayer designation|ν&nbsp;Sco, ν&nbsp;Scorpii, nu&nbsp;Sco, Nu&nbsp;Scorpii]]
+}}
+
+'''Nu Scorpii''' (ν Sco, 14 Scorpii) is a [[star system]] in the [[constellation]] [[Scorpius]].
+
+It is at least a quintuple star, probably a septuple,<ref>[http://www.ctio.noao.edu/~atokovin/stars/index.php?cat=HD&number=145501 Nu Scorpii], entry in the [http://www.ctio.noao.edu/~atokovin/stars/ Multiple Star Catalog]</ref> consisting of two close groups that are separated by 41 arcseconds. The brighter group, '''Nu Scorpii A''' and '''B''', is split by 1.3[[arcsecond|"]] and composed of [[stellar classification|spectral type]] B2 subgiants. The fainter pair, '''Nu Scorpii C''' and '''D''', are spectral type B8 and B9 [[main sequence]] dwarfs split by 2.4". Nu Scorpii A is itself a semi-detached [[spectroscopic binary]], having a fainter B-type companion separated by approximately 0.3 [[arcsecond|mas]].
+
+Since it is near the [[ecliptic]], Nu Scorpii can be [[occultation|occulted]] by the [[Moon]] and, very rarely, by [[planet]]s. [[Mercury (planet)|Mercury]] occulted it on 14 December 1821, but will not occult it again until 2 December 2031. The last occultation by [[Venus]] took place on 27 December 1852 and the next will take place on 30 December 2095. On 29 July 1808 there was an occultation by [[Neptune]].
+
+Nu Scorpii is the star which causes the [[reflection nebula]] cataloged as [[IC 4592]].  Reflection nebulae are actually made up of very fine dust that normally appears dark but can look quite blue when reflecting the light of energetic nearby stars.
+
+In [[Chinese astronomy]], Nu Scorpii is called 鍵閉, [[Pinyin]]: Jiànbì, meaning ''Door Bolt'', because this star is marking itself and stand alone in ''Door Bolt'' asterism, [[Room (Chinese constellation)|Room]] mansion (see : [[Chinese constellation]]).<ref>{{zh icon}}   [http://aeea.nmns.edu.tw/2006/0605/ap060508.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 8 日]</ref> 鍵閉 (Jiànbì), westernized into '''Keen Pi''', but the name ''Keen Pi'' was designated for the formation of [[Lambda Scorpii|λ Sco]] (Shaula) and [[Lambda Scorpii|υ Sco]] (Lesath) by R.H. Allen and the meaning is "the Two Parts of a Lock." <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Scorpio*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Scorpio]</ref>
+
+==See also==
+* [[AR Cassiopeiae]] (IH Cas), another multiple star considered to have a multiplicity of 7
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://antwrp.gsfc.nasa.gov/apod/ap060808.html Image of Nu Scorpii] from [[Astronomy Picture of the Day|APOD]]
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Nu]]
+[[Category:B-type main sequence stars]]
+[[Category:B-type subgiants]]
+[[Category:Multiple star systems|5]]
+[[Category:Scorpius (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+
+{{Subgiant-star-stub}}
+{{binary-star-stub}}
+
+[[de:Jabbah]]
+[[es:Nu Scorpii]]
+[[fa:نو کژدم]]
+[[fr:Nu Scorpii]]
+[[it:Jabbah]]
+[[nl:Jabbah]]
+[[pt:Nu Scorpii]]
+[[sk:Jabbah]]
+[[zh:鍵閉]]

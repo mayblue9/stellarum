@@ -1,0 +1,43 @@
+{{unreferenced|date=December 2009}}
+{{Starbox short |
+| name=ε Ursae Minoris
+{{Starbox image
+| image=<div style="position: relative">[[File:Ursa Minor IAU.svg|250px]]
+   <div style="position: absolute; left:40%; top:34.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+| caption=Location of ε Ursae Minoris.
+}}
+| epoch=[[J2000.0]]
+| constell=[[Ursa Minor]]
+| ra=16<sup>h</sup> 45<sup>m</sup> 58.1<sup>s</sup>
+| dec=+82° 02' 14"
+| spectral=G5III
+| appmag_v=+4.21
+| dist_ly=347 ± 25
+| dist_pc=106 ± 8
+| names=22&nbsp;Ursae Minoris, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;6322, [[Henry Draper Catalogue|HD]]&nbsp;153751, [[Star catalogue#BD.2FCD.2FCPD|BD]]+82&nbsp;498, FK5&nbsp;912, [[Hipparcos catalogue|HIP]]&nbsp;82080, [[Star catalogue#SAO|SAO]]&nbsp;2770, GC&nbsp;22749, [[Star catalogue#ADS|ADS]]&nbsp;10242, CCDM&nbsp;16460+8203
+}}
+'''Epsilon Ursae Minoris''' (ε UMi, ε Ursae Minoris) is a [[triple star system]] in the [[constellation]] [[Ursa Minor]].  It is approximately 347 [[light years]] from [[Earth]].
+
+The primary component, '''Epsilon Ursae Minoris A''', is an [[eclipsing binary|eclipsing]] [[spectroscopic binary]].  It is classified as a yellow [[stellar classification|G-type]] [[giant star|giant]] with a mean [[apparent magnitude]] of +4.21.  In addition to light changes due to eclipses, the system is also classified as an [[RS Canum Venaticorum variable|RS Canum Venaticorum type]] [[variable star]] and its brightness varies from magnitude +4.19 to +4.23 with a period of 39.48 days, which is also the orbital period of the binary.  The binary is orbited by a third component, '''Epsilon Ursae Minoris B''', which is an 11th magnitude star, 77 [[arcsecond]]s away in the sky.
+
+
+{{Stars of Ursa Minor}}
+
+[[Category:Bayer objects|Ursae Minoris, Epsilon]]
+[[Category:Ursa Minor (constellation)]]
+[[Category:Eclipsing binaries]]
+[[Category:Spectroscopic binaries]]
+[[Category:RS Canum Venaticorum variables]]
+[[Category:G-type giants]]
+[[Category:Triple star systems]]
+
+{{Star-system-stub}}
+
+[[es:Épsilon Ursae Minoris]]
+[[fa:اپسیلون خرس کوچک]]
+[[it:Urodelus]]
+[[nl:Epsilon Ursae Minoris]]
+[[pt:Epsilon Ursae Minoris]]
+[[sv:Epsilon Ursae Minoris]]
+[[zh:勾陳三]]

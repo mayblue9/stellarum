@@ -1,0 +1,108 @@
+{{Starbox begin
+| name=Beta Boötis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Boötes IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Boötes constellation and its surroundings]]
+     <div style="position: absolute; left: 36.4%; top: 29.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption = A [[star chart]] showing the position of β Boötis (circled)
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|15|01|56.76238}}<ref name=aaa474_2_653/>
+| dec={{DEC|+40|23|26.0406}}<ref name=aaa474_2_653/>
+| appmag_v=3.488<ref name=apjss52_7/>
+| constell=[[Boötes (constellation)|Boötes]]
+}}
+{{Starbox character
+| class=G8IIIa<ref name=SIMBAD/>
+| r-i = 
+| v-r =
+| b-v = +0.94<ref name=apjss52_7/>
+| u-b = +0.75<ref name=apjss52_7/>
+| variable=[[Flare star]]<ref name=mnras365_3_1050/>
+}}
+{{Starbox astrometry
+| radial_v=–18.35<ref name=aj135_1_209/>
+| prop_mo_ra=–40.15<ref name=aaa474_2_653/>
+| prop_mo_dec=–28.86<ref name=aaa474_2_653/>
+| parallax=14.48
+| p_error=0.14
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v=–0.70<ref name=pasj60_4_781/>
+}}
+{{Starbox detail
+| mass={{nowrap|3.4 ± 0.2}}<ref name=mnras365_3_1050/>
+| radius={{nowrap|21.5 ± 1.0}}<ref name=mnras365_3_1050/>
+| luminosity=170<ref name=aj135_1_209/>–194<ref name=pasj60_4_781/>
+| temperature=4,932<ref name=aj135_1_209/>
+| metal_fe=–0.13<ref name=aj135_1_209/>
+| gravity={{nowrap|2.40 ± 0.20}}<ref name=mnras365_3_1050/>
+| rotational_velocity={{nowrap|4.10 ± 1.0}}<ref name=mnras365_3_1050/>
+| rotation={{nowrap|200 ± 10 days}}<ref name=mnras365_3_1050/>
+| age_myr=240<ref name=mnras365_3_1050/>–251<ref name=pasj60_4_781/>
+}}
+{{Starbox catalog
+| names=Nakkar, Nekkar, Merez, Meres, Merets, 42&nbsp;Boötis, [[Bonner Durchmusterung|BD]]+40°2840, [[Fifth Fundamental Catalogue|FK5]]&nbsp;555, [[Henry Draper Catalogue|HD]]&nbsp;133208, [[Hipparcos catalogue|HIP]]&nbsp;73555, [[Harvard Revised catalogue|HR]]&nbsp;5602, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;45337.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Beta Boötis''' (β Boo, β Boötis) is the [[Bayer designation]] for a [[star]] in the northern [[constellation]] of [[Boötes]]. It has an [[apparent visual magnitude]] of 3.5,<ref name=apjss52_7/> making it one of the brighter members of the constellation. The traditional name '''Nakkar''' or '''Nekkar''' for this star is based upon the [[Arabic language|Arabic]] name for the constellation.<ref name=allen1899/> This is a mis-transliteration of the [[Arabic language|Arabic]] بقّار ''baqqār'' "cattle driver", the Arabic letters ''b'' and ''n'' differing only in the placement of the dot.{{citation needed|date=November 2011}} In the modern constellation, it marks the head of Boötis the herdsman.<ref name=allen1899/> Based upon [[parallax]] measurements, this star is approximately {{Convert|225|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> At that distance, the magnitude of the star is reduced by 0.06 from [[Extinction (astronomy)|extinction]] caused by intervening gas and dust.<ref name=pasj60_4_781/>
+
+Nakkar has more than three times the [[Solar mass|mass of the Sun]] and greater than 21 times the [[Solar radius|Sun's radius]]. (König et al. (2006) give it 3.4 solar masses,<ref name=mnras365_3_1050/> while Tetzlaff et al. (2011) list a higher estimated mass of {{nowrap|5.0 ± 1.5}}<ref name=mnras410_1_190/> solar masses and Takeda et al. (2008) show it as 3.24<ref name=pasj60_4_781/> solar masses.) At the estimated age of {{nowrap|240–251 million years}}, it has [[stellar evolution|evolved]] into a [[giant star]] with a [[stellar classification]] of G8&nbsp;IIIa.<ref name=SIMBAD/> The star is radiating around 170<ref name=aj135_1_209/>–194<ref name=pasj60_4_781/> times as much luminosity as the Sun from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 4,932&nbsp;K.<ref name=aj135_1_209/> This heat gives it the yellow-hued glow of a [[G-type star]]. It has an estimated rotation period of about 200 days and the pole is inclined {{nowrap|28° ± 6°}} to the line of sight from the Earth.<ref name=mnras365_3_1050/>
+
+In 1993, the [[ROSAT]] satellite was used to observe an X-ray flare on Beta Boötis, which released an estimated {{nowrap|1.7 × 10<sup>32</sup> [[erg]]}}. This was the first such observation for a low-activity star of this type. The flare may be explained by an as yet unobserved [[Red dwarf|M-type dwarf]] companion star.<ref name=aaa296_509/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=SIMBAD>{{citation | title=bet Boo -- Flare Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=beta+bootis | accessdate=2011-11-28 }}</ref>
+
+<ref name=apjss52_7>{{citation | last1=Fernie | first1=J. D. | title=New UBVRI photometry for 900 supergiants | journal=Astrophysical Journal Supplement Series | volume=52 | pages=7–22 | month=May | year=1983 | doi=10.1086/190856 | bibcode=1983ApJS...52....7F }}</ref>
+
+<ref name=aaa296_509>{{citation | last1=Huensch | first1=M. | last2=Reimers | first2=D. | title=Detection of an X-ray flare on the low-activity G 8 III-type giant β Boo | journal=Astronomy and Astrophysics | volume=296 | pages=509–513 | month=April | year=1995 | bibcode=1995A&A...296..509H }}</ref>
+
+<ref name=mnras365_3_1050>{{citation | display-authors=1 | last1=König | first1=B. | last2=Guenther | first2=E. W. | last3=Esposito | first3=M. | last4=Hatzes | first4=A. | title=Spectral synthesis analysis and radial velocity study of the northern F-, G- and K-type flare stars | journal=Monthly Notices of the Royal Astronomical Society | volume=365 | issue=3 | pages=1050–1056 | month=January | year=2006 | doi=10.1111/j.1365-2966.2005.09796.x | bibcode=2006MNRAS.365.1050K |arxiv = astro-ph/0511232 }}</ref>
+
+<ref name=allen1899>{{citation | first=Richard Hinckley | last=Allen | author-link=Richard Hinckley Allen | year=1899 | page=103 | title=Star-names and their meanings | publisher=G. E. Stechert | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=RA103 | accessdate=2011-11-28 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=pasj60_4_781>{{citation | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar parameters and elemental abundances of late-G giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T |arxiv = 0805.2434 }}</ref>
+
+}}
+
+==External links==
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=15+01+56.7623%2B40+23+26.036&ident=NSV++6898&submit=Aladin+previewer Image Beta Boötis]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+* [http://stars.astro.illinois.edu/sow/nekkar.html Nekkar at University of Illinois]
+
+{{Stars of Boötes}}
+
+[[Category:Flamsteed objects|Bootis, 42]]
+[[Category:Flare stars]]
+[[Category:Henry Draper Catalogue objects|133208]]
+[[Category:Hipparcos objects|073555]]
+[[Category:Bayer objects|Bootis, Beta]]
+[[Category:Boötes (constellation)]]
+[[Category:G-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:البقار (نجم)]]
+[[de:Nekkar]]
+[[es:Nekkar]]
+[[fa:بتا گاوران]]
+[[fr:Beta Bootis]]
+[[id:Beta Boötis]]
+[[it:Nekkar]]
+[[lb:Nekkar (Stär)]]
+[[nl:Nekkar]]
+[[pt:Beta Boötis]]
+[[ru:Бета Волопаса]]
+[[sk:Nekkar]]
+[[zh:七公增五]]

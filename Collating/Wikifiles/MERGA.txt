@@ -1,0 +1,45 @@
+{{Starbox short |
+| name=38 Boötis
+| epoch=[[J2000.0]]
+| constell=[[Boötes]]
+| ra=14<sup>h</sup> 49<sup>m</sup> 18.7<sup>s</sup>
+| dec=+46° 06' 58"
+| spectral=F7IV w
+| appmag_v=+5.76
+| dist_ly=153 ± 4
+| dist_pc=47 ± 1
+| names=Merga, Marrha, El Mara el Musalsela, Falx Italica, h&nbsp;Boötis, [[Harvard Revised catalogue|HR]]&nbsp;5533, [[Henry Draper Catalogue|HD]]&nbsp;130945, [[Bonner Durchmusterung|BD]]+46°1993, [[Hipparcos catalogue|HIP]]&nbsp;72487, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;45226, GC&nbsp;19959
+| Simbad=HD+130945
+}}
+'''38 Boötis''' or '''h Boötis''' (38 Boo) is a [[star]] in the [[constellation]] [[Boötes]].  It has the traditional name '''Merga''', occasionally spelled ''Marrha'' or in full ''El Mara el Musalsela,'' from the Arabic المرأة المسلسلة ''al-mar’ah al-musalsalah'' "the chained woman". Another occasional name is ''Falx Italica,'' from the Latin ''falx ītalica'' "[[billhook]]". 
+
+38 Boötis has an [[apparent magnitude]] of 5.74 and belongs to the [[stellar classification|spectral class]] F7IVw. It is approximately 153 [[light year]]s from [[Earth]].
+
+{{-}}
+
+==References==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205533 HR 5533]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=14+49+18.6693%2B46+06+58.340&ident=*+h+Boo&submit=Aladin+previewer Image 38 Boötis]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+
+{{star-stub}}
+{{subgiant-star-stub}}
+{{Stars of Boötes}}
+
+[[Category:Henry Draper Catalogue objects|130945]]
+[[Category:Hipparcos objects|072487]]
+[[Category:Boötes (constellation)]]
+[[Category:Flamsteed objects|Bootis, 38]]
+[[Category:F-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[de:38 Bootis]]
+[[es:Merga (estrella)]]
+[[fa:۳۸ گاوران]]
+[[id:38 Boötis]]
+[[it:38 Boötis]]
+[[lb:Merga (Stär)]]
+[[nl:Merga]]
+[[pt:38 Boötis]]
+[[sk:Merga]]
+[[zh:玄戈增二]]

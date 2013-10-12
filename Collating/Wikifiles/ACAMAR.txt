@@ -1,0 +1,155 @@
+{{Starbox begin
+ | name     = Acamar, θ Eri
+}}
+{{Starbox image
+ | image    = [[File:Eridanus constellation map.png|250px]] 
+ | caption  = Acamar is the θ star in the lower right of the map
+}}
+{{Starbox observe 
+ | epoch    = J2000 
+ | ra       = {{RA|02|58|15.67525}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | dec      = {{DEC|-40|18|16.8524}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | appmag_v = 3.2<ref name="SIMBAD" />
+ | constell = [[Eridanus (constellation)|Eridanus]]
+}}
+{{Starbox character 
+ | class    = A3IV-V<ref name="SIMBAD" />  
+ | b-v      = 0.14<ref name=VizieR/>
+ | u-b      = 0.14<ref name="VizieR" />  
+ | variable = suspected
+}}
+{{Starbox astrometry 
+ | radial_v = 11.9 <ref name="SIMBAD" />  
+ | prop_mo_ra  = -52.89<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | prop_mo_dec = +21.98<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | parallax = 20.23
+ | p_error  = 0.55
+ | parallax_footnote = <ref name=aaa323_L49/><ref name=aaa474_2_653/>
+ | absmag_v = 0.44
+}}
+{{Starbox detail
+ | component1 = θ<sup>1</sup>&nbsp;Eri
+ | mass     = 2.6<ref name="kaler"/>
+ | radius   = 16.0<ref name=aaa421_241/>
+ | luminosity  = 96<ref name="kaler" /> 
+ | temperature = 8,200<ref name="kaler" /> 
+ | rotational_velocity = 70<ref name="SIMBAD" />
+ | rotation = 569&nbsp;days<ref name=aaa421_241/>
+ | component2 = θ<sup>2</sup>&nbsp;Eri
+ | mass2    = 2.4<ref name="kaler"/>
+ | luminosity2 = 36<ref name="kaler" />
+ | temperature2 = 9,200<ref name="kaler" /> 
+ | rotational_velocity2 = 90<ref name="SIMBAD" />
+}}
+{{Starbox catalog
+| names='''θ<sup>1</sup>&nbsp;Eri''', [[Henry Draper catalogue|HD]]&nbsp;18622, [[Hipparcos catalogue|HIP]]&nbsp;13847, [[Harvard Revised catalogue|HR]]&nbsp;897, [[Catalogue of Components of Double and Multiple Stars|CCDM]]&nbsp;J02583-4018A, [[Catalogues of Fundamental Stars|FK5]]&nbsp;106, NSV&nbsp;01002, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;216113, [[Washington Double Star Catalog|WDS]]&nbsp;02583-4018A  
+----
+'''θ<sup>2</sup>&nbsp;Eri''', [[Henry Draper catalogue|HD]]&nbsp;18623, [[Hipparcos catalogue|HIP]]&nbsp;13847, [[Harvard Revised catalogue|HR]]&nbsp;898, [[Catalogue of Components of Double and Multiple Stars|CCDM]]&nbsp;J02583-4018B, NSV&nbsp;01002, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;216114, [[Washington Double Star Catalog|WDS]]&nbsp;02583-4018B
+}}
+{{Starbox reference
+| Simbad=HD+18622
+}}
+{{Starbox end}}
+
+'''Theta Eridani''' (θ Eri, θ Eridani) is a [[star]] in the [[constellation]] [[Eridanus (constellation)|Eridanus]].  It has the traditional name '''Acamar''' from the [[Arabic language|Arabic]] '''آخِر النَّهْر'''{{cite}} ''Ākhir an-nahr'' which means "the end of the river". Historically, Acamar represented the end of the constellation Eridanus.<ref name="kaler" /><ref name="baa108">{{cite journal | author=Rogers, J. H. | title=Origins of the ancient constellations: II. The Mediterranean traditions | journal=Journal of the British Astronomical Association, | year=1998 | volume=108| issue = 2,  | pages=p.79–89 | bibcode=1998JBAA..108...79R}}</ref>  Now that distinction is held by the star [[Achernar]], a star which shares the same Arabic [[etymology]].  Achernar is not visible from the Greek isles ([[latitude]]s > 33° North),<ref name="earthsky">{{cite web  |title=Achernar: End of the River  |publisher=[[Earth & Sky|EarthSky]] Tonight Post 06-29-2009  |author=Larry Sessions |url=http://www.earthsky.org/tonightpost/brightest-stars/bright-achernar-ends-the-southern-river  |accessdate=2010-02-26}}</ref> hence the choice of Acamar as the river's end during the time of [[Hipparchus]] and later [[Ptolemy]].  
+
+The term ''Ākhir an-nahr'' or '''Achr al Nahr''' was appeared in the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', which was translated into [[Latin]] as '''Postrema Fluminis'''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天園}} ({{lang|zh-Latn|Tiān Yuán}}), meaning ''[[Net (Chinese constellation)|Celestial Orchard]]'', refers to an asterism consisting of θ Eridani, [[Chi Eridani|χ Eridani]], [[Phi Eridani|φ Eridani]], [[Kappa Eridani|κ Eridani]], [[HD 16754]], [[HD 23319]], [[HD 24072]], [[HD 24160]], [[Upsilon4 Eridani|υ<sup>4</sup> Eridani]], [[43 Eridani]], [[Upsilon2 Eridani|υ<sup>2</sup> Eridani]] and [[Upsilon1 Eridani|υ<sup>1</sup> Eridani]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Eridani itself is known as {{lang|zh|天園六}} ({{lang|zh-Latn|Tiān Yuán liù}}, {{lang-en|the Sixth Star of Celestial Orchard}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_a_al.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Acamar is a [[double star]] with some evidence suggesting it is part of a multiple [[star system]].<ref name=nsv1>NSV 01002, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line February 26, 2010.</ref><ref>{{cite web |url=http://www.alcyone.de/SIT/mainstars/SIT000436.htm#Cat6  | title=Acamar | publisher=Alcyone Bright Star Catalogue | accessdate=2010-02-26 }}</ref> The main star, θ<sup>1</sup> Eri, is of the [[stellar classification|spectral class]] A4 and has a +3.2 [[apparent magnitude]]. Its companion star, θ<sup>2</sup> Eri, is of the spectral class A1 and has an apparent magnitude of +4.3. The [[Angular distance|angular separation]] of the two stars is equal to 8.3 [[Minute of arc#Symbols, abbreviations and subdivisions|arcseconds]].<ref name="kaler" /> Acamar's distance from Earth as measured by the [[Hipparcos]] astrometry satellite is approximately 120 [[light-year]]s.<ref name=aaa323_L49/><ref name=aaa474_2_653/><ref name=GSM/>
+
+[[Ptolemy]] described Acamar as a first-magnitude star,<ref name="ALLEN">{{Cite web
+  | title=Star Names: Their Lore and Meaning 
+  | work=Dover Publications 
+  | author=[[Richard Hinckley Allen]] 
+  | pages=215–220
+  | year=1963 
+  |accessdate=2010-06-11  
+ |url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Eridanus*.html
+  | quote=It is the solitary star visible from the latitude of New York City in early winter evenings, low down in the south, on the meridian with Menkar of the Whale; but Baily said that its brilliancy has probably lessened since Ptolemy's time, for the latter designated it by α — i.e. of the 1st magnitude.}}</ref> a fact which is all the more enigmatic since the brighter star [[Achernar]] can be found just above the horizon in [[Alexandria]] where Ptolemy lived and would have been easily visible to merchants trading farther up the Nile.<ref name="baa108"/><ref>{{cite book  |author= Arnold, H. J. P.; Doherty, P.; Moore, P.;  |year = 1997  |title = The Photographic Atlas of the Stars  |publisher = [[Kalmbach Publishing|Kalmbach Publishing Company]]  |location = [[Waukesha, Wisconsin|Waukesha]], [[Wisconsin|WI]] 53187-1612, USA |isbn = 978-0-7503-0378-1 |page = 48}}</ref> [[Al Sufi]] in the 10th century listed it as one of the thirteen brightest stars in the sky, and [[Ulugh Beg]] from [[Persia]] in the 15th century also listed it as a first-magnitude star.
+<!--
+
+Section: Age of Acamar and stage of its life: -More research needed
+
+Section: How Acamar/Theta Eridani will end its life: -More research needed
+
+Section: How Acamar/Theta Eridani generates its energy -More research needed
+-->
+
+==See also==
+* [[List of stars in Eridanus]]
+* [[Ptolemy|Ptolemy's ]][[Almagest]] and his arguments in favor of a [[Flat Earth#Classical world: Greece and Rome|spherical Earth]]
+* [[Stellar classification#Class A|Class A Stars]]
+* [[Stars and planetary systems in fiction#Acamar (Theta Eridani)|Acamar in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa421_241>{{citation | display-authors=1 | last1=Setiawan | first1=J. | last2=Pasquini | first2=L. | last3=da Silva | first3=L. | last4=Hatzes | first4=A. P. | last5=von der Lühe | first5=O. | last6=Girardi | first6=L. | last7=de Medeiros | first7=J. R. | last8=Guenther | first8=E. | title=Precise radial velocity measurements of G and K giants. Multiple systems and variability trend along the Red Giant Branch	 | journal=Astronomy and Astrophysics | volume=421 | pages=241–254 | month=July | year=2004 | doi=10.1051/0004-6361:20041042-1 | bibcode=2004A&A...421..241S }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name="SIMBAD">{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HR897
+ | title=ACAMAR -- Star in double system | work=SIMBAD
+ | publisher=Centre de Données astronomiques de Strasbourg
+ | accessdate=2010-02-24 }}</ref>
+
+<ref name=VizieR>{{cite web 
+ | title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991)
+ | work=[[VizieR]]
+ | publisher=[[Centre de Données astronomiques de Strasbourg]]
+ | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%20897
+ | accessdate=2010-02-24 }}</ref>
+
+<ref name="kaler">{{cite web
+ | title=ACAMAR (Theta Eridani)
+ | publisher=University of Illinois | work=Stars
+ | first1=James B. | last1=Kaler
+ | url=http://stars.astro.illinois.edu/sow/acamar.html
+ | accessdate=2010-02-24 }}</ref>
+
+}}
+
+==External links==
+Jim Kaler's Stars: [http://stars.astro.illinois.edu/sow/acamar.html Acamar]
+
+{{Stars of Eridanus}}
+
+{{Sky|02|58|15.70|−|40|18|17.0}}
+
+[[Category:Bayer objects|Eridani, Theta]]
+[[Category:Eridanus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:آخر النهر (نجم)]]
+[[bg:Акамар]]
+[[cs:Acamar]]
+[[de:Acamar]]
+[[el:Ακαμάρ]]
+[[es:Theta Eridani]]
+[[fa:ظلیم]]
+[[fr:Theta Eridani]]
+[[ko:아카마]]
+[[id:Theta Eridani]]
+[[it:Acamar]]
+[[lb:Acamar (Stär)]]
+[[lt:Akamaras]]
+[[nl:Acamar]]
+[[ja:アカマル (恒星)]]
+[[pt:Theta2 Eridani]]
+[[ro:Theta Eridani]]
+[[ru:Акамар]]
+[[sk:Acamar]]
+[[zh:天园六]]

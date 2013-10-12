@@ -1,0 +1,113 @@
+{{Starbox begin
+| name=Eta Boötis }}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Boötes IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Boötes constellation and its surroundings]]
+     <div style="position: absolute; left: 158px; top: 190px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of &eta; Boötis
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|13|54|41.07892}}<ref name=aaa474_2_653/>
+| dec={{DEC|+18|23|51.7946}}<ref name=aaa474_2_653/>
+| appmag_v=2.680<ref name=cgssn09/>
+| constell=[[Boötes]] }}
+{{Starbox character
+| class=G0&nbsp;IV<ref name=aaa436_1_253/>
+| r-i=0.2
+| v-r= 
+| b-v=+0.585<ref name=aaass65_2_405/>
+| u-b=+0.207<ref name=aaass65_2_405/>
+| variable= }}
+{{Starbox astrometry
+| radial_v=-1.6<ref name=cgssn09/>
+| prop_mo_ra=-60.95<ref name=aaa474_2_653/>
+| prop_mo_dec=-356.29<ref name=aaa474_2_653/>
+| parallax=87.75
+| p_error=1.24
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v=2.41<ref name=cgssn09/> }}
+{{Starbox detail
+| mass={{nowrap|1.71 ± 0.05}}<ref name=apj657_2_1058/>
+| radius={{nowrap|2.672 ± 0.028}}<ref name=apj657_2_1058/>
+| luminosity={{nowrap|8.89 ± 0.16}}<ref name=apj657_2_1058/>
+| gravity={{nowrap|3.817 ± 0.015}}<ref name=apj657_2_1058/>
+| temperature={{nowrap|6,100 ± 28}}<ref name=apj657_2_1058/>
+| metal_fe=0.27<ref name=cgssn09/>
+| age_gyr=2.7<ref name=aaa436_1_253/>
+| rotational_velocity=11.8<ref name=aaa493_3_1099/> }}<!--
+-->{{Starbox catalog
+| names=Muphrid, Mufride, Muphride, Mufrid, Saak, 8 Boötis, [[Henry L. Giclas catalogue|Gl]] 534, [[Harvard Revised catalogue|HR]] 5235, [[Bonner Durchmusterung|BD]] +19°2725, [[Henry Draper catalogue|HD]] 121370, [[Luyten Two-Tenths catalogue|LTT]] 14060, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 3175.00, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 100766, FK5 513, [[Hipparcos catalogue|HIP]] 67927. }}
+{{starbox sources|HIP|CCDM|HR}}
+{{Starbox end}}
+
+'''Eta Boötis''' (η Boo, η Boötis) is a star in the [[constellation]] [[Boötes]]. It has the traditional names '''Muphrid''' and '''Saak''',<ref name=pasp48_283_139/> and the [[Flamsteed designation]] 8 Boötis. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/>
+
+The name Muphrid is from the Arabic مفرد الرامح ''mufrid ar-rāmiħ'' "the (single) one of the lancer".<ref name=cannon1994/> In [[Chinese language|Chinese]], {{lang|zh|右攝提}} ({{lang|zh-Latn|Yòu Niè Dī}}), meaning "the [[Neck (Chinese constellation)|Right Conductor]]", refers to an [[asterism]] consisting of Eta Boötis, [[Tau Boötis]] and [[Upsilon Boötis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, Eta Boötis itself is known as {{lang|zh|右攝提一}} ({{lang|zh-Latn|Yòu Niè Dī yī}}, {{lang-en|the First Star of the Right Conductor}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''Ramih al Ramih''' ('''رمح الرامح''' - ''rumḥ al rāmiḥ''), which was translated into [[Latin]] as '''Lancea Lanceator''', possibly meaning ''the lance of the lancer''.<ref name=mnras55_429/>
+
+This star is a [[subgiant]] that has begun the process of evolving from a [[main sequence]] star into a [[red giant]]. It has about 1.7 times the [[solar mass|mass of the Sun]] and 2.7 times the [[solar radius|Sun's radius]]. The estimated age of this star is about 2.7 billion years.<ref name=aaa436_1_253/> Based on its spectra, Eta Boötis has a significant excess of elements heavier than [[helium]].<ref name=cgssn09/> In fact the ratio of [[iron]] to hydrogen is considered close to the upper limit for [[dwarf star]]s in the [[galactic disk]].{{citation needed|date=December 2011}} The star is a suspected [[spectroscopic binary]] with a reported period of 494 days, but the companion was not confirmed through [[speckle interferometry]]. This measurement does not rule out a low mass stellar companion of spectral class M7.<ref name=apj657_2_1058/>
+
+Eta Boötis appears close to the prominent star [[Arcturus]] (Alpha Bootis) in Earth's sky, and Arcturus is in fact its closest stellar neighbor, as both stars are nearly identical in distance from the Sun. The two stars are about 3.24 light years apart [http://www.stellar-database.com/Scripts/find_neighbors.exe?ID=96000&ly=15], and each would appear bright in the other's sky. Arcturus would appear as roughly magnitude -5.2 (about 120 times brighter than it appears from Earth, or close to twice the brightness of Venus) in the night sky of a hypothetical planet orbiting Eta Boötis, while Eta Boötis would appear at about magnitude -2.5 in the sky of a hypothetical planet orbiting Arcturus, or over twice the brightness of Sirius in our night sky.{{Citation needed|date=May 2011}}
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=cgssn09>{{citation | last1=Holmberg | first1=J. | last2=Nordström | first2=B. | last3=Andersen | first3=J. | title=The Geneva-Copenhagen survey of the solar neighbourhood. III. Improved distances, ages, and kinematics | volume=501 | issue=3 | year=2009 | month=July | pages=941–947 | doi=10.1051/0004-6361/200811191 | journal=Astronomy and Astrophysics | bibcode=2009A&A...501..941H|arxiv = 0811.3982 }}</ref>
+
+<ref name=aaa493_3_1099>{{citation | last1=Schröder | first1=C. | last2=Reiners | first2=A. | last3=Schmitt | first2=J. H. M. M. | title=Ca II HK emission in rapidly rotating stars. Evidence for an onset of the solar-type dynamo | journal=Astronomy and Astrophysics | volume=493 | issue=3 | pages=1099–1107 | month=January | year=2009 | doi=10.1051/0004-6361:200810377 | bibcode=2009A&A...493.1099S }}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–4 }}</ref>
+
+<ref name=apj657_2_1058>{{citation | last1=van Belle | first1=Gerard T. | last2=Ciardi | first2=David R. | last3=Boden | first3=Andrew F. | title=Measurement of the Surface Gravity of η Bootis | journal=The Astrophysical Journal | volume=657 | issue= 2 | pages=1058–1063 | month=March | year=2007 | doi=10.1086/510830 | bibcode=2007ApJ...657.1058V |arxiv = astro-ph/0701120 }}</ref>
+
+<ref name=aaa436_1_253>{{citation | display-authors=1 | last1=Thévenin | first1=F. | last2=Kervella | first2=P. | last3=Pichon | first3=B. | last4=Morel | first4=P. | last5=di Folco | first5=E. | last6=Lebreton | first6=Y. | title=VLTI/VINCI diameter constraints on the evolutionary status of δ Eri, ξ Hya, η Boo | journal=Astronomy and Astrophysics | volume=436 | issue=1 | pages=253–262 | month=June | year=2005 | doi=10.1051/0004-6361:20042075 | bibcode=2005A&A...436..253T |arxiv = astro-ph/0501420 }}</ref>
+
+<ref name=pasp48_283_139>{{citation | last1=Rumrill | first1=H. B. | title=Star Name Pronunciation | journal=Publications of the Astronomical Society of the Pacific | volume=48 | issue=283 | pages=139–154 | month=June | year=1936 | doi=10.1086/124681 | bibcode=1936PASP...48..139R }} See p. 150.</ref>
+
+<ref name=cannon1994>{{citation | first1=Garland Hampton | last1=Cannon | title=The Arabic contributions to the English language: an historical dictionary | publisher=Otto Harrassowitz Verlag | year=1994 | isbn=3-447-03491-2 | page=264 | url=http://books.google.com/books?id=MiNWi1g3fJ4C&pg=PA264 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/muphrid.html STARS] link
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?GJ%20534 GJ 534]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J13547%2b1824A CCDM J13547+1824]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=13+54+41.0787%2B18+23+51.781&ident=NSV+19993&submit=Aladin+previewer Image Eta Boötis]
+* Richard Allen Hinkley, ''Star Names, Their Lore and Meaning'' (1889) 104
+
+{{Nearest bright star systems|4.}}
+{{Stars of Boötes}}
+
+[[Category:Flamsteed objects|Bootis, 08]]
+[[Category:Henry Draper Catalogue objects|121370]]
+[[Category:Binary stars]]
+[[Category:Hipparcos objects|067927]]
+[[Category:Boötes (constellation)]]
+[[Category:Bayer objects|Bootis, Eta]]
+[[Category:Spectroscopic binaries]]
+[[Category:G-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ar:مفرد الرامح (نجم)]]
+[[de:Mufrid]]
+[[es:Mufrid]]
+[[fa:مفردالرامح]]
+[[fr:Eta Bootis]]
+[[ko:목동자리 에타]]
+[[id:Eta Boötis]]
+[[it:Mufrid]]
+[[lb:Muphrid (Stär)]]
+[[nl:Mufrid]]
+[[pt:Eta Boötis]]
+[[ru:Эта Волопаса]]
+[[sk:Mufrid]]
+[[tt:Мөфрид]]
+[[zh:右攝提一]]

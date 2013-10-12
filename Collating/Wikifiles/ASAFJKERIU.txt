@@ -1,0 +1,45 @@
+{{Starbox short |
+| name=ζ Capricorni
+| epoch=[[J2000.0]]
+| constell=[[Capricornus]]
+| ra=21<sup>h</sup>26<sup>m</sup>40.0<sup>s</sup>
+| dec=&minus;22°24′41″
+| spectral=G4Ib Ba2
+| appmag_v=+3.77
+| dist_ly=398 ± 44
+| dist_pc=122 ± 13
+| names=34&nbsp;Capricorni [[Harvard Revised catalogue|HR]]&nbsp;8204, [[Henry Draper Catalogue|HD]]&nbsp;204075, [[Bonner Durchmusterung|CD]]−22°15388, [[Fifth Fundamental Catalogue|FK5]]&nbsp;806, [[Hipparcos catalogue|HIP]]&nbsp;105881, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;190341, GC&nbsp;30020, [[Star catalogue#ADS|ADS]]&nbsp;14971, CCDM&nbsp;J21267-2225
+}}
+'''Zeta Capricorni''', (ζ Cap, ζ Capricorni), is a [[Magnitude (astronomy)|fourth-magnitude]] [[star]] in the [[constellation]] [[Capricornus]]. ζ Capricorni is a [[binary star]], with the primary component '''ζ Capricorni A''' being a yellow [[stellar classification|G-type]] [[supergiant]] with an [[apparent magnitude]] of +3.77. It is considered one of the prototypical examples of a [[Barium star]], properties of which include overabundances of carbon molecules (such as C<sub>2</sub>) and [[s-process]] elements. Zeta Capricorni has an overabundance of the s-process element [[praseodymium]].
+
+Its companion, '''ζ Capricorni B''' is a [[white dwarf]]. 
+
+The ζ Capricorni binary system is approximately 398 [[light year]]s from [[Earth]].
+
+==Chinese Name==
+In [[Chinese language|Chinese]], {{lang|zh|十二國}} ({{lang|zh-Latn|Shíer Guó}}), meaning ''[[Girl (Chinese constellation)|Twelve States]]'', refers to an asterism which represents twelve ancient states in the [[Spring and Autumn Period]] and the [[Warring States Period]], consisting of ζ Capricorni, [[Phi Capricorni|φ Capricorni]], [[Iota Capricorni|ι Capricorni]], [[38 Capricorni]], [[35 Capricorni]], [[36 Capricorni]], [[Chi Capricorni|χ Capricorni]], [[Theta Capricorni|θ Capricorni]], [[30 Capricorni]], [[33 Capricorni]], [[19 Capricorni]], [[26 Capricorni]], [[27 Capricorni]], [[20 Capricorni]], [[Eta Capricorni|η Capricorni]] and [[21 Capricorni]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ζ Capricorni itself represents the state of '''[[Yan (state)|Yan]]''' ({{lang|zh|燕}}).,<ref>[http://www.constellationsofwords.com/stars/DenebAlgedi.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Capricornus]</ref> together with [[Nu Ophiuchi|ν Ophiuchi]] in ''[[Heavenly Market enclosure|Left Wall of Heavenly Market Enclosure]]'' (asterism).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060623.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 23 日]</ref>
+
+==References==
+* {{cite web | title=HD 204075 -- Star in double system | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=zeta+capricorni&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-04-01}}
+* [http://www.astro.uiuc.edu/~kaler/sow/zetacap.html Jim Kaler: Zeta Capricorni]
+{{reflist}}
+
+{{Stars of Capricornus}}
+
+[[Category:Bayer objects|Capricorni, Zeta]]
+[[Category:Capricornus (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:White dwarf stars]]
+[[Category:G-type supergiants]]
+
+
+{{multi-star-stub}}
+
+[[es:Zeta Capricorni]]
+[[eu:Zeta Capricorni]]
+[[fa:زتا بزغاله]]
+[[fr:Zeta Capricorni]]
+[[id:Zeta Capricorni]]
+[[it:Zeta Capricorni]]
+[[pt:Zeta Capricorni]]
+[[zh:燕 (恆星)]]

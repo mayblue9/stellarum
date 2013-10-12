@@ -1,0 +1,265 @@
+{{About|the star|the extrasolar planet|Fomalhaut b}}
+{{Starbox begin |
+   name=Fomalhaut  }}
+{{Starbox image |
+  image=[[File:Fomalhaut with Disk Ring and extrasolar planet b.jpg|250px]] |
+  caption=[[Debris ring]] around Fomalhaut showing location of planet [[Fomalhaut b]]—imaged by<br />[[Hubble Space Telescope]]'s coronagraph.<br />[[NASA]] photo. }}
+{{Starbox observe |
+  epoch=J2000 |
+  constell=[[Piscis Austrinus]] |
+  pronounce={{IPAc-en|ˈ|f|oʊ|m|əl|.|h|ɔː|t}}, {{IPAc-en|ˈ|f|oʊ|m|əl|ɔː|t}}, {{IPAc-en|f|oʊ|m|əl|ˈ|h|ɔː|t}} |
+  ra={{RA|22|57|39.0465}}<ref name=aaa474_2_653/> |
+  dec={{DEC|−29|37|20.050}}<ref name=aaa474_2_653/> |
+  appmag_v=1.16 }}
+{{Starbox character |
+  class=A3 V |
+  b-v=0.09 |
+  u-b=0.08 |
+  variable= }}
+{{Starbox astrometry |
+  radial_v=+6.5 |
+  prop_mo_ra=+328.95<ref name=aaa474_2_653/> |
+  prop_mo_dec=−164.67<ref name=aaa474_2_653/> |
+  parallax=129.81 |
+  p_error=0.47 |
+  parallax_footnote = <ref name=aaa474_2_653/> |
+  absmag_v=1.72<ref name="age_mam"/> }}
+{{Starbox detail
+| mass={{val|1.92|0.02}}<ref name=age_mam/>
+| age={{val|4.4|0.4|e=8}}<ref name=age_mam/>
+| metal_fe = −0.03<ref name=mnras286_3/> to −0.34<ref name=aaa490_1/>
+| radius={{val|1.842|0.019}}<ref name=age_mam/>
+| gravity=4.21<ref name=aaa426/>
+| rotational_velocity = 93<ref name=aaa426/>
+| luminosity={{val|16.63|0.48}}<ref name=age_mam/>
+| temperature=8,590<ref name=age_mam/> }}
+{{Starbox catalog |
+  names=α&nbsp;Piscis Austrini, α&nbsp;PsA, Alpha&nbsp;PsA, 24&nbsp;Piscis Austrini, [[Durchmusterung|CPD]]−30 &nbsp;6685, [[Fifth Fundamental Catalogue|FK5]]&nbsp;867, [[Gliese Catalogue of Nearby Stars|Gl]] 881, [[Henry Draper catalogue|HD]] 216956, [[Hipparcos catalogue|HIP]] 113368, [[Bright Star Catalogue|HR]]&nbsp;8728, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 191524.
+}}
+{{Starbox reference |
+  Simbad=Fomalhaut |
+  NSTED=Fomalhaut |
+  ARICNS=01877 |
+  EPE=Fomalhaut }}
+{{Starbox end}}
+'''Fomalhaut''' ('''Alpha&nbsp;Piscis Austrini''', '''Alpha&nbsp;PsA''', '''α&nbsp;Piscis Austrini''', '''α&nbsp;PsA''') is the brightest star in the [[constellation]] [[Piscis Austrinus]] and [[list of brightest stars|one of the brightest stars]] in the sky. Fomalhaut can be seen low in the southern sky in the northern hemisphere in fall and early winter evenings. Near [[50th parallel north|latitude 50˚N]], it sets around the time [[Sirius]] rises, and does not reappear until [[Antares]] sets. Its name derives {{ety|ar| {{transl|ar|fum al-ḥawt}}|mouth of the [Southern] Fish}} ({{lang|ar|فُمْ اَلْحَوْتْ}}).
+
+This is a [[stellar classification|class A]] [[star]] on the [[main sequence]] approximately {{convert|25|ly|pc|lk=on}} from Earth as measured by the [[Hipparcos]] astrometry satellite.<ref name=GSM/> Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It is classified as a [[Vega]]-like star that emits [[infrared excess|excess infrared radiation]], indicating it is surrounded by a [[Debris disk|circumstellar disk]].<ref name=vegalikedisc/> Fomalhaut and the K-type star [[TW Piscis Austrini]] constitute a binary system.<ref name="age_mam"/>
+
+Fomalhaut holds a special significance in [[extrasolar planet]] research, as it is the center of the first stellar system with an extrasolar orbiting object ([[Fomalhaut b]]) imaged at visible wavelengths.  The image was published in ''[[Science (journal)|Science]]'' in November 2008.<ref name="Kalas2008"/> From Earth's perspective it is the third [[Apparent magnitude|brightest]] star known to have an orbiting object, after [[Pollux (star)|Pollux]] and the [[Sun]].
+
+Fomalhaut was a later designation of '''79 Aquarii'''.<ref>{{cite journal
+ | last=Wagman | first=M.
+ | title=Flamsteed's Missing Stars
+ | journal=Journal for the History of Astronomy, Vol.18, NO. 3/AUG, P.209, 1987
+ | volume=18 | page=212 | month=August | year=1987
+ | bibcode=1987JHA....18..209W }}</ref>
+
+==Properties==
+[[File:Fomalhaut B entire-Hubble Telescope.jpg|thumb|left|The [[Debris ring|debris disk]] around the [[star]]]]
+Fomalhaut is a young star, for many years thought to be only 100 to 300 million years old, with a potential lifespan of a billion years.<ref name="age"/><ref name="lifespan"/> 
+A 2012 reanalysis of the age for Fomalhaut by astronomer Eric Mamajek yielded an age of {{val|440|40|u=million years}}<ref name="age_mam"/>. The surface temperature of the star is around {{convert|8590|K|C|lk=on}}. Fomalhaut's mass is about 1.92 times that of the [[Sun]], its [[luminosity]] is about 16.6 times greater, and its diameter is roughly 1.84 times as large<ref name="age_mam"/>.
+
+Fomalhaut is slightly [[metallicity|metal-deficient]] as compared to the Sun, which means it is composed of a smaller percentage of elements other than hydrogen and helium.<ref name="aaa426" /> The metallicity is typically determined by measuring the abundance of iron in the [[photosphere]] relative to the abundance of hydrogen. A 1997 [[spectroscopic]] study measured a value equal to 93% of the Sun's abundance of iron.<ref name=mnras286_3/><ref name=metal group=nb/> A second 1997 study deduced a value of 78% by assuming Fomalhaut has the same metallicity as the neighboring star [[TW Piscis Austrini]], which has since been argued to be a physical companion<ref name="age_mam"/>.<ref name=apj475/> In 2004, a stellar evolutionary model of Fomalhaut yielded a metallicity of 79%.<ref name=aaa426/> Finally, in 2008, a spectroscopic measurement gave a significantly lower value of 46%.<ref name=aaa490_1/>
+
+Fomalhaut is a member of the 16 stars belonging to the [[Castor Moving Group]]. This is an association of stars that share a common motion through space and have been claimed to be physically associated. Other members of this group include [[Castor (star)|Castor]] and [[Vega]]. This [[moving group]] has an estimated age of {{val|200|100|u=million years}} and originated from the same location.<ref name="age"/> 
+
+Fomalhaut is a binary star with the nearby star [[TW Piscis Austrini]]. [[TW Piscis Austrini]] lies 0.28 parsecs away from Fomalhaut, and its space velocity agrees with that of Fomalhaut within {{val|0.1|0.5|u=km/s}}, consistent with being a bound companion. A recent age estimate for TW PsA ({{val|400|70|u=million years}}), agrees very well with the isochronal age for Fomalhaut ({{val|450|40|u=million years}}), further arguing for the two stars forming a physical binary.<ref name="age_mam"/>
+
+==System==
+[[File:Hubble_Directly_Observes_Planet_Orbiting_Fomalhaut.jpg|thumb|left|Comparison between our Solar system and the system around Fomalhaut.]]
+Fomalhaut is surrounded by several [[debris disk]]s.
+
+The inner disk is a high-carbon small-grain (10-300 nm) ash disk clustering at .1 AU from the star. Next is a disk of larger particles with inner edge 0.4-1 AU of the star. The innermost disk is unexplained as yet.<ref name=vegalikedisc>{{cite | journal=Astrophysical Journal
+ | title=An interferometric study of the Fomalhaut inner debris disk II. Keck Nuller mid-infrared observations
+ |arxiv=1211.7143
+ |year=2012
+ |authors=B. Mennesson, O. Absil, J. Lebreton, J.-C. Augereau, E. Serabyn, M. M. Colavita, R. Millan-Gabet, W. Liu, P.Hinz, P. Thebault
+}}</ref>
+
+The outermost disk is at a radial distance of {{convert|133|AU|km mi|lk=in|abbr=on}}, in a [[Toroid (geometry)|toroidal shape]] with a very sharp inner edge, all inclined 24 degrees from edge-on.<ref name=nature435_7045_1067/><ref name=nature392_6678_788/> The dust is distributed in a belt about 25 AU wide. The geometric center of the disk is offset by about {{convert|15|AU|km mi|abbr=on}} from Fomalhaut.<ref>{{cite web | title=Fomalhaut's Kuiper Belt|  work=Sky & Telescope | url=http://www.skyandtelescope.com/news/3310401.html?page=1&c=y |accessdate=October 16, 2007}}</ref> The disk is sometimes referred to as "Fomalhaut's [[Kuiper belt]]". Fomalhaut's dusty disk is believed to be [[Protoplanetary disc|protoplanetary]],<ref name="nasaprot">{{cite web| title=Hubble Directly Observes a Planet Orbiting Another Star | url=http://www.nasa.gov/mission_pages/hubble/science/fomalhaut.html | accessdate=November 13, 2008}}</ref> and emits considerable [[infrared]] radiation. Measurements of Fomalhaut's rotation indicate that the disk is located in the star's equatorial plane, as expected from theories of star and planet formation.<ref>{{cite arxiv|title=The spin-orbit alignment of the Fomalhaut planetary system probed by optical long baseline interferometry|author=Le Bouquin, Jean-Baptiste ''et al.''|year=2009|eprint=0904.1688|class=astro-ph}}</ref>
+
+On November 13, 2008, astronomers announced an object, which they assumed to be an [[extrasolar planet]], orbiting just inside the outer debris ring.  This was the first extrasolar orbiting object to be seen with visible light, captured by the [[Hubble Space Telescope]].<ref>{{cite news|url=http://afp.google.com/article/ALeqM5iA-PPiKC8oJh3qqkV2ZsF09HmmCA|title=From afar, the first optical photos of an exoplanet|publisher=AFP|date=2008-11-13}}</ref>  A planet's existence had been previously suspected from the sharp, elliptical inner edge of that disk.<ref>Predictions for a planet just inside Fomalhaut's eccentric ring, Alice C. Quillen, ''Monthly Notices of the Royal Astronomical Society'', '''372''', #1 (October 2006), pp. L14–L18, {{doi|10.1111/j.1745-3933.2006.00216.x}}, {{bibcode|2006MNRAS.372L..14Q}}.</ref>  The mass of the planet, [[Fomalhaut b]], was estimated to be no more than three times the mass of [[Jupiter]] but at least the mass of [[Neptune]].<ref name="Kalas">{{cite web| author=[[Paul Kalas]] |title=Direct Image Of Extrasolar Planet |url=http://uk.youtube.com/watch?v=aXKz4nxyPqw |date=2008-11-13 |accessdate=2008-11-14}} (at 3 minutes 45 seconds: "... has to be less than three Jupiter masses. In fact our lower limit to Fomalhaut b is Neptune")</ref> There are indications that the orbit is not [[apsis|apsidally]] aligned with the dust disk, which may indicate that additional planets may be responsible for the dust disk's structure.<ref>{{cite arxiv|title=Fomalhaut's Debris Disk and Planet: Constraining the Mass of Fomalhaut b From Disk Morphology|author=Chiang, E. ''et al.''|eprint=0811.1985|version=v1|class=astro-ph|year=2008}}</ref>
+
+However M-band images taken from the [[MMT Observatory]] put strong limits on the existence of gas giants within 40 AU of the star<ref>{{cite arxiv|title=MMT/AO 5 micron Imaging Constraints on the Existence of Giant Planets Orbiting Fomalhaut at ~13-40 AU|author=Kenworthy, Matthew A. ''et al.''|eprint=0811.2443|version=v1|class=astro-ph|year=2008}}</ref> and [[Spitzer Space Telescope]] imaging suggested that the object Fomalhaut b was more likely to be a dust cloud.<ref>{{cite arxiv|title=Infrared Non-detection of Fomalhaut b -- Implications for the Planet Interpretation|author=Markus, J. ''et al.''|eprint=1201.4388|version=v2|class=astro-ph|year=2012}}</ref> In 2012, two independent studies confirmed that Fomalhaut b does exist; but it is shrouded by debris, so it may be a gravitationally-bound accumulation of rubble rather than a whole planet.<ref name="Galicher">{{cite journal|
+arxiv=1210.6745|
+title=Fomalhaut b: Independent Analysis of the Hubble Space Telescope Public Archive Data|
+accessdate=2012-10-28|
+author=Raphael Galicher, Christian Marois, B. Zuckerman, Bruce Macintosh|
+journal=The Astrophysical Journal}}</ref><ref name=Currie>{{cite journal|arxiv=1210.6620|title=Direct Imaging Confirmation and Characterization of a Dust-Enshrouded Candidate Exoplanet Orbiting Fomalhaut|accessdate=2012-10-25|author=Thayne Currie ''et al''|journal=The Astrophysical Journal Letters}}</ref>
+
+[[Herschel Space Observatory]] images of  Fomalhaut reveal a large amount of fluffy micrometer-sized dust is present in the outer dust belt. Because such dust is expected to be blown out of the system by stellar radiation pressure on short timescales, its presence indicates a constant replenishment by collisions of planetesimals. The fluffy morphology of the grains suggests a cometary origin. The collision rate is estimated to be approximately 2000 kilometre-sized comets per day.<ref>{{cite journal|title=Herschel images of Fomalhaut. An extrasolar Kuiper belt at the height of its dynamical activity|authors=Acke, B. et al.|arxiv=1204.5037|class=astro-ph|year=2012|journal=Astronomy & Astrophysics}}</ref>
+
+Observations of the star's outer dust ring by the [[Atacama Large Millimeter Array]] point to the existence of two planets in the system, neither one at the orbital radius proposed for the HST-discovered Fomalhaut b.<ref>{{cite arxiv|title=Constraining the Planetary System of Fomalhaut Using High-Resolution ALMA Observations|author=Boley, A. ''et al.''|eprint=1204.0007|version=v1|class=astro-ph|year=2012}}</ref>
+
+If there are additional planets from 4 to 10 AU, they must be under 20 M<sub>J</sub>; if from 2.5 outward, then 30 M<sub>J</sub>.<ref>{{cite journal|title=Coronagraphic Observations of Fomalhaut at Solar System Scales|authors=Matthew A. Kenworthy and Tiffany Meshkat|arxiv=1212.1459|class=astro-ph|year=2012|journal=Astrophysical Journal}}</ref> 
+
+{{OrbitboxPlanet begin
+| table_ref = <ref name="Kalas" /><ref name=vegalikedisc/>
+| period_unit = year
+}}
+{{OrbitboxPlanet disk
+| disk = Ash disk
+| periapsis = 0.1
+| apoapsis = 0.1
+}}
+{{OrbitboxPlanet disk
+| disk = Dust disk
+| periapsis = 0.7 ± 0.3
+| apoapsis = 2
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Fomalhaut b|b]]
+| mass = 0.054 - 3.0
+| period = ~872
+| semimajor = ~115
+| eccentricity = ~0.11
+}}
+{{OrbitboxPlanet disk
+| disk = Protoplanetary disk
+| periapsis = 133
+| apoapsis = 158
+}}
+{{Orbitbox end}}
+
+==Visibility==
+{{unreferenced section|date=May 2010}}
+[[File:Ring around Fomalhaut.jpg|thumb|Dust ring around the bright star Fomalhaut from the [[Atacama Large Millimeter Array|Atacama Large Millimeter/submillimeter Array]] (ALMA).<ref>{{cite news|title=ALMA Reveals Workings of Nearby Planetary System|url=http://www.eso.org/public/images/eso1216a/|accessdate=13 April 2012|newspaper=ESO Press Release}}</ref> ]]
+
+At a [[declination]] of -29.6°, Fomalhaut is located south of the [[Celestial coordinate system|celestial equator]], and hence is best viewed from the [[Southern Hemisphere]]. It passes virtually overhead from places just south of the [[Tropic of Capricorn]], for example [[Brisbane]], [[Johannesburg]] and [[Easter Island]]. However, its southerly declination is not as great as that of stars such as [[Acrux]], [[Alpha Centauri]] and [[Canopus]], meaning that, unlike them, Fomalhaut is visible from a large part of the [[Northern Hemisphere]] as well. Its declination is lower than that of [[Sirius]] and similar to that of [[Antares]]. South of [[40th parallel north|latitude 40˚ north]] it can be viewed on autumn evenings; further north it is low on the southern horizon. It reaches a maximum altitude of only 9˚ from London, 4˚ from [[Edinburgh]] or [[Copenhagen]], and it just barely rises from around [[60th parallel north|latitude 60˚ north]]; [[Oslo]], [[Helsinki]] or southern [[Alaska]]. Fomalhaut can be located in these northern latitudes by the fact that the western (right-hand) side of the [[Square of Pegasus]] points to it. Continue the line from Beta to Alpha [[Pegasus|Pegasi]] towards the southern horizon: Fomalhaut is about 45˚ south of Alpha Pegasi, with no bright stars in between.
+
+==Etymology and cultural significance==
+Fomalhaut has had various names ascribed to it through time. One such name in common use is the Lonely Star of Autumn, because it is the only first-magnitude star in the autumn sky of mid-northern [[latitude]]s. It has been recognized by many cultures of the [[northern hemisphere]], including the [[Arab]]s, [[Persian people|Persians]] and [[Chinese people|Chinese]]. Archaeological evidence links it to rituals dating back to about 2500 BC. 
+
+*It was called '''Hastorang''' by the [[Persians]], one of the four "[[royal stars]]".<ref name=rhallen>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Piscis_Australis*.html Richard Hinckley Allen:Star Names — Their Lore and Meaning (Piscis Australis, the Southern Fish)]</ref>
+*The name '''''Fom al-Haut''''' comes from scientific Arabic {{lang|ar|فم الحوت}}  ''{{transl|ar|fam al-ħūt (al-janūbī)}}'' "the mouth of the [Southern] Fish".<ref name=rhallen/>
+*The Latin names are ''{{lang|la|ōs piscis merīdiāni, ōs piscis merīdionālis, ōs piscis notii}}'' "the mouth of the Southern Fish".<ref name=rhallen/>
+*The name '''''Difda al Auwel''''' comes from the colloquial Arabic {{lang|ar|الضفدع الأول}} ''{{transl|ar|aḍ-ḍifdiˤ al-’awwal}}'' "the first frog" (the second frog is [[Beta Ceti]]).<ref name=rhallen/>
+*The [[Chinese language|Chinese]] name 北落师门 ([[Mandarin Chinese|Mandarin]]: Běilàshīmén) meaning ''North Gate of the Military Camp'', because this star is marking itself and stand alone in ''North Gate of the Military Camp'' asterism, [[Encampment (Chinese constellation)|Encampment]] mansion (see : [[Chinese constellation]]). <ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060707.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 7 日]</ref> 北落师门 (Běilàshīmén) westernized into '''Pi Lo Sze Mun''' in R.H. Allen's work.<ref name=rhallen/>
+
+To the Moporr Aboriginal people of South Australia, it is a masculine being called "Buunjill".<ref>{{Cite book |last=Dawson |first=James |year=1881 |title=Australian Aborigines |publisher=George Robertson |location=Sydney |page=100 |isbn=0-85575-118-5 }}</ref>
+
+Fomalhaut/Earthwork B in Mounds State Park near Anderson, Indiana lines up with the rising of the star Fomalhaut in the fall months, according to the Indiana Department of Natural Resources.
+
+The ''New Scientist'' magazine termed it the "Great [[Eye of Sauron]]" due to its shape and debris ring, when viewed from a distance, bearing similarity to the aforementioned "Eye" in the [[Peter Jackson]] [[Lord of the Rings]] films.<ref>{{cite news|url=http://www.newscientist.com/article/dn7564-hubble-spies-lord-of-the-stellar-rings.html|title=Hubble spies lord of the stellar rings |date=22 June 2005 |author=Ivan Semeniuk|newspaper=New Scientist}}</ref>
+
+In Walter Tevis' novel ''Steps of the Sun'', Fomalhaut is visited by the protagonist and two potentially inhabitable planets are found (and described). Parts of [[Philip K. Dick|Philip K Dick's]] novel ''Lies, Inc'' (originally titled ''The Unteleported Man'') are set on the fictional planet Fomalhaut IX.
+
+[[USS Fomalhaut (AK-22)|USS ''Fomalhaut'' (AK-22)]] was a [[United States]] navy [[amphibious cargo ship]].
+
+==See also==
+* [[HR 8799]]
+* [[GJ 758]]
+* [[Vega]]
+* [[2M1207]]
+* [[List of extrasolar planets]]
+* [[Methods of detecting extrasolar planets#Direct imaging|Direct imaging of extrasolar planets]]
+* [[Stars and planetary systems in fiction#Fomalhaut (Alpha Piscis Austrini)|Fomalhaut in fiction]]
+
+==Notes==
+{{Reflist|group="nb"|refs=
+
+<ref name=metal group=nb>Calculation of [[metallicity#Calculation|metallicity]]: if ''m'' = [Fe/H], then the ratio of iron to hydrogen for Fomalhaut divided by the ratio of iron to hydrogen for the Sun is given by 10<sup>''m''</sup>.</ref>
+
+}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=age_mam>{{Cite journal | last1=Mamajek | first1=E.E. | title=On the Age and Binarity of Fomalhaut | journal=Astrophysical Journal Letters | volume=754 | issue=2 | month=August | year=2012 | pages=L20 | doi:10.1088/2041-8205/754/2/L20 | bibcode=2012ApJL..754...20M | arxiv=1206.6353}}</ref>
+
+<ref name=aaa474_2_653>{{Cite journal | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=mnras286_3>{{cite journal | title=High-resolution spectroscopy of Vega-like stars - I. Effective temperatures, gravities and photospheric abundances | author=Dunkin, S. K.; Barlow, M. J.; Ryan, Sean G. | journal=Monthly Notices of the Royal Astronomical Society | volume=286 | issue=3 | pages=604–616 | month=April | year=1997 | bibcode=1997MNRAS.286..604D | last2=Barlow | last3=Ryan }} This paper lists [Fe/H] = -0.03 [[wikt:dex|dex]].</ref>
+
+<ref name=apj475>{{cite journal | author=Barrado y Navascues, David; Stauffer, John R.; Hartmann, Lee; Balachandran, Suchitra C. | title=The Age of Gliese 879 and Fomalhaut | journal=Astrophysical Journal | volume=475 | page=313 | month=January | year=1997 | doi=10.1086/303518 | bibcode=1997ApJ...475..313B |arxiv = astro-ph/9704021 }} This paper lists [Fe/H] = -0.11 dex.</ref>
+
+<ref name=aaa426>{{cite journal | title=VLTI near-IR interferometric observations of Vega-like stars. Radius and age of α PsA, β Leo, β Pic, ɛ Eri and τ Cet | author=Di Folco, E.; Thévenin, F.; Kervella, P.; Domiciano de Souza, A.; Coudé du Foresto, V.; Ségransan, D.; Morel, P. | journal=Astronomy and Astrophysics | volume=426 | pages=601–617 | month=November | year=2004 | doi=10.1051/0004-6361:20047189 | bibcode=2004A&A...426..601D | issue=2 }} This paper lists [Fe/H] = -0.10 dex.</ref>
+
+<ref name=aaa490_1>{{cite journal | author=Saffe, C.; Gómez, M.; Pintado, O.; González, E. | title=Spectroscopic metallicities of Vega-like stars | journal=Astronomy and Astrophysics | volume=490 | issue=1 | pages=297–305 | month=October | year=2008 | doi=10.1051/0004-6361:200810260 | bibcode=2008A&A...490..297S |arxiv = 0805.3936 }} This paper lists [Fe/H] = −0.34 dex.</ref>
+
+<ref name="Kalas2008">{{cite journal | last=Kalas | first=Paul | coauthors=''et al.'' | year=2008 | title=Optical Images of an Exosolar Planet 25 Light-Years from Earth | journal=Science | volume=322 | issue=5906 | pages=1345–1348 | doi=10.1126/science.1166609 | pmid=19008414 |bibcode = 2008Sci...322.1345K |arxiv = 0811.1994 }}</ref>
+
+<ref name="age">{{cite journal | author=Barrado y Navascues, D. | title=The Castor moving group. The age of Fomalhaut and VEGA | journal=Astronomy and Astrophysics | volume=339 | pages=831–839 | year=1998 | bibcode=1998A&A...339..831B |arxiv = astro-ph/9905243 }}</ref>
+
+<ref name="lifespan">{{cite news | title=Elusive Planet Reshapes a Ring Around Neighboring Star | publisher=Space Telescope Science Institute (STScI) | url=http://hubblesite.org/newscenter/archive/releases/2005/10/ | date=June 22, 2005 | work=HubbleSite - newscenter }}</ref>
+
+<ref name=nature435_7045_1067>{{cite journal | last=Kalas | first=Paul | coauthors=Graham, James R.; Clampin, Mark | year=2005 | title=A planetary system as the origin of structure in Fomalhaut's dust belt | journal=[[Nature (journal)|Nature]] | pmid=15973402 | volume=435 | issue=7045 | pages=1067–1070 | doi=10.1038/nature03601| arxiv=astro-ph/0506574 | bibcode=2005Natur.435.1067K}}</ref>
+
+<ref name=nature392_6678_788>The disc was reported by {{cite journal | last=Holland | first=Wayne S. | coauthors=''et al.'' | year=1998 | title=Submillimetre images of dusty debris around nearby stars | journal=Nature | volume=392 | issue=6678 | pages=788–791 | doi=10.1038/33874 | bibcode=1998Natur.392..788H}} They noted that the disc was centered on a cavity, which they suggested might have been swept out by planets.</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+}}
+
+==External links==
+{{Commons category}}
+* {{cite web |
+ title=Fomalhaut |
+ work=SolStation |
+ url=http://www.solstation.com/stars/fomalhau.htm |
+ accessdate=November 23, 2005}}
+* [http://arxiv.org/abs/0811.1994 Preprint of planet discovery paper]
+* [http://astrobites.com/2012/01/27/a-planet-diminished/ Astrobites summary of Janson et al. 2012, the Spitzer IR non-detection of Fomalhaut b]
+* [http://astrobites.com/2012/04/15/almas-first-results-tackle-the-controversial-fomalhaut/ Astrobites summary of Boley et al. 2012, the ALMA observations of the Fomalhaut ring system]
+* [http://www.thelivingmoon.com/41pegasus/02files/Eye_of_Sauron.html/ "Eye of Sauron" debris ring]
+{{Sky|22|57|39.1|-|29|37|20|25}}
+{{Nearest systems|6}}
+{{Stars of Piscis Austrinus}}
+
+<!--Categories-->
+[[Category:Bayer objects|Piscis Austrini, Alpha]]
+[[Category:Flamsteed objects|Piscis Austrini, 24]]
+[[Category:Piscis Austrinus]]
+[[Category:Variable stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Arabic words and phrases]]
+[[Category:Circumstellar disks]]
+[[Category:Stars with proper names]]
+[[Category:Castor Moving Group]]
+[[Category:Henry Draper Catalogue objects|216956]]
+[[Category:Hipparcos objects|113368]]
+[[Category:HR objects|8728]]
+[[Category:Planetary systems]]
+
+<!--Interwikis-->
+
+[[ar:فم الحوت]]
+[[az:Fəməlhut]]
+[[bn:মৎসমুখ]]
+[[be:Фамальгаўт]]
+[[ca:Fomalhaut]]
+[[cs:Fomalhaut]]
+[[de:Fomalhaut]]
+[[et:Fomalhaut]]
+[[es:Fomalhaut]]
+[[fa:فم‌الحوت]]
+[[fr:Fomalhaut]]
+[[ko:포말하우트]]
+[[hi:मीनास्य तारा]]
+[[id:Fomalhaut]]
+[[it:Fomalhaut]]
+[[he:פומלהוט]]
+[[jv:Fomalhaut]]
+[[la:Fomalhaut]]
+[[lb:Fomalhaut (Stär)]]
+[[lt:Fomalhautas]]
+[[hu:Fomalhaut]]
+[[mk:Фомалхаут]]
+[[nl:Fomalhaut]]
+[[ja:フォーマルハウト]]
+[[no:Fomalhaut]]
+[[pl:Fomalhaut]]
+[[pt:Fomalhaut]]
+[[ro:Fomalhaut]]
+[[ru:Фомальгаут]]
+[[sk:Fomalhaut]]
+[[fi:Fomalhaut]]
+[[sv:Fomalhaut]]
+[[ta:பொமல்ஹோட்]]
+[[tt:Фәмелхут]]
+[[th:โฟมัลฮอต]]
+[[tr:Fomalhaut]]
+[[zh:北落师门]]

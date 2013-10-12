@@ -1,0 +1,146 @@
+{{Starbox begin
+| name=Alpha Gruis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Grus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Grus constellation and its surroundings]]
+     <div style="position: absolute; left: 54.6%; top: 47.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Gruis (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|22|08|13.98473}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–46|57|39.5078}}<ref name=aaa474_2_653/>
+| appmag_v = +1.74<ref name=clpl4_99/>
+| constell = [[Grus (constellation)|Grus]]
+}}
+{{Starbox character
+| class    = B6&nbsp;V<ref name=aj132_1_161/>
+| b-v      = –0.13<ref name=clpl4_99/>
+| u-b      = –0.47<ref name=clpl4_99/>
+| variable =
+}}
+{{Starbox astrometry
+| radial_v = +11.8<ref name=wilson1953/>
+| prop_mo_ra  = +126.69<ref name=aaa474_2_653/>
+| prop_mo_dec = –147.47<ref name=aaa474_2_653/>
+| parallax = 32.29
+| p_error  = 0.21
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 4.0<ref name=aass85_3_1015/>
+| radius   = 3.4<ref name=aaa431_773/>
+| luminosity  = 263<ref name=aass85_3_1015/>
+| gravity  = {{nowrap|3.76 ± 0.11}}<ref name=apj525_2_1011/>
+| temperature = 13,920<ref name=aaa501_1_297/>
+| metal_fe = {{nowrap|–0.13 ± 0.02}}<ref name=aaa404_689/>
+| rotational_velocity = 215<ref name=aaass43_427/>
+| age_gyr  = 0.10<ref name=apj653_1_675/>
+}}
+{{Starbox catalog
+| names    = Al Na'ir, [[Cordoba Durchmusterung|CD]] -47°14063, [[Fifth Fundamental Catalogue|FK5]] 829, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 5339.00, [[Henry L. Giclas catalogue|Gl]] 848.2, [[Henry Draper catalogue|HD]] 209952, [[Hipparcos catalogue|HIP]] 109268, [[Harvard Revised catalogue|HR]] 8425, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 230992.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Alpha Gruis''' (α Gruis, α Gru) or '''Alnair''' is the brightest [[star]] in the southern [[constellation]] [[Grus (constellation)|Grus]]. Its first depiction in a celestial atlas was in [[Johann Bayer]]'s ''[[Uranometria]]'' of 1603.<ref name=scalzi2008/>
+
+==Properties==
+Alpha Gruis has a [[stellar classification]] of B6&nbsp;V,<ref name=aj132_1_161/> although some sources give it a classification of B7&nbsp;IV.<ref name=mnras389_2_869/> The first classification indicates that this is a [[B-type star]] on the [[main sequence]] of stars that are generating energy through the [[thermonuclear fusion]] of hydrogen at the core. However, a luminosity class of 'IV' would suggest that this is a [[subgiant star]]; meaning the supply of hydrogen at its core is becoming exhausted and the star has started the process of [[stellar evolution|evolving]] away from the main sequence. It has no known companions.<ref name=mnras389_2_869/>
+
+The measured [[angular diameter]] of this star, after correcting for limb darkening, is {{nowrap|1.02 ± 0.07 [[milliarcseconds|mas]]}}.<ref name=aaa431_773/> At a [[parallax]]-measured distance of {{Convert|101|ly|pc|abbr=off|lk=on}} from [[Earth]], this yields a physical size of 3.4 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> It is rotating rapidly, with a [[stellar rotation|projected rotational velocity]] of about 215&nbsp;km/s providing a lower bound for the rate of [[azimuth]]al rotation along the equator.<ref name=aaass43_427/> This star has around four times the Sun's mass and is radiating 263 times the luminosity of the Sun.<ref name=aass85_3_1015/>
+
+The [[effective temperature]] of Alpha Gruis's outer envelope is 13,920&nbsp;K,<ref name=aaa501_1_297/> giving it the blue-white hue characteristic of B-type stars.<ref name=csiro/> The abundance of elements other than hydrogen and helium, what astronomers term the [[metallicity]], is about 74% of the abundance in the Sun.<ref name=aaa404_689/> The [[Spitzer Space Telescope]] detected an [[infrared excess|excess of infrared emission]] from this star, suggesting that a circumstellar [[debris disk|disk of dust]] may be in orbit around it.<ref name=apj653_1_675/>
+
+Based on the estimated age and motion, it may be a member of the [[AB Doradus moving group]] that share a common motion through space. This group has an age of about 70 million years,<ref name=apj732_2_61/> which is consistent with α Gruis's 100-million-year<ref name=apj653_1_675/> estimated age (allowing for a margin of error). The [[space velocity (astronomy)|space velocity]] components of this star in the [[Galactic coordinate system]] are [''U'', ''V'', ''W''] = {{nowrap|[–7.0 ± 1.1}}, {{nowrap|–25.6 ± 0.7}}, {{nowrap|–15.5 ± 1.4] km/s}}.<ref name=apj732_2_61/>
+
+== Name ==
+Alpha Gruis has the proper name '''Alnair''' or '''Al Nair''' (sometimes '''Al Na'ir'''), from the [[Arabic language|Arabic]] ''al-nayyir'' <nowiki>[</nowiki>an-nai:r<nowiki>]</nowiki>, meaning "the bright one".<ref name=kunitzsch_smart2006/>  It is derived from its Arabic name, ''al-Nayyir min Dhanab al-ḥūt (al-Janūbiyy)'', "the Bright (star) belongs to the Tail of (the constellation of) the [[Piscis Austrinus|(Southern) Fish]]".<ref name=kunitzsch_smart2006/> Confusingly, "Alnair" is also given as the proper name for [[Zeta Centauri]] in an [[Bureau des Longitudes#Publications|astronomical ephemerides]] in the middle of the 20th century.<ref name=kunitzsch1959/> With [[Beta Gruis|β]], [[Delta Gruis|δ]], [[Theta Gruis|θ]]. [[Iota Gruis|ι]], and [[Lambda Gruis|λ Gru]], Alnair belonged to [[Piscis Austrinus]] in traditional [[Arabian astronomy|Arabic astronomy]].<ref name=allen1963/>
+
+In [[Chinese language|Chinese]], {{lang|zh|鶴}} ({{lang|zh-Latn|Hè}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Crane]]'', refers to an asterism consisting of α Gruis, [[Beta Gruis|β Gruis]], [[Epsilon Gruis|ε Gruis]], [[Eta Gruis|η Gruis]], [[Delta Tucanae Gruis|δ Tucanae]], [[Zeta Gruis|ζ Gruis]], [[Iota Gruis|ι Gruis]], [[Theta Gruis|θ Gruis]], [[Delta2 Gruis|δ<sup>2</sup> Gruis]] and [[Mu1 Gruis|μ<sup>1</sup> Gruis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Gruis itself is known as {{lang|zh|鶴一}} ({{lang|zh-Latn|Hè yī}}, {{lang-en|First Star of the Crane}}).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> The Chinese name gave rise to another English name, '''Ke'''.<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Grus*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Grus]</ref>
+
+== References ==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: spectroscopy of stars earlier than M0 within 40 pc-The Southern Sample | journal=[[The Astronomical Journal]] | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 }}</ref>
+
+<ref name=wilson1953>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | title=LTT 8869 -- High proper-motion Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Gruis | accessdate=2011-12-24 }}</ref>
+
+<ref name=apj732_2_61>{{citation | display-authors=1 | last1=Zuckerman | first1=B. | last2=Rhee | first2=Joseph H. | last3=Song | first3=Inseok | last4=Bessell | first4=M. S. | title=The Tucana/Horologium, Columba, AB Doradus, and Argus Associations: New Members and Dusty Debris Disks | journal=The Astrophysical Journal | volume=732 | issue=2 | page=61 | month=May | year=2011 | doi=10.1088/0004-637X/732/2/61 | bibcode=2011ApJ...732...61Z |arxiv = 1104.0284 }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first4=M. F. | last5=Torres | first5=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=aaa404_689>{{citation | last1=Niemczura | first1=E. | title=Metallicities of the SPB stars from the IUE ultraviolet spectra | journal=Astronomy and Astrophysics | volume=404 | pages=689–700 | month=June | year=2003 | doi=10.1051/0004-6361:20030546 | bibcode=2003A&A...404..689N }}. The fractional abundance relative to the Sun is given by:
+:10<sup>–0.13</sup> = 0.74, or 74%.</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aaass43_427>{{citation | display-authors=1 | last1=Dachs | first1=J. | last2=Eichendorf | first2=W. | last3=Schleicher | first3=H. | last4=Schmidt-Kaler | first4=T. | last5=Stift | first5=M. | last6=Tug | first6=H. | title=Photoelectric scanner measurements of Balmer emission line profiles for southern Be stars. II - A survey for variations | journal=Astronomy and Astrophysics Supplement Series | volume=43 | pages=427–453 | month=March | year=1981 | bibcode=1981A&AS...43..427D }}</ref>
+
+<ref name=apj525_2_1011>{{citation | last1=Fitzpatrick | first1=Edward L. | last2=Massa | first2=Derck | title=Determining the Physical Properties of the B Stars. I. Methodology and First Results | journal=The Astrophysical Journal | volume=525 | issue=2 | pages=1011–1023 | month=November | year=1999 | doi=10.1086/307944 | bibcode=1999ApJ...525.1011F |arxiv = astro-ph/9906257 }}</ref>
+	
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 31\cdot 1.02)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 6.8\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=kunitzsch_smart2006>{{citation | last1=Kunitzsch | first1=P. | last2=Smart | first2=T. | year=2006 | title=A Dictionary of Modern star Names: A Short Guide to 254 Star Names and Their Derivations | edition=2nd | publisher=[[New Track Media#Sky Publishing|Sky Publishing]] | location=[[Cambridge, Massachusetts|Cambridge]], [[Massachusetts|MA]] | isbn=978-1-931559-44-7 | page=39 }}</ref>
+
+<ref name=kunitzsch1959>{{citation | last1=Kunitzsch, | first1=P. | year=1959 | title=Arabische Sternnamen in Europa | publisher=[[Otto Harrassowitz]] | location=[[Wiesbaden]] | page=128 }}</ref>
+
+<ref name=allen1963>{{cite book | last1=Allen | first1=Richard H. | author-link=Richard Hinckley Allen | year=1963 | title=[[Star Names: Their Lore and Meaning]] | edition=reprint | publisher=[[Dover Publications]] Inc. | location=[[New York City|New York]], [[New York|NY]] | isbn=0-486-21079-0 | page=237 }}</ref>
+
+<ref name=scalzi2008>{{citation | first1=John | last1=Scalzi | title=Rough Guide to the Universe | publisher=Penguin | year=2008 | isbn=1-4053-8370-4 | page=306 | url=http://books.google.com/books?id=dTE00bLcbPMC&pg=PA306 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | title=AL NAIR (Alpha Gruis) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/alnair.html | accessdate=2011-12-26 }}
+
+{{Stars of Grus}}
+
+[[Category:Bayer objects|Gruis, Alpha]]
+[[Category:B-type main sequence stars]]
+[[Category:Grus (constellation)]]
+[[Category:Henry Draper Catalogue objects|209952]]
+[[Category:Hipparcos objects|109268]]
+[[Category:HR objects|8425]]
+[[Category:Stars with proper names]]
+
+[[de:Al Nair]]
+[[el:Αλ Ναΐρ]]
+[[es:Al Nair]]
+[[fa:بطن‌النایر]]
+[[fr:Alpha Gruis]]
+[[ko:두루미자리 알파]]
+[[hi:अल्फ़ा ग्रुईस तारा]]
+[[id:Alpha Gruis]]
+[[it:Al Na'ir]]
+[[he:אל-נאיר]]
+[[la:Alpha Gruis]]
+[[lb:Al Nair]]
+[[nl:Al Nair]]
+[[ja:アルナイル]]
+[[pl:Alnair]]
+[[pt:Alpha Gruis]]
+[[ru:Альнаир]]
+[[sk:Al Nair]]
+[[fi:Alfa Gruis]]
+[[zh:鶴一]]

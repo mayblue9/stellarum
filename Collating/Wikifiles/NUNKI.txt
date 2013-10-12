@@ -1,0 +1,128 @@
+{{Starbox begin 
+| name = Sigma Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 49.9%; top: 40.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of σ Sagittarii (circled)
+}}
+{{Starbox observe 
+| epoch    = J2000 
+| constell = [[Sagittarius (constellation)|Sagittarius]] 
+| ra       = {{RA|18|55|15.92650}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| dec      = {{DEC|–26|17|48.2068}}<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| appmag_v = 2.05<ref name=scfs/>
+}}
+{{Starbox character
+| class    = B2.5&nbsp;V<ref name=houk1979/>
+| b-v      = –0.204<ref name=apjs15_459/>
+| u-b      = –0.761<ref name=apjs15_459/>
+| variable = 
+}}
+{{Starbox astrometry 
+| radial_v = –11.2<ref name=scfs/>
+| prop_mo_ra  = +15.14<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| prop_mo_dec = –53.43<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| parallax = 14.32
+| p_error  = 0.29
+| parallax_footnote = <ref name=aaa323_L49/><ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = {{nowrap|7.8 ± 0.2}}<ref name=mnras410_1_190/>
+| radius   = 4.5<ref name=mnras189_601/>
+| luminosity  = 3,300<ref name=aaa501_1_297/>
+| temperature = 18,890<ref name=aaa501_1_297/>
+| metal_fe =
+| rotational_velocity = 165<ref name=apj573_1_359/>
+| age_myr  = {{nowrap|31.4 ± 0.4}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names = Nunki, Sadira, σ&nbsp;Sagittarii, σ&nbsp;Sgr, Sigma&nbsp;Sgr, 34&nbsp;Sagittarii, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J18552-2618A, [[Durchmusterung|CPD]]-27 &nbsp;5241, [[Fifth Fundamental Catalogue|FK5]]&nbsp;706, [[Boss General Catalogue|GC]]&nbsp;25941, [[Henry Draper catalogue|HD]]&nbsp;175191, [[Hipparcos catalogue|HIP]]&nbsp;92855, [[Bright Star Catalogue|HR]]&nbsp;7121, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;18491-2625 A, [[PPM Star Catalogue|PPM]]&nbsp;269078, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;187448, [[Washington Double Star Catalog|WDS]]&nbsp;J18553-2618Aa,Ab.
+}}
+{{Starbox end}}
+
+'''Sigma Sagittarii''' ('''Sigma&nbsp;Sgr''', '''σ&nbsp;Sagittarii''', '''σ&nbsp;Sgr''') is the second brightest [[star]] in the [[constellation]] [[Sagittarius (constellation)|Sagittarius]]. Its modern name '''Nunki''' is an [[Assyria]]n or [[Babylonian]] name recovered by [[archaeologist]]s and made public by R. H. Allen.<ref name=allen/> Nunki has an [[apparent magnitude]] of +2.05,<ref name=scfs/> making it readily visible to the naked eye. The distance to this star, determined using [[parallax]] measurements from the [[Hipparcos]] astrometry satellite,<ref name=GSM/> yields an estimated value of {{Convert|228|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa323_L49/><ref name=aaa474_2_653/>
+
+Nunki has a [[spectrum]] matching a [[stellar classification]] of B2.5&nbsp;V,<ref name=houk1979/> which indicates this is a [[B-type main sequence star]]. The total [[luminosity]] of σ Sgr is 3300<ref name=kaler/> times that of the [[Sun]] while it has a surface temperature of 18,890&nbsp;K.<ref name=aaa501_1_297/> X-ray emission has been detected from this star, which has an estimated X-ray luminosity of {{nowrap|1.2 × 10<sup>28</sup> erg s<sup>–1</sup>}}.<ref name=apj421_2_705/> Sigma Sgr has a magnitude +9.5 optical companion located 5.2 [[arcminute]]s away.{{citation needed|date=January 2012}}
+
+Because it is close to the [[ecliptic]], Nunki can be [[occultation|occulted]] by the [[Moon]] and very rarely by [[planet]]s. The last occultation of Nunki by a planet took place on November 17, 1981, when it was occulted by [[Venus]]. Furthermore, Nunki is the brightest star that can be principally occulted by an exterior planet. However, only Mars can do this, and only rarely; the last time was on September 3, 423.{{citation needed|date=January 2012}}
+
+==Name and etymology==
+*This star, together with :
+**[[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]], [[Epsilon Sagittarii|ε Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Lambda Sagittarii|λ Sgr]], [[Tau Sagittarii|τ Sgr]] and [[Phi Sagittarii|φ Sgr]], consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+**[[Phi Sagittarii|φ Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Chi Sagittarii|χ Sgr]] and [[Tau Sagittarii|τ Sgr]] were ''Al Naʽām al Ṣādirah'' (النعم السادرة), the Returning Ostriches.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+**[[Zeta Sagittarii|ζ Sgr]] and [[Pi Sagittarii|π Sgr]] may have been the Akkadian ''Gu-shi-rab‑ba'', the Yoke of the Sea.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|斗}} ({{lang|zh-Latn|Dǒu}}), meaning ''[[Dipper (Chinese constellation)|Dipper]]'', refers to an asterism consisting of σ Sagittarii, [[Phi Sagittarii|φ Sagittarii]], [[Lambda Sagittarii|λ Sagittarii]], [[Mu Sagittarii|μ Sagittarii]], [[Tau Sagittarii|τ Sagittarii]] and [[Zeta Sagittarii|ζ Sagittarii]]. Consequently, σ Sagittarii itself is known as {{lang|zh|斗宿四}} ({{lang|zh-Latn|Dǒu Sù sì}}, {{lang-en|the Fourth Star of Dipper}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982MSS...C03....0H }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first4=M. F. | last5=Torres | first5=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=apj421_2_705>{{citation | display-authors=1 | last1=Cassinelli | first1=J. P. | last2=Cohen | first2=D. H. | last3=Macfarlane | first3=J. J. | last4=Sanders | first4=W. T. | last5=Welsh | first5=B. Y. | title=X-ray emission from near-main-sequence B stars | journal=Astrophysical Journal, Part 1 | volume=421 | issue=2 | pages=705–717 | month=February | year=1994 | doi=10.1086/173683 | bibcode=1994ApJ...421..705C }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=allen>{{citation | page=359 | first1=Richard Hinckley | last1=Allen | title=Star Names, their lore and meaning}}</ref>
+
+<ref name=kaler>{{citation | first1=James B. Kaler | title=NUNKI (Sigma Sagatarii) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/nunki.html | accessdate=2012-01-31 }}</ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Sigma]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Binary stars]]
+[[Category:B-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Nunki (Stern)]]
+[[es:Nunki]]
+[[fa:سیگما کمان]]
+[[fr:Sigma Sagittarii]]
+[[ko:눈키]]
+[[hi:सिग्मा सैजिटेरियाइ तारा]]
+[[id:Sigma Sagittarii]]
+[[it:Sigma Sagittarii]]
+[[lb:Nunki (Stär)]]
+[[nl:Nunki]]
+[[ja:ヌンキ]]
+[[pl:Nunki]]
+[[pt:Sigma Sagittarii]]
+[[sk:Nunki]]
+[[fi:Sigma Sagittarii]]
+[[sv:Nunki]]
+[[zh:斗宿四]]

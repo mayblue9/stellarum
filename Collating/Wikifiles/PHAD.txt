@@ -1,0 +1,138 @@
+{{Starbox begin 
+| name = Gamma Ursae Majoris
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 38.0%; top: 36.1%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Ursae Majoris (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Ursa Major]]
+| ra       = {{RA|11|53|49.84732}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+53|41|41.1350}}<ref name=aaa474_2_653/>
+| appmag_v = +2.438<ref name=aaass65_2_405/>
+}}
+{{Starbox character
+| class    = A0&nbsp;Ve<ref name=apjss192_1_2/>
+| b-v      = –0.013<ref name=aaass65_2_405/>
+| u-b      = +0.008<ref name=aaass65_2_405/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = −12.6<ref name=scfs/>
+| prop_mo_ra  = +107.68<ref name=aaa474_2_653/>
+| prop_mo_dec = +11.01<ref name=aaa474_2_653/>
+| parallax = 39.21
+| p_error  = 0.40
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 2.62<ref name=apjss192_1_2/>
+| radius   = 3.04 ± 0.08<ref name=aj129_3_1642/>
+| luminosity = 
+| gravity  = 3.79<ref name=aj125_4_1980/>
+| temperature = 9,355<ref name=aj125_4_1980/>
+| metal_fe = 
+| age_gyr  = 0.3<ref name=apj653_1_675/>
+| rotational_velocity = 178<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+| names=Phad, Phecda, Phekda, Phegda, Phekha, Phacd, Fekda,<ref name=allen1899/> γ&nbsp;Ursae Majoris, γ&nbsp;UMa, Gamma&nbsp;UMa,  64&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+54&nbsp;1475, [[Fifth Fundamental Catalogue|FK5]]&nbsp;447, [[Boss General Catalogue|GC]]&nbsp;16268, [[Henry Draper Catalogue|HD]]&nbsp;103287, [[Hipparcos catalogue|HIP]]&nbsp;58001, [[Bright Star Catalogue|HR]]&nbsp;4554, [[PPM Star Catalogue|PPM]]&nbsp;33292, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;28179.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Gamma Ursae Majoris''' ('''Gamma&nbsp;UMa''', '''γ&nbsp;Ursae Majoris''', '''γ&nbsp;UMa''') is a [[star]] in the [[constellation]] [[Ursa Major]]  It has the traditional name '''Phad''', or '''Phecda'''. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> Based upon [[parallax]] measurements with the [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49/><ref name=GSM/> it is located at distance of around {{Convert|83.2|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+It is more familiar to most observers in the [[northern hemisphere]] as the lower-left star forming the bowl of the [[Big Dipper]], together with [[Alpha Ursae Majoris|Dubhe]] (upper-right), [[Beta Ursae Majoris|Merak]] (lower-right) and [[Delta Ursae Majoris|Megrez]] (upper-left). Along with four other stars in this well-known [[asterism (astronomy)|asterism]], Phecda forms an actual loose, association of stars known as the [[Ursa Major moving group]].<ref name=aj125_4_1980/> Like the other stars in the group, it is a [[main sequence]] star not unlike our [[Sun]], although somewhat hotter, brighter and larger.
+
+Gamma Ursae Majoris is an [[Ae star]], which is surrounded by an envelope of gas that is adding [[emission line]]s to the [[spectrum]] of the star;<ref name=aas130_507/> hence the 'e' suffix in the [[stellar classification]] of A0&nbsp;Ve.<ref name=apjss192_1_2/> It has 2.6<ref name=apjss192_1_2/> times the mass of the Sun, three times the Sun's radius,<ref name=aj129_3_1642/> and an [[effective temperature]] of 9,355&nbsp;K in its outer atmosphere.<ref name=aj125_4_1980/> This star is rotating rapidly, with a [[stellar rotation|projected rotational velocity]] of {{nowrap|178 km s<sup>–1</sup>}}.<ref name=aaa463_2_671/> The estimated [[angular diameter]] of this star is about 0.92&nbsp;[[milliarcsecond|mas]].<ref name=aj118_6_3032/> It has an estimated age of 300 million years.<ref name=apj653_1_675/>
+
+Phecda is located in relatively close physical proximity to the prominent [[Mizar and Alcor|Mizar-Alcor]] star system. The two are separated by an estimated distance of {{Convert|8.55|ly|pc|abbr=on|lk=off}}; much closer than the two are from the Sun. The star [[Beta Ursae Majoris]] is separated from Gamma UMa by {{Convert|11.0|ly|pc|abbr=on|lk=off}}.<ref name=apjss192_1_2/>
+
+==Name and etymology==
+*The traditional name ''Phad'', or ''Phecda'' comes from the Arabic phrase فخذ الدب "fakhð ad-dubb" ("thigh of the bear").<ref name=garfinkle/>
+*This star as ''Pulastya'', one of the Seven Rishis.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=438}}</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|北斗}} ({{lang|zh-Latn|Běi Dǒu}}), meaning ''[[Purple Forbidden enclosure|Northern Dipper]]'', refers to an asterism consisting of γ Ursae Majoris, [[Alpha Ursae Majoris|α Ursae Majoris]], [[Beta Ursae Majoris|β Ursae Majoris]], [[Delta Ursae Majoris|δ Ursae Majoris]], [[Epsilon Ursae Majoris|ε Ursae Majoris]], [[Zeta Ursae Majoris|ζ Ursae Majoris]] and [[Eta Ursae Majoris|η Ursae Majoris]]. Consequently, γ Ursae Majoris itself is known as {{lang|zh|北斗三}} ({{lang|zh-Latn|Běi Dǒu sān}}, {{lang-en|the Third Star of Northern Dipper}}) and {{lang|zh|天璣}} ({{lang|zh-Latn|Tiān Jī}}, {{lang-en|Star of Celestial Shining Pearl}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060615.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 15 日]</ref>
+
+==See also==
+*[[Stars and planetary systems in fiction#Phecda (Gamma Ursae Majoris)|Gamma Ursae Majoris in fiction]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–4 }}</ref>
+
+<ref name=apjss192_1_2>{{citation | last1=Shaya | first1=Ed J. | last2=Olling | first2=Rob P. | title=Very Wide Binaries and Other Comoving Stellar Companions: A Bayesian Analysis of the Hipparcos Catalogue | journal=The Astrophysical Journal Supplement | volume=192 | issue=1 | page=2 | month=January | year=2011 | doi=10.1088/0067-0049/192/1/2 | bibcode=2011ApJS..192....2S |arxiv = 1007.0425 }}</ref>
+
+<ref name=aj125_4_1980>{{citation | display-authors=1 | last1=King | first1=Jeremy R. | last2=Villarreal | first2=Adam R. | last3=Soderblom | first3=David R. | last4=Gulliver | first4=Austin F. | last5=Adelman | first5=Saul J. | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group | journal=The Astronomical Journal | volume=125 | issue=4 | pages=1980–2017 | month=April | year=2003 | doi=10.1086/368241 | bibcode=2003AJ....125.1980K }}</ref>
+
+<ref name=aas130_507>{{citation | last1=Jaschek | first1=C. | last2=Andrillat | first2=Y. | title=AE and A type shell stars | journal=Astronomy and Astrophysics Supplement | volume=130 | pages=507–512 | month=June | year=1998 | doi=10.1051/aas:1998101 | bibcode=1998A&AS..130..507J }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+<ref name=SIMBAD>{{citation | title=PHECDA -- Emission-line Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Ursae+Majoris | accessdate=2011-12-29 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA438 }}</ref>
+
+<ref name=garfinkle>{{citation | first1=Robert A. | last1=Garfinkle | title=Star-Hopping: Your Visa to Viewing the Universe | publisher=Cambridge University Press | year=1997 | isbn=0-521-59889-3 | page=118 | url=http://books.google.com/books?id=40JzBYGREL0C&pg=PA118 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=aj129_3_1642>{{citation | last1=Fitzpatrick | first1=E. L. | last2=Massa | first2=D. | title=Determining the Physical Properties of the B Stars. II. Calibration of Synthetic Photometry | journal=The Astronomical Journal | volume=129 | issue=3 | pages=1642–1662 | month=March | year=2005 | doi=10.1086/427855 | bibcode=2005AJ....129.1642F |arxiv = astro-ph/0412542 }}</ref>
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Gamma]]
+[[Category:Ursa Major (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الفخذة (نجم)]]
+[[cs:Phekda]]
+[[de:Phekda]]
+[[el:Φέκντα]]
+[[es:Phecda]]
+[[fa:فخذ]]
+[[fr:Gamma Ursae Majoris]]
+[[fur:Phecda]]
+[[ko:페크다]]
+[[hi:पुलस्त्य तारा]]
+[[it:Phecda]]
+[[he:פקדא]]
+[[kk:Ақбозат]]
+[[lb:Phekda (Stär)]]
+[[nl:Phad]]
+[[ja:フェクダ]]
+[[no:Phad]]
+[[pl:Phekida]]
+[[pt:Gamma Ursae Majoris]]
+[[ru:Фекда]]
+[[sk:Phekda]]
+[[fi:Gamma Ursae Majoris]]
+[[sv:Phecda]]
+[[zh:天璣]]

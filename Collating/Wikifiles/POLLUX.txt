@@ -1,0 +1,191 @@
+{{Starbox begin
+| name = Pollux
+}}
+{{Starbox image
+| image = [[File:Gemini constellation map.svg|250px]]
+| caption = The position of Pollux within the constellation of Gemini.
+}}
+{{Starbox observe
+| epoch    = J2000.0
+| constell = [[Gemini (constellation)|Gemini]]
+| ra       = {{RA|07|45|18.94987}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+28|01|34.3160}}<ref name=aaa474_2_653/>
+| appmag_v = 1.14<ref name=apj162_217/>
+}}
+{{Starbox character
+| class    = K0&nbsp;III<ref name=araa11_29/>
+| r-i      = <!--R-I color-->
+| v-r      = <!--V-R color-->
+| b-v      = +1.00<ref name=apj162_217/>
+| u-b      = +0.86<ref name=apj162_217/>
+| variable = ''Suspected''
+}}
+{{Starbox astrometry
+| radial_v = +3.23<ref name=aaa430_165/>
+| prop_mo_ra  = –626.55<ref name=aaa474_2_653/>
+| prop_mo_dec = –45.80<ref name=aaa474_2_653/>
+| parallax = 96.54
+| p_error  = 0.27
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|+1.08 ± 0.02}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail
+| mass     = {{nowrap|2.04 ± 0.3}}<ref name=aaa504_1_231/>
+| radius   = {{nowrap|8.8 ± 0.1}}<ref name=aaa457_335/>
+| luminosity  = 43<ref name=aaa352_495/>
+| temperature = {{nowrap|4,666 ± 95}}<ref name=aaa457_335/>
+| metal_fe = –0.07 to +0.19<ref name=aaa457_335/>
+| rotational_velocity = 2.8<ref name=aj135_1_209/>
+| rotation = 558&nbsp;days<ref name=mnras374_1_220/>
+| gravity  = {{nowrap|2.685 ± 0.09}}<ref name=aaa457_335/>
+| age_myr = 724<ref name=pasj60_4_781/>
+}}
+{{Starbox catalog
+| names = [[Bayer designation|Beta Geminorum]], [[Flamsteed designation|78 Geminorum]], [[Bonner Durchmusterung|BD]]+28°1463, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;1826.00, [[Gliese-Jahreiss catalogue|Gliese]]&nbsp;286, [[Henry Draper catalogue|HD]]&nbsp;62509, [[Hipparcos Catalogue|HIP]]&nbsp;37826, [[Bright Star Catalogue|HR]]&nbsp;2990, [[Luyten Five-Tenths catalogue|LFT]]&nbsp;548, [[Luyten Half-Second catalogue|LHS]]&nbsp;1945, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;12065, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;79666.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad = HD+62509
+| ARICNS = 4c00589
+}}
+{{Starbox end}}
+
+'''Pollux''' (β Gem, β Geminorum, Beta Geminorum) is a [[star]] in the northern [[constellation]] of [[Gemini (constellation)|Gemini]], the [[Twins]]. It is an [[stellar evolution|evolved]] [[giant star]] with an orange hue. At an [[apparent visual magnitude]] of 1.1,<ref name=apj162_217/> Pollux is the [[list of brightest stars|brightest star]] in the constellation; brighter even than its neighbor [[Castor (star)|Castor]] (Alpha Geminorum). [[Parallax]] measurements made with the [[Hipparcos]] astrometry satellite<ref name=aaa323_L49/><ref name=GSM/> place it at a distance of about {{Convert|33.78|ly|pc|abbr=off|lk=on}} from [[Earth]]<ref name=aaa474_2_653/>. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> In 2006, Pollux was confirmed to have an [[extrasolar planet]] orbiting it.<ref name=aaa457_335/>
+
+==Properties==
+This star is larger than the Sun, with about two times its mass and almost nine times its radius.<ref name=aaa457_335/> Once an [[A-type main sequence star]],<ref name=aaa504_1_231/> Pollux has exhausted the hydrogen at its core and [[stellar evolution|evolved]] into a [[giant star]] with a [[stellar classification]] of K0&nbsp;III.<ref name=araa11_29/> The [[effective temperature]] of this star's outer envelope is about 4,666&nbsp;K,<ref name=aaa457_335/> which lies in the range that produces the characteristic orange hue of K-type stars.<ref name=csiro/> Pollux appears to be rotating at a leisurely rate, with a [[stellar rotation|protected rotational velocity]] of {{nowrap|2.8 km s<sup>–1</sup>}}.<ref name=aj135_1_209/> The abundance of elements other than hydrogen and helium, what astronomers term the star's [[metallicity]], is somewhat uncertain, with estimates ranging from 85% to 155% of the Sun's abundance.<ref name=aaa457_335/><ref name=metal/>
+
+Evidence for a low level of [[stellar magnetic field|magnetic activity]] came from the detection of weak X-ray emission using the [[ROSAT]] orbiting telescope. The X-ray emission from this star is about 10<sup>27</sup> erg s<sup>–1</sup>, which is roughly the same as the X-ray emission from the Sun. A magnetic field with a strength below 1 [[Gauss (unit)|Gauss]] has since been confirmed on the surface of Pollux; one of the weakest fields ever detected on a star. The presence of this field suggests that Pollux was once an [[Ap star]] with a much stronger magnetic field.<ref name=aaa504_1_231/>
+
+== In various cultures ==
+The name Pollux refers specifically to [[Castor and Pollux]], the sons of [[Leda (mythology)|Leda]].<ref name=ILLINOIS>{{cite web | title=Pollux | url=http://stars.astro.illinois.edu/sow/pollux.html | work=STARS | publisher=[[University of Illinois]], [[Urbana, Illinois|Urbana]]&ndash;[[Champaign, Illinois|Champaign]] [[University of Illinois at Champaign-Urbana|Campus]] | year=2008 | accessdate=2009-05-29}}</ref> The star also bears [[Arabic]] name ''Al-Ras al-Tau'am al-Mu'akhar'',(الرأس التؤام المؤخر), literally, 'The Head of the Second Twin.' Castor and Pollux together correspond to the [[Nakshatra]] [[Punarvasu]] in [[Hindu]] [[Hindu calendar|astronomy]]. The star is named ''Punartham'' in [[Malayalam]].
+
+Castor and Pollux are the two 'heavenly twin' stars giving the constellation Gemini (Latin, 'the twins') its name. The stars, however, are quite different in detail. Castor is a complex sextuple system of hot, bluish-white A-type stars and dim red dwarfs, while Pollux is a single, cooler yellow-orange [[Giant star|giant]].
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Muekher al Dzira''', which was translated into [[Latin]] as '''Posterior Brachii''', meaning ''the end in the paw''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|北河}} ({{lang|zh-Latn|Běi Hé}}), meaning ''[[Well (Chinese constellation)|North River]]'', refers to an asterism consisting of Pollux, [[Rho Geminorum|ρ Geminorum]] and [[Castor (star)|Castor]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, Pollux itself is known as {{lang|zh|北河三}} ({{lang|zh-Latn|Běi Hé sān}}, {{lang-en|the Third Star of North River}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+== Planetary system ==
+
+The detection of a suspected [[extrasolar planet]] [[Pollux b|Pollux&nbsp;b]] was announced on June 16, 2006. Pollux&nbsp;b is calculated to have a mass at least 2.3 times that of [[Jupiter]]. It is orbiting Pollux with a period of about 590&nbsp;days.<ref name=aaa457_335/>
+
+{{OrbitboxPlanet begin
+| name = Pollux
+| table_ref = <ref name=aaa457_335/> }}
+{{OrbitboxPlanet
+| exoplanet = [[Pollux b|b]]
+| mass = >2.30 ± 0.45
+| period = 589.64 ± 0.81
+| semimajor = 1.64 ± 0.27
+| eccentricity = 0.02 ± 0.03
+}}
+{{Orbitbox end}}
+
+== See also ==
+* [[Aldebaran]]
+* [[Castor (star)]]
+* [[Stars and planetary systems in fiction#Pollux (Beta Geminorum)|Pollux in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=apj162_217>{{citation | last1=Lee | first1=T. A. | title=Photometry of high-luminosity M-type stars | journal=Astrophysical Journal | volume=162 | page=217 | month=October | year=1970 | doi=10.1086/150648 | bibcode=1970ApJ...162..217L }}</ref>
+
+<ref name=aaa457_335>{{citation | display-authors=1 | last1=Hatzes | first1=A. P. | last2=Cochran | first2=W. D. | last3=Endl | first3=M. | last4=Guenther | first4=E. W. | last5=Saar | first5=S. H. | last6=Walker | first6=G. A. H. | last7=Yang | first7=S. | last8=Hartmann | first8=M. | last9=Esposito | first9=M. | title=Confirmation of the planet hypothesis for the long-period radial velocity variations of β Geminorum  | journal=[[Astronomy and Astrophysics]] | volume=457 | year=2006 | pages=335–341 | doi=10.1051/0004-6361:20065445 |arxiv=astro-ph/0606517 | bibcode=2006A&A...457..335H }}</ref>
+
+<ref name=aaa504_1_231>{{citation | display-authors=1 | last1=Aurière | first1=M. | last2=Wade | first2=G. A. | last3=Konstantinova-Antova | first3=R. | last4=Charbonnel | first4=C. | last5=Catala | first5=C. | last6=Weiss | first6=W. W. | last7=Roudier | first7=T. | last8=Petit | first8=P. | last9=Donati | first9=J.-F. | title=Discovery of a weak magnetic field in the photosphere of the single giant Pollux | journal=Astronomy and Astrophysics | volume=504 | issue=1 | pages=231–237 | month=September | year=2009 | doi=10.1051/0004-6361/200912050 | bibcode=2009A&A...504..231A |arxiv = 0907.1423 }}</ref>
+
+<ref name=mnras374_1_220>{{citation | last1=Koncewicz | first1=R. | last2=Jordan | first4=C. | title=OI line emission in cool stars: calculations using partial redistribution | journal=Monthly Notices of the Royal Astronomical Society | volume=374 | issue=1 | pages=220–231 | month=January | year=2007 | doi=10.1111/j.1365-2966.2006.11130.x | bibcode=2007MNRAS.374..220K }}</ref>
+
+<ref name=SIMBAD>{{citation | title=POLLUX -- Variable Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Geminorum | accessdate=2012-01-14 }}</ref>
+
+<ref name=metal>The abundance is determined by taking the value of [Fe/H] in the table to the power of 10. Hence, 10<sup>–0.07</sup> = 0.85 while 10<sup>+0.19</sup> = 1.55.</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+<ref name=pasj60_4_781>{{citation | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar parameters and elemental abundances of late-G giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T |arxiv = 0805.2434 }}</ref>
+
+}}
+
+== External links ==
+{{Commons category|Pollux (star)}}
+* {{cite web |url=http://exoplanet.eu/star.php?st=HD+62509 |title=Notes for star HD 62509 |accessdate=2008-06-24 |work=The Extrasolar Planets Encyclopaedia}}
+* {{cite web |url=http://www.solstation.com/stars2/pollux.htm |title=Pollux |accessdate=<!--2008-06-24-->2005-11-21 |work=SolStation}}
+* {{cite journal |title=Precise Radial Velocities of Giant Stars II. Pollux and its Planetary Companion |accessdate=2008-06-24 |work=[[arXiv]] |date=2006-07-07 |author1=Sabine Reffert |author2=Andreas Quirrenbach |pages=661–665 |author3=Mitchell |author4=Simon Albrecht |volume=652 |author5=Saskia Hekker |author6=Fischer |author7=Marcy |author8=Paul Butler |doi=10.1086/507516 |journal=Astrophys.J. |arxiv=astro-ph/0607136 |bibcode=2006ApJ...652..661R}}
+{{Sky|07|45|19.4||28|01|35|34}}
+
+{{Nearest star systems|7}}
+{{Stars of Gemini}}
+
+[[Category:Bayer objects|Geminorum, Beta]]
+[[Category:Flamsteed objects|Geminorum, 78]]
+[[Category:Henry Draper Catalogue objects|062509]]
+[[Category:Hipparcos objects|037826]]
+[[Category:HR objects|2990]]
+[[Category:Gemini (constellation)]]
+[[Category:K-type giants]]
+[[Category:Planetary systems]]
+[[Category:Stars with proper names]]
+
+[[ar:رأس التوأم المؤخر]]
+[[az:Polluks]]
+[[be:Палукс]]
+[[ca:Pòl·lux (estrella)]]
+[[cs:Pollux (hvězda)]]
+[[da:Pollux]]
+[[de:Pollux (Stern)]]
+[[el:Πολυδεύκης (αστέρας)]]
+[[es:Pólux (estrella)]]
+[[fa:رأس پیکر پسین]]
+[[fr:Pollux (étoile)]]
+[[ko:폴룩스]]
+[[hi:पुनर्वसु-पॅलक्स तारा]]
+[[id:Beta Geminorum]]
+[[it:Polluce (astronomia)]]
+[[he:פולוקס]]
+[[ku:Pollux (stêr)]]
+[[la:Pollux (astronomia)]]
+[[lb:Pollux (Stär)]]
+[[lt:Poluksas (žvaigždė)]]
+[[hu:Pollux (csillag)]]
+[[mk:Полукс (ѕвезда)]]
+[[ml:പുണര്‍തം (നക്ഷത്രം)]]
+[[mr:पोलक्स]]
+[[nl:Pollux (ster)]]
+[[ja:ポルックス (恒星)]]
+[[no:Pollux]]
+[[pl:Polluks (gwiazda)]]
+[[pt:Pólux (estrela)]]
+[[ro:Pollux (stea)]]
+[[ru:Поллукс (звезда)]]
+[[sk:Pollux (hviezda)]]
+[[fi:Pollux]]
+[[sv:Pollux (stjärna)]]
+[[tr:Pollux]]
+[[uk:Полукс (зоря)]]
+[[zh:北河三]]

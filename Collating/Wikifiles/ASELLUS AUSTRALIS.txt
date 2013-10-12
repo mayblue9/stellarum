@@ -1,0 +1,120 @@
+{{Starbox begin |
+| name=Asellus Australis, δ Cancri}}
+{{Starbox image |
+| image =[[Image:Cancer constellation map.png|250px]]
+| caption = Asellus Australis is the central star in the "crab"
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| constell = [[Cancer (constellation)|Cancer]]
+| ra = {{RA|08|44|41.1}}
+| dec = {{DEC|+18|09|15}}
+| appmag_v = +3.94
+}}
+{{Starbox character
+| class = K0III
+| b-v = 1,08
+| u-b = 0,99
+| variable = unknown
+}}
+{{Starbox astrometry
+| radial_v = +17.1
+| prop_mo_ra = -17.10
+| prop_mo_dec = -228.46
+| gal_lat = +32.8988
+| gal_lon = 208.0259
+| parallax = 23.97
+| p_error = 0.97 0.64 95
+| dist_ly = 136 ± 5
+| dist_pc = 42 ± 1
+| absmag_v = 0.824
+}}
+{{Starbox catalog
+| names = Asellus Australis, Juzhnyj Oslenok, 47&nbsp;Cancri, [[Harvard Revised catalogue|HR]]&nbsp;3461, [[Henry Draper Catalogue|HD]]&nbsp;74442, [[Bonner Durchmusterung|BD]]+18°2027, [[Fifth Fundamental Catalogue|FK5]]&nbsp;326, [[Hipparcos catalogue|HIP]]&nbsp;42911, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;98087, GC&nbsp;12022, [[Star catalogue#ADS|ADS]]&nbsp;6967, CCDM&nbsp;08447+1809
+}}
+{{Starbox reference |
+  Simbad=HR3461}}
+{{Starbox end}}
+
+'''Delta Cancri''' (δ Cnc, δ Cancri) is an [[orange giant]] [[star]] approximately 180 [[light-year]]s away in the [[constellation]] [[Cancer (constellation)|Cancer]]. It has the traditional name '''Asellus Australis''' which in [[Latin language|Latin]] means "southern [[donkey]] colt". It also has the longest of all known star names, '''Arkushanangarushashutu''', derived from ancient Babylonian{{Clarify|reason=no such language!|date=August 2010}} which means "the southeast star in the Crab".<ref>Allen, Richard Hinckley, ''[[Star Names: Their Lore and Meaning]]'',  1898.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|鬼宿}} ({{lang|zh-Latn|Guǐ Su}}), meaning ''[[Ghost (Chinese constellation)|Ghost]] (asterism)'', refers to an asterism consisting of δ Cancri, [[Theta Cancri|θ Cancri]], [[Eta Cancri|η Cancri]] and [[Gamma Cancri|γ Cancri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Cancri itself is known as {{lang|zh|鬼宿四}} ({{lang|zh-Latn|Guǐ Su sì}}, {{lang-en|the Fourth Star of Ghost}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Since it is near the [[ecliptic]], it can be [[occultation|occulted]] by the [[Moon]] and very rarely by [[planet]]s.
+
+==History==
+Delta Cancri was involved in the first recorded occultation by Jupiter:
+
+{{quote|"The most ancient observation of  Jupiter which we are acquainted with is that reported by Ptolemy in book X, chap. iii (sic), of the Almagest, ...when the planet eclipsed the star known as (Delta) Cancri. This observation was made on September 3, B.C. 240, about 18h on the meridian of Alexandria."|Allen, 1898, quoting from ''Hind's  The Solar System'').}}
+
+Delta Cancri also marks the famous open star cluster Praesepe (or the [[Beehive Cluster]], also known as Messier 44). In ancient times M44 was used as a weather gauge as the following Greek rhyme from Aratos' ''Prognostica'' reveals:
+
+{{quote|A murky manger with both stars
+
+Shining unaltered is a sign of rain.
+
+While if the northern Ass is dimmed
+
+By vaporous shroud, he of  the south gleam radiant,
+
+Expect a south wind: the vaporous shroud and radiance
+
+Exchanging stars harbinger Boreas.|Allen, 1898}}
+
+The meaning of this verse is that if Asellus Borealis or Gamma Cancris<ref>Kaler, 2009:{{cite web|url=http://www.astro.illinois.edu/~jkaler/sow/asellusbor.html |title=ASELLUS BOREALIS}}</ref> is hidden by clouds, the wind will be from the south and that situation will be reversed if Arkushanangarushashutu is obscured. There is some doubt however as to the accuracy of this as Allen notes: "Our modern Weather Bureau would probably tell us that if one of these stars were thus concealed, the other also would be." (Allen, 1898)
+
+==Other==
+But Delta Cancri also acts as more than just a dubious weather guide: it is a reliable signpost for finding the vividly red star X Cancri as Patrick Moore notes in his guidebook ''Stars of the Southern Skies'':
+
+{{quote|“In the same binocular field with Delta [Cancri] you will find one of the reddest stars in the sky: X Cancri. It is a semi-regular variable; at maximum it rises to magnitude 5 and it never falls below 7.3 so that it can always be seen with binoculars. It looks rather like a tiny glowing coal.”|Page 146, Moore, 1994.}}
+
+Delta Cancri also marks the radiant of the [[Delta Cancrids]] meteor shower.
+
+In 1876, the possibility of Delta Cancri having a [[binary star|companion]] star was proposed.<ref>{{cite web|url=http://adsabs.harvard.edu/abs/1878Obs.....2...60B|title=The companion to delta Cancri|work=Astronomy Abstract Service|accessdate=June 1876}}</ref>
+
+==See also==
+* [[Gamma Cancri]] (Asellus Borealis)
+* [[Beehive Cluster]] (Messier 44, Praesepe)
+* [[55 Cancri]]
+* [[Aldebaran]]
+* [[Pollux (star)]]
+* [[Delta Cancrids]] (meteor shower)
+
+==References==
+{{Reflist}}
+
+===books===
+* Allen, Richard Hinckley,  ''[[Star Names: Their Lore and Meaning]]'',  Dover, 1898.
+* Burnham, Robert Jnr., ''Burnham's Celestial Handbook,'' Dover publications, 1978.
+* Beresford Tony, Personal Communication (Letter on d Cancris.) 1997.
+* Guinness, '' The Guinness Book of Records,'' Guinness Publishing, 1991.
+* Kaler, James, B, ''‘The Cambridge Encyclopaedia of Stars’'', Cambridge University Press, 2006.
+* Motz, Lloyd & Nathanson, Carol, Constellations, Aurum Press, 1991.
+* Moore, Patrick, ''Atlas of the Universe'', Phillips, 1994.
+* Moore, Patrick, ''Stars of the Southern Skies,'' Penguin books, 1994.
+
+==External links==
+* [http://user.tninet.se/~sdt522w/tse198103.jpg Asellus Australis photo]
+* [http://meteorshowersonline.com/showers/delta_cancrids.html]
+
+{{Stars of Cancer}}
+
+[[Category:Bayer objects|Cancri, Delta]]
+[[Category:Cancer (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Asellus Australis]]
+[[es:Asellus Australis]]
+[[eu:Asellus Australis]]
+[[fa:دلتا خرچنگ]]
+[[fr:Delta Cancri]]
+[[id:Delta Cancri]]
+[[it:Asellus Australis]]
+[[lb:Asellus Australis (Stär)]]
+[[nl:Asellus Australis]]
+[[pt:Delta Cancri]]
+[[ru:Дельта Рака]]
+[[sk:Asellus Australis]]
+[[fi:Delta Cancri]]
+[[zh:鬼宿四]]

@@ -1,0 +1,577 @@
+{{Starbox begin
+| name = Eta Carinae
+}}
+{{Starbox image
+| image = [[File:EtaCarinae.jpg|250px]]
+| caption = [[Hubble Space Telescope]] image showing Eta Carinae and the bipolar [[Homunculus Nebula]] which surrounds the star. The Homunculus was partly created in an eruption of Eta Carinae, the light from which reached Earth in 1843. Eta Carinae itself appears as the white patch near the center of the image, where the two lobes of the Homunculus touch.
+}}
+{{Starbox observe
+| epoch = J2000
+| ra = {{RA|10|45|03.591}}<ref name="SIMBAD" />
+| dec = {{DEC|−59|41|04.26}}<ref name="SIMBAD" />
+| appmag_v = −0.8 to 7.9<ref name="GCVS-Eta-Car" /> (4.6 February 2012)<ref name="Fernández Lajús 2011" />
+| constell = [[Carina (constellation)|Carina]]
+}}
+{{Starbox character
+| class = BIae-0 / OI<ref name="cox">
+{{cite web
+| url =http://iopscience.iop.org/0004-637X/624/2/973/fulltext/60929.text.html
+| title = The Binarity of η Carinae Revealed from Photoionization Modeling of the Spectral Variability of the Weigelt Blobs B and D
+| publisher = The Astrophysical Journal
+| accessdate = 2012-05-23
+}}—some of the data is located under "Measurements".
+</ref>
+
+
+| b-v = 0.61
+| u-b = -0.45
+| variable = [[Luminous blue variable|LBV]]<ref name="GCVS-Eta-Car" /> & [[binary star|binary]]
+}}
+{{Starbox astrometry
+| radial_v = −25.0<ref name="SIMBAD" />
+| prop_mo_ra = −7.6<ref name="SIMBAD" />
+| prop_mo_dec = 1.0<ref name="SIMBAD" />
+| parallax =
+| p_error =
+| parallax_footnote =
+| distance_ly = 7.5k
+| distance_pc = 2.3k<ref name="Kashi">{{cite doi|10.1111/j.1365-2966.2012.20984.x}}</ref>
+| absmag_v = -7 (current)
+}}
+{{Starbox detail
+| mass = 120 / 30<ref name="Kashi">{{cite doi|10.1016/j.newast.2008.04.003}}</ref>
+| radius = ~240<ref>{{cite doi|10.1017/S1743921310009890}}</ref><ref group="n">The mass is so high that there is no clearly defined boundary between the star and the surrounding nebula. The effective temperature and radius correspond to a position where τ(ross) is around unity.</ref> / 24<ref name="cox"/>
+| luminosity = 5,000,000 / 1,000,000<ref name="cox"/>
+| temperature = ~15,000<ref>{{cite doi|10.1086/426885}}</ref> / 37,200<ref name="cox"/>
+| metal =
+| rotation =
+| Orbital Period = 5.52–5.54yr
+| age = ~ <3 × 10<sup>6</sup>
+}}
+{{Starbox catalog
+| names = Foramen, Tseen She, 231 G. Carinae,<ref name="VIZIER" /> [[Harvard Revised catalogue|HR]]&nbsp;4210, [[Cordoba Durchmusterung|CD]]−59°2620, [[Henry Draper catalogue|HD]]&nbsp;93308, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;238429, WDS&nbsp;10451-5941, IRAS&nbsp;10431-5925, GC&nbsp;14799, CCDM&nbsp;J10451-5941
+}}
+{{Starbox end}}
+'''Eta Carinae''' (η Carinae or η Car) is a [[Star system|stellar system]] in the [[constellation]] [[Carina (constellation)|Carina]], about 7,500 to 8,000 [[light-year]]s from [[Sun|the Sun]]. The system contains at least two stars, one of which is a luminous blue variable (LBV), which during the early stages of its life had a mass of around 150 solar masses, of which it has lost at least 30 since. It is thought that a hot [[supergiant]] of approximately 30 solar masses exists in orbit around its larger companion star, although an enormous thick red nebula surrounding Eta Carinae makes it impossible to see optically. Eta Carinae is enclosed in the [[Homunculus Nebula]], itself part of the much larger [[Carina Nebula]]. It has a combined luminosity about five million times that of the Sun and an estimated system mass in excess of 100 [[solar mass]]es.<ref name="Kashi" /> It is not visible north of [[30th parallel north|latitude 30°N]] and is [[circumpolar star|circumpolar]] south of [[30th parallel south|latitude 30°S]]. Because of its mass and the stage of life, it is expected to explode in a [[supernova]] or even [[hypernova]] in the astronomically near future.
+
+==Observational history==
+When Eta Carinae was first catalogued in 1677 by [[Edmond Halley]], it was of the 4th [[Apparent magnitude|magnitude]], but by 1730, observers noticed it had brightened considerably and was, at that point, one of the brightest stars in Carina.
+
+[[Nicolas Louis de Lacaille]] mapped and gave the stars of [[Argo Navis]] [[Bayer designation]]s in the mid 18th century. He assigned the then second magnitude star the Greek letter Eta.{{sfn|Wagman|2003|pp=84–85}}
+
+Subsequently it dimmed again, and by 1782 it appeared to have reverted to its former obscurity. In 1820, it was observed to be growing in brightness again. By 1827, it had brightened more than tenfold and reached its greatest apparent brightness in April 1843. With a magnitude of −0.8, it was the second brightest star in the night-time sky (after [[Sirius]] at 8.6 light years away), despite its enormous distance. (To put the relationship in perspective, the relative brightness would be like comparing a candle (representing Sirius) at 14.5 meters (48&nbsp;feet) to another light source (Eta Carinae) about {{convert|10|km|mi|sp=us}} away, which would appear almost as bright as the candle.)
+
+Eta Carinae sometimes has large outbursts, the last of which appeared in 1841, at around the time of its maximum brightness. The reason for these outbursts is not known. The most likely explanation is that they are caused by a build-up of [[radiation pressure]] from the star's enormous [[luminosity]].{{citation needed|date=September 2011}} After 1843, Eta Carinae faded and between about 1900 and 1940 it was only 8th magnitude, invisible to the naked eye.<ref name="etacurve" /> A sudden and unexpected doubling of brightness was observed in 1998–1999. In 2007, at magnitude 5, Eta Carinae could be seen with the naked eye.<ref name="Fernández Lajús 2011" />
+
+In 2008, the formerly clockwork regularity of the dimming was upset.<ref name="unexpected" /> Following its 5.52-year cycle, the star would normally have started its next dimming in January 2009, but the pattern was noticed starting early in July 2008 by the southern [[Gemini Observatory]] near [[La Serena, Chile]]. Spectrographic measurements showed an increase in blue light from superheated [[helium]], which was formerly assumed to occur with the wind shock. However, if the cause is a binary star, it would be located too far away at this point in time for the wind to interact in so significant a fashion. There is some debate about the cause of the recent event.<ref name="unexpected" />
+
+In 2011, [[light echo]]es from the 19th century Great Eruption of Eta Carinae were detected using the [[National Optical Astronomy Observatory|U.S. National Optical Astronomy Observatory's]] [[Víctor M. Blanco Telescope|Blanco 4-meter telescope]] at the [[Cerro Tololo Inter-American Observatory]]. Analysis of the reflected spectra indicated the light was emitted when Eta Carinae was a 5000 [[Kelvin|K]] G2-to-G5 supergiant, some 2000 [[Kelvin|K]] cooler than other [[supernova imposter]] events.<ref name="Rest 2012" />
+
+== System and properties==
+This stellar system is currently one of the most massive that can be studied in great detail. Until recently, Eta Carinae was thought to be the most massive single star, but in 2005 it was realised to be a binary system.<ref name="massive" /> The most massive star in the Eta Carinae multiple star system probably has more than 100 times the mass of the Sun.<ref name="Frommert Kronberg 1998" /> Other known massive stars are [[List of most luminous stars|more luminous]] and [[List of most massive stars|more massive]].
+
+Stars in the mass class of Eta Carinae produce more than a million times as much light as the Sun. They are quite rare&nbsp;— only a few dozen in a galaxy as big as the [[Milky Way]]. They are assumed to approach (or potentially exceed) the [[Eddington limit]], i.e., the outward pressure of their radiation is almost strong enough to counteract gravity. Stars that are more than 120 solar masses exceed the theoretical Eddington limit, and their gravity is barely strong enough to hold in their radiation and gas.
+
+Eta Carinae's chief significance for astrophysics is based on its giant eruption or [[supernova impostor]] event, which was observed around 1843. In a few years, Eta Carinae produced almost as much visible light as a supernova explosion, but it survived. Other supernova impostors have been seen in other galaxies, for example the possible false supernovae [[SN 1961v]] in [[NGC 1058]]<ref name="Stockdale_2001" /> and [[SN 2006jc]] in [[UGC 4904]],<ref name="Naeye2007" /> which produced a false supernova, noted in October 2004. Significantly, SN 2006jc was destroyed in a supernova explosion two years later, observed on October 9, 2006.<ref name="Shiga2007" /> The supernova impostor phenomenon may represent a surface instability<ref name="ASP 332" /> or a failed supernova. Eta Carinae's giant eruption was the prototype for this phenomenon.
+
+One remarkable aspect of Eta Carinae is its changing brightness. It is currently classified as a [[luminous blue variable|luminous blue]] [[variable star|variable]] (LBV) [[binary star]] due to peculiarities in its pattern of brightening and dimming.
+
+===Surroundings===
+{{expand section|date=December 2012}}
+{{main|Homunculus Nebula|Carina Nebula}}
+Eta Carinae is surrounded by the [[Homunculus Nebula]], an [[emission nebula]] which is itself a part of the much larger [[Carina Nebula]].
+
+=== X-ray source ===
+[[File:ECARmulticolor4.tnl.jpg|thumb|300px|Classified as a [[peculiar star]], Eta Carinae exhibits a superstar at its center as seen in this image from [[Chandra X-ray Observatory|Chandra]]. The new X-ray observation shows three distinct structures: an outer, horseshoe-shaped ring about 2 light years in diameter, a hot inner core about 3 light-months in diameter, and a hot central source less than 1 light-month in diameter which may contain the superstar that is responsible for the Homunculus nebula. The outer ring provides evidence of another large explosion that occurred over 1,000 years ago. Credit: Chandra Science Center and NASA.]]
+4U 1037–60 (A 1044–59) is Eta Carinae. Three structures around Eta Carinae are thought to represent shock waves produced by matter rushing away from the superstar at supersonic speeds. The temperature of the shock-heated gas ranges from {{val|60|ul=MK}} in the central regions to {{val|3|u=MK}} on the horseshoe-shaped outer structure. "The Chandra image contains some puzzles for existing ideas of how a star can produce such hot and intense X-rays," says Prof. Kris Davidson of the [[University of Minnesota]].<ref name="Horack" />
+
+A ''"spectroscopic minimum"'', or ''"X-ray eclipse"'', appeared in 2003. Astronomers organized a large observing campaign which included every available ground-based (e.g. CCD optical photometry<ref name="Fernández Lajús 2011" />) and space observatory, including major observations with the [[Hubble Space Telescope]], the [[Chandra X-ray Observatory]], the [[INTEGRAL]] Gamma-ray space observatory, and the [[Very Large Telescope]]. Primary goals of these observations were to determine if, in fact, Eta Carinae is a [[binary star]] and, if so, to identify its companion star; to determine the physical mechanism behind the "spectroscopic minima"; and to understand their relation (if any) to the large-scale eruptions of the 19th century.
+
+There is good agreement between the X-ray light curve and the evolution of a wind-wind collision zone of a binary system. These results were complemented by new tests on radio wavelengths.<ref name="Falceta-Gonçalves_2005" />
+
+<!-- Unsourced image removed: [[File:Etacar_rxte_lc.jpg|frame|left|X-ray brightness variation of Eta Car, 1996-2004, as seen by the [[Rossi X-ray Timing Explorer]]. The bottom axis shows the time in Julian Day Number, and the upper axis shows cycle phase. The second X-ray minimum began on June 29, 2003.]]
+-->
+Spectrographic monitoring of Eta Carinae<ref name="Damineli1996" /> showed that some emission lines faded every 5.52 years, and that this period was stable for decades. The star's radio emission,<ref name="White umd" /> along with its X-ray brightness,<ref name="etacurveX" /> also drop precipitously during these "events" as well. These variations, along with ultra-violet variations, suggest a high probability that Eta Carinae is actually a binary star in which a hot, lower-mass star revolves around η Carinae in a 5.52-year, highly eccentric elliptical orbit.<ref name="massive" />
+
+The ionizing radiation emitted by the secondary star in Eta Carinae is the major radiation source of the system. Much of this radiation is absorbed by the primary [[stellar wind]], mainly after it encounters the secondary wind and passes through a [[shock wave]]. The amount of absorption depends on the compression factor of the primary wind in the shock wave. The compression factor is limited by the magnetic pressure in the primary wind.<ref name="KashiSoker2007" /> The variation of the absorption by the post-shock primary wind with orbital phase changes the ionization structure of the circumbinary gas, and can account for the radio light curve of Eta Carinae. Fast variations near [[Apsis|periastron passage]] are attributed to the onset of the accretion phase.
+
+==Future prospects==
+[[File:Eta Carinae Nebula 1.jpg|thumb|320px|[[Carina Nebula|Carina nebula]] (NGC 3372) containing Eta Carinae. Eta Carinae and its surrounding [[Homunculus Nebula]] are the small, saturated (white) blob centered vertically in the image and approximately 1/5 of the distance from left to right. Photograph by the [[Hubble Space Telescope]].]]
+Because of their disproportionately high luminosities, very large stars such as Eta Carinae use up their fuel very quickly. Eta Carinae is expected to explode as a [[supernova]] or [[hypernova]] some time within the next million years or so. As its current age and evolutionary path are uncertain, however, it could explode within the next several millennia or even in the next few years. [[Luminous blue variable|LBVs]] such as Eta Carinae may be a stage in the evolution of the most massive stars; the prevailing theory now holds that they will exhibit extreme mass loss and become [[Wolf-Rayet star]]s before they go supernova, if they are unable to hold their mass to explode as a hypernova.<ref name="SmithOwocki2006" />
+
+More recently, another possible Eta Carinae analogue was observed: SN 2006jc, some 77 million light years away in UGC 4904, in the constellation of Lynx.<ref name="Sanders2007" /> Its brightened appearance was noted on 20 October 2004, and was reported by amateur astronomer Koichi Itagaki as a supernova. However, although it had indeed exploded, hurling 0.01 solar masses (~20 Jupiters) of material into space, it had survived, before finally exploding nearly two years later as a Mag 13.8 type Ib supernova, seen on 9 October 2006. Its earlier brightening was a ''[[supernova impostor|supernova impostor event]]''.
+
+The similarity between Eta Carinae and SN 2006jc has led Stefan Immler of NASA's Goddard Space Flight Center to suggest that Eta Carinae could explode in our lifetime, or even in the next few years. However, Stanford Woosley of the University of California in Santa Cruz disagrees with Immler’s suggestion, and says it is likely that Eta Carinae is at an earlier stage of evolution, and that there are still several stages of nuclear burning to go before the star runs out of fuel.
+
+In [[NGC 1260]], a spiral galaxy in the constellation of Perseus some 238 million light years from earth, another analogue star explosion, supernova [[SN 2006gy]], was observed on September 18, 2006. A number of astronomers modelling supernova events have suggested that the explosion mechanism for SN 2006gy may be very similar to the fate that awaits Eta Carinae.{{citation needed|date=September 2011}}
+
+===Possible effects on Earth===
+{{Contradict|date=January 2011}}
+[[File:Gamma ray burst.jpg|thumb|320px|One theory of Eta Carinae's ultimate fate. <br /> Drawing of a massive [[star]] collapsing to form a [[black hole]]. Energy released as jets along the axis of rotation forms the [[gamma ray burst]]s. <br /> ''Credit: Nicolle Rager Fuller/NSF'']]
+It is possible that the Eta Carinae hypernova or supernova, when it occurs, could affect Earth, about 7,500 [[light years]] away. It is unlikely, however, to affect terrestrial lifeforms directly, as they will be protected from [[gamma rays]] by the atmosphere, and from some other cosmic rays by the [[magnetosphere]]. The damage would likely be restricted to the upper atmosphere, the [[ozone layer]], spacecraft, including [[satellites]], and any [[astronauts]] in space, although a certain few [http://www.sciencemag.org/content/184/4141/1079.abstract] claim that radiation damage to the upper atmosphere would have catastrophic effects as well. At least one scientist has claimed that when the star explodes, "it would be so bright that you would see it during the day, and you could even read a book by its light at night".<ref name="BBC2007" /> A supernova or hypernova produced by Eta Carinae would probably eject a [[gamma ray burst]] (GRB) out from both polar areas of its rotational axis. Calculations show that the deposited energy of such a GRB striking the Earth's atmosphere would be equivalent to one kiloton of TNT per square kilometer over the entire hemisphere facing the star, with ionizing radiation depositing ten times the lethal whole body [[Dosimetry|dose]] to the surface.<ref name="Dar De Rujula 2002" /> This catastrophic burst would probably not hit Earth, though, because <!--fortunately--> the rotation axis does not currently <!--although precession may affect its future position--> point towards our solar system. If Eta Carinae is a binary system, this may affect the future intensity and orientation of the supernova explosion that it produces, depending on the circumstances.<ref name="massive" />
+
+[[File:ESO-Eta Carinae-phot-17a-08-normal.jpg|thumb|250px|The luminous blue variable Eta Carinae taken with the NACO near-infrared adaptive optics instrument on ESO''s Very Large Telescope. Credit [[ESO]]]]
+
+==Cultural significance==
+In traditional [[Chinese astronomy]], Eta Carinae has the names '''Tseen She''' (from the Chinese 天社 [Mandarin: ''tiānshè''] "Heaven's altar") and '''Foramen'''.<ref name="cdsarc.u-strasbg.fr" /> It is also known as {{lang|zh|海山二}} ({{lang|zh-Latn|'''Hǎi Shān èr'''}}, {{lang-en|the Second Star of Sea and Mountain}}),<ref name="天文教育資訊網 2006" /> referring to [[Chinese constellations#The Southern Asterisms (近南極星區)|Sea and Mountain]], an [[asterism (astronomy)|asterism]] that Eta Carinae forms with [[HD 90853|s Carinae]], [[Lambda Centauri|λ Centauri]] and [[Lambda Muscae|λ Muscae]].<ref name="陳久金2005" />
+
+In 2010, astronomers Duane Hamacher and David Frew from Macquarie University in Sydney showed that the Boorong Aboriginal people of northwestern Victoria, Australia, witnessed the outburst of Eta Carinae in the 1840s and incorporated it into their oral traditions as ''Collowgulloric War'', the wife of ''War'' ([[Canopus]], the Crow&nbsp;— pronounced "Waah").<ref name="boorong" /> This is the only definitive indigenous record of Eta Carinae's outburst identified in the literature to date.
+
+== See also ==
+* [[Homunculus Nebula]]
+* [[LBV 1806-20]]
+* [[Pistol Star]]
+* [[SN 2006gy]]
+* [[List of most luminous stars]]
+* [[List of largest stars]]
+* [[List of most massive stars]]
+* [[Bipolar outflow]]
+
+{{clear}}
+
+== Notes ==
+
+{{Reflist|group="n"}}
+
+== References ==
+{{refs
+| colwidth = 30em
+| refs =
+
+<ref name="SIMBAD">
+{{cite web
+| url =http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Eta+Carinae
+| title = SIMBAD query result: V* eta Car&nbsp;– Variable Star
+| publisher = Centre de Données astronomiques de Strasbourg
+| accessdate = 2008-04-25
+}}—some of the data is located under "Measurements".
+</ref>
+
+<ref name="Fernández Lajús 2011">
+{{cite web
+| last = Fernández Lajús
+| first = Eduardo
+| date = Dec 19, 2011
+| title = Optical monitoring of Eta Carinae
+| publisher = ''Universidad Nacional de La Plata''
+| url = http://etacar.fcaglp.unlp.edu.ar/
+| accessdate = 2011-12-26
+}}
+</ref>
+
+<ref name="GCVS-Eta-Car">
+{{cite web
+| title = GCVS Query=Eta+Car
+| publisher = [[General Catalogue of Variable Stars]] @ [[Centre de données astronomiques de Strasbourg|Sternberg Astronomical Institute, Moscow]], Russia
+| url = http://www.sai.msu.su/gcvs/cgi-bin/search.cgi?search=Eta+Car
+| accessdate = 2010-11-24
+}}
+</ref>
+
+<ref name="VIZIER">
+{{cite web
+| title = VIZIER Details for Eta Carinae in Gould's ''Uranomatria Argentina''
+| publisher = Centre de Données astronomiques de Strasbourg
+| url = http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/135/catalog&recno=1428
+| accessdate = 2011-02-14
+}}
+</ref>
+
+<ref name="cdsarc.u-strasbg.fr">
+{{cite web
+| last = Kostjuk
+| first = N.
+| url = ftp://cdsarc.u-strasbg.fr/pub/cats/IV/27A/table3.dat
+| title = table3.dat
+| publisher = Institute of Astronomy of Russian Academy of Sciences
+| year = 2002
+| accessdate = 30 December 2012
+}}
+</ref><!--See here for most info on author's name, etc.: http://cdsarc.u-strasbg.fr/viz-bin/Cat?IV/27-->
+
+<ref name="陳久金2005">
+{{cite book
+| title = 中國星座神
+| author = 陳久金
+| publisher = 台灣書房出版有限公司
+| year = 2005
+| isbn = 978-986-7332-25-7
+}}
+{{zh icon}}
+</ref>
+
+
+<ref name="天文教育資訊網 2006">
+{{cite web
+| title = AEEA 天文教育資訊網
+| editor = 陳輝樺 
+| url = http://aeea.nmns.edu.tw/2006/0607/ap060728.html
+| date = 28 July 2006
+| accessdate = 30 December 2012
+}}
+{{zh icon}}
+</ref>
+
+<ref name="massive">
+{{cite web
+| last1 = Neal-Jones
+| first1 = Nancy
+| last2 = Steigerwald
+| first2 = Bill
+| url = http://www.nasa.gov/home/hqnews/2005/nov/HQ_05353_massive_star.html
+| title = NASA Satellite Detects Massive Star Partner
+| date = 1 November 2005
+| publisher = NASA Goddard Space Flight Center
+| accessdate = 30 December 2012
+}}
+</ref>
+
+<ref name="Frommert Kronberg 1998">
+{{cite web
+| title = ''Peculiar star Eta Carinae'', in Carina
+| author = Frommert, Hartmut & Kronberg, Christine
+| url = http://messier.seds.org/xtra/ngc/etacar.html
+| publisher = [[Students for the Exploration and Development of Space]] (SEDS)
+| date = February 2, 1998
+| accessdate = 2012-02-20
+}}
+</ref>
+
+<ref name="Stockdale_2001">
+{{cite journal
+| doi= 10.1086/321136
+| last1 = Stockdale
+| first1 = Christopher J.
+| last2 = Rupen
+| first2 = Michael P.
+| last3 = Cowan
+| first3 = John J.
+| last4 = Chu
+| first4 = You-Hua
+| last5 = Jones
+| first5 = Steven S.
+| year = 2001
+| title = The fading radio emission from SN 1961v: evidence for a Type II peculiar supernova?
+| journal = The Astronomical Journal
+| volume = 122
+| issue = 1
+| page = 283
+| bibcode = 2001AJ....122..283S
+| arxiv = astro-ph/0104235
+}}
+</ref>
+
+<ref name="Naeye2007">
+{{cite web
+| last = Naeye
+| first = Robert
+| url = http://www.nasa.gov/centers/goddard/news/topstory/2007/supernova_imposter.html
+| title = Supernova Impostor Goes Supernova
+| publisher = NASA Goddard Space Flight Center
+| date = 4 April 2007
+| accessdate = 30 December 2012
+}}
+</ref>
+
+<ref name="Shiga2007">
+{{cite journal
+| doi = 10.1016/S0262-4079(07)62628-1
+| last = Shiga
+| first = D.
+| year = 2007
+| title = Star's odd double explosion hints at antimatter trigger
+| journal = New Scientist
+| volume = 2598
+| issue = 2626
+| page = 18
+| url = http://space.newscientist.com/article.ns?id=dn11563&feedId=online-news_rss20
+}}
+</ref>
+
+<ref name="ASP 332">
+{{cite conference
+| author = see various articles in R.M. Humphreys & K.Z. Stanek (eds.)
+| title = The Fate of the Most Massive Stars
+| booktitle = ASP Conference 332
+| publisher = Astronomical Society of the Pacific
+| date = 2005
+}}
+</ref>
+
+<ref name="etacurve">
+{{cite web
+| title = Historical light curve
+| date =
+| url = http://etacar.fcaglp.unlp.edu.ar/plots/historic.jpg
+| accessdate = 2011-12-26
+}}
+</ref>
+
+<ref name="unexpected">
+{{cite web
+| last = Courtland
+| first = Rachel
+| url = http://space.newscientist.com/article/dn14488-supernova-impostor-begins-to-dim-unexpectedly.html?feedId=online-news_rss20
+| title = 'Supernova imposter' begins to dim unexpectedly
+| publisher = NewScientist news service
+| date = 7 August 2008
+| accessdate = 30 December 2012
+}}
+</ref>
+
+<ref name="boorong">
+{{cite journal
+| last1 = Hamacher
+| first1 = D. W.
+| last2 = Frew
+| first2 = D. J.
+| year = 2010
+| title = An Aboriginal Australian Record of the Great Eruption of Eta Carinae
+| journal = Journal of Astronomical History and Heritage
+| volume = 13
+| issue = 3
+| pages = 220–234
+| arxiv = 1010.4610
+| bibcode = 2010arXiv1010.4610H
+}}
+</ref>
+
+<ref name="Rest 2012">
+{{cite journal
+| doi = 10.1038/nature10775
+| last = Rest
+| first = A.
+| coauthors = J. L. Prieto, N. R. Walborn, N. Smith, F. B. Bianco, R. Chornock, D. L. Welch, D. A. Howell, M. E. Huber, R. J. Foley, W. Fong, B. Sinnott, H. E. Bond, R. C. Smith, I. Toledo, D. Minniti, K. Mandel
+| date = 2012-02-16
+| title = Light echoes reveal an unexpectedly cool η Carinae during its nineteenth-century Great Eruption
+| journal = Nature
+| issn = 0028-0836
+| volume = 482
+| issue = 7385
+| pages = 375–378
+| accessdate = 2012-02-17
+| url = http://dx.doi.org/10.1038/nature10775
+| bibcode = 2012Natur.482..375R
+| pmid = 22337057
+| arxiv = 1112.2210 }}
+</ref>
+
+<ref name="Horack">
+{{cite web
+| title = Chandra Takes X-ray Image of Repeat Offender
+| url = http://science.nasa.gov/newhome/headlines/ast08oct99_1.htm
+| date = 8 October 1999
+| work = Science News
+| publisher = [[NASA]]
+}}
+</ref>
+
+<ref name="Falceta-Gonçalves_2005">
+{{cite journal
+| doi = 10.1111/j.1365-2966.2005.08682.x
+| last1 = Falceta-Gonçalves
+| first1 = D.
+| last2 = Jatenco-Pereira
+| first2 = V.
+| last3 = Abraham
+| first3 = Z.
+| year = 2005
+| title = Wind-wind collision in the η Carinae binary system: a shell-like event near periastron
+| journal = MNRAS
+| volume = 357
+| issue = 3
+| page = 895
+| bibcode = 2005MNRAS.357..895F
+| arxiv = astro-ph/0404363
+}}
+</ref>
+
+<ref name="Damineli1996">
+{{cite journal
+| doi = 10.1086/309961
+| last = Damineli
+| first = A.
+| year = 1996
+| title = The 5.52 Year Cycle of Eta Carinae
+| journal = ApJ
+| volume = 460
+| issue = 1
+| pages = L49
+| bibcode = 1996ApJ...460L..49D
+}}
+</ref>
+
+<ref name="White umd">
+{{cite web
+| last = White
+| first = Stephen
+| url = http://www.astro.umd.edu/~white/images/eta_time_full.html
+| title = Radio outburst of Eta Carinae
+| publisher = Department of Astronomy, University of Maryland College Park
+| accessdate = 30 December 2012
+}}
+</ref>
+
+<ref name="etacurveX">
+{{cite web
+| last = Corcoran
+| first = Michael
+| url = http://asd.gsfc.nasa.gov/Michael.Corcoran/eta_car/etacar_rxte_lightcurve/index.html
+| title = RXTE X-ray lightcurve
+| publisher = Goddard Space Flight Center
+| date = 10 December 2008
+| accessdate = 30 December 2012
+}}
+</ref>
+
+<ref name="KashiSoker2007">
+{{cite journal
+| doi = 10.1111/j.1365-2966.2007.11908.x
+| last1 = Kashi
+| first1 = A.
+| last2 = Soker
+| first2 = N.
+| year = 2007
+| title = Modelling the Radio Light Curve of Eta Carinae
+| journal = Monthly Notices of the Royal Astronomical Society
+| volume = 378
+| issue = 4
+| page = 1609
+| arxiv = astro-ph/0702389
+| bibcode = 2007astro.ph..2389K
+}}
+</ref>
+
+<ref name="SmithOwocki2006">
+{{cite journal
+| doi = 10.1086/506523
+| title = On the Role of Continuum-driven Eruptions in the Evolution of Very Massive Stars
+| year = 2006
+| last1 = Smith
+| first1 = Nathan
+| last2 = Owocki
+| first2 = Stanley P.
+| journal = The Astrophysical Journal
+| volume = 645
+| issue = 1
+| pages = L45
+| arxiv = astro-ph/0606174
+| bibcode = 2006ApJ...645L..45S
+}}
+</ref>
+
+<ref name="Sanders2007">
+{{cite press release
+| last = Sanders
+| first = Robert
+| date = 4 April 2007
+| publisher = UC Berkeley News
+| title = Massive star burps, then explodes
+| url = http://www.berkeley.edu/news/media/releases/2007/04/04_supernova.shtml
+}}<br/>
+{{cite press release
+| last1 = Naeye
+| first1 = Robert
+| last2 = Sanders
+| first2 = Robert
+| date = 4 April 2007
+| publisher = [[Chandra X-ray Observatory]]
+| title = Massive star burps, then explodes
+| url = http://www.chandra.harvard.edu/press/07_releases/press_040407.html
+| bibcode = 2007cxo..pres....5.
+}}
+</ref>
+
+<ref name="BBC2007">
+{{cite web
+| url = http://news.bbc.co.uk/2/hi/science/nature/6633609.stm
+| title = Star dies in monstrous explosion
+| publisher = BBC News
+| date = 8 May 2007
+| accessdate = 30 December 2012
+}}
+</ref>
+
+<ref name="Dar De Rujula 2002">
+{{cite conference
+|author1=Arnon Dar
+|author2=A. De Rujula
+|title=The threat to life from Eta Carinae and gamma ray bursts
+|conference=Astrophysics and Gamma Ray Physics in Space
+|volume=24
+|year=2002
+|pages=513–523
+|arxiv=astro-ph/0110162
+|bibcode=2001astro.ph.10162D
+}}
+</ref>
+
+}}
+
+==Cited text==
+*{{cite book
+  | last = Wagman
+  | first = Morton
+  | year = 2003
+  | title = Lost Stars: Lost, Missing and Troublesome Stars from the Catalogues of Johannes Bayer, Nicholas Louis de Lacaille, John Flamsteed, and Sundry Others
+  | publisher = The McDonald & Woodward Publishing Company
+  | location = Blacksburg, [[Virginia|VA]]
+  | isbn = 978-0-939923-78-6
+  | ref = harv
+  }}
+
+== External links ==
+{{Commons category|Eta Carinae}}
+* [http://www.flickr.com/photos/gsfc/6780345900/in/photostream NASA image released Feb. 24, 2012]
+* [http://etacar.umn.edu/ HST Treasury Project and General Information on Eta Carinae]
+* [http://www.solstation.com/x-objects/eta-car.htm Eta Carinae profile]
+* [http://www.etacarinae.iag.usp.br/ Is there a "clock" in Eta Carinae?&nbsp;– Brazilian research about the star]
+* [http://etacar.fcaglp.unlp.edu.ar/ Broad Band Optical Monitoring]
+* [http://asd.gsfc.nasa.gov/Michael.Corcoran/eta_car/etacar_rxte_lightcurve/index.html X-ray Monitoring by RXTE]
+* [http://www.eso.org/outreach/press-rel/pr-2003/pr-31-03.html ESO press release] about the possibility of a supernova in 10 to 20 millennia
+* [http://eud.gsfc.nasa.gov/Michael.Corcoran/eta_car/2003.5/index.html The 2003 Observing Campaign]
+* {{cite journal | last = Davidson | first = Kris | year = 1999 | title = An Unusual Brightening Of Eta Carinae | publisher = The Astronomical Journal | bibcode = 1999AJ....118.1777D | display-authors = 1 | last2 = Gull | first2 = Theodore R. | last3 = Humphreys | first3 = Roberta M. | last4 = Ishibashi | first4 = Kazunori | last5 = Whitelock | first5 = Patricia | last6 = Berdnikov | first6 = Leonid | last7 = McGregor | first7 = Peter J. | last8 = Metcalfe | first8 = Travis S. | last9 = Polomski | first9 = Elisha | volume = 118 | page = 1777 | journal = The Astronomical Journal | doi = 10.1086/301063 | issue = 4 }}
+* {{cite web | last = Nathan | first = Smith | year = 1998 | url = http://www.astrosociety.org/pubs/mercury/9804/eta.html | title = The Behemoth Eta Carinae: A Repeat Offender | publisher = Astronomical Society of the Pacific | accessdate = 2006-08-13 }}
+* [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=Eta+Carinae Eta Carinae at SIMBAD]
+{{Stars of Carina}}
+
+[[Category:Carina (constellation)]]
+[[Category:Bayer objects|Carinae, Eta]]
+[[Category:Henry Draper Catalogue objects|093308]]
+[[Category:HR objects|4210]]
+[[Category:Binary stars]]
+[[Category:Luminous blue variable stars]]
+[[Category:Hypergiant stars]]
+
+{{Link GA|de}}
+
+[[ar:إيتا القاعدة]]
+[[bg:Ета Кил]]
+[[cs:Eta Carinae]]
+[[da:Eta Carinae]]
+[[de:Eta Carinae]]
+[[el:Ήτα Τρόπιδος]]
+[[es:Eta Carinae]]
+[[fa:اتا شاه‌تخته]]
+[[fr:Eta Carinae]]
+[[ko:용골자리 에타]]
+[[id:Eta Carinae]]
+[[it:Eta Carinae]]
+[[he:אטא קארינה]]
+[[lv:Kuģa Ķīļa Eta]]
+[[ml:ഈറ്റ കരിന]]
+[[nl:Eta Carinae]]
+[[ja:りゅうこつ座イータ星]]
+[[no:Eta Carinae]]
+[[nn:Eta Carinae]]
+[[pl:Eta Carinae]]
+[[pt:Eta Carinae]]
+[[ro:Eta Carinae]]
+[[ru:Эта Киля]]
+[[sk:Eta Carinae]]
+[[sl:Eta Gredlja]]
+[[sr:Ета Прамца]]
+[[fi:Eta Carinae]]
+[[sv:Eta Carinae]]
+[[tr:Eta Carinae]]
+[[zh:海山二]]

@@ -1,0 +1,123 @@
+{{Starbox begin
+| name     = Delta Aquarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Aquarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquarius constellation and its surroundings]]
+     <div style="position: absolute; left: 35.8%; top: 51.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Aquarii (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|22|54|39.0125}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|−15|49|14.953}}<ref name=aaa474_2_653/>
+| appmag_v = 3.252<ref name=aaass22_9/>
+| constell = [[Aquarius (constellation)|Aquarius]]
+}}
+{{Starbox character
+| class    = A3&nbsp;V<ref name=houk1979/>
+| b-v      = +0.068<ref name=aaass22_9/>
+| u-b      = +0.172<ref name=aaass22_9/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +18.0<ref name=gcsrv53/>
+| prop_mo_ra  = -42.60<ref name=aaa474_2_653/>
+| prop_mo_dec = -27.89<ref name=aaa474_2_653/>
+| parallax = 20.44
+| p_error  = 2.26
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 2.0<ref name=aass85_3_1015/>
+| radius   = 2.4<ref name=aass85_3_1015/>
+| gravity  = 3.66<ref name=aaa294_2_536/>
+| luminosity  = 26<ref name=aass85_3_1015/>
+| temperature = 9,000<ref name=aaa294_2_536/>
+| metal_fe = –0.15<ref name=aaa294_2_536/>
+| rotational_velocity = 81<ref name=aaa463_2_671/>
+| age_gyr  = 0.3<ref name=aaa523_A73/>
+}}
+{{Starbox catalog
+| names=Skat, Scheat, 76&nbsp;Aquarii, [[Bonner Durchmusterung|BD]]-16&nbsp;6173, [[FK5]]&nbsp;866, [[Henry Draper Catalogue|HD]]&nbsp;216627, [[Hipparcos catalogue|HIP]]&nbsp;113136, [[Bright Star Catalogue|HR]]&nbsp;8709, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;165375.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+216627
+}}
+{{Starbox end}}
+'''Delta Aquarii''' (δ Aqr, δ Aquarii) is the third-brightest star in the constellation [[Aquarius (constellation)|Aquarius]]. It has the traditional name '''Skat''',<ref name=allen/> which has also been used for [[Beta Pegasi]]. The [[apparent visual magnitude]] is 3.3,<ref name=aaass22_9/> which can be seen with the naked eye. The distance to this star is estimated as {{Convert|160|ly|pc|abbr=off|lk=on}} based upon [[parallax]] measurements.<ref name=aaa474_2_653/>
+
+==Properties==
+The [[spectrum]] of Skat matches a [[stellar classification]] of A3&nbsp;V,<ref name=houk1979/> indicating this is an [[A-type main sequence star]] that is generating energy through the [[nuclear fusion]] of hydrogen at its core. This star has double the Sun's mass and a radius 2.4 times as large.<ref name=aass85_3_1015/> It is radiating 26<ref name=aass85_3_1015/> times the luminosity of the Sun from its outer atmosphere at an [[effective temperature]] of around 9,000&nbsp;K.<ref name=aaa294_2_536/> This heat gives it the characteristic white-hued glow of an A-type star.<ref name=csiro/> It has a relatively high rate of rotation, with a [[projected rotational velocity]] of 81 km s<sup>–1</sup>.<ref name=aaa463_2_671/>
+
+Delta Aquarii has been closely examined for a companion, but none has been discovered.<ref name=aaa523_A73/> Nor does it display a strong signal of [[infrared excess|excess infrared emission]] that might indicate the presence of circumstellar matter.<ref name=apj653_1_675/> Delta Aquarii is a probable stream star member of the [[Ursa Major Moving Group]],<ref name=aj125_4_1980/> which has an estimated age of 500 million years.<ref name=aaa442_2_563/>
+
+==In culture==
+The traditional name has generally been thought to derive from the Arabic ''as-saq'' ('''أساق''') "[[leg]]" or "[[shinbone|shin]]"; however, the medieval forms ''Scheat, Seat, Sheat'' suggest it may be instead from the Arabic ''ši'at'' ('''صعاث'''') "wish".{{ref|allen}}
+
+In [[Chinese language|Chinese]], {{lang|zh|羽林軍}} ({{lang|zh-Latn|Yǔ Lín Jūn}}), meaning ''[[Encampment (Chinese constellation)|Palace Guard]]'', refers to an asterism consisting of δ Aquarii, [[29 Aquarii]], [[35 Aquarii]], [[41 Aquarii]], [[47 Aquarii]], [[49 Aquarii]], [[Lambda Piscis Austrini|λ Piscis Austrini]], [[HD 212448]], [[Epsilon Piscis Austrini|ε Piscis Austrini]], [[21 Piscis Austrini]], [[20 Piscis Austrini]], [[Upsilon Aquarii|υ Aquarii]], [[68 Aquarii]], [[66 Aquarii]], [[61 Aquarii]], [[53 Aquarii]], [[50 Aquarii]], [[56 Aquarii]], [[45 Aquarii]], [[58 Aquarii]], [[64 Aquarii]], [[65 Aquarii]], [[70 Aquarii]], [[74 Aquarii]], [[Tau2 Aquarii|τ<sup>2</sup> Aquarii]], [[Tau1 Aquarii|τ<sup>1</sup> Aquarii]], [[77 Aquarii]], [[88 Aquarii]], [[89 Aquarii]], [[86 Aquarii]], [[101 Aquarii]], [[100 Aquarii]], [[99 Aquarii]], [[98 Aquarii]], [[97 Aquarii]], [[94 Aquarii]], [[Psi3 Aquarii|ψ<sup>3</sup>Aquarii]], [[Psi2 Aquarii|ψ<sup>2</sup>Aquarii]], [[Psi1 Aquarii|ψ<sup>1</sup>Aquarii]], [[87 Aquarii]], [[85 Aquarii]], [[83 Aquarii]], [[Chi Aquarii|χ Aquarii]], [[Omega1 Aquarii|ω<sup>1</sup> Aquarii]] and [[Omega2 Aquarii|ω<sup>2</sup> Aquarii]]. Consequently, δ Aquarii itself is known as {{lang|zh|羽林軍二十六}} ({{lang|zh-Latn|Yǔ Lín Jūn ershíliù}}, {{lang-en|the Twenty Sixth Star of Palace Guard}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060707.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 7 日]</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa294_2_536>{{citation | last1=Hill | first1=G. M. | title=Compositional differences among the A-type stars. 2: Spectrum synthesis up to V sin i = 110 km/s | journal=Astronomy and Astrophysics | volume=294 | issue=2 | pages=536–546 | month=February | year=1995 | bibcode=1995A&A...294..536H }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=4 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1988MSS...C04....0H }}</ref>
+
+<ref name=gcsrv53>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=aaass22_9>{{citation | last1=Celis S. | first1=L. | title=Photoelectric photometry of late-type variable stars | journal=Astronomy and Astrophysics Supplement Series | volume=22 | pages=9–17 | month=October | year=1975 | bibcode1975A&AS...22....9C |bibcode = 1975A&AS...22....9C }}</ref>
+
+<ref name=aaa523_A73>{{citation | display-authors=1 | last1=Ehrenreich | first1=D. | last2=Lagrange | first2=A.-M. | last3=Montagnier | first3=G. | last4=Chauvin | first4=G. | last5=Galland | first5=F. | last6=Beuzit | first6=J.-L. | last7=Rameau | first7=J. | title=Deep infrared imaging of close companions to austral A- and F-type stars | journal=Astronomy and Astrophysics | volume=523 | page=A73 | month=November | year=2010 | doi=10.1051/0004-6361/201014763 | bibcode=2010A&A...523A..73E |arxiv = 1007.0002 }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aaa442_2_563>{{citation | last1=Monier | first1=R. | title=Abundances of a sample of A and F-type dwarf members of the Ursa Major Group | journal=Astronomy and Astrophysics | volume=442 | issue=2 | pages=563–566 | month=November | year=2005 | doi=10.1051/0004-6361:20053222 | bibcode=2005A&A...442..563M }}</ref>
+
+<ref name=aj125_4_1980>{{citation | display-authors=1 | last1=King | first1=Jeremy R. | last2=Villarreal | first2=Adam R. | last3=Soderblom | first3=David R. | last4=Gulliver | first4=Austin F. | last5=Adelman | first5=Saul J. | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group | journal=The Astronomical Journal | volume=125 | issue=4 | pages=1980–2017 | month=April | year=2003 | doi=10.1086/368241 | bibcode=2003AJ....125.1980K }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Aqr -- Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Delta+Aquarii  | accessdate=2012-01-30 }}</ref>
+
+<ref name=allen>{{citation | last=Allen | first=Richard Hinkley | title=Star Names: Their Lore and Meaning | publisher=Dover Publications | location=New York  |year=1963 | isbn=0-486-21079-0 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+== External links ==
+* [http://www.jas.org.jo/star.html Star names derived from Arabic]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=22+54+39.0125-15+49+14.953&ident=*+del+Aqr&submit=Aladin+previewer Image Delta Aquarii]
+
+{{Stars of Aquarius}}
+
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Aquarius (constellation)]]
+[[Category:Bayer objects|Aquarii, Delta]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الساق (نجم)]]
+[[ca:Delta Aquarii]]
+[[de:Delta Aquarii]]
+[[es:Skat (estrella)]]
+[[fa:دلتا دلو]]
+[[fr:Delta Aquarii]]
+[[ko:물병자리 델타]]
+[[id:Delta Aquarii]]
+[[it:Skat]]
+[[lb:Skat (Stär)]]
+[[nl:Skat (ster)]]
+[[ja:スカト]]
+[[pl:Delta Aquarii]]
+[[pt:Delta Aquarii]]
+[[ru:Дельта Водолея]]
+[[sk:Skat (hviezda)]]
+[[zh:羽林軍廿六]]

@@ -1,0 +1,128 @@
+{{Starbox begin
+| name=Delta Ophiuchi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ophiuchus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ophiuchus constellation and its surroundings]]
+     <div style="position: absolute; left: 79.7%; top: 36.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Ophiuchi (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|16|14|20.73853}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–03|41|39.5612}}<ref name=aaa474_2_653/>
+| appmag_v = 2.75<ref name=clpl4_99/>
+| constell = [[Ophiuchus]]
+}}
+{{Starbox character
+| class    = M0.5&nbsp;III<ref name=araa11_29/>
+| b-v      = +1.59<ref name=clpl4_99/>
+| u-b      = +1.96<ref name=clpl4_99/>
+| variable = Suspected<ref name=ibvs3791_1/>
+}}
+{{Starbox astrometry
+| radial_v = –19.9<ref name=gcsrv/>
+| prop_mo_ra  = –47.54<ref name=aaa474_2_653/>
+| prop_mo_dec = –142.73<ref name=aaa474_2_653/>
+| parallax = 19.06
+| p_error  = 0.16
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = –0.90<ref name=an319_6_375/><!-- Av = 0.04 -->
+}}
+{{Starbox detail
+| mass     = 1.5<ref name=tsuji2007/>
+| radius   = 59<ref name=lang2006/>
+| luminosity  = 
+| temperature = 3,679<ref name=aaa61_1_17/>
+| metal_fe = 0.32<ref name=aaa61_1_17/>
+| rotation = 
+| rotational_velocity = 7.0<ref name=aj135_1_209/>
+| gravity  = 1.4<ref name=aaa61_1_17/>
+| age      = 
+}}
+{{Starbox catalog
+| names = 1 Oph, [[Bonner Durchmusterung|BD]]-03 3903, [[Fifth Fundamental Catalogue|FK5]] 603, [[Henry Draper catalogue|HD]] 146051, [[Hipparcos catalogue|HIP]] 79593, [[Harvard Revised catalogue|HR]] 6056, [[Smithsonian Astrophysical Observatory|SAO]] 141052.<ref name=simbad/>
+}}
+{{Starbox end}}
+
+'''Delta Ophiuchi''' (δ Oph, δ Ophiuchi) is a [[star]] in the [[constellation]] [[Ophiuchus]]. It has the traditional name '''Yed Prior'''. The star [[Epsilon Ophiuchi]], with which it forms a [[naked eye]] [[double star|optical double]], is ''Yed Posterior''. The [[apparent visual magnitude]] is 2.75,<ref name=clpl4_99/> making this a third-magnitude star and the [[List of stars in Ophiuchus|fourth brightest]] in the constellation. [[Parallax]] measurements from the [[Hipparcos]] spacecraft yield a distance estimate of around {{Convert|171|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+Delta Ophiuchi is 170 [[light year]]s from [[Earth]], while Epsilon is 108; hence they are a mere optical double. This star has a [[stellar classification]] of M0.5&nbsp;III,<ref name=araa11_29/> making this a [[red giant]] star that has undergone expansion of its outer envelope after exhausting the supply of hydrogen at its core. The measured [[angular diameter]] of this star, after correction for [[limb darkening]], is {{nowrap|10.47 ± 0.12 [[milliarcsecond|mas]]}}.<ref name=aaa431_773/> At the estimated distance of Delta Ophiuchi,<ref name=aaa474_2_653/> this yields a physical size of about 59 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> In spite of its enlarged size, this star has only 1.5 times the mass of the Sun and hence a much lower density.<ref name=tsuji2007/> The [[effective temperature]] of the outer atmosphere of Delta Ophiuchi is a relatively cool 3,679&nbsp;K,<ref name=aaa61_1_17/> which is what gives it the orange-red hue of an M-type star.<ref name=csiro/>
+
+Yed Prior is listed as a suspected [[variable star]] that may change by 0.03 in visual magnitude.<ref name=ibvs3791_1/><ref name=simbad/> It has a low [[projected rotational velocity]] of {{nowrap|7.0 km s<sup>–1</sup>}}, which gives a minimum value for the [[azimuth]]al velocity along the star's equator.<ref name=aj135_1_209/> The abundance of elements other than hydrogen and helium, what astronomers term the star's [[metallicity]], is more than double the abundance in the Sun's photosphere.<ref name=aaa61_1_17/>
+
+==Etymology==
+The traditional name Yed is derived from [[Arabic language|Arabic]] meaning "the hand", and the two stars are the left hand of Ophiuchus (the Serpent Bearer) that holds the head of the serpent [[Serpens Caput]].
+
+It was a member of the indigenous Arabic [[Asterism (astronomy)|asterism]] ''al-Nasaq al-Yamānī'', "the Southern Line" of ''al-Nasaqān'' "the Two Lines".<ref name=kunitzsch_smart2006/> It was a member of indigenous Arabic [[Asterism (astronomy)|asterism]] '''al-Nasaq al-Yamānī''', "the Southern Line" of ''al-Nasaqān'' "the Two Lines",<ref name=kunitzsch_smart2006/> along with [[Alpha Serpentis|α Ser]] (Unukalhai), [[Delta Serpentis|δ Ser]] (Qin, Tsin), [[Epsilon Serpentis|ε Ser]] (Ba, Pa),  [[Epsilon Ophiuchi|ε Oph]] (Yed Posterior), [[Zeta Ophiuchi|ζ Oph]] (Han) and [[Gamma Ophiuchi|γ Oph]] (Tsung Ching).<ref name=allen1963/>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''al-Nasaq al-Yamānī'' or '''Nasak Yamani''' were the title for two stars :[[Delta Serpentis|δ Ser]] as ''Nasak Yamani I'' and [[Epsilon Serpentis|ε Ser]] as ''Nasak Yamani II'' (exclude this star, [[Alpha Serpentis|α Ser]], [[Epsilon Ophiuchi|ε Oph]], [[Zeta Ophiuchi|ζ Oph]] and [[Gamma Ophiuchi|γ Oph]]).<ref name=rhoads1971/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市右垣}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán}}), meaning ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of δ Ophiuchi, [[Beta Herculis|β Herculis]], [[Gamma Herculis|γ Herculis]], [[Kappa Herculis|κ Herculis]], [[Gamma Serpentis|γ Serpentis]], [[Beta Serpentis|β Serpentis]], [[Alpha Serpentis|α Serpentis]], [[Delta Serpentis|δ Serpentis]], [[Epsilon Serpentis|ε Serpentis]], [[Epsilon Ophiuchi|ε Ophiuchi]] and [[Zeta Ophiuchi|ζ Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Ophiuchi itself is known as {{lang|zh|天市右垣九}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán jiǔ}}, {{lang-en|the Ninth Star of Right Wall of Heavenly Market Enclosure}}), represent the state '''[[Liang (state)|Liang]]''' (梁) (or '''Leang''').<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=simbad>{{citation | title=del Oph -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Delta+Ophiuchi | accessdate=2010-07-06 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa61_1_17>{{citation | last=Oinas | first=V. | title=Neutral-ion anomaly in cool stars | journal=Astronomy and Astrophysics | volume=61 | issue=1 | pages=17&ndash;20 | month=October | year=1977 | bibcode=1977A&A....61...17O }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(52.5\cdot 10.47\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 118\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=kunitzsch_smart2006>{{citation | last1=Kunitzsch | first1=P. | last2=Smart | first2=T. | year=2006 | title=A Dictionary of Modern Star names: A Short Guide to 254 Star names and Their Derivations | edition=Second Revised | publisher=Sky Publishing | location=Cambridge, MA | isbn=1-931559-44-9 | page=31 }}</ref> 
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hercules*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=243 }}</ref>
+
+<ref name=rhoads1971>{{citation | url=http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf | first1=Jack W. | last1=Rhoads | title=Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars | publisher=Jet Propulsion Laboratory, California Institute of Technology | date=November 15, 1971 }}</ref>
+
+<ref name=an319_6_375>{{citation | last1=Schmidt-Kaler | first1=T. | last2=Oestreicher | first2=M. O. | title=The luminosity index for M stars and the distance to the LMC | journal=Astronomische Nachrichten | volume=319 | issue=6 | pages=375–386 | month=October | year=1998 | bibcode=1998AN....319..375S }}</ref>
+
+<ref name=tsuji2007>{{citation | last1=Tsuji | first1=Takashi | contribution=Isotopic abundances of Carbon and Oxygen in Oxygen-rich giant stars | title=Convection in Astrophysics, Proceedings of IAU Symposium #239 held 21-25 August, 2006 in Prague, Czech Republic | editor1-first=F. | editor1-last=Kupka | editor2-first=I. | editor2-last=Roxburgh | editor3-first=K. | editor3-last=Chan | pages=307–310 | month=May | year=2007 | doi=10.1017/S1743921307000622 | bibcode=2007IAUS..239..307T |arxiv = astro-ph/0610180 }}</ref>
+
+<ref name=ibvs3791_1>{{citation | last1=Percy | first1=J. R. | last2=Shepherd | first2=C. W. | title=A Photometric Survey of Small-Amplitude Red Variables | journal=Information Bulletin on Variable Stars | volume=3792 | page=1 | month=October | year=1992 | bibcode=1992IBVS.3792....1P }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+* {{citation | accessdate=2012-02-07 | url=http://stars.astro.illinois.edu/sow/yedprior.html | title=Yed Prior | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois }}
+
+{{Stars of Ophiuchus}}
+
+[[Category:Ophiuchus (constellation)]]
+[[Category:Bayer objects|Ophiuchi, Delta]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:مقدم يد الحواء (نجم)]]
+[[de:Delta Ophiuchi]]
+[[es:Yed Prior]]
+[[fa:دلتا مارافسای]]
+[[fr:Delta Ophiuchi]]
+[[id:Delta Ophiuchi]]
+[[it:Delta Ophiuchi]]
+[[lb:Yed Prior]]
+[[nl:Yed Prior]]
+[[ja:へびつかい座デルタ星]]
+[[pt:Delta Ophiuchi]]
+[[sk:Yed Prior]]
+[[zh:天市右垣九]]

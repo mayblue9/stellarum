@@ -1,0 +1,111 @@
+{{Starbox begin
+ | name=Rho Puppis
+}}
+{{Starbox image
+ | image =
+     <div style="position: relative">[[File:Puppis IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Puppis constellation and its surroundings]]
+     <div style="position: absolute; left: 32.1%; top: 33.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ρ Puppis (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|08|07|32.64882}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|−24|18|15.5679}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.78<ref name=rmaa2_235/>
+ | constell = [[Puppis]]
+}}
+{{Starbox character
+ | class    = F2mF5IIp<ref name=apj660_2_1556/>
+ | b-v      = +0.40<ref name=rmaa2_235/>
+ | u-b      = +0.17<ref name=rmaa2_235/>
+ | variable = [[Delta Scuti variable|δ Sct]]<ref name=aaa327_1077/>
+}}
+{{Starbox astrometry
+ | radial_v = +46.1<ref name=rgcrv/>
+ | prop_mo_ra  = –83.35<ref name=aaa474_2_653/>
+ | prop_mo_dec = +46.23<ref name=aaa474_2_653/>
+ | parallax = 51.33
+ | p_error  = 0.15
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v =
+}}
+{{Starbox detail
+ | mass     = 1.85<ref name=kaler/>
+ | radius   = 3.41<ref name=apj660_2_1556/>
+ | metal_fe = 0.35<ref name=aaa249_1_205/>
+ | gravity  = 3.70<ref name=aaa249_1_205/>
+ | age_gyr  = 2<ref name=apj745_2_147/>
+ | luminosity  = 22<ref name=kaler/>
+ | temperature = 6,920<ref name=aaa429_1043/>
+ | rotational_velocity = 15<ref name=coapa239_1/>
+}}
+{{Starbox catalog
+ | names = ρ&nbsp;Puppis, ρ&nbsp;Pup, Rho&nbsp;Pup, 15 Puppis, [[Durchmusterung|CPD]]−23 &nbsp;3368, [[Fifth Fundamental Catalogue|FK5]]&nbsp;308, [[Henry Draper Catalogue|HD]]&nbsp;67523, [[Hipparcos catalogue|HIP]]&nbsp;39757, [[Bright Star Catalogue|HR]]&nbsp;3185, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;175217.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Rho&nbsp;Puppis''' ('''Rho&nbsp;Pup''', '''ρ&nbsp;Puppis''', '''ρ&nbsp;Pup''') is a [[star]] in the southern [[constellation]] of [[Puppis]], which according to British astronomy author [[Patrick Moore]], has the traditional name '''Turais'''.<ref name=moore2005/> With an average [[apparent visual magnitude]] of 2.78,<ref name=rmaa2_235/> it is the [[List of stars in Puppis|third brightest]] member of this generally faint constellation. Based upon [[parallax]] measurements made during the [[Hipparcos]] mission, Rho Puppis is located at a distance of {{Convert|63.5|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> At present it is moving away from the Sun with a [[radial velocity]] of +46.1 km s<sup>–1</sup>. The closest approach occurred about 394,000 years ago when Rho Puppis came within roughly {{Convert|11.6|ly|pc|abbr=on}} of the [[Solar System]]; about the same distance as [[Procyon]] in the present era.<ref name=aaa379_634/>
+
+The [[variable star|variability]] of this star was announced in 1956 by American astronomer [[Olin J. Eggen]].<ref name=aaa327_1077/> It was determined to be a [[Delta Scuti variable|Delta Scuti]]-type variable star, making it one of the first stars of that type to be identified. Photometric observations dating back to 1946 provide a lengthy record of its pattern of pulsation; it undergoes periodic pulsations with a single period of 0.14088143(3) days,<ref name=jaavso37_1_3/> or 7.1 cycles per day. During each cycle, the star's magnitude varies with an amplitude of 0.15 and the radial velocity varies by 10 km s<sup>–1</sup>. The peak brightness occurs 28.8&nbsp;minutes following the minimum radial velocity.<ref name=aaa327_1077/> The [[stellar atmosphere|outer atmosphere's]] [[effective temperature]] of 6,920&nbsp;K<ref name=aaa429_1043/> is one of the lowest known for a Delta Scuti variable.<ref name=aaa327_1077/>
+
+Rho Puppis has an estimated age of about 2 billion years<ref name=apj745_2_147/> and it has 3.4<ref name=apj660_2_1556/> times the Sun's radius. It has a stellar classification of F2mF5IIp,<ref name=apj660_2_1556/> which matches the [[spectrum]] of an [[F-type star|F-type]] [[bright giant]] star. It shows stronger than normal [[absorption line]]s of metals—a term astronomers use for any element other than hydrogen and helium. The 'p' suffix indicates chemical peculiarities that mark it as a cooler temperature [[Am star]].<ref name=baas42_339/> Most such stars are found in binary star systems,<ref name=aaa491_2_545/> but this appears to be an exception as no companion has been discovered.<ref name=mnras389_2_869/><ref name=apj745_2_147/> Evolved stars that show this combination of Delta Scuti variability with Am-like peculiarities of abundance have come to be known as ρ Pup stars.<ref name=cia159_61/> The star's [[metallicity]] is more than double that in the Sun.<ref name=aaa249_1_205/>
+
+This star shows an [[infrared excess|excess emission of infrared radiation]], suggesting that there is a circumstellar [[debris disk|disk of dust]] orbiting this star. The mean temperature of the emission is 85&nbsp;K, corresponding to an orbital separation from the host star of 50&nbsp;[[Astronomical Unit|AU]].<ref name=apj660_2_1556/><ref name=apj745_2_147/>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=apj660_2_1556>{{citation | display-authors=1 | last1=Rhee | first1=Joseph H. | last2=Song | first2=Inseok | last3=Zuckerman | first3=B. | last4=McElwain | first4=Michael | title=Characterization of Dusty Debris Disks: The IRAS and Hipparcos Catalogs | journal=The Astrophysical Journal | volume=660 | issue=2 | pages=1556–1571 | month=May | year=2007 | doi=10.1086/509912 | bibcode=2007ApJ...660.1556R |arxiv = astro-ph/0609555 }}</ref>
+
+<ref name=aaa249_1_205>{{citation | last1=Burkhart | first1=C. | last2=Coupry | first2=M. F. | title=The A and Am-Fm stars. I - The abundances of Li, Al, Si, and Fe | journal=Astronomy and Astrophysics | volume=249 | issue=1 | month=September | year=1991 | pages=205−216 | bibcode=1991A&A...249..205B }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 |  | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=coapa239_1>{{cite journal | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=rmaa2_235>{{citation | display-authors=1 | last1=Bookmeyer | first1=B. B. | last2=Fitch | first2=W. S. | last3=Lee | first3=T. A. | last4=Wisniewski | first4=W. Z. | last5=Johnson | first5=H. L. | title=Photoelectric UBV observations of RR Lyrae variable stars. Second list | journal=Revista Mexicana de Astronomia y Astrofisica | volume=2 | pages=235–258 | month=August | year=1977 | bibcode=1977RMxAA...2..235B }}</ref>
+
+<ref name=jaavso37_1_3>{{citation | last1=Moon | first1=T. | last2=van Antwerpen | first2=C. | title=Period Changes in δ Scuti Stars: ρ Puppis | journal=The Journal of the American Association of Variable Star Observers | volume=37 | issue=1 | pages=3–14 | month=June | year=2009 | bibcode=2009JAVSO..37....3M }}</ref>
+
+<ref name=aaa491_2_545>{{citation | display-authors=1 | last1=Netopil | first1=M. | last2=Paunzen | first2=E. | last3=Maitzen | first3=H. M. | last4=North | first4=P. | last5=Hubrig | first5=S. | title=Chemically peculiar stars and their temperature calibration | journal=Astronomy and Astrophysics | volume=491 | issue=2 | pages=545–554 | month=November | year=2008 | doi=10.1051/0004-6361:200810325 | bibcode=2008A&A...491..545N |arxiv = 0809.5131 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=rho Pup -- Variable Star of delta Sct type | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Rho+Puppis | accessdate=2012-01-25 }}</ref>
+
+<ref name=moore2005>{{citation | title=The observer's year: 366 nights of the universe | series=Practical Astronomy | edition=2nd | publisher=Springer | year=2005 | isbn=1-85233-884-9 | page=346 | url=http://books.google.com/books?id=0Pu_YNynaiYC&pg=PA346 }}</ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=apj745_2_147>{{citation | last1=Rodriguez | first1=David R. | last2=Zuckerman | first2=B. | title=Binaries among Debris Disk Stars | journal=The Astrophysical Journal | volume=745 | issue=2 | page=147 | month=February | year=2012 | doi=10.1088/0004-637X/745/2/147 | bibcode=2012ApJ...745..147R |arxiv = 1111.5618 }}</ref>
+
+<ref name=aaa429_1043>{{citation | display-authors=1 | last1=Burkhart | first1=C. | last2=Coupry | first2=M. F. | last3=Faraggiana | first3=R. | last4=Gerbaldi | first4=M. | title=The field Am and ρ Puppis-like stars: Lithium and heavier elements | journal=Astronomy and Astrophysics | volume=429 | pages=1043–1049 | month=January | year=2005 | doi=10.1051/0004-6361:20040467 | bibcode=2005A&A...429.1043B }}</ref>
+
+<ref name=aaa379_634>{{citation | display-authors=1 | last1=García-Sánchez | first1=J. | last2=Weissman | first2=P. R. | last3=Preston | first3=R. A. | last4=Jones | first4=D. L. | last5=Lestrade | first5=J.-F. | last6=Latham | first6=D. W. | last7=Stefanik | first7=R. P. | last8=Paredes | first8=J. M. | title=Stellar encounters with the solar system | journal=Astronomy and Astrophysics | volume=379 | pages=634–659 | month=November | year=2001 | doi=10.1051/0004-6361:20011330 | bibcode=2001A&A...379..634G }}</ref>
+
+<ref name=aaa327_1077>{{citation | display-authors=1 | last1=Mathias | first1=P. | last2=Gillet | first2=D. | last3=Aerts | first3=C. | last4=Breitfellner | first4=M. G. | title=A spectroscopic study of the delta Scuti star rho Puppis | journal=Astronomy and Astrophysics | volume=327 | pages=1077–1086 | month=November | year=1997 | bibcode=1997A&A...327.1077M }}</ref>
+
+<ref name=cia159_61>{{citation | last1=Kochukhov | first1=O. | contribution=Asteroseismology of chemically peculiar stars | journal=Communications in Asteroseismology | volume=159 | pages=61–70 | month=March | year=2009 | bibcode=2009CoAst.159...61K |arxiv = 0812.0374 |doi = 10.1553/cia159s61 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=TUREIS (Rho Puppis) | work=Stars | publisher=University of Illinois | date=September 5, 2008 | url=http://stars.astro.illinois.edu/sow/tureis.html | accessdate=2012-02-25 }}</ref>
+
+<ref name=baas42_339>{{citation | last1=McGahee, Courtney; Gray, R. O. | title=Chemical Abundance Analysis of Rho Puppis Stars | journal=Bulletin of the American Astronomical Society | volume=42 | page=339 | month=January | year=2010 | bibcode=2010AAS...21542520M }}</ref>
+
+}}
+
+{{Nearest star systems|13}}
+{{Stars of Puppis}}
+
+[[Category:Bayer objects|Puppis, Rho]]
+[[Category:Puppis (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Circumstellar disks]]
+
+[[es:Rho Puppis]]
+[[fa:تریس (کشتیدم)]]
+[[fr:Rho Puppis]]
+[[it:Rho Puppis]]
+[[ja:トゥレイス]]
+[[pt:Rho Puppis]]
+[[uk:HD67523]]
+[[zh:弧矢增卅二]]

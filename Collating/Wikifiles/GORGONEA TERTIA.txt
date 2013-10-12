@@ -1,0 +1,113 @@
+{{Starbox begin
+ | name = Rho Persei
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Perseus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Perseus constellation and its surroundings]]
+     <div style="position: absolute; left: 63.5%; top: 54.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ρ Persei (circled)
+}}
+{{Starbox observe 
+ | epoch    = J2000 
+ | ra       = {{RA|03|05|10.59385}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+38|50|24.9943}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.39<ref name=aass34_1/>
+ | constell = [[Perseus (constellation)|Perseus]]
+}}
+{{Starbox character 
+ | class    = M4&nbsp;II<ref name=apj652_1_650/>
+ | b-v      = +1.65<ref name=aass34_1/>
+ | u-b      = +1.79<ref name=aass34_1/>
+ | variable = [[Semiregular variable star|Semiregular]]<ref name=apj652_1_650/>
+}} 
+{{Starbox astrometry 
+ | radial_v = {{nowrap|+29.10 ± 0.30}}<ref name=aaa498_2_627/>
+ | prop_mo_ra  = +129.22<ref name=aaa474_2_653/> 
+ | prop_mo_dec = –105.70<ref name=aaa474_2_653/> 
+ | parallax = 10.60
+ | p_error  = 0.25
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –1.7<ref name=mnras355_2_601/>
+}}
+{{Starbox detail 
+ | mass     = 5.0<ref name=allen_tse_516/>
+ | radius   = 150<ref name=allen_tse_516/>
+ | luminosity  = 2,290<ref name=allen_tse_516/>
+ | gravity  = 1.0<ref name=aj135_1_209/>
+ | temperature = 4,111<ref name=aj135_1_209/>
+ | metal_fe = 
+ | rotational_velocity = 11.2<ref name=aj135_1_209/>
+ | rotation = 
+ | age      = {{nowrap|4.4 × 10<sup>8</sup>}}<ref name=kaler/>
+}}
+{{Starbox catalog
+ | names = Gorgonea Tertia, ρ&nbsp;Persei, ρ&nbsp;Per, Rho&nbsp;Per, 25&nbsp;Per, [[Star catalogue#BD/CD/CPD|BD]]+38°630, [[Fifth Fundamental Catalogue|FK5]]&nbsp;109, [[Boss General Catalogue|GC]]&nbsp;3682, [[Henry Draper Catalogue|HD]]&nbsp;19058, [[Hipparcos|HIP]]&nbsp;14354, [[Bright Star Catalogue|HR]]&nbsp;921, [[PPM Star Catalogue|PPM]]&nbsp;68074, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;56138.<ref name=SIMBAD/>
+}}
+{{Starbox end}}	
+ 
+'''Rho Persei''' ('''Rho&nbsp;Per''', '''ρ&nbsp;Persei''', '''ρ&nbsp;Per''') is a [[star]] in the northern [[constellation]] of [[Perseus (constellation)|Perseus]]. It has the traditional name '''Gorgonea Tertia''',<ref name=allen1899/> being the third member of the quartet called the Gorgonea in reference to the [[Gorgon]]s from the legend of [[Perseus]].<ref name=kaler/> An [[apparent visual magnitude]] of +3.39<ref name=aass34_1/> makes it visible to the naked eye, but a [[Bortle Dark-Sky Scale|challenge to view]] from a well-lit urban environment. Based upon [[parallax]] measurements, it is located at a distance of roughly {{Convert|308|ly|pc}} from [[Earth]].<ref name=aaa474_2_653/>
+
+Rho Persei is a [[semiregular variable star]] of the [[Mu Cephei|μ Cephei]] type, whose [[apparent magnitude]] varies between 3.3 and 4.0<ref name=gcvs3/> with periods of 50, 120 and 250 days.<ref name=mnras355_2_601/> The star has reached the [[asymptotic giant branch]] of its [[stellar evolution|evolution]]. It is presently near the [[tip of the red giant branch]] with a [[stellar classification]] of M4&nbsp;II.<ref name=apj652_1_650/> The outer envelope has an [[effective temperature]] of 4,111&nbsp;K,<ref name=aj135_1_209/> giving it the red-orange hue of an M-type star.<ref name=csiro/>
+
+This star has a mass five times the [[solar mass|mass of the Sun]], while its radius has expanded to 150 [[solar radius|times solar]]. It is radiating some 2,290 times the [[solar luminosity|Sun's luminosity]]. Rho Persei is losing mass at the rate of {{nowrap|1.2 × 10<sup>−8</sup>}} [[solar mass]]es per year, or the equivalent of the Sun's mass every 83 million years.<ref name=allen_tse_516/> It is about 440 million years in age.<ref name=kaler/>
+
+==Naming==
+In [[Chinese language|Chinese]], {{lang|zh|大陵}} ({{lang|zh-Latn|Dà Líng}}), meaning ''[[Stomach (Chinese constellation)|Mausoleum]]'', refers to an asterism consisting of ρ Persei, [[9 Persei]], [[Tau Persei|τ Persei]], [[Iota Persei|ι Persei]], [[Kappa Persei|κ Persei]], [[Algol|β Persei]], [[16 Persei]] and [[12 Persei]]. Consequently, ρ Persei itself is known as {{lang|zh|大陵六}} ({{lang|zh-Latn|Dà Líng liù}}, {{lang-en|the Sixth Star of Mausoleum}}.).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060711.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 11 日]</ref>
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaa498_2_627>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Pourbaix | first2=D. | last3=Frankowski | first3=A. | last4=van Eck | first4=S. | last5=Mayor | first5=M. | last6=Udry | first6=S. | last7=Jorissen | first8=A. | title=Spectroscopic binaries among Hipparcos M giants. I. Data, orbits, and intrinsic variations | journal=Astronomy and Astrophysics | volume=498 | issue=2 | pages=627–640 | month=May | year=2009 | doi=10.1051/0004-6361/200810698 | bibcode=2009A&A...498..627F |arxiv = 0901.0934 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aass34_1>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=apj652_1_650>{{citation | display-authors=1 | last1=Ragland | first1=S. | last2=Traub | first2=W. A. | last3=Berger | first3=J.-P. | last4=Danchi | first4=W. C. | last5=Monnier | first5=J. D. | last6=Willson | first6=L. A. | last7=Carleton | first7=N. P. | last8=Lacasse | first8=M. G. | last9=Millan-Gabet | first9=R. | title=First Surface-resolved Results with the Infrared Optical Telescope Array Imaging Interferometer: Detection of Asymmetries in Asymptotic Giant Branch Stars | journal=The Astrophysical Journal | volume=652 | issue=1 | pages=650–660 | month=November | year=2006 | doi=10.1086/507453 | bibcode=2006ApJ...652..650R |arxiv = astro-ph/0607156 }}</ref>
+
+<ref name=mnras355_2_601>{{citation | last1=Yeşilyaprak | first1=C. | last2=Aslan | first2=Z. | title=Period-luminosity relation for M-type semiregular variables from Hipparcos parallaxes | journal=Monthly Notices of the Royal Astronomical Society | volume=355 | issue=2 | pages=601–607 | month=December | year=2004 | doi=10.1111/j.1365-2966.2004.08344.x | bibcode=2004MNRAS.355..601Y }}</ref>
+
+<ref name=allen_tse_516>{{citation | last1=Cox | first1=Arthur N. | last2=Becker | first2=Stephen A. | last3=Pesnell | first3=W. Dean | chapter=Chapter 20. Theoretical Stellar Evolution | page=516 | title=Allen's astrophysical quantities | edition=4th | isbn=0-387-98746-0 | publisher=Springer | publication-place=New York | url=http://extras.springer.com/2000/978-0-387-95189-8/BookChap/book20.pdf | accessdate=2012-01-25 }} See table 20.5</ref>
+
+<ref name=SIMBAD>{{citation | title=rho Per -- Semi-regular pulsating Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Rho+Persei | accessdate=2012-01-24 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=gcvs3>{{citation | display-authors=1 | last1=Kukarkin | first1=B. V. | last2=Kholopov | first2=P. N. | last3=Pskovsky | first3=Y. P. | last4=Efremov | first4=Y. N. | last5=Kukarkina | first5=N. P. | last6=Kurochkin | first6=N. E. | last7=Medvedeva | first7=G. I. | contribution=The third edition containing information on 20437 variable stars discovered and designated till 1968 | title=General Catalogue of Variable Stars | edition=3rd | year=1971 | bibcode=1971GCVS3.C......0K }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=334 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA334 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=GORGONEA TERTIA (Rho Persei) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/gorgtert.html | accessdate=2012-01-25 }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/gorgtert.html Gorgonea Tertia]
+
+{{Stars of Perseus}}
+
+[[Category:Bayer objects|Persei, Rho]]
+[[Category:Flamsteed objects|Persei, 25]]
+[[Category:Henry Draper Catalogue objects|019058]]
+[[Category:Perseus (constellation)]]
+[[Category:M-type giants]]
+[[Category:Semiregular variable stars]]
+[[Category:Stars with proper names]]
+
+[[de:Gorgonea Tertia]]
+[[es:Gorgonea Tertia]]
+[[fa:رو برساووش]]
+[[fr:Rho Persei]]
+[[id:Rho Persei]]
+[[nl:Gorgonea Tertia]]
+[[ja:ペルセウス座ロー星]]
+[[pl:Ro Persei]]
+[[pt:Rho Persei]]
+[[ru:Ро Персея]]
+[[sk:Gorgonea Tertia]]
+[[zh:大陵六]]

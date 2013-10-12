@@ -1,0 +1,101 @@
+{{Starbox begin
+ | name = Zeta Pegasi
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 44.2%; top: 54.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ζ Pegasi (circled)
+}}
+{{Starbox observe 
+ | epoch    = [[J2000.0]]
+ | constell = [[Pegasus (constellation)|Pegasus]] 
+ | ra       = {{RA|22|41|27.72072}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+10|49|52.9079}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.414<ref name=sps1966/>
+}}
+{{Starbox character 
+ | class    = B8&nbsp;V<ref name=rob135_385/>
+ | b-v      = –0.088<ref name=sps1966/>
+ | u-b      = –0.181<ref name=sps1966/>
+ | variable = SPB<ref name=pasp119_855_483/>
+}}
+{{Starbox astrometry
+ | radial_v = +7.0<ref name=scfs/>
+ | prop_mo_ra  = +77.22<ref name=aaa474_2_653/>
+ | prop_mo_dec = –11.38<ref name=aaa474_2_653/>
+ | parallax = 15.96
+ | p_error  = 0.19
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 
+ | radius   = {{nowrap|4.03 ± 0.22}}<ref name=aj129_3_1642/>
+ | metal_fe = 
+ | gravity  = {{nowrap|3.67 ± 0.05}}<ref name=aj129_3_1642/>
+ | age_myr  = 120<ref name=apj620_2_1010/>
+ | luminosity  = 
+ | temperature = {{nowrap|11,190 ± 55}}<ref name=aj129_3_1642/>
+ | rotational_velocity = 140<ref name=apj573_1_359/>–210<ref name=apj620_2_1010/>
+}}
+{{Starbox catalog 
+ | names = Homam, 42&nbsp;Peg, [[Bonner Durchmusterung|BD]]+10 4797. [[Catalogues of Fundamental Stars|FK5]]&nbsp;855, [[Henry Draper Catalogue|HD]]&nbsp;214923, [[Hipparcos Catalogue|HIP]]&nbsp;112029, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;8634, [[Star catalogue#SAO|SAO]]&nbsp;108103.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Zeta Pegasi''' (ζ Peg) is a single<ref name=aj133_2_545/> [[star]] in the northern [[constellation]] of [[Pegasus (constellation)|Pegasus]]. It has the traditional name, '''Homam''', meaning "Man of High Spirit" or "Lucky Star of High Minded". With an [[apparent visual magnitude]] of +3.4,<ref name=sps1966/> this star is bright enough to be seen with the naked eye and is one of the [[List of stars in Pegasus|brighter members]] of Pegasus. [[Parallax]] measurements place it at a distance of around {{Convert|204|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+This star has a [[stellar classification]] of B8&nbsp;V,<ref name=rob135_385/> which identifies it as a large [[B-type main sequence star]] that is generating energy through the [[nuclear fusion]] of hydrogen at its core. The radius of this star is about four times that of the Sun.<ref name=aj129_3_1642/> It is a [[slowly pulsating B star]] that varies slightly in luminosity with a period of 22.952 ± 0.804 hours, completing 1.04566 cycles per day.<ref name=pasp119_855_483/> Zeta Pegasi is about 120<ref name=apj620_2_1010/> million years old and is rotating rapidly with a [[projected rotational velocity]] in the range of {{nowrap|140<ref name=apj573_1_359/>–210<ref name=apj620_2_1010/> km s<sup>–1</sup>}}. The [[effective temperature]] of its [[stellar atmosphere|outer envelope]] is around 11,190&nbsp;K,<ref name=aj129_3_1642/> giving it the characteristic blue-white glow of a [[B-type star]].<ref name=csiro/>
+
+Zeta Pegasi has been examined for [[infrared excess]] that may indicate the presence of circumstellar matter, but none was found.<ref name=apj653_1_675/> This star does have two [[optical companion]]s. The first is a magnitude 11.6 star at an [[angular separation]] of 68&nbsp;[[arcsecond]]s along a [[position angle]] of 139°, as of 1997.<ref name=pasp119_855_483/> The second is an 11th magnitude star at a separation of 177&nbsp;arcseconds with a position angle of 5°.<ref name=scfs/> Zeta Pegasi is not known to be a member of a [[stellar association]].<ref name=apj653_1_675/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj129_3_1642>{{citation | last1=Fitzpatrick | first1=E. L. | last2=Massa | first2=D. | title=Determining the Physical Properties of the B Stars. II. Calibration of Synthetic Photometry | journal=The Astronomical Journal | volume=129 | issue=3 | pages=1642–1662 | month=March | year=2005 | doi=10.1086/427855 | bibcode=2005AJ....129.1642F |arxiv = astro-ph/0412542 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=pasp119_855_483>{{citation | last1=Goebel | first1=John H. | title=Gravity Probe B Photometry and Observations of ζ Pegasi: An SPB Variable Star | journal=The Publications of the Astronomical Society of the Pacific | volume=119 | issue=855 | pages=483–493 | month=May | year=2007 | doi=10.1086/518618 | bibcode=2007PASP..119..483G }}</ref>
+
+<ref name=apj620_2_1010>{{citation | display-authors=1 | last1=Rieke | first1=G. H. | last2=Su | first2=K. Y. L. | last3=Stansberry | first3=J. A. | last4=Trilling | first4=D. | last5=Bryden | first5=G. | last6=Muzerolle | first6=J. | last7=White | first7=B. | last8=Gorlova | first8=N. | last9=Young | first9=E. T. | last10=Beichman | first10=C. A. | last11=Stapelfeldt | first11=K. R. | last12=Hines | first12=D. C. | title=Decay of Planetary Debris Disks | journal=The Astrophysical Journal | volume=620 | issue=2 | pages=1010–1026 | month=February | year=2005 | doi=10.1086/426937 | bibcode=2005ApJ...620.1010R }}</ref>
+
+<ref name=rob135_385>{{citation | display-authors=1 | last1=Palmer | first1=D. R. | last2=Walker | first2=E. N. | last3=Jones | first3=D. H. P. | last4=Wallis | first4=R. E. | title=The radial velocities spectral types and projected rotational velocities of 633 bright northern A stars | journal=Royal Observatory Bulletin | volume=135 | page=385 | year=1968 | bibcode=1968RGOB..135..385P }}</ref>
+
+<ref name=SIMBAD>{{citation | title=zet Peg -- Star in double system | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Pegasi | accessdate=2012-03-01 }}</ref>
+
+<ref name=aj133_2_545>{{citation | last1=Roberts | first1=Lewis C., Jr. | last2=Turner | first2=Nils H. | last3=ten Brummelaar | first3=Theo A. | title=Adaptive Optics Photometry and Astrometry of Binary Stars. II. A Multiplicity Survey of B Stars | journal=The Astronomical Journal | volume=133 | issue=2 | pages=545–552 | month=February | year=2007 | doi=10.1086/510335 | bibcode=2007AJ....133..545R }}</ref>
+
+<ref name=apj653_1_675>{{cite journal | author=Su, K. Y. L. | coauthors=''et al''. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S | arxiv=astro-ph/0608563 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Pegasus}}
+
+[[Category:Pegasus (constellation)]]
+[[Category:Bayer objects|Pegasi, Zeta]]
+[[Category:Flamsteed objects|Pegasi, 42]]
+[[Category:Stars with proper names]]
+
+[[ar:سعد الهمام]]
+[[de:Homam (Stern)]]
+[[es:Homam]]
+[[fa:سعدالهمام]]
+[[fr:Zeta Pegasi]]
+[[id:Zeta Pegasi]]
+[[lb:Homam (Stär)]]
+[[nl:Homam]]
+[[ja:ペガスス座ゼータ星]]
+[[pl:Zeta Pegasi]]
+[[pt:Zeta Pegasi]]
+[[sk:Homam]]
+[[tt:Һөмам]]

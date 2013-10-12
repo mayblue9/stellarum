@@ -1,0 +1,57 @@
+{{Starbox short |
+| name=γ Canis Maioris
+| epoch=[[J2000.0]]
+| constell=[[Canis Major]]
+| ra=07<sup>h</sup>03<sup>m</sup>45.5<sup>s</sup>
+| dec=&minus;15°38′00″
+| spectral=B8II
+| appmag_v=+4.11
+| dist_ly=402 ± 31
+| dist_pc=123 ± 10
+| names=Muliphein, Muliphen, Isis, Mirza, 23&nbsp;Canis Majoris, [[Harvard Revised catalogue|HR]]&nbsp;2657, [[Henry Draper Catalogue|HD]]&nbsp;53244, [[Bonner Durchmusterung|BD]]−15°1625, [[Fifth Fundamental Catalogue|FK5]]&nbsp;271, [[Hipparcos catalogue|HIP]]&nbsp;34045, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;152303, GC&nbsp;9320
+}}
+'''Gamma Canis Majoris''' (γ CMa, γ Canis Majoris) is a [[star]] in the [[constellation]] [[Canis Major]].  It has the traditional name '''Muliphein''',<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Canis_Major*.html Star Name - R.H.Allen p.130]</ref> not to be confused with ''Muhlifain'', which is [[Gamma Centauri]]; both names derive from the same Arabic root, محلفين ''muħlifayn''.
+
+It is unclear exactly why this relatively faint star was given the "gamma" designation, but it is possibly because it is in the same part of the constellation as Sirius (alpha) and Murzim (beta).
+
+γ Canis Majoris is a blue-white [[stellar classification|B-type]] [[bright giant]] with an [[apparent magnitude]] of +4.11. It is approximately 402 [[light years]] from [[Earth]]. This star has 5.6 times the radius of the Sun and the outer atmosphere has an [[effective temperature]] of 13,596&nbsp;K.<ref name=mnras189_601/>
+
+==Modern legacy==
+Muliphein appears on the  [[flag of Brazil]], symbolizing the state of [[Rondônia]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+==''Muliphen'' as the name of a warship==
+The [[USS Muliphen (AKA-61)|USS ''Muliphen'']] (AKA-61) was once a [[U.S. Navy]] [[cargo ship]].
+
+==References==
+{{reflist|refs=
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+}}
+
+{{Stars of Canis Major}}
+
+[[Category:Bayer objects|Canis Majoris, Gamma]]
+[[Category:Canis Major (constellation)]]
+[[Category:B-type bright giants]]
+[[Category:Stars with proper names]]
+
+
+{{Star-stub}}
+
+[[ca:Gamma Canis Majoris]]
+[[de:Gamma Canis Majoris]]
+[[es:Muliphein]]
+[[fa:گاما سگ بزرگ]]
+[[fr:Gamma Canis Majoris]]
+[[id:Gamma Canis Majoris]]
+[[it:Muliphein]]
+[[nl:Muliphen]]
+[[ja:おおいぬ座ガンマ星]]
+[[pt:Gamma Canis Majoris]]
+[[ru:Гамма Большого Пса]]
+[[sk:Muliphein]]

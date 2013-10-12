@@ -1,0 +1,123 @@
+{{Starbox begin
+ | name = Beta Librae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Libra IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Libra constellation and its surroundings]]
+     <div style="position: absolute; left: 49.2%; top: 33.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption = The position of β Librae (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|15|17|00.41382}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|−09|22|58.4919}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.61<ref name=scfs/>
+ | constell = [[Libra (constellation)|Libra]]
+}}
+{{Starbox character
+ | class    = B8&nbsp;V<ref name=apj736_2_89/>
+ | b-v      = −0.106<ref name=apjs15_459/>
+ | u-b      = −0.359<ref name=apjs15_459/>
+ | variable = Suspected
+}}
+{{Starbox astrometry
+ | radial_v = −35.2<ref name=scfs/>
+ | prop_mo_ra  = −98.10<ref name=aaa474_2_653/>
+ | prop_mo_dec = −19.65<ref name=aaa474_2_653/>
+ | parallax = 17.62
+ | p_error  = 0.16
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 3.5{{+-|0.3|0.2}}<ref name=apj736_2_89/>
+ | radius   = 4.9<ref name=lang2006/>
+ | luminosity  = 130
+ | temperature = 12,300<ref name=aaa501_1_297/>
+ | metal_fe    = 0.33<ref name=apj736_2_89/>
+ | rotational_velocity = 250<ref name=apj573_1_359/>
+ | age_myr  = 80{{+-|50|40}}<ref name=apj736_2_89/>
+}}
+{{Starbox catalog
+ | names = Zubeneschemali, Lanx Borealis, 27 Librae, [[Bonner Durchmusterung|BD]]-08 3935, [[FK5]] 564, [[Henry Draper catalogue|HD]] 135742, [[Hipparcos catalogue|HIP]] 74785, [[Harvard Revised catalogue|HR]] 5685, NSV 7009, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 140430.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Beta Librae''' (β Lib, β Librae) is the [[Bayer designation]] for a [[star]] in the [[zodiac]] [[constellation]] of [[Libra (constellation)|Libra]]. It has the traditional name '''Zubeneschamali''' ({{IPAc-en|icon|ˌ|z|uː|b|ən|ˌ|ɛ|ʃ|ə|ˈ|m|eɪ|l|i}}) and the [[Latin]] name '''Lanx Borealis''',<ref name=lahire1727/> meaning "the northern scale [of the Balance]". The name '''''Zubeneschamali''''' is derived from the [[Arabic language|Arabic]] الزبن الشمالية (''al-zuban al-šamāliyya'')  meaning "The Northern Claw".<ref name="Auk"/> The [[apparent visual magnitude]] of this star is 2.6,<ref name=scfs/> making it the brightest member of Libra. From [[parallax]] measurements, its distance can be estimated as {{Convert|185|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+== Description ==
+Based upon the features of its [[spectrum]], Beta Librae has a [[stellar classification]] of B8&nbsp;V,<ref name=apj736_2_89/> making it a [[B-type main sequence star]]. It is about 130 times more luminous than the Sun and has a surface temperature of 12,300&nbsp;[[Kelvin|K]],<ref name=aaa501_1_297/> double that of the Sun. This high temperature produces light with a simple [[spectrum]], making it ideal for examining the interstellar gas and dust between us and the star. Like many stars of its kind, it is spinning rapidly, over 100 times faster than the Sun with a [[projected rotational velocity]] of {{nowrap|250 km s<sup>–1</sup>}}.<ref name=apj573_1_359/> The measured [[angular diameter]] of the primary star is 0.801&nbsp;[[milliarcsecond|mas]].<ref name=aaa501_1_297/> At the estimated distance of this system, this yields a physical size of about 4.9 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> This type of massive, hydrogen-fusing star often appears blue-white, but Beta Librae is often described as greenish, the only greenish star visible to the naked eye.<ref name="uiuc"/>
+
+The small periodic variations in the magnitude of the Beta Librae suggests the presence of a companion star which is not directly observable from earth.<ref name="glyphweb"/> However, it is presently categorized as a single star.<ref name=mnras389_2_869/>
+
+==History==
+According to [[Eratosthenes]] Beta Librae was observed to be brighter than [[Antares]]. [[Ptolemy]], three hundred and fifty years later, said it was as bright as Antares. The discrepancy may be due to Antares becoming brighter, but this is not known for certain. It could simply be caused by Beta Librae being a [[variable star]], showing a present day variability of 0.03 of a magnitude.<ref name="Auk"/>
+
+== See also ==
+* [[List of stars in Libra]]
+* [[Beta Librae in fiction]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W | postscript=. }}</ref>
+
+<ref name=apj736_2_89>{{citation | display-authors=1 | last1=Janson | first1=Markus | last2=Bonavita | first2=Mariangela | last3=Klahr | first3=Hubert | last4=Lafrenière | first4=David | last5=Jayawardhana | first5=Ray | last6=Zinnecker | first6=Hans | title=High-contrast Imaging Search for Planets and Brown Dwarfs around the Most Massive Stars in the Solar Neighborhood | journal=The Astrophysical Journal | volume=736 | issue=2 | page=89 | month=August | year=2011 | doi=10.1088/0004-637X/736/2/89 | bibcode=2011ApJ...736...89J |arxiv = 1105.2577 }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first4=M. F. | last5=Torres | first5=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=SIMBAD>{{citation | title=HD 135742 -- Variable Star | work=SIMBAD Astronomical Object Database | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=beta+librae | accessdate=2007-01-22 }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3540296921 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(56.8\cdot 0.801\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 9.8\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=mnras389_2_869>{{cite journal | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name="uiuc">{{citation | title=Zubeneschamali | first1=James B. | last1=Kaler | publisher=University of Illinois | url=http://www.astro.uiuc.edu/~kaler/sow/zubenes.html | work=Stars | year=2006 | accessdate=2006-07-03 }}</ref>
+
+<ref name="glyphweb">{{citation | title=Zuben Elschemali | work=The Electronic Sky | author=Mark Fisher | year=1999-2006 | url=http://www.glyphweb.com/esky/stars/zubenelschemali.html | accessdate=2009-01-25 }}</ref>
+
+<ref name=lahire1727>{{citation | url=http://www.archive.org/stream/tabulaeastronom00suntgoog#page/n146/mode/2up | first1=Philippe | last1=La Hire | title=Tabulae Astronomicae | year=1727}}, see star table, page 13.</ref>
+
+<ref name="Auk">{{citation | title=LIBRA – A Balanced View (page 7 of PDF) | work=Auckland Astronomical Society | url=http://www.astronomy.org.nz/Documents/Journal/journal_200606.pdf | author=AAS | year=2006 | accessdate=2009-01-25 }}</ref>
+
+}}
+
+==External links==
+*{{citation | url=http://www.icoproject.org/star.html | title=Arabic Star Names | work=Islamic Crescents' Observation Project | first1=Moh'd | last1=Odeh | year=1998-2006 | accessdate=2006-07-03 }} – Find more Arabic Star Names and their meanings.
+
+{{Stars of Libra}}
+
+[[Category:Bayer objects|Librae, Beta]]
+[[Category:B-type main sequence stars]]
+[[Category:Libra (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:الزبان الشمالي]]
+[[bg:Зубен Ел Шемали]]
+[[de:Zuben-el-schemali]]
+[[es:Zubeneschamali]]
+[[fa:زبان شمالی]]
+[[fr:Beta Librae]]
+[[ko:주벤에샤마리]]
+[[id:Beta Librae]]
+[[it:Beta Librae]]
+[[lb:Zuben-el-schemali (Stär)]]
+[[nl:Zuben Elschemali]]
+[[ja:てんびん座ベータ星]]
+[[pl:Zubenelschemali]]
+[[pt:Beta Librae]]
+[[ru:Бета Весов]]
+[[sk:Zubenelschemali]]
+[[tr:Beta Libra]]
+[[zh:氐宿四]]

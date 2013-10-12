@@ -1,0 +1,153 @@
+{{Starbox begin
+| name = [[Bayer designation|β&nbsp;Herculis]]}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Hercules IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Hercules constellation and its surroundings]]
+     <div style="position: absolute; left: 178px; top: 165px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Herculis (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Hercules (constellation)|Hercules]]
+| ra       = {{RA|16|30|13.19955}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+21|29|22.6008}}<ref name=aaa474_2_653/>
+| appmag_v = 2.81<ref name=apjss52_7/>
+}}
+{{Starbox character
+| class    = G7&nbsp;IIIa<ref name=aaa373_159/>
+| u-b      = +0.70<ref name=apjss52_7/>
+| b-v      = +0.91<ref name=apjss52_7/>
+| r-i      = +0.47<ref name=bsc2 />
+}}
+{{Starbox astrometry
+| radial_v = −25.5<ref name=gcrv1953/>
+| prop_mo_ra  = −99.15<ref name=aaa474_2_653/>
+| prop_mo_dec = −15.39<ref name=aaa474_2_653/>
+| parallax = 23.44
+| p_error  = 0.58
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = −0.49 ± 0.10<ref name=aj135_3_892/>
+}}
+{{Starbox detail
+| component1  = A
+| luminosity  = 151<ref name=aj135_1_209/>
+| radius      = 17<ref name=aj135_1_209/>
+| temperature = 4,887<ref name=aj135_1_209/>
+| mass        = 2.9<ref name=baas22_13355/>
+| metal_fe    = –0.27<ref name=aj135_1_209/>
+| gravity     = 2.5<ref name=aj135_1_209/>
+| rotational_velocity = 3.0<ref name=aj135_1_209/>
+| component2  = B
+| mass2       = 0.9<ref name=baas22_13355/>
+}}
+{{Starbox orbit
+| reference    = <ref name=aaa442_1_365/>
+| period_unitless = 410.6&nbsp;[[day|d]]
+| axis_unitless   = {{nowrap|11.37 ± 0.51 [[arcsecond|mas]]}}
+| periastron   = 15500.4&nbsp;[[Modified Julian date|MJD]]
+| inclination  = {{nowrap|53.8 ± 2.3}}
+| node         = {{nowrap|341.9 ± 3.8}}
+| eccentricity = 0.55
+| periarg_primary = 24.6
+}}
+{{Starbox catalog
+| names = Kornephoros, Korneforos, Rutilicus, β&nbsp;Her, Beta&nbsp;Herculis, Beta&nbsp;Her, [[Flamsteed designation|27&nbsp;Herculis]], 27&nbsp;Her, [[Durchmusterung|BD]]+21&nbsp;2934, [[Fifth Fundamental Catalogue|FK5]]&nbsp;618, [[Henry Draper Catalogue|HD]]&nbsp;148856, [[Hipparcos Catalogue|HIP]]&nbsp;80816, [[Bright Star Catalogue|HR]]&nbsp;6148, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;84411, [[Washington Double Star Catalog|WDS]]&nbsp;16302+2129A/Aa.<ref name=sb0 /><ref name=bsc2 /><ref name=wds/>
+}}
+{{Starbox reference
+| Simbad=bet+her
+}}
+{{Starbox end}}
+
+'''Beta&nbsp;Herculis''' ('''Beta&nbsp;Her''', '''β&nbsp;Herculis''', '''β&nbsp;Her'''), which has the traditional name '''Kornephoros''', is the brightest star in the northern [[constellation]] of [[Hercules (constellation)|Hercules]]<ref name=kaler/> at a base [[apparent visual magnitude]] of 2.81. This is a suspected [[variable star]] with an apparent magnitude that may rise as high as 2.76.<ref name=nsv1 /> Based upon [[parallax]] measurements, it is located at a distance of {{Convert|139|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+Although β&nbsp;Herculis appears to the naked eye to be a single star, in July 1899 the American astronomer [[William Wallace Campbell|W. W. Campbell]] discovered from spectroscopic measurements that its [[radial velocity]] varies, and concluded that it is a [[binary star|binary system]].<ref name=apj11_140/> An orbit for the binary was computed in 1908 based upon additional spectroscopic measurements.<ref name=lob5_24/>
+
+At [[Palomar Observatory]], [[Antoine Émile Henry Labeyrie|Antoine Labeyrie]] and others used [[speckle interferometry]] with the [[Hale Telescope]] to resolve the system in 1977.<ref name=apjl214_L79/> The [[Hipparcos]] satellite observed the orbital motion of the primary relative to other stars,<ref name=viz_I239/> and an orbit was computed in 2005 using spectroscopic data together with these measurements. The period of the system is around 410 days. They have a high [[orbital eccentricity]] of 0.55 and the orbital plane is inclined 53.8° to the line of sight from the Earth.<ref name=aaa442_1_365/>
+
+The primary star in this binary system has a [[stellar classification]] of G7&nbsp;IIIa,<ref name=aaa373_159/> indicating that it is a [[giant star]] that has exhausted the hydrogen at its core and evolved away from the [[main sequence]]. It has a mass nearly three times the [[solar mass|mass of the Sun]], and has expanded to 17 times the [[solar radius|Sun's radius]].<ref name=aj135_1_209/> The [[effective temperature]] of the star's outer envelope is about 4,887&nbsp;K,<ref name=aj135_1_209/> which gives it the yellow hue of a G-type star.<ref name=csiro/> The secondary star has a mass only 90% that of the Sun.<ref name=aaa373_159/>
+
+==Naming and etymology==
+β Herculis has the names ''Kornephoros'', a [[Greek language|Greek]] word meaning "club bearer", and ''Rutilicus'', a corruption of the [[Latin language|Latin]] word ''titillicus'', meaning "armpit".
+
+It was a member of indigenous Arabic [[Asterism (astronomy)|asterism]] '''al-Nasaq al-Shāmī''', "the Northern Line" of ''al-Nasaqān'' "the Two Lines",<ref name=kunitzsch2006/> along with [[Gamma Herculis|γ Her]] (Hejian, Ho Keen), [[Gamma Serpentis|γ Ser]] (Zheng, Ching) and [[Beta Serpentis|β Ser]] (Chow).<ref name=allen1963/>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''al-Nasaq al-Sha'āmī'' or '''Nasak Shamiya''' were the title for three stars :[[Beta Serpentis|β Ser]] as ''Nasak Shamiya I'', [[Gamma Serpentis|γ Ser]] as ''Nasak Shamiya II'', [[Gamma Herculis|γ Her]] as ''Nasak Shamiya III'' (exclude this star)<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市右垣}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán}}), meaning ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of β Herculis, [[Gamma Herculis|γ Herculis]], [[Kappa Herculis|κ Herculis]], [[Gamma Serpentis|γ Serpentis]], [[Beta Serpentis|β Serpentis]], [[Delta Serpentis|δ Serpentis]], [[Alpha Serpentis|α Serpentis]], [[Epsilon Serpentis|ε Serpentis]], [[Delta Ophiuchi|δ Ophiuchi]], [[Epsilon Ophiuchi|ε Ophiuchi]] and [[Zeta Ophiuchi|ζ Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Herculis itself is known as {{lang|zh|天市右垣一}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yòu yī}}, {{lang-en|the First Star of Right Wall of Heavenly Market Enclosure}}), represent ''Hézhōng'' (河中), possibly '''Hezhong Municipality''' or '''Hezhong Circuit''' (see : [[Wang Chongrong]], formally the Prince of Langye 瑯琊王, was a warlord of the late Chinese dynasty [[Tang Dynasty]] who controlled Hezhong Circuit, headquartered in modern [[Yuncheng, Shanxi]]).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> ''Hézhōng'' (河中) was westernized into '''Ho Chung''' by R.H. Allen, which means "in the river".<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hercules*.html Star Names - R.H.Allen p. 244]</ref>
+
+==Namesakes==
+[[USS Ruticulus (AK-113)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=gcrv1953>{{citation | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington, D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=apjss52_7>{{citation | last1=Fernie | first1=J. D. | title=New UBVRI photometry for 900 supergiants | journal=Astrophysical Journal Supplement Series | volume=52 | pages=7–22 | month=May | year=1983 | doi=10.1086/190856 | bibcode=1983ApJS...52....7F }}</ref>
+
+<ref name=baas22_13355>{{citation | display-authors=1 | first1=X. P. | last1=Pan | first2=M. | last2=Shao | first3=M. M. | last3=Colavita | first4=B. E. | last4=Hines | first5=J. T. | last5=Armstrong | first6=C. S. | last6=Denisson | first7=M. | last7=Vivekanand | first8=D. | last8=Mozurkewich | first9=R. S. | last9=Simon | title=The Visual Orbit, the Stellar Diameter and the Magnitude Difference of the Spectroscopic Binary β Herculis | journal=Bulletin of the American Astronomical Society | volume=22 | month=September | year=1990 | page=1335 | bibcode=1990BAAS...22R1335P }}</ref>
+
+<ref name=aaa442_1_365>{{citation | display-authors=1 | last1=Jancart | first1=S. | last2=Jorissen | first2=A. | last3=Babusiaux | first3=C. | last4=Pourbaix | first4=D. | title=Astrometric orbits of SB^9 stars | journal=Astronomy and Astrophysics | volume=442 | issue=1 | pages=365–380 | month=October | year=2005 | month=October | year=2005 | doi=10.1051/0004-6361:20053003 | bibcode=2005A&A...442..365J |arxiv = astro-ph/0507695 }}</ref>
+
+<ref name=sb0>{{SIMBAD link|bet+her|SV* ZI 1252 -- Spectroscopic binary}}, database entry, [[SIMBAD]].  Accessed on line September 18, 2008.</ref>
+
+<ref name=kaler>{{citation | url=http://www.astro.uiuc.edu/~kaler/sow/kornephoros.html | accessdate=2008-09-18 | title=Kornephoros | work=Stars | publisher=University of Illinois | first1=James B. | last1=Kaler }}</ref> 
+
+<ref name=apj11_140>{{citation | title=The variable velocity of &beta; Herculis in the line of sight | first1=W. W. | last1=Campbell | journal=Astrophysical Journal | volume=11 | year=1900 | page=140 | bibcode=1900ApJ....11..140C | doi=10.1086/140674 }}</ref>
+
+<ref name=lob5_24>{{citation | title=The orbit of β Herculis | first1=H. C. | last1=Plummer | journal=Lick Observatory Bulletin | volume=5 | year=1908 | pages=24–26 | bibcode=1908LicOB...5...24P }}</ref>  
+
+<ref name=nsv1>NSV 7778, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line September 18, 2008.</ref>
+
+<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=6148 HR 6148], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line September 18, 2008.</ref>
+
+<ref name=wds>Entry 16302+2129, [http://ad.usno.navy.mil/wds/wdsnewframe3.html The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line September 18, 2008.</ref>
+
+<ref name=kunitzsch2006>{{citation | last=Kunitzsch, P. | first=Smart, T. | year=2006 | title=A Dictionary of Modern Star names: A Short Guide to 254 Star names and Their Derivations | edition=Second Revised | publisher=Sky Publishing | location=Cambridge, MA | isbn=1-931559-44-9 | page=31 }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hercules*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=243 }}</ref>
+
+<ref name=viz_I239>[http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HIP%2080816 HIP 80816], database entry, The Hipparcos and Tycho Catalogues, ESA, 1997, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://cdsarc.u-strasbg.fr/viz-bin/Cat?I/239 I/239].</ref>
+
+<ref name=aaa373_159>{{citation | last1=Cayrel de Strobel | first1=G. | last2=Soubiran | first2=C. | last3=Ralite | first3=N. | title=Catalogue of [Fe/H] determinations for FGK stars: 2001 edition | journal=Astronomy and Astrophysics | volume=373 | pages=159–163 | month=July | year=2001 | doi=10.1051/0004-6361:20010525 | bibcode=2001A&A...373..159C |arxiv = astro-ph/0106438 }}</ref>
+
+<ref name=apjl214_L79>{{citation | title=The digital speckle interferometer: preliminary results on 59 stars and 3C 27 | first1=A. | last1=Blazit | first2=D. | last2=Bonneau | first3=L. | last3=Koechlin | first4=A. | last4=Labeyrie | journal=Astrophysical Journal Letters | volume=214 | date=June 1, 1977 | pages=L79–L84 | bibcode=1977ApJ...214L..79B |doi = 10.1086/182447 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+
+{{Stars of Hercules}}
+
+[[Category:Hercules (constellation)]]
+[[Category:G-type giants]]
+[[Category:Triple stars]]
+[[Category:Binary stars]]
+[[Category:Bayer objects|Herculis, Beta]]
+[[Category:Flamsteed objects|Herculis, 27]]
+[[Category:Henry Draper Catalogue objects|148856]]
+[[Category:Hipparcos objects|080816]]
+[[Category:Stars with proper names]]
+[[Category:Durchmusterung objects|BD+21 2934]]
+
+[[de:Beta Herculis]]
+[[es:Kornephoros]]
+[[fa:گرزدار]]
+[[fr:Beta Herculis]]
+[[id:Beta Herculis]]
+[[it:Beta Herculis]]
+[[lb:Kornephoros (Stär)]]
+[[nl:Kornephoros]]
+[[ja:ヘルクレス座ベータ星]]
+[[pt:Beta Herculis]]
+[[ru:Бета Геркулеса]]
+[[sk:Kornephoros]]
+[[zh:天市右垣一]]

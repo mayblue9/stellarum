@@ -1,0 +1,132 @@
+{{Starbox begin |
+   name=Marfik, κ Her }}
+{{Starbox image 
+ | image = [[File:Hercules Historical View.png|250px]]
+ | caption =Historical view of the [[Hercules (constellation)|Hercules]] constellation showing Marfik (κ  Her) as the hero's left "elbow".}}
+{{Starbox observe
+ |epoch=J2000
+ |ra={{RA|16|08|04.5255}}<ref name="SIMBAD">{{cite web
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%402744284&Name=HR%20%206008&submit=submit
+  | title =SIMBAD query result: HR 6008 -- Star in double system
+  | publisher =Centre de Données astronomiques de Strasbourg
+  | accessdate = 2010-09-26 }}</ref>
+  | dec={{DEC|17|02|49.129}}<ref name="SIMBAD" />
+  |appmag_v=5.1628<ref name="LEEUWEN">{{cite journal
+  | title=Hipparcos, the New Reduction
+  | author=van Leeuwen, F
+  | year=2007
+  | month=November
+  | work=[[VizieR]] 
+  | publisher=[[Centre de Données astronomiques de Strasbourg]]
+  | pages=653–664
+  | issue=2
+  | volume=474 
+  | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2079043
+  | doi=10.1051/0004-6361:20078357
+  | journal=Astronomy and Astrophysics
+  | bibcode=2007A&A...474..653V
+  | accessdate=2010-09-26|arxiv = 0708.1752 }}</ref>
+ |constell=[[Hercules (constellation)|Hercules]] }}
+
+{{Starbox character 
+  |class=G8III <ref name="SIMBAD" /> 
+  |b-v=+0.931 
+  |u-b=+0.630 
+  |variable= }} 
+
+{{Starbox astrometry 
+  |radial_v=-11.0<ref name="SIMBAD" />  
+  |prop_mo_ra=-34.29<ref name="SIMBAD" />  
+  |prop_mo_dec= -5.46<ref name="SIMBAD" />  
+  |parallax=8.40
+  |p_error=1.23
+  |parallax_footnote=<ref name="PERRYMAN">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+  |absmag_v=-0.22}}
+
+{{Starbox detail 
+  |mass=3.4<ref name=aaa352_217/>
+  |radius=~16<ref name="KALER"/> 
+  |luminosity=150 <ref name="KALER"/> 
+  |temperature=4,990 <ref name="KALER"/><ref name="MCWILLIAM"/>  
+  |metal=−0.26 [[Metallicity#Calculation|Fe/H]]<ref name="MCWILLIAM">{{cite journal
+  | author=McWilliam, Andrew
+  | title=High-resolution spectroscopic survey of 671 GK giants
+  | journal=Astrophysical Journal Supplement Series
+  | issn= 0067-0049
+  | year=1990
+  | month=December
+  | volume=74
+  | pages=1075–1128
+  | format=PDF
+  | origin=STI 
+  | bibcode=1990ApJS...74.1075M
+  | doi=10.1086/191527}}</ref>
+  |rotational_velocity=10<ref name="HR1">{{cite web 
+   |title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991)
+   |work=[[VizieR]]
+   |publisher=[[Centre de Données astronomiques de Strasbourg]]
+   |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%206695
+   |accessdate=2010-09-26}}</ref>
+  |age=~4.0{{e|8}}<ref name="KALER"/>}}
+
+{{Starbox catalog
+ |names=Marfik, Marfak, Marsic, [[Bayer designation|κ Her]], [[Flamsteed designation|7&nbsp;Her A]], [[Harvard Revised catalogue|HR]]&nbsp;6008, [[Bonner Durchmusterung|BD]]&nbsp;+77° 2964, [[Henry Draper Catalogue|HD]]&nbsp;145001, [[Catalogues of Fundamental Stars|FK5]]&nbsp;1421, [[Hipparcos catalogue|HIP]]&nbsp;79043, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;101951, [[Boss General Catalogue|GC]]&nbsp;21696, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J16081+1703A, [[American Association of Variable Star Observers|AAVSO]]&nbsp;1603+17}}
+{{Starbox reference
+ |Simbad=HD+145001}}
+{{Starbox end}}	
+
+{{Sky|16|08|04.526|+|17|02|49.13|1000000}}
+
+'''Kappa Herculis''' (κ Her, κ Herculis) is a [[double star]] in the [[constellation]] [[Hercules (constellation)|Hercules]]. Traditional names that have been attributed to the star are "Marfik", "Marfak" or "Marsic", all of which come from the Arabic '''لمرفق''' ''Al-Mirfaq'' meaning "the elbow"<ref name="BBC1">{{cite web
+  |title=Constellations: Hercules 'the Strongman'
+  |publisher=The BBC (British Broadcasting Corporation)
+  |author=Kurt Vonnegut
+  |url=http://www.bbc.co.uk/dna/h2g2/A29778916
+  |accessdate=2010-11-14}}</ref><ref name="YILDIZ">{{cite web
+ | url=http://www.pultar.org/mustafa/YAS/M.html
+ | title =YILDIZ ADLARI SÖZLÜĞÜ (Glossary of Star Names)
+ | publisher=[[Mustafa Pultar]]
+ | accessdate=2012-08-28}}</ref>, a name (or some derivivation of which) it shares with [[Lambda Ophiuchi]].
+
+== Properties ==
+Kappa Herculis is a [[giant star]] with [[stellar classification]] G8III. With a mass of 3.0 [[Solar mass|M<sub>☉</sub>]] and radius that is 16 [[Solar radius|R<sub>☉</sub>]], the star boasts a total [[bolometer|bolometric]] luminosity that is 150 [[Solar luminosity|L<sub>☉</sub>]].<ref name="KALER"/>   Its [[apparent magnitude]] has been recently recalibrated at 5.1628.<ref name="LEEUWEN"/>  The [[Hipparcos]] mission estimated its distance at roughly 120 [[parsec]]s from Earth, or 390 ± 20 [[light year]]s away.
+
+== Etymology ==
+In [[Chinese language|Chinese]], {{lang|zh|天市右垣}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán}}), meaning ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of κ Herculis, [[Beta Herculis|β Herculis]], [[Gamma Herculis|γ Herculis]], [[Gamma Serpentis|γ Serpentis]], [[Beta Serpentis|β Serpentis]], [[Delta Serpentis|δ Serpentis]], [[Alpha Serpentis|α Serpentis]], [[Epsilon Serpentis|ε Serpentis]], [[Delta Ophiuchi|δ Ophiuchi]], [[Epsilon Ophiuchi|ε Ophiuchi]] and [[Zeta Ophiuchi|ζ Ophiuchi]] <ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref>. Consequently, κ Herculis itself is known as {{lang|zh|天市右垣三}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán sān}}, {{lang-en|the Third Star of Right Wall of Heavenly Market Enclosure}}), represent the state '''[[Jin (Chinese state)|Jin]]''' (趙) (or '''Tsin''').<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>, together with [[36 Capricorni]] in ''[[Girl (Chinese constellation)|Twelve States]]'' (asterism).<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Capricornus*.html Star Names - R.H.Allen p.142]</ref>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Hercules|Hercules]]
+* [[Stellar classification#Class G|Class G Stars]]
+* [[Giant star]]
+* [[Double star]]
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa352_217>{{citation | last1=Gondoin | first1=P. | title=Evolution of X-ray activity and rotation on G-K giants | journal=Astronomy and Astrophysics | volume=352 | pages=217–227 | month=December | year=1999 | bibcode=1999A&A...352..217G }}</ref>
+
+<ref name="KALER">{{cite web | title=MARSIC (Kappa Herculis) | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/marsic.html | accessdate=2010-09-26 }}</ref> 
+
+}}
+
+== External links ==
+*Jim Kaler's Stars, University of Illinois: [http://stars.astro.illinois.edu/sow/marsic.html MARSIC (Kappa Herculis)]
+* Hercules constellation map showing: [http://www.astrofilitrentini.it/mat/costell/her_e.html κ Herculis]
+
+{{Stars of Hercules}}
+
+[[Category:Hercules (constellation)]]
+[[Category:Bayer objects|Hercules, Kappa]]
+[[Category:Stars with proper names]]
+[[Category:K-type giants]]
+
+[[fa:مرفق‌الجاثی]]
+[[pt:Kappa Herculis]]
+[[zh:武仙座κ]]

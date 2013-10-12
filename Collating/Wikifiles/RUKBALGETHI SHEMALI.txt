@@ -1,0 +1,106 @@
+{{Starbox begin
+ | name=Tau Herculis
+}}
+{{Starbox image 
+ | image = [[File:Hercules Historical View.png|250px]]
+ | caption = Historical view of the [[Hercules (constellation)|Hercules]] constellation showing Rukbalgethi Shemali (τ Her) as the "northern knee"
+}}
+{{Starbox observe  
+ | epoch=J2000 
+ | ra={{RA|16|19|44.4368}}<ref name="SIMBAD"/>
+ | dec={{DEC|46|18|48.119}}<ref name="SIMBAD" />
+ | appmag_v=3.89<ref name="SIMBAD" />
+ | constell=[[Hercules (constellation)|Hercules]]
+}}
+{{Starbox character 
+ | class=B5&nbsp;IV<ref name="SIMBAD" /> 
+ | b-v=-0.155<ref name="MERMILLIOD"/>
+ | u-b=-0.57<ref name="MERMILLIOD"/>
+ | variable= 
+}} 
+{{Starbox astrometry 
+ | radial_v=-13.8<ref name="SIMBAD" />  
+ | prop_mo_ra=-13.15<ref name="SIMBAD" />  
+ | prop_mo_dec=39.31<ref name="SIMBAD" />  
+ | parallax=10.37
+ | p_error=0.53
+ | parallax_footnote=<ref name="aaa323"/>
+ | absmag_v=-1.03
+}}
+{{Starbox detail 
+ | mass=4.9<ref name="KALER"/>
+ | radius=3.55 ± 0.19<ref name=aj129_3_1642/>
+ | luminosity=700<ref name="KALER"/> 
+ | temperature=15,615 ± 301<ref name=aj129_3_1642/>
+ | metal_fe=0.15<ref name="aaa480"/>
+ | gravity=4.02 ± 0.05<ref name=aj129_3_1642/>
+ | rotational_velocity=46<ref name="aaa393"/>
+ | age_gyr=1<ref name="KALER"/>
+}}
+{{Starbox catalog
+ | names=Rukbalgethi Shemali, [[Bayer designation|τ Her]], [[Flamsteed designation|22&nbsp;Her]], [[Harvard Revised catalogue|HR]]&nbsp;6092, [[Bonner Durchmusterung|BD]] 46° 2169, [[Henry Draper Catalogue|HD]]&nbsp;147394, [[Catalogues of Fundamental Stars|FK5]]&nbsp;608, [[Hipparcos catalogue|HIP]]&nbsp;79992, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;46028, [[Boss General Catalogue|GC]]&nbsp;21987, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J16197+4619A
+}}
+{{Starbox reference
+ | Simbad=HD+147394
+}}
+{{Starbox end}}
+
+{{Sky|16|19|44.437|+|46|18|48.12|1000000}}
+
+'''Tau Herculis''' (τ Her, τ Herculis) is a fourth-magnitude [[star]] in the [[constellation]] [[Hercules (constellation)|Hercules]]. Its traditional name '''Rukbalgethi Shemali''', though seldom used today in scientific journals, means the "northern knee".  It is a blue subgiant star, seven hundred times more luminous than the [[Sun]]. 
+
+== Properties ==
+
+Tau Herculis is a blue subgiant star with [[stellar classification]] B5IV. Its mass is 4.9 times solar.<ref name="KALER"/>   Though its [[apparent magnitude]] is only 3.89, like all B-class stars, it is very luminous boasting a total [[bolometer|bolometric]] luminosity that is 700 times solar.<ref name="KALER"/>  [[Hipparcos]] estimated its distance at roughly 96 [[parsec]]s from [[Earth]], or 310 ± 20 [[light year]]s away.
+
+== Etymology == 
+
+Its traditional name '''Rukbalgethi Shemali''' is of Arabic origin and shares certain etymological characteristics with the stars [[Delta Cassiopeiae|Ruchbah]] and [[Beta Librae|Zubeneschamali]] signifying Hercules' "northern knee".<ref name="BBC1">{{cite web
+  |title=Constellations: Hercules 'the Strongman'
+  |publisher=The BBC (British Broadcasting Corporation)
+  |author=Kurt Vonnegut
+  |url=http://www.bbc.co.uk/dna/h2g2/A29778916
+  |accessdate=2010-11-14}}</ref><ref name="WIKISKY">{{cite web
+  |title=τ Her (Rukbalgethi Shemali)
+  |publisher=Wikisky.org
+  |url=http://server1.wikisky.org/starview?object_type=1&object_id=665&object_name=22+Her&locale=EN
+  |accessdate=2010-11-14}}</ref>  The star was the north [[pole star]] around the year 7400 BC, a phenomenon which is expected to reoccur in the year 18,400 due to [[precession]].<ref name="KALER"/>
+
+In [[Chinese language|Chinese]], {{lang|zh|七公}} ({{lang|zh-Latn|Qī Gōng}}), meaning ''[[Heavenly Market enclosure|Seven Excellencies]]'', refers to an asterism consisting of τ Herculis, [[42 Herculis]], [[Phi Herculis|φ Herculis]], [[Chi Herculis|χ Herculis]], [[Nu1 Boötis|ν<sup>1</sup> Boötis]], [[Mu Boötis|μ<sup>1</sup> Boötis]] and [[Delta Boötis|δ Boötis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, τ Herculis itself is known as {{lang|zh|七公二}} ({{lang|zh-Latn|Qī Gōng èr}}, {{lang-en|the Second Star of Seven Excellencies}}.)<ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0606/ap060626.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 26 日]</ref>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Hercules|Hercules]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Subgiant star]]
+
+== References ==
+{{reflist|refs=
+
+<ref name=aj129_3_1642>{{citation | last1=Fitzpatrick | first1=E. L. | last2=Massa | first2=D. | title=Determining the Physical Properties of the B Stars. II. Calibration of Synthetic Photometry | journal=The Astronomical Journal | volume=129 | issue=3 | pages=1642–1662 | month=March | year=2005 | doi=10.1086/427855 | bibcode=2005AJ....129.1642F |arxiv = astro-ph/0412542 }}</ref>
+
+<ref name="KALER">{{citation | title=TAU HER (Tau Herculis) | publisher=University of Illinois | first1=James B. | last1=Kaler | work=stars | url=http://stars.astro.illinois.edu/sow/tauher.html | accessdate=2010-06-10 }}</ref>
+
+<ref name="aaa480">{{citation | last1=Smith | first1=K. C. | last2=Dworetsky | first2=M. M. | title=Elemental Abundances in Normal Late B-Stars and Hgmn-Stars from Co-Added IUE Spectra - Part One - Iron Peak Elements | journal=Astronomy and Astrophysics | year=1993 | volume=274 | issue=2 | pages=335 | bibcode=1993A&A...274..335S }}</ref>
+
+<ref name="aaa393">{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere | journal=Astronomy and Astrophysics | year=2002 | volume=393 | issue=3 | pages=897–911 | bibcode=2002A&A...393..897R | doi=10.1051/0004-6361:20020943 | arxiv=astro-ph/0205255 }}</ref>
+
+<ref name="aaa323">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. | last4=Hoeg | first4=E. | last5=Bastian | first5=U. | last6=Bernacca | first6=P. L. | last7=Crézé | first7=M. | last8=Donati | first8=F. | last9=Grenon | first9=M. | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name="MERMILLIOD">{{citation | last1=Mermilliod | first1=J.-C. | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished) | year=1986 | origin=SIMBAD | format=PDF | bibcode=1986EgUBV........0M }}</ref>
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Tau+Her&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id | title =SIMBAD query result: tau Her -- Pulsating variable Star | publisher =Centre de Données astronomiques de Strasbourg | accessdate = 2010-06-10 }}</ref>
+
+}}
+
+{{Stars of Hercules}}
+
+[[Category:Hercules (constellation)]]
+[[Category:Bayer objects|Hercules, Tau]]
+[[Category:Stars with proper names]]
+[[Category:B-type subgiants]]
+
+[[es:Tau Herculis]]
+[[fa:تاو هرکول]]
+[[id:Tau Herculis]]
+[[pt:Tau Herculis]]
+[[zh:七公二]]

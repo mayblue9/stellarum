@@ -1,0 +1,58 @@
+{{Starbox short |
+ name=β Serpentis |
+ epoch=[[J2000.0]] |
+ constell=[[Serpens]] |
+ ra=15<sup>h</sup> 46<sup>m</sup> 11.3<sup>s</sup> |
+ dec=+15° 25' 19" |
+ spectral=A3V |
+ appmag_v=+3.65 |
+ dist_ly=153 ± 6 |
+ dist_pc=47 ± 2 |
+ names=Chow, 28&nbsp;Serpentis,<BR>[[Star catalogue#BS, BSC, HR|HR]]&nbsp;5867, [[Henry Draper Catalogue|HD]]&nbsp;141003,<BR>[[Star catalogue#SAO|SAO]]&nbsp;101725, [[Hipparcos|HIP]]&nbsp;77233,<BR>[[Star catalogue#ADS|ADS]]&nbsp;9778, CCDM&nbsp;15461+1525
+}}
+'''Beta Serpentis''' (β Ser, β Serpentis) is a [[star system]] in the [[constellation]] [[Serpens]], in its head (Serpens Caput).  It was a member of indigenous Arabic [[Asterism (astronomy)|asterism]] '''al-Nasaq al-Sha'āmī''', "the Northern Line" of ''al-Nasaqān'' "the Two Lines",<ref>{{cite book
+  | last=Kunitzsch, P. | first=Smart, T., | year=2006
+  | authorlink=
+  | title=A Dictionary of Modern Star names: A Short Guide to 254 Star names and Their Derivations
+  | edition=Second Revised | publisher=Sky Publishing
+  | location=Cambridge, MA | isbn=1-931559-44-9
+  | page=31}}</ref> along with [[Beta Herculis|β Her]] (Kornephoros), [[Gamma Herculis|γ Her]] (Hejian, Ho Keen) and [[Gamma Serpentis|γ Ser]] (Zheng, Ching).<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hercules*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=243 }}</ref>
+
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''al-Nasaq al-Sha'āmī'' or '''Nasak Shamiya''' were the title for three stars :β Ser as ''Nasak Shamiya I'', [[Gamma Serpentis|γ Ser]] as ''Nasak Shamiya II'', [[Gamma Herculis|γ Her]] as ''Nasak Shamiya III'' (exclude [[Beta Herculis|β Her]])<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天市右垣}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán}}), meaning ''[[Heavenly Market enclosure|Right Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the right borderline of the enclosure, consisting of β Serpentis, [[Beta Herculis|β Herculis]], [[Gamma Herculis|γ Herculis]], [[Kappa Herculis|κ Herculis]], [[Gamma Serpentis|γ Serpentis]], [[Delta Serpentis|δ Serpentis]], [[Alpha Serpentis|α Serpentis]], [[Epsilon Serpentis|ε Serpentis]], [[Delta Ophiuchi|δ Ophiuchi]], [[Epsilon Ophiuchi|ε Ophiuchi]] and [[Zeta Ophiuchi|ζ Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Serpentis itself is known as {{lang|zh|天市右垣五}} ({{lang|zh-Latn|Tiān Shì Yòu Yuán wu}}, {{lang-en|the Fifth Star of Right Wall of Heavenly Market Enclosure}}), represent '''[[Zhou Dynasty|Zhou]]''' (鄭) (possibly '''Chow''', the dynasty in China),<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Serpens*.html Star Names - R.H.Allen p.376]</ref><ref name=sb1>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0606/ap060624.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 24 日]</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> together with [[Eta Capricorni|η Capricorni]] and [[21 Capricorni]] in ''[[Girl (Chinese constellation)|Twelve States]]'' (asterism).<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Capricornus*.html Star Names - R.H.Allen p.142]</ref>
+
+==Properties==
+
+Beta Serpentis is approximately 150 [[light years]] from [[Earth]] and is a member of the [[Ursa Major Moving Group]].
+
+The primary component, '''Beta Serpentis A''', is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +3.65.  It has two companions, the magnitude +9.9 '''B''', 31 [[arcsecond]]s distant, and the magnitude +10.7 '''C''', 201 [[arcsecond]]s away.
+
+== References ==
+{{Reflist}}
+{{Stars of Serpens}}
+
+[[Category:Bayer objects|Serpentis, Beta]]
+[[Category:Serpens (constellation)]]
+[[Category:Triple star systems]]
+[[Category:A-type main sequence stars]]
+
+
+{{Multi-star-stub}}
+
+[[de:Beta Serpentis]]
+[[es:Beta Serpentis]]
+[[fa:بتا مار]]
+[[id:Beta Serpentis]]
+[[it:Beta Serpentis]]
+[[lb:Beta Serpentis]]
+[[ja:へび座ベータ星]]
+[[pt:Beta Serpentis]]
+[[zh:天市右垣五]]

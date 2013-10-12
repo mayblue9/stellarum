@@ -1,0 +1,208 @@
+{{Other uses}}
+{{Starbox begin
+| name = Mira
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cetus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cetus constellation and its surroundings]]
+     <div style="position: absolute; left: 36.4%; top: 28.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of Mira (circled)
+}}
+{{Starbox observe
+| epoch       = [[J2000.0]]
+| constell    = [[Cetus]]
+| ra          = {{RA|02|19|20.79210}}<ref name=aaa474_2_653/>
+| dec         = {{DEC|–02|58|39.4956}}<ref name=aaa474_2_653/>
+| appmag_v    = 3.04<ref name=aass34_1/> (2.0 ''to'' 10.1)<ref name="gcvs71"/>
+}}
+{{Starbox character
+| class       = M7&nbsp;IIIe<ref name=aj114_1584/>
+| b-v         = +1.53<ref name="apj87"/>
+| u-b         = +0.08<ref name="apj87"/>
+| variable    = [[Mira variable|Mira]]
+}}
+{{Starbox astrometry
+| radial_v    = +63.8<ref name=rgcrv/>
+| prop_mo_ra  = +9.33<ref name=aaa474_2_653/>
+| prop_mo_dec = –237.36<ref name=aaa474_2_653/>
+| parallax    = 10.91
+| p_error     = 1.22
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v    = 
+}}
+{{Starbox detail
+| age_gyr     = 6<ref name=apj275/>
+| metal_fe    =
+| mass        = 1.18<ref name=apj275/>
+| radius      = 332–402<ref name=aaa421/>
+| rotational_velocity =
+| luminosity  = 8,400–9,360<ref name=aaa421/>
+| temperature = 2918–3192<ref name=aaa421/>
+}}
+{{Starbox catalog
+| names       = Stella Mira, Collum Ceti, Wonderful Star,<ref name=allen1963/> Omicron Ceti, 68 Ceti, [[Harvard Revised catalogue|HR]] 681, [[Bonner Durchmusterung|BD]] -03°353, [[Henry Draper catalogue|HD]] 14386, [[Luyten Two-Tenths catalogue|LTT]] 1179, [[Smithsonian Astrophysical Observatory|SAO]] 129825, [[Hipparcos catalogue|HIP]] 10826.<ref name="SIMBAD"/>
+}}
+{{Starbox end}}
+
+'''Mira''' ({{IPAc-en|icon|ˈ|m|aɪ|r|ə}} or {{IPAc-en|icon|ˈ|m|ɪ|r|ə}}) also known as '''[[Omicron]] Ceti''' (ο Ceti, ο Cet), is a [[red giant]] [[star]] estimated 200-400 [[light years]] away in the [[constellation]] [[Cetus]]. Mira is a [[binary star]], consisting of the [[red giant]] Mira A along with [[Mira B]]. Mira A is also an oscillating [[variable star]] and was the first non-[[supernova]] variable star discovered, with the possible exception of [[Algol]]. Apart from the unusual [[Eta Carinae]], Mira is the brightest periodic variable in the sky that is not visible to the naked eye for part of its cycle. Its distance is uncertain; pre-[[Hipparcos]] estimates centered around 220 [[light-years]],<ref name=burnham1980>{{citation | first1=Robert | last1=Burnham, Jr. | title=Burnham's Celestial Handbook | volume=1 | publication-place=New York | publisher=Dover Publications Inc. | year=1980 | page=634 }}</ref> while Hipparcos data suggest a distance of 418 light-years, albeit with a [[margin of error]] of ~14%.
+
+==Observation history==
+Evidence that the variability of Mira was known in ancient [[History of China|China]], [[Babylon]] or [[Ancient Greece|Greece]] is at best only circumstantial.<ref>{{cite journal | last=Wilk | first=Stephen R | title=Mythological Evidence for Ancient Observations of Variable Stars | journal=The Journal of the American Association of Variable Star Observers | year=1996 | volume=24 | issue=2 | pages=129–133 | bibcode=1996JAVSO..24..129W }}</ref> What is certain is that the variability of Mira was recorded by the astronomer [[David Fabricius]] beginning on August 3, 1596. Observing what he thought was the planet [[Mercury (planet)|Mercury]] (later identified as [[Jupiter]]), he needed a reference star for comparing positions and picked a previously unremarked third-magnitude star nearby. By August 21, however, it had increased in brightness by one [[Apparent magnitude|magnitude]], then by October had faded from view. Fabricius assumed it was a nova, but then saw it again on February 16, 1609.<ref>{{Cite web | last=Hoffleit | first=Dorrit | title=History of Mira's Discovery | url=http://www.aavso.org/vstar/vsots/mirahistory.shtml | accessdate=2007-08-16 |archiveurl = http://web.archive.org/web/20070405082807/http://www.aavso.org/vstar/vsots/mirahistory.shtml <!-- Bot retrieved archive --> |archivedate = 2007-04-05}}</ref>
+
+In 1638 [[Johann Holwarda|Johannes Holwarda]] determined a period of the star's reappearances, eleven months; he is often credited with the discovery of Mira's variability. [[Johannes Hevelius]] was observing it at the same time and named it "Mira" (meaning "wonderful" or "astonishing," in Latin) in 1662's ''Historiola Mirae Stellae'', for it acted like no other known star. [[Ismail Bouillaud]] then estimated its period at 333 days, less than one day off the modern value of 332 days, and perfectly forgivable, as Mira is known to vary slightly in period, and may even be slowly changing over time. The star is estimated to be a 6-billion-year-old [[red giant]].
+
+There is considerable speculation as to whether Mira had been observed prior to Fabricius. Certainly [[Algol]]'s history (known for certain as a variable only in 1667, but with legends and such dating back to antiquity showing that it had been observed with suspicion for millennia) suggests that Mira might have been known too. Karl Manitius, a translator of [[Hipparchus]]' ''Commentary on Aratus'', has suggested that certain lines from that second century text may be about Mira. The other pre-telescopic Western catalogs of [[Ptolemy]], [[al-Sufi]], [[Ulugh Beg]], and [[Tycho Brahe]] turn up no mentions, even as a regular star. There are three observations from Chinese and Korean archives, in 1596, 1070, and the same year when Hipparchus would have made his observation (134 BC) that are suggestive, but the Chinese practice of pinning down observations no more precisely than within a given [[Chinese constellation]] makes it difficult to be sure.
+
+{{multiple image
+| align     = left
+| direction = vertical
+| width     = 250
+| image1    = Mira 1997.jpg
+| caption1  = Mira as seen by [[Hubble Space Telescope|Hubble]]. ''[[NASA]] image''
+| image2    = Mira the star.jpg
+| caption2  = Mira as seen from the Earth
+}}
+==System==
+Mira is a binary star system that consists of a red giant (Mira A) undergoing mass loss and a high temperature [[white dwarf]] companion (Mira B) that is accreting mass from the primary. Such an arrangement of stars is known as a symbiotic system and this is the closest such symbiotic pair to the [[Sun]]. Examination of this system by the [[Chandra X-ray Observatory]] shows a direct mass exchange along a bridge of matter from the primary to the white dwarf. The two stars are currently separated by about 70&nbsp;[[astronomical unit]]s.<ref name=aass304_1_379>{{cite journal
+ | last=Karovska | first=Margarita | page=378
+ | title=Future Prospects for Ultra-High Resolution Imaging of Binary Systems at UV and X-rat Wavelengths
+ | series=304
+ | issue=1&ndash;4
+ | journal=Astrophysics and Space Science | volume=304 | pages=379&ndash;382 | month=August
+ | year=2006 | doi=10.1007/s10509-006-9146-4
+ | bibcode=2006Ap&SS.304..379K }}</ref>
+
+===Component A===
+Mira A is currently an [[asymptotic giant branch]] (AGB) star, in the thermally pulsing AGB phase.<ref name=pogge>{{cite web | last=Pogge | first=Richard | date=January 21, 2006 | url=http://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit2/lowmass.html | title=Lecture 16: The Evolution of Low-Mass Stars | publisher=Ohio State University | accessdate=2007-12-11 }}</ref><ref name=lopez/> Each pulse lasts a decade or more, and an amount of time on the order of 10,000&nbsp;years passes between each pulse. With every pulse cycle Mira increases in luminosity and the pulses grow stronger. This is also causing dynamic instability in Mira, resulting in dramatic changes in luminosity and size over shorter, irregular time periods.<ref>{{cite book | first=C. W. H. | last=De Loore | coauthors=Doom, C | year=1992 | title=Structure and Evolution of Single and Binary Stars | publisher=Springer | isbn=0-7923-1768-8 }}</ref>
+
+The overall shape of Mira A has been observed to change, exhibiting pronounced departures from symmetry. These appear to be caused by bright spots on the surface that evolve their shape on time scales of 3–14 months. Observations of Mira A in the [[ultraviolet]] band by the [[Hubble Space Telescope]] have shown a plume-like feature pointing toward the companion star.<ref name=lopez>{{cite conference | last=Lopez | first=B. | title=AGB and post-AGB stars at high angular resolution | booktitle=Proceedings IAU Symposium #191: Asymptotic Giant Branch Stars | year=1999 | pages=409 | url=http://adsabs.harvard.edu/abs/1999IAUS..191..409L | accessdate=2007-12-11 }}</ref>
+
+====Variability====
+Mira A is a well-known example of a category of [[variable star]]s known as [[Mira variable]]s, which are named after this star. It (and the other ca 6,000 to 7,000 known stars of this class<ref>[ftp://cdsarc.u-strasbg.fr/pub/cats/II/250/vartype.txt GCVS: vartype.txt] from the [[General Catalogue of Variable Stars|GCVS]] catalogue (statistics at the end of the file indicate 6,006 mirae and 1,237 probable mirae)</ref>) are all [[red giant]]s whose surfaces oscillate in such a way as to increase and decrease in brightness over periods ranging from about 80 to more than 1,000 days.
+
+In the particular case of Mira, its increases in brightness take it up to about [[Apparent magnitude|magnitude]] 3.5 on average, placing it among the [[List of stars in Cetus|brighter stars in the Cetus constellation]]. Individual cycles vary too; well-attested maxima go as high as magnitude 2.0 in brightness and as low as 4.9, a range almost 15 times in brightness, and there are historical suggestions that the real spread may be three times this or more. Minima range much less, and have historically been between 8.6 and 10.1, a factor of four times in luminosity. The total swing in brightness from absolute maximum to absolute minimum (two events which did not occur on the same cycle) is 1,700 times. Interestingly, since Mira emits the vast majority of its [[solar radiation|radiation]] in the [[infrared]], its variability in that band is only about two magnitudes. The shape of its [[light curve]] is of an increase over about 100 days, and a return twice as long.<ref>{{Cite web | last=Braune | first=Werner | title=Bundesdeutsche Arbeitsgemeinschaft für Veränderliche Sterne | url=http://www.bav-astro.de/index_e.html | accessdate=2007-08-16 |archiveurl = http://web.archive.org/web/20070810065942/http://www.bav-astro.de/index_e.html <!-- Bot retrieved archive --> |archivedate = 2007-08-10}}</ref>
+
+Contemporary approximate maxima for Mira:<ref>http://spider.seds.org/spider/Vars/mira.html</ref>
+{{Div col|colwidth=10em}}
+* Oct 21-31, 1999
+* Sep 21-30, 2000 
+* Aug 21-31, 2001
+* Jul 21-31, 2002 
+* Jun 21-30, 2003 
+* May 21-31, 2004 
+* Apr 11-20, 2005 
+* Mar 11-20, 2006 
+* Feb 1-10, 2007 
+* Jan 21-31, 2008 
+* Dec 21-31, 2008 
+* Nov 21-30, 2009 
+* Oct 21-31, 2010 
+* Sep 21-30, 2011 
+* Aug 21-31, 2012 
+* Jul 21-31, 2013 
+* Jun 21-31, 2014 
+* May 21-31, 2015
+{{Div col end}}
+====Mass loss====
+Ultra-violet studies of Mira by [[NASA]]'s [[Galaxy Evolution Explorer]] (Galex) space telescope have revealed that it sheds a trail of material from the outer envelope, leaving a tail 13 light-years in length, formed over tens of thousands of years.<ref>{{cite journal|last=Martin|first=Christopher| journal=Nature|volume=448|title=A turbulent wake as a tracer of 30,000 years of Mira's mass loss history|doi=10.1038/nature06003|date=August 17, 2007|pages=780–783|accessdate=2007-12-11|pmid=17700694|last2=Seibert|first2=M|last3=Neill|first3=JD|last4=Schiminovich|first4=D|last5=Forster|first5=K|last6=Rich|first6=RM|last7=Welsh|first7=BY|last8=Madore|first8=BF|last9=Wheatley|first9=JM|issue=7155|bibcode=2007Natur.448..780M}}</ref><ref>Minkel, JR.[http://www.sciam.com/article.cfm?articleID=6AE74053-E7F2-99DF-353EB7B9AE43FCF6&chanID=sa007&ec=su_astro "Shooting Bullet Star Leaves Vast Ultraviolet Wake"], "The Scientific American", August 15, 2007 Accessed August 21, 2007.</ref> It is thought that a hot [[bow shock|bow-wave]] of compressed plasma/gas is the cause of the tail; the bow-wave is a result of the interaction of the stellar wind from Mira A with gas in interstellar space, through which Mira is moving at an extremely high speed of 130 kilometres/second (291,000 miles per hour).<ref>{{cite journal | url=http://www.iop.org/EJ/article/1538-4357/670/2/L125/22252.html|last=Wareing|first=Christopher| journal=Astrophysical Journal Letters|volume=670|issue=2|title=It's a wonderful tail: the mass-loss history of Mira|doi= 10.1086/524407|date=November 6, 2007|pages=L125–L129|last2=Zijlstra|first2=A. A.|last3=O'Brien|first3=T. J.|last4=Seibert|first4=M.|bibcode=2007ApJ...670L.125W|arxiv = 0710.3010 }}</ref><ref>{{cite web|url=http://www.galex.caltech.edu/MEDIA/2007-04/images.html|title=GALEX finds link between big and small stellar blasts|accessdate=2007-08-16|last=Clavin|first=W.|date= August 15, 2007 |publisher=California Institute of Technology|archiveurl = http://web.archive.org/web/20070827103038/http://www.galex.caltech.edu/MEDIA/2007-04/images.html <!-- Bot retrieved archive --> |archivedate = 2007-08-27}}</ref> The tail consists of material stripped from the head of the bow-wave, which is also visible in ultra-violet observations. Mira's bow-shock will eventually evolve into a [[planetary nebula]], the form of which will be considerably affected by the motion through the [[interstellar medium]] (ISM).<ref>{{cite journal | last=Wareing | first=Christopher | journal=Philosophical Transactions of the Royal Society A | volume=366 | issue=1884 | title=Wonderful Mira | doi=10.1098/rsta.2008.0167 | pmid=18812301 | date=December 13, 2008 | pages=4429–4440|bibcode = 2008RSPTA.366.4429W }}</ref>
+
+[[File:A-Mira-Full down sampled and cropped.jpg|thumb|699px|center|Ultraviolet mosaic of Mira's bow shock and tail obtained using NASA's [[GALEX|Galaxy Evolution Explorer (GALEX)]].]]
+
+===Component B===
+{{Main|Mira B}}
+
+The companion star was resolved by the [[Hubble Space Telescope]] in 1995, when it was 70 [[astronomical unit]]s from the primary; results were announced in 1997. The HST ultraviolet images and later X-ray images by the [[Chandra X-ray Observatory|Chandra space telescope]] show a spiral of gas rising off Mira in the direction of Mira B. The companion's [[orbital period]] around Mira is approximately 400 years.
+
+In 2007, observations showed a [[protoplanetary disc]] around the companion, Mira B. This disc is being accreted from material in the [[stellar wind|solar wind]] from Mira and could eventually form new planets. These observations also hinted that the companion was a [[main sequence]] star of around 0.7 [[solar mass]]es and [[spectral type]] K, instead of a white dwarf as originally thought.<ref>{{Cite web | last=Than | first=Ker | title=Dying star's dust helping to build new planets | url=http://www.msnbc.msn.com/id/16564325/ | accessdate=2007-08-16}}</ref>  However in 2010 further research indicated that Mira B is in fact a white dwarf.<ref>{{cite arxiv |eprint=1009.2509v1 |author1=Sokoloski |author2=Lars Bildsten |title=Evidence for the White Dwarf Nature of Mira B |class=astro-ph.SR |year=2010}}</ref>
+
+==See also==
+{{Portal|Star}}
+*[[Stars and planetary systems in fiction#Mira (Omicron Ceti)|Mira in fiction]]
+
+==References==
+{{Reflist|2|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aass34_1>{{cite journal | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name="gcvs71">{{cite journal | display-authors=1 | last1=Kukarkin | first1=B. V. | last2=Kholopov | first2=P. N. | last3=Pskovsky | first3=Y. P. | last4=Efremov | first4=Y. N. | last5=Kukarkina | first5=N. P. | last6=Kurochkin | first6=N. E. | last7=Medvedeva | first7=G. I. | contribution=The third edition containing information on 20437 variable stars discovered and designated till 1968 | year=1971 | title=General Catalogue of Variable Stars | edition=3rd | bibcode=1971GCVS3.C......0K }}</ref>
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=V*+omi+Cet | title=V* omi Cet -- Variable Star of Mira Cet type | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2006-08-10}}</ref>
+
+<ref name=aj114_1584>{{cite journal | last=Castelaz | first=Michael W. | coauthors=Luttermoser, Donald G. | title=Spectroscopy of Mira Variables at Different Phases. | journal=The Astronomical Journal | year=1997 | volume=114 | pages=1584–1591 | bibcode=1997AJ....114.1584C | doi=10.1086/118589 }}</ref>
+
+<ref name="apj87">{{cite journal | last=Celis S. | first=L. | title=Red variable stars. I&nbsp;— UBVRI photometry and photometric properties | journal=Astronomical Journal | year=1982 | volume=87 | pages=1791–1802 | bibcode=1982AJ.....87.1791C | doi=10.1086/113268 }}</ref>
+
+<ref name=apj275>{{cite journal | last=Wyatt | first=S. P. | coauthors=Cahn, J. H. | title=Kinematics and ages of Mira variables in the greater solar neighborhood | journal=Astrophysical Journal, Part 1 | year=1983 | volume=275 | pages=225–239 | bibcode=1983ApJ...275..225W | doi=10.1086/161527 }}</ref>
+
+<ref name=aaa421>{{cite journal | last=Woodruff | first=H. C. | coauthors=Eberhardt, M.; Driebe, T.; Hofmann, K.-H.; Ohnaka, K.; Richichi, A.; Schert, D.; Schöller, M.; Scholz, M.; Weigelt, G.; Wittkowski, M.; Wood, P. R. | title=Interferometric observations of the Mira star o Ceti with the VLTI/VINCI instrument in the near-infrared | journal=Astronomy & Astrophysics | year=2004 | volume=421 | issue=2 | pages=703–714 | url=http://www.eso.org/~mwittkow/publications/conferences/SPIECWo5491199.pdf |format=PDF| accessdate=2007-12-07 | doi=10.1051/0004-6361:20035826 | bibcode=2004A&A...421..703W|arxiv = astro-ph/0404248 }}</ref>
+
+<ref name=allen1963>{{cite book | first=Richard H. | last=Allen | year=1963 | title=Star Names: Their Lore and Meaning | publisher=Dover Publications | location=New York | isbn=0-486-21079-0 }}</ref>
+
+}}
+
+==External links==
+{{Commons|Mira Ceti}}
+*[http://www.nasa.gov/mission_pages/galex/20070815/ Mira&nbsp;– Bizarre Star at NASA]
+*[http://www.aavso.org/vstar/vsots/mirahistory.shtml History of Mira's Discovery] at [[AAVSO]]
+*[http://news.bbc.co.uk/1/hi/sci/tech/6947607.stm Mira has tail nearly 13 light years in length (BBC)]
+*[http://www.galex.caltech.edu/MEDIA/2007-04/ Speeding Bullet Star Leaves Enormous Streak Across Sky] at [[Caltech]]
+*[[Astronomy Picture of the Day]]:<br />[http://antwrp.gsfc.nasa.gov/apod/ap981011.html 1998-10-11], [http://antwrp.gsfc.nasa.gov/apod/ap010121.html 2001-01-21], [http://antwrp.gsfc.nasa.gov/apod/ap060722.html 2006-07-22], [http://antwrp.gsfc.nasa.gov/apod/ap070221.html 2007-02-21], [http://antwrp.gsfc.nasa.gov/apod/ap070817.html 2007-08-17]
+*{{cite web|url=http://www.daviddarling.info/encyclopedia/M/Mira.html|title=Mira (Omicron Ceti)|work=The Encyclopedia of Astrobiology, Astronomy, and Spaceflight |accessdate=June 22, 2006}}
+*{{cite web|url=http://www.eso.org/~mwittkow/publications/conferences/SPIECWo5491199.pdf|title=Interferometric observations of the Mira star o Ceti with the VLTI/VINCI instrument in the near-infrared}}
+*Robert Burnham Jr., ''Burnham's Celestial Handbook'', Vol. 1, (New York:  Dover Publications, Inc., 1978), 634.
+*James Kaler, ''The Hundred Greatest Stars'', (New York:  Copernicus Books, 2002), 121.
+*[http://seds.org/~spider/Spider/Vars/mira.html SEDS article]
+*A [http://www.bav-astro.de/sterne/cetmira.shtml recent lightcurve] of Mira from the BAV.
+*Universe Today, [http://www.universetoday.com/2007/08/15/thats-not-a-comet-thats-a-star/ That's Not a Comet, that's a Star]
+*[http://www.aavso.org/vstar/vsots/1298.shtml OMICRON CETI (Mira)]
+*[http://www.aavso.org/vstar/vsots/winter06.shtml Winter 2006: Omicron Ceti (Mira)]
+
+{{Stars of Cetus}}
+
+[[Category:Bayer objects|Ceti, Omicron]]
+[[Category:Binary stars]]
+[[Category:Cetus (constellation)]]
+[[Category:Mira variables]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names]]
+
+[[als:Mira (Stern)]]
+[[ar:ميرا (نجم)]]
+[[bg:Мира (звезда)]]
+[[cs:Mira]]
+[[da:Mira]]
+[[de:Mira (Stern)]]
+[[el:Μίρα]]
+[[es:Mira (estrella)]]
+[[eo:Omikron Baleno]]
+[[fa:شگفت‌اختر]]
+[[fr:Mira (étoile)]]
+[[ko:미라 (항성)]]
+[[id:Mira]]
+[[it:Mira (astronomia)]]
+[[he:מירה (כוכב)]]
+[[lb:Mira (Stär)]]
+[[ml:മൈറെ]]
+[[nl:Mira (ster)]]
+[[ja:ミラ]]
+[[no:Mira]]
+[[nds:Mira (Steern)]]
+[[pl:Mira Ceti]]
+[[pt:Mira (estrela)]]
+[[ro:Mira (stea)]]
+[[ru:Мира (звезда)]]
+[[simple:Mira]]
+[[sk:Mira (hviezda)]]
+[[fi:Mira]]
+[[sv:Mira]]
+[[th:ดาวมิรา]]
+[[tr:Mira Ceti]]
+[[uk:Міра]]
+[[vi:Mira (sao)]]
+[[war:Mira]]
+[[zh:蒭藁增二]]

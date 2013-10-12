@@ -1,0 +1,112 @@
+{{Starbox begin
+ | name = Theta Centauri
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Centaurus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Centaurus constellation and its surroundings]]
+     <div style="position: absolute; left: 31.0%; top: 33.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of θ Centauri (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000.0
+ | ra       = {{RA|14|06|40.94752}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–36|22|11.8371}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.06<ref name=clpl4_99/>
+ | constell = [[Centaurus]]
+}}
+{{Starbox character
+ | class    = K0&nbsp;III<ref name=aj132_1_161/>
+ | b-v      = +0.99<ref name=clpl4_99/>
+ | u-b      = +0.90<ref name=clpl4_99/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +1.3<ref name=scfs/>
+ | prop_mo_ra  = –520.53<ref name=aaa474_2_653/>
+ | prop_mo_dec = –518.06<ref name=aaa474_2_653/>
+ | parallax = 55.45
+ | p_error  = 0.20
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 0.87<ref name=aaa343_222/>
+}}
+{{Starbox detail
+ | mass     = 
+ | radius   = 10.6<ref name=lang2006/>
+ | gravity  = 2.75<ref name=mnras256_3_535/>
+ | metal_fe = 0.03<ref name=mnras256_3_535/>
+ | age_myr  = 
+ | luminosity  = 60<ref name=kaler/>
+ | temperature = 4,980<ref name=mnras256_3_535/>
+ | rotational_velocity = 
+}}
+{{Starbox catalog
+ | names = Menkent, Haratan, 5&nbsp;Centauri, [[Cordoba Durchmusterung|CD]]−35&nbsp;9260, [[Fifth Fundamental Catalogue|FK5]]&nbsp;520, [[Henry L. Giclas catalogue|Gl]]&nbsp;539, [[Henry Draper catalogue|HD]]&nbsp;123139, [[Hipparcos catalogue|HIP]]&nbsp;68933, [[Harvard Revised catalogue|HR]]&nbsp;5288, [[Luyten Half-Second catalogue|LHS]]&nbsp;2858, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;205188.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Theta Centauri''' (θ Cen, θ Centauri) is a [[star]] in the southern [[constellation]] of [[Centaurus]], the [[centaur]]. It is has the traditional Arabic name '''Menkent''' (possibly abbreviation of '''ألمنكب ألقنتوس''' - ''al mankib al-qanturis'', meaning "shoulder of the Centaur"). This star has an [[apparent visual magnitude]] of +2.06,<ref name=clpl4_99/> making it the [[List of stars in Centaurus|fourth brightest member]] of the constellation. This star is close enough to the Earth that its distance can be measured using the [[parallax]] technique, yielding a value of {{Convert|58.8|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|庫樓}} ({{lang|zh-Latn|Kù Lóu}}), meaning ''[[Horn (Chinese constellation)|Arsenal]]'', refers to an asterism consisting of θ Centauri, [[Zeta Centauri|ζ Centauri]], [[Eta Centauri|η Centauri]], [[2 Centauri]], [[HD 117440]], [[Xi¹ Centauri|ξ<sup>1</sup> Centauri]], [[Gamma Centauri|γ Centauri]], [[Tau Centauri|τ Centauri]], [[D Centauri]] and [[Sigma Centauri|σ Centauri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Centauri itself is known as {{lang|zh|庫樓三}} ({{lang|zh-Latn|Kù Lóu sān}}, {{lang-en|the Third Star of Arsenal}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+This is an [[stellar evolution|evolved]] [[giant star]] with a [[stellar classification]] of K0&nbsp;III.<ref name=aj132_1_161/> The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|5.46 ± 0.06 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 10.6 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> The [[stellar atmosphere|outer envelope]] has an [[effective temperature]] of 4,980&nbsp;K,<ref name=mnras256_3_535/> giving it the orange-hued glow of a cool, [[K-type star]].<ref name=csiro/> Soft X-ray emission has been detected from this star, which has an estimated X-ray luminosity of {{nowrap|1.4 × 10<sup>27</sup> erg s<sup>–1</sup>}}.<ref name=aaa335_591/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=mnras256_3_535>{{citation | display-authors=1 | last1=Jones | first1=K. L. | last2=Robinson | first2=R. D. | last3=Slee | first3=O. B. | last4=Stewart | first4=R. T. | title=Spectroscopic investigation of cool giants and the authenticity of their reported microwave emission | journal=Monthly Notices of the Royal Astronomical Society | volume=256 | issue=3 | pages=535–544 | month=June | year=1992 | bibcode=1992MNRAS.256..535J }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | first2=C. J. | last2=Corbally | first3=R. F. | last3=Garrison | first4=M. T. | last4=McFadden | first5=P. E. | last5=Robinson | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 parsecs: The Northern Sample I | journal=The Astronomical Journal | volume=132 | issue=1 | pages=161–170 | year=2006 | month=July | doi=10.1086/504637 | bibcode=2006AJ....132..161G |arxiv = astro-ph/0603770 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(18.03\cdot 5.46\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 21.2\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=aaa335_591>{{citation | last1=Schroeder | first1=K.-P. | last2=Huensch | first2=M. | last3=Schmitt | first3=J. H. M. M. | title=X-ray activity and evolutionary status of late-type giants | journal=Astronomy and Astrophysics | volume=335 | pages=591–595 | month=July | year=1998 | bibcode=1998A&A...335..591S }}</ref>
+
+<ref name=SIMBAD>{{citation | title=LHS 2858 -- High proper-motion Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Theta+Centauri | accessdate=2012-03-01 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=MENKENT (Theta Centauri) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/menkent.html | accessdate=2012-03-01 }}</ref>
+
+<ref name=aaa343_222>{{citation | last1=Elgarøy | first1=Øystein | last2=Engvold | first2=Oddbjørn | last3=Lund | first3=Niels | title=The Wilson-Bappu effect of the MgII K line - dependence on stellar temperature, activity and metallicity | journal=Astronomy and Astrophysics | volume=343 | pages=222–228 | month=March | year=1999 | bibcode=1999A&A...343..222E }}</ref>
+
+}}
+
+{{Nearest star systems|13}}
+{{Stars of Centaurus}}
+
+[[Category:Bayer objects|Centauri, Theta]]
+[[Category:Flamsteed objects|Centauri, 5]]
+[[Category:Centaurus (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ca:Menkent]]
+[[de:Menkent]]
+[[es:Menkent]]
+[[fa:منکب قنطورس]]
+[[fr:Theta Centauri]]
+[[ko:멘켄트]]
+[[hi:थेटा सॅन्टौरी तारा]]
+[[id:Theta Centauri]]
+[[it:Theta Centauri]]
+[[nl:Menkent]]
+[[ja:メンケント]]
+[[pl:Menkent]]
+[[pt:Theta Centauri]]
+[[ro:Theta Centauri]]
+[[ru:Менкент]]
+[[sk:Menkent]]
+[[fi:Theta Centauri]]
+[[zh:庫樓三]]

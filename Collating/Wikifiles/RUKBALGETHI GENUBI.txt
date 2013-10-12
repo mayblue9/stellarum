@@ -1,0 +1,115 @@
+{{Starbox begin
+ | name=Theta Herculis
+}}
+{{Starbox image 
+ | image = [[File:Hercules Historical View.png|250px]]
+ | caption = Historical view of the [[Hercules (constellation)|Hercules]] constellation showing Rukbalgethi Genubi (θ Her) as the "southern knee"
+}}
+{{Starbox observe
+ | epoch=J2000 
+ | ra={{RA|17|56|15.1805}}<ref name="SIMBAD"/>
+ | dec={{DEC|37|15|01.941}}<ref name="SIMBAD"/>
+ | appmag_v=3.851<ref name="SIMBAD"/><ref name="MCWILLIAM"/>
+ | constell=[[Hercules (constellation)|Hercules]]
+}}
+{{Starbox character 
+ | class=K1IIaCN<ref name="SIMBAD"/> 
+ | b-v=+1.35<ref name="MERMILLIOD"/>
+ | u-b=+1.40 <ref name="MERMILLIOD"/>
+ | variable=[[Irregular variable|Irregular]]<ref name="MULLER"/>
+ | r-i=+0.63<ref name="HR1" />
+}}
+{{Starbox astrometry 
+ | radial_v=–28.32<ref name="SIMBAD"/>  
+ | prop_mo_ra=2.74<ref name="SIMBAD"/>  
+ | prop_mo_dec=7.24<ref name="SIMBAD"/>  
+ | parallax=4.87
+ | p_error=0.54
+ | parallax_footnote=<ref name="PERRYMAN"/>
+ | absmag_v=–2.71{{+-|0.26|0.23}}<ref name=aj135_3_892/>
+}}
+{{Starbox detail 
+ | mass=6.5<ref name="KALER"/> 
+ | radius=~80<ref name="KALER"/>
+ | gravity=1.28<ref name=aj135_3_892/>
+ | luminosity=2,400<ref name="KALER"/> 
+ | temperature=4,330<ref name="MCWILLIAM"/><ref name="KALER"/> 
+ | metal_fe=−0.24<ref name="MCWILLIAM"/>
+ | rotational_velocity={{nowrap|3.4 ± 0.6}}<ref name=aj135_3_892/>
+ | age_myr=550-780<ref name="KALER"/>
+}}
+{{Starbox catalog
+ | names=Rukbalgethi Genubi, [[Bayer designation|θ Her]], [[Flamsteed designation|91&nbsp;Her]], [[Bonner Durchmusterung|BD]] +37° 2982, [[Catalogues of Fundamental Stars|FK5]]&nbsp;672, [[Boss General Catalogue|GC]]&nbsp;24415, [[Henry Draper Catalogue|HD]]&nbsp;163770, [[Hipparcos catalogue|HIP]]&nbsp;87808, [[Harvard Revised catalogue|HR]]&nbsp;6695, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;66485
+}}
+{{Starbox reference
+ | Simbad=HD+163770
+}}
+{{Starbox end}}	
+
+'''Theta Herculis''' (θ Her, θ Herculis) is a fourth-magnitude [[star]] in the constellation [[Hercules (constellation)|Hercules]]. It has the traditional name '''Rukbalgethi Genubi'''.
+
+== Properties ==
+Theta Her is a [[variable star|variable]] K-type [[giant star]] with [[stellar classification]] K1IIaCN.  In 1935, French astronomer P. Muller identified Theta Herculis as an irregular variable with a range of [[apparent magnitude|magnitudes]] between 3.7 and 4.1 and a periodicity of roughly 8–9 days.<ref name="MULLER"/>
+
+== Etymology ==
+In the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Rekbet al Jathih al Aisr''', which was translated into [[Latin]] as '''Genu Sinistrum Ingeniculi''', meaning ''the left knee of the kneeling man''.<ref>{{cite journal
+ | last=Knobel 
+ | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 
+ | page=429 
+ | month=June 
+ | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>  The traditional name '''Rukbalgethi Genubi''' that is encountered in various texts is etymologically similar to the stars [[Delta Cassiopeiae|Ruchbah]] and [[Alpha Librae|Zubenelgenubi]], the term "ruchbah" meaning "knee" while "genubi" signifies "southern"&mdash;hence the "southern knee", a meaning which can be gleaned more easily by looking at the accompanying constellation map.<ref name="BBC1">{{cite web
+  |title=Constellations: Hercules 'the Strongman'
+  |publisher=The BBC (British Broadcasting Corporation)
+  |author=Kurt Vonnegut
+  |url=http://www.bbc.co.uk/dna/h2g2/A29778916
+  |accessdate=2010-11-14}}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天紀}} ({{lang|zh-Latn|Tiān Jì}}), meaning ''[[Heavenly Market enclosure|Celestial Discipline]]'', refers to an asterism consisting of θ Herculis, [[Xi Coronae Borealis|ξ Coronae Borealis]], [[Zeta Herculis|ζ Herculis]], [[Epsilon Herculis|ε Herculis]], [[59 Herculis]], [[61 Herculis]], [[68 Herculis]] and [[HD 160054]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Herculis itself is known as {{lang|zh|天紀九}} ({{lang|zh-Latn|Tiān Jì jiǔ}}, {{lang-en|the Ninth Star of Celestial Discipline}}.)<ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0606/ap060626.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 26 日]</ref>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Hercules|Hercules]]
+* [[Stellar classification#Class K|Class K Stars]]
+* [[Variable star]]
+* [[Irregular variable]]
+
+== References ==
+{{reflist|refs=
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Theta+Herculis&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id | title =SIMBAD query result: tet Her -- Variable Star | publisher =Centre de Données astronomiques de Strasbourg | accessdate = 2010-07-26 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+<ref name="MERMILLIOD">{{cite journal | last1=Mermilliod | first1=J.-C. | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished) | journal=Catalogue of Eggen's UBV data. | year=1986 | origin=SIMBAD | format=PDF | bibcode=1986EgUBV........0M }}</ref>
+
+<ref name="MULLER">{{cite journal | last1=Muller | first1=P. | title=Sur la variabilité de θ Herculis | journal=Journal des Observateurs | year=1935 | month=January | volume=18  | page=177 | format=PDF | language=French | origin=ADS | bibcode=1935JO.....18..177M }}</ref>
+
+<ref name="PERRYMAN">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. | last4=Hoeg | first4=E. | last5=Bastian | first5=U. | last6=Bernacca | first6=P. L. | last7=Crézé | first7=M. | last8=Donati | first8=F. | last9=Grenon | first9=M. | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name="KALER">{{cite web | title=THETA HER (Theta Herculis) | publisher=University of Illinois | first1=James B. | last1=Kaler | work=Stars | url=http://stars.astro.illinois.edu/sow/thetaher.html | accessdate=2010-07-27}}</ref>
+
+<ref name="MCWILLIAM">{{cite journal | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants | journal=Astrophysical Journal Supplement Series (ISSN 0067-0049) | year=1990 | month=December | volume=74 | pages=1075–1128 | format=PDF | origin=STI | bibcode=1990ApJS...74.1075M | doi=10.1086/191527 }}</ref>
+
+<ref name="HR1">{{cite web | title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991) | work=[[VizieR]] | publisher=[[Centre de Données astronomiques de Strasbourg]] | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%206695 | accessdate=2010-07-27}}</ref> 
+
+}}
+
+== External links ==
+*Spacedude's Constellation map: [http://www.dudeman.net/spacedog/const/her.html Stars in Hercules]
+
+{{Sky|17|56|15.20|+|37|15|02.0|1000000}}
+{{Stars of Hercules}}
+
+[[Category:Hercules (constellation)]]
+[[Category:Bayer objects|Hercules, Iota]]
+[[Category:Variable stars]]
+[[Category:Stars with proper names]]
+[[Category:K-type giants]]
+
+[[es:Theta Herculis]]
+[[fa:تتا هرکول]]
+[[pt:Theta Herculis]]
+[[zh:天紀九]]

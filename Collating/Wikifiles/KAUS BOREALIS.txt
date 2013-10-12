@@ -1,0 +1,123 @@
+{{Starbox begin
+ | name=Lambda Sagittarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 61.3%; top: 38.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of λ Sagittarii (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|18|27|58.24072}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|&minus;25|25|18.1146}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.82<ref name=scfs/>
+ | constell = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+ | class       = K0&nbsp;IV<ref name=aj132_1_161/>
+ | b-v         = +1.045<ref name=sps1966/>
+ | u-b         = +0.903<ref name=sps1966/>
+ | variable    = 
+}}
+{{Starbox astrometry
+ | radial_v    = &minus;43.5<ref name=scfs/>
+ | prop_mo_ra  = &minus;44.76<ref name=aaa474_2_653/>
+ | prop_mo_dec = &minus;185.66<ref name=aaa474_2_653/>
+ | parallax    = 41.72
+ | p_error     = 0.16
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox detail
+ | mass        = 2.6<ref name=aaa190_1_148/>
+ | radius      = 11<ref name=lang2006/>
+ | luminosity  = 
+ | temperature = 4,770<ref name=aaa475_3_1003/>
+ | metal_fe    = –0.20<ref name=apjss74/>
+ | gravity     = 2.90<ref name=aaa475_3_1003/>
+ | rotational_velocity = 3.81<ref name=aaa475_3_1003/>
+ | age_gyr     = 
+}}
+{{Starbox catalog
+ | names = Kaus Borealis, λ&nbsp;Sagittarii, λ&nbsp;Sgr, Lambda&nbsp;Sgr, 22&nbsp;Sagittarii, [[Durchmusterung|CPD]]-25 &nbsp;6523, [[Fifth Fundamental Catalogue|FK5]]&nbsp;692, [[Boss General Catalogue|GC]]&nbsp;25180, [[Henry Draper Catalogue|HD]]&nbsp;169916, [[Hipparcos|HIP]]&nbsp;90496, [[Bright Star Catalogue|HR]]&nbsp;6913, [[PPM Star Catalogue|PPM]]&nbsp;268438, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;186841.
+}}
+{{Starbox end}}
+'''Lambda Sagittarii''' ('''Lambda&nbsp;Sgr''', '''λ&nbsp;Sagittarii''', '''λ&nbsp;Sgr''') is the [[Bayer designation]] for a [[star]] within the southern [[constellation]] of [[Sagittarius (constellation)|Sagittarius]]. The star marks the top of the Archer's bow, whence its traditional name '''Kaus Borealis'''. 
+
+With an [[apparent visual magnitude]] of +2.82,<ref name=scfs/> this is one of the [[List of stars in Sagittarius|brighter members]] of the constellation and, accordingly to the [[Bortle Dark-Sky Scale]], it is readily visible to the naked eye. Based upon [[parallax]] measurements, it is located at a distance of {{Convert|78.2|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> Being near the [[ecliptic]], Lambda Sgr is sometimes [[occultation|occulted]] by the [[Moon]] and, more rarely, by a [[planet]]. The last planet to pass in front of it was [[Venus]], on 19 November 1984. The previous occasion was on 5 December 1865, when it was occulted by the planet [[Mercury (planet)|Mercury]].
+
+Kaus Borealis is a [[subgiant star]] with a [[stellar classification]] of K0&nbsp;IV.<ref name=aj132_1_161/> It has a mass 2.6 times that of the [[solar mass|Sun]].<ref name=aaa190_1_148/> The [[interferometry]]-measured [[angular diameter]] of this star, after correction for [[limb darkening]], is {{nowrap|4.24 ± 0.05 [[milliarcsecond|mas]]}}.<ref name=aaa431_773/> At the estimated distance of Lambda Sagittarii,<ref name=aaa474_2_653/> this yields a physical size of about 11 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> This expanded [[stellar atmosphere|outer envelope]] is radiating energy at an [[effective temperature]] of 4,770&nbsp;K,<ref name=aaa475_3_1003/> causing it to glow with the cool orange hue of a [[K-type star]].<ref name=csiro/> It appears to be rotating at a leisurely rate, with a [[projected rotational velocity]] of {{nowrap|3.81 km s<sup>–1</sup>}}.<ref name=aaa475_3_1003/>
+
+==Name and etymology==
+*The name Kaus Borealis comes from the [[Arabic language|Arabic]] قوس ''qaws'' 'bow' and [[Latin]] ''boreālis'' 'northern'.
+*This star, together with [[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]], [[Epsilon Sagittarii|ε Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Sigma Sagittarii|σ Sgr]], [[Tau Sagittarii|τ Sgr]] and [[Phi Sagittarii|φ Sgr]] consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+*This star is Al Tizini's ''Rāʽi al Naʽāïm'' (ألراع ٱلنعم), the Keeper of the Naʽams (Ostrich), meaning the "keeper" the two asterisms ''Al Naʽām al Wārid'' (النعم الوارد), "The Going Ostriches" and ''Al Naʽām al Ṣādirah'' (النعم السادرة),  "The Returning Ostriches".<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|斗}} ({{lang|zh-Latn|Dǒu}}), meaning ''[[Dipper (Chinese constellation)|Dipper]]'', refers to an asterism consisting of λ Sagittarii, [[Phi Sagittarii|φ Sagittarii]], [[Mu Sagittarii|μ Sagittarii]], [[Sigma Sagittarii|σ Sagittarii]], [[Tau Sagittarii|τ Sagittarii]] and [[Zeta Sagittarii|ζ Sagittarii]]. Consequently, λ Sagittarii itself is known as {{lang|zh|斗宿二}} ({{lang|zh-Latn|Dǒu Sù èr}}, {{lang-en|the Second Star of Dipper}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=apjss74>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M | postscript=. }}</ref>
+
+<ref name=aaa190_1_148>{{citation | last1=Edvardsson | first1=B. | title=Spectroscopic surface gravities and chemical compositions for 8 nearby single sub-giants | journal=Astronomy and Astrophysics | volume=190 | issue=1-2 | pages=148–166 | month=January | year=1988 | bibcode=1988A&A...190..148E | postscript=. }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | first2=C. J. | last2=Corbally | first3=R. F. | last3=Garrison | first4=M. T. | last4=McFadden | first5=P. E. | last5=Robinson | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 parsecs: The Northern Sample I | journal=The Astronomical Journal | volume=132 | issue=1 | pages=161–170 | year=2006 | month=July | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 | postscript=. }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W | postscript=. }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G | postscript=. }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R | postscript=. }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3540296921 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 | postscript=. }} The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(23.97\cdot 4.24\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 21.9\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=aaa475_3_1003>{{citation | last1=Hekker | first1=S. | last2=Meléndez | first2=J. | title=Precise radial velocities of giant stars. III. Spectroscopic stellar parameters | journal=[[Astronomy and Astrophysics]] | volume=475 | issue=3 | pages=1003–1009 | year=2007 | bibcode=2007A&A...475.1003H | doi=10.1051/0004-6361:20078233 | arxiv=0709.1145 | postscript=. }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 | postscript=. }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/kausbor.html Kaus Borealis]
+
+{{Stars of Sagittarius}}
+
+[[Category:Sagittarius (constellation)]]
+[[Category:Bayer objects|Sagittarii, Lambda]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:القوس الشمالي]]
+[[de:Lambda Sagittarii]]
+[[es:Kaus Borealis]]
+[[fa:لاندا کمان]]
+[[fr:Lambda Sagittarii]]
+[[it:Lambda Sagittarii]]
+[[la:Kaus Borealis]]
+[[lb:Kaus Borealis (Stär)]]
+[[nl:Kaus Borealis]]
+[[pl:Lambda Sagittarii]]
+[[pt:Lambda Sagittarii]]
+[[sk:Kaus Borealis]]
+[[zh:斗宿二]]

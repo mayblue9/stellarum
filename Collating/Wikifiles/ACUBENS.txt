@@ -1,0 +1,127 @@
+{{Starbox begin |
+| name=Acubens, α Cancri}}
+{{Starbox image |
+| image =[[Image:Cancer constellation map.png|250px]] 
+| caption = Acubens is the α star in the "crab"
+}} 
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Cancer (constellation)|Cancer]]
+|ra={{RA|08|58|29.2217}}<ref name="sb0">{{cite web
+|url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NSV+4327&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+| title =SIMBAD query result: alf Cnc -- Variable Star
+| publisher =Centre de Données astronomiques de Strasbourg
+| accessdate = 2009-09-20}}</ref>
+| dec = {{DEC|+11|51|27.723}}<ref name=sb0 />
+| appmag_v=4.20&nbsp;to&nbsp;4.27<ref name=nsv1>NSV 4327, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line October 20, 2009.</ref>
+}}
+{{Starbox character
+| class = A5m<ref name=sb0 />
+| u-b = +0.15<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=3572 HR 3572], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line October 20, 2009.</ref>
+| b-v = +0.14<ref name=bsc2 />
+| r-i = +0.04<ref name=bsc2 />
+}}
+{{Starbox astrometry
+| radial_v = −13.8&nbsp;±&nbsp;2<ref name=sb0 />
+| prop_mo_ra = 41.45<ref name=sb0 />
+| prop_mo_dec = −29.22<ref name=sb0 />
+| parallax = 18.79
+| p_error = 0.99
+| parallax_footnote = <ref name="aaa323">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+| absmag_v=0.6<ref>From apparent magnitude and parallax.</ref>
+}}
+{{Starbox detail 
+  |mass=2<ref name="kaler">{{cite web
+  |title=ACUBENS (Alpha Cancri)
+  |publisher=University of Illinois
+  |author=Professor James B. (Jim) Kaler
+  |url=http://stars.astro.illinois.edu/sow/acubens.html
+  |accessdate=2010-05-13}}</ref> 
+  |radius = 1.0<ref name=cadars3>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=II/224/cadars.dat&recno=4410 HD 76756], database entry, Catalog of Apparent Diameters and Absolute Radii of Stars (CADARS), 3rd edition, L. E. Pasinetti-Fracassini, L. Pastori, S. Covino, and A. Pozzi, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?II/224 II/224].  Accessed on line October 20, 2009.</ref> 
+  |luminosity=23<ref name="kaler" /> 
+  |temperature=
+  |metal= 
+  |rotational_velocity=75<ref name="aaa393">{{cite journal
+  | author=Royer, F.; Grenier, S.; Baylac, M.-O.; Gómez, A. E.; Zorec, J.
+  | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere
+  | journal=Astronomy and Astrophysics
+  | year=2002
+  | volume=393
+  | issue=3
+  | pages=897–911
+  | format=PDF 
+  | bibcode=2002A&A...393..897R
+  | doi=10.1051/0004-6361:20020943|arxiv = astro-ph/0205255 }}</ref>
+  |age=  }}
+{{Starbox catalog
+| names=Acubens, Sertan, Sartan, α&nbsp;Cnc, Alpha&nbsp;Cancri, Alpha&nbsp;Cnc, [[Flamsteed designation|65&nbsp;Cancri]], 65&nbsp;Cnc, [[Aitken Double Star Catalogue|ADS]]&nbsp;7115&nbsp;A, [[Durchmusterung|BD]]+12&nbsp;1948, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J08585+1151A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;337, [[Boss General Catalogue|GC]]&nbsp;12406, [[Henry Draper Catalogue|HD]]&nbsp;76756, [[Hipparcos Catalogue|HIP]]&nbsp;44066, [[Bright Star Catalogue|HR]]&nbsp;3572, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;08530+1215&nbsp;A, [[PPM Star Catalogue|PPM]]&nbsp;125972, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;98267.<ref name=sb0 /><ref name=bsc2 />}}
+{{Starbox reference
+| Simbad=alpha+cancri}}
+{{Starbox end}}
+
+'''Alpha Cancri''' (α Cnc, α Cancri) is a [[star system]] in the [[constellation]] [[Cancer (constellation)|Cancer]].  It has the traditional name '''Acubens''' (Açubens).
+== Properties ==
+
+Acubens is a fourth-magnitude [[star]] with an apparent magnitude of 4.20, making it barely visible to the naked eye under good lighting conditions. Nevertheless, it is 23 times more [[Luminosity#In astronomy|luminous]] than the Sun.  Its [[stellar classification]] is A5m.  The [[Hipparcos]] mission estimated the distance of Acubens to be roughly 53 [[parsec]]s<ref name="aaa323" /> from [[Earth]], or approximately 174 [[light year]]s away.
+
+Since it is near the [[ecliptic]], it can be [[occultation|occulted]] by the [[Moon]] and very rarely by [[planet]]s.
+
+== Star System ==
+
+The primary component, '''α Cancri A''', is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.26.  Its companion, '''α Cancri B''', is an eleventh magnitude star. In the year 1836, its [[position angle]] was observed at 325 degrees with a separation from the main star '''α Cancri A''' of 11.3 [[Minute of arc#Symbols, abbreviations and subdivisions|arcseconds]].<ref name=VizieR>{{cite web |title=CCDM (Catalog of Components of Double & Multiple stars (Dommanget+ 2002) |work=[[VizieR]] |publisher=[[Centre de Données astronomiques de Strasbourg]] |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J08585%2b1151A  |accessdate=2010-05-13}}</ref><ref name="Alcyone">{{cite web |url=http://www.alcyone.de/SIT/mainstars/SIT000505.htm#Cat4  | title=Acubens | publisher=Alcyone Bright Star Catalogue | accessdate=2010-05-13}}</ref> 
+
+From studying its light curve during occultation, it is thought that α Cancri A may itself be a close binary, consisting of two stars with similar brightness and a separation of 0.1 [[arcsecond]]s.<ref name=bsc2 />
+
+==Acubens in Military==
+[[USS Acubens (AKS-5)]] was a [[United States]] navy ship
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Cancer|Cancer]]
+* [[Stellar classification#Class A|Class A stars]]
+* [[Star system]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*Jim Kaler's Stars, University of Illinois:[http://stars.astro.illinois.edu/sow/acubens.html Acubens]
+
+{{Stars of Cancer}}
+
+[[Category:Bayer objects|Cancri, Alpha]]
+[[Category:Cancer (constellation)]]
+[[Category:Binary stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+[[Category:Henry Draper Catalogue objects|076756]]
+[[Category:Hipparcos objects|044066]]
+[[Category:Flamsteed objects|Cancri, 65]]
+[[Category:Durchmusterung objects|BD+12 1948]]
+
+[[cs:Acubens]]
+[[de:Acubens]]
+[[es:Acubens]]
+[[eu:Acubens]]
+[[fa:آلفا خرچنگ]]
+[[fr:Alpha Cancri]]
+[[ko:아쿠벤스]]
+[[id:Alpha Cancri]]
+[[it:Acubens]]
+[[he:אלפא בסרטן]]
+[[lb:Acubens (Stär)]]
+[[nl:Acubens]]
+[[ja:かに座アルファ星]]
+[[pl:Alfa Cancri]]
+[[pt:Alpha Cancri]]
+[[ru:Альфа Рака]]
+[[sk:Acubens]]
+[[uk:HD76756]]
+[[zh:柳宿增三]]

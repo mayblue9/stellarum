@@ -1,0 +1,123 @@
+{{Starbox begin
+ | name = Delta Cygni
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cygnus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cygnus constellation and its surroundings]]
+     <div style="position: absolute; left: 62.0%; top: 44.2%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Cygni (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|19|44|58.47854}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+45|07|50.9161}}<ref name=aaa474_2_653/>
+ | appmag_v = 2.87<ref name=aass85_3_1015/>
+ | constell = [[Cygnus (constellation)|Cygnus]]
+}}
+{{Starbox character
+ | class    = {{nowrap|B9&nbsp;III + F1&nbsp;V}}<ref name=aj81_245/>
+ | b-v      = –0.02<ref name=clpl4_99/>
+ | u-b      = –0.10<ref name=clpl4_99/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –20.1<ref name=rgcrv/>
+ | prop_mo_ra  = +44.07<ref name=aaa474_2_653/>
+ | prop_mo_dec = +48.66<ref name=aaa474_2_653/>
+ | parallax = 19.77
+ | p_error  = 0.48
+ | parallax_footnote = <ref name=aaa474_2_653/>
+}}
+{{Starbox detail
+ | mass     = 2.6<ref name=aass85_3_1015/>
+ | radius   = 2.8<ref name=aass85_3_1015/>
+ | luminosity  = 76<ref name=aass85_3_1015/>
+ | temperature = {{nowrap|10,120 ± 160}}<ref name=aass85_3_1015/>
+ | gravity  = 3.95<ref name=aass85_3_1015/>
+ | metal_fe = 
+ | rotational_velocity = 135<ref name=apj573_1_359/>
+ | age      = 
+}}
+{{Starbox catalog
+ | names = 18 Cygni, 18 Cyg, [[Bonner Durchmusterung|BD]]+44 3234, [[Henry Draper catalogue|HD]] 186882, [[Hipparcos catalogue|HIP]] 97165, [[Harvard Revised catalogue|HR]] 7528, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 48796.
+}}
+{{Starbox end}}
+
+'''Delta Cygni''' (δ Cygni, δ Cyg) is the third-magnitude [[star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]].  It has the traditional name '''Rukh'''.  It will be the "[[North Star]]" for at least four centuries around 11,250.
+
+This star belonged to the Arabic asterism ''al-Fawāris'' ({{lang|ar|الفوارس}}), meaning "the Riders" in indigenous [[Arabic language|Arabic]].,<ref>{{cite book
+  | last=Allen | first=R. H., | year=1963
+  | authorlink=Richard Hinckley Allen
+  | title=[[Star Names: Their Lore and Meaning]]
+  | edition=Reprint
+  | publisher=Dover Publications Inc.
+  | location=New York, NY
+  | isbn=0-486-21079-0
+  | pages=193, 197}}</ref> together with [[Zeta Cygni|ζ]], [[Epsilon Cygni|ε]], and [[Gamma Cygni|γ Cyg]], the transverse of the [[Cygnus (constellation)|Northern Cross]].
+
+In [[Chinese language|Chinese]], {{lang|zh|天津}} ({{lang|zh-Latn|Tiān Jīn}}), meaning ''[[Girl (Chinese constellation)|Celestial Ford]]'', refers to an asterism consisting of δ Cygni, [[Gamma Cygni|γ Cygni]], [[30 Cygni]], [[Deneb|α Cygni]], [[Nu Cygni|ν Cygni]], [[Tau Cygni|τ Cygni]], [[Upsilon Cygni|υ Cygni]], [[Zeta Cygni|ζ Cygni]] and [[Epsilon Cygni|ε Cygni]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Cygni itself is known as {{lang|zh|天津二}} ({{lang|zh-Latn|Tiān Jīn èr}}, {{lang-en|the Second Star of Celestial Ford}}.)<ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0607/ap060704.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 4 日]</ref>
+
+== Features ==
+Delta Cygni is a [[triple star]]; the system lies at a distance of about 170 [[light year]]s and consists of two stars quite close together and one much farther out. This sort of common configuration lends stability. 
+
+The bright naked-eye star is a blue-white giant of [[spectral classification|spectral class]] B9,<ref name=aj81_245/> with a temperature of 9,800 [[kelvin]]s. It is nearing the end of its [[main-sequence]] life stage with a [[luminosity]] 180 times that of the [[Sun]], a [[radius]] of 4.7 solar radii, and a [[mass]] approximately 3.15 [[solar mass]]es. Like many hot stars, it spins rapidly, at least 135 [[kilometers per second]] at the equator, about 60 times that of the Sun. Its close companion is a yellow-white class F of the sixth magnitude (6.33) with a luminosity about 6 times that of the sun, and a mass about 1.5 times that of the sun. The much more distant third companion is an orange (class K) twelfth magnitude star, being only 38% as luminous as the sun, and only 70% as massive as the sun. As seen from [[Earth]], the entire triple star system of Delta Cygni shines at a combined [[apparent magnitude]] of 2.86.
+
+== 'North star' ==
+It is one of eight bright stars in the [[northern hemisphere]] that lay claim to the position of "[[North Star]]"{{citation needed|date=February 2012}} over the course of Earth's 26,000-year [[precession]] cycle. 
+
+The other seven stars are 
+* [[Tau Herculis]] (of [[Hercules (constellation)|Hercules]]),
+* [[Vega]] (of [[Lyra (constellation)|Lyra]]),
+* [[Alpha Cephei]] (of [[Cepheus (constellation)|Cepheus]]),
+* [[Gamma Cephei]] (of [[Cepheus (constellation)|Cepheus]]),
+* [[Polaris]] (of [[Ursa Minor (constellation)|Ursa Minor]]),
+* [[Kappa Draconis]] (of [[Draco (constellation)|Draco]]), and
+* [[Thuban|Alpha Draconis]] (of Draco).
+
+== See also ==
+* [[Cygnus (Chinese astronomy)|Traditional Chinese star names in Cygnus]]
+
+== References ==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=aj81_245>{{citation | last1=Edwards | first1=T. W. | title=MK classification for visual binary components | journal=Astronomical Journal | volume=81 | pages=245–249 | month=April | year=1976 | doi=10.1086/111879 | bibcode=1976AJ.....81..245E }}</ref>
+
+}}
+
+==External links==
+* Marshall "Roc" Burns,  [http://www.ennex.com/~Roc/name/index.asp My Nickname: The Mythological Roc] - TheRoc.net
+* James B. "Jim" Kaler, [http://www.astro.uiuc.edu/~kaler/sow/deltacyg.html DELTA CYG (Delta Cygni)] - STARS
+* Alan M. MacRobert,  [http://www.skyandtelescope.com/howto/basics/3305886.html?c=y&showAll=y Understanding Celestial Coordinates] - Sky & Telescope
+* Richard Powell, [http://www.atlasoftheuniverse.com/stars.html The Brightest Stars] - An Atlas of The Universe
+
+{{Stars of Cygnus}}
+
+[[Category:Bayer objects|Cygni, Delta]]
+[[Category:Cygnus (constellation)]]
+[[Category:B-type subgiants]]
+[[Category:F-type main sequence stars]]
+[[Category:K-type main sequence stars]]
+[[Category:Triple star systems]]
+
+[[ca:Delta Cygni]]
+[[es:Delta Cygni]]
+[[eu:Delta Cygni]]
+[[fa:دلتا ماکیان]]
+[[fr:Delta Cygni]]
+[[id:Delta Cygni]]
+[[it:Delta Cygni]]
+[[ja:はくちょう座デルタ星]]
+[[pt:Delta Cygni]]
+[[fi:Delta Cygni]]
+[[zh:天津二]]

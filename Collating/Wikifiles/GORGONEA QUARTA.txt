@@ -1,0 +1,38 @@
+{{Starbox begin
+ | name = Omega Persei
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Perseus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Perseus constellation and its surroundings]]
+     <div style="position: absolute; left: 61%; top: 52%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ω Persei (circled)
+}}
+{{Starbox short |
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Perseus (constellation)|Perseus]]
+| ra=03<sup>h</sup> 11<sup>m</sup> 17.4<sup>s</sup>
+| dec=+39° 36' 42"
+| spectral=K1III
+| appmag_v=+4.63
+| dist_ly=305
+| dist_pc=94
+| names=Gorgonea Quarta, ω&nbsp;Persei, ω&nbsp;Per, Omega&nbsp;Per, 28 Per, [[Star catalogue#BD/CD/CPD|BD]]+39°724, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J03114+3936A, [[Boss General Catalogue|GC]]&nbsp;3791, [[Henry Draper Catalogue|HD]]&nbsp;19656, [[Hipparcos catalogue|HIP]]&nbsp;14817, [[Bright Star Catalogue|HR]]&nbsp;947, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;03048+3914 A, [[PPM Star Catalogue|PPM]]&nbsp;68182, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;56224, [[Washington Double Star Catalog|WDS]]&nbsp;J03113+3937A 
+}}
+
+'''Omega Persei''' ('''Omega&nbsp;Per''', '''ω&nbsp;Persei''', '''ω&nbsp;Per''') is a [[star]] in the [[constellation]] [[Perseus (constellation)|Perseus]]. It also has the traditional name '''Gorgonea Quarta''',<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=334 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA334 }}</ref> being the third member of the quartet called the Gorgonea in reference to the [[Gorgon]]s from the legend of [[Perseus]]. Omega Persei has an [[apparent magnitude]] of +4.63 and [[stellar classification|spectral class]] K1 III lying about 305 [[light year]]s from Earth. 
+
+==Reference==
+{{Reflist}}
+
+{{Stars of Perseus}}
+
+[[Category:Bayer objects|Persei, Omega]]
+[[Category:Perseus (constellation)]]
+
+[[es:Gorgonea Quarta]]
+[[fa:امگا برساووش]]
+[[nl:Gorgonea Quarta]]
+[[pt:Omega Persei]]
+[[zh:大陵增十八]]

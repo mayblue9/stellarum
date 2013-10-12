@@ -1,0 +1,137 @@
+{{Starbox begin
+| name=δ Boötis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Boötes IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Boötes constellation and its surroundings]]
+     <div style="position: absolute; left: 77px; top: 122px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Boötis (circled)
+}}
+{{Starbox observe 2s
+| epoch    = J2000
+| constell = [[Boötes (constellation)|Boötes]]
+| component1 = BD+33 2561
+| ra1      = {{RA|15|15|30.16295}}<ref name=aaa474_2_653/>
+| dec1     = {{DEC|+33|18|53.3926}}<ref name=aaa474_2_653/>
+| appmag_v1 = 3.482<ref name=mnras172_667/>
+| component2 = BD+33 2562
+| ra2      = {{RA|15|15|38.34906}}<ref name=aaa474_2_653/>
+| dec2     = {{DEC|+33|19|15.3161}}<ref name=aaa474_2_653/>
+| appmag_v2 = 7.81<ref name=aj139_1105/>
+}}
+{{Starbox character
+| class    = G8&nbsp;III<ref name=al34_1_17/> + G0&nbsp;V<ref name=aj139_1105/>
+| r-i      = 
+| v-r      = 
+| b-v      = +0.951<ref name=mnras172_667/>/+0.59<ref name=aj139_1105/>
+| u-b      = +0.656<ref name=mnras172_667/>/+0.02<ref name=aj139_1105/>
+| variable = 
+}}
+{{Starbox astrometry
+| component1 = BD+33 2561
+| radial_v = –12.3<ref name=rgcrv/>
+| prop_mo_ra  = +84.74<ref name=aaa474_2_653/>
+| prop_mo_dec = –111.58<ref name=aaa474_2_653/>
+| parallax = 26.78
+| p_error  = 0.16
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+| component2 = BD+33 2562
+| radial_v2 = –12.1<ref name=rgcrv/>
+| prop_mo_ra2  = +83.48<ref name=aaa474_2_653/>
+| prop_mo_dec2 = –110.41<ref name=aaa474_2_653/>
+| parallax2 = 27.05
+| p_error2  = 0.73
+| parallax_footnote2 = <ref name=aaa474_2_653/>
+| absmag_v2 = 
+}}
+{{Starbox detail
+| component1 = BD+33 2561
+| mass     = 
+| radius   = {{nowrap|10.5 ± 0.2}}<ref name=aj118_6_3032/>
+| luminosity  = 
+| temperature = 4,847<ref name=aaa508_3_1313/>
+| metal_fe = –0.44<ref name=aaa508_3_1313/>
+| gravity  = 2.56<ref name=aaa508_3_1313/>
+| rotational_velocity = 3.6<ref name=aj135_1_209/>
+| age      = 
+}}
+{{Starbox catalog
+| names = 49&nbsp;Boötis, ADS 9559 A/B, [[Harvard Revised catalogue|HR]]&nbsp;5681, [[Henry Draper Catalogue|HD]]&nbsp;135722, [[Bonner Durchmusterung|BD]]+33 2561/2562, [[Fifth Fundamental Catalogue|FK5]]&nbsp;563, [[Hipparcos catalogue|HIP]]&nbsp;74666/74674, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;64589/64591.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad = HD+135722
+}}
+{{Starbox reference
+| Simbad=ADS+9559
+}} 
+{{Starbox end}}
+
+'''Delta Boötis''' (δ Boo, δ Boötis) is a [[double star]] in the northern [[constellation]] [[Boötes]]. Based upon [[parallax]] measurements, it is located at a distance of approximately {{Convert|121.8|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/> This star is sometimes called '''Princeps''', meaning ''prince'' or ''prime'' in [[Latin]]. The origin of this name is unclear, although it usually appears in an [[astrology|astrological]] context.<ref name=robson2005/><ref>[http://www.constellationsofwords.com/stars/Princeps.html Constellations of Word - Boötes (Princeps)]</ref> The It has an [[apparent visual magnitude]] of this star is 3.5,<ref name=mnras172_667/> making it visible to the naked eye [[Bortle Dark-Sky Scale|even during a Full Moon]].
+
+In [[Chinese language|Chinese]], {{lang|zh|七公}} ({{lang|zh-Latn|Qī Gōng}}), meaning ''[[Heavenly Market enclosure|Seven Excellencies]]'', refers to an asterism consisting of δ Boötis, [[42 Herculis]], [[Tau Herculis|τ Herculis]], [[Phi Herculis|φ Herculis]], [[Chi Herculis|χ Herculis]], [[Nu1 Boötis|ν<sup>1</sup> Boötis]] and [[Mu Boötis|μ<sup>1</sup> Boötis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Boötis itself is known as {{lang|zh|七公七}} ({{lang|zh-Latn|Qī Gōng qī}}, {{lang-en|the Seventh Star of Seven Excellencies}}.)<ref>{{zh icon}}  [http://aeea.nmns.edu.tw/2006/0606/ap060626.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 26 日]</ref>
+
+==Properties==
+This system consists of a pair of stars located in physical proximity to each other and sharing a similar motion through space, suggesting that they may form a [[binary star]] system. Based upon their angular separation and their distance, they have a projected physical separation of 3,800&nbsp;[[Astronomical Unit]]s (AU). However, their separation along the line of sight from the Earth remains uncertain, so all that can really be said is that they are separated by at least 3,800&nbsp;AU. If they are gravitationally bound to each other, it requires a minimum of 120,000 years to complete an orbit.<ref name=kaler/>
+
+The brighter member of the pair has a [[stellar classification]] of G8&nbsp;III,<ref name=al34_1_17/> indicating that it has exhausted the supply of hydrogen at its core and [[stellar evolution|evolved]] into a [[giant star]]. It now has a radius more than ten times the radius of the Sun.<ref name=aj118_6_3032/> Compared to the [[Sun]], this star appears deficient in elements other than hydrogen and helium—what astronomers term the star's [[metallicity]]. The outer envelope of this star has an [[effective temperature]] of 4,847&nbsp;K,<ref name=aaa508_3_1313/> which is what gives it the characteristic yellow hue of a [[G-type star]].<ref name=csiro/>
+
+The secondary component has a stellar classification of G0&nbsp;V,<ref name=aj139_1105/> which suggests it is a [[main sequence]] star that may be similar in physical properties to the Sun. The apparent visual magnitude of this star is 7.81,<ref name=aj139_1105/> making it much less luminous than the primary component.<ref name=brightness/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa508_3_1313>{{citation | display-authors=1 | last1=Frasca | first1=A. | last2=Covino | first2=E. | last3=Spezzi | first3=L. | last4=Alcalá | first4=J. M. | last5=Marilli | first5=E. | last6=Fżrész | first6=G. | last7=Gandolfi | first7=D. | title=REM near-IR and optical photometric monitoring of pre-main sequence stars in Orion. Rotation periods and starspot parameters | journal=Astronomy and Astrophysics | volume=508 | issue=3 | pages=1313–1330 | month=December | year=2009 | doi=10.1051/0004-6361/200913327 | bibcode=2009A&A...508.1313F }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=mnras172_667>{{citation | last1=Jennens | first1=P. A. | last2=Helfer | first2=H. L. | title=A new photometric metal abundance and luminosity calibration for field G and K giants. | journal=Monthly Notices of the Royal Astronomical Society | volume=172 | pages=667–679 | month=September | year=1975 | bibcode=1975MNRAS.172..667J }}</ref>
+
+<ref name=al34_1_17>{{citation | last1=Tsvetkov | first1=A. S. | last2=Popov | first2=A. V. | last3=Smirnov | first3=A. A. | title=Inaccuracies in the spectral classification of stars from the Tycho-2 Spectral Type Catalogue | journal=Astronomy Letters | volume=34 | issue=1 | pages=17–27 | month=January | year=2008 | doi=10.1134/S1063773708010039 | bibcode=2008AstL...34...17T }}</ref>
+
+<ref name=aj139_1105>{{citation | last1=Tolbert | first1=Charles Ray | title=A UBV Study of 94 Wide Visual Binaries | journal=Astrophysical Journal | volume=139 | page=1105 | month=May | year=1964 | doi=10.1086/147852 | bibcode=1964ApJ...139.1105T }}</ref>
+
+<ref name=kaler>{{citation | title=DELTA BOO (Delta Bootis) | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/deltaboo.html | accessdate=2012-01-05 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Boo -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+135722 | accessdate=2012-01-05 }}</ref>
+
+<ref name=robson2005>{{citation | first1=Vivian E. | last1=Robson | title=The Fixed Stars and Constellations in Astrology | publisher=Astrology Center of America | year=2005 | isbn=1-933303-13-1 | page=112 | url=http://books.google.com/books?id=me7_4RdVwxsC&pg=PA112 }}</ref>
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+<ref name=brightness>The actual brightness ratio is given by 2.512<sup>Δ''m''</sup>, where Δ''m'' is the difference in magnitude. For this pair, Δ''m'' = –4.33, so the ratio is 2.512<sup>–4.33</sup> = 0.019. Hence the secondary component is 1.9% as bright as the primary.</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205681 HR 5681]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J15156%2b3319A CCDM J15156+3319]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=15+15+30.1630%2B33+18+53.401&ident=SV*+ZI++1109&submit=Aladin+previewer Image Delta Boötis]
+
+{{Stars of Boötes}}
+
+[[Category:Flamsteed objects|Boötis, 49]]
+[[Category:Henry Draper Catalogue objects|135722]]
+[[Category:Hipparcos objects|074666]]
+[[Category:Bayer objects|Bootis, Delta]]
+[[Category:Boötes (constellation)]]
+[[Category:Binary stars]]
+[[Category:G-type giants]]
+[[Category:G-type main sequence stars]]
+
+[[de:Delta Boötis]]
+[[es:Delta Bootis]]
+[[fa:دلتا گاوران]]
+[[fr:Delta Bootis]]
+[[id:Delta Boötis]]
+[[it:Princeps (astronomia)]]
+[[ja:うしかい座デルタ星]]
+[[pt:Delta Boötis]]
+[[zh:七公七]]

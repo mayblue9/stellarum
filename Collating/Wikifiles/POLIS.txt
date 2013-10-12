@@ -1,0 +1,93 @@
+{{Starbox begin
+| name=Mu Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 68%; top: 33%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of μ Sagittarii (circled)
+}}
+{{Starbox short |
+ name= |
+ epoch=[[J2000.0]] |
+ constell=[[Sagittarius (constellation)|Sagittarius]] |
+ ra=18<sup>h</sup> 13<sup>m</sup> 45.8<sup>s</sup> |
+ dec=−21° 03′ 32″ |
+ spectral=B2III |
+ appmag_v=+3.84 |
+ dist_ly=> 3912 |
+ dist_pc=> 920 |
+ names=Polis, μ&nbsp;Sagittarii, μ&nbsp;Sgr, Mu&nbsp;Sgr, 13&nbsp;Sagittarii, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J18210-2950A, [[Star catalogue#BD/CD/CPD|BD]]-21&nbsp;4908, [[Fifth Fundamental Catalogue|FK5]]&nbsp;682, [[Boss General Catalogue|GC]]&nbsp;24856, [[Henry Draper Catalogue|HD]]&nbsp;166937, [[Hipparcos|HIP]]&nbsp;89341, [[Bright Star Catalogue|HR]]&nbsp;6812, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;18078-2105 A, [[PPM Star Catalogue|PPM]]&nbsp;268080, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;186497, [[Washington Double Star Catalog|WDS]]&nbsp;J18138-2104A.
+}}
+'''Mu Sagittarii''' ('''Mu&nbsp;Sgr''', '''μ&nbsp;Sagittarii''', '''μ&nbsp;Sgr''') is a [[star system]] in the [[constellation]] [[Sagittarius (constellation)|Sagittarius]].  It also has the traditional name '''Polis'''. 
+
+The [[star]]s in the Polis system are designated ''Polis A'' through ''Polis E''.  Polis is more than 3000 [[light year]]s from [[Earth]].
+
+The primary component in this system, Polis A, is a [[spectral class|type B]] [[giant star]] with a total [[luminosity]] of 180,000 times that of the [[Sun]] and a radius of 115 times solar. Its mass is 23 times the [[solar mass]] while it has a surface temperature of 11,100 [[kelvin]]s.
+
+Polis A is an [[eclipsing binary]], bringing the total of stars in the system to six.  The primary component is a [[stellar classification|spectral type]] B8 [[supergiant]] and the companion is a type B2 [[giant star|giant]].  The [[orbital period]] of the binary is 180.55 days. Due to [[occultation]] of the primary by the companion, the [[apparent magnitude]] of Polis A varies between +3.84 and +3.96.
+
+The remaining components are very weakly bound to the Polis system.
+
+{| border="1" cellpadding="3" cellspacing="1"
+|- bgcolor="#ddddff" valign="top" align="center"
+! Component
+! [[Apparent Magnitude|Apparent<br>Magnitude]]
+! Separation<br>from Polis A
+! Minimum distance<br>from Polis A
+|-
+| '''Polis A'''
+| +3.84
+| -
+| -
+|-
+| '''Polis B'''
+| +11.5
+| 16.9 [[arcseconds]]
+| 42 200 [[Astronomical Units|AU]] ''or'' 0.67 [[light years|ly]]
+|-
+| '''Polis C'''
+| +13.5
+| 25.8 arcseconds
+| 64 500 AU ''or'' 1.02 ly
+|-
+| '''Polis D'''
+| +9.9
+| 48.5 arcseconds
+| 121 200 AU ''or'' 1.92 ly
+|-
+| '''Polis E'''
+| +9.4
+| 50.0 arcseconds
+| 125 000 AU ''or'' 1.98 ly
+|}
+
+==Name and etymology==
+*The traditional name '''Polis''' is derived from a [[Coptic language|Coptic]] word meaning ''foal''.
+*In [[Chinese language|Chinese]], {{lang|zh|斗}} ({{lang|zh-Latn|Dǒu}}), meaning ''[[Dipper (Chinese constellation)|Dipper]]'', refers to an asterism consisting of μ Sagittarii, [[Phi Sagittarii|φ Sagittarii]], [[Lambda Sagittarii|λ Sagittarii]], [[Sigma Sagittarii|σ Sagittarii]], [[Tau Sagittarii|τ Sagittarii]] and [[Zeta Sagittarii|ζ Sagittarii]]. Consequently, μ Sagittarii itself is known as {{lang|zh|斗宿三}} ({{lang|zh-Latn|Dǒu Sù sān}}, {{lang-en|the Third Star of Dipper}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/polis.html Polis]
+
+{{Stars of Sagittarius}}
+
+[[Category:Algol variables]]
+[[Category:Bayer objects|Sagittarii, Mu]]
+[[Category:B-type giants]]
+[[Category:B-type supergiants]]
+[[Category:Flamsteed objects|Sagittarii, 13]]
+[[Category:Henry Draper Catalogue objects|166937]]
+[[Category:Hipparcos objects|089341]]
+[[Category:Multiple star systems|6]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Eclipsing binaries]]
+
+[[es:Polis (estrella)]]
+[[fa:مو کمان]]
+[[it:Mu Sagittarii]]
+[[nl:Polis (ster)]]
+[[pt:Mu Sagittarii]]
+[[zh:斗宿一]]

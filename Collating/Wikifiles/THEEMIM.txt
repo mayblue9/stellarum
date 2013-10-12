@@ -1,0 +1,72 @@
+{{DISPLAYTITLE:Upsilon<sup>2</sup> Eridani}}
+{{Starbox begin
+| name = [[Bayer designation|υ<sup>2</sup>&nbsp;Eridani]]}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Eridanus (constellation)|Eridanus]]
+| ra = {{RA|04|35|33.0385}}<ref name=sb0>{{SIMBAD link|ups02+eri|* 52 Eri -- Star}}, database entry, [[SIMBAD]].  Accessed on line September 25, 2008.</ref>
+| dec = {{DEC|−30|33|44.429}}<ref name=sb0 />
+| appmag_v=3.817<ref name=sb0 />
+}}
+{{Starbox character
+| class = G8IIIa<ref name=sb0 />
+| u-b = +0.72<ref name=bsc1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=1464 HR 1464], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line September 25, 2008.</ref>
+| b-v = +0.98<ref name=bsc1 />
+| r-i = +0.49<ref name=bsc1 />
+}}
+{{Starbox astrometry
+| radial_v = −4.0&nbsp;±&nbsp;0.9<ref name=sb0 />
+| prop_mo_ra = −48.92<ref name=sb0 />
+| prop_mo_dec = −12.75<ref name=sb0 />
+| parallax = 15.62
+| p_error = 0.63
+| parallax_footnote = <ref name=sb0 />
+| absmag_v= {{nowrap|0.91 ± 0.07}}<ref name=aaa458_2_609/>
+}}
+{{Starbox detail
+| mass = {{nowrap|1.38 ± 0.19}}<ref name=aaa458_2_609/>
+| radius = {{nowrap|11.4 ± 0.6}}<ref name=aaa458_2_609/>
+| temperature = 4522<ref name=aaa458_2_609/>
+| gravity = {{nowrap|2.43 ± 0.09}}<ref name=aaa458_2_609/>
+| metal_fe = +0.24<ref name=aaa458_2_609/>
+| age_gyr = {{nowrap|3.12 ± 1.15}}<ref name=aaa458_2_609/>
+}}
+{{Starbox catalog
+| names=Theemim, Theemin, Beemin, υ<sup>2</sup>&nbsp;Eri, Upsilon<sup>2</sup>&nbsp;Eridani, Upsilon<sup>2</sup>&nbsp;Eri, [[Flamsteed designation|52&nbsp;Eridani]], 52&nbsp;Eri, [[Durchmusterung|CD]]−30&nbsp;1901, [[Durchmusterung|CPD]]−30&nbsp;631, [[Fifth Fundamental Catalogue|FK5]]&nbsp;170, [[Boss General Catalogue|GC]]&nbsp;5614, [[Henry Draper Catalogue|HD]]&nbsp;29291, [[Hipparcos Catalogue|HIP]]&nbsp;21393, [[Bright Star Catalogue|HR]]&nbsp;1464, [[PPM Star Catalogue|PPM]]&nbsp;280424, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;195148.<ref name=sb0 /><ref name=bsc1 /><ref name=guide />}}
+{{Starbox reference
+| Simbad=ups02+eri}}
+{{Starbox end}}
+
+'''Upsilon<sup>2</sup>&nbsp;Eridani''' ('''Upsilon<sup>2</sup>&nbsp;Eri''', '''υ<sup>2</sup>&nbsp;Eridani''', '''υ<sup>2</sup>&nbsp;Eri''') is a [[G-type star|G-type]] [[giant star|giant]] [[star]] in the [[constellation]] of [[Eridanus (constellation)|Eridanus]].<ref name=sb0 />  It has an [[apparent visual magnitude]] of approximately 3.817 and is approximately 209 [[light-year]]s from the [[Earth]].<ref name=sb0 />  It also has the names '''Theemim''' (also '''Theemin''') and '''Beemin'''.<ref name=bsc1 /><ref name=guide>p. 123, ''The Cambridge Guide to the Constellations'', Michael E. Bakich, Cambridge University Press, 1995, ISBN 0-521-44921-9.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天園}} ({{lang|zh-Latn|Tiān Yuán}}), meaning ''[[Net (Chinese constellation)|Celestial Orchard]]'', refers to an asterism consisting of υ<sup>2</sup> Eridani, [[Chi Eridani|χ Eridani]], [[Phi Eridani|φ Eridani]], [[Kappa Eridani|κ Eridani]], [[HD 16754]], [[HD 23319]], [[Theta Eridani|θ Eridani]], [[HD 24072]], [[HD 24160]], [[Upsilon4 Eridani|υ<sup>4</sup> Eridani]], [[43 Eridani]] and [[Upsilon1 Eridani|υ<sup>1</sup> Eridani]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, υ<sup>2</sup> Eridani itself is known as {{lang|zh|天園十二}} ({{lang|zh-Latn|Tiān Yuán shíèr}}, {{lang-en|the Twelfth Star of Celestial Orchard}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa458_2_609>{{citation | display-authors=1 | last1=da Silva | first1=L. | last2=Girardi | first2=L. | last3=Pasquini | first3=L. | last4=Setiawan | first4=J. | last5=von der Lühe | first5=O. | last6=de Medeiros | first6=J. R. | last7=Hatzes | first7=A. | last8=Döllinger | first8=M. P. | last9=Weiss | first9=A. | title=Basic physical parameters of a selected sample of evolved stars | journal=Astronomy and Astrophysics | volume=458 | issue=2 | pages=609–623 | month=November | year=2006 | doi=10.1051/0004-6361:20065105 | bibcode=2006A&A...458..609D |arxiv = astro-ph/0608160 }}</ref>
+
+}}
+
+{{Stars of Eridanus}}
+
+{{DEFAULTSORT:Upsilon2 Eridani}}
+[[Category:Eridanus (constellation)]]
+[[Category:G-type giants]]
+[[Category:Flamsteed objects|Eridani, 52]]
+[[Category:Bayer objects|Eridani, Upsilon2]]
+[[Category:Henry Draper Catalogue objects|029291]]
+[[Category:Hipparcos objects|021393]]
+[[Category:Durchmusterung objects|CD−30 01901]]
+[[Category:Stars with proper names]]
+
+{{star-stub}}
+
+[[de:Theemin]]
+[[es:Upsilon2 Eridani]]
+[[fa:پسی² جوی]]
+[[fr:Upsilon2 Eridani]]
+[[id:Upsilon2 Eridani]]
+[[pt:Upsilon2 Eridani]]
+[[sk:Theemin]]

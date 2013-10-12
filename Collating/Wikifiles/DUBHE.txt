@@ -1,0 +1,141 @@
+{{Starbox begin
+| name=Alpha Ursae Majoris A/B
+}}
+{{Starbox image 
+| image = <div style="position: relative">[[File:Ursa Major constellation map.svg|250px]]
+     <div style="position: absolute; left:53%; top:34.5%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+| caption = Stars of Ursa Major, including Dubhe
+}} 
+{{Starbox observe
+| epoch=J2000
+| ra = {{RA|11|03|43.67152}}<ref name=aaa474_2_653/>
+| dec = {{DEC|+61|45|03.7249}}<ref name=aaa474_2_653/>
+| appmag_v= 1.79<ref name=clpl4_99/>
+| constell=[[Ursa Major]]
+}}
+{{Starbox character
+| class = K1&nbsp;II-III<ref name=aj81_245/> / F0&nbsp;V<ref name=aj81_245/>
+| b-v = +1.07<ref name=clpl4_99/>
+| u-b = +0.93<ref name=clpl4_99/>
+| variable = Pulsating
+}}
+{{Starbox astrometry
+| radial_v = –9<ref name=gcrv1953/>
+| prop_mo_ra = –134.11<ref name=aaa474_2_653/>
+| prop_mo_dec = –34.70<ref name=aaa474_2_653/>
+| parallax = 26.54
+| p_error = 0.48
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|–1.10 ± 0.04}}<ref name=aj135_3_892/>
+}}
+{{Starbox visbin
+| name = α UMa B
+| reference = {{citation needed|date=December 2011}}
+| period = 44.4
+| axis = 0.603
+| eccentricity = 0.4
+| inclination = 152
+| node = 2000
+| periastron = 1956.8
+}}<!--
+-->{{Starbox detail
+| component1 = α UMa A
+| mass =
+| radius =
+| luminosity =
+| temperature = 4,660<ref name=ajss74_1075/>
+| gravity = 2.46<ref name=ajss74_1075/>
+| metal_fe = {{nowrap|–0.20 ± 0.07}}<ref name=ajss74_1075/>
+| rotational_velocity = {{nowrap|2.6 ± 1.0}}<ref name=aj135_3_892/>
+| age_myr =
+}}
+{{Starbox catalog
+| names=Dubhe, Dubb, Ak, α&nbsp;Ursae Majoris, α&nbsp;UMa, Alpha&nbsp;UMa, 50&nbsp;UMa, [[Star catalogue#BD/CD/CPD|BD]]+62&nbsp;1161, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J11037+6145AB, [[Fifth Fundamental Catalogue|FK5]]&nbsp;417, [[Boss General Catalogue|GC]]&nbsp;15185, [[Henry Draper catalogue|HD]]&nbsp;95689, [[Hipparcos catalogue|HIP]]&nbsp;54061, [[Bright Star Catalogue|HR]]&nbsp;4301, [[PPM Star Catalogue|PPM]]&nbsp;17705, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;15384, [[Washington Double Star Catalog|WDS]]&nbsp;J11037+6145AB.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+95689
+}}
+{{Starbox end}}
+'''Alpha Ursae Majoris''' ('''Alpha&nbsp;UMa''', '''α&nbsp;Ursae Majoris''', '''α&nbsp;UMa''') is the second-brightest [[star]] in the [[constellation]] of [[Ursa Major]] (despite its [[Bayer designation]] of "alpha"). It has the traditional name '''Dubhe''', and a rarer name ''Ak.'' 
+
+This star forms part of the [[Big Dipper]] (also known as the Plough or the Great Bear), and is the northern of the 'pointers' (or 'guards'), the two stars of Ursa Major which point towards [[Polaris]], the North Star. Dubhe is about 123&nbsp;[[light year]]s away and is a [[giant star]] that has evolved away from the [[main sequence]] after consuming the hydrogen at its core. It is a [[spectroscopic binary]] with a [[main sequence]] companion ''α UMa B'' that has a [[stellar classification]] of F0V. This star orbiting at a mean separation of about 23 [[astronomical unit]]s (AU) and completes an orbit every 44.4 years. More than 90,000&nbsp;AU distant from this pair is a second binary system that includes an F-type star, making this a four star system.<ref name=kaler/>
+
+Although it is part of the constellation of Ursa Major, it does not form part of the [[Ursa Major Moving Group]] of stars that have a common motion through space.{{citation needed|date=December 2011}}.
+
+==Name and etymology==
+*The traditional name ''Dubhe'' comes from the Arabic for "bear", {{transl|ar|''dubb''}}, from the phrase '''{{Rtl-lang|ar|ظهر الدب الاكبر}}''' {{transl|ar|''żahr ad-dubb al-akbar''}} "the back of the Greater Bear". The other traditional name ''Ak'' was meaning The Eye.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=438}}</ref>
+*This star as ''Kratu'', one of the Seven Rishis.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|北斗}} Běi Dǒu, meaning ''[[Purple Forbidden enclosure|Northern Dipper]]'', refers to an asterism consisting of α Ursae Majoris, [[Beta Ursae Majoris|β Ursae Majoris]], [[Gamma Ursae Majoris|γ Ursae Majoris]], [[Delta Ursae Majoris|δ Ursae Majoris]], [[Epsilon Ursae Majoris|ε Ursae Majoris]], [[Zeta Ursae Majoris|ζ Ursae Majoris]] and [[Eta Ursae Majoris|η Ursae Majoris]]. Consequently, α Ursae Majoris itself is known as {{lang|zh|北斗一}} Běi Dǒu yī, ({{lang-en|the First Star of Northern Dipper}}) and {{lang|zh|天樞}} Tiān Shū, ({{lang-en|Star of Celestial Pivot}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060615.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 15 日]</ref>
+
+==In culture==
+Dubhe is the official star of the [[State of Utah]]. [[USS Dubhe (ID-2562)]] was a ship in the [[United States]] navy. The Danish National Home Guard Navy ship MHV 806 is named Dubhe.
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj81_245>{{citation | last1=Edwards | first1=T. W. | title=MK classification for visual binary components | journal=Astronomical Journal | volume=81 | pages=245–249 | month=April | year=1976 | doi=10.1086/111879 | bibcode=1976AJ.....81..245E }}</ref>
+
+<ref name=ajss74_1075>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+<ref name=gcrv1953>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | title=DUBHE -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Ursae+Majoris | accessdate=2011-12-23 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=DUBHE (Alpha Ursae Majoris) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/dubhe.html | accessdate=2011-12-23 }}</ref>
+
+<ref name=aj135_3_892>{{citation | display-authors=1 | last1=Carney | first1=Bruce W. | last2=Gray | first2=David F. | last3=Yong | first3=David | last4=Latham | first4=David W. | last5=Manset | first5=Nadine | last6=Zelman | first6=Rachel | last7=Laird | first7=John B. | title=Rotation and Macroturbulence in Metal-Poor Field Red Giant and Red Horizontal Branch Stars | journal=The Astronomical Journal | volume=135 | issue=3 | pages=892–906 | month=March | year=2008 | doi=10.1088/0004-6256/135/3/892 | bibcode=2008AJ....135..892C |arxiv = 0711.4984 }}</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Alpha]]
+[[Category:Double stars]]
+[[Category:K-type giants]]
+[[Category:Triple star systems]]
+[[Category:Ursa Major (constellation)]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+[[Category:Symbols of Utah]]
+
+[[ar:الدبة (نجم)]]
+[[be:Дубхе]]
+[[cs:Dubhe]]
+[[de:Dubhe]]
+[[es:Dubhe]]
+[[eu:Alpha Ursae Majoris]]
+[[fa:دبه]]
+[[fr:Alpha Ursae Majoris]]
+[[fur:Dubhe]]
+[[ko:두베]]
+[[hi:क्रतु तारा]]
+[[it:Dubhe]]
+[[he:דובהה]]
+[[ka:დუბჰე]]
+[[lb:Dubhe (Stär)]]
+[[nl:Dubhe]]
+[[ja:ドゥーベ]]
+[[no:Dubhe]]
+[[pl:Dubhe]]
+[[pt:Alpha Ursae Majoris]]
+[[ro:Dubhe]]
+[[ru:Дубхе]]
+[[sk:Dubhe]]
+[[fi:Alfa Ursae Majoris]]
+[[sv:Dubhe]]
+[[uk:Дубге]]
+[[zh:天樞]]

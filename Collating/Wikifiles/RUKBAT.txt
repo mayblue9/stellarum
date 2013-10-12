@@ -1,0 +1,107 @@
+{{Starbox begin
+| name = Alpha Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 40%; top: 61%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Sagittarii (circled)
+}}
+{{Starbox observe
+| epoch       = J2000
+| ra          = {{RA|19|23|53.17483}}<ref name=aaa474_2_653/>
+| dec         = {{DEC|−40|36|57.3705}}<ref name=aaa474_2_653/>
+| appmag_v    = +3.97<ref name=clpl4_99/>
+| constell    = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+| class       = B8&nbsp;V<ref name=msom1962/>
+| b-v         = −0.10<ref name=clpl4_99/>
+| u-b         = −0.33<ref name=clpl4_99/>
+| variable    = 
+}}
+{{Starbox astrometry
+| radial_v    = −0.7<ref name=rgcrv/>
+| prop_mo_ra  = +30.49<ref name=aaa474_2_653/>
+| prop_mo_dec = −119.21<ref name=aaa474_2_653/>
+| parallax    = 17.94
+| p_error     = 0.22
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v    = 
+}}
+{{Starbox detail
+| mass        = 
+| radius      = 2.49
+| luminosity  = 60
+| temperature = {{nowrap|12,370 ± 500}}<ref name=aaas110_553/>
+| metal_fe    = -0.02<ref name="aaa490" />
+| rotational_velocity = 
+| gravity     = 
+| age_myr     = 
+}}
+{{Starbox catalog
+| names = Rukbat, Alrami, α&nbsp;Sagittarii, α&nbsp;Sgr, Alpha&nbsp;Sgr, [[Durchmusterung|CPD]]-40 &nbsp;8955, [[Fifth Fundamental Catalogue|FK5]]&nbsp;728, [[Boss General Catalogue|GC]]&nbsp;26737, [[Henry Draper catalogue|HD]] 181869, [[Hipparcos catalogue|HIP]]95347, [[Bright Star Catalogue|HR]]&nbsp;7348, [[PPM Star Catalogue|PPM]]&nbsp;353699, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;325060.
+}}
+{{Starbox end}}
+'''Alpha Sagittarii''' ('''Alpha&nbsp;Sgr''', '''α&nbsp;Sagittarii''', '''α&nbsp;Sgr''') is a [[star]] in the [[Sagittarius (constellation)|Sagittarius constellation]]. It has the traditional names '''Alrami''' and '''Rukbat'''.
+ 
+Alpha Sagittarii is a blue, [[spectral classification|class B]] [[main sequence|dwarf star]]. It does not appear particularly bright in the sky to the naked eye, with a visual [[apparent magnitude]] of +3.97. However, this is due to its distance; in reality, the star is twice as hot as the [[Sun]] and considerably more massive, with a luminosity in visible wavelengths about 40 times greater than that of the Sun. Based on an [[infrared excess|excess emission of infrared radiation]], it may have a [[debris disk]], much like [[Vega]].<ref name="aaa490"/> It is unclear why Bayer designated this star as the alpha, rather than [[Epsilon Sagittarii|ε Sgr]] or [[Sigma Sagittarii|σ Sgr]]. This led some old star charts to occasionally depict Alpha and Beta Sgr as much brighter than they are in reality, as they are invisible from northern Europe, being too far south to see there.
+
+This is a single-lined spectroscopic binary system. The ROSAT All Sky Survey discovered that Alpha Sagittarii is emitting an excess flux of X-rays, which is not expected to originate from a star of this spectral class. The most likely explanation is that the companion is an active pre-main sequence star or else a star that has just reached the main sequence.<ref name=aaa372_152/>
+
+==Name and etymology==
+*The names '''Alrami''' and '''Rukbat''', derived from the [[Arabic Language|Arabic]] ''rukbat al-rāmī = the knee of the archer''. It is not to be confused with [[Delta Cassiopeiae]], which also is called Ruchbah or Rukbat, from the [[Arabic language|Arabic]] word ركبة ''rukbah'' meaning "knee".
+*In [[Chinese language|Chinese]], {{lang|zh|天淵}} ({{lang|zh-Latn|Tiān Yuān}}), meaning ''[[Dipper (Chinese constellation)|Celestial Spring]]'', refers to an asterism consisting of α Sagittarii, [[Beta1 Sagittarii|β<sup>1</sup> Sagittarii]] and [[Beta2 Sagittarii|β<sup>2</sup> Sagittarii]]. Consequently, α Sagittarii itself is known as {{lang|zh|天淵三}} ({{lang|zh-Latn|Tiān Yuān sān}}, {{lang-en|the Third Star of Celestial Spring}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060702.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 2 日]</ref>
+*This star, together with  [[Beta1 Sagittarii|β<sup>1</sup> Sgr]] and [[Beta2 Sagittarii|β<sup>2</sup> Sgr]] too, were ''Al Ṣuradain'' (ألسردين), the two Surad, desert birds.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-9-4 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=357}}</ref>
+
+==See also==
+* [[Alpha Sagittarii in fiction]]
+
+==References==
+{{reflist|2|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=msom1962>{{citation | last=Buscombe | first=W. | title=Spectral classification of Southern fundamental stars | journal=Mount Stromlo Observatory Mimeogram | volume=4 | year=1962 | accessdate=2009-10-01 | bibcode=1962MtSOM...4....1B }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaas110_553>{{citation | last=Sokolov | first=N. A. | title=The determination of T_eff_ of B, A and F main sequence stars from the continuum between 3200 A and 3600 A | journal=Astronomy and Astrophysics Supplement | volume=110 | pages=553−564 | month=May | year=1995 | bibcode=1995A&AS..110..553S }}</ref>
+
+<ref name="aaa490">{{citation | display-authors=1 | last1=Saffe | first1=C. | last2=Gómez | first2=M. | last3=Pintado | first3=O. | last4=González | first4=E. | title=Spectroscopic metallicities of Vega-like stars | journal=Astronomy and Astrophysics | volume=490 | issue=1 | year=2008 | pages=297−305 | month=October | doi=10.1051/0004-6361:200810260 | bibcode=2008A&A...490..297S |arxiv = 0805.3936 }}</ref>
+
+<ref name=aaa372_152>{{citation | display-authors=1 
+ | last1=Hubrig | first1=S. | last2=Le Mignant | first2=D. | last3=North | first3=P. | last4=Krautter | first4=J. | title=Search for low-mass PMS companions around X-ray selected late B stars | journal=Astronomy and Astrophysics | volume=372 | pages=152−164 | year=2001 | month=June | doi=10.1051/0004-6361:20010452 | bibcode=2001A&A...372..152H|arxiv = astro-ph/0103201 }}</ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Sagittarius (constellation)]]
+[[Category:Bayer objects|Sagittarii, Alpha]]
+[[Category:B-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:ركبة الرامي]]
+[[de:Alpha Sagittarii]]
+[[es:Rukbat]]
+[[fa:آلفا کمان]]
+[[id:Alpha Sagittarii]]
+[[lb:Rukbat (Stär)]]
+[[lt:Alramis]]
+[[nl:Rukbat]]
+[[pl:Alfa Sagittarii]]
+[[pt:Alpha Sagittarii]]
+[[sk:Rukbat]]
+[[fi:Alpha Sagittarii]]
+[[zh:天淵三]]

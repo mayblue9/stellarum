@@ -1,0 +1,116 @@
+{{Starbox begin
+ | name = Eta Ophiuchi A/B
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Ophiuchus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Perseus constellation and its surroundings]]
+     <div style="position: absolute; left: 54.0%; top: 53.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption = Location of η Ophiuchus (circled)
+}}
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|17|10|22.68689}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|–15|43|29.6639}}<ref name=aaa474_2_653/>
+ | appmag_v    = 2.43 (3.05/3.27)<ref name=aj133_4_1209/>
+ | constell    = [[Ophiuchus]]
+}}
+{{Starbox character
+ | class       = {{nowrap|A1 V + A3 V}}<ref name=aj81_245/>
+ | b-v         = 0.05
+ | u-b         = 0.09
+ | variable    = 
+}}
+{{Starbox astrometry
+ | radial_v    = –0.9<ref name=gcsrv/>
+ | prop_mo_ra  = +40.13<ref name=aaa474_2_653/>
+ | prop_mo_dec = +99.17<ref name=aaa474_2_653/>
+ | parallax    = 36.91
+ | p_error     = 0.80
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox orbit
+ | reference = <ref name=aj133_4_1209/>
+ | period = 87.58 ± 1.00
+ | axis = 1.396 ± 0.010
+ | eccentricity = 0.950 ± 0.020
+ | inclination = 95.2 ± 2.0
+ | node = 38.9 ± 1.0
+ | periastron = 2024.68 ± 0.50
+ | periarg = 274.8 ± 2.0
+}}
+{{Starbox detail
+ | component1  = η Oph A
+ | mass        = 2.966<ref name=aj133_4_1209/>
+ | radius      = 2.5/2.0
+ | luminosity  = 35/21
+ | temperature = 8900/8600
+ | metal_fe    = 
+ | rotational_velocity = 23<ref name=aaa463_2_671/>
+ | age_myr     = 
+ | component1  = η Oph B
+ | mass2       = 3.478<ref name=aj133_4_1209/>
+}}
+{{Starbox catalog
+ | names = 35&nbsp;Oph, [[Durchmusterung|BD]]–15&nbsp;4467, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;3895.00, [[Henry L. Giclas catalogue|Gl]]&nbsp;656.1A/B, [[Henry Draper Catalogue|HD]]&nbsp;155125, [[Hipparcos catalogue|HIP]]&nbsp;84012, [[Bright Star Catalogue|HR]]&nbsp;6378, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;160332, [[Washington Double Star Catalog|WDS]]&nbsp;J17104-1544AB.
+}}
+{{Starbox reference
+ | Simbad=HD+155125
+}}
+{{Starbox end}}
+'''Eta Ophiuchi''', also known as '''η Oph''' or '''η Ophiuchi''', is a [[star]] in the [[constellation]] [[Ophiuchus]]. It has the traditional name '''Sabik'''.
+
+==Properties==
+
+η Oph is actually a [[binary system (astronomy)|binary]] star system that is difficult to resolve in amateur [[telescopes]] but whose true nature has been determined through use of more advanced techniques. The "primary" star (whose observational data make up the table in this article), which could nominally be referred to as η Oph A, is actually only slightly larger and warmer than its companion, η Oph B. Individually each star is a fairly unremarkable A class [[main sequence]] star, but as a [[binary star|binary pair]] they are unusual. Each star orbits around a common center in a close and highly elliptical [[orbit]], making [[planet|planetary formation]] impossible in this system and some stellar data imprecise.
+
+η Oph is the [[Extraterrestrial_skies#Uranus|northern pole star]] of the planet [[Uranus]].{{Citation needed|date=October 2009}}
+
+==In culture==
+In [[Chinese language|Chinese]], this star is considered part of {{lang|zh|天市左垣}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán}}), meaning ''[[Heavenly Market enclosure|Left Wall of Heavenly Market Enclosure]]'', which refers to an [[Asterism (astronomy)|asterism]] (pattern of stars) representing eleven old states in China that mark the left borderline of the enclosure, consisting of η Ophiuchi, [[Delta Herculis|δ Herculis]], [[Lambda Herculis|λ Herculis]], [[Mu Herculis|μ Herculis]], [[Omicron Herculis|ο Herculis]], [[112 Herculis]], [[Zeta Aquilae|ζ Aquilae]], [[Theta1 Serpentis|θ<sup>1</sup> Serpentis]], [[Eta Serpentis|η Serpentis]], [[Nu Ophiuchi|ν Ophiuchi]] and [[Xi Serpentis|ξ Serpentis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, η Ophiuchi itself is known as {{lang|zh|天市左垣十一}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán shíyī}}, {{lang-en|the Eleventh Star of Left Wall of Heavenly Market Enclosure}}), representing the state '''[[Song (state)|Song]]'''(宋).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_s.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+[[USS Sabik (AK-121)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=aj133_4_1209>{{citation | last1=Docobo | first1=J. A. | last2=Ling | first2=J. F. | title=Orbits and System Masses of 14 Visual Double Stars with Early-Type Components | journal=The Astronomical Journal | volume=133 | issue=4 | pages=1209–1216 | month=April | year=2007 | doi=10.1086/511070 | bibcode=2007AJ....133.1209D }}</ref>
+
+<ref name=aj81_245>{{citation | last1=Edwards | first1=T. W. | title=MK classification for visual binary components | journal=Astronomical Journal | volume=81 | pages=245–249 | month=April | year=1976 | doi=10.1086/111879 | bibcode=1976AJ.....81..245E }}</ref>
+
+}}
+
+{{Stars of Ophiuchus}}
+
+[[Category:Bayer objects|Ophiuchi, Eta]]
+[[Category:Binary stars]]
+[[Category:Flamsteed objects|Ophiuchi, 35]]
+[[Category:Henry Draper Catalogue objects|155125]]
+[[Category:Hipparcos objects|084012]]
+[[Category:Ophiuchus (constellation)]]
+[[Category:A-type main sequence stars]]
+
+[[ar:سابق (نجم)]]
+[[ca:Sabik]]
+[[de:Sabik]]
+[[es:Sabik]]
+[[fa:اتا مارافسای]]
+[[fr:Eta Ophiuchi]]
+[[ko:사빅]]
+[[id:Eta Ophiuchi]]
+[[it:Sabik]]
+[[lb:Sabik]]
+[[nl:Sabik]]
+[[ja:へびつかい座イータ星]]
+[[pl:Sabik]]
+[[pt:Eta Ophiuchi]]
+[[sk:Sabik]]
+[[fi:Eta Ophiuchi]]
+[[zh:宋 (恒星)]]

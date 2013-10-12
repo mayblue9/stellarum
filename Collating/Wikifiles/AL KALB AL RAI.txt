@@ -1,0 +1,55 @@
+{{DISPLAYTITLE:Rho<sup>2</sup> Cephei}}
+{{Starbox begin
+| name=Rho<sup>2</sup> Cephei
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|22|29|52.90}}
+| dec={{DEC|+78|49|27.0}}
+| appmag_v=5.50
+| constell=[[Cepheus (constellation)|Cepheus]] }}
+{{Starbox character
+| class=A3 V
+| b-v=0.06
+| u-b=0.07
+| variable=None }}
+{{Starbox astrometry
+| radial_v=+1
+| prop_mo_ra=3.47
+| prop_mo_dec=-21.67
+| parallax=13.75
+| p_error=0.52
+| dist_ly=237
+| dist_pc=73
+| absmag_v=1.19 }}
+{{Starbox catalog
+| names=Al Kalb al Rai, 29 Cep, [[Harvard Revised catalogue|HR]] 8591, [[Bonner Durchmusterung|BD]] +78°801, [[Henry Draper catalogue|HD]] 213798, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 10402, [[Fifth Fundamental Catalogue|FK5]] 1593, [[Hipparcos catalogue|HIP]] 111056. }}
+{{Starbox end}}
+'''Rho<sup>2</sup> Cephei''' (ρ<sup>2</sup> Cep / ρ<sup>2</sup> Cephei) is a [[star]] in the [[constellation]] [[Cepheus (constellation)|Cepheus]].  It has the traditional name '''Al Kalb al Rai'''. 
+
+Rho<sup>2</sup> Cephei is an [[optical double]] [[star]] located in the constellation [[Cepheus]].  The other component is [[Rho1 Cephei|Rho<sup>1</sup> Cephei]], and somewhat less prominent. 
+
+Rho<sup>2</sup> Cephei is an A3V star with an apparent visual magnitude of +5.50, and absolute magnitude of +1.19. Rho<sup>2</sup> Cephei is located 73 pc from the [[Sun]]. 
+
+Rho<sup>2</sup> Cephei is located at Right Ascension 22h 29m 52.90s and Declination +78deg 49 arcmin 27.00 arcsec.
+
+==References==
+*http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%40278288&Name=*%20%2028%20Cep&submit=submit
+*http://server7.wikisky.org/starview?object_type=1&object_id=4421
+
+{{main-star-stub}}
+{{Stars of Cepheus}}
+
+[[Category:Cepheus (constellation)]]
+[[Category:Bayer objects|Cephei, Rho2]]
+[[Category:A-type main sequence stars|Cephei, Rho2]]
+[[Category:Stars with proper names]]
+
+[[de:Rho2 Cephei]]
+[[es:Al Kalb al Rai]]
+[[fa:رو۲ قیفاووس]]
+[[id:Rho Cephei]]
+[[lb:Al Kalb al Rai (Stär)]]
+[[nl:Al Kalb al Rai]]
+[[pt:Rho1 Cephei]]
+[[sk:Al Kalb al Rai]]

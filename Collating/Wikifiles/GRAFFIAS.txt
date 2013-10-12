@@ -1,0 +1,135 @@
+{{Starbox begin
+| name = Beta Scorpii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Scorpius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Scorpius constellation and its surroundings]]
+     <div style="position: absolute; left: 64.7%; top: 33.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Scorpii (circled)
+}}
+{{Starbox observe 2s
+| epoch = [[J2000.0]]
+| constell=[[Scorpius]]
+| component1 = HR 5984
+| ra1        = {{RA|16|05|26.23198}}<ref name=aaa474_2_653/>
+| dec1       = {{DEC|–19|48|19.6300}}<ref name=aaa474_2_653/>
+| appmag_v1  = 2.63<ref name=clpl4_99/>
+| component2 = HR 5985
+| ra2        = {{RA|16|05|26.57128}}<ref name=aaa474_2_653/>
+| dec2       = {{DEC|–19|48|06.8556}}<ref name=aaa474_2_653/>
+| appmag_v2  = 4.92<ref name=clpl4_99/>
+}}
+{{Starbox character
+| class      = B0.5V + B2V<ref name=houk1978/>
+| b-v        = –0.08 / –0.02<ref name=clpl4_99/>
+| u-b        = –0.08 / –0.70<ref name=clpl4_99/>
+| variable   = 
+}}
+{{Starbox astrometry
+| component1 = HR 5984
+| radial_v   = –1.0<ref name=rgcrv/>
+| prop_mo_ra  = –5.20<ref name=aaa474_2_653/>
+| prop_mo_dec = –24.04<ref name=aaa474_2_653/>
+| parallax   = 8.07
+| p_error    = 0.78
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v   = 
+| component2 = HR 5985
+| radial_v2  = –3.6<ref name=rgcrv/>
+| prop_mo_ra2 = –5.07<ref name=aaa474_2_653/>
+| prop_mo_dec2 = –25.87<ref name=aaa474_2_653/>
+| parallax2  = 8.19
+| p_error2   = 1.17
+| parallax_footnote2 = <ref name=aaa474_2_653/>
+| absmag_v2  =
+}}
+{{Starbox detail
+| component1 = HR 5984
+| mass       = 10<ref name="kaler" />
+| radius     = 19
+| luminosity  = 20,000<ref name="kaler"/>
+| temperature = 27,000<ref name="kaler" />
+| age        = 
+| metal_fe   = 
+| rotational_velocity = 100<ref name=apj573_1_359/>
+| component2 = HR 5985
+| temperature2 = 22,000<ref name="kaler" />
+| rotational_velocity2 = 65<ref name=apj573_1_359/>
+}}
+{{Starbox catalog |
+| names = Acrab, Elacrab, Graffias,<ref name=allen1899/> Grassias, 8&nbsp;Scorpii, [[Star catalogue#ADS|ADS]]&nbsp;9913.<br>'''A:''' β<sup>1</sup>&nbsp;Sco, [[Star catalogue#BD/CD/CPD|BD]]–19&nbsp;4307, [[Henry Draper Catalogue|HD]]&nbsp;144217, [[Hipparcos catalogue|HIP]]&nbsp;78820, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;5984, [[Star catalogue#SAO|SAO]]&nbsp;159682.<br>'''B:''' β<sup>2</sup>&nbsp;Sco, BD–19&nbsp;4308, HD&nbsp;144218, HIP&nbsp;78821, HR&nbsp;5985.
+}}
+{{ Starbox end }}
+
+'''Beta Scorpii''' (β Sco, β Scorpii) is a multiple [[star system]] in the southern [[zodiac]] [[constellation]] of [[Scorpius]]. It has the traditional names '''Acrab''', '''Akrab''' or '''Elacrab''', all come from ({{lang-ar|العقرب}}) ''al-'Aqrab'', the Scorpion, for the whole constellation, as well as '''Graffias''', a name it shares with [[Xi Scorpii]]. It was known as 房宿四 (the Fourth Star of the Room) in Chinese.
+
+[[File:Beta sco orbits.svg|thumb|left|Fixed typo "hierarchy" of orbits in the Beta Scorpii system.<ref name=aj140_3_735/>]]
+Observed through a small telescope, Beta Scorpii appears as a [[binary star]] with a separation between the two components of 13.5&nbsp;[[arcseconds]]. This pair, β<sup>1</sup> and β<sup>2</sup>, form the top branches of the hierarchy of orbiting components in this system. β<sup>1</sup> Scorpii, the brighter of the pair, consists of two sub-components, β Sco A and β Sco B, orbiting at an angular separation of 3.9&nbsp;arcseconds with an orbital period of 610 years. β Sco A is itself a [[spectroscopic binary]] with the components β Sco Aa and β Sco Ab separated by 1.42&nbsp;[[milliarcsecond]]s and an orbital period of 6.82 days.<ref name=aj140_3_735/>
+
+The second visual component, β<sup>2</sup> Scorpii, has two sub-components, β Sco C and β Sco E, orbiting at an angular separation of 0.1328&nbsp;arcseconds with an orbital period of 39 years. β Sco E is a spectroscopic binary with the components β Sco Aa and β Sco Ab having an orbital period of 10.7 days. This brings the total number of stars in the system to six. There is no D component; this is now an artifact of earlier system models.<ref name=aj140_3_735/>
+
+The two most massive members of the system have the [[spectrum]] of [[B-type main sequence star]]s. Component C has a stellar classification of B2V.<ref name=aj140_3_735/> They are both hot stars at least 10 times as massive as our own [[Sun]], and will have short lives. Both are expected to end their [[stellar evolution]] with massive [[Type II supernova]] explosions.
+
+The Beta Scorpii system is a kinematic member of the Upper Scorpius subgroup of the [[Scorpius-Centaurus Association]],
+a group of thousands of young stars with mean age 11 million years at distance 470 light years (145 parsecs).<ref name="Pecaut">{{Cite journal|author=Mark J. Pecaut, Eric E. Mamajek, & Eric J. Bubar|date=February 2012|title=A Revised Age for Upper Scorpius and the Star Formation History among the F-type Members of the Scorpius-Centaurus OB Association|journal=Astrophysical Journal|volume=746|issue=2|pages=154|url=http://adsabs.harvard.edu/abs/2012ApJ...746..154P}}</ref> A recent analysis of the [[HR diagram]] position for the most massive star Beta-1 Scorpii A<ref name=Pecaut /> estimates its [[effective temperature]] to be 26,240 [[Kelvin]] with a [[luminosity]] of 19,500 Suns, consistent with an isochronal age of 11 million years and an estimated mass of 12 [[solar mass]]es. 
+
+Because it is close to the [[ecliptic]], Beta Scorpii can be occulted by the [[Moon]] and, very rarely, by [[planet]]s. The last [[occultation]] by a planet took place on 13 May 1971, by [[Jupiter]].
+
+==In culture==
+Graffias appears on the  [[flag of Brazil]], symbolising the state of [[Maranhão]].<ref name=abf/> [[USS Graffias (AF-29)]] was once a [[United States]] navy ship named after the star.
+
+== References ==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=4 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1988mcts.book.....H }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aj140_3_735>{{citation | last1=Mason | first1=Brian D. | last2=Hartkopf | first2=William I. | last3=Tokovinin | first3=Andrei | title=Binary Star Orbits. IV. Orbits of 18 Southern Interferometric Pairs | journal=The Astronomical Journal | volume=140 | issue=3 | pages=735–743 | month=September | year=2010 | doi=10.1088/0004-6256/140/3/735 | bibcode=2010AJ....140..735M }}</ref>
+
+<ref name="kaler">{{cite web | title=GRAFFIAS (Beta Scorpii) | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/graffias.html | accessdate=2010-02-20 }}</ref>
+
+<ref name=allen1899>[[Richard Hinckley Allen|Allen, R. H.]], (1899) [http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], New York: G. E. Stechert, p. 367.</ref>
+
+<ref name=abf>{{cite web | title=Astronomy of the Brazilian Flag | url=http://www.fotw.net/flags/br_astro.html | publisher=FOTW Flags Of The World website }}</ref>
+
+}}
+
+==External links==
+*[http://stars.astro.illinois.edu/sow/graffias.html Graffias]
+*[http://antwrp.gsfc.nasa.gov/apod/ap090521.html Image of Graffias] from [[Astronomy Picture of the Day|APOD]]
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Beta]]
+[[Category:Spectroscopic binaries]]
+[[Category:Multiple star systems|5]]
+[[Category:B-type main sequence stars]]
+[[Category:Scorpius (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:عقرب (نجم)]]
+[[ca:Acrab]]
+[[de:Akrab]]
+[[es:Acrab]]
+[[fa:بتا کژدم]]
+[[fr:Beta Scorpii]]
+[[ko:아크라브]]
+[[it:Graffias]]
+[[lb:Akrab (Stär)]]
+[[lt:Akrabas]]
+[[nl:Graffias]]
+[[ja:アクラブ]]
+[[pl:Acrab]]
+[[pt:Acrab]]
+[[ru:Бета Скорпиона]]
+[[sk:Akrab]]
+[[fi:Beta Scorpii]]
+[[zh:房宿四]]

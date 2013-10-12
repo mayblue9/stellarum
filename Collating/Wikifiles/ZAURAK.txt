@@ -1,0 +1,50 @@
+{{starbox short
+|name=     Gamma Eridani
+|constell= [[Eridanus (constellation)|Eridanus]]
+|class=    [[M-type star|M]]1[[Class-III star|III]]b <ref name=SIMBAD> SIMBAD, [http://simbak.cfa.harvard.edu/simbad/sim-basic?Ident=Gamma+Eridani&submit=SIMBAD+search Gamma Eridani] (accessed 2012-03-20) </ref>
+|ra=       {{RA|03|58|01.76695}} <ref name=SIMBAD/>
+|dec=      {{DEC|-13|30|30.6698}} <ref name=SIMBAD/>
+|names=    [[Arabic star names|Zaurac]], [[Bayer designation|Gamma Eridani]], [[Bayer designation|Gamma Eri]], [[Bayer designation|&gamma; Eridani]], [[Bayer designation|&gamma; Eri]], [[Flamsteed designation|34 Eridani]], [[Flamsteed designation|34 Eri]], [[Henry Draper catalogue|HD 25025]], [[Bright Star Catalogue|HR 1231]] <ref name=SIMBAD/>
+}}
+'''Gamma Eridani''' (γ Eri, γ Eridani) is a [[star]] in the [[constellation]] [[Eridanus (constellation)|Eridanus]].  It has the traditional name '''Zaurak''', which means "the boat."<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Eridanus*.html Star Name - R.H. Allen p. 218]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天苑}} ({{lang|zh-Latn|Tiān Yuàn}}), meaning ''[[Hairy Head (Chinese constellation)|Celestial Meadows]]'', refers to an asterism consisting of γ Eridani, [[Delta Eridani|δ Eridani]], [[Pi Eridani|π Eridani]], [[Epsilon Eridani|ε Eridani]], [[Zeta Eridani|ζ Eridani]], [[Eta Eridani|η Eridani]], [[Pi Ceti|π Ceti]], [[Tau1 Eridani|τ<sup>1</sup> Eridani]], [[Tau2 Eridani|τ<sup>2</sup> Eridani]], [[Tau3 Eridani|τ<sup>3</sup> Eridani]], [[Tau4 Eridani|τ<sup>4</sup> Eridani]], [[Tau5 Eridani|τ<sup>5</sup> Eridani]], [[Tau6 Eridani|τ<sup>6</sup> Eridani]], [[Tau7 Eridani|τ<sup>7</sup> Eridani]], [[Tau8 Eridani|τ<sup>8</sup> Eridani]] and [[Tau9 Eridani|τ<sup>9</sup> Eridani]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Eridani itself is known as {{lang|zh|天苑一}} ({{lang|zh-Latn|Tiān Yuàn yī}}, {{lang-en|the First Star of Celestial Meadows}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Structure==
+Zaurak has an [[apparent magnitude]] of +2.95 and is of [[stellar classification|spectral type]] M0.5IIICa-ICr -. As determined by the [[Hipparcos]] astrometry satellite,<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref><ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref> it lies at a distance of about 150 [[light year]]s from [[Earth]].
+
+* Coordinates (equinox 2000):
+**[[Right ascension]] 3h58m1.7s
+**[[declination]] −13°30'31"
+
+==Namesakes==
+[[USS Zaurak (AK-117)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+== References ==
+{{reflist}}
+
+{{Stars of Eridanus}}
+
+[[Category:Eridanus (constellation)]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names|Zaurak]]
+[[Category:Bayer objects|Eridani, Gamma]]
+[[Category:Flamsteed objects|Eridani, 34]]
+[[Category:HR objects|1231]]
+[[Category:Henry Draper Catalogue objects|25025]]
+
+{{giant-star-stub}}
+
+[[ar:الزورق (نجم)]]
+[[cs:Zaurak]]
+[[de:Zaurak]]
+[[es:Zaurak]]
+[[fr:Gamma Eridani]]
+[[id:Gamma Eridani]]
+[[it:Zaurak]]
+[[lb:Zaurak (Stär)]]
+[[ms:Gamma Eridani]]
+[[nl:Zaurak]]
+[[pt:Gamma Eridani]]
+[[sk:Zaurak]]
+[[zh:天苑一]]

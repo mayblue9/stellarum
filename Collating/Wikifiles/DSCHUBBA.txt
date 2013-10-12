@@ -1,0 +1,124 @@
+{{Starbox begin
+ | name = Delta Scorpii
+}}
+{{Starbox image 
+ | image = [[File:Scorpius constellation map.png|250px]]
+ | caption = Dschubba is δ star in one of the Scorpion's claws.
+}} 
+{{Starbox observe
+ | epoch       = J2000
+ | ra          = {{RA|16|00|20.00528}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|–22|37|18.1431}}<ref name=aaa474_2_653/>
+ | appmag_v    = 2.307<ref name=apjs15/>
+ | constell    = [[Scorpius]]
+}}
+{{Starbox character
+ | class       = B0.3&nbsp;IV<ref name=mnras309_1_221/>
+ | b-v         = –0.124<ref name=apjs15/>
+ | u-b         = –0.920<ref name=apjs15/>
+ | variable    = [[Gamma Cassiopeiae variable|γ Cas]]
+}}
+{{Starbox astrometry
+ | radial_v    = –7<ref name=rgcrv/>
+ | prop_mo_ra  = -10.21<ref name=aaa474_2_653/>
+ | prop_mo_dec = -35.41<ref name=aaa474_2_653/>
+ | parallax    = 6.64
+ | p_error     = 0.89
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = –3.8<ref name=aaa216_1_44/>
+}}
+{{Starbox orbit
+ | reference = <ref name=aaa532_A80/>
+ | period = 10.811 ± 0.01
+ | axis_unitless = 98.74 ± 0.07 [[milliarcsecond|mas]]
+ | eccentricity = 0.9403 ± 0.0008
+ | inclination = 30.2 ± 0.7
+ | node = 174.0 ± 2.5
+ | periastron = 2000.6941 ± 0.003
+ | periarg = 0.7 ± 2.9
+ | k1 = 23.9 ± 0.1
+}}
+{{Starbox detail
+ | mass        = {{nowrap|19.7 ± 0.1}},<ref name=mnras410_1_190/> {{nowrap|14.6-14.9}}<ref name=Pecaut/>
+ | radius      = 6.7<ref name=mnras189_601/>
+ | luminosity  = 45,700,<ref name=mnras309_1_221/> 38,000<ref name=Pecaut/>
+ | temperature = 29,500,<ref name=mnras309_1_221/> 27,400<ref name=Pecaut/>
+ | metal_fe    = 
+ | gravity     = 3.92<ref name=aaa216_1_44/>
+ | rotational_velocity = 180<ref name=mnras309_1_221/>
+ | age_myr     = {{nowrap|4.8 ± 0.2}},<ref name=mnras410_1_190/> {{nowrap|9-10}}<ref name=Pecaut/>
+}}
+{{Starbox catalog
+ | names = Dschubba, Dzuba, Al Jabba, Iclarkrau, Iclarkrav, 7 Scorpii, [[Bonner Durchmusterung|BD]] -22°4068, [[Henry Draper catalogue|HD]] 143275, [[Hipparcos catalogue|HIP]] 78401, [[Harvard Revised catalogue|HR]] 5953, [[FK5]] 594, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 184014, CCDM 16003-2237.
+}}
+{{Starbox end}}
+'''Delta Scorpii''' (δ Sco, δ Scorpii) is a [[star]] in the [[constellation]] [[Scorpius]]. It has the traditional name '''Dschubba''' (or '''Dzuba''', from [[Arabic]] ''jabhat'', "forehead" (of the [[scorpion]]) or also '''Iclarcrau''' or '''Iclarkrav'''.
+
+Because Delta Scorpii is near the [[ecliptic]] it is occasionally [[occultation|occulted]] by the [[Moon]], or (extremely rarely) by [[planet]]s.
+
+Delta Scorpii is a [[proper motion]] member of the Upper Scorpius subgroup of the
+[[Scorpius-Centaurus Association|Scorpius-Centaurus]] [[Stellar association|OB association]],
+the nearest such co-moving association of massive stars to the Sun.<ref name=aaa216_1_44/><ref name="Pecaut">{{Cite journal|author=Mark J. Pecaut, Eric E. Mamajek, & Eric J. Bubar|date=February 2012|title=A Revised Age for Upper Scorpius and the Star Formation History among the F-type Members of the Scorpius-Centaurus OB Association|journal=Astrophysical Journal|volume=746|issue=2|pages=154|url=http://adsabs.harvard.edu/abs/2012ApJ...746..154P}}</ref> 
+The Upper Scorpius subgroup contains thousands of young stars with mean age 11 million years at average distance of 470 light years (145 parsecs).<ref name="Pecaut"/> A recent analysis<ref name=Pecaut/> of the [[HR diagram]] position for Delta Scorpii estimates its [[effective temperature]] to be 27,400 [[Kelvin]] with a [[luminosity]] of 38,000 Suns, consistent with an isochronal age of 9-10 million years and an estimated mass of 14.6-14.9 [[solar mass]]es.
+
+==Variability==
+In June 2000, Delta Scorpii was observed by [[Sebastian Otero]] to be 0.1 magnitudes brighter than normal. Its brightness has varied since then and has reached as high as magnitude 1.65, altering the familiar appearance of [[Scorpius]]. Spectra taken after the outburst began have shown that the star is throwing off luminous gases from its equatorial region. As of 2005 the flareup continues. Although the brightness varies, it remains well above its previous constant magnitude.
+
+The companion passed close by in 2011, again resulting in the star peaking at 1.65 between 5 and 15 July 2011.<ref name=sigismondo/>
+
+===Companion stars===
+Dschubba is accompanied by a class B star that orbits the primary every 20 days at a distance comparable to the distance from the [[Sun]] to [[Mercury (planet)|Mercury]]. Furthermore, there is a star that takes about 10 years to orbit Dschubba in a highly [[eccentricity (mathematics)|eccentric]] orbit that takes it close in to the primary once a decade. The last close encounter of these two stars happened in mid-2000 and it may have triggered the outburst of the primary star. A possible fourth companion star lies at about twice the distance again from the main star.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+<ref name=aaa216_1_44>{{citation | last1=de Geus | first1=E. J. | last2=de Zeeuw | first1=P. T. | last3=Lub | first3=J. | title=Physical parameters of stars in the Scorpio-Centaurus OB association | journal=Astronomy and Astrophysics | volume=216 | issue=1-2 | pages=44–61 | month=June | year=1989 | bibcode=1989A&A...216...44D }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=january | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=apjs15>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=aaa532_A80>{{citation | display-authors=1 | last1=Meilland | first1=A. | last2=Delaa | first2=O. | last3=Stee | first3=Ph. | last4=Kanaan | first4=S. | last5=Millour | first5=F. | last6=Mourard | first6=D. | last7=Bonneau | first7=D. | last8=Petrov | first8=R. | last9=Nardetto | first9=N. | last10=Marcotto | first10=A. | last11=Roussel | first11=A. | last12=Clausse | first12=J. M. | last13=Perraut | first13=K. | last14=McAlister | first14=H. | last15=Ten Brummelaar | first15=T. | last16=Sturmann | first16=J. | last17=Sturmann | first17=L. | last18=Turner | first18=N. | last19=Ridgway | first19=S. T. | last20=Farrington | first20=C. | last21=Goldfinger | first21=P. J. | title=The binary Be star δ Scorpii at high spectral and spatial resolution. I. Disk geometry and kinematics before the 2011 periastron | journal=Astronomy & Astrophysics | volume=532 | page=A80 | month=August | year=2011 | doi=10.1051/0004-6361/201116798 | bibcode=2011A&A...532A..80M |arxiv = 1106.1746 }}</ref>
+
+<ref name=sigismondo>{{citation |url= http://arxiv.org/abs/1112.2356 |author=Sigismondi, Costantino |title=Differential photometry of delta Scorpii during 2011 periastron |year=2011}}</ref>
+
+}}
+
+==External links==
+* *Jim Kaler's Stars, University of Illinois: [http://www.astro.uiuc.edu/~kaler/sow/dschubba.html Dschubba]
+* [http://skyandtelescope.com/news/current/article_462_1.asp Delta Scorpii brighter than ever] (''[[Sky and Telescope]]'', February 4, 2002)
+* [http://skyandtelescope.com/news/article_986_1.asp Delta Scorpii still showing off] (''[[Sky and Telescope]]'', June 25, 2003)
+
+{{Stars of Scorpius}}
+
+[[Category:Scorpius (constellation)]]
+[[Category:Bayer objects|Scorpii, Delta]]
+[[Category:B-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ca:Dschubba]]
+[[de:Dschubba]]
+[[es:Dschubba]]
+[[fa:دلتا کژدم]]
+[[fr:Delta Scorpii]]
+[[ko:드슈바]]
+[[hi:डॅल्टा स्कोर्पाए तारा]]
+[[it:Delta Scorpii]]
+[[lb:Dschubba (Stär)]]
+[[lt:Dskuba]]
+[[nl:Dschubba]]
+[[ja:ジュバ (恒星)]]
+[[pl:Dschuba]]
+[[pt:Dschubba]]
+[[ru:Дельта Скорпиона]]
+[[sk:Dschubba]]
+[[fi:Delta Scorpii]]
+[[zh:房宿三]]

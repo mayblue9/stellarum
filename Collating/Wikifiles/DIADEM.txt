@@ -1,0 +1,94 @@
+{{dablink|This article is about the star called Diadem; for alternate meanings, see [[Diadem]].}}
+{{Starbox begin
+| name = [[Bayer designation|α&nbsp;Comae&nbsp;Berenices]]}}
+{{Starbox image
+| image = [[Image:Coma Berenices constellation map.png|200px]]
+| caption = [[Coma Berenices]] constellation}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Coma Berenices (constellation)|Coma Berenices]]
+| ra = {{RA|13|09|59.2766}}<ref name=sb0>{{SIMBAD link|alf+com|NSV 6116 -- Variable Star}}, database entry, [[SIMBAD]].  Accessed on line September 3, 2008.</ref>
+| dec = {{DEC|+17|31|45.953}}<ref name=sb0 />
+| appmag_v=4.29&nbsp;to&nbsp;4.35<br /><small>(combined)</small/><ref name=nsv1>NSV 6116, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/nsv/nsv.dat New Catalogue of Suspected Variable Stars, the improved version], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line September 3, 2008.</ref><br />A: 4.85 / B: 5.53<ref name=orb />
+}}
+{{Starbox character
+| class = A: F5V / B: F5V<br /><small>(binary star)</small><ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/diadem.html Diadem], Jim Kaler, ''Stars''.  Accessed on line September 3, 2008.</ref>
+| u-b = −0.06<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=4968 HR 4968], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line September 3, 2008.</ref>
+| b-v = 0.45<ref name=bsc2 />
+| v-r = 0.2<ref name=sb0 />
+| r-i = 0.2<ref name=sb0 />
+}}
+{{Starbox astrometry
+| radial_v = −17.7&nbsp;±&nbsp;0.9<ref name=sb0 />
+| prop_mo_ra = −445.96<ref name=sb0 />
+| prop_mo_dec = 129.69<ref name=sb0 />
+| parallax = 51.7
+| p_error = 5.7
+| parallax_footnote = <ref>[http://webviz.u-strasbg.fr/viz-bin/VizieR-S?GJ%20501 GJ 501], database entry, Preliminary Version of the Third Catalogue of Nearby Stars, W. Gliese and H. Jahreiss, [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/70A V/70A].  Accessed on line September 3, 2008.</ref>
+| absmag_v= 3 <small>(combined)</small><ref>From apparent magnitude and parallax.</ref>
+}}
+{{Starbox visbin
+|reference=<ref name=orb/>
+|period_unitless=26.052&nbsp;±&nbsp;0.013&nbsp;years
+|axis_unitless=0.67633&nbsp;±&nbsp;0.00095[[arcsecond|″]]
+|periastron=[[Epoch (astronomy)|B]]1989.2052&nbsp;±&nbsp;0.0061
+|inclination=90.098&nbsp;±&nbsp;0.051
+|node=192.235&nbsp;±&nbsp;0.047
+|eccentricity=0.5083&nbsp;±&nbsp;0.0026
+|periarg=280.121&nbsp;±&nbsp;0.070
+}}
+{{Starbox catalog
+| names=α&nbsp;Com, Alpha&nbsp;Comae&nbsp;Berenices, Alpha&nbsp;Com, [[Flamsteed designation|42&nbsp;Comae&nbsp;Berenices]], 42&nbsp;Com, [[Double star designation|STF 1728AB]], [[Aitken Double Star Catalogue|ADS]]&nbsp;8804&nbsp;AB, [[Durchmusterung|BD]]+18°2697, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J13100+1732AB, [[Boss General Catalogue|GC]]&nbsp;17833, [[Gliese–Jahreiß Catalogue|Gliese]]&nbsp;501AB, [[Henry Draper Catalogue|HD]]&nbsp;114378/114379, [[Hipparcos Catalogue|HIP]]&nbsp;64241, [[Bright Star Catalogue|HR]]&nbsp;4968/4969, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;13051+1803&nbsp;AB, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;13802, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;33105, [[PPM Star Catalogue|PPM]]&nbsp;129630, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;100443, [[Washington Double Star Catalog|WDS]]&nbsp;13100+1732AB.<ref name=sb0 /><ref>{{SIMBAD link|HD+114378|HD 114378  -- Star in double system}}, database entry, [[SIMBAD]], accessed on line September 3, 2008.</ref><ref>{{SIMBAD link|HD+114379|HD 114379  -- Star in double system}}, database entry, [[SIMBAD]], accessed on line September 3, 2008.</ref>
+}}
+{{Starbox reference
+| Simbad=alf+com}}
+{{Starbox end}}
+
+'''Alpha Comae Berenices''' (Alpha Com, α Com, α Comae Berenices) is a [[star]] in the [[constellation]] [[Coma Berenices]] (Berenice's Hair). Although it has the [[Bayer designation]] "alpha", at [[apparent magnitude|magnitude]] 4.32 it is actually fainter than [[Beta Comae Berenices]].  It has the traditional name [[Diadem (personal wear)|'''Diadem''']].  It is said to represent the crown worn by [[Berenice II of Egypt|Queen Berenice]]. A name occasionally seen is '''Al Dafirah''', from the Arabic الضفيرة ''ađ̧-đ̧afīrah'' "the braid". 
+
+In [[Chinese language|Chinese]], {{lang|zh|太微左垣}} ({{lang|zh-Latn|Tài Wēi Zuǒ Yuán}}), meaning ''[[Supreme Palace enclosure|Left Wall of Supreme Palace Enclosure]]'', refers to an asterism consisting of α Comae Berenices, [[Eta Virginis|η Virginis]], [[Gamma Virginis|γ Virginis]], [[Delta Virginis|δ Virginis]] and [[Epsilon Virginis|ε Virginis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Comae Berenices itself is known as {{lang|zh|太微左垣五}} ({{lang|zh-Latn|Tài Wēi Zuǒ Yuán wǔ}}, {{lang-en|the Fifth Star of Left Wall of Supreme Palace Enclosure}}.),<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_c_d.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> representing {{lang|zh|東上將}} ({{lang|zh-Latn|Dōngshǎngjiāng}}), meaning ''The First Eastern General''.<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#SupremePalaceEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> 東上將 (Dōngshǎngjiāng), westernized into '''Shang Tseang''', but the name ''Shang Tseang'' was designated for "v Comae Berenices" by R.H. Allen and the meaning is "a Higher General" <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Coma_Berenices*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Coma Berenices]</ref>
+
+==Properties==
+
+It is a [[binary star]], with almost equal components of magnitudes 5.05m and 5.08m orbiting each other with a period of 25.87 years.  The system, estimated to be 65 [[light years]] distant, appears so nearly "edge-on" from the Earth that the two stars appear to move back-and-forth in a straight line with a maximum separation of only 0.7 arcsec.  It is not known whether eclipses occur between the two components at periastron (minimum separation)&mdash;the only such passage since the determination of the orbit, in 1990, was not quantitatively followed by observers.  
+
+The mean separation between them is approximately 10 [[Astronomical Units|A.U.]], about the distance between the Sun and [[Saturn]].
+
+The binary star has a [[double star|visual companion]], CCDM J13100+1732C, of apparent magnitude 10.2, located 89 [[arcsecond]]s away along a position angle of 345°.<ref name=wds>Entry 13100+1732, discoverer code STF1728, components AB-C, [http://ad.usno.navy.mil/wds/wdsnewframe3.html The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line September 3, 2008.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=orb>Entry 13100+1732,
+[http://ad.usno.navy.mil/wds/orb6/orb6orbits.txt Sixth Catalog of Orbits of Visual Binary Stars],
+[[United States Naval Observatory]].  Accessed on line September 3, 2008.</ref>
+
+}}
+
+== External links ==
+{{Nearest star systems|12}}
+{{Stars of Coma Berenices}}
+
+[[Category:Bayer objects|Comae Berenices, Alpha]]
+[[Category:Binary stars]]
+[[Category:Coma Berenices (constellation)]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+[[Category:Flamsteed objects|Comae Berenices, 42]]
+[[Category:Henry Draper Catalogue objects|114378]]
+[[Category:Hipparcos objects|064241]]
+[[Category:Triple stars]]
+[[Category:Durchmusterung objects|BD+18 2697]]
+[[Category:Gliese and GJ objects|0501]]
+
+[[de:Alpha Comae Berenices]]
+[[es:Diadem]]
+[[fa:آلفا گیسوی برنیکه]]
+[[fr:Alpha Comae Berenices]]
+[[id:Alpha Comae Berenices]]
+[[it:Alfa Comae Berenices]]
+[[lb:Diadem (Stär)]]
+[[nl:Diadem]]
+[[sk:Diadém (dvojhviezda)]]
+[[zh:东上将]]

@@ -1,0 +1,114 @@
+{{Starbox begin
+ | name = Zeta Canis Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Canis Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Canis Major constellation and its surroundings]]
+     <div style="position: absolute; left: 57.6%; top: 58.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ζ Canis Majoris (circled)
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | constell = [[Canis Major]]
+ | ra       = {{RA|06|20|18.79204}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–30|03|48.1202}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.025<ref name=mnassa31_69/>
+}}
+{{Starbox character
+ | class    = B2.5&nbsp;V<ref name=houk1979/>
+ | b-v      = –0.195<ref name=mnassa31_69/>
+ | u-b      = –0.71<ref name=mnassa31_69/>
+ | variable = Suspected [[Beta Cephei variable|β Cep]]<ref name=aaa452_3_945/>
+}}
+{{Starbox astrometry
+ | radial_v = +32.2<ref name=rgcrv/>
+ | prop_mo_ra  = +7.32<ref name=aaa474_2_653/>
+ | prop_mo_dec = +4.03<ref name=aaa474_2_653/>
+ | parallax = 9.00
+ | p_error  = 0.13
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox orbit
+ | reference = <ref name=apj629_1_507/>
+ | period_unitless = 675&nbsp;days
+ | eccentricity = 0.57
+}}
+{{Starbox detail
+ | mass     = {{nowrap|7.7 ± 0.2}}<ref name=mnras410_1_190/>
+ | radius   = 3.9<ref name=mnras189_601/>
+ | gravity  = 4.0<ref name=mnras189_601/>
+ | metal_fe = 
+ | age_myr  = {{nowrap|32.0 ± 0.4}}<ref name=mnras410_1_190/>
+ | luminosity  = 3,603<ref name=an331_4_349/>
+ | temperature = 18,700<ref name=an331_4_349/>
+ | rotational_velocity = 25<ref name=apj573_1_359/>
+}}
+{{Starbox catalog
+ | names = Furud, Phurud, [[Bayer designation|&zeta; CMa]], [[Flamsteed designation|1&nbsp;CMa]], [[Bonner Durchmusterung|CD]]-30°3038, [[Fifth Fundamental Catalogue|FK5]]&nbsp;240, [[Henry Draper Catalogue|HD]]&nbsp;44402, [[Hipparcos catalogue|HIP]]&nbsp;30122, [[Harvard Revised catalogue|HR]]&nbsp;2282, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;196698.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Zeta Canis Majoris''' (ζ CMa, ζ Canis Majoris) is a [[spectroscopic binary]] in the [[constellation]] [[Canis Major]].  It has the traditional name '''Furud''' or '''Phurud''', from the [[Arabic language|Arabic]] '''ألفرد''' ''al-furud'' meaning ''the bright single ones'' or, perhaps by a transcriber's error, from '''Al Ḳurūd''' ('''ألقرد''' - ''al-qird''), the Apes, or '''Al Agribah''' ('''أل أغربة'''), the Raven by [[Al Sufi]], referring to the surrounding small stars with some of those of Columba<ref name=allen1963/> (ζ CMa, [[Lambda Canis Majoris|λ CMa]], [[Gamma Columbae|γ Col]], [[Delta Columbae|δ Col]], [[Theta Columbae|θ Col]], [[Kappa Columbae|κ Col]], [[Lambda Columbae|λ Col]], [[Mu Columbae|μ Col]] and [[Xi Columbae|ξ Col]]).<ref name=pa52_3_14/> The [[Bayer designation]] Zeta Canis Majoris was assigned by German astronomer [[Johann Bayer]] in 1603.
+
+This star system has an [[apparent visual magnitude]] of +3.0,<ref name=mnassa31_69/> making it one of the [[List of stars in Canis Major|brighter stars]] in the constellation and hence readily visible to the naked eye. [[Parallax]] measurements from the [[Hipparcos]] mission yield a distance estimate of around {{Convert|362|ly|pc|abbr=on|lk=on}} from Earth.<ref name=aaa474_2_653/> This is a single-lined [[spectroscopic binary]] system, which means that the pair have not been individually resolved with a telescope, but the [[gravitational perturbation]]s of an unseen astrometric companion can be discerned by shifts in the spectrum of the primary caused by the [[Doppler effect]]. The pair orbit around their common center of mass once every 675 days with an [[orbital eccentricity|eccentricity]] of 0.57.<ref name=apj629_1_507/>
+
+The primary component is a large star with nearly four<ref name=mnras189_601/> times the Sun's radius and almost eight<ref name=mnras410_1_190/> times the mass of the Sun. It has a [[stellar classification]] of B2.5&nbsp;V,<ref name=houk1979/> which means it is a [[B-type main sequence star]] that is generating energy through the [[nuclear fusion]] of hydrogen at its core. It is emitting 3,603<ref name=an331_4_349/> times the luminosity of the Sun and is a suspected [[Beta Cephei variable]].<ref name=aaa452_3_945/> This energy is being radiated from its outer envelope at an [[effective temperature]] of about 18,700&nbsp;K,<ref name=an331_4_349/> giving it the blue-white hue of a B-type star.<ref name=csiro/> It is relatively young for a star, with an estimated age of 32 million years.<ref name=mnras410_1_190/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Canis_Major*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=130 }}</ref>
+
+<ref name=pa52_3_14>{{citation | last1=Davis Jr. | first1=G. A. | bibcode=1944PA.....52....8D | title=The Pronunciations, Derivations, and Meanings of a Selected List of Star Names | journal=Popular Astronomy | volume=52 | issue=3 | month=October | year=1944 | page=14 }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982MSS...C03....0H }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=mnassa31_69>{{citation | title=UBV Photometry of Some Very Bright Stars | last1=Cousins | first1=A. W. J. | journal=Monthly Notes of the Astronomical Society, Southern Africa | volume=31 | page=69 | year=1972 | bibcode=1972MNSSA..31...69C }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=apj629_1_507>{{citation | last1=Abt | first1=Helmut A. | title=Observed Orbital Eccentricities | journal=The Astrophysical Journal | volume=629 | issue=1 | pages=507–511 | month=August | year=2005 | doi=10.1086/431207 | bibcode=2005ApJ...629..507A }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name=aaa452_3_945>{{citation | display-authors=1 | last1=Telting | first1=J. H. | last2=Schrijvers | first2=C. | last3=Ilyin | first3=I. V. | last4=Uytterhoeven | first4=K. | last5=De Ridder | first5=J. | last6=Aerts | first6=C. | last7=Henrichs | first7=H. F. | title=A high-resolution spectroscopy survey of β Cephei pulsations in bright stars | journal=Astronomy and Astrophysics | volume=452 | issue=3 | pages=945–953 | month=June | year=2006 | month=June | year=2006 | doi=10.1051/0004-6361:20054730 | bibcode=2006A&A...452..945T }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=zet CMa -- Cepheid variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Canis+Majoris | accessdate=2012-02-15 }}</ref>
+
+}}
+
+==External links==
+* {{citation | first1=James B. | last1=Kaler | title=FURUD (Zeta Canis Majoris) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/furud.html | accessdate=2012-02-16 }}
+
+{{Stars of Canis Major}}
+
+[[Category:Bayer objects|Canis Majoris, Zeta]]
+[[Category:B-type main sequence stars]]
+[[Category:Canis Major (constellation)]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+[[ar:فرد الكلب الأكبر (نجم)]]
+[[de:Furud]]
+[[es:Furud]]
+[[fa:فرد (ستاره)]]
+[[fr:Zeta Canis Majoris]]
+[[it:Furud]]
+[[lb:Furud (Stär)]]
+[[nl:Furud]]
+[[ja:フルド]]
+[[pt:Zeta Canis Majoris]]
+[[ro:Zeta Canis Majoris]]
+[[ru:Дзета Большого Пса]]
+[[sk:Furud]]

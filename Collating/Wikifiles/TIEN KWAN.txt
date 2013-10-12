@@ -1,0 +1,112 @@
+{{Starbox begin
+| name = Zeta Tauri
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Taurus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Taurus constellation and its surroundings]]
+     <div style="position: absolute; left: 25.2%; top: 33.2%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Tauri (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Taurus (constellation)|Taurus]]
+| ra       = {{RA|05|37|38.68542}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+21|08|33.1588}}<ref name=aaa474_2_653/>
+| appmag_v = 3.010<ref name=baic31_3_144/>
+}}
+{{Starbox character
+| class    = B2&nbsp;IIIpe<ref name=aj140_6_1838/>
+| b-v      = –0.164<ref name=baic31_3_144/>
+| u-b      = –0.749<ref name=baic31_3_144/>
+| r-i      = 
+}}
+{{Starbox astrometry
+| radial_v    = +20<ref name=rgcrv/>
+| prop_mo_ra  = +1.78<ref name=aaa474_2_653/>
+| prop_mo_dec = –20.07<ref name=aaa474_2_653/>
+| parallax = 7.33
+| p_error  = 0.82
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aj140_6_1838/>
+| period_unitless = 132.987&nbsp;days
+| axis_unitless = 1.17&nbsp;[[Astronomical Unit|AU]]
+| eccentricity = 0.0 (assumed)
+| inclination = 92.8
+| node = –58.0
+| periastron = 2,447,025.6&nbsp;HJD
+| periarg = 0.0 (assumed)
+| k1 = 7.43
+}}
+{{Starbox detail
+| component1 = ζ Tau A
+| mass     = 11.2<ref name=aj140_6_1838/>
+| radius   = 5.5<ref name=aj140_6_1838/>
+| luminosity  = 4,169<ref name=mnras309_1_221/>
+| temperature = 15,500<ref name=mnras309_1_221/>
+| gravity  = 
+| rotational_velocity = 125<ref name=apj573_1_359/>
+| age_myr  = {{nowrap|22.5 ± 2.6}}<ref name=mnras410_1_190/>
+| component2 = ζ Tau B
+| mass2    = 0.94<ref name=aj140_6_1838/>
+}}
+{{Starbox catalog
+| names = 123&nbsp;Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1910, [[Henry Draper Catalogue|HD]]&nbsp;37202, [[Star catalogue#BD/CD/CPD|BD]]+21&nbsp;908, [[FK5]]&nbsp;211, [[Hipparcos catalogue|HIP]]&nbsp;26451, [[Star catalogue#SAO|SAO]]&nbsp;77336, GC&nbsp;6985.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Zeta Tauri''' (ζ Tau, ζ Tauri) is a [[binary star]] in the [[zodiac]] [[constellation]] [[Taurus (constellation)|Taurus]], the Bull. It has an [[apparent visual magnitude]] of 3.0,<ref name=baic31_3_144/> which is bright enough to be seen with the naked eye. [[Parallax]] measurements place it at a distance of roughly 440&nbsp;[[light-year]]s from the [[Earth]].<ref name=aaa474_2_653/>
+
+In [[Chinese astronomy]], Zeta Tauri is called 天關, [[Pinyin]]: Tiānguān, meaning ''Celestial Gate'', because this star is marking itself and stand alone in ''Celestial Gate'' asterism, ''[[Net (Chinese constellation)|Net]]'' (mansion) (see : [[Chinese constellation]]).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060524.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 24 日]</ref> 天關 (Tiānguān) is westernized into '''Tien Kwan''', but the name ''Tien Kwan'' was designated not only for Zeta Tauri, but also for the stars near by, with the meaning is "the Heavenly Gate" <ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Taurus*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Taurus]</ref>
+
+==Properties==
+This is a single-lined [[spectroscopic binary]] system, which means the two components are orbiting so close to each other that they can not be resolved with a telescope. Instead, the orbital motion of the primary component is indicated by [[Doppler effect]] shifts in the [[absorption line]]s in its [[spectrum]]. The two components are separated by an estimated distance of about 1.17&nbsp;[[Astronomical Unit]]s, or 117% of the distance from the Earth to the Sun. They are following circular orbits with a [[orbital period|period]] of nearly 133 days.<ref name=aj140_6_1838/>
+
+Compared to the Sun, the primary is an enormous star with more than 11 times the mass and 5–6 times the radius.<ref name=aj140_6_1838/> It is rotating rapidly with a [[stellar rotation|projected rotational velocity]] of {{nowrap|125 km s<sup>–1</sup>}}.<ref name=apj573_1_359/> The companion has about 94% the mass of the Sun, although it is unknown whether this is a [[main sequence]] star, a [[neutron star]], or a [[white dwarf]]. If it is a main sequence star, then the mass indicates it may have a [[stellar classification]] of G4.<ref name=aj140_6_1838/>
+
+The [[spectrum]] of the primary component has a [[stellar classification]] of B2&nbsp;IIIpe.<ref name=aj140_6_1838/> A [[luminosity class]] of 'III' indicates this is a [[giant star]] that has exhausted the hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. The 'e' suffix is used for stars that show [[emission line]]s in their spectrum. For [[Be star]]s such as this, the emission lines are produced by a rotating circumstellar disk of gas, made of material that has been ejected from the star's outer envelope. An oscillatory pattern in this spectrum is being caused by a single-armed [[spiral density wave]] in the disk. The disk may be [[precessing]] from the gravitational influence of the secondary component.<ref name=aj140_6_1838/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation| first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=baic31_3_144>{{citation | display-authors=1 | last1=Harmanec | first1=P. | last2=Horn | first2=J. | last3=Koubsky | first3=P. | last4=Zdarsky | first4=F. | last5=Kriz | first5=S. | last6=Pavlovski | first6=K. | title=Photoelectric photometry at the Hvar Observatory. IV - A study of UBV variations of a group of bright northern Be stars | journal=Bulletin of the Astronomical Institutes of Czechoslovakia, Bulletin | volume=31 | issue=3 | pages=144–159 | month=1980 | bibcode=1980BAICz..31..144H }}</ref>
+
+<ref name=aj140_6_1838>{{citation | display-authors=1 | last1=Schaefer | first1=G. H. | last2=Gies | first2=D. R. | last3=Monnier | first3=J. D. | last4=Richardson | first4=N. D. | last5=Touhami | first5=Y. | last6=Zhao | first6=M. | last7=Che | first7=X. | last8=Pedretti | first8=E. | last9=Thureau | first9=N. | title=Multi-epoch Near-infrared Interferometry of the Spatially Resolved Disk around the Be Star ζ Tau | journal=The Astronomical Journal | volume=140 | issue=6 | pages=1838–1849 | month=December | year=2010 | doi=10.1088/0004-6256/140/6/1838 | bibcode=2010AJ....140.1838S |arxiv = 1009.5425 }}</ref>
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+<ref name=SIMBAD>{{citation | title=zet Tau -- Be Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Tauri | accessdate=2012-01-20 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+{{Stars of Taurus}}
+
+[[Category:Bayer objects|Tauri, Zeta]]
+[[Category:B-type giants]]
+[[Category:Spectroscopic binaries]]
+[[Category:Taurus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:زيتا الثور]]
+[[de:Zeta Tauri]]
+[[es:Zeta Tauri]]
+[[fa:زتا گاو]]
+[[fr:Zeta Tauri]]
+[[ko:황소자리 제타]]
+[[it:Zeta Tauri]]
+[[no:Zeta Tauri]]
+[[pt:Zeta Tauri]]
+[[ru:Дзета Тельца]]
+[[sk:Tien Kuan]]
+[[zh:天關]]

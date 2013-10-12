@@ -1,0 +1,72 @@
+{{Starbox short |
+ name=τ¹ Hydrae |
+ epoch=[[J2000.0]] |
+ constell=[[Hydra (constellation)|Hydra]] |
+ ra=9<sup>h</sup> 29<sup>m</sup> 8.9<sup>s</sup> |
+ dec=-2° 46' 8" |
+ spectral=F6V |
+ appmag_v=+4.59 |
+ dist_ly=56 |
+ dist_pc=17.18 |
+ names=Ukdah, 31 Hydrae [[Star catalogue#BS, BSC, HR|HR]]&nbsp;3759,<BR/>[[Henry Draper Catalogue|HD]]&nbsp;81997, [[Star catalogue#SAO|SAO]]&nbsp;136895,<BR/>[[Hipparcos|HIP]]&nbsp;46509, CCDM&nbsp;J09291-0246A}}
+
+The [[Bayer designation]] '''Tau Hydrae''' (τ Hya, τ Hydrae) is shared by two [[star system]]s, '''τ¹ Hydrae''' and '''τ² Hydrae''', in the [[constellation]] [[Hydra (constellation)|Hydra]].  The two stars are separated by 1.74° in the sky. 
+
+This star (τ¹ Hya and τ² Hya), along with [[Iota Hydrae|ι Hya]] and the 5th‑magnitude [[33 Hydrae|33 Hya]] (A Hydrae}, were Ptolemy's Καμπή (Kampē); but Kazwini knew them as '''ʽUḳdah''', the Knot.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Hydra*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=250 }} </ref>
+
+==τ¹ Hydrae==
+'''Tau-1 Hydrae''' is a [[binary star]] lying 56 [[light years]] from [[Earth]]. It is a [[stellar classification|spectral type]] F6 [[main sequence]] star which has an [[apparent magnitude]] of +4.59.
+
+<br clear="all"/>
+
+==τ² Hydrae==
+{{Starbox short |
+ name=τ² Hydrae |
+ epoch=[[J2000.0]] |
+ constell=[[Hydra (constellation)|Hydra]] |
+ ra=9<sup>h</sup> 31<sup>m</sup> 58.9<sup>s</sup> |
+ dec=-1° 11' 6" |
+ spectral=A3V |
+ appmag_v=+4.54 |
+ dist_ly=460 |
+ dist_pc=141.10 |
+ names=Ukdah, 32 Hydrae, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;3787,<BR/>[[Henry Draper Catalogue|HD]]&nbsp;82446, [[Star catalogue#SAO|SAO]]&nbsp;136932,<BR/>[[Hipparcos|HIP]]&nbsp;46776
+}}
+'''Tau-2 Hydrae''' is a [[stellar classification|spectral type]] A3 [[main sequence]] star which has an [[apparent magnitude]] of +4.54. It is about 460 [[light year]]s from [[Earth]].
+
+==Name==
+According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Uḳdah'' were the title for four stars :τ¹ Hya as ''Uḳdah I'', τ² Hya as ''Uḳdah II'', [[33 Hydrae|33 Hya]] (A Hydrae} as ''Uḳdah III'' and [[Iota Hydrae|ι Hya]] as ''Uḳdah IV'' <ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|柳宿}} ({{lang|zh-Latn|Xīng Sù}}), meaning ''[[Star (Chinese constellation)|Star]] (asterism)'', refers to an asterism consisting of τ¹ Hydra and τ² Hydra, [[Alphard]], [[Iota Hydrae|ι Hydrae]], [[26 Hydrae]], [[27 Hydrae]], [[HD 82477]] and [[HD 82428]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, τ¹ Hydra and τ² themself is known as {{lang|zh|星宿二}} ({{lang|zh-Latn|Xīng Sù èr}}, {{lang-en|the Second Star of Star}} and {{lang|zh|星宿三}} ({{lang|zh-Latn|Xīng Sù sān}}, {{lang-en|the Third Star of Star}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060529.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 29 日]</ref>
+
+== References ==
+* {{cite web | title=HD 81997 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=tau1+hydrae&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2006-11-05}}
+* {{cite web | title=HD 82446 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=tau2+hydrae&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2006-11-05}}
+<br>
+{{reflist}}
+
+==External links==
+
+{{Nearest star systems|12}}
+
+[[Category:Bayer objects|Hydrae, Tau]]
+[[Category:Hydra (constellation)]]
+[[Category:Binary stars]]
+[[Category:F-type main sequence stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Gliese and GJ objects|0348]]
+
+{{star-system-stub}}
+
+[[es:Tau1 Hydrae]]
+[[fa:تاو مار باریک]]
+[[id:Tau Hydrae]]
+[[pt:Tau1 Hydrae]]
+[[zh:長蛇座τ]]

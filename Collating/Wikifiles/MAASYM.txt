@@ -1,0 +1,85 @@
+{{Starbox begin
+| name=Lambda Herculis }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|17|30|44.3099}}<ref name=aaa323/>
+| dec={{DEC|+26|06|38.323}}<ref name=aaa323/>
+| appmag_v=4.402<ref name=SIMBAD/>
+| constell=[[Hercules (constellation)|Hercules]] }}
+{{Starbox character
+| class=K4III<ref name=SIMBAD/>
+| b-v=+1.44<ref name=clpl99/>
+| u-b=+1.68<ref name=clpl99/>
+| variable= }}
+{{Starbox astrometry
+| radial_v=&minus;26.51<ref name=aaa430/>
+| prop_mo_ra=+18.39<ref name=aaa323/>
+| prop_mo_dec=+16.78<ref name=aaa323/>
+| parallax=8.88
+| p_error=0.64
+| parallax_footnote=<ref name=aaa323/>
+| absmag_v= }}
+{{Starbox detail
+| mass=
+| radius=
+| luminosity=
+| temperature=4,070<ref name=apjss74/>
+| metal=<math>\begin{smallmatrix}\left[\frac{Fe}{H}\right]\ =\ -0.04\end{smallmatrix}</math><ref name=apjss74/>
+| rotation=
+| rotational_velocity=8<ref name=csrv70/>
+| gravity=1.89<ref name=apjss74/>
+| age= }}
+{{Starbox catalog
+| names=76 Her, [[Harvard Revised catalogue|HR]] 6526, [[Bonner Durchmusterung|BD]]+26 3034, [[Henry Draper catalogue|HD]] 158899, [[Smithsonian Astrophysical Observatory|SAO]] 85163, [[Fifth Fundamental Catalogue|FK5]] 1460, [[Hipparcos catalogue|HIP]] 85693.<ref name=SIMBAD/> }}
+{{Starbox end}}
+
+'''Lambda Herculis''' (λ Her, λ Herculis) is a [[star]] in
+the [[constellation]] [[Hercules (constellation)|Hercules]].
+It has the traditional name '''Maasym''' ("wrist").
+
+In [[Chinese language|Chinese]], {{lang|zh|天市左垣}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán}}), meaning ''[[Heavenly Market enclosure|Left Wall of Heavenly Market Enclosure]]'', refers to an asterism which is represent eleven old states in China which is marking the left borderline of the enclosure, consisting of λ Herculis, [[Delta Herculis|δ Herculis]], [[Mu Herculis|μ Herculis]], [[Omicron Herculis|ο Herculis]], [[112 Herculis]], [[Zeta Aquilae|ζ Aquilae]], [[Theta1 Serpentis|θ<sup>1</sup> Serpentis]], [[Eta Serpentis|η Serpentis]], [[Nu Ophiuchi|ν Ophiuchi]], [[Xi Serpentis|ξ Serpentis]] and [[Eta Ophiuchi|η Ophiuchi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, λ Herculis itself is known as {{lang|zh|天市左垣二}} ({{lang|zh-Latn|Tiān Shì Zuǒ Yuán èr}}, {{lang-en|the Second Star of Left Wall of Heavenly Market Enclosure}}), represent the state '''[[Zhao (state)|Zhao]]''' (or '''Chaou''' (趙)).,<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref><ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/e_research_chinengstarzone_b.htm#HeavenlyMarketEnclosure English-Chinese Glossary of Chinese Star Regions, Asterisms and Star Name], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> together with [[26 Capricorni]] and [[27 Capricorni]] ("m Capricorni" in R.H.Allen version<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Capricornus*.html Star Names - R.H.Allen p.142]</ref>) in ''[[Girl (Chinese constellation)|Twelve States]]'' (asterism).
+
+==Structure==
+
+Lambda Herculis belongs to [[stellar classification|spectral class]] K3.5III and has [[apparent magnitude]] +4.4. It is approximately 370 [[light year]]s from [[Earth]].
+
+In 1783, English astronomer [[William Herschel]] found that the [[Solar System]] is, as a whole, moving in a direction close to the position in the sky of Lambda Herculis.<ref name=lankford97/>
+
+==References==
+{{reflist|refs=
+
+<ref name=SIMBAD>{{cite web | title=lam Her -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%402798916&Name=*+lam+Her | accessdate=2010-07-03 }}</ref>
+
+<ref name=aaa323>{{citation | display-authors=1 | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. | last4=Hoeg | first4=E. | last5=Bastian | first5=U. | last6=Bernacca | first6=P. L. | last7=Crézé | first7=M. | last8=Donati | first8=F. | last9=Grenon | first9=M. | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=aaa430>{{cite journal | author=Famaey, B.; Jorissen, A.; Luri, X.; Mayor, M.; Udry, S.; Dejonghe, H.; Turon, C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | pages=165–186 | month=January | year=2005 | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F
+|arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=apjss74>{{cite journal | last=McWilliam | first=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+<ref name=csrv70>{{cite journal | author=Bernacca, P. L.; Perinotto, M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=clpl99>{{cite journal | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewskj, W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=lankford97>{{cite book | first=John | last=Lankford | year=1997 | title=History of astronomy: an encyclopedia | page=258 | volume=1 | series=Garland encyclopedias in the history of science | publisher=Taylor & Francis | isbn=0-8153-0322-X }}</ref>
+
+}}
+
+{{Stars of Hercules}}
+
+[[Category:Hercules (constellation)]]
+[[Category:Bayer objects|Herculis, Lambda]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+
+{{giant-star-stub}}
+
+[[ar:المعصم (نجم)]]
+[[de:Maasym]]
+[[es:Maasym]]
+[[fa:معصم جاثی]]
+[[nl:Maasym]]
+[[pt:Lambda Herculis]]
+[[sk:Maasym]]
+[[zh:武仙座λ]]

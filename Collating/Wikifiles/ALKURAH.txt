@@ -1,0 +1,59 @@
+{{Starbox begin |
+ name=Xi Cephei }}
+{{Starbox observe |
+ epoch=J2000 |
+ ra={{RA|22|03|47.40}}<ref name=SIMBAD>{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=ksi+Cep
+ | title =V* ksi Cep  -- Spectroscopic binary
+ | publisher=[[Centre de Données astronomiques de Strasbourg]]
+ | work=[[SIMBAD]]
+ | accessdate=2011-10-20}}</ref>
+ | dec={{DEC|+64|37|40.71}}<ref name=SIMBAD /> 
+ | appmag_v=4.29<ref name=SIMBAD /> |
+ constell=[[Cepheus (constellation)|Cepheus]] }}
+{{Starbox catalog |
+ names=17 Cep, [[Harvard Revised catalogue|HR]] 8417, [[Henry Draper catalogue|HD]] 209790, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 19827, [[Hipparcos catalogue|HIP]] 108917. }}
+{{Starbox reference |
+  Simbad=HD+209790 }}
+{{Starbox end}}
+'''Xi Cephei''' (ξ Cep, ξ Cephei) is a [[star]] in the [[constellation]] [[Cepheus (constellation)|Cepheus]].  It has the traditional name '''Kurhah''' or Alkirdah or Al Kirduh,<ref>[http://www.icoproject.org/star.html ''Islamic Crescent Project:'' Star names]</ref> and the name was from Al Ḳurḥaḥ ('''القرحة''' - ''al-qurhah''), an Arabic word that translated as a white spot, or blaze, in the face of a horse and other suggestion was Al Ḳirdah ('''ألقردة''' - ''al qírada''), the Ape.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cepheus*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=159 }}</ref> 
+Xi Cephei belongs to [[stellar classification|spectral class]] A3/6Vm and has [[apparent magnitude]] +4.29. It is approximately 100 [[light year]]s from [[Earth]].
+
+Coordinates (equinox [[J2000.0]]):
+* [[Right ascension]]: 22h03m47.40s
+* [[Declination]]: +64°37'40.0"
+
+It is a [[spectroscopic binary]].
+
+In [[Chinese language|Chinese]], {{lang|zh|天鈎}} ({{lang|zh-Latn|Tiān Gōu}}), meaning ''[[Rooftop (Chinese constellation)|Celestial Hook]]'', refers to an asterism consisting of ξ Cephei, [[4 Cephei]], [[HD 194298]], [[Eta Cephei|η Cephei]], [[Theta Cephei|θ Cephei]], [[Alpha Cephei|α Cephei]], [[26 Cephei]], [[Iota Cephei|ι Cephei]] and [[Omicron Cephei|ο Cephei]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ξ Cephei itself is known as {{lang|zh|天鈎六}} ({{lang|zh-Latn|Tiān Gōu liù}}, {{lang-en|the Sixth Star of Celestial Hook}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_h_l.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist}}
+
+{{Stars of Cepheus}}
+
+[[Category:Cepheus (constellation)]]
+[[Category:Bayer objects|Cephei, Xi]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{main-star-stub}}
+
+[[ar:القرحة (نجم)]]
+[[de:Alkurah]]
+[[es:Alkurhah]]
+[[id:Xi Cephei]]
+[[lb:Alkurah (Stär)]]
+[[nl:Alkurhah]]
+[[pt:Xi Cephei]]
+[[sk:Alkurah]]
+[[uk:HD209790]]
+[[zh:天鉤六]]

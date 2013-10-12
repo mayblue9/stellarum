@@ -1,0 +1,142 @@
+{{about|β Centauri and should not to be confused with [[Alpha Centauri B]]|B Centauri|B Centauri|b Centauri|HD 129116}}
+{{Starbox begin
+| name=β Centauri
+}}
+{{Starbox image
+| image =
+     <div style="position: relative">[[File:Centaurus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Centauri constellation and its surroundings]]
+     <div style="position: absolute; left: 94px; top: 144px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Centauri (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Centaurus]]
+| ra       = {{RA|14|03|49.40535}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–60|22|22.9266}}<ref name=aaa474_2_653/>
+| appmag_v = 0.60<ref name=msom/>
+}}
+{{Starbox astrometry
+| radial_v = +5.9<ref name=rgcrv/>
+| prop_mo_ra  = –33.27<ref name=aaa474_2_653/>
+| prop_mo_dec = –23.16<ref name=aaa474_2_653/>
+| parallax = 9.35
+| p_error  = 0.50
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v =
+}}
+{{Starbox character
+| class    = B1&nbsp;III<ref name=aaa437_2_599/>
+| b-v      = –0.22<ref name=msom/>
+| u-b      = –0.98<ref name=msom/>
+| variable = [[Beta Cephei variable|β Cep]]
+}}
+{{Starbox detail
+| radius      =
+| mass        = {{nowrap|10.7 ± 0.1}}<ref name=aaa455_1_259/> / {{nowrap|10.3 ± 0.1}}<ref name=aaa455_1_259/>
+| luminosity  = 41,700<ref name=aaa437_2_599/>
+| temperature = {{nowrap|25,000 ± 2,000}}<ref name=aaa455_1_259/>
+| gravity = {{nowrap|3.5 ± 0.4}}<ref name=aaa455_1_259/>
+| age = {{nowrap|(14.1 ± 0.6) × 10<sup>6</sup>}}<ref name=aaa455_1_259/>
+}}
+{{Starbox catalog
+| names=Agena, Hadar,<ref name=allen1963/> Khadar, [[Harvard Revised catalogue|HR]]&nbsp;5267, [[Henry Draper catalogue|HD]]&nbsp;122451, [[Cordoba Durchmusterung|CD]]−59°5365, [[Luyten Half-Second catalogue|LHS]]&nbsp;51, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;252582, [[Fifth Fundamental Catalogue|FK5]]&nbsp;518 , [[Hipparcos catalogue|HIP]]&nbsp;68702, GC&nbsp;18971, CCDM&nbsp;J14038-6022.<ref name=SIMBAD/> }}
+{{Starbox reference
+| Simbad=HD+122451
+}}
+{{Starbox end}}
+
+'''Beta Centauri''' (β Cen, β Centauri) is a [[star]] system in the southern [[constellation]] of [[Centaurus]]. With an [[apparent visual magnitude]] of 0.60, it is the second brightest star in the [[constellation]] [[Centaurus]] and the [[list of brightest stars|tenth brightest star]] in the night sky. It has the traditional names '''Hadar''' and '''Agena'''. The name ''Hadar'' comes from the [[Arabic language|Arabic]] word for "ground / soil / earth" (from '''أل أرض''' - ''al ardh'')<ref name=allen1963/> or "civilization" (from '''ألحضارة''' -  ''al hidaara''), while the name ''Agena'' comes from [[Latin]] words for "the knee". The Chinese name for the star is 马腹一 ([[Standard Chinese|Mandarin]]: mǎ fù yī, ''the First Star of the Horse's Abdomen'').<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060729.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 29 日]</ref>
+
+==Properties==
+Based upon [[parallax]] measurements from the astrometric [[Hipparcos]] satellite,<ref name=aaa323_L49/><ref name=GSM/> the distance to this system is about {{Convert|350|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> The [[spectrum]] matches a star with a [[stellar classification]] of B1&nbsp;III,<ref name=aaa437_2_599/> with the [[luminosity class]] of III indicating this is a [[giant star]] that has exhausted the hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]]. It is a [[Beta Cephei variable]] star with a pulsation period of 0.157 days.<ref name=aaa437_2_599/>
+
+In 1935, [[Joan Voûte]] identified Beta Centauri as a double star, giving it the identifier VOU 31. The companion is separated from the primary by 1.3 seconds of arc, and has remained so since the discovery, although the position angle has changed slightly. This would indicate that the orbital period is very long, if the pair are actually gravitationally associated.{{Citation needed|date=January 2012}}
+
+Based on the variable [[radial velocity]] of this star, in 1967 it was suggested that the primary is a double-lined [[spectroscopic binary]]. This was confirmed in 1999. The primary consists of a pair of stars with nearly identical mass that orbit each other over a period of 357&nbsp;days with a large [[Orbital eccentricity|eccentricity]] of about 0.81.<ref name=aaa455_1_259/><ref name=asp259_2002/> The pair are separated by a mean distance of roughly 4&nbsp;[[astronomical unit]]s.<ref name=aaa437_2_599/>
+
+==Cultural significance==
+Beta Centauri is well known in the Southern Hemisphere as the inner of the two "Pointers" to the [[Southern Cross]]. A line made from the other pointer, [[Alpha Centauri]], through Beta Centauri leads to within a few degrees of [[Gacrux]], the star at the top of the cross. Using Gacrux, a navigator can draw a line with [[Acrux]] to effectively determine south.<ref name=kysela_lanterman1976/>
+
+The indigenous Boorong people of northwestern Victoria named it as ''Bermbermgle'' (together with [[Alpha Centauri|α Cen]]),<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref> two brothers who were noted for their courage and destructiveness, and who spear and kill Tchingal, "The Emu" ([[Coalsack Nebula]]).<ref name=stanbridge>{{cite journal|author=Stanbridge, WM|year=1857|title= On the Astronomy and Mythology of the Aboriginies of Victoria|journal=Transactions Philosophical Institiute Victoria |volume=2|issue=|pages= 137–140|url=http://www.atnf.csiro.au/research/AboriginalAstronomy/literature/Stanbridge1857.pdf}}</ref> The two brothers in Wotjobaluk people is ''Bram-bram-bult''.<ref name=hamacher/>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=msom>{{citation | last1=Hogg | first1=A. R. | title=Photometric observations of 244 bright stars | journal=Mount Stromlo Observatory Mimeogram | volume=2 | year=1958 | bibcode=1958MtSOM...2....1H }}</ref>
+
+<ref name=aaa437_2_599>{{citation | display-authors=1 | last1=Raassen | first1=A. J. J. | last2=Cassinelli | first2=J. P. | last3=Miller | first3=N. A. | last4=Mewe | first4=R. | last5=Tepedelenlioǧlu | first5=E. | title=XMM-Newton observations of β Centauri (B1 III): The temperature structure in the hot plasma and the photosphere-wind connection | journal=Astronomy and Astrophysics | volume=437 | issue=2 | pages=599–609 | month=July | year=2006 | doi=10.1051/0004-6361:20052650 | bibcode=2005A&A...437..599R }}</ref>
+
+<ref name=SIMBAD>{{citation | title=V* bet Cen -- Variable Star of beta Cep type | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Beta+Centauri | accessdate=2011-12-19 }}</ref>
+
+<ref name=asp259_2002>{{citation | last1=Ausseloos | first1=M. | last2=Aerts | first2=C. | last3=Uytterhoeven | first3=K. | contribution=A Study of the Orbital and Intrinsic Variability of the Double-Lined Spectroscopic Binary β Centauri | title=Radial and Nonradial Pulsations as Probes of Stellar Physics, ASP Conference Proceedings | volume=259 | editor1-first=Conny | editor1-last=Aerts | editor2-first=Timothy R. | editor2-last=Bedding | editor3-first=Jørgen | editor3-last=Christensen-Dalsgaard | year=2002 | page=86 | bibcode=2002ASPC..259...86A }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Centaurus*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=154}}</ref>
+
+<ref name=aaa455_1_259>{{citation | display-authors=1 | last1=Ausseloos | first1=M. | last2=Aerts | first2=C. | last3=Lefever | first3=K. | last4=Davis | first4=J. | last5=Harmanec | first5=P. | title=High-precision elements of double-lined spectroscopic binaries from combined interferometry and spectroscopy. Application to the β Cephei star β Centauri | journal=Astronomy and Astrophysics | volume=455 | issue=1 | pages=259–269 | month=August | year=2006 | doi=10.1051/0004-6361:20064829 | bibcode=2006A&A...455..259A |arxiv = astro-ph/0605220 }}</ref>
+
+<ref name=kysela_lanterman1976>{{citation | first1=Will | last1=Kyselka | first2=Ray E. | last2=Lanterman | title=North Star to Southern Cross | publisher=University of Hawaii Press | year=1976 | isbn=0-8248-0419-8 | page=59 | url=http://books.google.com/books?id=H5dasxVgjSAC&pg=PA59 }}</ref>
+
+}}
+
+==External links==
+*{{citation
+ | first=James B. | last=Kaler | title=HADAR (Beta Centauri)
+ | work=Stars | publisher=University of Illinois
+ | url=http://stars.astro.illinois.edu/sow/hadar.html
+ | accessdate=2011-12-19 }}
+
+{{Stars of Centaurus}}
+{{Sky|14|03|49.4|-|60|22|23|350}}
+
+[[Category:Bayer objects|Centauri, Beta]]
+[[Category:Beta Cephei variables]]
+[[Category:B-type giants]]
+[[Category:Centaurus (constellation)]]
+[[Category:Henry Draper Catalogue objects|122451]]
+[[Category:Hipparcos objects|068702]]
+[[Category:Spectroscopic binaries]]
+[[Category:Triple star systems]]
+[[Category:Stars with proper names]]
+
+{{Link GA|it}}
+
+[[ar:حضار (نجم)]]
+[[be:Хадар]]
+[[ca:Hadar]]
+[[cs:Hadar]]
+[[de:Beta Centauri]]
+[[el:Χαντάρ (αστέρας)]]
+[[es:Hadar (estrella)]]
+[[fa:بتا قنطورس]]
+[[fr:Beta Centauri]]
+[[ko:하다르]]
+[[hi:मित्रक तारा]]
+[[id:Beta Centauri]]
+[[it:Hadar (astronomia)]]
+[[he:הדר (כוכב)]]
+[[ku:Hedar]]
+[[lt:Agena]]
+[[hu:Béta Centauri]]
+[[nl:Agena]]
+[[ja:ハダル]]
+[[no:Hadar]]
+[[pa:ਮਿਤਰਕ ਤਾਰਾ]]
+[[pnb:ھڈار]]
+[[pl:Agena]]
+[[pt:Beta Centauri]]
+[[ro:Beta Centauri]]
+[[ru:Хадар]]
+[[sk:Hadar (hviezda)]]
+[[fi:Beta Centauri]]
+[[sv:Beta Centauri]]
+[[tt:Хәдар]]
+[[zh:馬腹一]]

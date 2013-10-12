@@ -1,0 +1,102 @@
+{{Starbox begin
+| name=Sigma Octantis }}
+{{Starbox image
+| image=[[Image:Octans 01.gif|250px]]
+| caption=Octans and around, with Sigma Octantis in the middle marked in cyan.<br>(Click on the image to see it full size.) }}
+{{Starbox observe
+| epoch=J2000
+| ra=21<sup>h</sup> 08<sup>m</sup> 46.8<sup>s</sup>
+| dec=-88° 57&prime; 23&Prime;
+| appmag_v=5.42
+| constell=[[Octans]] }}
+{{Starbox character
+| class=F0 III
+| b-v=0.27
+| u-b=0.13
+| variable=[[Delta Scuti variable|Delta Scuti]] }}
+{{Starbox astrometry
+| radial_v=+11.9
+| prop_mo_ra=25.96
+| prop_mo_dec=5.02
+| parallax=12.07
+| p_error=0.48
+| dist_ly=270
+| dist_pc=83
+| absmag_v=0.83 }}
+{{Starbox catalog
+| names=Polaris Australis, [[Harvard Revised catalogue|HR]] 7228, [[Henry Draper catalogue|HD]] 177482, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 258857, [[Fifth Fundamental Catalogue|FK5]] 923, [[Hipparcos catalogue|HIP]] 104382. }}
+{{Starbox reference
+| Simbad = HD+177482 }}
+{{Starbox end}}
+
+'''Sigma Octantis''' (σ Oct, σ Octantis) is a [[apparent magnitude|magnitude]] 5.6 star in the constellation [[Octans]] most notable for being the current [[South Star]]. Sigma Octantis is approximately 270 [[light year]]s from Earth, and is classified as a [[Giant star|giant]], with a [[spectral type]] of F0 III. It is a [[Delta Scuti variable]], with magnitude varying by about 0.03 magnitudes over 2.3 hours.
+
+Sigma Octantis is the dimmest star to be represented on a national flag. It appears on the  [[flag of Brazil]], symbolising the [[Brazilian Federal District]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+	
+Its position near the southern celestial pole makes it the [[southern hemisphere]]'s [[pole star]], whence its occasional name, '''Polaris Australis'''.
+
+==Southern pole star==
+
+Sigma Octantis is the southern pole star, whose counterpart is [[Polaris]], the current [[North Star]]. To an observer in the southern hemisphere, Sigma Octantis appears almost motionless and all the other stars in the Southern sky appear to rotate around it. It is part of a small "half hexagon" shape. It is over a degree away from the true south pole, and the south celestial pole is moving away from it due to [[precession of the equinoxes]].
+
+==Locating Sigma Octantis==
+
+[[Image:Octans trapezoid.GIF|thumb|left|South Celestial Pole: the trapezoidal asterism at the centre includes Sigma Octantis]]
+At magnitude 5.6, Sigma Octantis is barely visible to the naked eye, making it a rather poor pole star, especially by comparison with the much brighter and more easily visible [[Polaris]]. Because of this, the [[Crux]] constellation is often preferred for determining the position of the [[South Celestial Pole]].
+
+Once Sigma Octantis' approximate position has been determined, either by the major stars in Octans or using the Southern Cross method, it can be positively verified using an [[Asterism (astronomy)|asterism]]. Sigma, [[Chi Octantis|Chi]], [[Tau Octantis|Tau]] and [[Upsilon Octantis]] are all stars of around magnitude 5.6, and form the distinctive shape of a [[trapezoid]].
+
+
+
+
+
+
+
+
+
+
+==See Also==
+* [[Polar alignment]]
+* [[Celestial_pole#Finding_the_south_celestial_pole|Celestial Pole]]
+
+==References==
+<references/>
+* {{cite web | title=HD 177482 -- Variable Star  | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=Sigma+Octantis&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  
+| accessdate=2005-11-05 }}
+{{Stars of Octans}}
+[[Category:Bayer objects|Octantis, Sigma]]
+[[Category:Henry Draper Catalogue objects|177482]]
+[[Category:Hipparcos objects|104382]]
+[[Category:HR objects|7228]]
+[[Category:Octans (constellation)]]
+[[Category:Delta Scuti variables]]
+[[Category:F-type giants]]
+[[Category:Stars with proper names]]
+[[Category:Southern pole stars]]
+
+
+{{var-star-stub}}
+
+[[de:Polaris Australis]]
+[[el:Νότιος Πολικός Αστέρας]]
+[[es:Polaris Australis]]
+[[fa:سیگما هشتک]]
+[[fr:Sigma Octantis]]
+[[ko:팔분의자리 시그마]]
+[[id:Sigma Octantis]]
+[[it:Sigma Octantis]]
+[[lb:Polaris Australis (Stär)]]
+[[nl:Sigma Octantis]]
+[[ja:はちぶんぎ座シグマ星]]
+[[pl:Polaris Australis]]
+[[pt:Sigma Octantis]]
+[[ru:Сигма Октанта]]
+[[sah:Октант Сигмата]]
+[[sk:Polaris Australis]]
+[[sr:Сигма Октанта]]
+[[sv:Sigma octantis]]
+[[zh:南極座σ]]

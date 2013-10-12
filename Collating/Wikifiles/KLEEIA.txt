@@ -1,0 +1,85 @@
+The [[Bayer designation]] '''Delta Tauri''' (δ Tau, δ Tauri) is shared by three star systems in the [[constellation]] [[Taurus (constellation)|Taurus]].  They are all members of the [[Hyades (star cluster)|Hyades]] [[open cluster|star cluster]].
+
+Because they are close to the [[ecliptic]], these stars can be [[occulted]] by the [[Moon]] and, very rarely, by [[planet]]s. The last occultation of δ¹ Tauri by a planet took place on 3 January 1818, when it was occulted by [[Venus]].
+
+== δ¹ Tauri ==
+{{Starbox short |
+ name=δ¹ Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=04<sup>h</sup> 22<sup>m</sup> 56.1<sup>s</sup> |
+ dec=+17° 32' 33" |
+ spectral=K0-IIICN0.5 |
+ appmag_v=+3.77 |
+ dist_ly=153 ± 7 |
+ dist_pc=47 ± 2 |
+ names=Hyadum II, 61&nbsp;Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1373,<BR/>[[Henry Draper Catalogue|HD]]&nbsp;27697, [[Star catalogue#BD/CD/CPD|BD]]+17&nbsp;712,<BR/>FK5&nbsp;162, [[Hipparcos catalogue|HIP]]&nbsp;20455, [[Star catalogue#SAO|SAO]]&nbsp;93897,<BR/>GC&nbsp;5304, CCDM&nbsp;04229+1733
+}}
+'''δ¹ Tauri''' is a [[triple star]] approximately 153 [[light year]]s from [[Earth]] and has the traditional name '''Hyadum II''', which is [[Latin]] for "Second Hyad", and the name '''''[[Eudora]]''''' ([[Greek language|Greek]] Ευδωρη), who was one of the Hyades sisters.
+
+The primary component, '''Delta-1 Tauri A''', is an orange [[stellar classification|K-type]] [[giant star|giant]] with an [[apparent magnitude]] of +3.77. Delta-1 has a [[luminosity]] of 74 times that of the [[Sun]] and a radius of 11.6 times solar. Its mass is calculated to be 2.6 [[solar mass]]es. The surface temperature of this star is 4965 [[kelvin]]s. Its companion, '''Delta-1 Tauri B''', is a 12th magnitude star separated by 107 [[arcsecond]]s from the primary. It is most likely not physically related to the main star. However, observations of lunar [[occultation]]s of this star has revealed a much closer, physically related, star that orbits the main star in an [[eccentricity (orbit)|eccentric]] [[orbit]] with an average distance of 1.76 [[astronomical unit|AU]]. This companion takes about 530 days to orbit the main star.
+
+<BR clear="all"/>
+
+== δ² Tauri ==
+{{Starbox short |
+ name=δ² Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=04<sup>h</sup> 24<sup>m</sup> 05.8<sup>s</sup> |
+ dec=+17° 26' 38" |
+ spectral=A7V |
+ appmag_v=+4.80 |
+ dist_ly=146 ± 6 |
+ dist_pc=45 ± 2 |
+ names=64 Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1380, [[Henry Draper Catalogue|HD]]&nbsp;27819,<BR/>[[Star catalogue#BD/CD/CPD|BD]]+17&nbsp;714, [[Hipparcos catalogue|HIP]]&nbsp;20542,<BR/>[[Star catalogue#SAO|SAO]]&nbsp;93907, GC&nbsp;5328,<BR/>CCDM&nbsp;04240+1726
+}}
+'''δ² Tauri''' is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.80.  It is approximately 146 [[light years]] from [[Earth]] and is separated from δ¹ Tauri by 0.23° on the sky.
+
+<BR clear="all"/>
+== δ³ Tauri ==
+{{Starbox short |
+ name=δ³ Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=04<sup>h</sup> 25<sup>m</sup> 29.4<sup>s</sup> |
+ dec=+17° 55' 41" |
+ spectral=A2IV |
+ appmag_v=+4.30 |
+ dist_ly=148 ± 5 |
+ dist_pc=45 ± 2 |
+ names=Kleeia, 68 Tauri, V776&nbsp;Tauri,<BR/>[[Star catalogue#BS, BSC, HR|HR]]&nbsp;1389, [[Henry Draper Catalogue|HD]]&nbsp;27962,<BR/>[[Star catalogue#BD/CD/CPD|BD]]+17&nbsp;719, [[Hipparcos catalogue|HIP]]&nbsp;20648,<BR/>[[Star catalogue#SAO|SAO]]&nbsp;93923, GC&nbsp;5354,<BR/>[[Star catalogue#ADS|ADS]]&nbsp;3206,<BR/>CCDM&nbsp;04255+1755
+}}
+'''δ³ Tauri''' is a [[triple star system]] in the [[constellation]] [[Taurus (constellation)|Taurus]].  It is approximately 148 [[light years]] from [[Earth]] and is separated from δ¹ Tauri by 0.72° on the sky. This star also has the traditional name '''Cleeia''' or '''''Kleeia''''' ([[Greek language|Greek]] Κλεεια), who was one of the Hyades sisters.
+
+The primary component, '''δ³ Tauri A''', is a white [[stellar classification|A-type]] [[subgiant]] with a mean [[apparent magnitude]] of +4.30.  It is classified as an [[Alpha2 Canum Venaticorum variable|Alpha2 Canum Venaticorum type]] [[variable star]] and its brightness varies from magnitude +4.29 to +4.32 with a period of 57.25 days.  It has a close, 8th magnitude binary companion, '''δ³ Tauri B''', 1.4 [[arcsecond]]s, or at least 64 [[Astronomical unit|AU]], away. At 77 [[arcsecond]]s away is the third component, the 11th magnitude '''δ³ Tauri C'''.
+
+==References==
+* {{cite web | title=HD 27697 -- Spectroscopic binary | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=delta1+tauri&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-25}}
+
+* {{cite web | title=HD 27819 -- Star in double system | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=delta2+tauri&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-25}}
+
+* {{cite web | title=HD 27962 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=delta3+tauri&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-25}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/hyadum2.html Delta-1 Tau]
+* [http://www.frostydrew.org/observatory/columns/essays/starnames.htm Star Names]
+
+{{Stars of Taurus}}
+
+[[Category:Bayer objects|Tauri, Delta]]
+[[Category:Taurus (constellation)]]
+[[Category:Binary stars]]
+[[Category:Hyades (star cluster)]]
+[[Category:K-type giants]]
+[[Category:A-type main sequence stars]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[de:Hyadum II]]
+[[es:Hyadum II]]
+[[fa:دلتا گاو]]
+[[nl:Hyadum II]]
+[[pt:Delta1 Tauri]]
+[[sk:Hyadum II]]
+[[zh:毕宿三]]

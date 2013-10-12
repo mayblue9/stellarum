@@ -1,0 +1,125 @@
+{{Starbox begin
+ | name=Elnath, β Tau
+}}
+{{Starbox image 
+| image = [[File:Taurus constellation map.svg|250px]]
+| caption = Elnath is the β star in Taurus (map: top left).
+}}
+{{Starbox observe 
+ |epoch=J2000 
+ |ra={{RA|05|26|17.5134}}<ref name="SIMBAD">{{cite web
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=elnath&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+  | title =SIMBAD query result: ELNATH -- Star in double system
+  | publisher =Centre de Données astronomiques de Strasbourg
+  | accessdate = 2010-03-07 }}</ref>
+ | dec={{DEC|28|36|27.494}}<ref name="SIMBAD" />
+ |appmag_v=1.68<ref name="SIMBAD" />
+ |constell=[[Taurus (constellation)|Taurus]]
+}}
+{{Starbox character 
+  |class=B7III<ref name="SIMBAD" />  
+  |b-v=-0.13<ref name="SIMBAD" />  
+  |u-b=-0.49<ref name="SIMBAD" />  
+  |variable=None
+}}
+{{Starbox astrometry 
+  |radial_v=9.2<ref name="SIMBAD" />  
+  |prop_mo_ra=23.28<ref name="SIMBAD" />  
+  |prop_mo_dec=-174.22<ref name="SIMBAD" />  
+  |parallax=24.89
+  |p_error=0.88
+  |parallax_footnote=<ref name="SIMBAD" /> 
+  |absmag_v=-1.34
+}}
+{{Starbox detail 
+ | mass={{nowrap|5.0 ± 0.1}}<ref name=apj736_2_89/>
+ | radius=4.2<ref name=mnras189_601/>
+ | luminosity=700<ref name="kaler" /> 
+ | temperature={{nowrap|13,824 ± 475}}<ref name=mnras189_601/>
+ | metal_fe=-0.10<ref name="SIMBAD" /><ref name="aj41"/>
+ | rotational_velocity=82<ref name="SIMBAD" /><ref name="csrv239"/>
+ | age_myr={{nowrap|100 ± 10}}<ref name=apj736_2_89/>
+}}
+{{Starbox catalog
+ |names=Elnath, El Nath, Alnath, [[Bayer designation|β Tau]], [[Bayer designation|γ Aur]], [[Flamsteed designation|112&nbsp;Tau]], [[Bonner Durchmusterung|BD]] +28°795, [[Star catalogue#BD/CD/CPD|BD]]+23&nbsp;541, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;05263+2836, [[FK5]]&nbsp;202, [[Henry Draper Catalogue|HD]]&nbsp;35497, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1791, [[Hipparcos catalogue|HIP]]&nbsp;25428, [[Star catalogue#SAO|SAO]]&nbsp;77168, GC&nbsp;6681.
+}}
+{{Starbox reference
+ | Simbad=HD+35497
+}}
+{{Starbox end}}
+
+'''Beta Tauri''' (β Tau, β Tauri) is the second brightest [[star]] in the [[constellation]] [[Taurus (constellation)|Taurus]], with an [[apparent magnitude]] of 1.68.<ref name="SIMBAD" /> Because it is on the boundary of Taurus and [[Auriga (constellation)|Auriga]], it also has the redundant [[Bayer designation]] '''Gamma Aurigae''' (γ Aur), which today is rarely used.  The star has the traditional name '''Elnath'''&mdash;a reference to "the butting" of the bull's horns.
+
+== Properties ==
+Elnath's [[absolute magnitude]] is -1.34, similar to another Taurean star, [[Maia (star)|Maia]] in the [[Pleiades (star cluster)|Pleiadian]] [[Open cluster|star cluster]].  Like Maia, Elnath is a  [[B-type main sequence star|B class]] [[Giant star|giant]] with a luminosity 700 times solar.<ref name="kaler" />   However being approximately 130 [[light-year|light years]] distant compared to Maia's estimated 360 light years, Elnath ranks as the second brightest star in the constellation.  
+
+Uniquely positioned along the plane of our [[Milky Way|Milky Way Galaxy]] a few degrees west of the [[galactic anticenter]], Elnath heralds a rich collection of [[nebula]]e and [[star cluster]]s.<ref name="ApopPik">{{cite web |url=http://apod.nasa.gov/apod/ap100305.html  | title=Deep Auriga  | publisher=Today's [[Astronomy Picture of the Day]]  | date=2010-03-05  | accessdate=2010-03-07 }}</ref> Relative to our [[Sun]], β Tauri is notable for a high abundance of [[manganese]], but little [[calcium]] and [[magnesium]].<ref name="kaler" /><ref name="aj41" /> This star has begun to evolve away from the [[main sequence]].
+
+This star can be occulted by the [[moon]]. Such occultations occur when the moon's [[ascending node]] is near the [[vernal equinox]], as is the case in 2007. Most occultations are visible only in parts of the Southern Hemisphere, because the star lies at the northern edge of the lunar occultation zone. Rarely, it may be occulted as far north as southern [[California]].<ref>[http://www.pa.msu.edu/abrams/SWD/2006/SWD_0609-g.html Abrams Planetarium - Skywatcher's Diary<!-- Bot generated title -->]</ref>
+
+== Double star ==
+There is a faint star that appears close enough to Elnath for astronomers to consider it a  [[double star]]. Its visual companion, known as BD+28 795B, has a [[Position angle|PA]] of 239 degrees and is separated from the main star by 33.4 [[Minute of arc#Symbols, abbreviations and subdivisions|arcseconds]].<ref name=VizieR>{{cite web |title=CCDM (Catalog of Components of Double & Multiple stars (Dommanget+ 2002) |work=[[VizieR]] |publisher=[[Centre de Données astronomiques de Strasbourg]] |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J05263%2b2836B  |accessdate=2010-03-07}}</ref><ref name="Alcyone">{{cite web |url=http://www.alcyone.de/SIT/mainstars/SIT000764.htm  | title=Al Nath | publisher=Alcyone Bright Star Catalogue | accessdate=2010-03-07 }}</ref>
+
+== Etymology ==
+Beta Tauri has the traditional name '''Elnath''', '''El Nath''', or '''Alnath''', which comes from the Arabic word '''النطح''' ''an-naţħ'', meaning "the butting" (''i.e.'' the bull's horns). As in many other (but not all) Arabic star names, the article '''ال''' is transliterated literally as ''el'', despite the fact that in Arabic pronunciation it is assimilated to the following ''n''; it can also be omitted: '''Nath'''.
+
+In [[Chinese language|Chinese]], {{lang|zh|五車}} ({{lang|zh-Latn|Wǔ Ju}}), meaning ''[[Five Chariots]]'', refers to an asterism consisting of β Tauri, [[Iota Aurigae|ι Aurigae]], [[Capella]], [[Beta Aurigae|β Aurigae]] and [[Theta Aurigae|θ Aurigae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Tauri itself is known as {{lang|zh|五車五}} ({{lang|zh-Latn|Wǔ Ju wǔ}}; {{lang-en|Fifth of the Five Chariots}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Taurus|Taurus]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Stars and planetary systems in fiction#Beta Tauri (El Nath)|Beta Tauri in fiction]]
+
+== References ==
+{{Reflist|colwidth=25em|refs=
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name="kaler">{{citation | title=ELNATH (Beta Tauri) | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/elnath.html | accessdate=2010-03-07 }}</ref> 
+
+<ref name="aj41">{{cite journal  | last1=Heacox | first1=W. D. | title=Chemical abundances in Hg-Mn stars | journal=Astrophysical Journal Supplement Series | year=1979  | volume=41 | page=675 | bibcode=1979ApJS...41..675H | doi=10.1086/190637 }}</ref> 
+
+<ref name="csrv239">{{cite journal 
+ | author=Bernacca, P. L.; Perinotto, M. 
+ | title=A catalogue of stellar rotational velocities 
+ | journal=Contr. Oss. Astrof. Padova in Asiago
+ | year=1970 
+ | volume=239
+ | bibcode=1970CoAsi.239....1B}}</ref>
+
+<ref name=apj736_2_89>{{citation | display-authors=1 | last1=Janson | first1=Markus | last2=Bonavita | first2=Mariangela | last3=Klahr | first3=Hubert | last4=Lafrenière | first4=David | last5=Jayawardhana | first5=Ray | last6=Zinnecker | first6=Hans | title=High-contrast Imaging Search for Planets and Brown Dwarfs around the Most Massive Stars in the Solar Neighborhood | journal=The Astrophysical Journal | volume=736 | issue=2 | page=89 | month=August | year=2011 | doi=10.1088/0004-637X/736/2/89 | bibcode=2011ApJ...736...89J |arxiv = 1105.2577 }}</ref>
+
+}}
+
+== External links ==
+*Jim Kaler's Stars:[http://www.astro.uiuc.edu/~kaler/sow/elnath.html Elnath]
+* [http://antwrp.gsfc.nasa.gov/apod/ap100305.html Image of Elnath] from [[Astronomy Picture of the Day|APOD]]
+
+{{Stars of Taurus}}
+
+[[Category:Taurus (constellation)]]
+[[Category:Auriga (constellation)]]
+[[Category:Bayer objects|Tauri, Beta]]
+[[Category:B-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Elnath]]
+[[el:Ελ Ναθ]]
+[[es:Elnath]]
+[[eu:Alnath]]
+[[fa:نطح]]
+[[fr:Beta Tauri]]
+[[ko:엘 나스]]
+[[hi:बीटा टाओरी तारा]]
+[[it:Elnath]]
+[[he:אל-נאת']]
+[[lb:Elnath (Stär)]]
+[[lt:Alnatas]]
+[[nl:Al Nath]]
+[[ja:エルナト]]
+[[pl:Elnath]]
+[[pt:Beta Tauri]]
+[[ru:Нат (звезда)]]
+[[sk:El Nath]]
+[[fi:Beta Tauri]]
+[[zh:五車五]]

@@ -1,0 +1,123 @@
+{{Starbox begin 
+| name=Alpha Phoenicis 
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Phoenix IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Phoenix constellation and its surroundings]]
+     <div style="position: absolute; left: 148px; top: 70px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Phoenicis (circled)
+}}
+{{Starbox observe 
+| epoch    = J2000 
+| constell = [[Phoenix (constellation)|Phoenix]] 
+| ra       = {{RA|00|26|17.05140}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–42|18|21.5539}}<ref name=aaa474_2_653/>
+| appmag_v = 2.377<ref name=sps1966/>
+}}
+{{Starbox character
+| class    = K0.5&nbsp;IIIb<ref name=aj132_1_161/>
+| b-v      = +1.092<ref name=sps1966/>
+| u-b      = +0.903<ref name=sps1966/>
+| variable = 
+}}
+{{Starbox astrometry 
+| radial_v = +74.6<ref name=rgcrv/>
+| prop_mo_ra  = +233.05<ref name=aaa474_2_653/>
+| prop_mo_dec = –356.30<ref name=aaa474_2_653/>
+| parallax = 38.50
+| p_error  = 0.73
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aaa442_1_365/>
+| primary = 
+| name = 
+| period_unitless = 3848.8&nbsp;days
+| axis = <!--Semimajor axis (in arcseconds)-->
+| axis_unitless = 103.5 [[arcsecond|m]]<!--Semimajor axis (no units provided by template)-->
+| eccentricity = 0.34
+| inclination = {{nowrap|128.0 ± 5.4}}
+| node = {{nowrap|242.8 ± 3.9}}
+| periastron = 2416201.8&nbsp;[[HJD]]
+| periarg_primary = 19.8 
+| k1 = <!-- Velocity semi-amplitude (SB1, or primary in SB2), in km/s -->
+| k2 = <!-- Velocity semi-amplitude (secondary in SB2), in km/s -->
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 15<ref name=lang2006/>
+| luminosity  = 
+| temperature = 4,436<ref name=aj132_1_161/>
+| gravity  = 2.53<ref name=aj132_1_161/>
+| metal_fe = –0.73<ref name=aj132_1_161/>
+| rotational_velocity = 
+| age      =
+}}
+{{Starbox catalog
+| names=Ankaa, Nair al Zaurak, Cymbae, Lucida Cymbae, [[Cordoba Durchmusterung|CD]] -42°116, [[Fifth Fundamental Catalogue|FK5]] 12, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 71.00, [[Hipparcos catalogue|HIP]] 2081, [[Harvard Revised catalogue|HR]] 99, [[Henry Draper catalogue|HD]] 2261, [[Luyten Two-Tenths catalogue|LTT]] 231, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 215093.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Alpha Phoenicis''' (α Phe, α Phoenicis) is the brightest star in the [[constellation]] [[Phoenix (constellation)|Phoenix]]. It has the traditional name '''Ankaa''',<ref name=ridpath_tirion2007/> from the [[Arabic language|Arabic]] '''العنقاء''' ''al-‘anqā’'' "the [[Phoenix (mythology)|phoenix]]". Medieval Arab astronomers formed the constellation of the [[dhow]] (small boat) where Phoenix is, so another popular name for the star is '''Nair al-Zaurak'''<ref name=allen1899/> from النائر الزورق ''an-na’ir az-zawraq'' "the bright (star) of the skiff". The Latin translation is ''Cymbae,'' from ''lūcida cumbæ.''{{Citation needed|date=January 2012}}
+
+This is a [[spectroscopic binary]] star system with components that orbit each other every 3848.8&nbsp;days (10.5&nbsp;years).<ref name=aaa442_1_365/> The combined [[stellar classification]] of the system is K0.5&nbsp;IIIb,<ref name=aj132_1_161/> which matches the [[spectrum]] of a lower luminosity [[giant star]]. It has an [[apparent visual magnitude]] of 2.4,<ref name=sps1966/> so it is somewhat outshone by its first magnitude neighbors [[Achernar]] (α Eridani) and [[Fomalhaut]] (α Piscis Australis). Based upon [[parallax]] measurements, this system is at a distance of about {{Convert|85|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/> The [[interferometry]]-measured [[angular diameter]] of the primary component, after correcting for [[limb darkening]], is {{nowrap|5.25 ± 0.06 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 15 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/>
+
+Ankaa is similar to many of the visible stars of the night sky, being an orange giant of relatively average stellar size.  It is currently thought to be in the midst of a short but stable [[helium]] burning phase of its [[stellar evolution]], although it probably won't be long in astronomical terms before it sheds its outer layers in a [[planetary nebula]] and ends its life quietly as a [[white dwarf]]. Ankaa has a small stellar companion, about which little is known.{{Citation needed|date=January 2012}}
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 pc-The Southern Sample | journal=The Astronomical Journal | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G |arxiv = astro-ph/0603770 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=aaa442_1_365>{{citation | display-authors=1 | last1=Jancart | first1=S. | last2=Jorissen | first2=A. | last3=Babusiaux | first3=C. | last4=Pourbaix | first4=D. | title=Astrometric orbits of SB^9 stars | journal=Astronomy and Astrophysics | volume=442 | issue=1 | pages=365–380 | month=October | year=2005 | month=October | year=2005 | doi=10.1051/0004-6361:20053003 | bibcode=2005A&A...442..365J |arxiv = astro-ph/0507695 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=alf Phe -- Spectroscopic binary | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Phoenicis | accessdate=2012-01-09 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=336 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA336 }}</ref>
+
+<ref name=ridpath_tirion2007>{{citation | first1=Ian | last1=Ridpath | first2=Wil | last2=Tirion | title=Stars and planets: the most complete guide to the stars, planets, galaxies, and the solar system | series=Princeton field guides | edition=4th | publisher=Princeton University Press | year=2007 | isbn=0-691-13556-8 | page=206 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 26\cdot 5.25)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 29.4\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+}}
+
+[[Category:Bayer objects|Phoenicis, Alpha]]
+[[Category:K-type giants]]
+[[Category:Phoenix (constellation)]]
+[[Category:Binary stars]]
+[[Category:Stars with proper names]]
+
+{{Stars of Phoenix}}
+
+[[ar:العنقاء (نجم)]]
+[[ca:Alfa del Fènix]]
+[[de:Ankaa]]
+[[es:Ankaa]]
+[[fa:ستاره عنقا]]
+[[fr:Alpha Phoenicis]]
+[[ko:안카]]
+[[hi:अल्फ़ा फ़ीनाइसिस तारा]]
+[[id:Alpha Phoenicis]]
+[[it:Ankaa]]
+[[nl:Ankaa]]
+[[ja:ほうおう座アルファ星]]
+[[pl:Ankaa]]
+[[pt:Alpha Phoenicis]]
+[[ru:Анкаа]]
+[[sk:Ankaa]]
+[[fi:Alfa Phoenicis]]
+[[tt:Ганка (йолдыз)]]
+[[zh:火鳥六]]

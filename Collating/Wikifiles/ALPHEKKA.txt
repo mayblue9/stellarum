@@ -1,0 +1,155 @@
+{{Starbox begin
+| name=Alpha Coronae Borealis A/B }}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Corona borealis constellation map.png|250px]]
+     <div style="position: absolute; left: 149px; top: 155px">[[Image:Locator Dot2.gif|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> | 
+  caption=The red dot shows the location of α Corona Borealis. }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|15|34|41.2681}}<ref name="hipparcos">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+| dec={{DEC|+26|42|52.895}}<ref name="hipparcos" />
+| appmag_v=2.21 (2.24 / 7.1)
+| constell=[[Corona Borealis]] }}
+{{Starbox character
+| class=A0V/G5V<ref name="aj91" />
+| b-v=–0.02<ref name="clpl4">{{cite journal
+ | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewskj, W. Z.
+ | title=UBVRIJKL photometry of the bright stars
+ | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966
+ | bibcode=1966CoLPL...4...99J }}</ref>/—
+| u-b=–0.03<ref name="clpl4" />/—
+| variable=[[Eclipsing binary]] }}
+{{Starbox astrometry
+| radial_v=+1.7<ref>{{cite book
+  | last=Wilson | first=R. E. | year=1953
+  | title=General Catalogue of Stellar Radial Velocities
+  | publisher=Carnegie Institute of Washington, D.C.
+  | url=http://adsabs.harvard.edu/abs/1953GCRV..C......0W
+  | accessdate=2009-09-08 }}</ref>
+| prop_mo_ra=+120.38<ref name="hipparcos" />
+| prop_mo_dec=–89.44<ref name="hipparcos" />
+| parallax=43.65
+| p_error=0.79
+| parallax_footnote=<ref name="hipparcos" />
+| absmag_v=+0.16/+5.05<ref name="aj91" />
+}}
+{{Starbox orbit
+| reference=<ref name="aaa403" />
+| period_unitless=17.3599&nbsp;d
+| axis_unitless={{nowrap|2.981 × 10<sup>12</sup> cm}}
+| eccentricity=0.370
+| inclination={{nowrap|88.2 ± 0.1}}
+| periarg_primary=311
+}}<!--
+-->{{Starbox detail
+| mass=2.58/0.92<ref name="aj91" />
+| radius=2.89–3.04/0.90<ref name="aj91" /><ref name="aaa403" />
+| gravity=3.89/4.50<ref name="aj91" />
+| luminosity=74/0.81<ref name="aj91" />
+| temperature=9,700/5,800<ref name="aj91" />
+| metal=
+| rotational_velocity=139<ref>{{cite journal
+  | author=Royer, F.; Grenier, S.; Baylac, M.-O.; Gómez, A. E.; Zorec, J.
+  | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i
+  | journal=Astronomy and Astrophysics | volume=393 | pages=897–911
+  | year=2002 | month=October | doi=10.1051/0004-6361:20020943
+  | bibcode=2002A&A...393..897R |arxiv = astro-ph/0205255 }} Table 8.</ref> / <&nbsp;14<ref name="aaa403" />
+| age={{nowrap|3.14 × 10<sup>8</sup>}}
+}}
+{{Starbox catalog |
+  names=Gemma, Alphekka, Alphecca, Gnosia, Ashtaroth, The Jewel, ''Gnosia Stella Coronae'', 5&nbsp;CrB, [[Harvard Revised catalogue|HR]]&nbsp;5793,  [[Bonner Durchmusterung|BD]]&nbsp;+27°2512, [[Henry Draper catalogue|HD]]&nbsp;139006, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;3519.00, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;83893, FK5&nbsp;578, [[Hipparcos catalogue|HIP]]&nbsp;76267. }}
+{{Starbox reference |
+  Simbad=HD+139006 }}
+{{Starbox end}}
+'''Alpha Coronae Borealis''' (α CrB, α Coronae Borealis) is a [[binary star]] in the [[constellation]] [[Corona Borealis]]. It is located about 75 [[light year]]s from the [[Solar System]].
+
+==Properties==
+The primary component is a white [[main sequence]] star that has a [[stellar classification]] of A0V and 2.6 times the [[Solar mass|mass of the Sun]]. Estimates of the star's radius range from 2.89 to 3.04 times the [[Solar radius|radius of the Sun]].<ref name="aj91" /><ref name="aaa403" /> An [[infrared excess|excess of infrared radiation]] at 24&nbsp;μm and 70&nbsp;μm has been detected about the primary star by the [[IRAS]].<ref>{{cite journal
+  | author=Su, K. Y. L. | coauthors=''et al.'' | year=2006
+  | title=Debris Disk Evolution around A Stars
+  | journal=The Astrophysical Journal | volume=653
+  | issue=1 | pages=675–689 | month=December
+  | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref> This suggests the presence of a large disc of [[dust]] and material around Alphecca, prompting speculation of a planetary or proto-planetary system similar to that currently assumed around [[Vega]].
+
+The secondary component is a yellow main sequence star with an estimated stellar class of G5, 0.92 times the Sun's mass and 0.90 times the Sun's radius. The [[X-ray]] luminosity of this star is {{nowrap|6 × 10<sup>28</sup> [[erg]] s<sup>-1</sup>}}, which is 30 times greater than the peak activity level of the Sun. This higher activity level is expected for a young star of this class. The [[corona]] has a temperature of about 5&nbsp;MK, which is much hotter than the Sun's corona. The upper limit of 14&nbsp;km/s for the equatorial rotation velocity is equivalent to a rotation period of 3 days. More likely, the rotation period is 7–9 days.<ref name="aj91">{{cite journal
+  | author=Tomkin, J.; Popper, D. M. | year=1986
+  | title=Rediscussion of eclipsing binaries. XV - Alpha Coronae Borealis,  a main-sequence system with components of types A and G
+  | journal=Astronomical Journal | volume=91 | month=June | doi = 10.1086/114121 | bibcode = 1986AJ.....91.1428T
+}}</ref><ref name="aaa403" />
+
+The stars are orbiting about each other in an [[Eccentricity (orbit)|eccentric orbit]] one every 17.36 days. Because the plane of this orbit is inclined at an angle of 88.2&deg; to the line of sight to the Earth,<ref name="aaa403">{{cite journal
+  | author=Güdel, M.; Arzner, K.; Audard, M.; Mewe, R.
+  | title=Tomography of a stellar X-ray corona: alpha Coronae Borealis
+  | journal=Astronomy and Astrophysics | volume=403
+  | pages=155–171 | year=2003 | month=May
+  | doi=10.1051/0004-6361:20030257
+  | bibcode=2003A&A...403..155G }}</ref> the pair form an [[eclipsing binary]] system similar to [[Algol]] (β Per). The periodic eclipses result in a magnitude variation of +2.21 to +2.32,<ref>{{cite book
+  | first=N. | last=Efremov | coauthors=''et al.'' | location=Moscow
+  | title=General Catalogue of Variable Stars | edition=3rd | year=1971
+}}</ref> which is hardly noticeable to the unaided eye.
+
+The [[Space velocity (astronomy)|space velocity]] components of this star system are U&nbsp;={{nowrap| +14.257}}, V&nbsp;={{nowrap| +0.915}} and W&nbsp;={{nowrap| +3.147 km/s}}. α CrB is believed to be a member of the [[Ursa Major Moving Group]] of stars that have a common motion through space.<ref>{{cite journal
+  | author=King, Jeremy R.; Villarreal, Adam R.; Soderblom, David R.; Gulliver, Austin F.; Adelman, Saul J.
+  | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group
+  | journal=The Astronomical Journal | volume=125
+  | issue=4 | pages=1980–2017 | month=April | year=2003
+  | doi=10.1086/368241 | bibcode=2003AJ....125.1980K }}</ref>
+
+==Name==
+It has the traditional names '''Alphecca''' (Alphekka), '''Gemma''', '''Gnosia''' (Gnosia Stella Coronae), and '''Asteroth''' (Ashtaroth). The name ''Alphecca'' is [[Arabic language|Arabic]], short for نير الفكّة ''nayyir al-fakka'' "the bright (star) of the broken (ring of stars)". ''Gemma'' is [[Latin language|Latin]] for "jewel". ''Gnosia'' is also Latin, short for ''Gnōsia stella corōnæ'' "star of the crown of [[Knossos]]". ''Asteroth'' is Hebrew, עשתרות ''‘ašterôt'' "[[Astarte]] (idols)". As the brightest star in Corona Borealis, it lent its name to the brightest in [[Corona Australis]], [[Alphekka Meridiana]]. 
+
+The term ''nayyir al-fakka'' or '''Nir al Feccah''' was appeared in Al Achsasi Al Mouakket catalogue.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref>
+
+In Chinese, {{lang|zh|貫索}} ({{lang|zh-Latn|Guàn Suǒ}}), meaning ''[[Heavenly Market enclosure|Coiled Thong]]'', refers to an asterism consisting of α Coronae Borealis, [[Pi Coronae Borealis|π Coronae Borealis]], [[Theta Coronae Borealis|θ Coronae Borealis]], [[Beta Coronae Borealis|β Coronae Borealis]], [[Gamma Coronae Borealis|γ Coronae Borealis]], [[Delta Coronae Borealis|δ Coronae Borealis]], [[Epsilon Coronae Borealis|ε Coronae Borealis]], [[Iota Coronae Borealis|ι Coronae Borealis]] and [[Rho Coronae Borealis|ρ Coronae Borealis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, α Coronae Borealis itself is known as {{lang|zh|貫索四}} ({{lang|zh-Latn|Guàn Suǒ sì}}, {{lang-en|the Fourth Star of Coiled Thong}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|2}}
+
+{{Stars of Corona Borealis}}
+
+[[Category:Corona Borealis (constellation)]]
+[[Category:Bayer objects|Coronae Borealis, Alpha]]
+[[Category:Flamsteed objects|Coronae Borealis, 5]]
+[[Category:Henry Draper Catalogue objects|139006]]
+[[Category:Hipparcos objects|076267]]
+[[Category:HR objects|5793]]
+[[Category:Eclipsing binaries]]
+[[Category:G-type main sequence stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[az:Əlfəqqə]]
+[[cs:Gemma]]
+[[de:Gemma]]
+[[el:Αλφέκκα]]
+[[es:Alphecca]]
+[[fa:فکه (ستاره)]]
+[[fr:Alpha Coronae Borealis]]
+[[ko:알페카]]
+[[hi:अल्फ़ा उत्तरकिरीट तारा]]
+[[id:Alpha Coronae Borealis]]
+[[it:Alfa Coronae Borealis]]
+[[lb:Gemma (Stär)]]
+[[nl:Alphekka]]
+[[ja:ゲンマ]]
+[[pl:Gemma (gwiazda)]]
+[[pt:Alpha Coronae Borealis]]
+[[ru:Альфа Северной Короны]]
+[[sk:Gemma]]
+[[fi:Alfa Coronae Borealis]]
+[[sv:Alphecca]]
+[[zh:北冕座α]]

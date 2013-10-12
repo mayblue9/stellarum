@@ -1,0 +1,124 @@
+{{Starbox begin
+ | name=Epsilon Carinae A/B
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Carina IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Carina constellation and its surroundings]]
+     <div style="position: absolute; left: 47.2%; top: 38.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ε Carinae (circled)
+}}
+{{Starbox observe
+ | epoch   = J2000
+ | ra      = {{RA|08|22|30.83526}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|-59|30|34.1431}}<ref name=aaa474_2_653/>
+ | appmag_v = 1.86<ref name=clpl4_99/> (2.166/4.121)<ref name=aaa356_141/>
+ | constell = [[Carina (constellation)|Carina]]
+}}
+{{Starbox character
+ | class    = K3&nbsp;III<ref name=houk1978/> + B2&nbsp;Vp<ref name=apjss119_1_83/>
+ | b-v      = +1.27<ref name=clpl4_99/>
+ | u-b      = +0.19<ref name=clpl4_99/>
+ | variable = [[Eclipsing binary|Eclipsing]] (suspected)<ref name=yalebsc/>
+}}
+{{Starbox astrometry
+ | radial_v = +11.6<ref name=rgcrv/>
+ | prop_mo_ra  = –25.52<ref name=aaa474_2_653/>
+ | prop_mo_dec = 22.72<ref name=aaa474_2_653/>
+ | parallax = 5.39
+ | p_error  = 0.42
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | component1 = ε Car A
+ | mass     = {{nowrap|9.0 ± 0.9}}<ref name=mnras410_1_190/>
+ | radius   = 
+ | metal_fe = 
+ | age_myr  = {{nowrap|31.2 ± 10.1}}<ref name=mnras410_1_190/>
+ | luminosity  = 
+ | temperature = 3,523<ref name=aj127_5_2915/>
+ | rotational_velocity = 
+ | component2 = ε Car B
+ | mass2    = 7.30<ref name=aj127_5_2915/>
+ | temperature2 = 20,417<ref name=aj127_5_2915/>
+}}
+{{Starbox catalog
+ | names=Avior, [[Cordoba Durchmusterung|CD]]&minus;59°1032, [[Fifth Fundamental Catalogue|FK5]]&nbsp;315, [[Henry Draper catalogue|HD]]&nbsp;71129, [[Hipparcos catalogue|HIP]]&nbsp;41037, [[Harvard Revised catalogue|HR]]&nbsp;3307, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;235932.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+ | Simbad=HD+71129
+}}
+{{Starbox end}}
+
+'''Epsilon Carinae''' (ε Car, ε Carinae) is a [[star]] in the southern [[constellation]] of [[Carina (constellation)|Carina]]. It is also known by the name '''Avior'''. At [[apparent magnitude]] +1.86 it is [[list of brightest stars|one of the brightest stars]] in the night sky, but is not visible from the [[northern hemisphere]].
+
+[[File:Avior.png|left|thumb|Illustration of the Avior system]]
+Epsilon Carinae is a [[double star]] located roughly {{Convert|560|-|660|ly|pc|abbr=off|lk=on}} away from the [[Earth]].<ref name=aaa474_2_653/> Measurements during the [[Hipparcos]] mission give the pair an [[angular separation]] of 0.46&nbsp;[[arcsecond]]s with a difference in magnitude of 2.0.<ref name=apjss119_1_83/> At their estimated distance, this angle is equivalent to a physical separation of around 4&nbsp;[[Astronomical Unit]]s.<ref name=kaler/> This pair may form an [[eclipsing binary]] system<ref name=kaler/> with a period of 785 days (2.15 years), resulting in a magnitude change of 0.12 during each eclipse.<ref name=yalebsc/><ref name=jaavso24_2_105/>
+
+The primary component has an apparent visual magnitude of 2.2,<ref name=aaa356_141/> which by itself would still make it the [[List of stars in Carina|third brightest star]] in the constellation. It is an [[stellar evolution|evolved]] [[giant star]] with a [[stellar classification]] of K0&nbsp;III. However, examination of the ultraviolet flux from this star suggests it may instead be of spectral type K7.<ref name=apjss119_1_83/> The fainter secondary companion has an apparent visual magnitude of 4.1,<ref name=aaa356_141/> which, if it were a solitary star, would be bright enough to be seen with the naked eye. This is a hot, core [[hydrogen]]-fusing [[B-type main sequence star]] of spectral class B2&nbsp;Vp.<ref name=apjss119_1_83/> The secondary may itself have an orbiting stellar companion of spectral class F8:.<ref name=aj127_5_2915/>
+
+==Etymology==
+The name '''Avior''' is not a classical in origin. It was assigned to the star by [[Her Majesty's Nautical Almanac Office]] in the late 1930s during the creation of The Air Almanac, a navigational almanac for the [[Royal Air Force]]. Of the fifty-seven [[List of selected stars for navigation|navigation star]]s included in the new almanac, two had no classical names: Epsilon Carinae and [[Alpha Pavonis]]. The RAF insisted that all of the stars must have names, so new names were invented. Alpha Pavonis was named "Peacock", a translation of [[Pavo (constellation)|Pavo]], whilst Epsilon Carinae was called "Avior".<ref name=safker/>
+
+In [[Chinese language|Chinese]], {{lang|zh|海石}} ({{lang|zh-Latn|Hǎi Dàn}}), meaning ''[[Chinese constellations#The Southern Asterisms (近南極星區)|Sea Rock]]'', refers to an asterism consisting of ε Carinae, [[Iota Carinae|ι Carinae]], [[HD 83183]], [[HD 84810]] and [[Upsilon Carinae|υ Carinae]]  .<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ε Carinae itself is known as {{lang|zh|海石一}} ({{lang|zh-Latn|Hǎi Dàn yī}}, {{lang-en|the First Star of Sea Rock}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=safker>{{citation | last1=Safler | first1=D. H. | editor1-last=Wilkins | editor1-first=G. A. | title=A Personal History of H.M. Nautical Almanac Office | url=http://astro.ukho.gov.uk/nao/history/dhs_gaw/nao_perhist_0802_dhs.pdf  | publisher=Unpublished | location=Sidford, Devon | page=4 | format=PDF | postscript=. }}</ref>
+
+<ref name=apjss119_1_83>{{citation | last1=Parsons | first1=Sidney B. | last2=Ake | first2=Thomas B. | title=Ultraviolet and Optical Studies of Binaries with Luminous Cool Primaries and Hot Companions. V. The Entire IUE Sample | journal=The Astrophysical Journal Supplement Series | volume=119 | issue=1 | pages=83–104 | month=November | year=1998 | doi=10.1086/313152 | bibcode=1998ApJS..119...83P | postscript=. }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=1 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan | year=1978 | bibcode=1975mcts.book.....H | postscript=. }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E | postscript=. }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=eps Car -- Double or multiple star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Epsilon+Carinae | accessdate=2012-02-12 | postscript=. }}</ref>
+
+<ref name=aaa356_141>{{citation | last1=Fabricius | first1=C. | last2=Makarov | first2=V. V. | title=Two-colour photometry for 9473 components of close Hipparcos double and multiple stars | journal=Astronomy and Astrophysics | volume=356 | pages=141–145 | month=April | year=2000 | bibcode=2000A&A...356..141F | postscript=. }}</ref>
+
+<ref name=jaavso24_2_105>{{citation | last1=Hoffleit | first1=Dorrit | title=A Catalogue of Correlations Between Eclipsing Binaries and Other Categories of Double Stars | journal=The Journal of the American Association of Variable Star Observers | volume=24 | issue=2 | pages=105–116 | year=1996 | bibcode=1996JAVSO..24..105H }}</ref>
+
+<ref name=yalebsc>{{citation | last1=Hoffleit | first1=Dorrit | last2=Warren Jr | first2=W. H. | title=The Bright Star Catalogue | edition=5th revised | publisher=Smithsonian Astrophysical Observatory | url=http://tdc-www.harvard.edu/catalogs/bsc5.html | accessdate=2012-02-12 | postscript=. }}. See: [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=V%2F50 VizieR V/50]</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=AVIOR (Epsilon Carinae) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/avior.html | accessdate=2012-02-12 | postscript=. }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T | postscript=. |arxiv = 1007.4883 }}</ref>
+
+<ref name=aj127_5_2915>{{citation | last1=Parsons | first1=Sidney B. | title=New and Confirmed Triple Systems with Luminous Cool Primaries and Hot Companions | journal=The Astronomical Journal | volume=127 | issue=5 | pages=2915–2930 | month=May | year=2004 | doi=10.1086/383546 | bibcode=2004AJ....127.2915P | postscript=. }}</ref>
+
+}}
+
+{{Stars of Carina}}
+
+[[Category:Carina (constellation)]]
+[[Category:Bayer objects|Carinae, Epsilon]]
+[[Category:Eclipsing binaries]]
+[[Category:K-type giants]]
+[[Category:B-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Epsilon Carinae]]
+[[el:Αβιόρ]]
+[[es:Avior (estrella)]]
+[[fa:اپسیلون شاه‌تخته]]
+[[fr:Epsilon Carinae]]
+[[ko:아비오르]]
+[[hi:ऍप्सिलन कराइनी तारा]]
+[[id:Epsilon Carinae]]
+[[it:Avior]]
+[[he:אוויור]]
+[[lb:Avior (Stär)]]
+[[nl:Avior]]
+[[ja:りゅうこつ座イプシロン星]]
+[[pl:Avior]]
+[[pt:Epsilon Carinae]]
+[[ru:Авиор]]
+[[sk:Avior]]
+[[fi:Epsilon Carinae]]
+[[zh:海石一]]

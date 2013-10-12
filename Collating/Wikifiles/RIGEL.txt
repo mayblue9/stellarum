@@ -1,0 +1,251 @@
+{{other uses}}
+{{Starbox begin
+| name = Rigel, Beta Ori }}
+{{Starbox image
+ | image=<div style="position: relative">[[File:Orion IAU.svg|250px]]
+   <div style="position: absolute; left:55.0%; top:64.0%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+ | caption=Location of Rigel (circled)
+}}
+{{Starbox observe
+| epoch = J2000.0
+| constell = [[Orion (constellation)|Orion]]
+| pronounce = {{IPAc-en|ˈ|r|aɪ|dʒ|əl}} or {{IPAc-en|-|g|əl}}<ref name=ddc>{{cite web|title=Define Rigel at Dictionary.com|url=http://dictionary.reference.com/browse/rigel|accessdate=6 February 2012}}</ref>
+| ra = {{RA|05|14|32.27210}}<ref name=aaa474_2_653/>
+| dec = {{DEC|−08|12|05.8981}}<ref name=aaa474_2_653/>
+| appmag_v = 0.12<ref name=aass34_1/>
+}}
+{{Starbox character
+| class = B8&nbsp;Ia<ref name=apj2012_747_108/><ref name=rother>{{cite web|url=http://etd.ohiolink.edu/view.cgi?acc_num=toledo1249043423|author=Rother, Sara|title=A time series study of Rigel, a B8Ia supergiant|year=2009}}</ref>
+| b-v = −0.03<ref name=aass34_1/>
+| u-b = −0.66<ref name=aass34_1/>
+| variable = [[Alpha Cygni]]<ref name=apj2012_749_74/>
+}}
+{{Starbox astrometry
+| radial_v = 20.7<ref name=gcsrv/>
+| prop_mo_ra = +1.31<ref name=aaa474_2_653/>
+| prop_mo_dec = +0.50<ref name=aaa474_2_653/>
+| parallax = 3.78
+| p_error = 0.34
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|–7.84 ± 0.2}}<ref name=aaa445_3_1099/>
+}}
+{{Starbox detail
+| age = {{nowrap|(8 ± 1) × 10<sup>6</sup>}}<ref name=aaa445_3_1099/>
+| metal_fe = {{nowrap|–0.06 ± 0.10}}<ref name=aaa445_3_1099/>
+| mass = {{nowrap|18}}<ref name=apj2012_749_74/>
+| radius = 74<ref name=apj2012_747_108/>
+| rotational_velocity = 40<ref name=apj573_1_359/>
+| luminosity_bolometric = 1.26{{±|0.37|0.29}}×10<sup>5</sup> <math>L_{\odot}</math><ref name=apj2012_747_108/>
+| temperature = 12,130<ref name=aaa501_1_297/>
+| gravity = {{nowrap|1.75 ± 0.10}}<ref name=aaa445_3_1099/>
+}}
+{{Starbox catalog
+| names = Rigel, Algebar, Elgebar, β Ori, 19 Ori, [[Henry Draper catalogue|HD]] 34085, [[Harvard Revised catalogue|HR]] 1713, [[Hipparcos Catalogue|HIP]] 24436, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 131907, TD1 4253.<ref name="simbad"/>
+}}
+{{Starbox reference
+| Simbad = RIGEL
+}}
+{{Starbox end}}
+'''Rigel''', also known by its [[Bayer designation]] '''Beta Orionis''' (β Ori, β Orionis), is the brightest star in the constellation [[Orion (constellation)|Orion]] and the [[list of brightest stars|sixth brightest star]] in the sky, with [[visual magnitude]] 0.12. The star as seen from Earth is actually a triple star system, with the primary star (Rigel A) a blue-white supergiant of absolute magnitude –7.84 and around 130,000 times<ref>The [[bolometric magnitude]] of Rigel is −7.92<sup>m</sup>±0.28<sup>m</sup>. Taking into account the absolute magnitude of Sun (4.83<sup>m</sup>) this can be recalculated to the luminosity as high as 1.26{{±|0.37|0.29}}×10<sup>5</sup> <math>L_{\odot}</math>. </ref><ref name=apj2012_747_108/> as luminous as the [[Sun]]. An [[Alpha Cygni variable]], it pulsates periodically. Visible in small telescopes, Rigel B is itself a [[spectroscopic binary]] system, consisting of two  [[main sequence]] blue-white stars of spectral type B9.
+
+Although Rigel has the [[Bayer designation]] "beta", it is almost always brighter than Alpha Orionis ([[Betelgeuse]]). Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/>
+
+==Visibility==
+The apparent magnitude of Rigel is listed in the astronomical database [[SIMBAD]] at 0.12, making it on average the sixth brightest star in the celestial sphere excluding the Sun—just fainter than Vega and ahead of Procyon (It is brighter than each component of the double star Capella, though that binary system is marginally brighter than Rigel when taken as a single point of light.). It is an irregular pulsating variable with a visual range of magnitude 0.05-0.18.<ref>{{cite doi|10.1017/S1743921310009798}}</ref>
+
+Rigel is the third most inherently [[List of most luminous stars|luminous]] first magnitude star after [[Deneb]] and [[Betelgeuse]].  Rigel has a [[color index]] (B–V) of -0.03, meaning it appears white or lightly blue-white.{{citation needed|date=October 2012}}
+
+Culminating at midnight on December 12, and at 9PM on January 24, Rigel is most visible in winter evenings in the northern hemisphere and summer in the southern.<ref name="schaaf">{{cite book |author=Schaaf, Fred |year=2008 |title=The Brightest Stars |chapter=Appendix C |page=257 |publisher=Wiley |location=Hoboken, New Jersey |isbn=0-471-70410-5}}</ref> In the southern hemisphere, Rigel is the first bright star of Orion visible as the constellation rises.<ref>{{cite book|author=Ellyard, David; Tirion, Wil |year=2008 |title=The Southern Sky Guide|edition = 3rd|origyear=1993pages=58-59 |publisher=Cambridge University Press |location=Port Melbourne, Victoria |isbn= 978-0-521-71405-1}}</ref>
+
+== Properties ==
+[[File:Hertzsprung-Russel StarData.png|thumb|left|Rigel's place at top centre on the [[Hertzsprung-Russell diagram]]]]
+[[spectroscopy|Spectroscopic]] estimates of Rigel's distance place its distance between {{convert|700|and|900|ly|pc|lk=on}}, while ''[[Hipparcos]]''<nowiki>'</nowiki>s measurement of its parallax gives a distance of {{convert|860|ly|pc}}, with a [[margin of error]] of about 9%.<ref name=aaa474_2_653/> It is a [[blue supergiant]], at about 18 [[solar mass]]es,<ref name=apj2012_749_74/> shining with approximately 117,000 times the [[luminosity]] of the [[Sun]].<ref name=apj2012_747_108/> The [[interferometer]]-measured [[angular diameter]] of this star, after correction for [[limb darkening]], is {{nowrap|2.75 ± 0.01 [[milliarcsecond|mas]]}}.<ref name=auf/> At its estimated distance, this yields a physical size of about 74 times the [[Solar radius|radius of the Sun]].<ref name=apj2012_747_108/>  If viewed from a distance of 1 [[astronomical unit]], it would span an angular diameter of 35° and shine at magnitude −38.
+
+As it is both bright and moving through a region of nebulosity, Rigel lights up several dust clouds in its vicinity, most notably the [[IC 2118]] (the Witch Head Nebula).<ref name="Jedicke1992">{{cite book |chapter=Regal Rigel |title=The New Cosmos |last=Jedicke |first=Peter |coauthors=Levy, David H. |year=1992 |publisher=Kalmbach Books |location=Waukesha |pages=48–53 }}</ref> Rigel is also associated with the [[Orion Nebula]], which—while more or less along the same line of sight as the star—is almost twice as far away from Earth. Despite the difference in distance, projecting Rigel's path through space for its expected age brings it close to the nebula. As a result, Rigel is sometimes classified as an outlying member of the [[Orion OB1 Association]], along with many of the other bright stars in that region of the sky; more specifically, it is a member of the [[Taurus-Orion R1 Association]], with the OB1 Association reserved for stars closer to the nebula and more recently formed.<ref name="Jedicke1992" />
+
+Rigel is a variable supergiant, the variability being caused by [[stellar pulsations]] similar to those of [[Deneb]], the prototype of the class of [[Alpha Cygni variable|Alpha Cygni]] pulsating stars. The radial velocity variations of Rigel proves that it simultaneously oscillates in at least 19 non-radial modes.<ref name=apj2012_747_108/> The variability periods range broadly from about 1.2 to 74 days. It is a notable star among other [[blue supergiant]] stars in the sense that its pulsations are powered by the nuclear reactions in the hydrogen burning shell.<ref name=apj2012_749_74/> The Rigel system is known to be composed of three stars. A fourth star in the system is sometimes proposed, but it is generally considered that this is a misinterpretation of the main star's variability, which may be caused by physical pulsation of the surface.<ref name="Burnham1978">{{cite book |title=Burnham's Celestial Handbook |last=Burnham |first=Robert, Jr. |year=1978 |publisher=Dover Publications |location=New York |page=1300 }}</ref>
+
+=== Space photometry ===
+[[File:Rigel sun comparision.png|thumb|250px|Computer generated image of Rigel compared to the Sun (to scale)]]
+Rigel was observed with the Canadian [[Microvariability and Oscillations of STars telescope|MOST]] satellite for nearly 28 days in 2009. The light variations in this supergiant star is in milli magnitude level. The gradual changes in the flux highlights the presence of long-period pulsation modes in the star.<ref name=apj2012_747_108/>
+
+=== Spectroscopy ===
+
+Rigel is surrounded by a shell of expelled gas. This occurs because when a red giant becomes a blue giant, the slow stellar winds of the former red giant are compressed by the faster winds of the blue giant, therefore creating a shell.<ref name="Jedicke1992" />
+
+The general spectral type of Rigel as B8 is well established and it has been used as a defining point of the spectral classification sequence for supergiants.  However the details of the spectrum vary considerably due to periodic atmospheric eruptions.  The spectral lines show emission, absorption, line doubling, P Cygni profiles, and inverse P Cygni profiles, with no obvious periodicity.<ref name=rother/>  This has resulted in classification as B8 Iab, B8 Iae, or blendings by different authors.
+
+== System ==
+Rigel has been a known [[visual binary]] since at least 1831, when it was first measured by [[Friedrich Georg Wilhelm von Struve|F. G. W. Struve]].  Though Rigel B is not particularly faint at magnitude 6.7, its closeness to Rigel A—which is over 500 times brighter—makes it a challenging target for telescopes smaller than {{convert|150|mm|in|abbr=on}}.<ref name="Burnham1978" /> However a good {{convert|7|cm|in|abbr=on}} telescope will reveal Rigel B at 150x power and good seeing. At Rigel's estimated distance, Rigel B is separated from its primary by over 2200 [[astronomical unit|AU]] (12 lightdays); not surprisingly, there has been no sign of orbital movement, though they share the same [[proper motion]].<ref name="Jedicke1992" /><ref name="Burnham1978" />
+
+Rigel B is itself a [[spectroscopic binary]] system, consisting of two  [[main sequence]] stars that orbit their center of gravity every 9.8 days.  The stars both belong to the spectral class B9V; Rigel B is the more massive of the pair, at 2.5 versus 1.9 solar masses.<ref name="Jedicke1992" /><ref name="Burnham1978" />
+
+There was long-running controversy in the late 19th and early 20th century over the possible visible binarity of Rigel B.  A number of experienced observers claimed to see it as a double, while others were unable to confirm it; indeed, the proponents themselves were sometimes unable to duplicate their results.  Observations since have ruled out the likelihood of a visible companion to Rigel B.<ref name="Jedicke1992" /><ref name="Burnham1978" />
+
+== Etymology and cultural significance ==
+
+===English etymology===
+In his 1899 work ''[[Star Names: Their Lore and Meaning|Star-Names and Their Meanings]]'', American amateur naturalist [[Richard Hinckley Allen]] stated the derivation was from the ''{{transl|ar|Rijl Jauzah al Yusrā}}'',  "Left Leg of the Jauzah".<ref name="allen">{{cite book
+ | author=[[Richard Hinckley Allen|Allen, Richard Hinckley]],
+ | year=1963 |origyear=1899
+ | title=Star Names: Their Lore and Meaning
+ | edition=[[Reprint|rep]].
+ | publisher=[[Dover Publications]] Inc.
+ | location=[[New York City|New York]], [[New York|NY]]
+ | url= http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Orion*.html
+ | isbn=0-486-21079-0
+ | pages = 312–13}}</ref>  Paul Kunitzsch, Professor of Arabic Studies at the University of Munich, states the name dates from the 10th century and is one of the oldest extant Arabic star names in Western astronomy.<ref name="KUNITZSCH1959">{{cite book
+ |author=Kunitzsch, Paul
+ |year=1959
+ |title=Arabische Sternnamen in Europa
+ |publisher=[[Otto Harrassowitz]]
+ |location=[[Wiesbaden]]
+ |page=46}}</ref>
+
+Another Arabic name is {{lang|ar|رجل الجبار}} ''{{transl|ar|riǧl al-ǧabbār}}'', "the foot of the great one" (giant, conqueror, etc.), which is also the source of the rarely-used variant names ''Algebar'' or ''Elgebar''.
+
+The ''Alphonsine Tables'' saw its name split into "Rigel" and "Algebar", with the note, "et dicitur Algebar. Nominatur etiam Rigel."<ref name=Kunitzsch86>{{cite journal|last=Kunitzsch|first=Paul|year=1986|title=The Star Catalogue Commonly Appended to the Alfonsine Tables|journal=Journal for the History of Astronomy|volume=17|issue=49|pages=89–98|url=http://adsabs.harvard.edu/full/1986JHA....17...89K|bibcode = 1986JHA....17...89K }}</ref> Alternate spellings from the 17th century include Regel by the Italian astronomer [[Giovanni Battista Riccioli]], Riglon by the German astronomer [[Wilhelm Schickard]], and Rigel Algeuze or Algibbar by English writer and translator [[Edmund Chilmead]].<ref name="allen"/>
+
+Other names include the Greek Ποὺς δὶδυμων "The foot next to the Twins" by Chrysococca, and Hebrew ''Kesil'' by Bayer.<ref name="allen"/>
+
+===European significance===
+
+In [[stellar navigation]], Rigel is one of the most important [[nautical almanac|navigation stars]], since it is bright, easily located and equatorial, which means it is visible all around the world's oceans.
+
+===Africa===
+In ancient Egypt Rigel's name was <hiero>S29-Aa17-V28-D61-N14:N35</hiero>Seba-en-Sah ''{{Unicode|Sb3-n-S3ḥ}}'', which means ''toe star'' or ''foot star''.
+
+===East and South Asia===
+It is known as {{lang|zh|参宿七}} (''{{lang|zh-Latn|Shēnxiù Qī}}'', "The Seventh of the Three Stars") in Chinese. The name is because the [[Orion's Belt|Asterism of Three Stars]] was originally composed of just three stars, all of them in the girdle of the Orion. Later, four more stars were added to this asterism, but the name remained unchanged.
+
+In Japan, the Minamoto or [[Genji clan]] had chosen Rigel and its white color as its symbol,  calling the star ''Genji-boshi'' ({{lang|ja|源氏星}}), while the Taira or [[Heike clan]] adopted Betelgeuse and its red color. The two powerful families fought a legendary war in [[Japanese history]], the stars seen as facing each other off and only kept apart by the Belt.<ref name="RENSHAW1">{{cite web
+ |title=Yowatashi Boshi; Stars that Pass in the Night
+ |author=Steve Renshaw and Saori Ihara
+ |publisher=Griffith Observer
+ |url=http://www2.gol.com/users/stever/orion.htm
+ |date=October 1999
+ |accessdate=25 June 2012}}</ref><ref>"[[Daijirin]]" p. 815 ISBN 978-4-385-13902-9</ref><ref>[[Hōei Nojiri]] "Shin seiza jyunrei" p. 19 ISBN 978-4-12-204128-8</ref> Rigel was also known as ''Gin-waki'', ({{lang|ja|銀脇}}), "the Silver (Star) beside ([[Orion's Belt|''Mitsu-boshi'']])."
+
+Among the Hindus, it is known as Mrugasiirsha - Deer's Head.
+
+===Oceania===
+Rigel was known as ''Yerrerdet-kurrk'' to the Wotjobaluk [[koori]] of southeastern Australia, and held to be the mother-in-law of ''Totyerguil'' ([[Altair]]). The distance between them signified the taboo preventing a man from approaching his mother-in-law.<ref>{{cite book|last=Mudrooroo|title=Aboriginal mythology : an A-Z spanning the history of aboriginal mythology from the earliest legends to the present day|publisher=HarperCollins|location=London|year=1994|page=142|isbn=978-1-85538-306-7}}</ref>
+
+The [[Wardaman people]] of northern Australia know Rigel as the Red Kangaroo Leader ''Unumburrgu'' and chief conductor of ceremonies in a songline when Orion is high in the sky. The river Eridanus marks a line of stars in the sky leading to it, and the other stars of Orion are his ceremonial tools and entourage. Betelgeuse is ''Ya-jungin'' "Owl Eyes Flicking", watching the ceremonies.<ref>{{cite book  | last1 = Harney  | first1 = Bill Yidumduma 
+  | last2 = Cairns  | first2 = Hugh C.  | title = Dark Sparklers  | publisher = Hugh C. Cairns  | location = Merimbula, New South Wales
+|pages=139–40  | year = 2004  | origyear = 2003  | edition = Revised  | isbn = 0-9750908-0-1}}</ref>
+
+The [[Māori people|Māori]] people named Rigel as [[Puanga|''Puanga'']] and was said to be a daughter of ''Rehua'' ([[Antares]]), the chief of all stars.<ref>p. 419, [http://books.google.com/books?id=p7dR2w1Wv2sC ''Mythology: Myths, Legends and Fantasies''], Janet Parker, Alice Mills, Julie Stanton, Durban, Struik Publishers, 2007.</ref> Its heliacal rising also presaged the appearance of ''[[Matariki]]'' (the [[Pleiades]]) in the dawn sky which marked the Māori New Year in late May or early June. The [[Moriori people]] of Chatham Island, as well as some Maori groups in New Zealand marked the start of their New Year with Rigel rather than the Pleiades.<ref name="kelley">{{cite book|last=Kelley, David H.; Milone, Eugene F. |title=Exploring Ancient Skies: A Survey of Ancient and Cultural Astronomy|publisher=Springer|year=2011|pages=341|isbn=144197623X|url=http://books.google.com.au/books?id=ILBuYcGASxcC&pg=PA341&lpg=PA341&dq=Puanga+Rigel&source=bl&ots=wAmmpkg9P6&sig=azQtd1HVUSU_AbAHlhhRdRx1FSE&hl=en&sa=X&ei=CoN8UKz9FOyOiAexvIFA&ved=0CE4Q6AEwCTge#v=onepage&q=Puanga%20Rigel&f=false}}</ref> ''Puaka'' was a local variant used on the South Island.<ref name="Best22">{{cite book|last=Best|first=Elsdon|title=Astronomical Knowledge of the Maori: Genuine and Empirical|publisher=Dominion Museum|location=Wellington, New Zealand|year=1922|pages=39–40|url=http://nzetc.victoria.ac.nz/tm/scholarly/tei-BesAstro-t1-body-d1-d6-d4.html}}</ref>
+
+The indigenous Boorong people of northwestern Victoria named Rigel as ''Collowgullouric Warepil''.<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref>
+
+===Central America===
+The [[Lacandon people]] knew it as ''tunsel'' "little woodpecker".<ref>{{cite book|last=Milbrath|first=Susan |title=Star Gods of the Maya: Astronomy in Art, Folklore, and Calendars|publisher=University of Texas Press|location=Austin, Texas|year=1999|page=39|isbn=0292752261|url=http://books.google.com.au/books?id=DgqLplWtGPgC&pg=PA39&dq=betelgeuse+folklore&hl=en&sa=X&ei=GiDYT47AGMSYiAfZv5ylAw&ved=0CDgQ6AEwAA#v=onepage&q=betelgeuse%20folklore&f=false}}</ref>
+
+== See also ==
+* [[List of brightest stars]]
+* [[List of largest known stars]]
+* [[List of most luminous stars]]
+* [[List of most massive stars]]
+* [[Rigel in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=apj573_1_359>{{citation | last1=Abt | first1=Helmut A. | last2=Levato | first2=Hugo | last3=Grosso | first3=Monica | title=Rotational Velocities of B Stars | journal=The Astrophysical Journal | volume=573 | issue=1 | pages=359–365 | month=July | year=2002 | doi=10.1086/340590 | bibcode=2002ApJ...573..359A }}</ref>
+
+<ref name=aass34_1>{{cite journal | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first4=M. F. | last5=Torres | first5=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=aaa445_3_1099>{{cite journal | display-authors=1 | last1=Przybilla | first1=N. | last2=Butler | first2=K. | last3=Becker | first3=S. R. | last4=Kudritzki | first4=R. P. | title=Quantitative spectroscopy of BA-type supergiants | journal=Astronomy and Astrophysics | volume=445 | issue=3 | pages=1099–1126 | month=January | year=2006 | doi=10.1051/0004-6361:20053832 | bibcode=2006A&A...445.1099P |arxiv = astro-ph/0509669 }}</ref>
+
+<!--
+<ref name=jaavso36_1_127>{{citation | last1=Bradley | first1=A. J. | last2=Stencel | first2=R. E. | title=Adventures in J- and H-Band Photometry of Evolved Stars | journal=The Journal of the American Association of Variable Star Observers | volume=36 | issue=1 | page=127 | month=June | year=2008 | bibcode=2008JAVSO..36..127B | postscript=. }}</ref>
+-->
+
+<ref name="simbad">{{cite web | title=SIMBAD Astronomical Database | work=Results for Rigel | url=http://simbad.u-strasbg.fr/Simbad | accessdate=2008-04-10 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=apj2012_747_108>{{citation | last1=Moravveji | first1=Ehsan | last2=Guinan | first2=Edward F. | last3=Shultz | first3=Matt | last4=Williamson | first4=Michael H. |  last5=Moya | first5=Andres | title=Asteroseismology of the nearby SN-II Progenitor: Rigel. Part I. The ''MOST'' High-precision Photometry and Radial Velocity Monitoring
+ | journal=The Astrophysical Journal | volume=747 | issue=1 | pages=108–115 | month=March | year=2012 | doi=10.1088/0004-637X/747/2/108 | bibcode=2012ApJ...747..108M |arxiv = 1201.0843 }}</ref>
+
+<ref name=apj2012_749_74>{{citation | last1=Moravveji | first1=Ehsan | last2=Moya | first2=Andres | last3=Guinan | first3=Edward F. | title=Asteroseismology of the nearby SN-II Progenitor: Rigel. Part II. ε-mechanism Triggering Gravity-mode Pulsations? | journal=The Astrophysical Journal | volume=749 | issue=1 | pages=74–84 | month=April | year=2012 | doi=10.1088/0004-637X/749/1/74 | bibcode=2012ApJ...749..74M }}</ref>
+
+<ref name=auf>{{citation | last1=Aufdenberg | first1=J. P. et al. | title=Limb Darkening: Getting Warmer | journal=The Power of Optical/IR Interferometry | volume=1 | issue=1 | pages=71–82 | year=2008 | doi=10.1007/978-3-540-74256-2_8 | bibcode=2008poii.conf...71A }}</ref>
+
+}}
+
+== External links ==
+* {{cite web | url=http://www.astro.uiuc.edu/~kaler/sow/rigel.html | title=Rigel | accessdate=2007-02-04 | last=Kaler | first=James | work=Stars |publisher=University of Illinois }}
+* [http://antwrp.gsfc.nasa.gov/apod/ap091229.html Image of Rigel] from [[Astronomy Picture of the Day|APOD]]
+
+{{Stars of Orion}}
+{{Sky|05|14|32.272|-|08|12|05.91|800}}
+
+[[Category:Bayer objects|Orionis, Beta]]
+[[Category:B-type supergiants]]
+[[Category:B-type main sequence stars]]
+[[Category:Triple star systems]]
+[[Category:Orion (constellation)]]
+[[Category:Variable stars]]
+[[Category:Stars with proper names]]
+
+[[ar:رجل الجبار]]
+[[bn:বাণরাজা]]
+[[be:Рыгель]]
+[[bg:Ригел]]
+[[bs:Rigel]]
+[[ca:Rigel]]
+[[cs:Rigel]]
+[[da:Rigel]]
+[[de:Rigel]]
+[[el:Ρίγκελ]]
+[[es:Rigel]]
+[[eo:Riĝelo]]
+[[eu:Rigel]]
+[[fa:پای شکارچی]]
+[[fr:Rigel]]
+[[gl:Beta Orionis]]
+[[ko:리겔]]
+[[hi:राजन्य तारा]]
+[[hr:Rigel]]
+[[io:Rigel]]
+[[id:Rigel]]
+[[it:Rigel]]
+[[he:ריג'ל]]
+[[jv:Rigel]]
+[[ku:Ricel]]
+[[la:Beta Orionis]]
+[[lb:Rigel (Stär)]]
+[[lt:Rigelis]]
+[[li:Rigel]]
+[[hu:Rigel]]
+[[mk:Ригел]]
+[[mr:राजन्य]]
+[[mdf:Ведень кандома тяште]]
+[[nl:Rigel (ster)]]
+[[ja:リゲル]]
+[[no:Rigel]]
+[[pnb:رجل]]
+[[pl:Rigel]]
+[[pt:Rígel]]
+[[ro:Rigel]]
+[[ru:Ригель (звезда)]]
+[[simple:Rigel]]
+[[sk:Rigel]]
+[[sr:Ригел]]
+[[fi:Rigel]]
+[[sv:Rigel]]
+[[tt:Риҗел]]
+[[th:ดาวไรเจล]]
+[[tr:Rigel (yıldız)]]
+[[uk:Рігель]]
+[[vi:Rigel]]
+[[zh:參宿七]]

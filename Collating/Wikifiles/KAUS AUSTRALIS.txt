@@ -1,0 +1,159 @@
+{{Starbox begin 
+| name = Epsilon Sagittarii 
+}}
+{{Starbox image
+ | image=<div style="position: relative">[[File:sagittarius constellation map.svg|250px|Location of Epsilon Sagittarii]]
+     <div style="position: absolute; left: 51.3%; top: 73.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Epsilon Sagittarii (circled) in the constellation Sagittarius.
+}}
+{{Starbox observe
+ | epoch    = J2000 
+ | constell = [[Sagittarius (constellation)|Sagittarius]] 
+ | ra       = {{RA|18|24|10.31840}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–34|23|04.6193}}<ref name=aaa474_2_653/>
+ | appmag_v = +1.85<ref name=clpl4/>
+}}
+{{Starbox character
+ | class    = B9.5&nbsp;III<ref name=houk1979/>
+ | b-v      = –0.03<ref name=clpl4/>
+ | u-b      = +0.13<ref name=clpl4/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = –15<ref name=rgcrv/>
+ | prop_mo_ra  = –39.42<ref name=aaa474_2_653/>
+ | prop_mo_dec = –124.20<ref name=aaa474_2_653/>
+ | parallax = 22.76
+ | p_error  = 0.24
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –1.41<ref name=aaa372/>
+}}
+{{Starbox detail
+ | component1 = ε Sgr A
+ | mass     = {{nowrap|3.515 ± 0.138}}<ref name=aaa372/>
+ | radius   = 6.8<ref name=lang2006/>
+ | gravity  = 4.50<ref name=adelman2004/>
+ | metal_fe = 
+ | age_myr  = 232<ref name=aaa372/>
+ | luminosity  = 363<ref name=aaa372/>
+ | temperature = 9,960<ref name=aaa501_1_297/>
+ | rotational_velocity = 236<ref name=aaa393_897/>
+ | component2 = ε Sgr B
+ | mass2    = 0.95<ref name=aaa372/>
+ | luminosity2 = 0.89<ref name=aaa372/>
+ | temperature2 = 5,807<ref name=aaa372/>
+}}
+{{Starbox catalog
+ | names=Kaus Australis, ε&nbsp;Sagittarii, ε&nbsp;Sgr, Epsilon&nbsp;Sgr, 20&nbsp;Sagittarii, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J18242-3423A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;689, [[Boss General Catalogue|GC]]&nbsp;25100, [[Henry Draper catalogue|HD]] 169022, [[Hipparcos catalogue|HIP]] 90185, [[Bright Star Catalogue|HR]]&nbsp;6879, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;18175-3427 A, [[PPM Star Catalogue|PPM]]&nbsp;297655, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;210091, [[Washington Double Star Catalog|WDS]]&nbsp;J18242-3423A.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Epsilon Sagittarii''' ('''Epsilon&nbsp;Sgr''', '''ε&nbsp;Sagittarii''', '''ε&nbsp;Sgr''') is a [[binary star]] system in the southern [[zodiac]] [[constellation]] [[Sagittarius (constellation)|Sagittarius]]. Its traditional name is '''Kaus Australis'''. The [[apparent visual magnitude]] of +1.85<ref name=clpl4/> makes it the [[List of stars in Sagittarius|brightest star]] in the constellation. Based upon [[parallax]] measurements, the distance to this star is around {{Convert|143|ly|pc|abbr=off|lk=on}}.
+
+==Properties==
+The primary component of this binary star system has a [[stellar classification]] of B9.5&nbsp;III,<ref name=houk1979/> with the [[luminosity class]] of III suggesting this is an [[stellar evolution|evolved]] [[giant star]] that has exhausted the supply of hydrogen at its core. The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|1.44 ± 0.06 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 6.8 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> This is a close match to the empirically-determined value of 6.9 solar radii.<ref name=aa50_369/> It has about 3.5 times the mass of the Sun and is radiating around 363 times the Sun's luminosity from its outer atmosphere at an [[effective temperature]] of 9,960&nbsp;K.<ref name=aaa372/> At this heat, the star glows with a blue-white hue.<ref name=csiro/>
+
+This star is spinning rapidly with a [[projected rotational velocity]] of 236&nbsp;km s<sup>−1</sup>.<ref name=aaa393_897/> It has a magnetic field with a strength in the range 10.5–130.5&nbsp;[[Gauss (unit)|G]]<ref name=aaa407_631/> and it is an [[X-ray astronomy|X-ray source]] with a luminosity of about 10<sup>30</sup> erg s<sup>−1</sup>.<ref name=aaa372/> The system displays an [[infrared excess|excess emission of infrared radiation]], which suggests the presence of a circumstellar disk of dust. Based upon the temperature of this disk, it is orbiting at a mean separation of 155&nbsp;[[Astronomical Unit|AU]] from the primary.<ref name=apj745_2_147/>
+
+As of 2001, the secondary companion is located at an [[angular separation]] of 2.392&nbsp;[[arcsecond]]s from the primary along a [[position angle]] of 142.3°. At the distance of this system, this angle is equivalent to a physical separation of about 106&nbsp;AU, which places it inside the debris disk. It is a [[main sequence]] star with about 95% of the mass of the Sun. Prior to its 1993 identification using an [[adaptive optics]] [[coronagraph]], this companion may have been responsible for the spectral anomalies that were attributed to the primary star.<ref name=aj105_3_1108/> There is a candidate stellar companion at an angular separation of 32.3&nbsp;arcseconds.<ref name=aaa372/>
+
+==Name and etymology==
+*The traditional name of this star is '''Kaus Australis''', from [[Arabic language|Arabic]] قوس ''qaws'' 'bow' and [[Latin]] ''austrālis'' 'southern'.
+*This star, together with :
+**[[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Lambda Sagittarii|λ Sgr]], [[Sigma Sagittarii|σ Sgr]], [[Tau Sagittarii|τ Sgr]] and [[Phi Sagittarii|φ Sgr]], consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+**[[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]] and [[Eta Sagittarii|η Sgr]] were ''Al Naʽām al Wārid'' (النعم الوارد), the Going Ostriches.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+**[[Gamma Sagittarii|γ Sgr]] and [[Delta Sagittarii|δ Sgr]] were Akkadian ''Sin-nun‑tu'', or ''Si-nu-nu‑tum'', the Swallow.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|箕}} ({{lang|zh-Latn|Jī}}), meaning ''[[Winnowing Basket (Chinese constellation)|Winnowing Basket]]'', refers to an asterism consisting of ε Sagittarii, [[Gamma Sagittarii|γ Sagittarii]], [[Delta Sagittarii|δ Sagittarii]] and [[Eta Sagittarii|η Sagittarii]]. Consequently, ε Sagittarii itself is known as {{lang|zh|箕宿三}} ({{lang|zh-Latn|Jī Sù sān}}, {{lang-en|the Third Star of Winnowing Basket}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+*Kaus Australis is listed in [[MUL.APIN]] as MA.GUR<sub>8</sub>, meaning "the Bark".<ref name=jbaa108_1_9/>
+
+==References==
+{{reflist|colwidth=25em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | last2=Smith-Moore | first2=M. | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982mcts.book.....H }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E | volume=30 | page=57 }}</ref>
+
+<ref name=aaa393_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | pages=897–911 | month=October | year=2002 | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R | issue=3 |arxiv = astro-ph/0205255 }}</ref>
+
+<ref name=clpl4>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Mitchell | first2=R. I. | last3=Iriarte | first3=B. | last4=Wisniewski | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | year=1966 | bibcode=1966CoLPL...4...99J | pages=99–100 }}</ref>
+
+<ref name=apj745_2_147>{{citation | last1=Rodriguez | first1=David R. | last2=Zuckerman | first2=B. | title=Binaries among Debris Disk Stars | journal=The Astrophysical Journal | volume=745 | issue=2 | page=147 | month=February | year=2012 | doi=10.1088/0004-637X/745/2/147 | bibcode=2012ApJ...745..147R |arxiv = 1111.5618 }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first5=M. F. | last6=Torres | first6=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=adelman2004>{{citation | last1=Adelman | first1=Saul J. | contribution=The physical properties of normal A stars | title=The A-Star Puzzle, held in Poprad, Slovakia, July 8-13, 2004 | editor1-first=J. | editor1-last=Zverko | editor2-first=J. | editor2-last=Ziznovsky | editor3-first=S. J. | editor3-last=Adelman | editor4-first=W. W. | editor4-last=Weiss | work=IAU Symposium | issue=224 | publication-place=Cambridge, UK | publisher=Cambridge University Press | pages=1–11 | month=December | year=2004 | doi=10.1017/S1743921304004314 | bibcode=2004IAUS..224....1A }}</ref>
+
+<ref name=aaa372>{{citation | display-authors= | last1=Hubrig | first1=S. | last2=Le Mignant | first2=D. | last3=North | first3=P. | last4=Krautter | first4=J. | title=Search for low-mass PMS companions around X-ray selected late B stars | journal=Astronomy and Astrophysics | volume=372 | pages=152−164 | year=2001 | month=June | doi=10.1051/0004-6361:20010452 | bibcode=2001A&A...372..152H | arxiv=astro-ph/0103201 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=jbaa108_1_9>{{Citation | last=Rogers | first=J. H. | title=Origins of the ancient constellations: I. The Mesopotamian traditions | journal=Journal of the British Astronomical Association | volume=108 | issue=1 | pages=9–28 | month=February | year=1998 | bibcode=1998JBAA..108....9R }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | first1=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | pages=773–777 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot 43.9\cdot 1.44)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 13.6\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=aaa407_631>{{citation | last1=Bychkov | first1=V. D. | last2=Bychkova | first2=L. V. | last3=Madej | first3=J. | title=Catalogue of averaged stellar effective magnetic fields. I. Chemically peculiar A and B type stars | journal=Astronomy and Astrophysics | volume=407 | pages=631–642 | month=August | year=2003 | doi=10.1051/0004-6361:20030741 | bibcode=2003A&A...407..631B |arxiv = astro-ph/0307356 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=KAUS AUSTRALIS -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Epsilon+Sagittarii | accessdate=2012-02-22 }}</ref>
+
+<ref name=aj105_3_1108>{{citation | last1=Golimowski | first1=David A. | last2=Durrance | first2=Samuel T. | last3=Clampin | first3=Mark | title=Detection of an apparent star 2.1 arcsec from the circumstellar disk candidate Epsilon Sagittarii | journal=Astronomical Journal | volume=105 | issue=3 | pages=1108–1113 | month=March | year=1993 | doi=10.1086/116498 | bibcode=1993AJ....105.1108G }}</ref>
+
+<ref name=aa50_369>{{citation | last1=Jerzykiewicz | first1=M. | last2=Molenda-Zakowicz | first2=J. | title=Empirical Luminosities and Radii of Early-Type Stars after Hipparcos | journal=Acta Astronomica | volume=50 | pages=369–380 | month=September | year=2000 | bibcode=2000AcA....50..369J }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/kausaus.html Kaus Australis]
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Epsilon]]
+[[Category:B-type giants]]
+[[Category:Binary stars]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Circumstellar disks]]
+
+[[ar:القوس الجنوبي]]
+[[ca:Kaus Australis]]
+[[de:Kaus Australis]]
+[[es:Kaus Australis]]
+[[eu:Kaus Australis]]
+[[fa:قوس جنوبی]]
+[[fr:Epsilon Sagittarii]]
+[[ko:카우스 오스트랄리스]]
+[[hi:ऍप्सिलन सैजिटेरियाइ तारा]]
+[[id:Epsilon Sagittarii]]
+[[it:Epsilon Sagittarii]]
+[[he:קאוס אוסטרליס]]
+[[la:Epsilon Sagittarii]]
+[[lb:Kaus Australis (Stär)]]
+[[nl:Kaus Australis]]
+[[ja:カウス・アウストラリス]]
+[[pl:Kaus Australis]]
+[[pt:Epsilon Sagittarii]]
+[[ru:Каус Аустралис]]
+[[sk:Kaus Australis]]
+[[fi:Epsilon Sagittarii]]
+[[zh:箕宿三]]

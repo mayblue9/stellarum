@@ -1,0 +1,90 @@
+{{Starbox begin
+| name=Alpha Corvi
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|12|08|24.8}}
+| dec={{DEC|-24|43|44}}
+| appmag_v=4.00
+| constell=[[Corvus (constellation)|Corvus]]
+}}
+{{Starbox character
+| class=F2&nbsp;IV<ref name=aaa343_222/>
+| b-v=0.33
+| u-b=-0.02
+| variable=
+}}
+{{Starbox astrometry
+| radial_v=+4.4
+| prop_mo_ra=100.18
+| prop_mo_dec=-39.33
+| parallax=67.71
+| p_error=0.75
+| absmag_v=3.25<ref name=aaa343_222/>
+}}
+{{Starbox detail
+| mass=1.2
+| radius=
+| luminosity=
+| temperature=7,000
+| metal=~25%
+| rotational_velocity=16
+| age_gyr=
+}}
+{{Starbox catalog
+| names=Alchiba, Al Minliar al Ghurab, Al Chiba, 1 Crv, [[Cordoba Durchmusterung|CD]] -24° 10174, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 2796.00, [[Gliese-Jahreiss catalogue|GJ]] 455.3, [[Henry Draper catalogue|HD]] 105452, [[Hipparcos catalogue|HIP]] 59199, [[Harvard Revised catalogue|HR]] 4623, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 180505.
+}}
+{{Starbox end}}
+'''Alpha Corvi''' (α Crv, α Corvi) is a [[star]] in the [[constellation]] [[Corvus (constellation)|Corvus]].  It has the traditional names '''Alchiba''' ([[Arabic language|Arabic]] '''ألخبا''' ''al hibaa'' "tent") or Al Minliar al Ghurab  . 
+
+''Al Minliar al Ghurab'' ([[Arabic language|Arabic]] '''ألمنخر ألغرب''' ''almanxar al ghuurab'') or '''Minkar al Ghyrab''' appeared in the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], which was translated into [[Latin]] as '''Rostrum Corvi''' [beak of the crow].<ref name=mnras55_429/>
+
+In [[Chinese astronomy]], Alchiba is called 右轄, [[Pinyin]]: Yòuxiá, meaning ''	Right Linchpin'', because this star is marking itself and stand alone in ''Right Linchpin'' asterism, [[Chariot (Chinese constellation)|Chariot]] mansion (see : [[Chinese constellation]]).<ref name=sb0>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060722.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 22 日]</ref> 右轄 (Yòuxiá), westernized into '''Yew Hea''' by R.H. Allen.<ref name=allen/>
+
+Alchiba belongs to the [[Stellar classification|spectral class]] F0 and has [[apparent magnitude]] +4.00. It is 48 [[light year]]s from Earth. This star is suspected of being a [[spectroscopic binary]], although this has not yet been confirmed.
+
+==In culture==
+
+{{USS|Alchiba|AKA-6}} is once of United States navy ship
+
+==See also==
+*[[List of nearest bright stars]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa343_222>{{citation | last1=Elgarøy | first1=Øystein | last2=Engvold | first2=Oddbjørn | last3=Lund | first3=Niels | title=The Wilson-Bappu effect of the MgII K line - dependence on stellar temperature, activity and metallicity | journal=Astronomy and Astrophysics | volume=343 | pages=222–228 | month=March | year=1999 | bibcode=1999A&A...343..222E }}</ref>
+
+<ref name=mnras55_429>{{citation | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=allen>{{citation | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Corvus*.html| first1=Richard Hinckley | last1=Allen | title=Star Names — Their Lore and Meaning: Corvus }}</ref>
+
+}}
+
+==External links==
+* [http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=*+ALF+CRV SIMBAD Query Result]
+* [http://www.astro.uiuc.edu/~kaler/sow/alchiba.html Alpha Corvi] by Professor Jim Kaler.
+* [http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00939.htm ARICNS]
+* [http://nstars.arc.nasa.gov/searches/starinfo.cfm?partb=1208m2443&starpage=0 nStars database entry]
+
+{{Nearest bright star systems|5.}}
+{{Stars of Corvus}}
+
+[[Category:Corvus (constellation)]]
+[[Category:Bayer objects|Corvi, Alpha]]
+[[Category:Stars with proper names]]
+
+[[ar:الخباء (نجم)]]
+[[de:Alchiba]]
+[[es:Alchiba]]
+[[fa:خباء]]
+[[fr:Alpha Corvi]]
+[[ko:까마귀자리 알파]]
+[[id:Alpha Corvi]]
+[[it:Alchiba]]
+[[nl:Alchiba]]
+[[ja:からす座アルファ星]]
+[[pl:Al Chiba]]
+[[pt:Alpha Corvi]]
+[[sk:Alfa Corvi]]
+[[zh:右辖]]

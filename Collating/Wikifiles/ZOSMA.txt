@@ -1,0 +1,119 @@
+{{Starbox begin
+| name= Delta Leonis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Leo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Leo constellation and its surroundings]]
+     <div style="position: absolute; left: 83px; top: 90px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Leonis (circled)
+}}
+{{Starbox observe 
+| epoch    = J2000 
+| ra       = {{RA|11|14|06.50142}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|20|31|25.3853}}<ref name=aaa474_2_653/>
+| appmag_v = 2.56<ref name=scfs/>
+| constell = [[Leo (constellation)|Leo]]
+}}
+{{Starbox character 
+| class    = A4&nbsp;V<ref name=aj74_375/>
+| b-v      = +0.12<ref name=clpl4_99/>
+| u-b      = +0.12<ref name=clpl4_99/>
+| variable = [[Delta Scuti variables|Delta Scuti]]
+}}
+{{Starbox astrometry 
+| radial_v = -20.2<ref name=scfs/> 
+| prop_mo_ra  = +143.42<ref name=aaa474_2_653/> 
+| prop_mo_dec = -129.88<ref name=aaa474_2_653/> 
+| parallax = 55.82
+| p_error  = 0.25
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail 
+| mass     = 2.2<ref name="kaler"/>
+| radius   = {{nowrap|2.14 ± 0.040}}<ref name=apj691_2_1896/>
+| luminosity  = {{nowrap|15.5 ± 1.8}}<ref name=apj691_2_1896/>
+| temperature = 8,296<ref name=apj691_2_1896/>
+| metal_fe = 
+| gravity  = 3.91<ref name=aass85_3_1015/>
+| rotational_velocity = 180<ref name=aaa393_3_897/>
+| age_gyr  = 0.60-0.75<ref name="kaler" />
+}}
+{{Starbox catalog
+| names = Zosma, Zozma, Zosca, Duhr, Zubra,<ref name=allen1899/> [[Bayer designation|δ Leo]], [[Flamsteed designation|68&nbsp;Leo]], [[Bonner Durchmusterung|BD]] +21°2298, [[Catalogues of Fundamental Stars|FK5]]&nbsp;422, [[Boss General Catalogue|GC]]&nbsp;15438, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 2614.00, [[Henry L. Giclas catalogue|Gl]] 419, [[Henry Draper catalogue|HD]] 97603, [[Hipparcos catalogue|HIP]] 54872, [[Harvard Revised catalogue|HR]] 4357, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 81727.<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=HD+97603
+}}
+{{Starbox end}}
+
+'''Delta Leonis''' (δ Leo, δ Leonis) is a [[star]] in the [[zodiac]] [[constellation]] of [[Leo (constellation)|Leo]]. It has the traditional names '''Zosma''' (or '''Zozma''') and '''Duhr'''. Rare spellings include ''Zozca, Zosca, Zubra,'' and ''Dhur''.  The name Zosma means girdle in [[ancient Greek]], referring to the star's location in its constellation, on the hip of the [[lion]].<ref name=allen1899/> Based upon [[parallax]] measurements, it lies at a distance of about {{Convert|58.4|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/>
+
+== Properties ==
+Zosma is a relatively ordinary [[main sequence]] star with a [[stellar classification]] of A4&nbsp;V,<ref name=aj74_375/> making it is somewhat larger and hotter than the [[Sun]]. It is a fairly well-studied star, allowing relatively accurate measurements of its age and size. The radius of the star, as measured directly using an [[interferometer]], is about 214% of the [[solar radius|Sun's radius]] and it is emitting more than 15 times as much luminosity as the Sun. The energy is being emitted from the outer envelope with an [[effective temperature]] 8,296&nbsp;K,<ref name=apj691_2_1896/> giving it the white hue characteristic of an [[A-type star]]. Having a larger mass than the Sun it will have a shorter lifespan, and in another 600 million years or so will swell into an orange or [[red giant]] star before decaying quietly into a [[white dwarf]].<ref name="kaler"/>
+
+This star is rotating rapidly, with a [[stellar rotation|projected rotational velocity]] of 180 km s<sup>–1</sup>. The inclination of the axis of rotation to the line of sight from the [[Earth]] is estimated at 38.1°, which would mean the [[azimuth]]al velocity along the equator is about 280 180 km s<sup>–1</sup>. This rotation is producing an equatorial bulge, giving the star a pronounced [[oblate spheroid]]al shape. The polar radius is about 84% of the radius along the equator.<ref name=aaa393_3_897/>
+
+Based upon the location and trajectory of this star through space, it may be a member of the [[Ursa Major Moving Group]], a type of [[stellar kinematics]] group that share a common origin and motion through space.<ref name=aj140_3_713/> The age of this group is about 500 million years.<ref name=aj125_4_1980/>
+
+== See also ==
+* [[List of stars in Leo]]
+* [[Stellar classification#Class A|Class A Stars]]
+* [[Variable star#Delta Scuti variables|Delta Scuti Variable Stars]]
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=delta+leo | title=del Leo -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-05-12 }}</ref>
+
+<ref name=aaa393_3_897>{{citation | display-authors=1 | last1=Royer | first1=F. | last2=Grenier | first2=S. | last3=Baylac | first3=M.-O. | last4=Gómez | first4=A. E. | last5=Zorec | first5=J. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere | journal=Astronomy and Astrophysics | year=2002 | volume=393 | issue=3 | pages=897–911 | bibcode=2002A&A...393..897R | doi=10.1051/0004-6361:20020943 | arxiv=astro-ph/0205255 }}</ref>
+
+<ref name=aj140_3_713>{{citation | last1=Nakajima | first1=Tadashi | last2=Morino | first2=Jun-Ichi | last3=Fukagawa | first3=Misato | title=Potential Members of Stellar Kinematical Groups within 20 pc of the Sun | journal=The Astronomical Journal | volume=140 | issue=3 | pages=713–722 | month=September | year=2010 | doi=10.1088/0004-6256/140/3/713	 | bibcode=2010AJ....140..713N }}</ref>
+
+<ref name=apj691_2_1896>{{citation | display-authors=1 | last1=Akeson | first1=R. L. | last2=Ciardi | first2=D. R. | last3=Millan-Gabet | first3=R. | last4=Merand | first4=A. | last5=Folco | first5=E. Di | last6=Monnier | first6=J. D. | last7=Beichman | first7=C. A. | last8=Absil | first8=O. | last9=Aufdenberg | first9=J. | title=Dust in the inner regions of debris disks around a stars | journal=The Astrophysical Journal | volume=691 | issue=2 | pages=1896–1908 | month=February | year=2009 | doi=10.1088/0004-637X/691/2/1896 | bibcode=2009ApJ...691.1896A |arxiv = 0810.3701 }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=aj125_4_1980>{{citation | display-authors=1 | last1=King | first1=Jeremy R. | last2=Villarreal | first2=Adam R. | last3=Soderblom | first3=David R. | last4=Gulliver | first4=Austin F. | last5=Adelman | first5=Saul J. | title=Stellar Kinematic Groups. II. A Reexamination of the Membership, Activity, and Age of the Ursa Major Group | journal=The Astronomical Journal | volume=125 | issue=4 | pages=1980–2017 | month=April | year=2003 | doi=10.1086/368241 | bibcode=2003AJ....125.1980K }}</ref>
+
+<ref name="kaler">{{citation | title=ZOSMA (Delta Leonis) | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/zosma.htmll | accessdate=2010-05-12 }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=260 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA260 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+}}
+
+{{Stars of Leo}}
+
+[[Category:Bayer objects|Leonis, Delta]]
+[[Category:Leo (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:ظهر الأسد]]
+[[ca:Zosma]]
+[[de:Delta Leonis]]
+[[es:Duhr]]
+[[fa:ظهرالاسد]]
+[[fr:Delta Leonis]]
+[[ko:조스마]]
+[[id:Delta Leonis]]
+[[it:Delta Leonis]]
+[[lb:Zosma (Stär)]]
+[[hu:Delta Leonis]]
+[[nl:Zosma]]
+[[ja:しし座デルタ星]]
+[[pl:Zosma]]
+[[pt:Delta Leonis]]
+[[ru:Дельта Льва]]
+[[sk:Zosma]]
+[[fi:Delta Leonis]]
+[[zh:西上相]]

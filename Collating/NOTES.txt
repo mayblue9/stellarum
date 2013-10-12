@@ -1,0 +1,24 @@
+
+- Make sure that great circle paths between stars are not going the
+  long way round.
+
+- fadein with opacity for stars appearing 
+
+- on text completion - add a highlight border to all matching stars
+
+
+quick rotations:
+
+(1) store unit vectors x, y, z for all stars
+
+(2) when rendering: (a) generate a rotation matrix
+                    (b) apply the matrix to each (x, y, z) and render
+
+Because I'm using isometric rendering, simplify (b) as much as
+possible.
+
+
+* the geo interpolator expects degrees, not radians.  Fixed the "long
+  way round" problem but there are some weird effects when a great
+  circle passes near a celestial pole. May have to use quaternions
+  after all.

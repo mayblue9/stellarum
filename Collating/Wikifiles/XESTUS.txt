@@ -1,0 +1,72 @@
+{{distinguish|Omicron Velorum Cluster}}
+{{Starbox begin
+| name = Omicron Velorum
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| constell = [[Vela (constellation)|Vela]]
+| ra       = {{RA|08|40|17.58553}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–52|55|18.8002}}<ref name=aaa474_2_653/>
+| appmag_v = +3.60<ref name=clpl4/>
+}}
+{{Starbox character
+| class    = B3&nbsp;IV<ref name=an330_4_317/>
+| b-v      = –0.18<ref name=clpl4/>
+| u-b      = –0.62<ref name=clpl4/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 
+| prop_mo_ra  = –24.42<ref name=aaa474_2_653/>
+| prop_mo_dec = +34.44<ref name=aaa474_2_653/>
+| absmag_v = 
+| parallax = 6.61
+| p_error  = 0.35
+| parallax_footnote = <ref name=aaa474_2_653/>
+}}
+{{Starbox detail
+| mass     = {{nowrap|5.5 ± 0.4}}<ref name=an330_4_317/>
+| gravity  = {{nowrap|3.91 ± 0.20}}<ref name=an330_4_317/>
+| rotational_velocity = {{nowrap|9 ± 5}}<ref name=an330_4_317/>
+| radius   = {{nowrap|4.3 ± 0.7}}<ref name=an330_4_317/>
+| luminosity = 1,000<ref name=an330_4_317/>
+| temperature = {{nowrap|16,200 ± 700}}<ref name=an330_4_317/>
+| metal_fe = 
+}}
+{{Starbox catalog
+| names=[[Star catalogue#BD.2FCD.2FCPD|CP]]-52&nbsp;1583, [[FK5]]&nbsp;1227, [[Henry Draper Catalogue|HD]]&nbsp;74195, [[Hipparcos catalogue|HIP]]&nbsp;42536, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;3447, [[Star catalogue#SAO|SAO]]&nbsp;236164.
+}}
+{{Starbox end}}
+'''Omicron Velorum''' (ο Vel, ο Velorum) is a [[star]] in the [[constellation]] [[Vela (constellation)|Vela]].
+
+Omicron Velorum is a blue-white [[stellar classification|B-type]] [[subgiant]] with a mean [[apparent magnitude]] of +3.60.  It is approximately 495 [[light years]] from [[Earth]].  It is a [[variable star]] and its brightness varies from magnitude +3.55 to +3.67 with a period of 2.78 days.{{Citation needed|date=March 2012}}
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=an330_4_317>{{citation | display-authors=1 | last1=Hubrig | first1=S. | last2=Briquet | first2=M. | last3=De Cat | first3=P. | last4=Schoeller | first4=M. | last5=Morel | first5=T. | last6=Ilyin | first6=I. | title=New magnetic field measurements of beta Cephei stars and Slowly Pulsating B stars | journal=Astronomische Nachrichten | volume=330 | issue=4 | page=317  | month=January | year=2009 | bibcode=2009AN....330..317H | arxiv=0902.1314 | doi=10.1002/asna.200811187 }}</ref>
+
+<ref name=clpl4>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+}}
+
+{{Stars of Vela}}
+
+[[Category:Bayer objects|Velorum, Omicron]]
+[[Category:B-type subgiants]]
+[[Category:Henry Draper Catalogue objects|074195]]
+[[Category:Hipparcos objects|042536]]
+[[Category:Pulsating variables]]
+[[Category:Vela (constellation)]]
+
+{{Var-star-stub}}
+
+[[es:Ómicron Velorum]]
+[[fa:امیکرون بادبان]]
+[[fr:Omicron Velorum]]
+[[it:Omicron Velorum]]
+[[pt:Omicron Velorum]]
+[[ru:Омикрон Парусов]]
+[[zh:船帆座o]]

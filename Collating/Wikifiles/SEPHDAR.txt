@@ -1,0 +1,121 @@
+{{Starbox begin
+ | name=Eta Sagittarii
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 63.4%; top: 55.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of η Sagittarii (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|18|17|37.63505}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|&minus;36|45|42.0667}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.11<ref name=aass34_1/>/+7.8
+ | constell = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+ | class    = M2&nbsp;III<ref name=houk1979/> + F7&nbsp;V<ref name=kaler/>
+ | b-v      = +1.56<ref name=aass34_1/>
+ | u-b      = +1.71<ref name=aass34_1/>
+ | variable = [[Irregular variable|Irregular]]<ref name=aaa374_968/>
+}}
+{{Starbox astrometry
+ | radial_v = +0.5<ref name=gcsrv/>
+ | prop_mo_ra  = &minus;129.56<ref name=aaa474_2_653/>
+ | prop_mo_dec = &minus;166.26<ref name=aaa474_2_653/>
+ | parallax = 22.35
+ | p_error  = 0.24
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = &minus;4.90<ref name=aaa374_968/>
+}}
+{{Starbox detail
+ | component1 = η Sgr A
+ | mass     = 
+ | radius   = 57<ref name=lang2006/>
+ | luminosity  = 
+ | temperature = 
+ | metal_fe = 
+ | gravity  = 
+ | rotational_velocity = 
+ | age      = 
+}}
+{{Starbox catalog
+ | names = η&nbsp;Sagittarii, η&nbsp;Sgr, Eta&nbsp;Sgr, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J18176-3646AB, [[Durchmusterung|CPD]]-36&nbsp;8128, [[Fifth Fundamental Catalogue|FK5]]&nbsp;683, [[Boss General Catalogue|GC]]&nbsp;24944, [[Henry Draper Catalogue|HD]]&nbsp;167618, [[Hipparcos|HIP]]&nbsp;89642, [[Bright Star Catalogue|HR]]&nbsp;6832, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;18109-3647 AB, [[PPM Star Catalogue|PPM]]&nbsp;297508, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;209957, [[Washington Double Star Catalog|WDS]]&nbsp;J18176-3646AB.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Eta Sagittarii''' ('''Eta&nbsp;Sgr''', '''η&nbsp;Sagittarii''', '''η&nbsp;Sgr''') is a [[binary star]] system in the southern [[zodiac]] [[constellation]] of [[Sagittarius (constellation)|Sagittarius]]. Based upon [[parallax]] measurements, it is located at a distance of {{Convert|146|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/> It was formerly known as "Beta Telescopii" (&beta;&nbsp;Tel). In India, where part of the constellation of Sagittarius represents an Elephant, this star forms the creature's tail.<ref name=omeara2011/>
+
+The primary component, η Sagittarii A, is a [[red giant]] star with a [[stellar classification]] of M2&nbsp;III.<ref name=houk1979/> It is an [[stellar evolution|evolved]] star that is currently at a stage called the [[asymptotic giant branch]], having exhausted both the hydrogen and the helium at its core.<ref name=aj104_1_275/> This star is classified as an oxygen-rich [[irregular variable]],<ref name=aaa374_968/> as it undergoes small [[Apparent magnitude|magnitude]] fluctuations between +3.08 and 3.12.<ref name=kaler/> The measured [[angular diameter]] of this star is {{nowrap|11.9 ± 2.1 [[milliarcsecond|mas]]}}.<ref name=aaa434_3_1201/> At the estimated distance of Eta Draconis,<ref name=aaa474_2_653/> this yields a physical size of about 57 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/>
+
+The companion, η Sagittarii B, was first noted by American astronomer [[Sherburne Wesley Burnham|S. W. Burnham]] in 1879. The two stars share a common [[proper motion]] and hence are probably gravitationally bound to each other.<ref name=burnham1978/> The secondary is likely an [[F-type main sequence star]] with an [[apparent magnitude]] of +7.77. It located at an [[angular separation]] of 3.6&nbsp;[[arcsecond]]s from the primary, along a [[position angle]] of 108°.<ref name=aas107_235/> This star is at a projected distance of 165 [[Astronomical Unit]]s from the red giant primary and the pair take a minimum of 1,270 years to complete an [[orbit]].<ref name=kaler/>
+
+Within the context of the [[Milky Way]] galaxy, this system is a member of the faint old disk group.<ref name=aaa374_968/> Because of [[proper motion]], this star will move into constellation [[Corona Australis]] around 6300&nbsp;CE.<ref name=moore2011/> Eta Sagittarii has two optical companions that are not physically associated with the system. The first is a 10th magnitude star at an angular separation of 93&nbsp;arcseconds with a position angle of 303°. There is a fainter, 13th magnitude star at an angular separation of 33&nbsp;arcseconds along a position angle of 276°.<ref name=burnham1978/>
+
+==Name and etymology==
+*This star, together with [[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]] and [[Epsilon Sagittarii|ε Sgr]] were ''Al Naʽām al Wārid'' (النعم الوارد), the Going Ostriches.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-9-4 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref> According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Al Naʽām al Wārid'' or '''Namalwarid''' was the title for this star<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+*In [[Chinese language|Chinese]], {{lang|zh|箕}} ({{lang|zh-Latn|Jī}}), meaning ''[[Winnowing Basket (Chinese constellation)|Winnowing Basket]]'', refers to an asterism consisting of η Sagittarii, [[Gamma Sagittarii|γ Sagittarii]], [[Delta Sagittarii|δ Sagittarii]] and [[Epsilon Sagittarii|ε Sagittarii]]. Consequently, η Sagittarii itself is known as {{lang|zh|箕宿四}} ({{lang|zh-Latn|Jī Sù sì}}, {{lang-en|the Fourth Star of Winnowing Basket}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982mcts.book.....H | postscript=. }}</ref>
+
+<ref name=gcsrv>{{citation | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W | postscript=. }}</ref>
+
+<ref name=aass34_1>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&AS...34....1N | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=HD 167618 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=eta+sagittarii | accessdate=2007-03-29 | postscript=. }}</ref>
+
+<ref name=moore2011>{{citation | page=296, | url=http://books.google.com/books?id=2FNfjWKBZx8C | title=Patrick Moore's Data Book of Astronomy | first1=Patrick | last1=Moore | first2=Robin | last2=Rees | publication-place=Cambridge | publisher=Cambridge University Press | year=2011 | postscript=. }}</ref>
+
+<ref name=aaa374_968>{{citation | display-authors=1 | last1=Mennessier | first1=M. O. | last2=Mowlavi | first2=N. | last3=Alvarez | first3=R. | last4=Luri | first4=X. | title=Long period variable stars: galactic populations and infrared luminosity calibrations | journal=Astronomy and Astrophysics | volume=374 | pages=968–979 | month=August | year=2001 | doi=10.1051/0004-6361:20010764 | bibcode=2001A&A...374..968M | arxiv=astro-ph/0105552 | postscript=. }}</ref>
+
+<ref name=aj104_1_275>{{citation | last1=Eggen | first1=Olin J. | title=Asymptotic giant branch stars near the sun | journal=Astronomical Journal | volume=104 | issue=1 | pages=275–313 | month=July | year=1992 | doi=10.1086/116239 | bibcode=1992AJ....104..275E | postscript=. }}</ref>
+
+<ref name=aas107_235>{{citation | last1=Jasinta | first1=D. M. D. | last2=Soegiartini | first2=E. | title=Photographic observations of visual double stars | journal=Astronomy and Astrophysics Supplement | volume=107 | pages=235–241 | month=October | year=1994 | bibcode=1994A&AS..107..235 | postscript=. }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last=Kaler | title=Eta Sagittarii | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/etasgr.html | accessdate=2012-02-10 | postscript=. }}</ref>
+
+<ref name=omeara2011>{{citation | first1=Stephen James | last1=O'Meara | title=Deep-Sky Companions: The Secret Deep | publisher=Cambridge University Press | year=2011 | isbn=0-521-19876-3 | page=341 | url=http://books.google.com/books?id=v859bKO0A4gC&pg=PA341 | postscript=. }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | title=Burnham's Celestial Handbook: an observer's guide to the universe beyond the solar system | volume=3 | series=Dover books explaining science | edition=2nd | publisher=Courier Dover Publications | year=1978 | isbn=0-486-23673-0 | url=http://books.google.com/books?id=PJzIt3SIlkUC&pg=PA1564 | postscript=. }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 | postscript=. }} The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(44.7\cdot 11.9\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 114\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=aaa434_3_1201>{{citation | last1=Richichi | first1=A. | last2=Percheron | first2=I. | title=First results from the ESO VLTI calibrators program | journal=Astronomy and Astrophysics | volume=434 | issue=3 | pages=1201–1209 | month=May | year=2005 | doi=10.1051/0004-6361:20042257 | bibcode=2005A&A...434.1201R |arxiv = astro-ph/0501532 }}</ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Eta]]
+[[Category:Henry Draper Catalogue objects|167618]]
+[[Category:Hipparcos objects|089642]]
+[[Category:Irregular variables]]
+[[Category:Multiple star systems|4]]
+[[Category:M-type giants]]
+[[Category:Sagittarius (constellation)]]
+[[Category:F-type main sequence stars]]
+
+[[es:Eta Sagittarii]]
+[[fa:اتا کمان]]
+[[fr:Êta Sagittarii]]
+[[id:Eta Sagittarii]]
+[[it:Eta Sagittarii]]
+[[pt:Eta Sagittarii]]
+[[zh:箕宿四]]

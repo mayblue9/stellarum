@@ -1,0 +1,153 @@
+{{Starbox begin |
+   name=Epsilon Draconis}}
+{{Starbox image
+| image=[[File:Draco constellation map.png|250px]]
+| caption=Location of ε Draconis (bottom left).}}
+{{Starbox observe
+ |epoch=J2000
+  | ra={{RA|19|48|10.3521}}<ref name="SIMBAD">{{cite web
+  | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=Epsilon+Draconis&submit=SIMBAD+search
+  | title=SIMBAD query result: * eps Dra -- Variable Star
+  | publisher=Centre de Données astronomiques de Strasbourg
+  | accessdate=2010-12-18}}</ref>
+  | dec={{DEC|70|16|04.549}}<ref name="SIMBAD"/>
+  | appmag_v=3.9974<ref name="LEEUWEN"/>
+  | constell=[[Draco (constellation)|Draco]]}}
+{{Starbox character
+  | class=G8III <ref name="SIMBAD"/>
+|b-v=+0.88 <ref name="MERMILLIOD">{{cite journal
+  | author=Mermilliod, J.-C.
+  | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished)
+  | journal=Catalogue of Eggen's UBV data.
+  | year=1986
+  | origin=SIMBAD 
+  | bibcode=1986EgUBV........0M}}</ref>
+  |u-b=+0.48<ref name="MERMILLIOD"/>
+  | variable= }}
+{{Starbox astrometry 
+  |radial_v=+3.1<ref name="SIMBAD" />  
+  |prop_mo_ra=+79.31<ref name="LEEUWEN"/>  
+  |prop_mo_dec=39.08<ref name="LEEUWEN"/> 
+  |parallax=22.04
+  |p_error=0.37
+  |parallax_footnote=<ref name="LEEUWEN">{{cite journal
+    | title=Hipparcos, the New Reduction
+    | author=van Leeuwen, F
+    | year=2007
+    | month=November
+    | work=[[VizieR]] 
+    | publisher=[[Centre de Données astronomiques de Strasbourg]]
+    | pages=653–664
+    | issue=2
+    | volume=474 
+    | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2068756
+    | doi=10.1051/0004-6361:20078357
+    | journal=Astronomy and Astrophysics
+    | bibcode=2007A&A...474..653V
+    | accessdate=2010-12-18|arxiv = 0708.1752 }}</ref>
+  |absmag_v=0.71<ref name="LEEUWEN"/>}}
+{{Starbox detail 
+ |mass=2.7<ref name="MALLIK1">{{cite journal
+  | title=Li abundances and velocities in F and G stars
+  | author=Mallik, Sushma V.; Parthasarathy, M.; Pati, A. K.
+  | year=2003
+  | month=October
+  | work=[[VizieR]] 
+  | publisher=[[Centre de Données astronomiques de Strasbourg]] 
+  | url=http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=J/A%2bA/409/251/table1&recno=121
+  | accessdate=2010-12-18}}</ref><ref name="MALLIK2">{{cite journal
+    | title=Lithium and rotation in F and G dwarfs and subgiants
+    | author= Mallik, Sushma V.; Parthasarathy, M.; Pati, A. K.
+    | year=2003
+    | month=October
+    | journal=Astronomy and Astrophysics
+    | volume=409
+    | issue=1
+    | pages=251–261
+    | url=http://www.aanda.org/index.php?option=com_article&access=bibcode&Itemid=129&bibcode=2003A%2526A...409..251MFUL
+    | doi=10.1051/0004-6361:20031084
+    | bibcode=2003A&A...409..251M
+    | accessdate=2010-12-18}}</ref>
+ |radius=10
+ |luminosity=~60
+ |temperature=5,068 <ref name="MALLIK1"/>
+ |metal=-0.31 [[Metallicity#Calculation|Fe/H]] <ref name="SOUBIRIAN">{{cite journal
+    | author=Soubiran, C.; Bienaymé, O.; Mishenina, T. V.; Kovtyukh, V. V.
+    | title=Vertical distribution of Galactic disk stars. IV. AMR and AVR from clump giants
+    | journal=Astronomy and Astrophysics
+    | year=2008
+    | volume=480
+    | issue=1
+    | pages=91–101
+    | url=http://cds.aanda.org/index.php?option=article&access=bibcode&bibcode=2008A%2526A...480...91S
+    | format=PDF
+    | accessdate=2010-12-18 
+    | bibcode=2008A&A...480...91S 
+    | doi=10.1051/0004-6361:20078788|arxiv = 0712.1370 }}</ref>
+ |rotational_velocity=1.2 <ref name="MALLIK1"/>
+ |age= 5.0{{e|8}} <ref name="MALLIK1"/>}}
+{{Starbox catalog
+ |names=Tyl, [[Bayer designation|ε Dra]], [[Flamsteed designation|63&nbsp;Dra]], [[Harvard Revised catalogue|HR]]&nbsp;7582, [[Astronomische Gesellschaft Katalog|AG]]+70°&nbsp;689, [[Bonner Durchmusterung|BD]]+69°&nbsp;1070, [[Henry Draper Catalogue|HD]]&nbsp;188119, [[Hipparcos catalogue|HIP]]&nbsp;97433, [[General Catalogue of Trigonometric Stellar Parallaxes|PLX]]&nbsp;4689, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;9540, [[Boss General Catalogue|GC]]&nbsp;27471, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J19482+7016AB, [[2MASS]]&nbsp;J19481035+7016045, [[IRAS]]&nbsp;19483+7008}}
+{{Starbox reference
+ |Simbad=HD+188119}}
+{{Starbox end}}	
+
+{{Sky|19|48|10.35|+|70|16|04.55|100000}}
+
+'''Epsilon Draconis''' (ε Dra, ε Draconis) is a fourth-magnitude [[star]] in the [[constellation]] [[Draco (constellation)|Draco]].  It has the traditional name '''Tyl'''. This star along with [[Delta Draconis]] (Altais), [[Pi Draconis]] and [[Rho Draconis]] forms an [[asterism]] known as Al Tāis, meaning "the Goat".<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=209}}</ref>
+
+In [[Chinese astronomy]], {{lang|zh|天廚}} ({{lang|zh-Latn|Tiān Chú}}), meaning the [[Purple Forbidden enclosure|Celestial Kitchen]], refers to an asterism consisting of Epsilon Draconis, [[Delta Draconis]], [[Sigma Draconis]],  Rho Draconis, [[64 Draconis]] and Pi Draconis.<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, Epsilon Draconis itself is known as {{lang|zh|天廚三}} ({{lang|zh-Latn|Tiān Chú sān}}, {{lang-en|the Third Star of the Celestial Kitchen}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+== Visibility ==
+With a declination in excess of 70 degrees north, Epsilon Draconis is principally visible in the northern hemisphere, with southern locations north of 20° South able to see it just above the horizon.  The star is [[Circumpolar star|circumpolar]] throughout all of [[Europe]], [[China]], most of [[India]] and as far south as the tip of the [[Baja peninsula]] in [[North America]] as well as other locations around the globe having a latitude greater than ± 20° North.  Since Epsilon Draconis has an apparent magnitude of almost 4.0, the star is easily observable to the naked eye as long as one's stargazing is not hampered by the [[light pollution]] common to most cities.
+
+The best time for your observation is in the evening sky during the summer months, when the "Dragon constellation" passes the meridian at midnight, but given its circumpolar nature in the northern  hemisphere, it is visible to most of the world's inhabitants throughout the year.
+
+== Properties ==
+Epsilon Draconis is a [[Giant star|yellow giant]] star with a [[Stellar classification|spectral type]] of G8III. It has a radius that has been estimated at 10 [[Solar radius|solar radii]] and a mass of 2.7 [[Solar mass|solar masses]].<ref name="MALLIK1"/>  Compared to most [[Stellar classification#Class G|G class]] stars, Epsilon Draconis is a relatively young star with an estimated age of around 500 million years old.<ref name="MALLIK1"/> Like the majority of giant stars, Epsilon Draconis rotates slowly on its axis with a rotational velocity of 1.2&nbsp;km/s, a speed which takes the star approximately 420 days to make one complete revolution.<ref name="MALLIK1"/>
+
+In 2007, Floor van Leeuwen and his team calibrated the star's [[apparent magnitude]] at 3.9974 with an updated parallax of 22.04 ± 0.37 [[milliarcseconds]], yielding a distance of 45.4&nbsp;[[parsecs]] or approximately 148 [[light year]]s from [[Earth]].<ref name="LEEUWEN"/>  Given a surface temperature of 5,068 Kelvin, theoretical calculations would yield a total luminosity for the star of about 60 times the [[solar luminosity]].
+
+== Star system ==
+Epsilon Draconis is resolvable as a [[double star]] in telescopes of 10 centimeters aperture or larger. The companion has an apparent brightness of 7.3 at an [[angular distance]] of 3.2 [[arcsecond]]s. It is an orange [[dwarf star]] of spectral class K5, orbiting the yellow giant at about 130 [[astronomical unit]]s.
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Draco|Draco]]
+* [[Stellar classification#Class G|Class G Stars]]
+* [[Variable star]]
+* [[Double star]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*Astrophotographs:[http://www.asociacionhubble.org/portal/index.php/foro/viewtopic.php?f=63&t=16459&start=50 Epsilon Draconis]
+*SkyView Image: [http://skyview.gsfc.nasa.gov/cgi-bin/nnskcall.pl?VCOORD=297.0431337500000382,+70.2679302777777792&SURVEY=Digitized+Sky+Survey&SCOORD=&EQUINX=2000&LUT=colortables/stern-special.bin Epsilon Draconis]
+ 
+{{Stars of Draco}}
+
+[[Category:Draco (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Bayer objects|Draconis, Epsilon]]
+[[Category:Flamsteed objects|Draconis, 63]]
+[[Category:Henry Draper Catalogue objects|188119]]
+[[Category:Hipparcos objects|97433]]
+[[Category:HR objects|7582]]
+[[Category:Double stars]]
+
+[[de:Epsilon Draconis]]
+[[es:Tyl]]
+[[fa:اپسیلون اژدها]]
+[[id:Epsilon Draconis]]
+[[it:Epsilon Draconis]]
+[[lb:Tyl (Stär)]]
+[[pt:Epsilon Draconis]]
+[[sk:Tyl]]
+[[zh:天廚三]]

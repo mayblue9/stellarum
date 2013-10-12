@@ -1,0 +1,106 @@
+{{Starbox begin
+| name=Mu Draconis }}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Draco constellation map.svg|250px]]
+     <div style="position: absolute; left: 93px; top: 232px">[[Image:Locator Dot.gif|5px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> | 
+  caption=The red dot shows the location of Mu Draconis in [[Draco (constellation)|Draco]]. }}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|17|05|19.7}}
+| dec={{DEC|+54|28|13}}
+| appmag_v=5.8 / 5.61
+| constell=[[Draco (constellation)|Draco]] }}
+{{Starbox character
+| class=F7V
+| b-v=0.48
+| u-b=0.05
+| variable=-}}
+{{Starbox astrometry
+| radial_v=&minus;4.5
+| prop_mo_ra=&minus;68.4
+| prop_mo_dec=88.7
+| parallax=37.08
+| p_error=0.89
+| absmag_v=? }}
+{{Starbox visbin
+| name=HIP 83608
+| period=672
+| axis=?
+| eccentricity=?
+| inclination=?
+| node=?
+| periastron=? }}
+{{Starbox catalog
+| names=Alrakis, 21 Draconis (21 Dra), [[Bright Star Catalogue|HR]] 6370, [[Bonner Durchmusterung|BD]] +54&deg;1857, [[Henry Draper catalogue|HD]] 154906, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 30239, [[Hipparcos catalogue|HIP]] 83608. }}
+{{Starbox end}}
+
+'''Mu Draconis''' (μ&nbsp;Draconis, μ&nbsp;Dra) is a [[binary star]] with a combined [[magnitude (astronomy)|magnitude]] of 4.92<sup>m</sup> located approximately 85&nbsp;[[light year]]s from the [[Solar System]], near the head of the [[constellation]] [[Draco (constellation)|Draco]]. The component stars are nearly identical yellow-white stars in a tight 672&nbsp;year orbit. Each is of the [[stellar classification|spectral class]]&nbsp;'''F7V''' and has a [[visual magnitude]] of 5.8<sup>m</sup>. Under ideal seeing conditions, the pair can be resolved with a small {{Convert|60|mm|in|abbr=on}} aperture [[telescope]] at about 120&nbsp;power.
+
+Mu Draconis is also known by its older name '''Alrakis''',<ref name="k&s">{{cite book
+  |author= Kunitzsch, P., & Smart, T.,
+  |year = 2006
+  |title = A Dictionary of Modern star Names: A Short Guide to 254 Star Names and Their Derivations
+  |edition = 2nd rev.
+  |publisher = [[New Track Media#Sky Publishing|Sky Pub]]
+  |location = [[Cambridge, Massachusetts|Cambridge]], [[Massachusetts|MA]]
+  |isbn = 978-1-931559-44-7
+  |page = 35}}</ref>
+<ref name="davis">{{cite book
+  |author= Davis, Jr., G. A.,
+  |year = 1971
+  |title = Pronunciations, Derivations, and Meanings of a Selected List of Star Names
+  |edition = [[Reprint|rep]].
+  |publisher = Sky Pub. Corp
+  |location = Cambridge, MA
+  |page = 13}}</ref> which is derived from name given to it in [[Arabic language|Arabic]] by [[Arabian astronomy|Arabian stargazers]], ''al-Rāqiṣ'', "the Trotting Camel"<ref name="k&s"/><ref name="allen">{{cite book
+  |author= [[Richard Hinckley Allen|Allen, R. H.]],
+  |year = 1963
+  |title = [[Star Names: Their Lore and Meaning]]
+  |edition = rep.
+  |publisher = [[Dover Publications]] Inc.
+  |location = [[New York City|New York]], [[New York|NY]]
+  |isbn = 0-486-21079-0
+  |page = 211}}</ref> or "the Dancer."<ref name="davis"/><ref name="allen"/> This name is also sometimes spelled in the [[English language|English]] as "Arrakis" or "Errakis".<ref name="allen"/>
+
+== Older names ==
+This star, along with [[Beta Draconis|β Dra]] (Rastaban), [[Gamma Draconis|γ Dra]] (Eltanin), [[Nu Draconis|ν Dra]] (Kuma) and [[Xi Draconis|ξ Dra]] (Grumium) were '''Al ʽAwāïd''', "the Mother Camels", which was later known as the '''Quinque Dromedarii'''.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=207}}</ref>
+
+== Cultural references ==
+[[Science fiction]] writer [[Frank Herbert]] chose [[Arrakis]] as the name of the primary planet in his famous [[Dune series|''Dune'' series]] of novels, aware that the word "Arrakis" is the transliteration into English of the Arabic words for "the dancer" (al-Raqis).{{Citation needed|date=March 2010}} However, Herbert uses the name not to describe μ Draconis, but the fictional ''planet'' Arrakis as the third planet of the star [[Canopus|Canopus (α&nbsp;Carinae)]] in the constellation Carina.
+
+== References ==
+{{Reflist}}
+
+{{Stars of Draco}}
+
+[[Category:Binary stars]]
+[[Category:Draco (constellation)]]
+[[Category:Bayer objects|Draconis, Mu]]
+[[Category:Flamsteed objects|Draconis, 21]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الراقص (نجم)]]
+[[cs:Alrakis]]
+[[de:Alrakis]]
+[[es:Arrakis (estrella)]]
+[[fa:مو اژدها]]
+[[id:Mu Draconis]]
+[[it:Arrakis]]
+[[lb:Alrakis (Stär)]]
+[[nl:Arrakis (ster)]]
+[[pl:Arrakis]]
+[[pt:Mu Draconis]]
+[[ru:Мю Дракона]]
+[[sk:Arrakis]]
+[[tt:Әлракыйс]]
+[[zh:天棓增九]]

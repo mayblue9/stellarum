@@ -1,0 +1,97 @@
+{{Starbox begin
+| name     = Lambda Boötis
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| ra       = {{RA|14|16|23.0}}
+| dec      = {{DEC|+46|05|18}}
+| appmag_v = +4.18
+| constell = [[Boötes]]
+}}
+{{Starbox character
+| class    = A0p
+| b-v      = 
+| u-b      = 
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 
+| prop_mo_ra  = 
+| prop_mo_dec = 
+| parallax = 
+| p_error  = 
+| parallax_footnote = 
+| dist_ly=97.1 ± 1.8
+| dist_pc=29.8 ± 0.5
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 1.66{{+-|0.19|0.16}}<ref name=aaa495_3_901/>
+| radius   = 1.7<ref name=apj659_2_1623/>
+| gravity  = 4.188<ref name=apj546_1_352/>
+| luminosity  = 19.1{{+-|9.0|6.1}}<ref name=aaa495_3_901/>
+| temperature = 8,720<ref name=apj694_1_165/>
+| metal_fe = 
+| rotational_velocity = 100<ref name=apj546_1_352/>
+| age_gyr  = 2.8{{+-|1.1|0.8}}<ref name=aaa495_3_901/>
+}}
+{{Starbox catalog
+| names = 19&nbsp;Boötis, [[Harvard Revised catalogue|HR]]&nbsp;5351, [[Henry Draper Catalogue|HD]]&nbsp;125162, [[Gliese-Jahreiss catalogue|NN]]&nbsp;3837, [[Bonner Durchmusterung|BD]]+46°1949, [[Fifth Fundamental Catalogue|FK5]]&nbsp;527, [[Hipparcos catalogue|HIP]]&nbsp;69732, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;44965, [[Boss General catalogue|GC]]&nbsp;19273.
+}}
+{{Starbox end}}
+'''Lambda Boötis''' (λ Boo, λ Boötis) is a [[star]] in the [[constellation]] [[Boötes]].
+
+Lambda Boötis is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.18.  It is approximately 97.1 [[light-year]]s from [[Earth]].  Lambda Boötis is the prototype of a group of rare stars known as [[Lambda Boötis star]]s, all of which are dwarf stars with unusually low abundances of [[metallicity|metals]] in their spectra. Its diameter has been directly measured to be 1.7 times that of the [[Sun]].<ref name=apj659_2_1623>{{cite journal | url=http://www.iop.org/EJ/article/0004-637X/659/2/1623/64307.html | author=Ciardi ''et al.'' | title=The Angular Diameter of λ Boötis | journal=The [[Astrophysical Journal]] | volume=659 | issue=2 | pages=1623–1628 | year=2007 | doi=10.1086/512077 | last2=Van Belle | first2=Gerard T. | last3=Boden | first3=Andrew F. | last4=Ten Brummelaar | first4=T. | last5=McAlister | first5=H. A. | last6=Bagnuolo, Jr. | first6=W. G. | last7=Goldfinger | first7=P. J. | last8=Sturmann | first8=J. | last9=Sturmann | first9=L. | bibcode=2007ApJ...659.1623C|arxiv = astro-ph/0612723 }}</ref>
+
+==Name==
+
+This star, along with ''Asselus'' ([[Theta Boötis|θ Boo]], [[Iota Boötis|ι Boo]] and [[Kappa Boötis|κ Boo]]), were '''Al Aulād al Dhiʼbah''' ('''ألعولد ألذعب''' - ''al aulād al dhiʼb''), "the Whelps of the Hyenas".<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Bootes*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York, NY | isbn=0-486-21079-0 | page=105}}</ref>
+
+''Al Aulād al Dhiʼbah'' or '''Aulad al Thiba''' was the title of this star in the catalogue of stars  in ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars''.<ref>[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf Jack W. Rhoads - ''Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars'', Jet Propulsion Laboratory, California Institute of Technology; November 15, 1971]</ref>
+
+In [[Chinese astronomy]], Lambda Boötis is called 玄戈, [[Pinyin]]: Xuángē, meaning ''Sombre Lance'', because this star is marking itself and stand alone in ''Sombre Lance'' asterism, [[Purple Forbidden enclosure]] (see : [[Chinese constellation]]).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060614.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 14 日]</ref> 玄戈 (Xuángē) westernized into '''Heuen Ko''', but the name ''Heuen Ko'' was designated for [[Gamma Boötis|γ Boötis]] (Seginus) by R.H. Allen, with the meaning is "the heavenly spear" <ref>[http://www.constellationsofwords.com/stars/Seginus.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Boötes]</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa495_3_901>{{citation | display-authors=1 | last1=Montesinos | first1=B. | last2=Eiroa | first2=C. | last3=Mora | first3=A. | last4=Merín | first4=B. | title=Parameters of Herbig Ae/Be and Vega-type stars | journal=Astronomy and Astrophysics | volume=495 | issue=3 | pages=901–917 | month=March | year=2009 | doi=10.1051/0004-6361:200810623 | bibcode=2009A&A...495..901M |arxiv = 0811.3557 }}</ref>
+
+<ref name=apj694_1_165>{{citation | display-authors=1 | last1=Martínez-Galarza | first1=J. R. | last2=Kamp | first2=I. | last3=Su | first3=K. Y. L. | last4=Gáspár | first4=A. | last5=Rieke | first5=G. | last6=Mamajek | first6=E. E. | title=Infrared Emission by Dust Around λ Bootis Stars: Debris Disks or Thermally Emitting Nebulae? | journal=The Astrophysical Journal | volume=694 | issue=1 | pages=165–173 | month=March | year=2009 | doi=10.1088/0004-637X/694/1/165 | bibcode=2009ApJ...694..165M |arxiv = 0812.2198 }}</ref>
+
+<ref name=apj546_1_352>{{citation | displat-authors=1 | last1=Song | first1=Inseok | last2=Caillault | first2=J.-P. | last3=Barrado y Navascués | first3=David | last4=Stauffer | first4=John R. | title=Ages of A-Type Vega-like Stars from uvbyβ Photometry | journal=The Astrophysical Journal | volume=546 | issue=1 | pages=352–357 | month=February | year=2001 | doi=10.1086/318269 | bibcode=2001ApJ...546..352S |arxiv = astro-ph/0010102 }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205351 HR 5351]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=14+16+23.0187%2B46+05+17.900&ident=NLTT+36818&submit=Aladin+previewer Image Lambda Boötis]
+
+{{Stars of Boötes}}
+
+{{DEFAULTSORT:Lambda Bootis}}
+[[Category:Henry Draper Catalogue objects|125162]]
+[[Category:Hipparcos objects|069732]]
+[[Category:Bayer objects|Bootis, Lambda]]
+[[Category:Flamsteed objects|Bootis, 19]]
+[[Category:Boötes (constellation)]]
+[[Category:A-type main sequence stars]]
+[[Category:Lambda Boötis stars]]
+
+{{main-star-stub}}
+
+[[de:Lambda Boötis]]
+[[es:Lambda Bootis]]
+[[fa:لاندا گاوران]]
+[[fr:Lambda Bootis]]
+[[id:Lambda Boötis]]
+[[it:Lambda Boötis]]
+[[pt:Lambda Boötis]]
+[[ru:Лямбда Волопаса]]
+[[zh:玄戈星]]

@@ -1,0 +1,116 @@
+{{Starbox begin 
+| name = α Ceti
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cetus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cetus constellation and its surroundings]]
+     <div style="position: absolute; left: 58px; top: 44px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Ceti(circled)
+}}
+{{Starbox observe 
+| epoch = J2000 
+| constell = [[Cetus]] 
+| ra = {{RA|03|02|16.77307}}<ref name=aaa474_2_653/>
+| dec = {{DEC|+04|05|23.0596}}<ref name=aaa474_2_653/>
+| appmag_v = 2.53<ref name=clpl4_99/>
+}}
+{{Starbox character 
+| class = M1.5&nbsp;IIIa<ref name=aaa489_3_1271/>
+| b-v = +1.64<ref name=clpl4_99/>
+| u-b = +1.93<ref name=clpl4_99/>
+| variable = None<ref name=asp378_262/>
+}}
+{{Starbox astrometry 
+| radial_v = {{nowrap|–26.08 ± 0.02}}<ref name=aaa430_165/>
+| prop_mo_ra = {{nowrap|-10.41 ± 0.51}}<ref name=aaa474_2_653/>
+| prop_mo_dec = {{nowrap|-76.85 ± 0.36}}<ref name=aaa474_2_653/>
+| parallax = 13.09 
+| p_error = 0.44
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|–3.2 ± 0.3}}<ref name=aaa489_3_1271/>
+}}
+{{Starbox detail
+| mass = {{nowrap|2.3 ± 0.2}}<ref name=aaa460_3_855/>
+| radius = {{nowrap|89 ± 5}}<ref name=aaa460_3_855/>
+| luminosity = {{nowrap|1455 ± 328}}<ref name=aaa460_3_855/>
+| temperature = {{nowrap|3,795 ± 70}}<ref name=aaa460_3_855/>
+| metal_fe = {{nowrap|0.00 ± 0.30}}<ref name=aaa460_3_855/>
+| gravity = 0.9 ± 0.1<ref name=aaa460_3_855/>
+| rotational_velocity = 6.9<ref name=aj135_1_209/>
+| age = 
+}}
+{{Starbox catalog 
+| names = Menkar, Menkab, Mekab, Monkar, Al Minhar, 92 Ceti, [[Harvard Revised catalogue|HR]] 911,  [[Bonner Durchmusterung|BD]] +03°419, [[Henry Draper catalogue|HD]] 18884, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 110920, FK5 107, [[Hipparcos catalogue|HIP]] 14135. 
+}}
+{{Starbox reference 
+| Simbad = Menkar 
+}}
+{{Starbox end}}
+'''Alpha Ceti''' (α Cet, α Ceti) is a [[star]] in the [[constellation]] of [[Cetus]].  It has the traditional name '''Menkar''' or '''Menkab'''. The name Menkar derives from the Arabic word  '''منخر''' ''manħar'' "nostril" (of Cetus).
+
+This star, along with [[Gamma Ceti|γ Cet]] (Kaffaljidhma), [[Delta Ceti|δ Cet]], [[Lambda Ceti|λ Cet]] (Menkar), [[Mu Ceti|μ Cet]], [[Xi1 Ceti|ξ<sup>1</sup> Cet]] and [[Xi2 Ceti|ξ<sup>2</sup> Cet]] were ''Al Kaff al Jidhmah'', "the Part of a Hand".<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html Star Name - R.H. Allen p.160]</ref> 
+
+In [[Chinese language|Chinese]], {{lang|zh|天囷}} ({{lang|zh-Latn|Tiān Qūn}}), meaning ''[[Stomach (Chinese constellation)|Circular Celestial Granary]]'', refers to an asterism consisting of α Ceti, [[Kappa1 Ceti|κ<sup>1</sup> Ceti]], [[Lambda Ceti|λ Ceti]], [[Mu Ceti|μ Ceti]], [[Xi1 Ceti|ξ<sup>1</sup> Ceti]], [[Xi2 Ceti|ξ<sup>2</sup> Ceti]], [[Nu Ceti|ν Ceti]], [[Gamma Ceti|γ Ceti]], [[Delta Ceti|δ Ceti]], [[75 Ceti]], [[70 Ceti]], [[63 Ceti]] and [[66 Ceti]]. Consequently, α Ceti itself is known as {{lang|zh|天囷一}} ({{lang|zh-Latn|Tiān Qūn yī}}, {{lang-en|the First Star of Circular Celestial Granary}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060711.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 11 日]</ref>
+
+==Structure==
+Despite having the [[Bayer designation]] α Ceti, at visual magnitude 2.54 this star is actually not the brightest [[List of stars in Cetus|star in the constellation Cetus]]. That honor goes instead to [[Beta Ceti]] at magnitude 2.04. Menkar is a [[red giant]] with a [[stellar classification]] of M1.5&nbsp;IIIa. It has more than twice the [[solar mass|mass of the Sun]] and, as a [[giant star]] has expanded to about 89 times the [[solar radius|Sun's radius]]. The large area of the [[photosphere]] means that it is emitting about 1,455 times as much energy as the Sun, even though the [[effective temperature]] is only 3,795&nbsp;K (compared to 5,778&nbsp;K on the Sun). The relatively low temperature gives Menkar the red hue of an M-type star.<ref name=csiro/>
+
+Menkar has evolved from the [[main sequence]] after exhausting the helium at its core. As it begins to burn its [[carbon]] core it will probably become a highly unstable star like [[Mira]] before finally shedding its outer layers and forming a [[planetary nebula]], leaving a relatively large [[white dwarf]] remnant.<ref name=kaler/>
+
+==Namesakes==
+[[USS Menkar (AK-123)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==See also==
+* [[Stars and planetary systems in fiction#Alpha Ceti (Menkab)|Alpha Ceti in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa430_165>{{cite journal | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa489_3_1271>{{citation | last1=Tsuji | first1=T. | title=Cool luminous stars: the hybrid nature of their infrared spectra | journal=Astronomy and Astrophysics | volume=489 | issue=3 | pages=1271–1289 | month=October | year=2008 | doi=10.1051/0004-6361:200809869 | bibcode=2008A&A...489.1271T |arxiv = 0807.4387 }}</ref>
+
+<ref name=aaa460_3_855>{{citation | display-authors=1 | last1=Wittkowski | first1=M. | last2=Aufdenberg | first2=J. P. | last3=Driebe | first3=T. | last4=Roccatagliata | first4=V. | last5=Szeifert | first5=T. | last6=Wolff | first6=B. | title=Tests of stellar model atmospheres by optical interferometry. IV. VINCI interferometry and UVES spectroscopy of Menkar | journal=Astronomy and Astrophysics | volume=460 | issue=3 | pages=855–864 | month=December | year=2006 | doi=10.1051/0004-6361:20066032 | bibcode=2006A&A...460..855W |arxiv = astro-ph/0610150 }}</ref>
+
+<ref name=asp378_262>{{citation | display-authors=1 | last1=Wittkowski | first1=M.| last2=Boboltz | first2=D. A. | last3=Driebe | first3=T. | last4=Ohnaka | first4=K. | contribution=Polychromatic Interferometry of Mira Variables | title=Why Galaxies Care About AGB Stars: Their Importance as Actors and Probes, proceedings of the conference held 7-11 August 2006 at University Campus, Vienna, Austria | series=ASP Conference Series | volume=378 | editor1-first=F. | editor1-last=Kerschbaum | editor2-first=C. | editor2-last=Charbonnel | editor3-first=R. F. | editor3-last=Wing | publication-place=San Francisco | publisher=Astronomical Society of the Pacific | page=262 | month=November | year=2007 | bibcode=2007ASPC..378..262W }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | title=MENKAR (Alpha Ceti) | url=http://stars.astro.illinois.edu/sow/menkar.html | display-authors=2011-12-24 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+==External links==
+*[http://jumk.de/astronomie/big-stars/menkar.shtml Assorted figures related to Alpha Ceti]
+
+{{Stars of Cetus}}
+
+[[Category:Bayer objects|Ceti, Alpha]]
+[[Category:Cetus (constellation)]]
+[[Category:M-type giants]]
+[[Category:Stars with proper names]]
+[[Category:Henry Draper Catalogue objects]]
+
+[[ca:Menkar]]
+[[de:Menkar]]
+[[es:Menkar]]
+[[fa:منخر]]
+[[fr:Alpha Ceti]]
+[[ko:멘카르]]
+[[id:Alpha Ceti]]
+[[it:Menkab]]
+[[lb:Menkar (Stär)]]
+[[nl:Menkar]]
+[[ja:メンカル]]
+[[pl:Menkar]]
+[[pt:Alpha Ceti]]
+[[sk:Menkar]]
+[[fi:Alfa Ceti]]
+[[zh:天囷一]]

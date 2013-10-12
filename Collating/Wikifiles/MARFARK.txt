@@ -1,0 +1,50 @@
+{{Starbox short |go stren
+| name=θ Cassiopeiae
+| epoch=[[J2000.0]]
+| constell=[[Cassiopeia (constellation)|Cassiopeia]]
+| ra=01<sup>h</sup>11<sup>m</sup>06.2<sup>s</sup>
+| dec=+55°08′59″
+| spectral=A7V
+| appmag_v=+4.34
+| dist_ly=137 ± 4
+| dist_pc=42 ± 1
+| names=Marfak, 33&nbsp;Cassiopeiae, [[Harvard Revised catalogue|HR]]&nbsp;343, [[Henry Draper Catalogue|HD]]&nbsp;6961, [[Bonner Durchmusterung|BD]]+54°236, [[Hipparcos catalogue|HIP]]&nbsp;5542, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;22070, GC&nbsp;1424, CCDM&nbsp;J01112+5508
+}}
+[[File:Theta cassiopeiae diagram.jpg|thumb|left|The [[Bayer designation|Bayer-designated stars]] in Cassiopeia.  Theta Cassiopeiae is circled.]]
+'''Theta Cassiopeiae''' (θ Cas, θ Cassiopeiae) is a [[star]] in the [[constellation]] [[Cassiopeia (constellation)|Cassiopeia]].  It has the traditional name '''Marfark''' or '''Marfak''', which it shares with [[μ Cassiopeiae]], and the name was from Al Marfik or Al Mirfaq ('''المرفق'''), meaning "the elbow".<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cassiopeia*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=148 }}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|閣道}} ({{lang|zh-Latn|Gé Dào}}), meaning ''[[Legs (Chinese constellation)|Flying Corridor]]'', refers to an asterism consisting of θ Cassiopeiae, [[Iota Cassiopeiae|ι Cassiopeiae]], [[Epsilon Cassiopeiae|ε Cassiopeiae]], [[Delta Cassiopeiae|δ Cassiopeiae]], [[Nu Cassiopeiae|ν Cassiopeiae]] and [[Omicron Cassiopeiae|ο Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Cassiopeiae itself is known as {{lang|zh|閣道四}} ({{lang|zh-Latn|Gé Dào sì}}, {{lang-en|the Fourth Star of Flying Corridor}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+θ Cassiopeiae is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +4.34.  It is approximately 137 [[light year]]s from [[Earth]].
+
+==References==
+<references/>
+
+{{Stars of Cassiopeia}}
+
+[[Category:Cassiopeia (constellation)]]
+[[Category:Bayer objects|Cassiopeiae, Theta]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{Main-star-stub}}
+
+[[de:Marfark]]
+[[es:Theta Cassiopeiae]]
+[[fa:مرفق ذات‌الکرسی]]
+[[fr:Theta Cassiopeiae]]
+[[id:Theta Cassiopeiae]]
+[[nl:Marfak]]
+[[pt:Theta Cassiopeiae]]
+[[sk:Marfark]]
+[[sv:Marfark]]
+[[uk:HD6961]]
+[[zh:仙后座θ]]

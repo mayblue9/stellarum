@@ -1,0 +1,38 @@
+{{Starbox short
+ | name=Gamma Librae
+ | epoch=[[J2000.0]]
+ | constell=[[Libra (constellation)|Libra]]
+ | ra={{RA|15|35|31.54}}
+ | dec={{DEC|-14|27|22.4}}
+ | spectral=K0&nbsp;III<ref name=pasj60_4_781/>
+ | appmag_v=+3.91<ref name=pasj60_4_781/>
+ | absmag_v=+0.56
+ | dist_ly=152
+ | dist_pc=46.63
+ | names=38 Librae, [[Cordoba Durchmusterung|CD]]&nbsp;-27&nbsp;10464, [[FK5]] 577, [[Henry Draper Catalogue|HD]]&nbsp;138905, [[Hipparcos catalogue|HIP]]&nbsp;76333, [[Bright Star Catalogue|HR]]&nbsp;5787, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;159370.<ref name=SIMBAD/>
+}}
+
+'''Gamma Librae''' (γ Lib, γ Librae) is a [[star]] in the [[constellation]] [[Libra (constellation)|Libra]].  It has the traditional name '''Zuben-el-[[Akrab]]''', meaning "Shears of the Scorpion". The name is a modification of the [[Arabic language|Arabic]] ''al-Zuban al-Aqrab'' (الزبن العقرب). Alternate modifications of the phrase include '''''Zuben el Hakrabi''''' and '''''Zuben Hakraki'''''.
+
+Gamma Librae belongs to the [[Stellar classification|spectral class]] K0III, and is of the fourth-magnitude, having [[apparent magnitude]] +3.91. It is approximately 152 [[light year]]s from the Earth. This star has 2.15 times the mass of the Sun and is radiating around 71 times the luminosity of the Sun at an [[effective temperature]] of 4,822&nbsp;K.<ref name=pasj60_4_781/>
+
+== References ==
+{{reflist|refs=
+
+<ref name=pasj60_4_781>{{citation | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar Parameters and Elemental Abundances of Late-G Giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T |arxiv = 0805.2434 }}</ref>
+
+<ref name=SIMBAD>{{cite web | title=HD 138905 -- Double or multiple star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=gamma+librae | accessdate=2007-01-22}}</ref>
+
+}}
+
+{{Stars of Libra}}
+[[Category:Stars with proper names]]
+
+[[de:Zuben-el-Akrab]]
+[[es:Zubenelakrab]]
+[[fa:گاما ترازو]]
+[[fr:Gamma Librae]]
+[[id:Gamma Librae]]
+[[it:Gamma Librae]]
+[[pt:Gamma Librae]]
+[[ru:Гамма Весов]]

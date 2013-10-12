@@ -1,0 +1,133 @@
+{{Starbox begin
+ | name = Alpha Librae
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Libra IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cepheus Libra and its surroundings]]
+     <div style="position: absolute; left: 60.5%; top: 46.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of α Librae (circled)
+}}
+{{Starbox observe 2s
+ | epoch       = [[J2000.0]]
+ | constell    = [[Libra (constellation)|Libra]]
+ | component1  = α<sup>1</sup> Lib
+ | ra1         = {{RA|14|50|41.18097}}<ref name=aaa474_2_653/>
+ | dec1        = {{DEC|–15|59|50.0482}}<ref name=aaa474_2_653/>
+ | appmag_v1   = +5.153<ref name=sps1966/>
+ | component2  = α<sup>2</sup> Lib
+ | ra2         = {{RA|14|50|52.71309}}<ref name=aaa474_2_653/>
+ | dec2        = {{DEC|–16|02|30.3955}}<ref name=aaa474_2_653/>
+ | appmag_v2   = +2.741<ref name=sps1966/>
+}}
+{{Starbox character
+ | class       = {{nowrap|F3 V + kA2hA5mA4 IV-V}}<ref name=apj132_1_161/>
+ | b-v         = +0.394/+0.146
+ | u-b         = –0.002/+0.155
+ | variable    = 
+}}
+{{Starbox astrometry
+ | component1  = α<sup>1</sup> Lib
+ | radial_v    = {{nowrap|–24.7 ± 0.4}}<ref name=aaa501_3_941/>
+ | prop_mo_ra  = –136.27<ref name=aaa474_2_653/>
+ | prop_mo_dec = –59.04<ref name=aaa474_2_653/>
+ | parallax    = 43.52
+ | p_error     = 0.43
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = +3.29<ref name=aaa501_3_941/>
+ | component2 = α<sup>2</sup> Lib
+ | radial_v2 = 
+ | prop_mo_ra2 = –105.68<ref name=aaa474_2_653/>
+ | prop_mo_dec2 = –68.40<ref name=aaa474_2_653/>
+ | parallax2 = 43.03
+ | p_error2 = 0.19
+ | parallax_footnote2 = <ref name=aaa474_2_653/>
+ | absmag_v2 = +0.88
+}}
+{{Starbox detail
+ | component1  = α<sup>1</sup> Lib
+ | age_gyr     = 1.4{{+-|0.8|0.4}}<ref name=aaa501_3_941/>
+ | metal_fe    = –0.02<ref name=apj132_1_161/>
+ | mass        = 1.33{{+-|0.06|0.04}}<ref name=aaa501_3_941/>
+ | radius      = 
+ | gravity     = 4.25<ref name=apj132_1_161/>
+ | luminosity  = 
+ | temperature = 6,745<ref name=apj132_1_161/>
+ | rotational_velocity = 5.95<ref name=aaa520_A79/>
+ | component2  = α<sup>2</sup> Lib
+ | metal_fe2   = –0.24<ref name=apj132_1_161/>
+ | mass2       = 1.4–1.5/0.5–0.6<ref name=aaa514_A98/>
+ | gravity     = 3.91<ref name=apj132_1_161/>
+ | temperature2= 8,128<ref name=apj132_1_161/>
+}}
+{{Starbox catalog
+ | names = α Librae, α Lib, alf Lib, Kiffa Australis, Lanx australis, Zubenelgenubi.
+ | component1 = α<sup>1</sup> Lib
+ | names1 = 8 Librae, [[Bonner Durchmusterung|BD]]–15&nbsp;3965, [[FK5]]&nbsp;1387, [[Henry Draper Catalogue|HD]]&nbsp;130819, [[Hipparcos catalogue|HIP]]&nbsp;72603, [[Bright Star Catalogue|HR]]&nbsp;5530, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;158836.<ref name=SIMBAD1/>
+ | component2 = α<sup>2</sup> Lib
+ | names2 = 9 Librae, [[Bonner Durchmusterung|BD]]–15&nbsp;3966, [[FK5]]&nbsp;548, [[Henry Draper Catalogue|HD]]&nbsp;130841, [[Hipparcos catalogue|HIP]]&nbsp;72622, [[Bright Star Catalogue|HR]]&nbsp;5531, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;158840.<ref name=SIMBAD2/>
+}}
+{{Starbox end}}
+'''Alpha Librae''' (α Lib, α Librae) is the [[Bayer designation]] for the second brightest [[star]] in the [[constellation]] [[Libra (constellation)|Libra]] (despite its [[Bayer designation]] as alpha). It has the traditional name '''Zubenelgenubi''' (pronounced "zoo-BEN-el-je-NEW-bee").<ref>http://www.astronomyclub.org/learn/Say_What.htm</ref> The name, from [[Arabic language|Arabic]] الزبن الجنوبي (''al-zuban al-janūbiyy''), means "southern claw" and was coined before Libra was recognized as distinct from [[Scorpius]]. The alternate names '''Kiffa Australis''' and '''Elkhiffa Australis''', partial [[Latin]] [[translations]] of Arabic ''al-kiffah al-janūbiyy'', mean "southern pan (of the scales)". Another name used in older astronomy texts, equivalent to "southern scale or pan", was '''Lanx Australis'''.<ref>[http://www.archive.org/stream/tabulaeastronom00suntgoog#page/n146/mode/2up Philippe La Hire, "Tabulae Astronomicae" (1727), see star table, page 13.]</ref>
+
+Alpha Librae is close to the [[ecliptic]] so it can be easily [[occultation|occulted]] by the [[Moon]] and (very rarely) by [[planet]]s. The next occultation by a planet will be by [[Mercury (planet)|Mercury]] on 10 November 2052.<ref name=occultation>Peuschel, Marco (2003). [http://www.marco-peuschel.de/planetensterne.html "Astronomische Ereignisse der besonderen Art"]. Retrieved July 10, 2005.</ref>
+
+== Properties ==
+Alpha Librae is located approximately 77 [[light years]] from the [[Sun]]. The two brightest components of Alpha Librae form a [[double star]] that share a similar motion through space, forming common [[proper motion]] companions. The brightest member, α<sup>2</sup> Librae, is itself a [[spectroscopic binary]] system. The second member, α<sup>1</sup> Librae, is separated from the primary system by around 5,400&nbsp;[[astronomical unit|AU]]. It too is a spectroscopic binary with an orbital period of 5,870&nbsp;days and an [[angular separation]] of 0.383&nbsp;arcseconds; equal to about 10&nbsp;AU. The system may have a fifth component, the star KU Librae at a separation of 2.6°, thus forming a hierarchical quintuple star system. KU Lib shares a similar motion through space to the Alpha Librae system, but is separated from the other stars by about a [[parsec]]. Still, it is sufficiently close to be gravitationally bound to the other members.<ref name=aaa514_A98/>
+
+The two brightest members of Alpha Librae are separated in the sky by an [[angular size|angular distance]] of 231" (3'51"). The position [[angle]] of the companion is 314 degrees. The brighter of the two is a white star of [[stellar classification|spectral type]] A3, with an [[apparent brightness]] of 2.8. Its companion is a type F4 star of apparent brightness 5.2. They are probably members of the [[Castor Moving Group]] of stars that have a similar motion through space and share a common origin some 200 million years ago.<ref name=aaa514_A98/>
+
+== See also ==
+* [[List of stars in Libra]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 pc-The Southern Sample | journal=The Astronomical Journal | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G |arxiv = astro-ph/0603770 }}</ref>
+
+<ref name=aaa501_3_941>{{citation | last1=Holmberg | first1=J. | last2=Nordström | first2=B. | last3=Andersen | first3=J. | title=The Geneva-Copenhagen survey of the solar neighbourhood. III. Improved distances, ages, and kinematics | journal=Astronomy and Astrophysics | volume=501 | issue=3 | pages=941–947 | month=July | year=2009 | doi=10.1051/0004-6361/200811191 | bibcode=2009A&A...501..941H |arxiv = 0811.3982 }}</ref>
+
+<ref name=aaa520_A79>{{citation | display-authors=1 | year=Martínez-Arnáiz | first1=R. | last2=Maldonado | first2=J. | last3=Montes | first3=D. | last4=Eiroa | first4=C. | last5=Montesinos | first5=B. | title=Chromospheric activity and rotation of FGK stars in the solar vicinity. An estimation of the radial velocity jitter | journal=Astronomy and Astrophysics | volume=520 | page=A79 | month=September | year=2010 | doi=10.1051/0004-6361/200913725 | bibcode=2010A&A...520A..79M |arxiv = 1002.4391 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=SIMBAD1>{{citation | title=HD 130819 -- Star in Double System | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=alpha1+librae }}</ref>
+
+<ref name=SIMBAD2>{{citation | title=HD 130841 -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=alpha2+librae | accessdate=2007-01-23 }}</ref>
+
+<ref name=aaa514_A98>{{citation | last1=Caballero | first1=J. A. | title=Reaching the boundary between stellar kinematic groups and very wide binaries. II. α Librae + KU Librae: a common proper motion system in Castor separated by 1.0 pc | journal=Astronomy and Astrophysics | volume=514 | page=A98 | month=May | year=2010 | doi=10.1051/0004-6361/200913986 | bibcode=2010A&A...514A..98C | arxiv=1001.5432 }}</ref>
+
+}}
+
+==External links==
+*Kaler, Jim (2004). [http://www.astro.uiuc.edu/~kaler/sow/zubenel.html "STARS: Zubenelgenubi"]. Retrieved July 10, 2005.
+* {{WikiSky}}
+{{Sky|14|50|41.26|-|15|59|49.5|77}}
+
+{{Stars of Libra}}
+
+[[Category:Bayer objects|Librae, Alpha]]
+[[Category:Binary stars]]
+[[Category:Libra (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+[[Category:Castor Moving Group]]
+
+[[ar:الزبان الجنوبي]]
+[[de:Zuben-el-dschenubi]]
+[[et:Zuben Elgenubi]]
+[[es:Zubenelgenubi]]
+[[fa:آلفا ترازو]]
+[[fr:Alpha Librae]]
+[[id:Alpha Librae]]
+[[it:Zubenelgenubi]]
+[[lb:Zuben-el-dschenubi (Stär)]]
+[[nl:Zuben Elgenubi]]
+[[ja:ズベン・エル・ゲヌビ]]
+[[pt:Alpha1 Librae]]
+[[ru:Альфа Весов]]
+[[sk:Zubenelgenubi]]
+[[zh:天秤座α]]

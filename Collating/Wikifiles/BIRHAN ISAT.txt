@@ -1,0 +1,80 @@
+{{Starbox begin
+| name=5 Tauri
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|03|30|52.37}}
+| dec      = {{DEC|+12|56|12.1}}
+| appmag_v = +4.14
+| constell = [[Taurus (constellation)|Taurus]]
+}}
+{{Starbox character
+| class    = K0II-III
+| b-v      = 
+| u-b      = 
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 
+| prop_mo_ra  = 
+| prop_mo_dec = 
+| parallax = 
+| p_error  = 
+| parallax_footnote = 
+| dist_ly  = 360
+| dist_pc  = 110.43
+| absmag_v = 
+}}
+{{Starbox detail
+| component1 = 5 Tauri A
+| mass     = 4.0{{+-|0.7|0.7}}<ref name=aaa398_1163/>
+| radius   = 
+| luminosity  = 
+| temperature = 
+| gravity  = 
+| metal_fe = 
+| rotational_velocity = 
+| age      = 
+| component2 = 5 Tauri B
+| mass2    = 1.13 ± 0.13
+}}
+{{Starbox catalog
+| names = Esat, f&nbsp;Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1066, [[Henry Draper Catalogue|HD]]&nbsp;21754, [[Star catalogue#BD/CD/CPD|BD]]+12&nbsp;486, FK5&nbsp;125, [[Hipparcos catalogue|HIP]]&nbsp;16369, [[Star catalogue#SAO|SAO]]&nbsp;93469, GC&nbsp;4184.
+}}
+{{Starbox end}}
+'''5 Tauri''' (5 Tau) is a [[star]] in the [[constellation]] [[Taurus (constellation)|Taurus]]. 5 Tauri is an orange [[stellar classification|K-type]] [[giant star|giant]], a [[binary star|spectroscopic binary]], with an [[apparent magnitude]] of +4.14.  It is approximately 360 [[light years]] from [[Earth]].
+
+==References==
+{{reflist|refs=
+1
+<ref name=aaa398_1163>{{citation
+ | last1=Pourbaix | first1=D. | last2=Boffin | first2=H. M. J.
+ | title=Reprocessing the Hipparcos Intermediate Astrometric Data of spectroscopic binaries. II. Systems with a giant component
+ | journal=Astronomy and Astrophysics | volume=398 | pages=1163–1177
+ | month=February | year=2003
+ | doi=10.1051/0004-6361:20021736
+ | bibcode=2003A&A...398.1163P |arxiv = astro-ph/0211483 }}</ref>
+
+}}
+
+==External links==
+* {{cite web | title=HD 21754 -- Spectroscopic binary | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=5+tauri | accessdate=2007-01-26}}
+
+{{giant-star-stub}}
+{{Stars of Taurus}}
+
+[[Category:Bayer objects|Tauri, f]]
+[[Category:Flamsteed objects|Tauri, 5]]
+[[Category:Henry Draper Catalogue objects|21754]]
+[[Category:Hipparcos objects|16369]]
+[[Category:HR objects|1066]]
+[[Category:Taurus (constellation)]]
+[[Category:K-type bright giants]]
+[[Category:K-type giants]]
+[[Category:Spectroscopic binaries]]
+
+[[es:5 Tauri]]
+[[fa:۵ گاو]]
+[[it:5 Tauri]]
+[[pt:5 Tauri]]
+[[zh:天廪一]]

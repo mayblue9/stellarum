@@ -1,0 +1,50 @@
+{{Starbox short
+| name = Theta Ceti
+| epoch = [[J2000.0]]
+| constell = [[Cetus (constellation)|Cetus]]
+| ra = 1<sup>h</sup> 24<sup>m</sup> 1.4<sup>s</sup>
+| dec = -8° 11' 00"
+| spectral = K0III
+| appmag_v = 3.60
+| dist_ly = 115
+| dist_pc = 35.28
+| names = 45 Ceti, [[Henry Draper catalogue|HD]] 8512, [[Harvard Revised catalogue|HR]] 402, SAO 129274, FK5 47, NSV --, [[Bonner Durchmusterung|BD]] -08 244, [[Hipparcos catalogue|HIP]] 6537}}
+
+'''Theta Ceti''' (θ Ceti, θ Cet) is a [[Stellar classification|Class K0]], fourth-magnitude [[star]] in the [[constellation]] [[Cetus (constellation)|Cetus]]. Theta Ceti is an orange giant star located about 115 [[light-year]]s from Earth.
+
+==Name==
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Thanih al Naamat''' ('''تاني ألنعامة''' - ''taanii al naʽāmāt''), which was translated into [[Latin]] as '''Secunda  Struthionum''', meaning ''the second ostrich''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref> This star, along with [[Eta Ceti|η Cet]] (Deneb Algenubi), [[Tau Ceti|τ Cet]] (Thalath Al Naamat), [[Zeta Ceti|ζ Cet]] (Baten Kaitos)and [[Upsilon Ceti|υ Cet]], were '''Al Naʽāmāt''' ('''ألنعامة'''), the Hen Ostriches.<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=162 }}</ref><ref>[[Eta Ceti|η Cet]] as '''Aoul al Naamat''' or '''Prima Struthionum''' (the first ostrich), θ Cet as '''Thanih al Naamat''' or '''Secunda Struthionum'''  (the second ostrich), [[Tau Ceti|τ Cet]] as '''Thalath al Naamat''' or '''Tertia Struthionum'''  (the third ostrich), and [[Zeta Ceti|ζ Cet]] as '''Rabah al Naamat''' or '''Quarta Struthionum'''  (the fourth ostrich). [[Upsilon Ceti|υ Cet]] should be '''Khamis al Naamat''' or '''Quinta Struthionum''' (the fifth ostrich) consistently, but Al Achsasi Al Mouakket designated the title ''the fifth ostrich'' to [[Gamma Andromedae|γ Gam]] with uncleared consideration.</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|天倉}} ({{lang|zh-Latn|Tiān Cāng}}), meaning ''[[Bond (Chinese constellation)|Square Celestial Granary]]'', refers to an asterism consisting of θ Ceti, [[Iota Ceti|ι Ceti]], [[Eta Ceti|η Ceti]], [[Zeta Ceti|ζ Ceti]], [[Tau Ceti|τ Ceti]] and [[57 Ceti]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Ceti itself is known as {{lang|zh|天倉三}} ({{lang|zh-Latn|Tiān Cāng sān}}, {{lang-en|the Third Star of Square Celestial Granary}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060710.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 10 日]</ref>
+
+== References ==
+* {{cite web | title=HD 8512 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=theta+ceti&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2006-11-05}}
+<br>
+{{reflist}}
+
+==External links==
+
+{{Stars of Cetus}}
+
+[[Category:Bayer objects|Ceti, Theta]]
+[[Category:Cetus (constellation)]]
+
+[[fa:تتا نهنگ]]
+[[fr:Theta Ceti]]
+[[id:Theta Ceti]]
+[[it:Theta Ceti]]
+[[pt:Theta Ceti]]
+[[zh:天仓三]]

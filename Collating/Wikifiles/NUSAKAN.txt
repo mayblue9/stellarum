@@ -1,0 +1,87 @@
+{{Starbox begin
+| name = [[Bayer designation|β&nbsp;Coronae&nbsp;Borealis]]}}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Corona borealis constellation map.png|250px]]
+     <div style="position: absolute; left: 163px; top: 131px">[[Image:Locator Dot2.gif|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> | 
+  caption=The red dot shows the location of β&nbsp;Coronae&nbsp;Borealis. }}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Corona Borealis (constellation)|Corona Borealis]]
+| ra = {{RA|15|27|49.7308}}<ref name=sb0>{{SIMBAD link|bet+crB|V* bet CrB -- Spectroscopic binary}}, database entry, [[SIMBAD]].  Accessed on line September 8, 2008.</ref><ref name=cg>Astrometric data, mirrored by SIMBAD from the [[Hipparcos]] catalogue, pertains to the center of mass of the β Coronae Borealis binary system.  See &sect;2.3.4, ''[http://www.rssd.esa.int/SA/HIPPARCOS/docs/vol1_all.pdf Volume 1, The Hipparcos and Tycho Catalogues]'', European Space Agency, 1997, and the [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%2075695 entry] in the Hipparcos catalogue ([[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/239 I/239].)</ref>
+| dec = {{DEC|+29|06|20.530}}<ref name=sb0 /><ref name=cg />
+| appmag_v=3.65&nbsp;to&nbsp;3.72<ref name=gcvs1>bet CrB, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/iii/iii.dat The combined table of GCVS Vols I-III and NL 67-78 with improved coordinates, General Catalogue of Variable Stars], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line September 8, 2008.</ref>
+}}
+{{Starbox character
+| u-b = +0.11<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=5747 HR 5747], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line September 8, 2008.</ref>
+| class = A9SrEuCr / ?<ref>Multiplicity among peculiar A stars. I. The AP stars HD 8441 and HD 137909, and the AM stars HD 43478 and HD 96391, P. North et al., ''Astronomy and Astrophysics Supplement'' '''130''' (June 1998), pp. 223–232, {{bibcode|1998A&AS..130..223N}}, {{doi|10.1051/aas:1998365}}.</ref>
+| b-v = +0.28<ref name=bsc2 />
+| v-r = 0.2<ref name=sb0 />
+| r-i = +0.05<ref name=bsc2 />
+| variable = [[Alpha² Canum Venaticorum variable|ACV]]<ref name=gcvs1 />
+}}
+{{Starbox astrometry
+| radial_v = −18.7&nbsp;±&nbsp;0.9<ref name=sb0 />
+| prop_mo_ra = −181.39<ref name=sb0 /><ref name=cg />
+| prop_mo_dec = 86.84<ref name=sb0 /><ref name=cg />
+| parallax = 28.60
+| p_error = 0.69
+| parallax_footnote = <ref name=sb0 />
+| absmag_v= 0.97<ref>From apparent magnitude and parallax.</ref>
+}}
+{{Starbox visbin
+|reference=<ref name=orb>Entry 15278+2906, [http://ad.usno.navy.mil/wds/orb6/orb6orbits.txt Sixth Catalog of Orbits of Visual Binary Stars], [[United States Naval Observatory]].  Accessed on line September 9, 2008.</ref>
+|period_unitless=10.27&nbsp;±&nbsp;0.14&nbsp;[[year|y]]
+|axis_unitless=0.205&nbsp;±&nbsp;0.002[[arcsecond|″]]
+|periastron=[[Epoch (astronomy)|B]]1980.506&nbsp;±&nbsp;0.014
+|inclination=111.1&nbsp;±&nbsp;0.9
+|node=148.2&nbsp;±&nbsp;0.5
+|eccentricity=0.524&nbsp;±&nbsp;0.006
+|periarg=181.3&nbsp;±&nbsp;0.7
+}}<!--
+-->{{Starbox catalog
+| names=Nusakan, Peculiar&nbsp;Rosette&nbsp;Stone, β&nbsp;CrB, Beta&nbsp;Coronae&nbsp;Borealis, Beta&nbsp;CrB, [[Flamsteed designation|3&nbsp;Coronae&nbsp;Borealis]], 3&nbsp;CrB, [[Durchmusterung|BD]]+29&nbsp;2670, [[Fifth Fundamental Catalogue|FK5]]&nbsp;572, [[Boss General Catalogue|GC]]&nbsp;20795, [[Henry Draper Catalogue|HD]]&nbsp;137909, [[Hipparcos Catalogue|HIP]]&nbsp;75695, [[Bright Star Catalogue|HR]]&nbsp;5747, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;83831, [[Washington Double Star Catalog|WDS]]&nbsp;15278+2906AB.<ref name=sb0 /><ref name=bsc2 /><ref name=wds0>Entry 15278+2906, [http://ad.usno.navy.mil/wds/wdsnewframe3.html The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line September 9, 2008.</ref>
+}}
+{{Starbox reference
+| Simbad=bet+crB}}
+{{Starbox end}}
+
+'''Beta&nbsp;Coronae&nbsp;Borealis''' ('''Beta&nbsp;CrB''', '''β&nbsp;Coronae&nbsp;Borealis''', '''β&nbsp;CrB'''), which has the traditional name '''Nusakan''',<ref>The name is Arabic, apparently '''ألنسفان''' ''an-nasaqan'' "the (two) series".</ref> is the second brightest [[star]] in the [[constellation]] of [[Corona Borealis (constellation)|Corona Borealis]].  Although it appears to the naked eye to be a single star, it is actually a [[binary star]] system.<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/nusakan.html Nusakan], ''Stars'', Jim Kaler.  Accessed on line September 10, 2008.</ref>  It is approximately 114 [[light-years]] away and has an [[apparent visual magnitude]] which varies between 3.65 and 3.72.<ref name=sb0 /><ref name=gcvs1 />
+
+In [[Chinese language|Chinese]], {{lang|zh|貫索}} ({{lang|zh-Latn|Guàn Suǒ}}), meaning ''[[Heavenly Market enclosure|Coiled Thong]]'', refers to an asterism consisting of β Coronae Borealis, [[Pi Coronae Borealis|π Coronae Borealis]], [[Theta Coronae Borealis|θ Coronae Borealis]], [[Alpha Coronae Borealis|α Coronae Borealis]], [[Gamma Coronae Borealis|γ Coronae Borealis]], [[Delta Coronae Borealis|δ Coronae Borealis]], [[Epsilon Coronae Borealis|ε Coronae Borealis]], [[Iota Coronae Borealis|ι Coronae Borealis]] and [[Rho Coronae Borealis|ρ Coronae Borealis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Coronae Borealis itself is known as {{lang|zh|貫索三}} ({{lang|zh-Latn|Guàn Suǒ sān}}, {{lang-en|the Third Star of Coiled Thong}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+
+β&nbsp;Coronae&nbsp;Borealis was first announced to be a binary star in 1907, based on spectroscopic observations at [[Lick Observatory]];<ref>[http://articles.adsabs.harvard.edu/full/seri/LicOB/0004/0000192.000.html A list of six stars whose radial velocities vary], W. W. Campbell and J. H. Moore, ''Lick Observatory Bulletin'' '''4''' , #123 (1907), pp. 161–162.</ref> J. B. Cannon published an orbit in 1914, finding a period of 40.9 days.<ref>Orbit of beta Coronae Borealis, J. B. Cannon, ''Publications of the Dominion Observatory, Ottawa'' '''1''' (1914), pp. 373–405, {{bibcode|1914PDO.....1..373C}}.</ref><ref name=neubauer>The System of β Coronae Borealis, F. J. Neubauer, ''Astrophysical Journal'' '''99''' (March 1944), pp. 134–144, {{bibcode|1944ApJ....99..134N}}.</ref>  Later spectroscopic investigations by F. J. Neubauer at Lick, published in 1944, found a period of 10.5 years, with no evidence for the 41-day periodicity.<ref name=neubauer />  [[Antoine Labeyrie]] and his coworkers resolved the pair by [[speckle interferometry]] in 1973 and found that the two stars were separated by about 0.25 [[arcsecond]]s; this work was published in 1974.  The pair was also observed visually by Coteau in 1973.<ref>Speckle Interferometry. III. High-Resolution Measurements of Twelve Close Binary Systems, A. Labeyrie, D. Bonneau, R. V. Stachnik, and D. Y. Gezari, ''Astrophysical Journal'' '''194''' (December 15, 1974), pp. L147–L151, {{bibcode|1974ApJ...194L.147L}}.</ref>  A number of orbits were subsequently published using visual and speckle-interferometric observations, both alone and in conjunction with spectroscopic data.<ref>The Binary Nature of the Magnetic Star β CrB, L. Oetken and R. Orwert, ''Astronomische Nachrichten'' '''305''', #6 (1984), pp. 317–323, {{bibcode|1984AN....305..317O}}</ref><ref>Interferometer Orbits for Seven Binaries, A. A. Tokovinin, ''Soviet Astronomy Letters'' '''10''', #2 (March–April 1984), pp. 121–123, {{bibcode|1984SvAL...10..121T}}.</ref><ref>Astrometric-spectroscopy binary star orbits. IV - Beta Coronae Borealis, Karl W. Kamper, Harold A. McAlister, and William I. Hartkopf, ''Astronomical Journal'' '''100''', #1 (July 1990), pp. 239–246, {{doi|10.1086/115510}}, {{bibcode|1990AJ....100..239K}}.</ref>  In 1999, Söderhjelm published an orbit using speckle-interferometric data together with [[Hipparcos]] observations.<ref>Visual binary orbits and masses post Hipparcos, Staffan Söderhjelm, ''Astronomy and Astrophysics'' '''341''' (January 1999), pp. 121–140, {{bibcode|1999A&A...341..121S}}.</ref>
+
+Neubauer's 1944 work found a small variation in the radial velocity of β Coronae Borealis with a periodicity of 320 days, suggesting the presence of a third, lighter, body in the system.<ref name=neubauer />  A 1999 study of the system by long-baseline [[infrared]] [[interferometry]] performed at [[Palomar Observatory]] found no evidence for this, and showed that any tertiary companion with this period must have mass 10 [[Jupiter masses]] or below.  This study also found very weak evidence for the presence of a companion with a shorter, 21-day, period, but the data was insufficient to draw a positive conclusion.<ref>&sect;7, Limits to Tertiary Astrometric Companions in Binary Systems, Matthew W. Muterspaugh, Benjamin F. Lane, S. R. Kulkarni, Bernard F. Burke, M. M. Colavita, and M. Shao, ''Astrophysical Journal'' '''653''', #2 (December 2006), pp. 1469–1479, {{bibcode|2006ApJ...653.1469M}}, {{doi|10.1086/508743}}.</ref>
+
+==References==
+{{reflist|2}}
+
+{{Stars of Corona Borealis}}
+
+[[Category:Corona Borealis (constellation)]]
+[[Category:A-type stars]]
+[[Category:Binary stars]]
+[[Category:Bayer objects|Coronae Borealis, Beta]]
+[[Category:Flamsteed objects|Coronae Borealis, 3]]
+[[Category:Henry Draper Catalogue objects|137909]]
+[[Category:Hipparcos objects|075695]]
+[[Category:HR objects|5747]]
+[[Category:Stars with proper names]]
+[[Category:Durchmusterung objects|BD+29 2670]]
+
+[[de:Beta Coronae Borealis]]
+[[es:Nusakan]]
+[[fa:نسقان]]
+[[fr:Beta Coronae Borealis]]
+[[id:Beta Coronae Borealis]]
+[[lb:Nusakan (Stär)]]
+[[nl:Nusakan]]
+[[pt:Beta Coronae Borealis]]
+[[ru:Бета Северной Короны]]
+[[sk:Nusakan]]
+[[uk:HD137909]]

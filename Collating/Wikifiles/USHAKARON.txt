@@ -1,0 +1,35 @@
+{{Starbox short |
+ name=ξ Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=03<sup>h</sup> 27<sup>m</sup> 10.2<sup>s</sup> |
+ dec=+9° 43' 58" |
+ spectral=B8Vn + B8Vn + B7Vn |
+ appmag_v=+3.73 |
+ dist_ly=222 ± 15 |
+ dist_pc=68 ± 5 |
+ names=Ushakaron, 2&nbsp;Tau, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1038, [[Henry Draper Catalogue|HD]]&nbsp;21364, [[Star catalogue#BD/CD/CPD|BD]]+09&nbsp;439, FK5&nbsp;123, [[Hipparcos catalogue|HIP]]&nbsp;16083, [[Star catalogue#SAO|SAO]]&nbsp;111195, GC&nbsp;4107, CCDM&nbsp;03272+0944
+}}
+'''Xi Tauri''' (ξ Tau, ξ Tauri) is a [[triple star system]] in the [[constellation]] [[Taurus (constellation)|Taurus]]. It carries the proper name '''''[[List_of_proper_names_of_stars_in_alphabetical_order#U|Ushakaron]]'''''<ref>{{cite web | title=ξ Tau (Ushakaron) - Star - WIKISKY | url=http://server6.wikisky.org/starview?object_type=1&object_id=576&object_name=Ushakaron&locale=PT  | accessdate=2012-06-03}}</ref><ref>{{cite web | title=List of Traditional Star Names | work=Altius Directory | url=http://www.altiusdirectory.com/Science/list-of-traditional-stars-names.php  | accessdate=2012-06-03}}</ref> or '''''Yshakaron''''', which is [[Akkadian language|Akkadian]] for "Exacter of Justice and Retribution" or "The Avenger" or "The Vindicator".
+
+Xi Tauri a [[spectroscopic binary|spectroscopic]] and [[eclipsing binary|eclipsing]] triple star.  It consists of three blue-white [[stellar classification|B-type]] [[main sequence|main sequence dwarfs]].  Two of the stars are in a close orbit and revolve around each other once every 7.15 days.  These in turn orbit the third star once every 145 days.  The mean combined [[apparent magnitude]] of the system is +3.73 but, because the stars eclipse one another during their orbits, it is classified as a [[variable star]], and its brightness varies from magnitude +3.70 to +3.79. Xi Tauri is approximately 222 [[light years]] from [[Earth]].
+
+
+==References==
+* {{cite web | title=HD 21364 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=xi+tauri&NbIdent=1&Radius=10&Radius.unit=arcmin&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&output.max=all&o.catall=on&output.mesdisp=N&Bibyear1=1983&Bibyear2=2005&Frame1=FK5&Frame2=FK4&Frame3=G&Equi1=2000.0&Equi2=1950.0&Equi3=2000.0&Epoch1=2000.0&Epoch2=1950.0&Epoch3=2000.0  | accessdate=2007-01-26}}
+{{reflist}}
+
+{{Stars of Taurus}}
+{{multi-star-stub}}
+
+[[Category:Bayer objects|Tauri, Xi]]
+[[Category:Taurus (constellation)]]
+[[Category:Triple star systems]]
+[[Category:B-type main sequence stars]]
+[[Category:Eclipsing binaries]]
+[[Category:Spectroscopic binaries]]
+
+[[es:Xi Tauri]]
+[[fa:کسی گاو]]
+[[pt:Xi Tauri]]
+[[zh:天廪三]]

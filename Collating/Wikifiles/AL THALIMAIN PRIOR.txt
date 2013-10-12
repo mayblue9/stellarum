@@ -1,0 +1,112 @@
+{{Starbox begin
+| name=Lambda Aquilae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Aquila IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Aquila constellation and its surroundings]]
+     <div style="position: absolute; left: 63.0%; top: 56.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of λ Aquilae (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|19|06|14.93898}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|&minus;04|52|57.2007}}<ref name=aaa474_2_653/>
+| appmag_v = 3.43<ref name=clpl4_99/>
+| constell = [[Aquila (constellation)|Aquila]]
+}}
+{{Starbox character
+| class    = B9Vn<ref name=aj74_375/>
+| r-i      = 
+| v-r      =
+| b-v      = &minus;0.09<ref name=clpl4_99/>
+| u-b      = &minus;0.27<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = &minus;12.0<ref name=scfs/>
+| prop_mo_ra  = &minus;19.68<ref name=aaa474_2_653/>
+| prop_mo_dec = &minus;90.37<ref name=aaa474_2_653/>
+| parallax = 26.05
+| p_error  = 0.81
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 3.1{{+-|0.1|0.1}}<ref name=apj736_2_89/>
+| radius   = 1.9<ref name=aass85_3_1015/>
+| luminosity  = 55<ref name=aass85_3_1015/>
+| temperature = 11,780<ref name=aaa501_1_297/>
+| metal_fe = 0.00<ref name=apj736_2_89/>
+| gravity  = 4.31<ref name=aass85_3_1015/>
+| rotational_velocity = 103<ref name=aaa463_2_671/>
+| age_myr  = 160{{+-|20|20}}<ref name=apj736_2_89/>
+}}
+{{Starbox catalog
+| names=16 Aql, [[Durchmusterung|BD]]-05° 4876, [[FK5]] 717, [[Henry Draper Catalogue|HD]] 177756, [[Hipparcos Catalogue|HIP]] 93805, [[Bright Star Catalogue|HR]] 7236, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 143021.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Lambda Aquilae''' (λ Aql, λ Aquilae) is a [[star]] in the [[constellation]] [[Aquila (constellation)|Aquila]].  It has the traditional name '''Al Thalimain''', which it shares with [[Iota Aquilae|ι Aquilae]].  The name is derived from the [[Arabic language|Arabic]] '''الثالمين''' ''al-thalīmain'' "the two ostriches". Lambda Aquilae is more precisely ''Al Thalimain Prior''. It has an [[apparent visual magnitude]] of 3.43,<ref name=clpl4_99/> which is bright enough to be seen with the naked eye. [[Parallax]] measurements place it at a distance of about {{Convert|125|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天弁}} ({{lang|zh-Latn|Tiān Biàn}}), meaning ''[[Dipper (Chinese constellation)|Market Officer]]'', refers to an asterism consisting of λ Aquilae, [[Alpha Scuti|α Scuti]], [[Delta Scuti|δ Scuti]], [[Epsilon Scuti|ε Scuti]], [[Beta Scuti|β Scuti]], [[Eta Scuti|η Scuti]], [[12 Aquilae]], [[15 Aquilae]] and [[14 Aquilae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, λ Aquilae itself is known as {{lang|zh|天弁七}} ({{lang|zh-Latn|Tiān Biàn qī}}, {{lang-en|the Seventh Star of Market Officer}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Lambda Aquilae is a [[main sequence]] star with a [[stellar classification]] of B9Vn,<ref name=aj74_375/> which means that, like the [[Sun]], it is generating energy at its core through the [[nuclear fusion]] of hydrogen. It is more massive than the Sun, with about three times its mass, and radiates about 55<ref name=aass85_3_1015/> times the Sun's luminosity from its outer envelope at a higher [[effective temperature]] of 11,780&nbsp;K.<ref name=aaa501_1_297/> This temperature gives Lambda Aquilae the blue-white hue that is a characteristic of B-type stars.<ref name=csiro/> Lambda Aquilae was one of the least [[variable star]]s observed by the [[Hipparcos]] satellite. It is a suspected [[Lambda Boötis star]]<ref name=aaa495_1_335/> and has an age of about 160 million years.<ref name=apj736_2_89/>
+
+This star lies about 5° from the [[galactic plane]] and about 30° from the line of sight to the [[Galactic Center]]. This region of the sky is crowded with other objects along the line of sight, with at least 55 located within 10&nbsp;[[arcsecond]]s of the star. Examination of the star shows no companions with an 85% probability.<ref name=apj736_2_89/> Despite this, it is suspected of being a [[spectroscopic binary]] star.<ref name=aaa495_1_335/> That is, it may have an orbiting companion whose presence is revealed by displacements in the [[absorption line]]s in the [[spectrum]] caused by the [[Doppler effect]]. Based upon the width of these lines, the star is rotating rapidly, with a [[stellar rotation|projected rotational velocity]] of {{nowrap|103 km s<sup>–1</sup>}}.<ref name=aaa463_2_671/>
+
+==Related space mission==
+NASA's [[Pioneer 11]] space probe, launched in April 1973, exited the [[solar system]] in 1990 and continued in the direction of Lambda Aquilae. It is estimated that it will take around 4 million years for the probe to make its closest approach to its destination, assuming it will remain intact. However, NASA stopped communicating with Pioneer 11 since November 1995 because the space probe's power was already too weak to transmit any data.<ref name=tps/>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=apj736_2_89>{{citation | display-authors=1 | last1=Janson | first1=Markus | last2=Bonavita | first2=Mariangela | last3=Klahr | first3=Hubert | last4=Lafrenière | first4=David | last5=Jayawardhana | first5=Ray | last6=Zinnecker | first6=Hans | title=High-contrast Imaging Search for Planets and Brown Dwarfs around the Most Massive Stars in the Solar Neighborhood | journal=The Astrophysical Journal | volume=736 | issue=2 | page=89 | month=August | year=2011 | doi=10.1088/0004-637X/736/2/89 | bibcode=2011ApJ...736...89J |arxiv = 1105.2577 }}</ref>
+
+<ref name=aaa501_1_297>{{citation | display-authors=1 | last1=Zorec | first1=J. | last2=Cidale | first2=L. | last3=Arias | first3=M. L. | last4=Frémat | first4=Y. | last5=Muratore | first4=M. F. | last5=Torres | first5=A. F. | last6=Martayan | first6=C. | title=Fundamental parameters of B supergiants from the BCD system. I. Calibration of the (λ_1, D) parameters into Teff | journal=Astronomy and Astrophysics | volume=501 | issue=1 | pages=297–320 | month=July | year=2009 | doi=10.1051/0004-6361/200811147 | bibcode=2009A&A...501..297Z }}</ref>
+
+<ref name=aaa495_1_335>{{citation | display-authors=1 | last1=Lagrange | first1=A.-M. | last2=Desort | first2=M. | last3=Galland | first3=F. | last4=Udry | first4=S. | last5=Mayor | first5=M. | title=Extrasolar planets and brown dwarfs around A-F type stars. VI. High precision RV survey of early type dwarfs with HARPS | journal=Astronomy and Astrophysics | volume=495 | issue=1 | pages=335–352 | month=February | year=2009 | doi=10.1051/0004-6361:200810105 | bibcode=2009A&A...495..335L |arxiv = 0809.4636 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=lam Aql -- Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Lambda+Aquilae | accessdate=2011-12-29 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=tps>{{citation | work=Space Topics: Past Missions | title=Pioneer 10 and 11 | publisher=The Planetary Society | url=http://planetary.org/explore/topics/past_missions/pioneer_10_and_11.html | accessdate=2012-02-05 }}</ref>
+
+}}
+
+==External links==
+* {{citation | first1=James B. | last1=Kaler | title=AL THALIMAIN PRIOR (Lambda Aquilae) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/althalimainpr.html | accessdate=2012-01-26 }}
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=19+06+14.9384-04+52+57.195&ident=*+lam+Aql&submit=Aladin+previewer Image λ Aquilae]
+{{Stars of Aquila}}
+
+[[Category:Stars with proper names]]
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Bayer objects|Aquilae, Lambda]]
+[[Category:Aquila (constellation)]]
+[[Category:B-type main sequence stars]]
+
+[[ca:Lambda Aquilae]]
+[[de:Lambda Aquilae]]
+[[es:Al Thalimain Prior]]
+[[fa:لاندا عقاب]]
+[[fr:Lambda Aquilae]]
+[[id:Lambda Aquilae]]
+[[it:Lambda Aquilae]]
+[[lb:Lambda Aquilae]]
+[[pl:Lambda Aquilae]]
+[[pt:Lambda Aquilae]]
+[[uk:HD177756]]
+[[zh:天鷹座λ]]

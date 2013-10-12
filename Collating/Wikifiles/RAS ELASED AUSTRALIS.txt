@@ -1,0 +1,103 @@
+{{Starbox begin
+ | name = Epsilon Leonis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Leo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Leo constellation and its surroundings]]
+     <div style="position: absolute; left: 70.8%; top: 24.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of ε Leonis (circled)
+}}
+{{Starbox observe 
+ | epoch       = J2000 
+ | ra          = {{RA|09|45|51.07330}}<ref name=aaa474_2_653/>
+ | dec         = {{DEC|23|46|27.3208}}<ref name=aaa474_2_653/>
+ | appmag_v    = 2.98<ref name=clpl4_99/>
+ | constell    = [[Leo (constellation)|Leo]]
+}}
+{{Starbox character 
+ | class       = G1&nbsp;II<ref name="SIMBAD" />  
+ | b-v         = +0.808<ref name=aj135_1_209/>
+ | u-b         = +0.47<ref name=clpl4_99/>
+ | variable    = Cepheid
+}}
+{{Starbox astrometry 
+ | radial_v    = {{nowrap|4.86 ± 0.33}}<ref name=aj135_1_209/>
+ | prop_mo_ra  = –45.61<ref name=aaa474_2_653/> 
+ | prop_mo_dec = –9.21<ref name=aaa474_2_653/>
+ | parallax    = 13.22
+ | p_error     = 0.15
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = –1.49<ref name=pasj60_4_781/>
+}}
+{{Starbox detail 
+ | mass        = 4.01<ref name=pasj60_4_781/>
+ | radius      = 21<ref name=aj135_1_209/>
+ | gravity     = 2.2<ref name=aj135_1_209/>
+ | luminosity  = 288<ref name=aj135_1_209/>
+ | temperature = 5,248<ref name=aj135_1_209/>
+ | metal_fe    = –0.28<ref name=aj135_1_209/>
+ | age_myr     = 162<ref name=pasj60_4_781/>
+ | rotational_velocity = 8.1<ref name=aj135_1_209/>
+}}
+{{Starbox catalog
+ | names = Algenubi, [[Bayer designation|ε Leo]], [[Flamsteed designation|17&nbsp;Leo]], [[Bonner Durchmusterung|BD]] +24°2129, [[Catalogues of Fundamental Stars|FK5]]&nbsp;367, [[Boss General Catalogue|GC]]&nbsp;13443, [[Henry Draper Catalogue|HD]]&nbsp;84441, [[Hipparcos catalogue|HIP]]&nbsp;47908, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;3873, [[Star catalogue#SAO|SAO]]&nbsp;81004
+}}
+{{Starbox reference
+ | Simbad=HD+84441
+}}
+{{Starbox end}}
+
+'''Epsilon Leonis''' (ε Leo, ε Leonis) is the fifth brightest [[star]] in the [[constellation]] [[Leo (constellation)|Leo]], consistent with its [[Bayer designation]] Epsilon.  The star has the traditional names '''Ras Elased (Australis)''', '''Asad Australis''' and '''Algenubi''', all of which derive from the Arabic '''رأس الأسد الجنوبي''' ''rās al-’asad al-janūbī'', which means "the southern (star) of the lion's head"; ''australis'' is Latin for "southern".
+
+== Properties ==
+
+Epsilon Leonis has a [[stellar classification]] of G1&nbsp;II, with the [[luminosity class]] of II indicating that, at an age of {{nowrap|162 million years}},<ref name=pasj60_4_781/> it has [[stellar evolution|evolved]] into a [[bright giant]]. It is much larger and brighter than the Sun with a luminosity 288 times and a radius 21 times solar.<ref name=aj135_1_209/> Consequently, its [[absolute magnitude]] is actually –1.49,<ref name=pasj60_4_781/> making it one of the more luminous stars in the constellation, significantly more than its alpha star, [[Regulus]]. Algenubi's [[apparent magnitude|apparent brightness]], though, is only 2.98.<ref name=clpl4_99/> Given its distance of about {{Convert|247|ly|pc|abbr=off|lk=on}}, the star is more than 3 times the distance from the Sun than Regulus. At this distance, the [[visual magnitude]] of Epsilon Leonis is reduced by 0.03 as a result of [[Extinction (astronomy)|extinction]] caused by intervening gas and dust.<ref name=pasj60_4_781/>
+
+Algenubi exhibits the characteristics of a [[Cepheid variable|Cepheid-like variable]], changing by an amplitude of 0.3 [[Magnitude (astronomy)|magnitude]] every few days.<ref name=an319_4_239/><ref name="kaler" /> It has around four times the mass of the Sun and a [[projected rotational velocity]] of {{nowrap|8.1 km s<sup>–1</sup>}}.<ref name=aj135_1_209/> Based upon its iron abundance, the [[metallicity]] of this star's [[stellar atmosphere|outer atmosphere]] is only around 52% of the Sun's. That is, the abundance of elements other than hydrogen and helium is about half that in the Sun.<ref name=aj135_1_209/>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Leo|Leo]]
+* [[Stellar classification#Class G|Class G Stars]]
+* [[Variable star]]
+* [[Stars and planetary systems in fiction#Algenubi (Epsilon Leonis)|Algenubi in fiction]]
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=eps+leo | title=eps Leo -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-05-10 }}</ref>
+
+<ref name="kaler">{{citation | title=ALGENUBI (Epsilon Leonis) | publisher=University of Illinois | work=Stars | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/algenubi.html | accessdate=2010-05-10 }}</ref> 
+
+<ref name=pasj60_4_781>{{citation | last1=Takeda | first1=Yoichi | last2=Sato | first2=Bun'ei | last3=Murata | first3=Daisuke | title=Stellar parameters and elemental abundances of late-G giants | journal=Publications of the Astronomical Society of Japan | volume=60 | issue=4 | pages=781–802 | month=August | year=2008 | bibcode=2008PASJ...60..781T |arxiv = 0805.2434 }}</ref>
+
+<ref name=an319_4_239>{{citation | last1=Andrievsky | first1=S. M. | title=BA II lines as luminosity indicators: s-Cepheids and non-variable supergiants | journal=Astronomische Nachrichten | volume=319 | issue=4 | pages=239–240 | month=July | year=1998 | bibcode=1998AN....319..239A }}</ref>
+
+}}
+
+{{Stars of Leo}}
+
+[[Category:Leo (constellation)]]
+[[Category:Bayer objects|Leonis, Epsilon]]
+[[Category:Stars with proper names]]
+
+[[ar:رأس الأسد الجنوبي]]
+[[de:Ras Elased Australis]]
+[[es:Ras Elased Australis]]
+[[fa:اپسیلون شیر]]
+[[fr:Epsilon Leonis]]
+[[id:Epsilon Leonis]]
+[[it:Epsilon Leonis]]
+[[lb:Ras Elased Australis (Stär)]]
+[[nl:Ras Elased Australis]]
+[[ja:ラス・エラセド・アウストラリス]]
+[[pl:Epsilon Leonis]]
+[[pt:Epsilon Leonis]]
+[[sk:Ras Elased Australis]]
+[[zh:轩辕九]]

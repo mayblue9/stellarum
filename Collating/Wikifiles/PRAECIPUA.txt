@@ -1,0 +1,101 @@
+{{Starbox begin
+| name=46 Leonis Minoris
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Leo Minor IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Leo Minor constellation and its surroundings]]
+     <div style="position: absolute; left: 35.3%; top: 46.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of 46 Leonis Minoris (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|10|53|18.70487}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+34|12|53.5375}}<ref name=aaa474_2_653/>
+| appmag_v = 3.83<ref name=aaa526_A100/>
+| constell = [[Leo Minor]]
+}}
+{{Starbox character
+| class    = K0+III-IV
+| b-v      = 
+| u-b      = 
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 
+| prop_mo_ra  = +92.02<ref name=aaa474_2_653/>
+| prop_mo_dec = –285.82<ref name=aaa474_2_653/>
+| parallax = 34.38
+| p_error  = 0.21
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 
+| radius   = {{nowrap|8.2 ± 0.2}}<ref name=aaa526_A100/>
+| luminosity  = {{nowrap|34 ± 2}}<ref name=aaa526_A100/>
+| temperature = 4,670<ref name=aaa526_A100/>
+| metal_fe = 
+| rotation = 
+| rotational_velocity = 
+| gravity  = 2.96<ref name=aaa526_A100/>
+| age      = 
+}}
+{{Starbox catalog
+| names = 46&nbsp;LMi, [[Durchmusterung|BD]]+34&nbsp;2172, [[FK5]]&nbsp;412, [[Henry Draper Catalogue|HD]]&nbsp;94264, [[Hipparcos Catalogue|HIP]]&nbsp;53229, [[Bright Star Catalogue|HR]]&nbsp;4247, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;62297.
+}}
+{{Starbox end}}
+'''46 Leonis Minoris''' (46 LMi) is the brightest [[star]] in the [[constellation]] [[Leo Minor]].  It is sometimes known as "[[o]] LMi" (not "''[[Omicron|ο]]'' LMi"), from Bode's catalogue of 1801. It was presumably intended to be designated α, as [[Francis Baily]] decided to letter each star brighter than magnitude 4.5, but the designation was missing from his catalogue, even though the dimmer β was included.<ref>{{cite book
+  |author=Wagman, Morton
+  |year = 2003
+  |title = Lost Stars
+  |publisher = McDonald and Woodward
+  |location = [[Blacksburg]], [[Virginia]]
+  |isbn=0-939923-78-5}}
+</ref>
+
+It has the proper name '''Praecipua''', the Latin "the Chief (Star of Leo Minor)".<ref>{{cite book
+  |author= [[Richard Hinckley Allen|Allen, R. H.]],
+  |year = 1963
+  |title = [[Star Names: Their Lore and Meaning]]
+  |edition = [[Reprint|rep]].
+  |publisher = [[Dover Publications]] Inc.
+  |location = [[New York City|New York]], [[New York|NY]]
+  |isbn = 0-486-21079-0
+  |page = 264}}[http://books.google.com/books?id=5xQuAAAAIAAJ]</ref>  The name may originally have referred to [[37 Leonis Minoris]], and later mistransfered to this star.<ref>[http://www.ianridpath.com/startales/leominor.htm Leo Minor: The little lion]- Ian Ridpath's Star Tales</ref>
+
+It is known as 勢四, "the Fourth (Star) of the [[:zh:紫微垣#星官|Eunuch]]", in traditional Chinese astronomy.
+
+46 LMi has [[stellar classification|spectral class]] K0+III-IV and is of [[apparent magnitude|magnitude]] 3.83.  Its distance from Earth is approximately 95 [[light year]]s.
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+}}
+
+== See also ==
+* [[Traditional Chinese star names#Leo Minor]]
+
+{{star-stub}}
+{{Stars of Leo Minor}}
+
+[[Category:Flamsteed objects|Leonis Minoris, 46]]
+[[Category:Leo Minor]]
+[[Category:Stars with proper names]]
+
+[[de:46 Leonis Minoris]]
+[[es:Praecipua]]
+[[fr:46 Leonis Minoris]]
+[[id:46 Leonis Minoris]]
+[[it:46 Leonis Minoris]]
+[[lb:Praecipua (Stär)]]
+[[nl:Praecipua]]
+[[ja:こじし座46番星]]
+[[pt:46 Leonis Minoris]]
+[[ru:46 Малого Льва]]
+[[sk:Praecipua]]
+[[sv:46 Leonis Minoris]]

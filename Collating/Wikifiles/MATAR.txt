@@ -1,0 +1,122 @@
+{{Starbox begin
+ | name = Eta Pegasi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 43.9%; top: 26.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of η Pegasi (circled) near the center
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|22|43|00.13743}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+30|13|16.4822}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.95<ref name=clpl4_99/>
+ | constell = [[Pegasus (constellation)|Pegasus]]
+}}
+{{Starbox character
+ | class    = {{nowrap|G2 II + F0 V}}<ref name=apjss119_1_83/>
+ | b-v      = +0.86<ref name=clpl4_99/>
+ | u-b      = +0.57<ref name=clpl4_99/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +4.3<ref name=gcsrv/>
+ | prop_mo_ra  = –100.06<ref name=aaa474_2_653/>
+ | prop_mo_dec = +15.46<ref name=aaa474_2_653/>
+ | parallax = 19.51
+ | p_error  = 0.18
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = –1.18<ref name=aaa361_614/>
+}}
+{{Starbox orbit
+ | reference = <ref name=aj135_1_209/>
+ | period_unitless = 813&nbsp;days
+ | eccentricity = 0.183
+ | periastron = 2452025&nbsp;[[Heliocentric Julian Day|HJD]]
+ | periarg = 344.7
+ | k1 = 14.37
+}}
+{{Starbox detail
+ | component1 = η Peg A
+ | mass     = {{nowrap|3.82 ± 0.52}}<ref name=an331_4_349/>
+ | radius   = 18<ref name=lang2006/>
+ | metal_fe = +0.39<ref name=aj110_2425/>
+ | gravity  = 2.40<ref name=aj110_2425/>
+ | age_gyr  = 
+ | luminosity  = 247<ref name=an331_4_349/>
+ | temperature = 5,450<ref name=an331_4_349/>
+ | rotational_velocity = 1.4<ref name=aj135_1_209/>
+ | rotation = 818<ref name=aaa361_614/>
+}}
+{{Starbox catalog
+ | names = Matar, 44 Peg, [[Catalogues of Fundamental Stars|FK5]]&nbsp;857, [[Henry Draper Catalogue|HD]]&nbsp;215182, [[Hipparcos Catalogue|HIP]]&nbsp;112158, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;8650, [[Star catalogue#SAO|SAO]]&nbsp;90734.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Eta Pegasi''' (η Peg) is a [[binary star]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. It has the traditional name '''Matar''', which comes from the [[Arabic language|Arabic]] Al Saʽd al Maṭar (سعد المطر) meaning ''lucky star of rain''.<ref name=pa52_8/> The [[apparent visual magnitude]] of this star is +2.95,<ref name=clpl4_99/> making this the [[List of stars in Pegasus|fifth brightest member]] of Pegasus. Based upon [[parallax]] measurements, the distance to this star is about {{Convert|167|ly|pc|abbr=off|lk}}.<ref name=aaa474_2_653/>
+
+This system consists of a pair of stars in a binary orbit with a [[orbital period|period]] of 813&nbsp;days and an [[orbital eccentricity|eccentricity]] of 0.183.<ref name=aj135_1_209/> The primary component is a [[bright giant]] star with a [[stellar classification]] of G2&nbsp;II<ref name=apjss119_1_83/> and about four times the mass of the Sun.<ref name=aaa361_614/> The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|3.26 ± 0.07 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of nearly 18 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> It is radiating 247<ref name=an331_4_349/> times the luminosity of the Sun from its expanded [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 5,450&nbsp;K.<ref name=an331_4_349/> The rotation rate of the star slowed as it expanded, so it has a [[projected rotational velocity]] of 1.7 km s<sup>–1</sup> with an estimated rotation period of 818 days.<ref name=aaa361_614/>
+
+The secondary component is an [[F-type main sequence star]] with a classification of F0&nbsp;V.<ref name=apjss119_1_83/> There are also 2 class G stars further away that may or may not be physically related to the main pair.
+
+==Namesakes==
+[[USS Matar (AK-119)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj110_2425>{{citation | last1=Luck | first1=R. Earle | last2=Wepfer | first2=Gordon G. | title=Chemical Abundances for F and G Luminosity Class II Stars | journal=Astronomical Journal | volume=110 | page=2425 | month=November | year=1995 | doi=10.1086/117702 | bibcode=1995AJ....110.2425L }}</ref>
+
+<ref name=aaa361_614>{{citation | last1=Pizzolato | first1=N. | last2=Maggio | first2=A. | last3=Sciortino | first3=S. | title=Evolution of X-ray activity of 1-3 Msun late-type stars in early post-main-sequence phases | journal=Astronomy and Astrophysics | volume=361 | pages=614–628 | month=September | year=2000 | bibcode=2000A&A...361..614P }}</ref>
+
+<ref name=apjss119_1_83>{{citation | last1=Parsons | first1=Sidney B. | last2=Ake | first2=Thomas B. | title=Ultraviolet and Optical Studies of Binaries with Luminous Cool Primaries and Hot Companions. V. The Entire IUE Sample | journal=The Astrophysical Journal Supplement Series | volume=119 | issue=1 | pages=83–104 | month=November | year=1998 | doi=10.1086/313152 | bibcode=1998ApJS..119...83P }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=clpl4_99>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=an331_4_349>{{citation | last1=Hohle | first1=M. M. | last2=Neuhäuser | first2=R. | last3=Schutz | first3=B. F. | title=Masses and luminosities of O- and B-type stars and red supergiants | journal=Astronomische Nachrichten | volume=331 | issue=4 | page=349 | month=April | year=2010 | doi=10.1002/asna.200911355 | bibcode=2010AN....331..349H |arxiv = 1003.2335 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=MATAR -- Star in double system | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Eta+Pegasi | accessdate=2012-03-03 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(51.3\cdot 3.26\cdot 10^{-3})\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 36\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=pa52_8>{{citation | last1=Davis | first1=George R., Jr. | title=The pronunciations, derivations, and meanings of a selected list of star names | journal=Popular Astronomy | volume=52 | page=8 | year=1944 | bibcode=1944PA.....52....8D }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/matar.html Matar]
+
+{{Stars of Pegasus}}
+
+[[Category:Pegasus (constellation)]]
+[[Category:Bayer objects|Pegasi, Eta]]
+[[Category:Flamsteed objects|Pegasi, 44]]
+[[Category:Stars with proper names]]
+
+[[ar:سعد المطر]]
+[[de:Matar]]
+[[es:Matar (estrella)]]
+[[fa:سعدالمطر]]
+[[fr:Eta Pegasi]]
+[[id:Eta Pegasi]]
+[[lb:Matar (Stär)]]
+[[nl:Matar]]
+[[ja:ペガスス座イータ星]]
+[[pl:Eta Pegasi]]
+[[pt:Eta Pegasi]]
+[[sk:Matar]]
+[[tt:Мәтарь]]
+[[zh:离宫四]]

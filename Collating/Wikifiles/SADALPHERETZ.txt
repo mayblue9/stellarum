@@ -1,0 +1,147 @@
+{{Starbox begin
+| name=Lambda Pegasi }}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pegasus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pegasus constellation and its surroundings]]
+     <div style="position: absolute; left: 109px; top: 80px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of λ Pegasi (circled)
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|22|46|31.87786}}<ref name="SIMBAD">{{cite web
+    | url=http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=HD+215665&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+   | title =SIMBAD query result: lam Peg -- Star 
+   | publisher=Centre de Données astronomiques de Strasbourg
+   | accessdate=2012-08-28}}</ref>
+ | dec      = {{DEC|+23|33|56.3561}}<ref name="SIMBAD"/>
+ | appmag_v = 3.96<ref name="SIMBAD"/>
+ | constell = [[Pegasus (constellation)|Pegasus]]
+}}
+{{Starbox character
+ | class    = G8II-III<ref name="SMITH1"/><ref name="WOLFRAM1"/>
+ | b-v      = +1.07<ref name="SIMBAD"/>
+ | u-b      = +0.96<ref name="SIMBAD"/>
+ | variable= 
+}}
+{{Starbox astrometry 
+ | radial_v=-3.9<ref name="SIMBAD"/>
+ | prop_mo_ra=55.75<ref name="SIMBAD"/>
+ | prop_mo_dec=-10.15<ref name="SIMBAD"/>
+ | parallax=8.93
+ | p_error=0.24
+ | parallax_footnote=<ref name=VANLEEUWEN>{{cite journal
+   | author=van Leeuwen, F. 
+   | title=Validation of the new Hipparcos reduction 
+   | journal=Astronomy and Astrophysics 
+   | year=2007 
+   | month=November
+   | volume=474 
+   | issue=2 
+   | pages=653–664 
+   | url=http://arxiv.org/pdf/0708.1752v1.pdf
+   | bibcode=2007A&A...474..653V 
+   | doi=10.1051/0004-6361:20078357
+   | accessdate=2012-08-28}}</ref>
+ | absmag_v=-1.45<ref name="WOLFRAM1">{{cite web
+   |title=λ Pegasi
+   |publisher=[[Wolfram Alpha]]
+   |url=http://www.wolframalpha.com/input/?i=lambda+pegasi
+   |accessdate=2012-08-28}}</ref>
+}}
+{{Starbox detail 
+ | mass=~1,5<ref name="SMITH1">{{cite journal
+   | author=Smith, G.
+   | title=Stellar atmospheric parameters for the giant stars MU Pegasi and lambda Pegasi
+   | journal=Astronomy & Astrophysics
+   | year=1998
+   | month=November
+   | volume=339
+   | page=531-536
+   | url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1998A%26A...339..531S&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf
+   | bibcode=1998A&A...339..531S
+   | accessdate=2012-08-28}}</ref>
+ | radius=28.5<ref name="SMITH1"/><ref name="KALER">{{cite web 
+    | title=SADALBARI (Lambda and Mu Pegasi)
+    | publisher=University of Illinois 
+    | work=Stars 
+    | first1=James B. 
+    | last1=Kaler 
+    | url=http://stars.astro.illinois.edu/sow/sadalbari.html
+    | accessdate=2012-08-28}}</ref> 
+ | luminosity=390<ref name="SMITH1"/>
+ | temperature=4,933<ref name="KOLEVA1">{{cite journal
+   | author=Koleva, M.; Vazdekis, A.
+   | title=Stellar population models in the UV. I. Characterisation of the New Generation Stellar Library
+   | journal=Astronomy & Astrophysics
+   | year=2012
+   | month=February
+   | volume=Volume 538, id.A143 
+   | url=http://arxiv.org/pdf/1111.5449v1.pdf
+   | doi=10.1051/0004-6361/201118065
+   | bibcode=2012A&A...538A.143K
+   | accessdate=2012-08-28}}</ref>
+ | metal_fe=0.12<ref name="KOLEVA1"/>
+ | rotational_velocity=8.0<ref name=HEKKER1>{{cite journal
+   | author=Hekker, S.; Meléndez, J.
+   | title=Precise radial velocities of giant stars. III. Spectroscopic stellar parameters
+   | year=2007
+   | month=December
+   | publisher=[[Astronomy and Astrophysics]]
+   | volume=475
+   | issue=3
+   | page=1003-1009
+   | url=http://arxiv.org/pdf/0709.1145v2.pdf
+   | doi=10.1051/0004-6361:20078233
+   | bibcode=2007A&A...475.1003H
+}}</ref>
+ | age_gyr=
+}}
+{{Starbox catalog
+ | names=Sadalpheretz, Sad Al Faris, [[Bayer designation|λ Peg]], [[Flamsteed designation|47&nbsp;Peg]], [[Harvard Revised catalogue|HR]]&nbsp;8667, [[Bonner Durchmusterung|BD]] +22° 4709, [[Henry Draper Catalogue|HD]]&nbsp;215665, [[Catalogues of Fundamental Stars|FK5]]&nbsp;859, [[Hipparcos catalogue|HIP]]&nbsp;112440, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;90775, [[Boss General Catalogue|GC]]&nbsp;31776, [[IRAS]] 22441+2318, [[2MASS]]&nbsp;J22463188+2333564
+}}
+{{Starbox reference
+ | Simbad=HD+215665
+}}
+{{Starbox end}}
+
+{{Sky|22|46|31.9|+|23|33|56.0|600}}
+
+'''Lambda Pegasi''' (λ Peg, λ Pegasi) is a fourth-magnitude [[star]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. It has the traditional name '''Sadalpheretz'''<ref name="WIKISKY">{{cite web
+ | url=http://news.sky-map.org/starview?object_type=1&object_id=693&object_name=47+Peg&locale=EN
+ | title =λ Peg (Sadalpheretz)
+ | publisher=[[Wikisky]]
+ | accessdate=2012-08-28}}</ref><ref name="YILDIZ">{{cite web
+ | url=http://www.pultar.org/mustafa/YAS/S.html
+ | title =YILDIZ ADLARI SÖZLÜĞÜ (Glossary of Star Names)
+ | publisher=[[Mustafa Pultar]]
+ | accessdate=2012-08-28}}</ref>, sometimes spelled '''Sadalpheris''' or '''Sad Al Faris''', from the [[Arabic language|Arabic]] '''سعد الفرس''' meaning "Luck of the Stallion", its etymology similar to that of the star [[Alpheratz]], with both referring to the [[mythological]] winged-horse [[Pegasus]]. 
+
+Sadalpheretz is a yellow [[giant star|giant]] with [[stellar classification]] G8II-III. With a mass of 1.5 [[Solar mass|M<sub>☉</sub>]] and radius that is 28.5 [[Solar radius|R<sub>☉</sub>]], the star boasts a [[bolometer|bolometric]] luminosity that is roughly 390 [[Solar luminosity|L<sub>☉</sub>]].<ref name="SMITH1"/>   Its [[apparent magnitude]] was calibrated in 1983 at 3.96, yielding an [[absolute magnitude|intrinsic brightness]] of -1.45.<ref name="WOLFRAM1"/>  [[Parallax]] calculations place the star at a distance of roughly 112 [[parsec]]s from Earth, or 365 ± 10 [[light year]]s away<ref name=VANLEEUWEN/>, about three times the distance of its line-of-sight double [[Mu Pegasi|Sadalbari]].
+
+In the constellation, Lambda and Mu lie to the southwest of [[Beta Pegasi]], the nearest bright star.
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Pegasus|Pegasus]]
+* [[Stellar classification#Class G|Class G Stars]]
+* [[Giant star]]
+
+
+== References ==
+{{Reflist|colwidth=25em}}
+
+
+
+
+
+
+{{Stars of Pegasus}}
+
+[[Category:Bayer objects|Pegasi, Alpha]]
+[[Category:G-type giants]]
+[[Category:Pegasus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[es:Lambda Pegasi]]
+[[id:Lambda Pegasi]]
+[[pt:Lambda Pegasi]]

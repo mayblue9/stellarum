@@ -1,0 +1,117 @@
+{{Starbox begin
+| name=Gamma Centauri A/B
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Centaurus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Centauri constellation and its surroundings]]
+     <div style="position: absolute; left: 129px; top: 107px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Centauri (circled)
+}}
+{{Starbox observe
+| epoch     = J2000
+| ra        = {{RA|12|41|31.04008}}<ref name=aaa474_2_653/>
+| dec       = {{DEC|−48|57|35.5375}}<ref name=aaa474_2_653/>
+| appmag_v  = +2.17<ref name=clpl4_99/>&nbsp;(+2.85/+2.95)<ref name=aaa356_141/>
+| constell  = [[Centaurus]]
+}}
+{{Starbox character
+| class     = A1IV+<ref name=aj132_1_161/>&nbsp;(A0III/A0III)<ref name=schaaf/>
+| b-v       = −0.01<ref name=clpl4_99/>
+| u-b       = −0.01<ref name=clpl4_99/>
+| variable  = 
+}}
+{{Starbox astrometry
+| radial_v  = −5.5<ref name=rgcrv/>
+| prop_mo_ra  = −185.72<ref name=aaa474_2_653/>
+| prop_mo_dec = +5.79<ref name=aaa474_2_653/>
+| parallax  = 25.06
+| p_error   = 0.28
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v  = –0.81<ref name=schaaf/>
+}}
+{{Starbox detail
+| mass = 2.91<ref name=apjs192_1_2/>
+| radius = 
+| luminosity = 
+| temperature = 9,082<ref name=aj132_1_161/>
+| gravity = 3.52<ref name=aj132_1_161/>
+| metal =
+| rotational_velocity = 
+| age = 
+}}
+{{Starbox visbin
+| name=γ Centauri B
+| reference = <ref name=aj122_6_3466/>
+| period = 84.5
+| axis = 0.93
+| eccentricity = 
+| inclination = 
+| node = 
+| periastron = 
+}}<!--
+-->{{Starbox catalog
+| names=Muhlifain, [[Harvard Revised catalogue|HR]]&nbsp;4819, [[Henry Draper catalogue|HD]]&nbsp;110304, [[Bonner Durchmusterung|CD]]−48°7597, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;223603, WDS&nbsp;12415-4858, [[Hipparcos catalogue|HIP]]&nbsp;61932, GC&nbsp;17262, CCDM&nbsp;J12415-4858.
+}}
+{{Starbox reference
+| Simbad=HD+110304
+}}
+{{Starbox end}}
+
+'''Gamma Centauri''' (γ Cen, γ Centauri) is a [[star]] in the southern [[constellation]] [[Centaurus]]. It has the proper name '''Muhlifain''',<ref>Kunitzsch, P., ''Arabische Sternnamen in Europa'', Otto Harrassowitz, [[Wiesbaden]], p.188.</ref> not to be confused with Muliphein, which is [[γ Canis Majoris]]; both names derive from the same Arabic root.
+
+Gamma Centauri is a [[double star]] located about {{Convert|130|ly|pc|abbr=off|lk=on}} from [[Earth]]. The combined [[apparent visual magnitude]] of the pair is +2.17,<ref name=clpl4_99/> although individually they are third magnitude stars.<ref name=aaa356_141/> The stellar classification of the pair is A1IV+,<ref name=aj132_1_161/> suggesting they are A-type [[subgiant]] stars in the process of becoming [[giant star|giants]]. Individually, their stellar classifications are sometimes listed as A0III, which would mean they have already become giants.<ref name=schaaf/>
+
+In 2000, the pair had an angular separation of 1.217 [[arcsecond]]s with a [[position angle]] of 351.9°.<ref name=aaa356_141/> Their positions have been observed since 1897, which is long enough to estimate an orbital period of 84.5 years and a [[semimajor axis]] of 0.93 arcseconds.<ref name=aj122_6_3466/> At the distance of this system, this is equivalent to a linear distance of about 93 [[Astronomical Unit]]s.<ref name=kaler/> The star [[Tau Centauri]] is relatively close to Gamma Centauri, with an estimated separation of {{Convert|1.72|ly|pc}}.<ref name=apjs192_1_2/>
+
+==Etymology==
+
+In [[Chinese language|Chinese]], {{lang|zh|庫樓}} ({{lang|zh-Latn|Kù Lóu}}), meaning ''[[Horn (Chinese constellation)|Arsenal]]'', refers to an asterism consisting of γ Centauri, [[Zeta Centauri|ζ Centauri]], [[Eta Centauri|η Centauri]], [[Theta Centauri|θ Centauri]], [[2 Centauri]], [[HD 117440]], [[Xi¹ Centauri|ξ<sup>1</sup> Centauri]], [[Tau Centauri|τ Centauri]], [[D Centauri]] and [[Sigma Centauri|σ Centauri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Centauri itself is known as {{lang|zh|庫樓七}} ({{lang|zh-Latn|Kù Lóu qī}}, {{lang-en|the Seventh Star of Arsenal}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+The people of [[Aranda]]{{dn|date=June 2012}} and [[Luritja]] tribe around [[Hermannsburg]], [[Central Australia]] named '''Iritjinga''', "The Eagle-hawk", a quadrangular arrangement comprising this star, [[Delta  Centauri|δ Cen]] (Ma Wei), [[Delta Crucis|δ Cru]] (Palida) and [[Gamma Crucis|γ Cru]] (Gacrux), .<ref>p. 8, [http://books.google.com/books?id=XoeiJxMmXZ8C&pg ''Explorers of the southern sky: a history of Australian astronomy''], Raymond Haynes, Cambridge, Cambridge University Press, 1996.</ref>
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editors=Batten, Alan Henry; Heard, John Frederick | title=The Revision of the General Catalogue of Radial Velocities | booktitle=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | url=http://adsabs.harvard.edu/abs/1967IAUS...30...57E | accessdate=2009-09-10 }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 pc-The Southern Sample | journal=The Astronomical Journal | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G |arxiv = astro-ph/0603770 }}</ref>
+
+<ref name=apjs192_1_2>{{citation | last1=Shaya | first1=Ed J. | last2=Olling | first2=Rob P. | title=Very Wide Binaries and Other Comoving Stellar Companions: A Bayesian Analysis of the Hipparcos Catalogue | journal=The Astrophysical Journal Supplement | volume=192 | issue=1 | page=2 | month=January | year=2011 | doi=10.1088/0067-0049/192/1/2 | bibcode=2011ApJS..192....2S |arxiv = 1007.0425 }}</ref>
+
+<ref name=aaa356_141>{{citation | last1=Fabricius | first1=C. | last2=Makarov | first2=V. V. | title=Two-colour photometry for 9473 components of close Hipparcos double and multiple stars | journal=Astronomy and Astrophysics | volume=356 | pages=141–145 | month=April | year=2000 | bibcode=2000A&A...356..141F }}</ref>
+
+<ref name=clpl4_99>{{Cite journal | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=schaaf>{{citation | first1=Fred | last1=Schaaf | title=The brightest stars: discovering the universe through the sky's most brilliant stars | publisher=John Wiley and Sons | year=2008 | isbn=0-471-70410-5 | page=262 | url=http://books.google.com/books?id=LvnNFyPAQyUC&pg=PA262 }}</ref>
+
+<ref name=aj122_6_3466>{{citation | display-authors=1 | last1=Mason | first1=Brian D. | last2=Wycoff | first2=Gary L. | last3=Hartkopf | first3=William I. | last4=Douglass | first4=Geoffrey G. | last5=Worley | first5=Charles E. | title=The 2001 US Naval Observatory Double Star CD-ROM. I. The Washington Double Star Catalog | journal=The Astronomical Journal | volume=122 | issue=6 | pages=3466–3471 | month=December | year=2001 | doi=10.1086/323920 | bibcode=2001AJ....122.3466M }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=MUHLIFAIN (Gamma Centauri) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/muhlifain.html | accessdate=2011-12-31 }}</ref>
+
+}}
+
+{{Stars of Centaurus}}
+
+[[Category:Centaurus (constellation)]]
+[[Category:Bayer objects|Centauri, Gamma]]
+[[Category:Binary stars]]
+[[Category:A-type giants]]
+
+[[de:Gamma Centauri]]
+[[es:Gamma Centauri]]
+[[fa:گاما قنطورس]]
+[[fr:Gamma Centauri]]
+[[ko:물리파인]]
+[[id:Gamma Centauri]]
+[[it:Gamma Centauri]]
+[[ja:ケンタウルス座ガンマ星]]
+[[pl:Gamma Centauri]]
+[[pt:Gamma Centauri]]
+[[ro:Gamma Centauri]]
+[[ru:Гамма Центавра]]
+[[sk:Muhlifain]]
+[[fi:Gamma Centauri]]
+[[zh:庫樓七]]

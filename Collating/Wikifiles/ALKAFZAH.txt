@@ -1,0 +1,63 @@
+{{Starbox begin
+ | name=Chi Ursae Majoris
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 38%; top: 45%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of χ Ursae Majoris (circled)
+}}
+{{Starbox short |
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Ursa Major]]
+| ra=11<sup>h</sup> 46<sup>m</sup> 03.0<sup>s</sup>
+| dec=+47° 46' 46"
+| spectral=K0.5IIIb
+| appmag_v=+3.69
+| dist_ly=196 ± 7
+| dist_pc=60 ± 2
+| names=Alkaphrah, El Koprah, χ&nbsp;Ursae Majoris, χ&nbsp;UMa, Chi&nbsp;UMa, 63&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+48&nbsp;1966, [[Fifth Fundamental Catalogue|FK5]]&nbsp;441, [[Boss General Catalogue|GC]]&nbsp;16137, [[Henry Draper Catalogue|HD]]&nbsp;102224, [[Hipparcos catalogue|HIP]]&nbsp;57399, [[Bright Star Catalogue|HR]]&nbsp;4518, [[PPM Star Catalogue|PPM]]&nbsp;52620, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;43886
+}}
+
+[[File:NGC3877-LB3-2010May16.jpg|180px|thumb|left|Chi Ursae Majoris (top) and [[NGC 3877]] (bottom)]]
+
+'''Chi Ursae Majoris''' ('''Chi&nbsp;UMa''', '''χ&nbsp;Ursae Majoris''', '''χ&nbsp;UMa''') is a [[star]] in the [[constellation]] [[Ursa Major]].  It has the traditional names '''Alkafzah''', '''Alkaphrah''', and '''El Koprah'''.
+
+Chi Ursae Majoris is an orange [[stellar classification|K-type]] [[giant star|giant]] with an [[apparent magnitude]] of +3.69.  It is approximately 196 [[light years]] from [[Earth]]. This star has {{nowrap|20.8 ± 0.8}} times the radius of the Sun.<ref name=aj118_6_3032/>
+
+In [[Chinese astronomy]], Alkafzah is called '''Tae Yang Show''', "the Sun Governor".<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen: Star Names — Their Lore and Meaning: Ursa Major]</ref> The name was possibly derived from the word 太陽守, [[Pinyin]]: Tàiyángshǒu, meaning ''Guard of the Sun'', because this star is marking itself and stand alone in ''Guard of the Sun'' asterism, [[Purple Forbidden enclosure]] (see : [[Chinese constellation]]).
+
+The Spiral Galaxy in Ursa Major, NGC 3877 (= H I.201), type Sc, is best found from Chi Ursae Majoris, which is almost exactly 15 arc minutes north of the galaxy.
+
+==See also==
+* [[Ursa Major]]
+* [[Ursa Major Moving Group]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aj118_6_3032>{{citation | display-authors=1 | last1=Nordgren | first1=Tyler E. | last2=Germain | first2=M. E. | last3=Benson | first3=J. A. | last4=Mozurkewich | first4=D. | last5=Sudol | first5=J. J. | last6=Elias | first6=N. M., II | last7=Hajian | first7=Arsen R. | last8=White | first8=N. M. | last9=Hutter | first9=D. J. | title=Stellar Angular Diameters of Late-Type Giants and Supergiants Measured with the Navy Prototype Optical Interferometer | journal=The Astronomical Journal | volume=118 | issue=6 | pages=3032–3038 | month=December | year=1999 | doi=10.1086/301114 | bibcode=1999AJ....118.3032N }}</ref>
+
+}}
+
+* {{WikiSky}}
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Chi]]
+[[Category:Ursa Major (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+
+{{Giant-star-stub}}
+
+[[de:Chi Ursae Majoris]]
+[[es:Al Kaphrah]]
+[[fa:خی خرس بزرگ]]
+[[fr:Chi Ursae Majoris]]
+[[it:Chi Ursae Majoris]]
+[[pl:Chi Ursae Majoris]]
+[[pt:Chi Ursae Majoris]]
+[[zh:太陽守]]

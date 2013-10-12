@@ -1,0 +1,108 @@
+{{Starbox begin
+| name     = Delta Corvi
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Corvus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Corvus constellation and its surroundings]]
+     <div style="position: absolute; left: 47.8%; top: 35.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of δ Corvi (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|12|29|51.85517}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|-16|30|55.5525}}<ref name=aaa474_2_653/>
+| appmag_v = +2.962<ref name=sps1966/>
+| constell = [[Corvus (constellation)|Corvus]]
+}}
+{{Starbox character
+| class    = {{nowrap|A0 IV(n) kB9}}<ref name=aj132_1_161/>
+| b-v      = –0.045<ref name=sps1966/>
+| u-b      = –0.050<ref name=sps1966/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +9<ref name=gcsrv53/>
+| prop_mo_ra  = -210.49<ref name=aaa474_2_653/>
+| prop_mo_dec = -138.74<ref name=aaa474_2_653/>
+| parallax = 37.55
+| p_error  = 0.16
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = +0.2<ref name=aaa456_3_1045/>
+}}
+{{Starbox detail
+| mass     = 2.74{{+-|0.07|0.06}}<ref name=aaa495_3_901/>
+| radius   = 
+| gravity  = {{nowrap|4.06 ± 0.05}}<ref name=aaa495_3_901/>
+| luminosity  = 69.0{{+-|9.7|8.9}}<ref name=aaa495_3_901/>
+| temperature = 10,400<ref name=aaa495_3_901/>
+| metal_fe = 
+| rotational_velocity = 236<ref name=aaa463_2_671/>
+| age      = {{nowrap|260{{+-|14|24}} × 10<sup>6</sup>}}<ref name=aaa495_3_901/>
+}}
+{{Starbox catalog
+| names = 7&nbsp;Crv, [[Bonner Durchmusterung|BD]]-15&nbsp;3482, [[FK5]]&nbsp;465, [[Henry Draper Catalogue|HD]]&nbsp;108767, [[Hipparcos catalogue|HIP]]&nbsp;60965, [[Bright Star Catalogue|HR]]&nbsp;4757, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;157323.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Delta Corvi''' (δ Crv, δ Corvi) is a [[star]] in the southern [[constellation]] of [[Corvus (constellation)|Corvus]].  It has the traditional name '''Algorab''' (from [[Arabian]] '''ألغراب''' ''al-ghuraab'', meaning "the crow"). This is a third magnitude star at a distance of {{Convert|86.9|ly|pc|abbr=off|lk=on}} from [[Earth]]. In 1823, it was found to be a wide [[double star]] by British astronomers [[James South]] and [[John Herschel]]. Since that time, the position of the two stars with respect to each other has not changed.<ref name=garfinkle1997/>
+
+This star has more than 2.7 times the [[solar mass|mass of the Sun]], which is causing it to radiate a much higher energy output—roughly 69 times the [[solar luminosity|Sun's luminosity]]. The [[effective temperature]] of the outer atmosphere is 10,400&nbsp;K,<ref name=aaa495_3_901/> giving it the white hue of an A-type star.<ref name=csiro/> The [[spectrum]] matches a [[stellar classification]] of {{nowrap|A0 IV(n) kB9}}.<ref name=aj132_1_161/> Although it is only around 260 million years old,<ref name=aaa495_3_901/> the [[luminosity class]] of 'IV' indicates this is a [[subgiant star]] that has nearly exhausted the supply of hydrogen at its core and is in the process of [[stellar evolution|evolving]] away from the [[main sequence]] of stars like the Sun.
+
+Algorab displays no [[infrared excess|excess infrared emission]] that would otherwise suggest the presence of circumstellar matter.<ref name=apj653_1_675/> It has a magnitude 9.3 companion, HR 4757 B, with a classification of K2Ve at an [[angular separation]] of 24.2&nbsp;[[arcsecond]]s along a [[position angle]] of 214°.<ref name=garfinkle1997/><ref name=mnras389_2_869/> Although the two stars share a common [[proper motion]],<ref name=mnras389_2_869/> the significant differences in their estimated ages suggests that they may not be physically connected.<ref name=aaa495_3_901/>
+
+In [[Chinese language|Chinese]], {{lang|zh|軫宿}} ({{lang|zh-Latn|Zhěn Sù}}), meaning ''[[Chariot (Chinese constellation)|Chariot]] (asterism)'', refers to an asterism consisting of δ Corvi, [[Gamma Corvi|γ Corvi]], [[Epsilon Corvi|ε Corvi]] and [[Beta Corvi|β Corvi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Corvi itself is known as {{lang|zh|軫宿三}} ({{lang|zh-Latn|Zhěn Sù sān}}, {{lang-en|the Third Star of Chariot}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+[[USS Algorab (AKA-8)]] is a United States navy ship.
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | first2=C. J. | last2=Corbally | first3=R. F. | last3=Garrison | first4=M. T. | last4=McFadden | first5=P. E. | last5=Robinson | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 parsecs: The Northern Sample I | journal=The Astronomical Journal | volume=132 | issue=1 | pages=161–170 | year=2006 | month=July | doi=10.1086/504637 | bibcode=2006AJ....132..161G |arxiv = astro-ph/0603770 }}</ref>
+
+<ref name=gcsrv53>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aaa495_3_901>{{citation | display-authors=1 | last1=Montesinos | first1=B. | last2=Eiroa | first2=C. | last3=Mora | first3=A. | last4=Merín | first4=B. | title=Parameters of Herbig Ae/Be and Vega-type stars | journal=Astronomy and Astrophysics | volume=495 | issue=3 | pages=901–917 | month=March | year=2009 | doi=10.1051/0004-6361:200810623 | bibcode=2009A&A...495..901M |arxiv = 0811.3557 }}</ref>
+
+<ref name=aaa456_3_1045>{{citation | display-authors=1 | last1=Blondel | first1=P. F. C. | last2=Djie | first2=H. R. E. | last3=Tjin | first3=A. | title=Modeling of PMS Ae/Fe stars using UV spectra | journal=Astronomy and Astrophysics | volume=456 | issue=3 | pages=1045–1068 | month=September | year=2006 | doi=10.1051/0004-6361:20040269 | bibcode=2006A&A...456.1045B }}</ref>
+
+<ref name=SIMBAD>{{citation | title=del Crv -- Variable Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=del+Crv | accessdate=2012-01-30 }}</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E |arxiv = 0806.2878 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=garfinkle1997>{{citation | first1=Robert A. | last1=Garfinkle | title=Star-Hopping: Your Visa to Viewing the Universe | publisher=Cambridge University Press | year=1997 | isbn=0-521-59889-3 | page=109 | url=http://books.google.com/books?id=40JzBYGREL0C&pg=PA109 }}</ref>
+
+}}
+
+{{Stars of Corvus}}
+
+[[Category:Corvus (constellation)]]
+[[Category:Bayer objects|Corvi, Delta]]
+[[Category:Stars with proper names]]
+
+[[ar:الغراب (نجم)]]
+[[cs:Algorab]]
+[[de:Algorab]]
+[[es:Algorab]]
+[[fa:دلتا کلاغ]]
+[[fr:Delta Corvi]]
+[[ko:알고라브]]
+[[id:Delta Corvi]]
+[[it:Delta Corvi]]
+[[lb:Algorab (Stär)]]
+[[ml:അത്തം (നാൾ)]]
+[[nl:Algorab]]
+[[ja:からす座デルタ星]]
+[[pl:Algorab]]
+[[pt:Algorab]]
+[[sk:Algorab]]
+[[zh:軫宿三]]

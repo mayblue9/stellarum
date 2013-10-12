@@ -1,0 +1,103 @@
+{{Starbox begin
+ | name=Theta Leonis
+}}
+{{Starbox image
+ | image = 
+     <div style="position: relative">[[File:Leo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Leo constellation and its surroundings]]
+     <div style="position: absolute; left: 32.7%; top: 37.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+ | caption=Location of θ Leonis (circled)
+}}
+{{Starbox observe 
+ | epoch    = [[J2000.0]]
+ | constell = [[Leo (constellation)|Leo]] 
+ | ra       = {{RA|11|14|14.40446}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+15|25|46.4541}}<ref name=aaa474_2_653/>
+ | appmag_v = +3.324<ref name=clpl4_99/>
+}}
+{{Starbox character 
+ | class    = A2&nbsp;V<ref name=aj74_375/>
+ | b-v      = –0.02<ref name=clpl4_99/>
+ | u-b      = +0.07<ref name=clpl4_99/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +7.6<ref name=scfs/>
+ | prop_mo_ra  = -60.31<ref name=aaa474_2_653/>
+ | prop_mo_dec = -79.10<ref name=aaa474_2_653/>
+ | parallax = 19.76
+ | p_error  = 0.17
+ | parallax_footnote = <ref name=aaa474_2_653/>
+}}
+{{Starbox detail
+ | mass     = 2.5<ref name=apj663_1_365/>
+ | radius   = 
+ | gravity  = 3.65<ref name=aaa274_2_335/>
+ | metal_fe = +0.05<ref name=aaa274_2_335/>
+ | age_myr  = 550<ref name=aaa274_2_335/>
+ | luminosity  = 141<ref name=apj663_1_365/>
+ | temperature = 9,350<ref name=aaa274_2_335/>
+ | rotational_velocity = 23<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+ | names=70 Leo, [[Harvard Revised catalogue|HR]] 4359, [[Bonner Durchmusterung|BD]]+16 2234, [[Henry Draper catalogue|HD]] 97633, [[Smithsonian Astrophysical Observatory|SAO]] 99512, [[Fifth Fundamental Catalogue|FK5]] 423, [[Hipparcos catalogue|HIP]] 54879.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Theta Leonis''' (θ Leo, θ Leonis) is a [[star]] in the [[constellation]] [[Leo (constellation)|Leo]]. It has the traditional names Chertan, Chort and Coxa.<ref name=burnham1978/> With an [[apparent visual magnitude]] of +3.324<ref name=clpl4_99/> it is visible to the naked eye and forms one of the [[List of stars in Leo|brighter stars]] in the constellation. The distance from [[Earth]] can be directly determined from [[parallax]] measurements, yielding a value of about {{Convert|165|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+This is a large star with 2.5 times the mass of the Sun.<ref name=apj663_1_365/> The [[spectrum]] matches a [[stellar classification]] of A2&nbsp;V,<ref name=aj74_375/> making this a seemingly typical [[A-type main sequence star]]. However, the spectrum shows enhanced absorption lines of metals, marking this as a chemically peculiar [[Am star]].<ref name=aaa491_2_545/> The abundance of elements other than hydrogen and helium, what astronomers term the star's [[metallicity]], appears around 12% higher than in the Sun.<ref name=aaa274_2_335/> It is radiating 141<ref name=apj663_1_365/> times the luminosity of the Sun from its outer atmosphere at an [[effective temperature]] of 9,350&nbsp;K,<ref name=aaa274_2_335/> literally giving it a white-hot glow.<ref name=csiro/>
+
+Theta Leonis is much younger than the Sun, with an estimated age of around 550&nbsp;million years.<ref name=aaa274_2_335/> It has a moderately high rate of rotation, with a [[projected rotational velocity]] of {{nowrap|23 km s<sup>–1</sup>}}.<ref name=aaa463_2_671/> Measurements in the infrared band show an [[infrared excess|excess of emission]] from the star and its surroundings, suggesting the presence of a circumstellar disk of dust. The temperature of this emission indicates the disk has an orbital radius of 36&nbsp;[[Astronomical Unit|AU]].<ref name=aaa274_2_335/>
+
+==Etymology==
+This star has the following traditional names:
+*'''Chertan''' (from [[Arabic]] ''{{transl|ar|al-kharātān}}'' = "two small ribs", originally referring to δ and θ Leonis)
+*'''Chort''' (from Arabic ''{{transl|ar|al-kharāt}}'' or ''{{transl|ar|al-khurt}}'' = "small rib")
+*'''{{Lang|la|Coxa}}''' ([[Latin]] for "hip")
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name=aaa274_2_335>{{citation | last1=Smith | first1=K. C. | last2=Dworetsky | first2=M. M. | title=Elemental Abundances in Normal Late B-Stars and Hgmn-Stars from Co-Added IUE Spectra - Part One - Iron Peak Elements | journal=Astronomy and Astrophysics | year=1993 | volume=274 | issue=2 | pages=335 | bibcode=1993A&A...274..335S }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=aaa491_2_545>{{citation | display-authors=1 | last1=Netopil | first1=M. | last2=Paunzen | first2=E. | last3=Maitzen | first3=H. M. | last4=North | first4=P. | last5=Hubrig | first5=S. | title=Chemically peculiar stars and their temperature calibration | journal=Astronomy and Astrophysics | volume=491 | issue=2 | pages=545–554 | month=November | year=2008 | doi=10.1051/0004-6361:200810325 | bibcode=2008A&A...491..545N |arxiv = 0809.5131 }}</ref>
+
+<ref name=apj663_1_365>{{citation | display-authors=1 | last1=Wyatt | first1=M. C. | last2=Smith | first2=R. | last3=Su | first3=K. Y. L. | last4=Rieke | first4=G. H. | last5=Greaves | first5=J. S. | last6=Beichman | first6=C. A. | last7=Bryden | first7=G. | title=Steady State Evolution of Debris Disks around A Stars | journal=The Astrophysical Journal | volume=663 | issue=1 | pages=365–382 | month=July | year=2007 | doi=10.1086/518404 | bibcode=2007ApJ...663..365W |arxiv = astro-ph/0703608 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=tet Leo -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Theta+Leonis | accessdate=2012-02-11 }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | title=Burnham's celestial handbook: an observer's guide to the universe beyond the Solar System | volume=2 | series=Dover Books on Astronomy | edition=2nd | publisher=Courier Dover Publications | year=1978 | isbn=0-486-23568-8 | page=1067 | url=http://books.google.com/books?id=wB9uZ9lH5bgC&pg=PA1067 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Leo}}
+
+[[Category:Leo (constellation)]]
+[[Category:Bayer objects|Leonis, Theta]]
+[[Category:Stars with proper names]]
+[[Category:A-type main sequence stars]]
+
+[[ar:الخرت (نجم)]]
+[[de:Chertan]]
+[[es:Chertan]]
+[[fa:خراتان]]
+[[fr:Theta Leonis]]
+[[id:Theta Leonis]]
+[[it:Theta Leonis]]
+[[nl:Chort]]
+[[pt:Theta Leonis]]
+[[ru:Тета Льва]]
+[[zh:西次相]]

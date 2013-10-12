@@ -1,0 +1,50 @@
+{{starbox short
+ | name=θ Pegasi
+ | epoch=[[J2000.0]]
+ | constell=[[Pegasus (constellation)|Pegasus]]
+ | ra={{RA|22|10|12}}
+ | dec={{DEC|+06|11|52}}
+ | spectral=A2&nbsp;Vp
+ | appmag_v=+3.53
+ | dist_ly=12,210
+ | dist_pc=3,743.6
+ | names=Baham, 26 Peg, [[FK5]]&nbsp;834, [[Henry Draper Catalogue|HD]]&nbsp;210418, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;8450, [[Star catalogue#SAO|SAO]]&nbsp;127340.
+}}
+
+'''Theta Pegasi''' (θ Peg) is a [[star]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]].  It has the traditional name '''Baham''' ("the livestocks").
+
+In [[Chinese language|Chinese]], {{lang|zh|危宿}} ({{lang|zh-Latn|Wēi Sù}}), meaning ''[[Rooftop (Chinese constellation)|Rooftop]]'', refers to an [[asterism (astronomy)|asterism]] consisting of θ Pegasi, [[Alpha Aquarii|α Aquarii]] and [[Epsilon Pegasi|ε Pegasi]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Pegasi itself is known as {{lang|zh|危宿二}} ({{lang|zh-Latn|Wēi Sù èr}}, {{lang-en|the Second Star of Rooftop}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+Theta Pegasi is of [[stellar classification|spectral class]] A2 and has [[apparent magnitude]] +3.53. It is approximately 67 [[light year]]s from [[Earth]]. This star has 2.6 times the Sun's radius and it is radiating 25 times the luminosity of the Sun from its [[stellar atmosphere|outer envelope]] at an [[effective temperature]] of 7,951&nbsp;K.<ref name=apj746_1_101/>
+
+==References==
+{{reflist|refs=
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B |arxiv = 1112.3316 }}. See Table 10.</ref>
+
+}}
+
+==External links==
+
+{{star-stub}}
+{{Stars of Pegasus}}
+
+[[Category:Pegasus (constellation)]]
+[[Category:Bayer objects|Pegasi, Theta]]
+[[Category:Flamsteed objects|Pegasi, 26]]
+[[Category:Stars with proper names]]
+
+[[ar:سعد البهام]]
+[[de:Baham (Stern)]]
+[[es:Baham (estrella)]]
+[[fa:تتا پگاسوس]]
+[[fr:Theta Pegasi]]
+[[id:Theta Pegasi]]
+[[lb:Baham (Stär)]]
+[[nl:Baham]]
+[[ja:ペガスス座シータ星]]
+[[pl:Theta Pegasi]]
+[[pt:Theta Pegasi]]
+[[sk:Baham]]
+[[tt:Бәһам]]
+[[zh:危宿二]]

@@ -1,0 +1,116 @@
+{{Starbox begin
+| name = [[Bayer designation|β&nbsp;Columbae]]
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Columba IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Columba constellation and its surroundings]]
+     <div style="position: absolute; left: 124px; top: 88px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Columbae (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Columba (constellation)|Columba]]
+| ra       = {{RA|05|50|57.5929}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|−35|46|05.9152}}<ref name=aaa474_2_653/>
+| appmag_v = 3.105<ref name=sps1966/>
+}}
+{{Starbox character
+| class    = K1&nbsp;IIICN+1<ref name=aj132_1_161/>
+| u-b      = +1.189<ref name=sps1966/>
+| b-v      = +1.162<ref name=sps1966/>
+| r-i      = +0.58<ref name=bsc1 />
+}}
+{{Starbox astrometry
+| radial_v = +88.9<ref name=fk6_1999/>
+| prop_mo_ra  = +54.77<ref name=aaa474_2_653/>
+| prop_mo_dec = 404.20<ref name=aaa474_2_653/>
+| parallax = 37.41
+| p_error  = 0.12
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| radius   = 11.5<ref name=lang2006/>
+| mass     = {{nowrap|1.10 ± 0.20}}<ref name=apjl674_1_L53/>
+| temperature = 4,545<ref name=aj132_1_161/>
+| luminosity_bolometric = 56<ref name=aaa352_495/>
+| gravity  = 2.62<ref name=aj132_1_161/>
+| metal_fe = 0.11<ref name=aj132_1_161/>
+| age_gyr  = 2<ref name=kaler />
+}}
+{{Starbox catalog
+| names = β&nbsp;Col, Beta&nbsp;Columbae, Beta&nbsp;Col, [[Durchmusterung|CD]]−35&nbsp;2546, [[Durchmusterung|CPD]]−35&nbsp;752, [[Fifth Fundamental Catalogue|FK5]]&nbsp;223, [[Boss General Catalogue|GC]]&nbsp;7364, [[Henry Draper Catalogue|HD]]&nbsp;39425, [[Hipparcos Catalogue|HIP]]&nbsp;27628, [[Bright Star Catalogue|HR]]&nbsp;2040, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;2392, [[New Luyten Two-Tenths catalogue|NLTT]]&nbsp;15724, [[PPM Star Catalogue|PPM]]&nbsp;281952, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;196240.<ref name=sb0 />
+}}
+{{Starbox reference
+| Simbad=bet+col
+}}
+{{Starbox end}}
+
+'''Beta Columbae''' ('''β Columbae''', '''β Col''') is the second brightest star in the southern [[constellation]] of [[Columba (constellation)|Columba]].<ref name=kaler /> It has the traditional name '''Wezn''' (or ''Wazn''), from the [[Arabic language|Arabic]] '''وزن''' "weight".<ref name=bsc1 /><ref name=kaler/> It has an [[apparent visual magnitude]] of 3.1,<ref name=sps1966/> which is [[Bortle Dark-Sky Scale|bright enough]] to be viewed with the naked eye even from an urban location. [[Parallax]] measurements place it at a distance of about {{Convert|87.2|ly|pc|abbr=off|lk=on}} from [[Earth]].<ref name=aaa474_2_653/>
+
+In [[Chinese language|Chinese]], {{lang|zh|子}} ({{lang|zh-Latn|Zǐ}}), meaning ''[[Well (Chinese constellation)|Son]]'', refers to an asterism consisting of β Columbae and [[Lambda Columbae|λ Columbae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Columbae itself is known as {{lang|zh|子二}} ({{lang|zh-Latn|Zǐ èr}}, {{lang-en|the Second Star of Son}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_t_z.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+The [[spectrum]] of Beta Columbae matches a [[stellar classification]] of K1&nbsp;IIICN+1,<ref name=sb0 /> where the 'III' [[luminosity class]] indicates this is a [[giant star]] that has exhausted the supply of hydrogen at its core and [[stellar evolution|evolved]] away from the [[main sequence]] of stars like the Sun. The notation 'CN+1' indicates a higher than normal level of [[cyanogen]] (CN) absorption in the atmosphere of the star.<ref name=pasp99_629/> The [[interferometry]]-measured [[angular diameter]] of this star, after correcting for [[limb darkening]], is {{nowrap|3.99 ± 0.05 [[milliarcseconds|mas]]}},<ref name=aaa431_773/> which, at its estimated distance, equates to a physical radius of about 11.5 times the [[Solar radius|radius of the Sun]].<ref name=lang2006/> Despite having expanded to this radius, Beta Columbae only has about a 10% greater mass than the Sun.<ref name=apjl674_1_L53/> The outer envelope of this star is radiating energy at an [[effective temperature]] of 4,545&nbsp;K,<ref name=aj132_1_161/> resulting an orange hue that is typical of a cool, K-type star.<ref name=csiro/>
+
+Beta Columbae has a high [[proper motion]] across the [[celestial sphere]]<ref name=apj553_1_410/> and is moving at an unusually large speed of {{nowrap|100 km s<sup>–1</sup>}} relative to the [[Sun]].<ref name=kaler /> About 107,200 years ago, it made a close approach to the [[Beta Pictoris]] system. The estimated separation of the two stars at this time was around {{Convert|1.9|ly|pc|abbr=on}} and Beta Columbae may have perturbed outlying [[planetesimal]]s within the [[debris disk]] surrounding Beta Pictoris.<ref name=apj553_1_410/>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=F. | last1=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apjl674_1_L53>{{citation | display-authors=1 | last1=Stello | first1=D. | last2=Bruntt | first2=H. | last3=Preston | first3=H. | last4=Buzasi | first4=D. | title=Oscillating K Giants with the WIRE Satellite: Determination of Their Asteroseismic Masses | journal=The [[Astrophysical Journal]] Letters | volume=674 | issue=1 | year=2008 | pages=L53–L56 | doi=10.1086/528936 | bibcode=2008ApJ...674L..53S |arxiv = 0801.2155 }}</ref>
+
+<ref name=fk6_1999>{{citation | display-authors=1 | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | publisher=Veröffentlichungen des Astronomisches Rechen-Institut Heidelberg | volume=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=aj132_1_161>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Bubar | first5=E. J. | last6=McGahee | first6=C. E. | last7=O'Donoghue | first7=A. A. | last8=Knox | first8=E. R. | title=Contributions to the Nearby Stars (NStars) Project: spectroscopy of stars earlier than M0 within 40 pc-The Southern Sample | journal=[[The Astronomical Journal]] | volume=132 | issue=1 | pages=161–170 | month=July | year=2006 | doi=10.1086/504637 | bibcode=2006AJ....132..161G | arxiv=astro-ph/0603770 }}</ref>
+
+<ref name=bsc1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=2040 HR 2040], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line September 5, 2008.</ref>
+
+<ref name=apj553_1_410>{{citation | last1=Kalas | first1=Paul | last2=Deltorn | first2=Jean-Marc | last3=Larwood | first3=John | title=Stellar Encounters with the β Pictoris Planetesimal System | journal=The Astrophysical Journal | volume=553 | issue=1 | pages=410–420 | month=May | year=2001 | doi=10.1086/320632 | bibcode=2001ApJ...553..410K |arxiv = astro-ph/0101364 }}</ref>
+
+<ref name=aaa431_773>{{citation | last1=Richichi | pages=A. | last2=Percheron | first2=I. | last3=Khristoforova | first3=M. | title=CHARM2: An updated Catalog of High Angular Resolution Measurements | journal=Astronomy and Astrophysics | volume=431 | pages=773–777 | month=February | year=2005 | doi=10.1051/0004-6361:20042039 | bibcode=2005A&A...431..773R }}</ref>
+
+<ref name=lang2006>{{citation | first1=Kenneth R. | last1=Lang | title=Astrophysical formulae | volume=1 | series=Astronomy and astrophysics library | edition=3 | publisher=Birkhäuser | year=2006 | isbn=3-540-29692-1 | url=http://books.google.com/books?id=OvTjLcQ4MCQC&pg=PA41 }}. The radius (R<sub>*</sub>) is given by:
+:<math>\begin{align} 2\cdot R_*
+ & = \frac{(10^{-3}\cdot (26.73\cdot 3.99)\ \text{AU}}{0.0046491\ \text{AU}/R_{\bigodot}} \\
+ & \approx 22.9\cdot R_{\bigodot}
+\end{align}</math></ref>
+
+<ref name=pasp99_629>{{citation | last1=Keenan | first1=Philip C. | last2=Yorka | first2=Sandra B. | last3=Wilson | first3=Olin C. | title=Recognition and classification of strong-CN giants | journal=Publications of the Astronomical Society of the Pacific | volume=99 | pages=629–636 | month=July | year=1987 | doi=10.1086/132025 | bibcode=1987PASP...99..629K }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=sb0>{{SIMBAD link|bet+col|NLTT 15724 -- High proper-motion Star}}, database entry, [[SIMBAD]].  Accessed on line September 5, 2008.</ref>
+
+<ref name=kaler>{{citation | url=http://stars.astro.illinois.edu/sow/wazn.html | title=Wazn | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | accessdate=2012-01-04 }}</ref>  
+
+}}
+
+{{Stars of Columba}}
+
+[[Category:Columba (constellation)]]
+[[Category:K-type giants]]
+[[Category:Bayer objects|Columbae, Beta]]
+[[Category:Henry Draper Catalogue objects|039425]]
+[[Category:Hipparcos objects|027628]]
+[[Category:Durchmusterung objects|CD−35 2546]]
+[[Category:Stars with proper names]]
+
+[[de:Beta Columbae]]
+[[es:Wazn]]
+[[fa:بتا کبوتر]]
+[[fr:Beta Columbae]]
+[[id:Beta Columbae]]
+[[pt:Beta Columbae]]
+[[ro:Beta Columbae]]
+[[ru:Бета Голубя]]
+[[simple:Beta Columbae]]
+[[zh:子二]]

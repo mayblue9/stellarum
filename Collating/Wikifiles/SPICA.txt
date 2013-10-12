@@ -1,0 +1,190 @@
+{{Other uses}}
+{{Starbox begin
+|name = Alpha Virginis A/B
+}}
+{{Starbox image
+| image=<div style="position: relative">[[File:Virgo constellation map.svg|250px|Location of Spica]]
+     <div style="position: absolute; left:33.5%; top:88%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+| caption=Location of Spica (circled) in the constellation Virgo }}
+{{Starbox observe
+|epoch    = J2000
+|constell = [[Virgo (constellation)|Virgo]]
+|pronounce= {{IPAc-en|ˈ|s|p|aɪ|k|ə}}
+|ra       = {{RA|13|25|11.5793}}<ref name=hipparcos/>
+|dec      = {{DEC|−11|09|40.759}}<ref name=hipparcos/>
+|appmag_v = +1.04
+}}
+{{Starbox character
+|class    = {{nowrap|B1 III-IV/B2 V}}<ref name=aaa483_3/>
+|b-v      = −0.24<ref name=aj76/>
+|u-b      = −0.94<ref name=aj76/>
+|variable = [[Beta Cephei variable|β Cep]],<br/>[[Rotating ellipsoidal variable|Rotating ellipsoid]]
+}}
+{{Starbox astrometry
+|radial_v          = +1.0<ref name=gcsrv53/>
+|prop_mo_ra        = −42.50<ref name=hipparcos/>
+|prop_mo_dec       = −31.73<ref name=hipparcos/>
+|parallax          = 12.44
+|p_error           = 0.86
+|parallax_footnote = <ref name=hipparcos/>
+|absmag_v          = −3.55 (−3.5/−1.5)<ref name=mnras151/>
+}}
+{{Starbox orbit
+| reference       = <ref name=apj704_1/>
+| period_unitless = 4.0145898&nbsp;d
+| eccentricity    = {{nowrap|0.067 ± 0.014}}
+| inclination     = {{nowrap|54 ± 6}}
+| periastron      = 2440678.09
+| periarg         = {{nowrap|140 ± 10}}
+}}<!--
+-->{{Starbox detail
+|component1           = Primary
+|age                  = 
+|metal                = 
+|mass                 = {{nowrap|10.25 ± 0.68}}<ref name=apj704_1/>
+|radius               = {{nowrap|7.40 ± 0.57}}<ref name=apj704_1/>
+|rotation             = 
+|rotational_velocity  = {{nowrap|199 ± 5}}<ref name=apj704_1/>
+|luminosity           = 12,100<ref name=kaler/>
+|temperature          = 22,400<ref name=mnras151/>
+|gravity              = {{nowrap|3.7 ± 0.1}}<ref name=mnras151/>
+|component2           = Secondary
+|mass2                = {{nowrap|6.97 ± 0.4}}<ref name=apj704_1/>
+|radius2              = {{nowrap|3.64 ± 0.28}}<ref name=apj704_1/>
+|rotational_velocity2 = {{nowrap|87 ± 6}}<ref name=apj704_1/>
+|luminosity2          = 1,500<ref name=kaler/>
+|temperature2         = 18,500<ref name=kaler/>
+}}<!--
+-->{{Starbox catalog
+|names = Spica, Azimech, 角宿一, Spica Virginis, Alaraph, Dana, α Virginis, 67&nbsp;Virginis, [[Harvard Revised catalogue|HR]] 5056, [[Bonner Durchmusterung|BD]] -10°3672, [[Henry Draper catalogue|HD]] 116658, [[General Catalogue of Trigonometric Parallaxes|GCTP]] 18144, FK5 498, CCDM 13252-1109, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 157923, [[Hipparcos catalogue|HIP]] 65474.<ref name=simbad/> }}
+{{Starbox end}}
+'''Spica''' (α Vir, α Virginis, [[alpha (letter)|Alpha]] Virginis, pronounced /ˈspaɪkə/) is the [[brightest star]] in the [[constellation]] [[Virgo (constellation)|Virgo]], and the [[list of brightest stars|15th brightest star]] in the nighttime sky. It is 260 [[light year]]s distant from [[Earth]]. A [[blue giant]], it is a [[variable star|variable]] of the [[Beta Cephei variable|Beta Cephei type]].
+
+==Observation history==
+Spica is believed to be the star that provided [[Hipparchus]] with the data that enabled him to discover [[Axial precession (astronomy)|precession of the equinoxes]].<ref name=evans98/> A [[temple]] to [[Menat]] (an early [[Hathor]]) at [[Thebes, Egypt|Thebes]] was oriented with reference to Spica when it was constructed in 3200 BC, and, over time, precession resulted in a slow but noticeable change in the location of Spica relative to the temple.<ref name=allen03/> [[Nicolaus Copernicus]] made many observations of Spica with his home-made [[triquetrum (astronomy)|triquetrum]] for his researches on precession.<ref name=jrasc37_4/><ref name=moesgaard73/>
+
+As one of the nearest massive binary star systems to the Sun, Spica has been the subject of many observational studies.<ref name=bass33/>
+
+==Characteristics==
+Spica is a close [[binary star]] whose components orbit about each other every four days. They remain sufficiently close together that they can not be resolved as individual stars through a [[telescope]]. The changes in the orbital motion of this pair results in a [[Doppler shift]] in the [[absorption line]]s of their respective [[spectrum|spectra]], making them a double-lined [[spectroscopic binary]].<ref name=apj704_1/> Initially, the orbital parameters for this system were inferred using spectroscopic measurements. Between 1966 and 1970, the Narrabri interferometer was used to observe the pair and to directly measure the orbital characteristics and the angular diameter of the primary. The latter was determined to be {{nowrap|(0.90 ± 0.04) × 10<sup>−3</sup> arcseconds}}, while the angular size of the [[semi-major axis]] of the orbit was found to be only slightly larger at {{nowrap|(1.54 ± 0.05) × 10<sup>−3</sup> arcseconds}}.<ref name=mnras151/>
+
+The primary star has a [[stellar classification]] of B1 III-IV. The [[luminosity class]] matches the spectrum of a star that is midway between a [[subgiant]] and a [[giant star]], and it is no longer a [[B-type main-sequence star]].<ref name=aaa483_3/> This is a massive star with more than 10 times the [[Solar mass|mass of the Sun]] and seven times the [[Solar radius|Sun's radius]]. The total luminosity of this star is about 12,100 times that of the [[Sun]], and eight times the luminosity of its companion. The primary is one of the nearest stars to the Sun that has sufficient mass to end its life in a [[Type II supernova]] explosion.<ref name=kaler/>
+
+The primary is classified as a [[Beta Cephei variable|Beta Cephei-type]] [[variable star]] that varies in brightness over a 0.1738-day period. The spectrum shows a [[radial velocity]] variation with the same period, indicating that the surface of the star is regularly pulsating outward and then contracting. This star is rotating rapidly, with a rotational velocity of 199&nbsp;km/s along the [[equator]].<ref name=apj704_1/>
+
+The secondary member of this system is one of the few stars to display the [[Struve–Sahade effect]]. This is an anomalous change in the strength of the [[spectral line]]s over the course of an orbit, where the lines become weaker as the star is moving away from the observer.<ref name=bass33/> It may be caused by a strong [[stellar wind]] from the primary scattering the light from secondary when it is receding.<ref name=apj479/> This star is smaller than the primary, with about 7 times the mass of the Sun and 3.6 times the Sun's radius.<ref name=apj704_1/> Its stellar classification is B2&nbsp;V, making this a [[main-sequence star]].<ref name=aaa483_3/>
+
+Spica is a [[rotating ellipsoidal variable]], which is a non-eclipsing close binary star system where the stars are mutually distorted through their gravitational interaction. This effect causes the [[apparent magnitude]] of the star system to vary by 0.03 over a time interval that matches the orbital period. This slight dip in magnitude is barely noticeable visually.<ref name=apj295/> The rotation rates of both stars are faster than their mutual orbital period. This lack of synchronization and the high ellipticity of their orbit may indicate that this is a young star system. Over time, the mutual tidal interaction of the pair may lead to rotational synchronization and orbit circularization.<ref name=aass125_1/>
+
+==Visibility==
+[[Image:Finding spica.png|thumb|250px|How to locate the star Spica.]]
+[[File:Spica and the Sun.gif|thumb|250px|Every year around October 17 the Sun approaches Spica (the bright one below the Sun). Photo: [[Solar and Heliospheric Observatory|SOHO]].]]
+Located close to the [[ecliptic]], Spica can be [[occultation|occulted]] by the [[Moon]] and sometimes by the [[planet]]s. The last planetary occultation of Spica occurred when [[Venus]] passed in front of the star (as seen from [[Earth]]) on November 10, 1783. The next occultation will occur on September 2, 2197, when Venus again passes in front of Spica.<ref>[http://www.berthoudrecorder.com/2010/03/25/earthsky-tonight-%E2%80%94-march-26-2010-moon-swings-close-to-regulus/ Earth-Sky Tonight, March 26, 2010]</ref> The Sun passes a little more than 2° north of Spica around October 16 every year, and the star's [[heliacal rising]] occurs about two weeks later.  Every 8 years, Venus passes Spica around the time of the star's heliacal rising, as in 2009 when it passed 3.5° north of the star on November 3.<ref name=breit10/>
+
+A method of finding Spica is to follow the arc of the handle of the [[Big Dipper]] to [[Arcturus]], and then continue on the same [[angular distance]] to Spica. This can be recalled by the mnemonic phrase, "follow the arc to Arcturus and speed on to Spica."
+
+==Etymology and cultural significance==
+The name ''Spica'' derives from [[Latin]] ''spīca virginis'' "Virgo's ear of grain" (usually [[wheat]]). In Chinese astronomy, the star is known as ''Jiao Xiu 1'' (角宿一) in ''[[Horn (Chinese constellation)|Jiao Xiu]]'', one of the [[Chinese constellation]]s. In [[Hindu]] [[Hindu calendar|astronomy]], Spica corresponds to the [[Nakshatra]] [[Chitra]]. The 17th century German astronomer Bayer and others referred to the star as Arista.
+
+Medieval names include Azimech, from Arabic السماك الأعزل ''al-simāk al-a‘zal'' 'the Undefended', and Alarph, Arabic for 'the Grape Gatherer'. Other titles include Sumbalet ("the corn ear", Arabic name for Virgo), Sombalet, Sembalet Eleandri, Shibbōleth, Citrā, Sa-Sha-Shirū, Kió, Repā.<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Virgo*.html Star Names - Their Lore and Meaning, by Richard Hinckley Allen]</ref>
+
+In [[medieval]] [[astrology]], it was a [[Behenian fixed star]], associated with the [[emerald]] and [[Common sage|sage]]. In his ''[[Three Books of Occult Philosophy]]'', [[Cornelius Agrippa]] attributes its [[kabbalistic]] symbol [[Image:Agrippa1531 Spica.png]] to [[Hermes Trismegistus]].
+
+A blue star represents Spica on the [[:File:Bandeira do Pará.svg|flag]] of the Brazilian state of [[Pará#Flag|Pará]]. Spica is also the star representing Pará on the [[Flag of Brazil#Stars|Brazilian flag]].
+
+==Namesakes==
+Both [[USS Spica (AK-16)]] and [[USNS Spica (T-AFS-9)]] were named after this star whilst [[USS Azimech (AK-124)]] was a [[United States Navy]], a [[Crater class cargo ship]], was given the alternative name.
+
+==References==
+{{Reflist|refs=
+
+<ref name=gcsrv53>{{cite book | last=Wilson | first=Ralph Elmer | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institution of Washington | location=Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name=hipparcos>{{cite journal | author=Perryman, M. A. C. | coauthors=''et al.'' | title=The HIPPARCOS Catalogue | journal=[[Astronomy & Astrophysics]] | volume=323 | pages=L49–L52 | month=April | year=1997 | bibcode=1997A&A...323L..49P | last2=Lindegren | last3=Kovalevsky | last4=Hoeg | last5=Bastian | last6=Bernacca | last7=Crézé | last8=Donati | last9=Grenon }}</ref>
+
+<ref name=simbad>{{cite web | title=V* alf Vir -- Variable Star of beta Cep type  | work=[[SIMBAD]] | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=alf+Vir | accessdate=2010-04-13 }}</ref>
+
+<ref name=evans98>{{cite book | last=Evans | first=James | title=The History and Practice of Ancient Astronomy | publisher=Oxford University Press | year=1998 | pages=259 | isbn=0-19-509539-1 }}</ref>
+
+<ref name=allen03>{{cite book | last=Allen | first=Richard Hinckley | title=Star Names and Their Meanings | publisher=Kessinger Publishing | year=2003 | pages=468 | isbn=0-7661-4028-8}}</ref>
+
+<ref name=jrasc37_4>{{cite journal | last=Rufus | first=W. Carl | title=Copernicus, Polish Astronomer, 1473–1543 | journal=[[Journal of the Royal Astronomical Society of Canada]] | volume=37 | issue=4 | pages=134 | month=April | year=1943 | bibcode=1943JRASC..37..129R }}</ref>
+
+<ref name=moesgaard73>{{cite conference | first=Kristian P. | last=Moesgaard | title=Copernican influence on Tycho Brahe | editors=Jerzy Dobrzycki | booktitle=The reception of Copernicus' heliocentric theory: proceedings of a symposium organized by the Nicolas Copernicus Committee of the International Union of the History and Philosophy of Science | location=Toruń, Poland | year=1973 | publisher=Studia Copernicana, Springer | isbn=90-277-0311-6 | url=http://books.google.com/books?id=tAWp34_GYLAC&pg=PA35&dq=copernicus+spica#v=onepage&q=copernicus%20spica&f=false }}</ref>
+
+<ref name=breit10>{{cite web | first=Derek C. | last=Breit | date=March 12, 2010 | title=Diary of Astronomical Phenomena 2010 | work=Poyntsource.com | url=http://www.poyntsource.com/New/Diary.htm | accessdate=2010-04-13 }}</ref>
+
+<ref name=aj76>{{cite journal | author=Pfleiderer, J.; Mayer, U. | title=Near-ultraviolet surface photometry of the southern Milky Way | journal=[[Astronomical Journal]] | volume=76 | page=691 | month=October | year=1971 | doi=10.1086/111186 | bibcode=1971AJ.....76..691P }}</ref>
+
+<ref name=apj704_1>{{cite journal | author=Harrington, David; Koenigsberger, Gloria; Moreno, Edmundo; Kuhn, Jeffrey | title=Line-profile Variability from Tidal Flows in Alpha Virginis (Spica) | journal=The Astrophysical Journal | volume=704 | issue=1 | pages=813–830 | month=October | year=2009 | doi=10.1088/0004-637X/704/1/813 | bibcode=2009ApJ...704..813H |arxiv = 0908.3336 }}</ref>
+
+<ref name=mnras151>{{cite journal | title=A study of alpha Virginis with an intensity interferometer | author=Herbison-Evans, D.; Hanbury Brown, R.; Davis, J.; Allen, L. R. | journal=[[Monthly Notices of the Royal Astronomical Society]] | volume=151 | pages=161−176 | year=1971 | bibcode=1971MNRAS.151..161H | last2=Hanbury Brown | last3=Davis | last4=Allen }}</ref>
+
+<ref name=bass33>{{cite journal | title=Spectroscopy of the temporal variations of α Vir | author=Riddle, R. L.; Bagnuolo, W. G.; Gies, D. R. | journal=[[Bulletin of the American Astronomical Society]] | volume=33 | page=1312 | month=December | year=2001 | bibcode=2001AAS...199.0613R | last2=Bagnuolo | last3=Gies }}</ref>
+
+<ref name=aass125_1>{{cite journal | last=Beech | first=M. | title=The ellipsoidal variables. III - Circularization and synchronization | journal=[[Astrophysics and Space Science]] | volume=125 | issue=1 | pages=69–75 | month=August | year=1986 | doi=10.1007/BF00643972 | bibcode=1986Ap&SS.125...69B }}</ref>
+
+<ref name=apj295>{{cite journal | title=The ellipsoidal variable stars | last=Morris | first=S. L. | journal=Astrophysical Journal, Part 1 | volume=295 | pages=143–152 | month=August | year=1985 | doi=10.1086/163359 | bibcode=1985ApJ...295..143M }}</ref>
+
+<ref name=apj479>{{cite journal | author=Gies, Douglas R.; Bagnuolo, William G., Jr.; Penny, Laura R. | title=Photospheric Heating in Colliding-Wind Binaries | journal=Astrophysical Journal | volume=479 | page=408 | month=April | year=1997 | doi=10.1086/303848 | bibcode=1997ApJ...479..408G | last2=Bagnuolo }}</ref>
+
+<ref name=kaler>{{cite web | first=Jim | last=Kaler | title=Spica | work=Stars | url=http://stars.astro.illinois.edu/sow/spica.html | accessdate=2010-04-15 }}</ref>
+
+<ref name=aaa483_3>{{cite journal | author=Schnerr, R. S. | coauthors=''et al.'' | title=Magnetic field measurements and wind-line variability of OB-type stars | journal=Astronomy and Astrophysics | volume=483 | issue=3 | pages=857–867 | month=June | year=2008 | doi=10.1051/0004-6361:20077740 | bibcode=2008A&A...483..857S | url=http://remote.science.uva.nl/~rschnerr/papers/OBstars.pdf | accessdate=2010-04-16 |arxiv = 1008.4260 }}</ref>
+
+}}
+
+==External links==
+*[http://stars.astro.{{not a typo|illinois}}.edu/sow/spica.html Spica] stars.astro.Illinois.edu/sow/spica.html
+
+{{Virgo}}
+
+[[Category:Bayer objects|Virginis, Alpha]]
+[[Category:Binary stars]]
+[[Category:Beta Cephei variables]]
+[[Category:B-type giants]]
+[[Category:B-type subgiants]]
+[[Category:Rotating ellipsoidal variables]]
+[[Category:Virgo (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:السماك الأعزل]]
+[[az:Spika]]
+[[be:Спіка]]
+[[bg:Спика]]
+[[ca:Spica]]
+[[cs:Spica]]
+[[de:Spica]]
+[[et:Spiika]]
+[[el:Στάχυς (αστέρας)]]
+[[es:Espiga (estrella)]]
+[[eo:Spiko (astro)]]
+[[fa:سماک اعزل]]
+[[fr:Alpha Virginis]]
+[[ko:스피카]]
+[[hi:चित्रा तारा]]
+[[id:Spica]]
+[[it:Spica]]
+[[he:ספיקה (כוכב)]]
+[[jv:Spica]]
+[[ku:Spica]]
+[[la:Spica]]
+[[lb:Spica (Stär)]]
+[[lt:Spika]]
+[[hu:Spica]]
+[[mk:Спика]]
+[[nl:Spica]]
+[[ja:スピカ]]
+[[no:Spica]]
+[[pl:Spica]]
+[[pt:Espiga (estrela)]]
+[[ru:Спика]]
+[[sk:Spika]]
+[[sh:Spika]]
+[[fi:Spica]]
+[[sv:Spica]]
+[[uk:Спіка]]
+[[vi:Alpha Virginis]]
+[[zh-yue:角一]]
+[[zh:角宿一]]

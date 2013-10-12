@@ -1,0 +1,141 @@
+{{Starbox begin
+| name = Gamma Geminorum A
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Gemini IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Gemini constellation and its surroundings]]
+     <div style="position: absolute; left: 53.0%; top: 50.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Geminorum (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|06|37|42.71050}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+16|23|57.4095}}<ref name=aaa474_2_653/>
+| appmag_v = 1.915<ref name=sps1966/>
+| constell = [[Gemini (constellation)|Gemini]]
+}}
+{{Starbox character
+| class    = A1&nbsp;IV<ref name=aj74_375/>
+| b-v      = +0.005<ref name=sps1966/>
+| u-b      = +0.137<ref name=sps1966/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = -12.5<ref name=rgcrv/>
+| prop_mo_ra  = +13.81<ref name=aaa474_2_653/>
+| prop_mo_dec = -54.96<ref name=aaa474_2_653/>
+| parallax = 29.84
+| p_error  = 2.23
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aaa383_558/>
+| primary = <!--Primary name -->
+| name = <!--Companion name-->
+| period_unitless = 4,614.51&nbsp;days
+| axis = <!--Semimajor axis (in arcseconds)-->
+| axis_unitless = <!--Semimajor axis (no units provided by template)-->
+| eccentricity = 0.8933 ± 0.0013
+| inclination = <!--Inclination (in degrees)-->
+| node = <!--Longitude of node (in degrees)-->
+| periastron = 244399.13 ± 0.77
+| periarg = 312.60 ± 0.60
+| periarg_primary = <!--Argument of periastron (in degrees), primary -->
+| k1 = 11.881 ± 0.068
+| k2 = <!-- Velocity semi-amplitude (secondary in SB2), in km/s -->
+}}
+{{Starbox detail
+| mass     = 2.81<ref name=apjss192_1_2/>
+| radius   = 3.3<ref name=aass85_3_1015/>
+| gravity  = 3.60<ref name=pasp106_706_1239/>
+| luminosity  = 123<ref name=aass85_3_1015/>
+| temperature = 9,260<ref name=pasp106_706_1239/>
+| metal_fe = –0.12<ref name=pasp106_706_1239/>
+| rotational_velocity = 15<ref name=aaa463_2_671/>
+| age_gyr  = 
+}}
+{{Starbox catalog
+| names = Alhena, 24 Geminorum, [[Bonner Durchmusterung|BD]] +16°1223, [[FK5]] 251, [[General Catalogue of Trigonometric Parallaxes|GCTP]]1539.00, [[Hipparcos catalogue|HIP]] 31681, [[Henry Draper catalogue|HD]] 47105, [[Harvard Revised catalogue|HR]] 2421, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 95912.<ref name=SIMBAD/><ref name=aaa474_2_653/>
+}}
+{{Starbox end}}
+'''Gamma Geminorum''' (γ Gem, γ Geminorum) is the third brightest [[star]] in the [[constellation]] [[Gemini (constellation)|Gemini]]. It has the traditional names '''Alhena''' and '''Almeisan'''. This star has an [[apparent visual magnitude]] of 1.9,<ref name=sps1966/> making it easily visible to the naked eye [[Bortle Dark-Sky Scale|even in urban regions]]. Based upon [[parallax]] measurements with the [[Hipparcos]] satellite, it is located at a distance of roughly {{Convert|109|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/>
+
+==Properties==
+Alhena is an [[stellar evolution|evolving]] star that is exhausting the supply of hydrogen at its core and has entered the [[subgiant star|subgiant]] stage. The [[spectrum]] matches a [[stellar classification]] of A1&nbsp;IV.<ref name=aj74_375/> Compared to the Sun it has 2.8<ref name=apjss192_1_2/> times the mass and 3.3<ref name=aass85_3_1015/> times the radius. It is radiating around 123<ref name=aass85_3_1015/> times the luminosity of the Sun from its outer envelope at an [[effective temperature]] of 9,260&nbsp;K.<ref name=pasp106_706_1239/> This gives it a white hue typical of an A-class star.<ref name=csiro/>
+
+This is a [[spectroscopic binary]] system with a period of 12.6 years (4,614.51&nbsp;days) in a highly [[Orbital eccentricity|eccentric]] [[Keplerian orbit]].<ref name=aaa383_558/>
+
+==Etymology==
+The term ''Alhena'' is derived from the [[Arabic language|Arabic]] الهنعه ''Al Han'ah'', "the brand" (on the neck of the camel), whilst the alternate name Almeisan is from the Arabic المیسان ''Al Maisan'', "the shining one." ''Al Hanʽah'' was the name of star association consisting this star, along with [[Mu Geminorum|μ Gem]] (Tejat Posterior), [[Nu Geminorum|ν Gem]], [[Eta Geminorum|η Gem]] (Tejat Prior) and [[Xi Geminorum|ξ Gem]] (Alzirr). They also were associated in ''Al Nuḥātai'', the dual form of ''Al Nuḥāt'', "a Camel's Hump".<ref name=allen1963/>
+
+In the catalogue of stars in the ''Calendarium of Al Achsasi Al Mouakket'', this star was designated '''Nir al Henat''', which was translated into [[Latin]] as '''Prima του al Henat''', meaning ''the brightest of Al Henat''.<ref name=mnras55_429/>
+
+In [[Chinese language|Chinese]], {{lang|zh|井宿}} ({{lang|zh-Latn|Jǐng Su}}), meaning ''[[Well (Chinese constellation)|Well]] (asterism)'', refers to an asterism consisting of γ Geminorum, [[Mu Geminorum|μ Geminorum]], [[Nu Geminorum|ν Geminorum]], [[Xi Geminorum|ξ Geminorum]], [[Epsilon Geminorum|ε Geminorum]], [[36 Geminorum]], [[Zeta Geminorum|ζ Geminorum]] and [[Lambda Geminorum|λ Geminorum]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Geminorum itself is known as {{lang|zh|井宿三}} ({{lang|zh-Latn|Jǐng Su sān}}, {{lang-en|the Third Star of Well}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==In culture==
+
+''Alhena'' was the name of a [[Netherlands|Dutch]] ship that rescued many people from an Italian cruise liner, the ''Principessa Mafalda'', in October 1927.<ref>http://www.markos.it/quaderni/plata.htm Italian account of the Principessa Malfeda.</ref> In addition, the American [[attack cargo ship]] {{USS|Alhena}} was named after the star.
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=apjss192_1_2>{{citation | last1=Shaya | first1=Ed J. | last2=Olling | first2=Rob P. | title=Very Wide Binaries and Other Comoving Stellar Companions: A Bayesian Analysis of the Hipparcos Catalogue | journal=The Astrophysical Journal Supplement | volume=192 | issue=1 | page=2 | month=January | year=2011 | doi=10.1088/0067-0049/192/1/2 | bibcode=2011ApJS..192....2S |arxiv = 1007.0425 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=allen1963>{{cite book | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Gemini*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York | isbn=0-486-21079-0 | page=234}}</ref>
+
+<ref name=mnras55_429>{{cite journal | last=Knobel | first=E. B. | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket | journal=Monthly Notices of the Royal Astronomical Society | volume=55 | page=429 | month=June | year=1895 | bibcode=1895MNRAS..55..429K }}</ref>
+
+<ref name=pasp106_706_1239>{{citation | last1=Adelman | first1=Saul J. | last2=Philip | first2=A. G. Davis | title=Elemental abundances of the B and A stars. 2: Gamma Geminorum, HD 60825, 7 Sextantis, HR 4817, and HR 5780 | journal=Astronomical Society of the Pacific, Publications | volume=106 | issue=706 | pages=1239–1247 | month=December | year=1994 | doi=10.1086/133501 | bibcode=1994PASP..106.1239A }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=sps1966>{{citation | display-authors=1 | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=H. | last3=Stock | first3=J. | last4=Torres | first4=C. | last5=Wroblewski | first5=H. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1–17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=SIMBAD>{{citation | title=ALHENA -- Spectroscopic binary  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Geminorum | accessdate=2012-02-04 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+<ref name=aaa383_558>{{citation | display-authors=1 | last1=Lehmann | first1=H. | last2=Andrievsky | first2=S. M. | last3=Egorova | first3=I. | last4=Hildebrandt | first4=G. | last5=Korotin | first5=S. A. | last6=Panov | first6=K. P. | last7=Scholz | first7=G. | last8=Schönberner | first8=D. | title=The spectroscopic binaries 21 Her and gamma Gem | journal=Astronomy and Astrophysics | volume=383 | pages=558–567 | month=February | year=2002 | doi=10.1051/0004-6361:20011746 | bibcode=2002A&A...383..558L }}</ref>
+
+}}
+
+{{Stars of Gemini}}
+
+[[Category:Bayer objects|Geminorum, Gamma]]
+[[Category:Flamsteed objects|Geminorum, 24]]
+[[Category:Gemini (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+[[Category:G-type stars]]
+
+[[ca:Alhena]]
+[[de:Alhena]]
+[[es:Alhena]]
+[[fa:هنعه]]
+[[fr:Gamma Geminorum]]
+[[ko:알레나]]
+[[hi:गामा जॅमिनोरम तारा]]
+[[id:Gamma Geminorum]]
+[[it:Alhena]]
+[[he:אלהנה]]
+[[lb:Alhena]]
+[[mk:Алхена]]
+[[nl:Alhena]]
+[[ja:アルヘナ]]
+[[nds:Alhena]]
+[[pl:Gamma Geminorum]]
+[[pt:Alhena]]
+[[ru:Альхена]]
+[[sk:Alhena]]
+[[zh:井宿三]]

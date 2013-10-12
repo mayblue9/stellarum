@@ -1,0 +1,104 @@
+{{Starbox begin
+| name = Alpha Hydri
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Hydrus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Hydrus constellation and its surroundings]]
+     <div style="position: absolute; left: 56.0%; top: 23.1%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Hydri (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| constell = [[Hydrus]]
+| ra       = {{RA|01|58|46.19467}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|−61|34|11.4948}}<ref name=aaa474_2_653/>
+| appmag_v = +2.90<ref name="SIMBAD" />
+}}
+{{ Starbox character
+| class    = F0&nbsp;IV<ref name="SIMBAD" />
+| variable =  
+| b-v      = +0.290<ref name="gutierrez"/>
+| u-b      = +0.189<ref name="gutierrez" />
+}}
+{{ Starbox astrometry
+| radial_v = +7<ref name=gcsrv/>
+| prop_mo_ra  = +263.66<ref name=aaa474_2_653/>
+| prop_mo_dec = +26.77<ref name=aaa474_2_653/>
+| parallax = 45.43
+| p_error  = 0.44
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 1.153<ref name="aaa348" />
+}}
+{{ Starbox detail
+| mass     = 2.0<ref name=aass85_3_1015/>
+| radius   = 1.8<ref name="aaas7"/>
+| luminosity  = 32<ref name=aass85_3_1015/>
+| temperature = 7,077<ref name="aaa348" />
+| age_gyr  = 0.81<ref name="aaa348" />
+| metal_fe = 0.11<ref name="aaa348" />
+| gravity  = 3.73<ref name=aass85_3_1015/>
+| rotational_velocity = 118<ref name=aaa393_3_897/>
+}}
+{{ Starbox catalog
+| names = [[Star catalogue#Gl, GJ, Wo|Gl]] 83, [[Henry Draper Catalogue|HD]] 12311, [[Hipparcos Catalogue|HIP]] 9236, [[Bright Star Catalogue|HR]] 591, [[IRAS]] 01572-6148, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 248474.<ref name="SIMBAD"/>
+}}
+{{ Starbox end }}
+
+'''Alpha Hydri''' (α Hyi, α Hydri) is the [[List of stars in Hydrus|second brightest]] [[star]] in the southern [[circumpolar constellation]] of [[Hydrus]]. It is readily visible to the named eye with an [[apparent visual magnitude]] of +2.9. It is sometimes informally known as the '''Head of Hydrus'''.<ref name=allen1963/> This should not be confused with [[Alpha Hydrae]] (Alphard) in the constellation Hydra. Alpha Hydri is one of only three stars in the constellation Hydrus that are above the fourth [[visual magnitude]]. This star can be readily located as it lies to the south and west of the prominent star [[Achernar]] in the constellation [[Eridanus (constellation)|Eridanus]].<ref name=moore2005/>
+
+Based upon [[parallax]] measurements from the [[Hipparcos]] mission, Alpha Hydri is located at a distance of about {{Convert|71.8|ly|pc|abbr=off|lk=on}} from Earth. This [[subgiant star]] is 80%<ref name="aaas7" /> larger and twice as massive as the Sun, with a [[stellar classification]] of F0&nbsp;IV.<ref name="SIMBAD" /> It is about 810 million years old<ref name="aaa348"/> and is radiating 32 times the Sun's luminosity from its outer atmosphere at an [[effective temperature]] of 7,077&nbsp;K.<ref name="aaa348" /> Alpha Hydri emits X-rays similar to [[Altair]].<ref name=Schmitt1985/> The [[Space velocity (astronomy)|space velocity]] components of this star are [U, V, W] = {{nowrap|[−14, −14, -2] km/s}}.<ref>{{cite book
+ | author=Gliese, W. | title=Catalogue of Nearby Stars
+ | year=1969 | location=Karlsruhe }}</ref>
+
+==Naming==
+In [[Chinese language|Chinese]] caused by adaptation of the European southern hemisphere constellations into the Chinese system, {{lang|zh|蛇首}} ({{lang|zh-Latn|Shé Shǒu}}), meaning ''[[Chinese constellations#The Southern Asterisms|Snake's Head]]'', refers to an asterism consisting of α Hydri and [[Beta Reticuli|β Reticuli]]. Consequently, α Hydri itself is known as {{lang|zh|蛇首一}} ({{lang|zh-Latn|Shé Shǒu yī}}, {{lang-en|the First Star of Snake's Head}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060727.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 27 日]</ref>
+
+==See also==
+* [[Stars and planetary systems in fiction#Alpha Hydri|Alpha Hydri in fiction]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name="gutierrez">{{cite journal | author=Gutierrez-Moreno, Adelina | coauthors=''et al''. | title=A System of photometric standards | publisher=Publicaciones Universidad de Chile, Department de Astronomy | volume=1 | pages=1&ndash;17 | year=1966 | bibcode=1966PDAUC...1....1G }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name="aaas7">{{cite journal | last1=Wesselink | first1=A. J. | last2=Paranya | first2=K. | last3=DeVorkin | first3=K. | title=Catalogue of stellar dimensions | journal=Astronomy and Astrophysics Supplement | volume=7 | page=257 | year=1972 | month=November | bibcode=1972A&AS....7..257W | accessdate=2009-10-13 }} Via Vizier table [http://cdsarc.u-strasbg.fr/cgi-bin/VizieR-3 II/224/cadars].</ref>
+
+<ref name=aaa393_3_897>{{cite journal | author=Royer, F. | coauthors=''et al''. | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i | journal=Astronomy and Astrophysics | volume=393 | issue=3 | pages=897−911 | year=2002 | month=October | doi=10.1051/0004-6361:20020943 | bibcode=2002A&A...393..897R | arxiv=astro-ph/0205255 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name="SIMBAD">{{cite web | title=LTT 1059 | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=LTT+1059 | accessdate=2009-10-13 }}</ref>
+
+<ref name="aaa348">{{cite journal | author=Lachaume, R. | coauthors=''et al''. | title=Age determinations of main-sequence stars: combining different methods | journal=Astronomy and Astrophysics | volume=348 | pages=897–909 | year=1999 | month=August | bibcode=1999A&A...348..897L | accessdate=2009-10-13 }}</ref>
+
+<ref name=Schmitt1985>{{ cite journal |doi=10.1086/162986 | last1=Schmitt | first1=J. H. M. M. | last2=Golub | first2=L. | last3=Harnden | first3=F. R. Jr | last4=Maxson | first4=C. W. | last5=Rosner | first5=R. | last6=Vaiana | first6=G. S. | title=An Einstein Observatory X-ray survey of main-sequence stars with shallow convection zones | journal=Astrophysical Journal | month=March | year=1985 | volume=290 | issue=Part 1 | pages=307–20 | bibcode=1985ApJ...290..307S }}</ref>
+
+<ref name=moore2005>{{cite book | first=Patrick | last=Moore | year=2005 | title=The observer's year: 366 nights of the universe | page=4 | edition=2nd | publisher=Springer | isbn=1-85233-884-9 }}</ref>
+
+<ref name=allen1963>{{cite book | first=Richard Hinkley | last=Allen | year=1963 | page=377 | title=Star Names, Their Lore and Meaning | publisher=Dover | location=New York | isbn=0-486-21079-0 }}</ref>
+
+}}
+
+{{Stars of Hydrus}}
+
+[[Category:Hydrus (constellation)]]
+[[Category:Bayer objects|Hydri, Alpha]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[de:Alpha Hydri]]
+[[es:Alfa Hydri]]
+[[fa:آلفا آبمار]]
+[[fr:Alpha Hydri]]
+[[ko:물뱀자리 알파]]
+[[id:Alpha Hydri]]
+[[it:Alfa Hydri]]
+[[nl:Alpha Hydri]]
+[[pl:Alfa Hydri]]
+[[pt:Alpha Hydri]]
+[[zh:蛇首一]]

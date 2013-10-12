@@ -1,0 +1,120 @@
+{{Starbox begin
+| name=Gamma Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 172px; top: 144px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Sagittarii (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| ra       = {{RA|18|05|48.48810}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–30|25|26.7235}}<ref name=aaa474_2_653/>
+| appmag_v = +2.98<ref name=scfs/>
+| constell = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+| class    = K1&nbsp;III<ref name=scfs/>
+| b-v      = +1.01<ref name=clpl4_99/>
+| u-b      = +0.77<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 22.0<ref name=scfs/>
+| prop_mo_ra  = –53.92<ref name=aaa474_2_653/>
+| prop_mo_dec = -180.90<ref name=aaa474_2_653/>
+| parallax = 33.67
+| p_error  = 0.18
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 
+| radius   = 12<ref name=CADARS/>
+| luminosity_bolometric  = 
+| temperature = 4,760<ref name=ajss74_1075/>
+| gravity  = 2.72<ref name=ajss74_1075/>
+| metal_fe = –0.36<ref name=ajss74_1075/>
+| rotational_velocity = 
+| age      =
+}}
+{{Starbox catalog
+| names = Alnasl, Nushaba, Warida,<ref name=olcott1907/> γ&nbsp;Sagittarii, γ&nbsp;Sgr, Gamma&nbsp;Sgr, 10&nbsp;Sagittarii, [[Durchmusterung|CPD]]-30 &nbsp;5241, [[Fifth Fundamental Catalogue|FK5]]&nbsp;679, [[Boss General Catalogue|GC]]&nbsp;24632, [[Henry Draper Catalogue|HD]]&nbsp;165135, [[Hipparcos|HIP]]&nbsp;88635, [[Bright Star Catalogue|HR]]&nbsp;6746, [[PPM Star Catalogue|PPM]]&nbsp;297231, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;209696,<ref name=SIMBAD/>
+}}
+{{Starbox reference
+| Simbad=Gamma+Sagittarii
+}}
+{{Starbox end}}
+
+'''Gamma Sagittarii''' ('''Gamma&nbsp;Sgr''', '''γ&nbsp;Sagittarii''', '''γ&nbsp;Sgr''') is a 3rd-[[Magnitude (astronomy)|magnitude]] [[star]] in the [[zodiac]] [[constellation]] [[Sagittarius (constellation)|Sagittarius]]. The location of this star forms the tip of the arrow in the bow of Sagittarius the [[Centaur]]. It has the proper names '''Alnasl''' (''Nasl'', ''El Nasl''), '''Nushaba''' (''Nash'') and '''Warida'''.<ref name=olcott1907/> 
+
+This star is close enough to the [[Earth]] that its distance can be determined using [[parallax]], yielding a value of about {{Convert|96.9|ly|pc|abbr=off|lk=on}}. It has an [[apparent visual magnitude]] of +2.98,<ref name=scfs/> making it the [[List of stars in Sagittarius|seventh brightest star]] in the constellation. A [[stellar classification]] of K1&nbsp;III reveals that this is a [[giant star]],<ref name=scfs/> having expanded to an estimated 12 times the [[solar radius|Sun's radius]].<ref name=CADARS/> This means it has exhausted the hydrogen in its core and [[stellar evolution|evolved]] away from the [[main sequence]]. The abundance of elements other than hydrogen and helium in this star, what astronomers term the star's [[metallicity]],<ref name=ajss74_1075/> is lower than in the [[Sun]]. Gamma Sagittarii has an [[effective temperature]] of 4,760&nbsp;K,<ref name=ajss74_1075/> compared to 5,778&nbsp;K for the Sun.<ref name=csiro/> It is this lower temperature that gives Gamma Sagittarii the orange hue that is a characteristic of [[K-type star]]s.
+
+There is a fainter optical companion located about 50&nbsp;[[arcminute]]s north of this star. It is magnitude 4.7 [[Cepheid variable]] star designated [[W Sagittarii]].<ref name=kaler/><ref name=burnham1978/>
+
+==Name and etymology==
+*Alnasl is derived from the Arabic النصل ''al-naşl'' meaning "arrowhead".,<ref name=ridpath1989/> Nushaba is derived from the Arabic ''Zujj al-Nashshaba'' meaning the same as Alnasl.,<ref name=allen1899/> Warida is derived from  النعم الوارد ''Al Naʽām al Wārid'', the Going Ostriches, the asterism consisting this star, [[Delta Sagittarii|δ Sgr]], [[Epsilon Sagittarii|ε Sgr]] and [[Eta Sagittarii|η Sgr]].<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+*This star, together with :
+**[[Delta Sagittarii|δ Sgr]], [[Epsilon Sagittarii|ε Sgr]], [[Zeta Sagittarii|ζ Sgr]], [[Lambda Sagittarii|λ Sgr]], [[Sigma Sagittarii|σ Sgr]], [[Tau Sagittarii|τ Sgr]] and [[Phi Sagittarii|φ Sgr]], consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+**[[Delta Sagittarii|δ Sgr]] and [[Epsilon Sagittarii|ε Sgr]] were Akkadian ''Sin-nun‑tu'', or ''Si-nu-nu‑tum'', the Swallow.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|箕}} ({{lang|zh-Latn|Jī}}), meaning ''[[Winnowing Basket (Chinese constellation)|Winnowing Basket]]'', refers to an asterism consisting of γ Sagittarii, [[Delta Sagittarii|δ Sagittarii]], [[Epsilon Sagittarii|ε Sagittarii]] and [[Eta Sagittarii|η Sagittarii]]. Consequently, γ Sagittarii itself is known as {{lang|zh|箕宿一}} ({{lang|zh-Latn|Jī Sù yī}}, {{lang-en|the First Star of Winnowing Basket}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=ajss74_1075>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=clpl4_99>{{citation | last1=Johnson | display-authors=1 | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=CADARS>{{citation | display-authors=1 | last1=Pasinetti-Fracassini | first1=L. E. | last2=Pastori | first2=L. | last3=Covino | first3=S. | last4=Pozzi | first4=A. | month=November | year=2000 | title=Catalogue of Stellar Diameters (CADARS) | journal=Astronomy and Astrophysics | volume=367 | pages=521–524 | month=February | year=2001 | doi=10.1051/0004-6361:20000451 | bibcode=2001A&A...367..521P |arxiv = astro-ph/0012289 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=gam Sgr -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Sagittarii | accessdate=2012-01-05 }}</ref>
+
+<ref name=ridpath1989>{{citation | first1=Ian | last1=Ridpath | title=Star tales | publisher=James Clarke & Co. | year=1989 | isbn=0-7188-2695-7 | page=113 | url=http://books.google.com/books?id=gFrdcTdeVaEC&pg=RA1-PA13 }}</ref>
+
+<ref name=olcott1907>{{citation | first1=William Tyler | last1=Olcott | title=A field book of the stars | edition=2nd | publisher=G. P. Putnam's sons | year=1907 | page=136 | url=http://books.google.com/books?id=47IAAAAAMAAJ&pg=PA136 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=ALNASL (Gamma-2 and Gamma-1=W Sagittarii) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/alnasl.html | accessdate=2012-01-05 }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | title=Burnham's celestial handbook: an observer's guide to the universe beyond the solar system | volume=3 | series=Dover books explaining science | edition=2nd | publisher=Courier Dover Publications | year=1978 | isbn=0-486-23673-0 | page=1560 | url=http://books.google.com/books?id=PJzIt3SIlkUC&pg=PA1560 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Gamma]]
+[[Category:Sagittarius (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[de:Gamma Sagittarii]]
+[[es:Nash (estrella)]]
+[[fa:نصل]]
+[[fr:Gamma Sagittarii]]
+[[id:Gamma Sagittarii]]
+[[lb:Nash (Stär)]]
+[[nl:Nash (ster)]]
+[[pl:Gamma Sagittarii]]
+[[sk:Al Nasl]]
+[[zh:人馬座γ]]

@@ -1,0 +1,121 @@
+{{DISPLAYTITLE:Pi<sup>3</sup> Orionis}}
+{{Redirect|Tabit|the village in Sudan|Tabit (village)}}
+{{Starbox begin
+| name = Pi<sup>3</sup> Orionis
+}}
+{{Starbox image
+| image =
+<div style="position: relative">[[File:Orion constellation map.png|250px]]
+     <div style="position: absolute; left: 216px; top: 72px">[[File:Map pointer.svg|17px]]</div>
+     </div>
+| caption = The location of Pi<sup>3</sup> Orionis (&pi;<sup>3</sup>) in the [[constellation]] of [[Orion (constellation)|Orion]].
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| constell = [[Orion (constellation)|Orion]]
+| ra = {{RA|04|49|50.41091}}<ref name=aaa474_2_653/>
+| dec = {{DEC|+06|57|40.5883}}<ref name=aaa474_2_653/>
+| appmag_v = 3.16<ref name=yerkes53/>
+}}
+{{Starbox character
+| class = F6&nbsp;V<ref name=yerkes53/>
+| r-i = <!--R-I color-->
+| v-r = <!--V-R color-->
+| b-v = +0.46<ref name=yerkes53/>
+| u-b = +0.00<ref name=yerkes53/>
+| variable = ''Suspected''<ref name=csvs/>
+}}
+{{Starbox astrometry
+| radial_v = 24.1<ref name=rgcrv/>
+| prop_mo_ra = 464.06<ref name=aaa474_2_653/>
+| prop_mo_dec = 11.21<ref name=aaa474_2_653/>
+| parallax = 123.94
+| p_error = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 3.65<ref name=aaass501_3_941/>
+}}
+{{Starbox detail
+| mass = 1.236<ref name=apjss168_297/>
+| radius = {{nowrap|1.323 ± 0.004}}<ref name=apj746_1_101/>
+| gravity = 4.4<ref name=aa27_145/>
+| luminosity = {{nowrap|2.822 ± 0.030}}<ref name=apj746_1_101/>
+| temperature = {{nowrap|6,516 ± 19}}<ref name=apj746_1_101/>
+| metal_fe = 0.02<ref name=aa27_145/>
+| rotational_velocity = 17<ref name=csrv/>
+| age_gyr = 1.4<ref name=aaass501_3_941/>
+}}
+{{Starbox catalog
+| names = Tabit, [[Bayer designation|&pi;<sup>3</sup>&nbsp;Ori]], [[Flamsteed designation|1&nbsp;Ori]], [[Bonner Durchmusterung|BD]]+06°762, [[Catalogues of Fundamental Stars|FK5]]&nbsp;1134, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;1077.00, [[Henry L. Giclas catalogue|Gliese]]&nbsp;178, [[Henry Draper catalogue|HD]]&nbsp;30652, [[Hipparcos catalogue|HIP]]&nbsp;22449, [[Harvard Revised catalogue|HR]]&nbsp;1543, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;11517, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;112106.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Pi<sup>3</sup> Orionis''' (π<sup>3</sup> Ori, π<sup>3</sup> Orionis) is the [[Bayer designation]] for a [[star]] in the [[celestial equator|equatorial]] [[constellation]] of [[Orion (constellation)|Orion]]. It has the traditional name of '''Tabit'''<ref name=moore2011/> and the [[Flamsteed designation]] 1 Orionis. At an [[apparent visual magnitude]] of 3.16,<ref name=yerkes53/> it is [[Bortle Dark-Sky Scale|readily visible]] to the naked eye. Pi<sup>3</sup> Orionis is the brightest star in the lion's hide (or shield) that Orion is holding. The distance to this star, as measured using the [[parallax]] technique, is {{Convert|26.32|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/> Though no [[extrasolar planet]]s have been observed around Pi<sup>3</sup> Orionis, the star is considered{{who|date=April 2012}} a prime location for planets as small as the [[Earth]].
+
+Pi<sup>3</sup> Orionis is a [[main-sequence star]] of [[spectral type]] F6&nbsp;V. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> Compared to the Sun, it has about 124%<ref name=apjss168_297/> of the mass, 132% of the radius, and nearly 3 times the [[luminosity]].<ref name=apj746_1_101/> This energy is being radiated from the star's [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of 6,516&nbsp;K,<ref name=apj746_1_101/> giving it the yellow-white glow of an [[F-type star]]. Pi<sup>3</sup> Orionis is most likely single; a nearby star is probably an optical companion.<ref name=mnras389_2_869/>
+
+Although a periodicity of 73.26 days has been observed in the star's radial velocity, it seems likely to be bound more to stellar activity than to a planetary object in close orbit. No substellar companion has been detected so far around Pi<sup>3</sup> Orionis and the [[McDonald Observatory]] team has set limits to the presence of one or more planets<ref name=apj132_1_177/> with masses between 0.84 and 46.7 [[Jupiter masses]] and average separations spanning between 0.05 and 5.2 [[astronomical unit]]s. Thus, so far it appears that an Earth-like planet could easily orbit the star without any complications caused by a gravitationally perturbing body.
+
+== See also ==
+* [[Pi Orionis]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 | postscript=. }}</ref>
+
+<ref name=rgcrv>{{citation | last=Evans | first=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-first=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E | postscript=. }}</ref>
+
+<ref name=aa27_145>{{citation | last1=Kuroczkin | first1=D. | last2=Wiszniewski | first2=A. | title=The problem of iron abundance in the SMR stars. | journal=Acta Astronomica | volume=27 | pages=145–150 | year=1997 | bibcode=1977AcA....27..145K | postscript=. }}</ref>
+
+<ref name=yerkes53>{{citation | last=Johnson | first=H. L. | last2=Morgan | first2=W. W. | title=Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectral atlas | journal=Astrophysical Journal | year=1953 | volume=117 | pages=313–352 | bibcode=1953ApJ...117..313J | doi=10.1086/145697 | postscript=. }}</ref>
+
+<ref name=csrv>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B | postscript=. }}</ref>
+
+<ref name=apj132_1_177>{{citation | author=Wittenmyer, Robert A. | coauthors=''et al.'' | title=Detection Limits from the McDonald Observatory Planet Search Program | journal=The Astronomical Journal | volume=132 | issue=1 | pages=177–188 | month=July | year=2006 | doi=10.1086/504942 | bibcode=2006AJ....132..177W |arxiv = astro-ph/0604171 | postscript=. }}</ref>
+
+<ref name=csvs>{{citation | author=Kukarkin, B. V. | coauthors=''et al.'' | title=Nachrichtenblatt der Vereinigung der Sternfreunde e.V. (Catalogue of suspected variable stars) | location=Moscow | publisher=Academy of Sciences USSR Shternberg | year=1981 | bibcode=1981NVS...C......0K | postscript=. }}</ref>
+
+<ref name=aaass501_3_941>{{citation | last1=Holmberg | first1=J. | last2=Nordström | first2=B. | last3=Andersen | first3=J. | title=The Geneva-Copenhagen survey of the solar neighbourhood. III. Improved distances, ages, and kinematics | journal=Astronomy and Astrophysics, Supplement Series | volume=501 | issue=3 | year=2009 | month=July | pages=941−947 | doi=10.1051/0004-6361/200811191 | bibcode=2009A&A...501..941H  | postscript=. |arxiv = 0811.3982 }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?cat=V/130& V/130].</ref>
+
+<ref name=apjss168_297>{{citation | last=Takeda | first=G. | coauthors=''et al.'' | title=Stellar parameters of nearby cool stars. II. Physical properties of ~1000 cool stars from the SPOCS catalog | journal=Astrophysical Journal Supplement Series | volume=168 | pages=297&ndash;318 | year=2007 | bibcode=2008yCat..21680297T }} ''Note:'' see VizieR catalogue [http://cdsarc.u-strasbg.fr/viz-bin/Cat?J/ApJS/168/297 J/ApJS/168/297].</ref>
+
+<ref name=SIMBAD>{{citation | title=1 Ori -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=1+Ori | accessdate=2011-01-07 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=apj746_1_101>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=van Belle | first3=Gerard | last4=Gies | first4=Douglas R. | last5=ten Brummelaar | first5=Theo A. | last6=von Braun | first6=Kaspar | last7=Farrington | first7=Chris | last8=Goldfinger | first8=P. J. | last9=O'Brien | first9=David | last10=Parks | first10=J. Robert | last11=Richardson | first11=Noel D. | last12=Ridgway | first12=Stephen | last13=Schaefer | first13=Gail | last14=Sturmann | first14=Laszlo | last15=Sturmann | first15=Judit | last16=Touhami | first16=Yamina | last17=Turner | first17=Nils H. | last18=White | first18=Russel | title=Stellar Diameters and Temperatures. I. Main-sequence A, F, and G Stars | journal=The Astrophysical Journal | volume=746 | issue=1 | page=101 | month=February | year=2012 | doi=10.1088/0004-637X/746/1/101 | bibcode=2012ApJ...746..101B | postscript=. |arxiv = 1112.3316 }} See Table 10.</ref>
+
+<ref name=mnras389_2_869>{{citation | last1=Eggleton | first1=P. P. | last2=Tokovinin | first2=A. A. | title=A catalogue of multiplicity among bright stellar systems | journal=Monthly Notices of the Royal Astronomical Society | volume=389 | issue=2 | pages=869–879 | month=September | year=2008 | doi=10.1111/j.1365-2966.2008.13596.x | bibcode=2008MNRAS.389..869E | postscript=. |arxiv = 0806.2878 }}</ref>
+
+<ref name=moore2011>{{citation | first1=Patrick | last1=Moore | first2=Robin | last2=Rees | title=Patrick Moore's Data Book of Astronomy | edition=2nd | publisher=Cambridge University Press | year=2011 | isbn=0521899354 | page=460 | url=http://books.google.com/books?id=2FNfjWKBZx8C&pg=PA460 }}</ref>
+
+}}
+
+== External links ==
+* {{cite web |url=http://www.solstation.com/stars/pi3ori2.htm |title=Pi3 Orionis 2? |accessdate=2008-07-11 |work=SolStation |publisher= |date= }}
+{{Nearest systems|6}}
+{{Stars of Orion}}
+
+{{DEFAULTSORT:Pi3 Orionis}}
+[[Category:Orion (constellation)]]
+[[Category:Stars with proper names|Tabit]]
+[[Category:Bayer objects|Orionis, Pi3]]
+[[Category:Flamsteed objects|Orionis, 1]]
+[[Category:F-type main sequence stars]]
+[[Category:Suspected variables]]
+
+[[de:Pi3 Orionis]]
+[[es:Tabit]]
+[[fa:پی³ شکارچی]]
+[[fr:Pi3 Orionis]]
+[[ko:타비트]]
+[[id:Pi3 Orionis]]
+[[it:Pi3 Orionis]]
+[[lb:Tabit (Stär)]]
+[[ja:タビト]]
+[[nds:Tabit]]
+[[pl:Pi3 Orionis]]
+[[pt:Pi3 Orionis]]
+[[sk:Tabit]]
+[[fi:Pii3 Orionis]]
+[[zh:參旗六]]

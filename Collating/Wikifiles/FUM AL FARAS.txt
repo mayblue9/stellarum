@@ -1,0 +1,20 @@
+{{starbox short
+|constell= [[Pegasus (constellation)|Pegasus]]
+|name= Nu Pegasi
+|type= K4III <ref name=SIMBAD> SIMBAD, [http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=22+Pegasi&submit=SIMBAD+search 22 Pegasi] (accessed 12 January 2013) </ref>
+|ra=   {{RA|22|05|40.75170}} <ref name=SIMBAD/>
+|dec=  {{DEC|+05|03|30.7201}} <ref name=SIMBAD/>
+}}
+'''Nu Pegasi''' ('''Nu Peg''') is a [[star]] in the [[constellation]] [[Pegasus (constellation)|Pegasus]]. Its [[apparent magnitude]] is 4.87.
+
+==References==
+{{reflist}}
+
+{{Stars of Pegasus}}
+
+[[Category:Pegasus (constellation)]]
+[[Category:K-type giants]]
+[[Category:Variable stars]]
+[[Category:Bayer objects|Pegasi, Nu]]
+
+{{Star-stub}}

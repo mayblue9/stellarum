@@ -1,0 +1,66 @@
+{{Unreferenced|date=December 2007}}
+The name '''Asterope''' or '''Sterope''' is shared by two [[star]]s, '''21 Tauri''' and '''22 Tauri''', in the [[constellation]] [[Taurus (constellation)|Taurus]].  They are separated by 0.04° on the sky and are both members of the [[Pleiades (star cluster)|Pleiades]] [[star cluster|open cluster]] and approximately 440 [[light years]] from [[Earth]].
+
+<br clear="all" />
+== 21 Tauri ==
+{{Starbox short |
+ name=21 Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=03<sup>h</sup> 45<sup>m</sup> 54.4<sup>s</sup> |
+ dec=+24° 33' 17" |
+ spectral=B8V |
+ appmag_v=+5.76 |
+ dist_ly=440 |
+ dist_pc=135 |
+ names=Asterope, Sterope I,<br />[[Star catalogue#BS, BSC, HR|HR]]&nbsp;1151, [[Henry Draper Catalogue|HD]]&nbsp;23432,<br />[[Star catalogue#BD/CD/CPD|BD]]+24&nbsp;553, [[Hipparcos catalogue|HIP]]&nbsp;17579,<br />[[Star catalogue#SAO|SAO]]&nbsp;76159, GC&nbsp;4502
+}}
+
+21 Tauri is a blue-white [[stellar classification|B-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +5.76.
+
+<br clear="all" />
+
+== 22 Tauri ==
+{{Starbox short |
+ name=22 Tauri |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=03<sup>h</sup> 46<sup>m</sup> 02.9<sup>s</sup> |
+ dec=+24° 31' 41" |
+ spectral=A0Vn |
+ appmag_v=+6.43 |
+ dist_ly=440 |
+ dist_pc=135 |
+ names=Sterope II, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1152,<br />[[Henry Draper Catalogue|HD]]&nbsp;23441, [[Star catalogue#BD/CD/CPD|BD]]+24&nbsp;556,<br />[[Hipparcos catalogue|HIP]]&nbsp;17588, [[Star catalogue#SAO|SAO]]&nbsp;76164,<br />GC&nbsp;4506
+}}
+
+22 Tauri is a white [[stellar classification|A-type]] [[main sequence|main sequence dwarf]] with an [[apparent magnitude]] of +6.43.
+
+==See also==
+[[USS Sterope (AK-96)]]
+
+{{main-star-stub}}
+{{Stars of Taurus}}
+
+[[Category:Taurus (constellation)]]
+[[Category:B-type main sequence stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Flamsteed objects|Tauri, 21]]
+[[Category:Pleiades Open Cluster]]
+[[Category:Stars with proper names]]
+
+[[ar:ستروب (نجم)]]
+[[cs:Asterope]]
+[[de:Asterope (Stern)]]
+[[es:Asterope (estrella)]]
+[[fa:ستروپ (ستاره)]]
+[[fr:Astérope (étoile)]]
+[[ko:아스테로페 (항성)]]
+[[it:Asterope (astronomia)]]
+[[la:Asterope I (stella)]]
+[[lb:Asterope (Stär)]]
+[[nl:Asterope]]
+[[pl:Sterope II (gwiazda)]]
+[[ru:Астеропа (звезда)]]
+[[sk:Asterope (hviezda)]]
+[[zh:昴宿三]]

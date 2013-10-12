@@ -1,0 +1,132 @@
+{{Starbox begin
+ | name=Zeta Sagittarii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Sagittarius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Sagittarius constellation and its surroundings]]
+     <div style="position: absolute; left: 46.8%; top: 45.0%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Sagittarii (circled) near the center
+}}
+{{Starbox observe
+ | epoch    = [[J2000.0]]
+ | ra       = {{RA|19|02|36.73024}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|–29|52|48.2279}}<ref name=aaa474_2_653/>
+ | appmag_v = +2.59<ref name=clpl4/> (3.27/3.48)<ref name=de_rosa_et_al_2011/>
+ | constell = [[Sagittarius (constellation)|Sagittarius]]
+}}
+{{Starbox character
+ | class    = A2.5&nbsp;Va<ref name=SIMBAD/>
+ | b-v      = +0.08<ref name=clpl4/>
+ | u-b      = +0.05<ref name=clpl4/>
+ | variable = 
+}}
+{{Starbox astrometry
+ | radial_v = +22<ref name=gcsrv/>
+ | prop_mo_ra  = +10.79<ref name=aaa474_2_653/>
+ | prop_mo_dec = +21.11<ref name=aaa474_2_653/>
+ | parallax = 36.98
+ | p_error  = 0.87
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 1.11/1.32<ref name=de_rosa_et_al_2011/>
+}}
+{{Starbox orbit
+| reference = <ref name=de_rosa_et_al_2011/>
+| period_unitless = 21.00 ± 0.01 years
+| axis = 0.489 ± 0.001
+| eccentricity = 0.211 ± 0.001
+| inclination = 111.1 ± 0.1
+| node = 74.0 ± 0.1
+| periastron = 2005.99 ± 0.03
+| periarg = 7.2 ± 0.6
+}}
+{{Starbox detail
+ | mass     = 
+ | radius   = 
+ | metal_fe =
+ | age_gyr  = 
+ | gravity  = 3.90<ref name=aj126_4_2048/>
+ | luminosity  = 
+ | temperature = 8,799<ref name=aj126_4_2048/>
+ | rotational_velocity = 77<ref name=aaa463_2_671/>
+}}
+{{Starbox catalog
+ | names = Ascella, ζ&nbsp;Sagittarii, ζ&nbsp;Sgr, Zeta&nbsp;Sgr, 38&nbsp;Sagittarii, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J19026-2953AB, [[Durchmusterung|CPD]]-30 &nbsp;5798, [[Boss General Catalogue|GC]]&nbsp;26161, [[Henry Draper Catalogue|HD]]&nbsp;176687, [[Hipparcos|HIP]]&nbsp;93506, [[Bright Star Catalogue|HR]]&nbsp;7194, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;18562-3001 AB, [[PPM Star Catalogue|PPM]]&nbsp;269230, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;187600, [[Washington Double Star Catalog|WDS]]&nbsp;J19026-2953AB.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Zeta Sagittarii''' ('''Zeta&nbsp;Sgr''', '''ζ&nbsp;Sagittarii''', '''ζ&nbsp;Sgr''') is the third brightest [[star system]] in the [[constellation]] [[Sagittarius (constellation)|Sagittarius]], with an [[apparent visual magnitude]] of +2.59.<ref name=clpl4/> It has the traditional name '''Ascella'''. Based upon [[parallax]] measurements, the distance to Ascella is about {{Convert|88|ly|pc|abbr=on|lk=off}}.<ref name=aaa474_2_653/> Ascella is moving away from the Solar System with a [[radial velocity]] of 22&nbsp;km s<sup>−1</sup>.<ref name=gcsrv/> Some 1.0–1.4 million years ago, this system came within {{Convert|7.5|+/-|1.8|ly|pc|abbr=on}} of the Sun.<ref name=aaa449_3_1233/>
+
+This is a [[binary star]] system, with the two components orbiting each other over a period of 21 years at an [[orbital eccentricity|eccentricity]] of 0.211. The combined mass of the system is 5.26 ± 0.37 times the mass of the Sun<ref name=de_rosa_et_al_2011/> and their blended [[stellar classification]] is A2.5&nbsp;Va.<ref name=SIMBAD/>
+
+The system consists of a [[spectral classification|spectral class]] A2 [[giant star|giant]] with an [[apparent magnitude]] of +3.27, and an A4 [[subgiant]] with apparent magnitude of +3.48. The pair have a mean separation of 13.4 [[astronomical unit|astronomical units (AU)]].<ref name=kaler/> Ascella has a faint, 10th magnitude companion, separated from the primary by a distance of 75 [[arcseconds]].
+
+==Name and etymology==
+*The name '''Ascella''' from a [[Late Latin]] word meaning ''armpit''.
+*This star, together with :
+**[[Gamma Sagittarii|γ Sgr]], [[Delta Sagittarii|δ Sgr]], [[Epsilon Sagittarii|ε Sgr]], [[Lambda Sagittarii|λ Sgr]], [[Sigma Sagittarii|σ Sgr]], [[Tau Sagittarii|τ Sgr]] and [[Phi Sagittarii|φ Sgr]] consisting the asterism ''Teapot''.<ref name="deepsky">
+{{cite web
+| title = Sagittarius
+| publisher = deepsky.astroinfo.org
+| url = http://deepsky.astroinfo.org/Sgr/
+| accessdate = 30 August 2008
+}}</ref><ref name="skywatchers">[http://www.flandrau.org/astronomy/skywatchers/picupclose.php?picid=89 skywatchers]{{dead link|date=May 2012}}</ref>
+**[[Phi Sagittarii|φ Sgr]], [[Sigma Sagittarii|σ Sgr]], [[Chi Sagittarii|χ Sgr]] and [[Tau Sagittarii|τ Sgr]] were ''Al Naʽām al Ṣādirah'' (النعم السادرة), the Returning Ostriches.<ref name=allen1899>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Sagittarius*.html
+ | accessdate=2012-09-04 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=355}}</ref>
+**[[Sigma Sagittarii|σ Sgr]] and [[Pi Sagittarii|π Sgr]] may have been the Akkadian ''Gu-shi-rab‑ba'', the Yoke of the Sea.<ref name=allen1899/>
+**[[Tau Sagittarii|τ Sgr]], [[Nu Sagittarii|ν Sgr]], [[Psi Sagittarii|ψ Sgr]], [[Omega Sagittarii|ω Sgr]] and [[60 Sagittarii|60 Sgr]] were ''Al Udḥiyy'', the Ostrich's Nest.<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|斗}} ({{lang|zh-Latn|Dǒu}}), meaning ''[[Dipper (Chinese constellation)|Dipper]]'', refers to an asterism consisting of ζ Sagittarii, [[Phi Sagittarii|φ Sagittarii]], [[Lambda Sagittarii|λ Sagittarii]], [[Mu Sagittarii|μ Sagittarii]], [[Sigma Sagittarii|σ Sagittarii]] and [[Tau Sagittarii|τ Sagittarii]]. Consequently, ζ Sagittarii itself is known as {{lang|zh|斗宿一}} ({{lang|zh-Latn|Dǒu Sù yī}}, {{lang-en|the First Star of Dipper}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060511.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 11 日]</ref>
+
+==Namesakes==
+* [[USS Ascella (AK-137)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=gcsrv>{{cite book | last=Wilson | first=R. E. | year=1953 | title=General Catalogue of Stellar Radial Velocities | publisher=Carnegie Institute of Washington D.C. | bibcode=1953GCRV..C......0W }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J19026-2953AB -- Double or multiple star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Sagittarii | accessdate=2012-02-18 }}</ref>
+
+<ref name=aaa449_3_1233>{{citation | last1=Dybczyński | first1=P. A. | title=Simulating observable comets. III. Real stellar perturbers of the Oort cloud and their output | journal=Astronomy and Astrophysics | volume=449 | issue=3 | pages=1233–1242 | month=April | year=2006 | doi=10.1051/0004-6361:20054284 | bibcode=2006A&A...449.1233D }}</ref>
+
+<ref name=aj126_4_2048>{{citation | display-authors=1 | last1=Gray | first1=R. O. | last2=Corbally | first2=C. J. | last3=Garrison | first3=R. F. | last4=McFadden | first4=M. T. | last5=Robinson | first5=P. E. | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 Parsecs: The Northern Sample. I. | journal=The Astronomical Journal | volume=126 | issue=4 | pages=2048–2059 | month=October | year=2003 | doi=10.1086/378365 | bibcode=2003AJ....126.2048G |arxiv = astro-ph/0308182 }}</ref>
+
+<ref name=de_rosa_et_al_2011>{{citation | display-authors=1 | first1=Robert J. | last1=De Rosa | first2=Jenny | last2=Patience | first3=Arthur | last3=Vigan | first4=Paul A. | last4=Wilson | first5=Adam | last5=Schneider | first6=Nicholas J. | last6=McConnell | first7=Sloane J. | last7=Wiktorowicz | first8=Christian | last8=Marois | first9=Inseok | last9=Song | title=The VAST Survey -- II. Orbital motion monitoring of A-type star multiples | journal=Monthly Notices of the Royal Astronomical Society | year=2011 | arxiv=1112.3666 |bibcode = 2012MNRAS.422.2765D |doi = 10.1111/j.1365-2966.2011.20397.x }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | title=ASCELLA (Zeta Sagittarii) | url=http://stars.astro.illinois.edu/sow/ascella.html | accessdate=2012-02-18 }}</ref>
+
+}}
+
+{{Stars of Sagittarius}}
+
+[[Category:Bayer objects|Sagittarii, Zeta]]
+[[Category:Sagittarius (constellation)]]
+[[Category:Binary stars]]
+[[Category:A-type giants]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[de:Askella]]
+[[es:Askella]]
+[[fa:زتا کمان]]
+[[fr:Zeta Sagittarii]]
+[[id:Zeta Sagittarii]]
+[[it:Zeta Sagittarii]]
+[[lb:Askella (Stär)]]
+[[nl:Ascella]]
+[[ja:いて座ゼータ星]]
+[[pl:Zeta Sagittarii]]
+[[pt:Zeta Sagittarii]]
+[[sk:Ascella]]
+[[zh:斗宿六]]

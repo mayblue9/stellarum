@@ -1,0 +1,112 @@
+{{Starbox begin
+| name = Epsilon Tauri
+}}
+{{Starbox image 
+| image = [[File:Taurus constellation map.svg|250px]]
+| caption = The position of ε Tauri in the Taurus constellation.
+}}
+{{Starbox observe
+| epoch = J2000
+| constell = [[Taurus (constellation)|Taurus]]
+| ra = {{RA|04|28|37.00}}<ref name="van Leeuwen2007"/>
+| dec = {{DEC|+19|10|49.5}}<ref name="van Leeuwen2007"/>
+| appmag_v = +3.53
+}}
+{{Starbox character
+| class = K0III
+| b-v = 1.014
+| u-b =
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = 
+| prop_mo_ra = 106.19 ± 0.38<ref name="van Leeuwen2007"/>
+| prop_mo_dec = -37.84 ± 0.30<ref name="van Leeuwen2007"/>
+| parallax = 22.24
+| p_error = 0.25
+| parallax_footnote =<ref name="van Leeuwen2007"/>
+| absmag_v =
+}}
+{{Starbox detail
+| mass=2.7 ± 0.1
+| radius = 12.692 ± 0.545 <ref name="Belle">{{cite journal | url=http://www.iop.org/EJ/abstract/0004-637X/694/2/1085/ | author=Gerard T. van Belle and Kaspar von Braun | title=Directly Determined Linear Radii and Effective Temperatures of Exoplanet Host Stars | journal=The [[Astrophysical Journal]] | volume=694 | issue=2 | year=2009 | pages=1085–1098 | format=abstract | doi=10.1088/0004-637X/694/2/1085 | bibcode=2009ApJ...694.1085V|arxiv = 0901.1206 }}([http://arxiv.org/abs/0901.1206 web Preprint])</ref>
+| luminosity=97 ± 8<ref name="Sato2007"/> 
+| temperature=4901 ± 20
+| metal=+0.17 ± 0.04
+| rotation=
+| age=625 &times; 10<sup>6</sup>
+ }}
+{{Starbox catalog
+| names = [[Flamsteed designation|74 Tauri]], '''[[Ain]]''', [[Star catalogue#BD/CD/CPD|BD+18 640]], [[Catalog of Components of Double and Multiple Stars|CCDM 04286+1911]], '''Coronis''', FK5 164, [[Boss General Catalogue|GC 5430]], [[Henry Draper Catalogue|HD 28305]], [[Hipparcos catalogue|HIP 20889]], [[Star catalogue#BS, BSC, HR|HR 1409]], '''Oculus Borealis''', [[Smithsonian Astrophysical Observatory Star Catalog|SAO 93954]]
+| Simbad = HD+28305
+}}
+{{Starbox end}}
+
+'''Epsilon Tauri''' (ε Tau, ε Tauri) is an [[orange giant]] [[star]], [[stellar classification|spectral type]] of K0 III, located approximately 147 [[light-year]]s<ref name="van Leeuwen2007"/> away from the [[Sun]] in the [[constellation]] of [[Taurus (constellation)|Taurus]]. It is a member of the [[Hyades (star cluster)|Hyades]] [[open cluster]].  It has the traditional names '''[[Ain]]''' ([[Arabic language|Arabic]] عين), or '''Oculus Borealis''', both of which mean "eye". 
+
+It has an 11th magnitude companion 182 [[arcsecond]]s from the primary.
+
+Since Epsilon Tauri lies near the plane of the [[ecliptic]], it is sometimes [[occultation|occulted]] by the [[Moon]] and (very rarely) by [[planet]]s.
+
+As a member of the Hyades cluster, Epsilon Tauri's age is well constrained at 625 million years.<ref name="Sato2007"/> Given its large mass, this star was formerly a member of [[stellar classification|spectral type]] A that has now evolved off the [[main sequence]] into the giant phase. It is regarded as a [[red clump]] that burns helium at its core.
+
+== Planetary system ==
+
+In 2007 a massive [[extrasolar planet]] was reported orbiting the star. The planet orbits Epsilon Tauri every 1.6 years in a somewhat [[orbital eccentricity|eccentric]] orbit. At the time of the discovery it was the only known planet in an open cluster.<ref>{{cite web | title=Notes for star eps Tau | work=The Extrasolar Planets Encyclopaedia  | url=http://exoplanet.eu/star.php?st=eps+Tau  | accessdate=2007-02-09}}</ref> No other planets have yet been detected in the Hyades ''cluster'', but another planetary system—[[Iota Horologii]]— belongs to the Hyades stream and may be an escaped member of the cluster.
+
+{{OrbitboxPlanet begin
+| table_ref = <ref name="Sato2007"/>
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Epsilon Tauri b|b]]
+| mass = >7.6 (± 0.2)
+| period = 594.9 (± 5.3)
+| semimajor = 1.93 (± 0.03)
+| eccentricity = 0.151 (± 0.023)
+}}
+{{Orbitbox end}}
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Sato2007">{{cite journal | title=A Planetary Companion to the Hyades Giant ε Tauri | url=http://iopscience.iop.org/0004-637X/661/1/527/fulltext/ | last1=Sato | first1=Bun'ei | last2=Izumiura | first2=Hideyuki | last3=Toyota | first3=Eri | last4=Kambe | first4=Eiji | last5=Takeda | first5=Yoichi | last6=Masuda | first6=Seiji | last7=Omiya | first7=Masashi | last8=Murata | first8=Daisuke | last9=Itoh | first9=Yoichi | display-authors=1 | journal=The Astrophysical Journal | volume=661 | issue=1 | pages=527–531 | year=2007 | bibcode=2007ApJ...661..527S | doi=10.1086/513503 }}</ref>
+
+<ref name="van Leeuwen2007">{{cite journal | title=Validation of the new Hipparcos reduction | url=http://www.aanda.org/index.php?option=com_article&access=bibcode&Itemid=129&bibcode=2007A%2526A...474..653VFUL | last1=van Leeuwen | first1=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | year=2007 | arxiv=0708.1752 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 }} [http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=I/311/hip2&recno=20836 Vizier catalog entry ] </ref>
+
+}}
+
+== External links ==
+
+* {{cite web |url=http://exoplanet.eu/star.php?st=eps+Tau |title=Notes for star eps Tau |accessdate=2008-06-24 |work=The Extrasolar Planets Encyclopaedia}}
+* {{cite web |url=http://www.frostydrew.org/observatory/columns/essays/starnames.htm |title=Star Names |accessdate=2008-06-24 |work=[[Frosty Drew Observatory]]}}
+{{-}}
+{{Sky|04|28|37.0|+|19|10|49|155}}
+
+{{Stars of Taurus}}
+
+[[Category:Bayer objects|Tauri, Epsilon]]
+[[Category:Binary stars]]
+[[Category:Flamsteed objects|Tauri, 74]]
+[[Category:Hyades (star cluster)]]
+[[Category:Taurus (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+[[Category:Planetary systems]]
+
+[[ar:العين (نجم)]]
+[[cs:Ain (hvězda)]]
+[[de:Ain (Stern)]]
+[[es:Ain (estrella)]]
+[[fa:اپسیلون گاو]]
+[[fr:Epsilon Tauri]]
+[[ko:아인]]
+[[it:Ain (astronomia)]]
+[[lb:Ain (Stär)]]
+[[lt:Aina]]
+[[nl:Ain (ster)]]
+[[ja:おうし座イプシロン星]]
+[[pl:Epsilon Tauri]]
+[[pt:Epsilon Tauri]]
+[[ro:Epsilon Tauri]]
+[[sk:Epsilon Tauri]]
+[[zh:毕宿一]]

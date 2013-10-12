@@ -1,0 +1,137 @@
+{{Redirect4|Eltanin|Etamin}}
+{{Starbox begin
+ | name=Gamma Draconis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Draco IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Draco constellation and its surroundings]]
+     <div style="position: absolute; left: 24.4%; top: 56.3%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of γ Draconis (circled) near the center
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|17|56|36.36988}}<ref name="LEEUWEN"/>
+ | dec      = {{DEC|51|29|20.0242}}<ref name="LEEUWEN"/>
+ | appmag_v = 2.3617<ref name="LEEUWEN"/>
+ | constell = [[Draco (constellation)|Draco]]
+}}
+{{Starbox character 
+ | class     = K5&nbsp;III<ref name=araa11_29/>
+ | b-v       = +1.52<ref name="MERMILLIOD"/>
+ | u-b       = +1.87<ref name="MERMILLIOD"/>
+ | variable  = 
+}} 
+{{Starbox astrometry 
+ | radial_v  = {{nowrap|–28.19 ± 0.36}}<ref name=aj135_1_209/>
+ | prop_mo_ra  = –8.48<ref name="LEEUWEN"/>
+ | prop_mo_dec = –22.79<ref name="LEEUWEN"/>
+ | parallax  = 21.14
+ | p_error   = 0.10
+ | parallax_footnote= <ref name="LEEUWEN"/>
+ | absmag_v  = {{nowrap|−1.93 ± 0.07}}<ref name=aaa526_A100/>
+}}
+{{Starbox detail 
+ | mass     = 1.72<ref name=aaa533_A107/>
+ | radius   = {{nowrap|48.15 ± 1.09}}<ref name=aaa526_A100/>
+ | luminosity  = {{nowrap|471 ± 30}}<ref name=aaa526_A100/>
+ | temperature = 3,930<ref name=aaa526_A100/>
+ | gravity  = 1.55<ref name=aaa526_A100/>
+ | metal_fe = –0.14<ref name="MCWILLIAM"/>
+ | rotational_velocity=6.0<ref name=aj135_1_209/>
+ | age= 
+}}
+{{Starbox catalog
+ | names = Etamin, Etanin, Ettanin, Rastaban, Rasaben, Zenith star, 33 Draconis, [[Bonner Durchmusterung|BD]] +51°2282, [[Catalogues of Fundamental Stars|FK5]] 676, [[Henry Draper catalogue|HD]] 164058, [[Hipparcos catalogue|HIP]] 87833, [[Harvard Revised catalogue|HR]] 6705, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 30653.
+}}
+{{Starbox reference
+ |Simbad=HD+164058
+}}
+{{Starbox end}}
+
+'''Gamma Draconis''' (γ Dra, γ Draconis) is the [[Bayer designation]] for a [[star]] in the northern [[constellation]] of [[Draco (constellation)|Draco]]. It has the traditional name '''Etamin''' or '''Eltanin''' and the Flamsteed designation '''33 Draconis'''.<ref name="SIMBAD"/><ref name="KALER"/><ref name="WIKISKY"/> Despite its gamma designation, it is actually the brightest star in Draco at magnitude 2.4,<ref name="LEEUWEN"/> outshining Rastaban ([[Beta Draconis]]) by nearly half a magnitude. Its proximity to the [[zenith|zenith point]] directly overhead of [[London]] has earned it the name "Zenith Star." As for other places, it is relatively easy to locate in the night sky. If one finds [[Alpha Lyrae|Vega]], Eltanin is the red star just north-northwest of it.
+
+Eltanin lies around {{Convert|154.3|ly|pc|abbr=off|lk=on}} away,<ref name="LEEUWEN"/> as determined by [[parallax]] measurements from the [[Hipparcos]] astrometry satellite.<ref name=aaa323_L49/><ref name=GSM/> In 1728, while unsuccessfully attempting to measure the [[parallax]] of this star, [[James Bradley]] discovered the [[aberration of light]] resulting from the movement of the Earth. Bradley's discovery confirmed [[Copernicus]]' [[Heliocentrism|theory]] that the Earth revolved around the Sun.<ref name="KALER"/>
+
+==Properties==
+Gamma Draconis is an [[stellar evolution|evolved]] [[giant star]] with a [[stellar classification]] of K5&nbsp;III.<ref name=araa11_29/> Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> It has 72%<ref name=aaa533_A107/> more mass than the Sun and it has expanded to around 48<ref name=aaa526_A100/> times the Sun's girth. It is radiating about 471<ref name=aaa526_A100/> times as much luminosity as the Sun from its [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of 3,930&nbsp;K.<ref name=aaa526_A100/> This is cooler than the Sun, giving this star the orange-hued glow of a [[K-type star]].<ref name=csiro/>
+
+Eltanin has a faint 13.4 magnitude optical companion that may be a physical companion. If so, the two are separated by about 1000&nbsp;[[Astronomical Unit|AU]]. The luminosity of this object suggests it is a [[red dwarf]] star.<ref name=apj651_2_1126/> In 1.5 million years, Eltanin will pass within 28 light years of Earth. At this point (assuming its current absolute magnitude does not change) it will be the brightest star in the night sky, nearly as bright as [[Sirius]] is at present.<ref name="KALER"/>
+
+==In culture==
+The name Etamin comes from the [[Arabic language|Arabic]] التنين At-Tinnin ''The great serpent''. The name "Rastaban" was formerly used for Eltanin, and the two terms share an [[Arabic language|Arabic]] root meaning "serpent" or "dragon." This star, along with [[Beta Draconis|β Dra]] (Rastaban), [[Mu Draconis|μ Dra]] (Erakis), [[Nu Draconis|ν Dra]] (Kuma) and [[Xi Draconis|ξ Dra]] (Grumium) were '''Al ʽAwāïd''', "the Mother Camels", which was later known as the '''Quinque Dromedarii'''.<ref name=allen1963/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天棓}} ({{lang|zh-Latn|Tiān Bàng}}), meaning ''[[Purple Forbidden enclosure|Celestial Flail]]'', refers to an asterism consisting of γ Draconis, [[Xi Draconis|ξ Draconis]], [[Nu Draconis|ν Draconis]], [[Beta Draconis|β Draconis]] and [[Iota Herculis|ι Herculis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, γ Draconis itself is known as {{lang|zh|天棓四}} ({{lang|zh-Latn|Tiān Bàng sì}}, {{lang-en|the Fourth Star of Celestial Flail}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+[[USS Etamin (AK-93)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==See also==
+* [[List of stars in Draco]]
+* [[Gamma Draconis in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa323_L49>{{citation | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. |  last4=et al. | title=The Hipparcos Catalogue | journal=Astronomy and Astrophysics | volume=323 | month=July | year=1997 | pages=L49–L52 | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name="LEEUWEN">{{cite journal | title=Hipparcos, the New Reduction | last1=van Leeuwen | first1=F | year=2007 | month=November | work=[[VizieR]]  | publisher=[[Centre de Données astronomiques de Strasbourg]] | pages=653–664 | issue=2 | volume=474  | url=http://vizier.u-str asbg.fr/viz-bin/VizieR-S?HIP%2087833 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics | bibcode=2007A&A...474..653V | accessdate=2010-11-21 |arxiv = 0708.1752 }}</ref>
+
+<ref name=GSM>{{citation | last=Perryman | first=Michael | title=The Making of History's Greatest Star Map | location=Heidelberg | publisher=Springer-Verlag | year=2010 | doi=10.1007/978-3-642-11602-5}}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name="KALER">{{cite web | title=ELTANIN (Gamma Draconis) | work=Stars | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/eltanin.html | accessdate=2010-11-21}}</ref>
+
+<ref name="MCWILLIAM">{{cite journal | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants | journal=Astrophysical Journal Supplement Series | year=1990 | month=December | volume=74 | pages=1075–1128 | format=PDF | origin=STI  | bibcode=1990ApJS...74.1075M | doi=10.1086/191527 }}</ref>
+
+<ref name="MERMILLIOD">{{cite journal | last1=Mermilliod | first1=J.-C. | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished) | journal=Catalogue of Eggen's UBV data | year=1986 | origin=SIMBAD | format=PDF  | bibcode=1986EgUBV........0M }}</ref>
+
+<ref name="SIMBAD">{{cite web | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gamma+Draconis&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id | title=SIMBAD query result: NAME ETAMIN -- Star in double system | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-11-21 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=apj651_2_1126>{{citation | last1=Ayres | first1=Thomas R. | last2=Brown | first2=Alexander | last3=Harper | first3=Graham M. | title=The Coronae of γ Draconis | journal=The Astrophysical Journal | volume=651 | issue=2 | pages=1126–1129 | month=November | year=2006 | doi=10.1086/507763 | bibcode=2006ApJ...651.1126A }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | issue=1 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=207}}</ref>
+
+<ref name="WIKISKY">{{cite web | title=γ Dra (Eltanin) | publisher=Wikisky.org | url=http://www.server6.wikisky.org/starview?object_type=1&object_id=270&object_name=33+Dra | accessdate=2010-11-22}}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M }}</ref>
+
+<ref name=aaa533_A107>{{citation | display-authors=1 | last1=Dehaes | first1=S. | last2=Bauwens | first2=E. | last3=Decin | first3=L. | last4=Eriksson | first4=K. | last5=Raskin | first5=G. | last6=Butler | first6=B. | last7=Dowell | first7=C. D. | last1=Ali | first1=B. | last1=Blommaert | first1=J. A. D. L. | title=Structure of the outer layers of cool standard stars | journal=Astronomy & Astrophysics | volume=533 | page=A107 | month=September | year=2011 | doi=10.1051/0004-6361/200912442 | bibcode=2011A&A...533A.107D }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Sky|17|56|36.37|+|51|29|20.02|1000000}}
+{{Stars of Draco}}
+
+[[Category:Bayer objects|Draconis, Gamma]]
+[[Category:Draco (constellation)]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[cs:Etamin]]
+[[de:Etamin]]
+[[el:Ελτανίν]]
+[[es:Etamin]]
+[[fa:گاما اژدها]]
+[[fr:Gamma Draconis]]
+[[ko:엘타닌]]
+[[hi:गामा ड्रेकोनिस तारा]]
+[[id:Gamma Draconis]]
+[[it:Eltanin]]
+[[lb:Etamin (Stär)]]
+[[nl:Etamin]]
+[[ja:エルタニン]]
+[[pl:Etamin]]
+[[pt:Gamma Draconis]]
+[[ru:Этамин]]
+[[sk:Eltanin]]
+[[fi:Gamma Draconis]]
+[[sv:Eltanin]]
+[[tt:Әлтәнин]]
+[[zh:天棓四]]

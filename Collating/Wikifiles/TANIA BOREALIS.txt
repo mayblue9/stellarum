@@ -1,0 +1,100 @@
+{{Starbox begin
+| name=Lambda Ursae Majoris
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Ursa Major constellation and its surroundings]]
+     <div style="position: absolute; left: 57.4%; top: 51.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of λ Ursae Majoris (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|10|17|05.78287}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+42|54|51.6808}}<ref name=aaa474_2_653/>
+| appmag_v = +3.45<ref name=clpl4_99/>
+| constell = [[Ursa Major]]
+}}
+{{Starbox character
+| class    = A2&nbsp;IV<ref name=aj74_375/>
+| b-v      = +0.03<ref name=clpl4_99/>
+| u-b      = +0.06<ref name=clpl4_99/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +18.1<ref name=rgcrv/>
+| prop_mo_ra  = –180.65<ref name=aaa474_2_653/>
+| prop_mo_dec = –46.07<ref name=aaa474_2_653/>
+| parallax = 23.72
+| p_error  = 0.78
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = 2.4<ref name=aass85_3_1015/>
+| radius   = 2.3<ref name=aass85_3_1015/>
+| luminosity  = 37<ref name=aass85_3_1015/>
+| temperature = 9,280<ref name=aaa294_2_536/>
+| metal_fe = +0.20<ref name=aaa294_2_536/>
+| rotation = 
+| rotational_velocity = 50<ref name=aaa463_2_671/>
+| gravity  = 3.90<ref name=aaa294_2_536/>
+| age_myr  = 410<ref name=apj653_1_675/>
+}}
+{{Starbox catalog
+| names = Tania Borealis, λ&nbsp;Ursae Majoris, λ&nbsp;UMa, Lambda&nbsp;UMa, 33&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+43&nbsp;2005, [[Fifth Fundamental Catalogue|FK5]]&nbsp;383, [[Boss General Catalogue|GC]]&nbsp;14113, [[Henry Draper Catalogue|HD]]&nbsp;89021, [[Hipparcos catalogue|HIP]]&nbsp;50372, [[Bright Star Catalogue|HR]]&nbsp;4033, [[PPM Star Catalogue|PPM]]&nbsp;51795, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;43268.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Lambda Ursae Majoris''' ('''Lambda&nbsp;UMa''', '''λ&nbsp;Ursae Majoris''', '''λ&nbsp;UMa''') is a [[star]] in the northern [[circumpolar constellation]] of [[Ursa Major]]. It has the proper names '''Tania Borealis''' (former ''Tania borealis''<ref>[[Giuseppe Piazzi|Piazzi, G.]], ''The Palermo Catalogue'', Palermo, 1814.</ref>).
+
+This star has an [[apparent visual magnitude]] of +3.45,<ref name=clpl4_99/> making it one of the [[List of stars in Ursa Major|brighter members]] of the constellation. The distance to this star has been measured directly using the [[parallax]] technique, which yields a value of roughly {{Convert|138|ly|pc|abbr=off|lk=on}} with a 4% [[margin of error]]. The [[stellar classification]] of Lambda Ursae Majoris is A2&nbsp;IV,<ref name=aj74_375/> with the [[luminosity class]] of 'IV' indicating that, after 410&nbsp;million years<ref name=apj653_1_675/> on the [[main sequence]], this star is in the process of [[stellar evolution|evolving]] into a [[giant star]] as the supply of hydrogen at its core becomes exhausted. Compared to the Sun it has 240% of the mass and 230% of the Sun's radius, but is radiating 37 times as much luminosity.<ref name=aass85_3_1015/> This energy is being emitted from the star's [[stellar atmosphere|outer atmosphere]] at an [[effective temperature]] of 9,280&nbsp;K,<ref name=aaa294_2_536/> giving it the characteristic white-hot glow of an [[A-type star]].<ref name=csiro/>
+
+==Name and etymology==
+*The traditional name ''Tania''' (share with [[Mu Ursae Majoris|μ UMa]]) comes from the Arabic phrase  {{transl|ar|''Al Fiḳrah al Thānia''}} "the Second Spring (of the Gazelle)".<ref name=rhallen1899>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen :Star Names — Their Lore and Meaning - Ursa Major, the Greater Bear]</ref> The term ''Borealis'' meaning "the north side" in [[Latin]].
+*In [[Chinese language|Chinese]], {{lang|zh|三台}} ({{lang|zh-Latn|Sān Tái}}), meaning ''[[Purple Forbidden enclosure|Three Steps]]'', refers to an asterism consisting of λ Ursae Majoris, [[Iota Ursae Majoris|ι Ursae Majoris]], [[Kappa Ursae Majoris|κ Ursae Majoris]], [[Mu Ursae Majoris|μ Ursae Majoris]], [[Nu Ursae Majoris|ν Ursae Majoris]] and [[Xi Ursae Majoris|ξ Ursae Majoris]]. Consequently, λ Ursae Majoris itself is known as {{lang|zh|三台三}} ({{lang|zh-Latn|Sān Tái sān}}, {{lang-en|the Third Star of Three Steps}}) and {{lang|zh|中台一}} ({{lang|zh-Latn|Zhōng Tái yī}}, {{lang-en|Star of First Middle Step}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060621.html (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 21 日]</ref>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa294_2_536>{{citation | last1=Hill | first1=G. M. | title=Compositional differences among the A-type stars. 2: Spectrum synthesis up to V sin i = 110 km/s | journal=Astronomy and Astrophysics | volume=294 | issue=2 | pages=536–546 | month=February | year=1995 | bibcode=1995A&A...294..536H }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C }}</ref>
+
+<ref name=rgcrv>{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=apj653_1_675>{{citation | display-authors=1 | last1=Su | first1=K. Y. L. | last2=Rieke | first2=G. H. | last3=Stansberry | first3=J. A. | last4=Bryden | first4=G. | last5=Stapelfeldt | first5=K. R. | last6=Trilling | first6=D. E. | last7=Muzerolle | first7=J. | last8=Beichman | first8=C. A. | last9=Moro-Martin | first9=A. | title=Debris Disk Evolution around A Stars | journal=The Astrophysical Journal | volume=653 | issue=1 | pages=675–689 | month=December | year=2006 | doi=10.1086/508649 | bibcode=2006ApJ...653..675S |arxiv = astro-ph/0608563 }}</ref>
+
+<ref name=aass85_3_1015>{{citation | last1=Malagnini | first1=M. L. | last2=Morossi | first2=C. | title=Accurate absolute luminosities, effective temperatures, radii, masses and surface gravities for a selected sample of field stars | journal=Astronomy and Astrophysics Supplement Series | volume=85 | issue=3 | pages=1015–1019 | month=November | year=1990 | bibcode=1990A&AS...85.1015M }}</ref>
+
+<ref name=SIMBAD>{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Lambda+Ursae+Majoris | title=lam UMa -- High proper-motion Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2012-01-20 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Lambda]]
+[[Category:Ursa Major (constellation)]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ar:القفزة الثاني الشمالي]]
+[[de:Lambda Ursae Majoris]]
+[[es:Tania Borealis]]
+[[fa:ثانیه شمالی]]
+[[fr:Lambda Ursae Majoris]]
+[[it:Lambda Ursae Majoris]]
+[[lb:Tania Borealis (Stär)]]
+[[nl:Tania Borealis]]
+[[pl:Lambda Ursae Majoris]]
+[[pt:Lambda Ursae Majoris]]
+[[ru:Танийа Северная]]
+[[sk:Lambda Ursae Majoris]]
+[[uk:HD89021]]
+[[zh:大熊座λ]]

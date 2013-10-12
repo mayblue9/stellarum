@@ -1,0 +1,147 @@
+{{Other uses|Maia (disambiguation)}}
+{{Starbox begin |
+   name=Maia, 20 Tauri}}
+{{Starbox image
+| image = [[File:M45map.jpg|250px]]
+| caption = Maia is located in the upper right section of the map.
+}}
+{{Starbox observe
+ |epoch=J2000
+  |ra={{RA|03|45|49.6067}}<ref name="SIMBAD">{{cite web
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=20+Tau&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+  | title =SIMBAD query result: MAIA -- Variable Star
+  | publisher =Centre de Données astronomiques de Strasbourg
+  | accessdate = 2010-06-11 }}</ref>
+  | dec={{DEC|24|22|03.895}}<ref name="SIMBAD" />
+  |appmag_v=3.871<ref name="SIMBAD" />
+  |constell=[[Taurus (constellation)|Taurus]] }}
+
+{{Starbox character
+  |class=B8III<ref name="SIMBAD" />
+  |b-v=-0.07<ref name="aaa34">{{cite journal
+  | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewski, W. Z.
+  | title=UBVRIJKL photometry of the bright stars.
+  | journal=Comm. Lunar Plan. Lab., 4
+  | year=1966
+  | origin=SIMBAD
+  | format=PDF
+  | bibcode=1966CoLPL...4...99J}}</ref>
+  |u-b=-0.40
+  |variable=Suspected}}
+{{Starbox astrometry
+  |radial_v=7.5<ref name="SIMBAD" />
+  |prop_mo_ra=21.09<ref name="SIMBAD" />
+  |prop_mo_dec=-45.03<ref name="SIMBAD" />
+  |parallax=9.06
+  |p_error=1.03
+  |parallax_footnote=<ref name="aaa323">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+  |absmag_v=-1.03}}
+{{Starbox detail
+  |mass=4+<ref name="kaler">{{cite web
+  |title=MAIA (20 Tauri)
+  |publisher=University of Illinois
+  |author=Professor James B. (Jim) Kaler
+  |url=http://stars.astro.illinois.edu/sow/maia.html
+  |accessdate=2010-06-11}}</ref>
+  |radius=5.5<ref name="kaler" />
+  |luminosity=660<ref name="kaler" />
+  |temperature=12,600<ref name="kaler" />
+  |metal=1.10 [[Metallicity#Calculation|Fe/H]]<ref name="AJS41">{{cite journal
+    | author=Heacox, W. D.
+    | title=Chemical abundances in Hg-Mn stars
+    | journal=Astrophysical Journal Supplement Series
+    | year=1979
+    | volume= 41
+    | pages=675–688
+    | format=PDF
+    | bibcode=1979ApJS...41..675H
+    | doi=10.1086/190637}}</ref>
+  |rotation=33 km/s<ref name="aaa393">{{cite journal
+  | author=Royer, F.; Grenier, S.; Baylac, M.-O.; Gómez, A. E.; Zorec, J.
+  | title=Rotational velocities of A-type stars in the northern hemisphere. II. Measurement of v sin i in the northern hemisphere
+  | journal=Astronomy and Astrophysics
+  | year=2002
+  | volume=393
+  | issue=3
+  | pages=897–911
+  | format=PDF
+  | bibcode=2002A&A...393..897R
+  | doi=10.1051/0004-6361:20020943|arxiv = astro-ph/0205255 }}</ref>
+  |age=? }}
+
+{{Starbox catalog
+ |names=Maia, [[Flamsteed designation|20&nbsp;Tauri]], [[Harvard Revised catalogue|HR]]&nbsp;1149, [[Bonner Durchmusterung|BD]] 23° 516, [[Henry Draper Catalogue|HD]]&nbsp;23408, [[Hipparcos catalogue|HIP]]&nbsp;17573, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;76155, [[Boss General Catalogue|GC]]&nbsp;4500, [[New Catalogue of Suspected Variable Stars|NSV]]&nbsp;01279, [[Washington Double Star Catalog|WDS]]&nbsp;J03458+2422}}
+
+{{Starbox reference
+ |Simbad=HD+23408}}
+{{Starbox end}}
+
+{{Sky|03|45|49.607|+|24|22|03.895|100000}}
+
+'''Maia''' ([[Flamsteed designation|20 Tauri]]) is a [[star]] in the constellation [[Taurus (constellation)|Taurus]].  It is the [[Pleiades (star cluster)#Brightest stars|fourth brightest]] star in the [[Pleiades (star cluster)|Pleiades]] [[open cluster|open star cluster]] ([[Messier objects|M45]]), after [[Alcyone (star)|Alcyone]], [[Atlas (star)|Atlas]] and [[Electra (star)|Electra]], in that order.  The name '''Maia''' originates with the {{lang-el|Μαῖα}} and {{lang-la|Maia}}.  She is one of the [[Pleiades (Greek mythology)|seven daughters]] of [[Atlas (star)|Atlas]] and [[Pleione (star)|Pleione]] in [[Greek mythology]]&mdash;stars which are also included in the Pleaides star cluster (see map).  Maia is a [[blue giant]] of [[spectral type]] B8 III, and a [[mercury-manganese star]].
+
+== Overview ==
+Maia's [[apparent magnitude|visual magnitude]] is 3.871, requiring darker skies to be seen. Its total [[Bolometer|bolometric]] [[Luminosity#In astronomy|luminosity]] is 660 times solar, mostly in the [[ultraviolet]], thus suggesting a radius that is 5.5 times that of the Sun and a mass that is slightly more than 4 times solar.<ref name="kaler" /> Maia is one of the stars in the '''Maia Nebula''' (also known as ''NGC 1432''), a bright emission or reflection nebula<ref name="seds">{{cite web  | title=SEDS Students for the Exploration and Development of Space  | work=NGC 1432  | url=http://seds.org/~spider/ngc/ngc.cgi?1432  | accessdate=2010-06-11}}</ref> within the Pleiades star cluster.
+
+Maia was thought to be a [[variable star]] by astronomer [[Otto Struve]].  A class of stars known as '''Maia variables''' was proposed, which included [[Gamma Ursae Minoris]], but Maia and some others in the class have since been found to be stable.<ref name="kaler" />
+
+==Mythology==
+{{Main|Maia (mythology)}}
+[[File:Hermes Maia Staatliche Antikensammlungen 2304.jpg|thumb|left|250px|God council in Olympus: Hermes with his mother Maia. Detail of the side B of an Attic red-figure belly-amphora, ca. 500 BC.]]
+Maia was the oldest of seven beautiful sisters known as the [[Pleiades (Greek mythology)|Pleiades]].  She was raped by Zeus, thereby conceiving Hermes, the messenger god.  As Maia and the Pleiades are visible in the winter night sky along with the [[Orion (constellation)|constellation]] [[Orion (mythology)|Orion]], the Greek [[Mythology|myths]] tell of Maia and her sisters being pursued by the [http://antwrp.gsfc.nasa.gov/apod/ap100329.html giant huntsman], and turned into doves to preserve their safety.<ref>[[Hesiod]], ''Works and Days'' 619ff.</ref>
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Taurus|Taurus]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Mercury-manganese star]]
+* [[Stars and planetary systems in fiction#Maia (20 Tauri)|Maia in fiction]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons cat|Maia (star)}}
+*Jim Kaler's Stars, University of Illinois:[http://www.astro.uiuc.edu/~kaler/sow/maia.html Maia (20 Tauri)]
+*High-resolution LRGB image based on 4 hrs total exposure: [http://www.perseus.gr/Astro-DSO-NGC-1432.htm NGC 1432 - Maia Nebula ]
+*[[Astronomy Picture of the Day|APOD]] Pictures:
+**1) [http://antwrp.gsfc.nasa.gov/apod/ap100329.html Orion, the giant huntsman, in pursuit of the Pleiades]
+**2) [http://antwrp.gsfc.nasa.gov/apod/ap100326.html Young Moon and Sister Stars ]
+**3) [http://antwrp.gsfc.nasa.gov/apod/ap091014.html Pleiades and Stardust]
+
+{{DEFAULTSORT:Maia (Star)}}
+
+{{Stars of Taurus}}
+
+[[Category:B-type giants]]
+[[Category:Flamsteed objects|Tauri, 20]]
+[[Category:Pleiades Open Cluster]]
+[[Category:Taurus (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:مايا (نجم)]]
+[[cs:Maia (hvězda)]]
+[[de:Maia (Stern)]]
+[[es:Maia (estrella)]]
+[[fa:ستاره مایا]]
+[[fr:Maïa (étoile)]]
+[[ko:마이아 (항성)]]
+[[hr:Maia (zvijezda)]]
+[[it:Maia (astronomia)]]
+[[la:Maia (stella)]]
+[[lb:Maia (Stär)]]
+[[nl:Maia (ster)]]
+[[ja:マイア (恒星)]]
+[[no:Maia (stjerne)]]
+[[pl:Maja (gwiazda)]]
+[[pt:Maia (estrela)]]
+[[ru:Майя (звезда)]]
+[[sk:Maia (hviezda)]]
+[[uk:20 Тельця]]
+[[zh:昴宿四]]

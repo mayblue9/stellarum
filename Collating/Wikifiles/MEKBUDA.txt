@@ -1,0 +1,129 @@
+{{Starbox begin
+| name=Zeta Geminorum
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Gemini IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Gemini constellation and its surroundings]]
+     <div style="position: absolute; left: 104px; top: 100px">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ζ Geminorum (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| constell = [[Gemini (constellation)|Gemini]]
+| ra       = {{RA|07|04|06.53079}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+20|34|13.0739}}<ref name=aaa474_2_653/>
+| appmag_v = 3.93 {{nowrap|(3.68 to 4.16)}}<ref name=aaa504_3_959/>
+}}
+{{Starbox character
+| class    = {{nowrap|G0Ibv<ref name=SIMBAD/> (F7Ib to G3Ib)<ref name=aaa367_876/>}}
+| b-v      = 0.88<ref name=ppc/>
+| u-b      = +0.55<ref name=ppc/>
+| variable = Classical [[Cepheid variable|Cepheid]]
+}}
+{{Starbox astrometry
+| radial_v = +6.7<ref name=scfs/>
+| prop_mo_ra  = –7.29<ref name=aaa474_2_653/>
+| prop_mo_dec = –0.41<ref name=aaa474_2_653/>
+| dist_ly = {{nowrap|1,183 ± 29(σ<sub>2</sub>) ± 85(σ)}}
+| dist_pc = {{nowrap|363 ± 9(σ<sub>2</sub>) ± 26(σ)}}<ref name=majaess2012/>
+}}
+{{Starbox detail
+| mass        = {{nowrap|7.7 ± 0.3}}<ref name=mnras410_1_190/>
+| radius      = {{nowrap|(65.24 ± 0.20) ± 4.17}}<ref name=aaa474_3_975/>
+| luminosity  = 2,900<ref name=aaa352_495/>
+| temperature = 5,260–5,780<ref name=aaa367_876/>
+| gravity     = 1.9<ref name=aaa338/>
+| metal_fe    = 0.16<ref name=aaa338/>
+| age_myr     = {{nowrap|70 ± 25}}<ref name=majaess2012/>
+| rotational_velocity = 19<ref name=uesugi_fukuda70/>
+}}
+{{Starbox catalog
+| names = Mekbuda, [[Bayer designation|ζ&nbsp;Gem]], [[Flamsteed designation|43&nbsp;Gem]], [[Bonner Durchmusterung|BD]]&nbsp;+20&nbsp;1687, [[FK5]]&nbsp;269, [[Henry Draper catalogue|HD]]&nbsp;52973, [[Hipparcos catalogue|HIP]]&nbsp;34088, [[Harvard Revised catalogue|HR]]&nbsp;32650, [[Smithsonian Astrophysical Observatory Star Catalogue|SAO]]&nbsp;79031.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Zeta Geminorum''' (ζ Gem, ζ Geminorum) is the [[Bayer designation]] for a [[star]] in the [[zodiac]] [[constellation]] [[Gemini (constellation)|Gemini]], on the outstretched left 'leg' of the twin [[Pollux (star)|Pollux]]. It has the traditional name '''Mekbuda''', meaning ''the lion's folded paw''. As a member of the category of [[variable star]]s known as [[classical Cepheid variable|classical Cepheid]]s, it has a regular pulsation frequency that is determined by its mass. Because the mass allows the luminosity to be directly determined, the star serves as an important calibrator for the [[cosmic distance ladder]].<ref name=benedict2007/><ref name=vanleeuwen07/><ref name=majaess2012/>
+
+==Observation history==
+In 1825, German astronomer [[Johann Friedrich Julius Schmidt|Julius Schmidt]] discovered that this star varies in brightness with a period of about 10 days,<ref name=allen1899/> although it had been suspected of variability as early as 1790.<ref name=pdoo9_105/> In 1899, American astronomer [[William Wallace Campbell|W. W. Campbell]] announced that Zeta Geminorum has a variable [[radial velocity]].<ref name=apj9_86/> (This variation was independently discovered by Russian astronomer [[Aristarkh Belopolsky]], published in 1901.)<ref name=pdoo9_105/> Based on his observations, Campbell later published [[orbital elements]] for the binary. However, he found that the curve departed from a [[keplerian orbit]] and even suggested that it was a triple star system in order to explain the irregularities.<ref name=apj13_90/> The periodic variation in radial velocity was subsequently explained as the result of radial pulsations that occur in a class of variable stars known as [[Cepheid variable]]s—named after [[Delta Cephei]].<ref name=pdoo9_105/>
+
+The periodicity of the star is itself variable, a trend first noted by German astronomer [[Paul Guthnick]] in 1920, who suspected that the period change was the result of an orbiting companion. In 1930, Danish astronomer [[Axel Nielsen]] suggested that the change was instead the result in a steady decrease of about 3.6 seconds per year in the period.<ref name=apj188_L75/>
+
+==Properties==
+This star is a [[Classical Cepheid variable]] that undergoes regular, periodic variation in luminosity because of radial pulsations. In the [[V band]], the [[apparent magnitude]] varies between a high of 3.68 and a low of 4.16 (with a mean of 3.93) over a period of 10.148 days.<ref name=aaa504_3_959/> This period of variation is decreasing at the rate of 3.1 seconds per year, or 0.085 seconds per cycle.<ref name=apj188_L75/> It has a nominal [[stellar classification]] of G0&nbsp;Ibv,<ref name=SIMBAD/> with the [[luminosity class]] of Ib indicating that this is an intermediate luminous [[supergiant]]. The 'v' suffix means that it has variable spectral features, with the actual classification changing between F7Ib and G3Ib over the course of a pulsation cycle. Likewise the [[effective temperature]] of the outer envelope varies between 5,780&nbsp;K and 5,260&nbsp;K,<ref name=aaa367_876/> while the radius varies from 61 to 69 times the [[solar radius|Sun's radius]].<ref name=aaa474_3_975/> On average, it is radiating about 2,900 times the luminosity of the Sun.<ref name=aaa352_495/>
+
+There is no evidence of a stellar companion to Zeta Geminorum.<ref name=apj188_L75/> However, the star was recently discovered to belong to a [[star cluster]].<ref name=majaess2012/> [[Delta Cephei]], the prototypical [[classical Cepheid variables]], is also a member of a [[star cluster]].<ref name=dezeeuw1999/><ref name=majaess2012b/> The Cepheid's cluster membership, along with recent [[Hubble Space Telescope]] and [[Hipparcos]] [[parallax]]es, place strong constraints on the star's distance: {{nowrap|363 ± 9(σ<sub>2</sub>) ± 26(σ)}} [[parsec]]s.<ref name=majaess2012/> Zeta Geminorum is thus an important calibrator for establishing the [[cosmic distance ladder]].
+
+==Etymology==
+This star has the traditional name '''Mekbuda''', which comes from ancient Arabic where it and the star Mebsuta ([[Epsilon Geminorum]]) were the paws of a lion. Mekbuda comes from a phrase meaning ''the lion's folded paw''.<ref name=allen1899/> In [[Chinese language|Chinese]], {{lang|zh|井宿}} ({{lang|zh-Latn|Jǐng Su}}), meaning ''[[Well (Chinese constellation)|Well]] (asterism)'', refers to an asterism consisting of ζ Geminorum,  [[Mu Geminorum|μ Geminorum]], [[Gamma Geminorum|γ Geminorum]], [[Nu Geminorum|ν Geminorum]], [[Xi Geminorum|ξ Geminorum]], [[Epsilon Geminorum|ε Geminorum]], [[36 Geminorum]] and [[Lambda Geminorum|λ Geminorum]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ζ Geminorum itself is known as {{lang|zh|井宿七}} ({{lang|zh-Latn|Jǐng Su qī}}, {{lang-en|the Seventh Star of Well}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_m.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa338>{{citation | last1=Mallik | first1=Sushma V. | title=Chromospheric activity in cool stars and the lithium abundance | journal=Astronomy and Astrophysics | volume=338 | pages=623&ndash;636 | month=October | year=1998 | bibcode=1998A&A...338..623M }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=uesugi_fukuda70>{{citation | last1=Uesugi | first1=Akira | last2=Fukuda | first2=Ichiro | title=Catalogue of rotational velocities of the stars | journal=Contributions from the Institute of Astrophysics and Kwasan Observatory | year=1970 | publisher=University of Kyoto | bibcode=1970crvs.book.....U }}</ref>
+
+<ref name=ppc>{{citation | last1=Nicolet | first1=B. | year=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Observatory | bibcode=1978ppch.book.....N }}</ref>
+
+<ref name=aaa504_3_959>{{citation | last1=Klagyivik | first1=P. | last2=Szabados | first2=L. | title=Observational studies of Cepheid amplitudes. I. Period-amplitude relationships for Galactic Cepheids and interrelation of amplitudes | journal=Astronomy and Astrophysics | volume=504 | issue=3 | pages=959–972 | month=September | year=2009 | doi=10.1051/0004-6361/200811464 | bibcode=2009A&A...504..959K |arxiv = 0908.3561 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=V* zet Gem -- Classical Cepheid (delta Cep type) | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Zeta+Geminorum | accessdate=2012-01-01 }}</ref>
+
+<ref name=aaa367_876>{{citation | display-authors=1 | last1=Kervella | first1=P. | last2=Coudé du Foresto | first2=V. | last3=Perrin | first3=G. | last4=Schöller | first4=M. | last5=Traub | first5=W. A. | last6=Lacasse | first6=M. G. | title=The angular diameter and distance of the Cepheid ? Geminorum | volume=Astronomy and Astrophysics | volume=367 | pages=876–883 | month=March | year=2001 | bibcode=2001A&A...367..876K |arxiv = astro-ph/0102359 |doi = 10.1051/0004-6361:20000490 }}</ref>
+
+<ref name=aaa474_3_975>{{citation | last1=Groenewegen | first1=M. A. T. | title=The projection factor, period-radius relation, and surface-brightness colour relation in classical cepheids | journal=Astronomy and Astrophysics | volume=474 | issue=3 | pages=975–981 | month=November | year=2007 | doi=10.1051/0004-6361:20078225 | bibcode=2007A&A...474..975G }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=235 | url=books.google.com/books?id=5xQuAAAAIAAJ&pg=PA235 }}</ref>
+
+<ref name=apj9_86>{{citation | last1=Campbell | first1=W. W. | title=The variable velocity of zeta Geminorum in the line of sight. | journal=Astrophysical Journal | volume=9 | page=86 | month=February | year=1899 | doi=10.1086/140556 | bibcode=1899ApJ.....9...86C }}</ref>
+
+<ref name=apj13_90>{{citation | last1=Campbell | first1=W. W. | title=The motion of zeta Geminorum in the line of sight | journal=Astrophysical Journal | volume=13 | pages=90–97 | month=January | year=1901 | doi=10.1086/140792 | bibcode=1901ApJ....13...90C }}</ref>
+
+<ref name=pdoo9_105>{{citation | last1=Henroteau | first1=F. | title=A study of zeta Geminorum, I. | journal=Publications of the Dominion Observatory Ottawa | volume=9 | pages=105–116 | year=1925 | bibcode=1925PDO.....9..105H }}</ref>
+
+<ref name=apj188_L75>{{citation | last1=Abt | first1=Helmut A. | last2=Levy | first2=Saul G. | title=Period Variation of the Cepheid Zeta Geminorum | journal=Astrophysical Journal | volume=188 | page=L75 | month=March | year=1974 | doi=10.1086/181436 | bibcode=1974ApJ...188L..75A }}</ref>
+
+<ref name=aaa352_495>{{citation | last1=Mallik | first1=Sushma V. | title=Lithium abundance and mass | journal=Astronomy and Astrophysics | volume=352 | pages=495–507 | month=December | year=1999 | bibcode=1999A&A...352..495M }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=benedict2007>{{citation | display-authors=1 | last1=Benedict | first1=G. Fritz | last2=McArthur | first2=Barbara E. | last3=Feast | first3=Michael W. | last4=Barnes | first4=Thomas G. | last5=Harrison | first5=Thomas E. | last5=Patterson | first5=Richard J. | last6=Menzies | first6=John W. | last7=Bean | first7=Jacob L. | last8=Freedman | first8=Wendy L. | year=2007 | month=April | bibcode=2007AJ....133.1810B | title=Hubble Space Telescope Fine Guidance Sensor Parallaxes of Galactic Cepheid Variable Stars: Period-Luminosity Relations | journal=Astronomical Journal | volume=133 | issue=4 | pages=1810–1827 | doi=10.1086/511980 | postscript=. |arxiv = astro-ph/0612465 }}</ref>
+
+<ref name=vanleeuwen07>{{citation | display-authors=1 | last1=van Leeuwen | first1=Floor | last2=Feast | first2=Michael W. | last3=Whitelock | first3=Patricia A. | last4=Laney | first4=Clifton D. | month=August | year=2007 | bibcode=2007MNRAS.379..723V | title=Cepheid parallaxes and the Hubble constant | journal=Monthly Notices of the Royal Astronomical Society | volume=379 | issue=2 | pages=723–737 | doi=10.1111/j.1365-2966.2007.11972.x | postscript=. |arxiv = 0705.1592 }}</ref>
+
+<ref name=majaess2012>{{citation | display-authors=1 | last1=Majaess | first1=D. | last2=Turner | first2=D. | last3=Gieren | first3=W. | last4=Balam | first4=D. | last5=Lane | first5=D. | year=2012 | bibcode=2012ApJ...748L...9M | title=Discovery of the Host Cluster for the Fundamental Cepheid Calibrator Zeta Geminorum | journal=Astrophysical Journal Letters | volume=748 | issue=1 | page=L9 | doi=10.1088/2041-8205/748/1/L9 |arxiv = 1202.2363 }}</ref>
+
+<ref name=dezeeuw1999>{{citation | display-authors=1 | last1=de Zeeuw | first1=P. T. | last2=Hoogerwerf | first2=R. | last3=de Bruijne | first3=J. H. J. | last4=Brown | first4=A. G. A. | last5=Blaauw | first5=A. | year=1999 | title=A HIPPARCOS Census of the Nearby OB Associations | journal=Astronomical Journal | volume=117 | issue=1 | pages=354–399 | doi=10.1086/300682 | bibcode=1999AJ....117..354D | arxiv=astro-ph/9809227 | postscript=. }}</ref>
+
+<ref name=majaess2012b>{{citation | last1=Majaess | first1=D. | last2=Turner | first2=D. | last3=Gieren | first3=W. | year=2012 | title=New Evidence Supporting Cluster Membership for the Keystone Calibrator Delta Cephei | journal=Astrophysical Journal | volume=747 | issue=2 | page=145 | doi=10.1088/0004-637X/747/2/145 | bibcode=2012ApJ...747..145M | postscript=. |arxiv = 1201.0993 }}</ref> 
+
+}}
+{{Stars of Gemini}}
+{{Sky|07|04|06.53079||20|34|13.0739}}
+
+[[Category:Bayer objects|Geminorum, Zeta]]
+[[Category:Gemini (constellation)]]
+[[Category:Cepheid variables]]
+[[Category:F-type supergiants]]
+[[Category:Stars with proper names]]
+
+[[de:Mekbuda]]
+[[es:Mekbuda]]
+[[eu:Mekbuda]]
+[[fa:مقبوضه]]
+[[fr:Zeta Geminorum]]
+[[ko:메크부다]]
+[[id:Zeta Geminorum]]
+[[it:Mekbuda]]
+[[nl:Mekbuda]]
+[[nds:Mekbuda]]
+[[pt:Zeta Geminorum]]
+[[ru:Мекбуда]]
+[[sk:Mekbuda]]
+[[zh:井宿七]]

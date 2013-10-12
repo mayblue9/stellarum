@@ -1,0 +1,119 @@
+{{Starbox begin
+ | name = Lambda Scorpii
+}}
+{{Starbox image 
+ | image = [[File:Scorpius constellation map.png|250px]]
+ | caption = Shaula is λ star in the tail of the "Scorpion".
+}}
+{{Starbox observe 
+ | epoch=[[J2000]] 
+ | ra={{RA|17|33|36.520}}<ref name="SIMBAD"/>
+ | dec={{DEC|&minus;37|06|13.76}}<ref name="SIMBAD" />
+ | appmag_v=1.62 / 14.9 / 12.0<ref name="SIMBAD" /><ref name="REED"/>
+ | constell=[[Scorpius]]
+}}
+{{Starbox character
+ | class=B1.5-2 IV+ (A)
+ | b-v=&minus;0.23 (A)
+ | u-b=&minus;0.91 (A)
+ | variable=[[Beta Cephei variable|Beta Cephei]] (A)
+}}
+{{Starbox astrometry
+ | component_name=(component A)
+ | radial_v=&minus;3
+ | prop_mo_ra=&minus;8.90
+ | prop_mo_dec=&minus;29.95
+ | parallax=4.64
+ | p_error=0.90
+ | parallax_footnote=
+ | absmag_v=&minus;5
+}}
+{{Starbox detail
+ | mass = 
+ | radius = 6.5<ref name=mnras189_601/>
+ | luminosity = 
+ | temperature = {{nowrap|26,292 ± 408}}<ref name=mnras189_601/>
+ | metal_fe = 
+ | gravity = 
+ | rotational_velocity = 
+ | age_myr = 
+}}
+{{Starbox catalog
+ | names=Shaula, 35&nbsp;Scorpii, 35&nbsp;Sco, [[Harvard Revised catalogue|HR]]&nbsp;6527, [[Cordoba Durchmusterung|CD]]&nbsp;-37&nbsp;11673, [[Henry Draper catalogue|HD]]&nbsp;158926, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;208954, FK5&nbsp;652, [[Hipparcos catalogue|HIP]]&nbsp;85927, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J17336-3706A/B/C.
+}}
+{{Starbox sources|CCDM|[http://simbad.harvard.edu/ Simbad]}}
+{{Starbox end}}
+'''Lambda Scorpii''' ('''λ Sco''', '''λ Scorpii''') is the second brightest [[star system]] in the [[constellation]] [[Scorpius]], and [[list of brightest stars|one of the brightest stars]] in the nighttime sky. It has the [[Bayer designation]] λ despite being the second brightest in its constellation.  It has the traditional name '''Shaula''', which comes from the [[Arabic language|Arabic]] الشولاء  ''al-šawlā´'' meaning ''the raised [tail]'', as it is found in the tail of the scorpion (Scorpius). It is known as 尾宿八 (the Eighth Star of the Tail) in Chinese.
+
+==Properties==
+Lambda Scorpii is a [[multiple star]]  which is 702.1 light years away from Earth<ref>[http://www.wolframalpha.com/input/?i=Lambda+Scorpii+to+earth#_=_ Lambda Scorpii to earth]</ref> with three visible components.  The first,
+'''Lambda Scorpii A''', is classified as a [[stellar classification|B-type]] [[subgiant]].  The 15th [[apparent magnitude|magnitude]] '''Lambda Scorpii B''' has a separation of 42 [[arcseconds]] from component A, while the 12th magnitude '''Lambda Scorpii C''' is 95 arcseconds from A.  It is not known whether or not these components are physically associated with component A.  If they both were, B would be approximately 7500 [[Astronomical Units]] and C approximately 17,000 AU (0.27 [[light years]]) from A.
+
+Spectroscopic and [[astronomical interferometer|interferometric]] observations
+have shown that A is actually a [[star system|triple system]] consisting of two [[stellar classification|B-type]] stars and a [[pre–main sequence star]]. The primary star is also a [[beta Cephei variable]] star.<ref>Interpretation of the variability of the β Cephei star λ Scorpii. I. The multiple character, K. Uytterhoeven, B. Willems, K. Lefever, C. Aerts, J. H. Telting, and U. Kolb, ''Astronomy and Astrophysics'' '''427''' (2004), 581&ndash;592. [http://adsabs.harvard.edu/abs/2004A&A...427...581 Abstract on ADSABS]</ref><ref>Orbital elements, masses and distance of  λ Scorpii A and B determined with the Sydney University Stellar Interferometer and high-resolution spectroscopy, W. J. Tango, J. Davis, M. J. Ireland, C. Aerts, K. Uytterhoeven, A. P. Jacob, A. Mendez, J. R. North, E. B. Seneta, and P. G. Tuthill, ''Monthly Notices of the Royal Astronomical Society'' '''370''' (2006) 884&ndash;890. [http://adsabs.harvard.edu/abs/2006MNRAS.370..884T Abstract on ADSABS]</ref>  The pre–main sequence star has an orbital period of 6 days and the B companion has a period of 1053 days.  The three stars lie in the same orbital [[Plane (geometry)|plane]], strongly suggesting that they were formed at the same time.  The masses of the primary, pre–main sequence star and the B companion are 10.4±1.3, 1.8±0.2 and 8.1±1.0 [[solar mass]]es, respectively. The age of the system is estimated to be in the range 10&ndash;13 million years.
+
+The interferometric and spectroscopic observations allow the distance to the system to be determined independently of other methods. Its distance is 112±5 [[parsec]]s.
+
+==In culture==
+*Together with [[Upsilon Scorpii|υ Sco]] (Lesath), Shaula is listed in [[MUL.APIN]] as <sup>d</sup>Sharur<sub>4</sub> u <sup>d</sup>Shargaz, meaning "Sharur and Shargaz".<ref>{{cite journal
+ | last=Rogers | first=J. H.
+ | title=Origins of the ancient constellations: I. The Mesopotamian traditions
+ | journal=Journal of the British Astronomical Association, no.1
+ | volume=108 | pages=9–28 | month=February | year=1998
+ | bibcode=1998JBAA..108....9R}}</ref> In Coptic, they were called ''Minamref''<ref>p. 1678, [http://books.google.com/books?id=PJzIt3SIlkUC ''Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System, Volume 3''], Robert Burnham, New York, Dover Publication, Inc, 1978.</ref>
+*Shaula appears on the  [[flag of Brazil]], symbolising the state of [[Rio Grande do Norte]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+*The indigenous Boorong people of northwestern Victoria named it as ''Karik Karik'' (together with [[Upsilon Scorpii|υ Sco]]).,<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref> "the Falcons"<ref name=stanbridge>{{cite journal|author=Stanbridge, WM|year=1857|title= On the Astronomy and Mythology of the Aboriginies of Victoria|journal=Transactions Philosophical Institiute Victoria |volume=2|issue=|pages= 137–140|url=http://www.atnf.csiro.au/research/AboriginalAstronomy/literature/Stanbridge1857.pdf}}</ref>
+*The fictional [[planet]] of [[Cybertron]] (in ''[[The Transformers (IDW Publishing)|The Transformers]]'' comics continuity by [[IDW Publishing]]) orbits Lambda Scorpii (or "Shaula").
+*[[USS Shaula (AK-118)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{Reflist|refs=
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+<ref name="REED">{{citation | last1=Reed | first1=B. Cameron | title=Catalog of Galactic OB Stars | journal=The Astronomical Journal | year=2003 | volume= 125| issue = 5 | pages=2531–2533 | bibcode=2003AJ....125.2531R | doi=10.1086/374771 }}</ref>
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Lam+sco | title=lam Sco -- Variable Star of beta Cep type | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-05-22 }}</ref>
+
+}}
+
+==External links==
+* [http://www.astro.uiuc.edu/~kaler/sow/shaula.html Shaula at Jim Kaler's STARS]
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Lambda]]
+[[Category:Flamsteed objects|Scorpii, 35]]
+[[Category:B-type subgiants]]
+[[Category:Scorpius (constellation)]]
+[[Category:Triple star systems]]
+[[Category:Multiple stars|5]]
+[[Category:Beta Cephei variables]]
+[[Category:B-type stars]]
+[[Category:Stars with proper names]]
+
+[[ar:الشولة (نجم)]]
+[[be:Шаўла]]
+[[ca:Shaula]]
+[[de:Shaula]]
+[[es:Shaula]]
+[[fa:لاندا کژدم]]
+[[fr:Lambda Scorpii]]
+[[ko:전갈자리 람다]]
+[[hi:मूल तारा]]
+[[it:Shaula]]
+[[he:שאולה]]
+[[lb:Shaula (Stär)]]
+[[lt:Šaula]]
+[[nl:Shaula]]
+[[ja:シャウラ]]
+[[pl:Shaula]]
+[[pt:Shaula]]
+[[ru:Шаула (звёздная система)]]
+[[sk:Shaula]]
+[[fi:Lambda Scorpii]]
+[[zh:尾宿八]]

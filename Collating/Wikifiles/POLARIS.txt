@@ -1,0 +1,290 @@
+{{Other uses}}
+{{Starbox multi
+| name = Alpha Ursae Minoris
+| image = [[File:Polaris alpha ursae minoris.jpg|300px]]
+| caption = Polaris as seen by the Hubble Space Telescope.
+| number = 3
+| epoch = J2000
+| equinox = <!--Equinox of coordinates (defaults to epoch)-->
+| constell = [[Ursa Minor]]
+| component_a = α UMi Aa
+| component_b = α UMi Ab
+| component_c = α UMi B
+| ra_system = <!--Right ascension, system barycenter -->
+| dec_system = <!--Declination, system barycenter -->
+| ra_a_1 = {{RA|02|31|49.09}}
+| dec_a_1 = {{DEC|+89|15|50.8}}
+| ra_a_2 = <!--Right ascension, first component, second line-->
+| dec_a_2 = <!--Declination, first component, second line-->
+| ra_c_1 = {{RA|02|30|41.63}}
+| dec_c_1 = {{DEC|+89|15|38.1}}
+| appmag_v_a = 1.98v<ref name=hst>{{cite doi|10.1088/0004-6256/136/3/1137}}</ref>
+| appmag_v_b = 9.2<ref name=hst/>
+| appmag_v_c = 8.7<ref name=hst/>
+| appmag_v_system = <!--Apparent magnitude (Johnson-Cousins V system), system-->
+| class_a = F7Ib
+| class_b = F6V
+| class_c = F3V
+| r-i_a = <!--R-I color index, first component-->
+| v-r_a = <!--V-R color index, first component-->
+| b-v_a = 0.60<ref name=hst/>
+| u-b_a = 0.38<ref name=hst/>
+| b-v_c = 0.42<ref name=usenko/>
+| u-b_c = 0.01<ref name=usenko/>
+| class_system = <!--Stellar class, system (i.e., computed from overall spectrum)-->
+| r-i_system = <!--R-I color index, system-->
+| v-r_system = <!--V-R color index, system-->
+| b-v_system = <!--B-V color index, system-->
+| u-b_system = <!--U-B color index, system-->
+| variable_a = [[Classical Cepheid]]
+| variable_system = <!--Variability type, system (e.g., cataclysmic variables)-->
+| radial_v_system = -17
+| radial_v_a = <!--Radial velocity (in km/sec), first component-->
+| prop_mo_ra_system = 44.48±0.11
+| prop_mo_dec_system = -11.85±0.13
+| prop_mo_ra_a = <!--Proper motion (RA), μα cos δ (in milliarcsec/yr), first component-->
+| prop_mo_dec_a = <!--Proper motion (Dec), μδ (in milliarcsec/yr), first component-->
+| parallax = 7.54
+| p_error = 0.11
+| parallax_footnote = <!--Parallax footnote-->
+| dist_ly = 325<ref name=turner2012/> - 425<ref name=evans/>
+| dist_pc = 99<ref name=turner2012/> - 129.5<ref name=evans/>
+| absmag_v_a = -3.6<ref name=hst/>
+| absmag_v_b = 3.6<ref name=hst/>
+| absmag_v_c = 3.1<ref name=hst/>
+| absmag_v_system = <!--Absolute magnitude (Johnson-Cousins V system), system-->
+| mass_a = 4.5<ref name=hst/>
+| mass_b = 1.26<ref name=hst/>
+| mass_c = 1.39<ref name=hst/>
+| radius_a = 46±3<ref name=hst/>
+| radius_c = 1.38<ref name=usenko/>
+| gravity_a = 2.2<ref name=usenko2005>{{cite doi|10.1111/j.1365-2966.2005.09353.x}}</ref>
+| gravity_c = 4.3<ref name=usenko/>
+| luminosity_a = <!--Luminosity (in solar luminosities), first component; better to use luminosity_bolometric_a or luminosity_visual_a -->
+| luminosity_bolometric_a = 2500<ref name=SMEI>{{cite doi|10.1111/j.1365-2966.2008.13439.x}}</ref>
+| luminosity_bolometric_b = 3<ref name=hst/>
+| luminosity_bolometric_c = 3.9<ref name=usenko>{{cite doi|10.1111/j.1745-3933.2008.00426.x}}</ref>
+| luminosity_visual_a = <!--Luminosity (in solar luminosities), first component, visual (V)-->
+| luminosity_a = <!--Luminosity (in solar luminosities), first component-->
+| temperature_a = 6015<ref name=usenko/>
+| temperature_c = 6900<ref name=usenko/>
+| metal_a = 112% solar<ref name=strobel>{{cite doi|10.1051/0004-6361:20010525}}</ref>
+| metal_system = <!--Metallicity (no units provided by template), system-->
+| rotation_a = 119 days<ref name=lee>{{cite doi|10.1088/0004-6256/135/6/2240}}</ref>
+| rotational_v_a = 14<ref name=lee/>
+| rotational_v_c = 110<ref name=usenko/>
+| age_a = <!--Age (in years), first component-->
+| age_system = 7{{e|7}}<ref name="Wie">{{cite arXiv|eprint=astro-ph/0002406|author1=Wielen|author2=Jahreiss|author3=Dettbarn|author4=Lenhardt|author5=Schwan|title=Polaris: Astrometric orbit, position, and proper motion|class=astro-ph|year=2000}}</ref>
+| orbit_source = <ref name=hst/>
+| numcols_1 = 2
+| numcols_2 = 2
+| primsec_1 = Ab/Aa
+| primsec_2 = B/A
+| period_unitless_1 = 29.59 years
+| period_unitless_2 = ~100,000 years
+| axis_unitless_1 = 0.133"
+| axis_unitless_2 = 32" (0.02 pc)
+| eccentricity_1 = 0.608
+| eccentricity_2 = <!--Eccentricity of second orbit--> 
+| inclination_1 = 128
+| inclination_2 = <!--Inclination of second orbit, in degrees--> 
+| node_1 = 19
+| node_2 = <!--Nodal longitude of second orbit, in degrees--> 
+| periastron_1 = <!--Epoch of periastron of first orbit (no units provided by template)--> 
+| periastron_2 = <!--Epoch of periastron of second orbit (no units provided by template)--> 
+| periarg_1 = 303
+| periarg_2 = <!--Argument of periastron of second orbit, in degrees (secondary) --> 
+| periarg_primary_1 = <!--Argument of periastron of first orbit, in degrees (primary)--> 
+| periarg_primary_2 = <!--Argument of periastron of second orbit, in degrees (primary) --> 
+| k1_1 = 3.72
+| k1_2 = <!-- Velocity semi-amplitude of second orbit (SB1, or primary in SB2), in km/s -->
+| k2_1 = <!-- Velocity semi-amplitude of first orbit (secondary in SB2), in km/s-->
+| k2_2 = <!-- Velocity semi-amplitude of second orbit (secondary in SB2), in km/s -->
+| primary = Aa
+| separation_epoch_b = 2005.5880
+| separation_epoch_c = 2005.5880
+| angdistsec_b = 0.172
+| angdistsec_c = 18.217
+| angdistmas_a = <!--Angular distance from primary, in milliarcseconds, first component-->
+| angdist_footnote_a = <!--Footnote for angular distance, first component-->
+| posang_b = 231.4
+| posang_c = 230.540
+| posang_footnote_a = <!--Footnote for position angle, first component-->
+| projsep_a = <!--Observed projected separation from primary, in AU, first component-->
+| projsep_footnote_a = <!--Footnote for observed projected separation, first component-->
+| simbad_a = Polaris
+| simbad_c = Polaris+B
+| simbad_system = <!--URL ID for SIMBAD data reference (see {{SIMBAD link}}), system-->
+| aricns_a = <!--URL ID for ARICNS data reference (see {{ARICNS link}}), first component-->
+| names = Polaris, North Star, 1 Ursae Minoris, [[Bright Star Catalogue|HR]] 424, [[Durchmusterung|BD]] +88°8, [[Henry Draper Catalogue|HD]] 8890, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 308, FK5 907, GC 2243, ADS 1477, CCDM 02319+8915, [[Hipparcos catalogue|HIP]] 11767, Cynosura, Alruccabah, Phoenice, Navigatoria, Star of Arcady, Yilduz, Mismar
+}}
+
+<!--Proper text begins here-->
+'''Polaris''' ({{GreekFont|α}} UMi, {{GreekFont|α}} Ursae Minoris, Alpha Ursae Minoris, commonly North Star, Northern Star or [[Pole Star]], also Lodestar, sometimes Guiding star) is the brightest star in the [[constellation]] [[Ursa Minor]].  It is very close to the north [[celestial pole]], making it the current northern pole star.
+
+It is a [[multiple star]], consisting of the main star {{GreekFont|α}} UMi Aa, two smaller companions,  {{GreekFont|α}} UMi B and  {{GreekFont|α}} UMi Ab, and two distant components {{GreekFont|α}} UMi C and {{GreekFont|α}} UMi D. {{GreekFont|α}} UMi B was discovered in 1780 by  [[William Herschel]].
+
+Many recent papers calculate the distance to Polaris at about 434 [[light-years]] (133 parsecs).<ref name=evans/> Some suggest it may be 30% closer which, if correct, is especially notable because Polaris is the closest [[Cepheid variable]] to Earth so its physical parameters are of critical importance to the whole [[cosmic distance ladder|astronomical distance scale]].<ref name=turner2012/> 
+
+==Star system==
+{{GreekFont|α}} UMi Aa is a 4.5 [[solar mass]] F7 supergiant (Ib). This is the first classical Cepheid to have a dynamical mass determined from its orbit.  The two smaller companions are: {{GreekFont|α}} UMi B, a 1.39 solar mass F3 [[main sequence]] star orbiting at a distance of 2400&nbsp;[[Astronomical Unit|AU]], and  {{GreekFont|α}} UMi Ab (or P), a very close F6 main sequence star with an 18.8&nbsp;AU radius orbit and 1.26 solar masses. There are also two distant components {{GreekFont|α}} UMi C and {{GreekFont|α}} UMi D.<ref name="Wie"/>
+
+Polaris B can be seen even with a modest telescope. It was found by [[William Herschel]] in 1780 using one of the most powerful telescopes at the time: a [[reflecting telescope]] that he had made. In 1929, it was discovered by examining the [[spectroscopy|spectrum]] of Polaris A that it was a very close binary with the secondary being a dwarf (variously {{GreekFont|α}} UMi P, {{GreekFont|α}} UMi a or {{GreekFont|α}} UMi Ab), which had been theorized in earlier observations (Moore, J.H and Kholodovsky, E. A.). In January 2006, [[NASA]] released images from the [[Hubble Space Telescope|Hubble telescope]], directly showing all three members of the Polaris ternary system.  The nearer dwarf star is in an orbit of only 18.5&nbsp;AU (2.8 billion km,<ref>{{cite web|url=http://hubblesite.org/newscenter/archive/releases/2006/02/fastfacts/ |title=There's More to the North Star Than Meets the Eye |publisher=Hubblesite.org |date=2006-01-09 |accessdate=2012-04-14}}</ref> about the distance from our [[Sun]] to [[Uranus]]) from Polaris A, explaining why its light is swamped by its close and much brighter companion.<ref name=evans/>
+
+==Variable star==
+Polaris A, the supergiant primary component, is a classic [[Population I]] [[Cepheid variable]], although it was once thought to be Population II due to its high [[galactic latitude]]. Since Cepheids are an important [[standard candle]] for determining distance Polaris, as the closest such star, is heavily studied. The variability of Polaris had been suspected since 1852; this variation was confirmed by [[Ejnar Hertzsprung]] in 1911.<ref>{{cite journal
+ | last1=Hertzsprung | first1=Ejnar
+ | title=Nachweis der Veränderlichkeit von α Ursae Minoris
+ | journal=Astronomische Nachrichten | volume=189 | page=89
+ | month=August | year=1911 | language=German
+ | doi=10.1002/asna.19111890602 | bibcode=1911AN....189...89H
+ | issue=6 }}</ref>
+
+Both the amplitude and period of the variations have changed since discovery.  Prior to 1963 the amplitude was over 0.1 magnitude and decreasing very gradually.  After 1966 it decreased very rapidly until it was less than 0.05 magnitude and since then has varied erratically near that range.  It has been reported that the period is now increasing.<ref name=lee/>  The period increased fairly steadily by around 4 seconds per year until 1963.  It then stayed constant for 3 years, but began to increase again from 1966 onwards.  Current measurements show a consistent increase of 3.2 seconds per year in the period.  This was originally thought to be due to secular red-ward evolution across the instability strip, but is now considered to be interference between the primary and first overtone pulsation modes.  Comparison of the period luminosity relationship and the observed luminosity indicate that the main pulsations are the first overtone.<ref name=turner>{{cite doi|10.1086/427838}}</ref><ref name=evans>{{cite doi|10.1086/338583}}</ref><ref name=neilson>{{cite doi|10.1088/2041-8205/745/2/L32}}</ref>
+
+Research reported in ''[[Science (journal)|Science]]'' suggests that Polaris is 2.5 times brighter today than when [[Ptolemy]] observed it, changing from third to its current second magnitude.<ref>
+{{cite journal|journal=Science| year=2004|volume=304|issue=5678| pages=1740–1| doi=10.1126/science.304.5678.1740b|url=http://www.sciencemag.org/content/304/5678/1740.2.full|title=AMERICAN ASTRONOMICAL SOCIETY MEETING: As Inconstant as the Northern Star|last1=Irion|first1=R.|pmid=15205508}}</ref>  Astronomer [[Edward Guinan]] considers this to be a remarkable rate of change and is on record as saying that "If they are real, these changes are 100 times larger than [those] predicted by current theories of [[stellar evolution]]."
+
+==Names==
+{{see|Axis mundi}}
+[[Image:Polaris system.jpg|thumb|250px|left|This [http://hubblesite.org/newscenter/archive/releases/2006/02/image/e/ artist's concept] shows two class F stars: supergiant Polaris A and its distant companion Polaris B]]
+Because of its importance in [[celestial navigation]], Polaris is known by numerous names.
+
+One ancient name for Polaris was ''Cynosūra'', from the Greek {{lang|grc|κυνόσουρα}} "the dog’s tail" (reflecting a time when the constellation of ''Ursa Minor'' "Little Bear" was taken to represent a dog), whence the English word ''[[:wikt:cynosure|cynosure]]''.<ref>{{Cite EB1911|wstitle=Cynosure}}</ref><ref>{{cite book|title=Star Names: Their Lore and Meaning|author=Allen, Richard Hinckley|year=1969|publisher=Dover Publications Inc. (Reprint of 1899 original)|isbn=0-486-21079-0}}</ref> Most other names are directly tied to its role as pole star.
+
+In English, it was known as "pole star" or "north star", in [[Edmund Spenser|Spenser]] also "steadfast star".
+An older English name, attested since the 14th century, is [[:wikt:lodestar|lodestar]] "guiding star", cognate with the Old Norse ''leiðarstjarna'', Middle High German ''leitsterne''.
+Use of the name ''Polaris'' in English dates to the 17th century. It is an ellipsis for the Latin ''stella polaris'' "pole star".
+Another Latin name is ''stella maris'' "sea-star", from an early time also used as a title of the [[Blessed Virgin Mary]], popularized in the hymn ''[[Ave Maris Stella]]'' (8th century).<ref>occasionally also as a title of Jesus. [[Robert Bellarmine]] deprecated this use of the title, writing ''Haec appellatio stelle maris tribui solet Beate Virgini. Fortasse melius de Christo diceretur 'stella splendida et matutina' ... [N]am stella maris est stella polaris, quae exigua est. Stella splendida et matutina est stella omnium fulgentissima, quae ab astrologis dicitur stella Veneris''; cited after Peter Godman, ''The saint as censor: Robert Bellarmine between inquisition and index'', Mnemosyne, Bibliotheca Classica Batava, BRILL, 2000, ISBN 978-90-04-11570-5,
+[http://books.google.com/books?id=7t74llzmoi4C&pg=PA309&dq=%22stella+maris%22+polaris&hl=en&ei=wiGDTrC9GcPHswbetOCYDg&sa=X&oi=book_result&ct=result&resnum=5&ved=0CEAQ6AEwBA#v=onepage&q=%22stella%20maris%22%20%20&f=false p. 309]
+</ref>
+In traditional [[Indian astronomy]], its name in [[Sanskrit]] ''{{IAST|[[dhruva]] tāra}}'', literally "fixed star". Its name in [[Astronomy in medieval Islam|medieval Islamic astronomy]] was variously reported as ''Mismar'' "needle, nail", ''al-kutb al-shamaliyy'' "the northern axle/spindle", ''al-kaukab al-shamaliyy'' "north star". The name ''Alruccabah'' or ''Ruccabah'' reported in 16th century western sources was that of the constellation.<ref>
+Richard Hinckley Allen, ''Star names: their lore and meaning'' (1899), p. 457.
+</ref>
+
+In the [[Old English rune poem]], the [[Tiwaz rune|T-rune]] is identified with ''[[Tyr]]'' "fame, honour", which is compared to the pole star, ''{{runic|ᛏ}} {{lang|ang|[tir] biþ tacna sum, healdeð trywa wel}}'' "[fame] is a sign, it keeps faith well".
+[[Shakespeare]]'s [[sonnet 116]] is an example of the symbolism of the north star as a guiding principle: "[Love] is the star to every wandering bark / Whose worth's unknown, although his height be taken."
+
+<!-- unreferenced names:   Phoenice, Tramontana,  Navigatoria, Star of Arcady,   Çulpan -->
+
+
+==Role as pole star==
+[[Image:Star Trail above Beccles - geograph.org.uk - 1855505.jpg|right|250px|thumb|A typical star trail with Polaris in the center]]
+{{see|Pole star}}
+
+Because in the [[Age of Pisces|current era]]<ref name="Nor">
+{{cite book
+| last=Norton | first=Arthur P.
+| year=1973
+| title=Norton's Star Atlas
+| page=10
+| publisher=[[Sky Publishing]]
+| location=Edinburgh
+| isbn=0-85248-900-5
+| quote=4500 years ago it was ''Thuban'' ({{GreekFont|α}} Draconis); 8000 years hence it will be ''Deneb''
+}}</ref> {{GreekFont|α}} UMi lies nearly in a direct line with the axis of the [[Earth]]'s rotation "above" the [[North Pole]]—the north celestial pole—Polaris stands almost motionless in the sky, and all the stars of the Northern sky appear to rotate around it. Therefore, it makes an excellent fixed point from which to draw measurements for [[celestial navigation]] and for [[astrometry]]. The moving of Polaris towards, and in the future away from, the celestial pole, is due to the [[precession of the equinoxes]].<ref name="Nor"/>
+The celestial pole will move away from {{GreekFont|α}} UMi after the 21st century, passing close by [[Gamma Cephei]] by about the 41st century.
+Historically, the celestial pole was close to [[Thuban]] around 2500 BC.<ref name="Nor"/>, and
+during [[Classical Antiquity]], it was closer to [[Kochab]] (β UMi) than to α UMi. It was about the same angular distance from either β UMi than to α UMi by the end of [[Late Antiquity]].
+The Greek navigator [[Pytheas]] in ca. 320 BC described the celestial pole as devoid of stars. However, as one of the brighter stars close to the celestial pole, Polaris was used for navigation at least from [[Late Antiquity]], and described as αει φανης "always visible" by [[Stobaeus]] (5th century). α UMi could reasonably be described as ''stella polaris'' from about the [[High Middle Ages]].
+
+In more recent history it was referenced in [[Nathaniel Bowditch]]'s 1802 book, The [[American Practical Navigator]], where it is listed as one of the [[navigational stars]].<ref>[[Nathaniel Bowditch]]: The [[American Practical Navigator]], 2002 Bicentennial Ed., Chapter 15 Navigational Astronomy, page 248, Figure 1530a. Navigational stars and the planets</ref> At present, Polaris is 0.7° away from the pole of rotation (1.4 times the [[Moon]] disc) and hence revolves around the pole in a small circle 1½° in diameter. Only twice during every [[sidereal day]] does Polaris accurately define the true north [[azimuth]]; the rest of the time it is slightly displaced to East or West, and to bearing must be corrected using tables or a rough [[rule of thumb]]. The best approximate<ref>A visual method to correct a ship's compass using Polaris using Ursa Major as a point of reference [http://www.kaizad.co.uk/data/Nav/Polaris.xls]</ref> was made using the leading edge of the "[[Big Dipper]]" asterism in the constellation Ursa Major as a point of reference. The leading edge (defined by the stars [[Dubhe]] and [[Merak]]) was referenced to a clock face, and the true [[azimuth]] of Polaris worked out for different latitudes.
+
+==Distance==
+{| class="wikitable plainrowheaders" style="float: right; margin-right: 0; margin-left: 1em; text-align: center;"
+|+ Selected distance estimates to Polaris
+! scope="col" | Year
+! scope="col" | Distance, [[light-year|ly]] ([[parsec|pc]])
+! scope="col" | Notes
+|-
+! scope="row" | 
+| 433 ly (133 pc)
+| Hipparcos
+|-
+! scope="row" | 2006
+| 330 ly (101 pc)
+| Turner<ref name=turner/>
+|-
+! scope="row" | 2008
+| 359 ly (110 pc)
+| Usenko & Klochkova<ref name=usenko/>
+|-
+! scope="row" | 2012
+| 323 ly (99 pc)
+| Turner, et al.<ref name=turner2012/>
+|-
+|}
+[[Image:Stellarparallax parsec1.svg|thumb|right|Stellar parallax is the basis for the [[parsec]], which is the distance from the [[Sun]] to an [[astronomical object]] which has a [[parallax]] angle of one [[arcsecond]]. (1 [[astronomical unit|AU]] and 1 [[Parsec|pc]] are not to scale, 1 pc = about 206265 AU)]]
+Many recent papers calculate the distance to Polaris at about 434 [[light-years]] (133 parsecs),<ref name=evans/> in agreement with parallax measurements from the [[Hipparcos]] astrometry satellite.  Older distance estimates were often slightly less, and recent research based on high resolution spectral analysis suggests it's about 100 light years closer (323 ly/99 pc).<ref name=turner2012>{{cite arXiv|eprint=1211.6103v1|author1=Turner|author2=Kovtyukh|author3=Igor Usenko|author4=Gorlova|title=The Pulsation Mode of the Cepheid Polaris|class=astro-ph.SR|year=2012}}</ref> Polaris is the closest [[Cepheid variable]] to Earth so its physical parameters are of critical importance to the whole [[cosmic distance ladder|astronomical distance scale]].<ref name=turner2012/> It is also the only one with a dynamically measured mass.
+
+The ''Hipparcos'' spacecraft used [[stellar parallax]] to take measurements from 1989 and 1993 with an accuracy of 0.97&nbsp;[[Minute of arc|milliarcsecond]]s  (970 microarcseconds), and it obtained accurate measurements for stellar distances up to 1,000&nbsp;pc away.<ref>{{cite web | title= The Hipparcos Space Astrometry Mission | url=http://www.rssd.esa.int/index.php?project=HIPPARCOS | accessdate=August 28, 2007 }}</ref><ref>[http://wwwhip.obspm.fr/hipparcos/SandT/hip-SandT.html Catherine Turon, ''From Hipparchus to Hipparcos'']</ref> Despite the advantages of Hipparcos [[astrometry]], the uncertainty in its Polaris data has been pointed out and some researches have questioned the accuracy of Hipparcos when measuring binary Cephids like Polaris.<ref name=turner2012/>
+
+The next major step in high precision parallax measurements will come from [[Gaia mission|''Gaia'']], a space astrometry mission due to launch in 2013 intended to measure stellar distances to within 20&nbsp;microarcseconds (μas), with only 10% error for stars 8,000&nbsp;pc (26 kly) away.<ref>[http://sci.esa.int/science-e/www/area/index.cfm?fareaid=26 GAIA] from [[ESA]].</ref>  Gaia will not be able to take measurements on bright stars like Polaris, but it may help with measurements of other members of assumed associations and with the general galactic distance scale.  Radio telescopes have also been used to produce accurate parallax measurements at large distances, but these require a compact radio source in close association with the star which is typically only the case for cool supergiants with masers in their circumstellar material.<Ref>[http://www.nrao.edu/pr/2008/vlbiastrometry/ Radio Telescopes' Precise Measurements Yield Rich Scientific Payoffs]</ref>
+
+==See also==
+* [[Polar alignment]]
+* [[Stars and planetary systems in fiction#Polaris (Alpha Ursae Minoris)|Polaris in fiction]]
+
+==Notes==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.astro.uiuc.edu/~kaler/sow/polaris.html Info on Polaris]
+*[http://www.kaizad.co.uk/data/Nav/Polaris.xls Approximation for calculating Polaris Azimuth Visually given at www.kaizad.tk]
+*[http://www.phy6.org/stargaze/Spolaris.htm Finding the Pole Star]
+{{s-start}}
+{{s-bef | before=[[Kochab]] & [[Pherkad]] }}
+{{s-ttl | title=[[Pole Star]] | years=500–3000 }}
+{{s-aft | after=[[Alrai]] }}
+{{end}}
+{{Sky|02|31|48.7|+|89|15|51|430}}
+{{Stars of Ursa Minor}}
+[[Category:Bayer objects|Ursae Minoris, Alpha]]
+[[Category:Cepheid variables]]
+[[Category:Flamsteed objects|Ursae Minoris, 1]]
+[[Category:F-type bright giants]]
+[[Category:F-type main sequence stars]]
+[[Category:F-type supergiants]]
+[[Category:Henry Draper Catalogue objects|08890]]
+[[Category:Hipparcos objects|011767]]
+[[Category:HR objects|0424]]
+[[Category:Northern pole stars]]
+[[Category:Stars with proper names]]
+[[Category:Triple star systems]]
+[[Category:Ursa Minor (constellation)]]
+
+[[ar:نجم الشمال]]
+[[bg:Полярна звезда (Малка мечка)]]
+[[ca:Estel del Nord]]
+[[cs:Polárka]]
+[[de:Polarstern]]
+[[es:Polaris (estrella)]]
+[[fa:جدی (ستاره)]]
+[[fr:Alpha Ursae Minoris]]
+[[ko:폴라리스]]
+[[hi:ध्रुव तारा]]
+[[id:Polaris]]
+[[os:Арвы цæджындз]]
+[[it:Polaris]]
+[[he:כוכב הצפון]]
+[[kv:Юрйыв кодзув]]
+[[lt:Šiaurinė]]
+[[li:Polaris]]
+[[mg:Kintan'ny tendron-tany avaratra]]
+[[ml:ധ്രുവനക്ഷത്രം]]
+[[nl:Polaris]]
+[[ja:ポラリス (恒星)]]
+[[oc:Alpha Ursae Minoris]]
+[[pl:Alfa Ursae Minoris]]
+[[pt:Polar]]
+[[ru:Полярная звезда]]
+[[simple:Polaris (star)]]
+[[sk:Polárka]]
+[[sl:Severnica]]
+[[fi:Pohjantähti]]
+[[sv:Polstjärnan]]
+[[uk:Полярна зірка]]
+[[ur:قطبی ستارہ]]
+[[vi:Polaris]]
+[[zh-yue:勾陳一]]
+[[zh:勾陳一]]

@@ -1,0 +1,50 @@
+{{Unreferenced|auto=yes|date=December 2009}}
+{{Starbox short |
+ name=Taygeta |
+ epoch=[[J2000.0]] |
+ constell=[[Taurus (constellation)|Taurus]] |
+ ra=03<sup>h</sup> 45<sup>m</sup> 12.5<sup>s</sup> |
+ dec=+24° 28' 02" |
+ spectral=B6IV |
+ appmag_v=+4.30 |
+ dist_ly=440 |
+ dist_pc=135 |
+ names=19 Tauri, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;1145, [[Henry Draper Catalogue|HD]]&nbsp;23338, [[Star catalogue#BD/CD/CPD|BD]]+24&nbsp;547, [[Hipparcos catalogue|HIP]]&nbsp;17531, [[Star catalogue#SAO|SAO]]&nbsp;76140, GC&nbsp;4486, BDS&nbsp;1848, CCDM&nbsp;03452+2429
+}}
+'''Taygeta''' is a [[triple star system]] in the [[constellation]] [[Taurus (constellation)|Taurus]] and a member of the [[Pleiades (star cluster)|Pleiades]] [[open cluster|star cluster]].  It is approximately 440 [[light years]] from [[Earth]].
+
+The primary component, '''Taygeta A''', is a blue-white [[stellar classification|B-type]] [[subgiant]] with an [[apparent magnitude]] of +4.30.  It is a [[spectroscopic binary]], whose component stars have magnitudes of +4.6 and +6.1.  They are separated by 0.012 [[arcsecond]]s and complete one orbit every 1313 days.  They have an 8th magnitude companion, '''Taygeta B''', 69 arcseconds away.
+
+{{Stars of Taurus}}
+
+{{DEFAULTSORT:Taygeta (Star)}}
+[[Category:Flamsteed objects|Tauri, 19]]
+[[Category:Taurus (constellation)]]
+[[Category:Triple star systems]]
+[[Category:B-type subgiants]]
+[[Category:Pleiades Open Cluster]]
+[[Category:Spectroscopic binaries]]
+[[Category:Stars with proper names]]
+
+
+{{Star-system-stub}}
+
+[[ar:تايغيتا (نجم)]]
+[[cs:Taygeta]]
+[[de:Taygeta]]
+[[es:Taygeta]]
+[[fa:ستاره تیگتا]]
+[[fr:19 Tauri]]
+[[ko:타이게타]]
+[[it:Taigete (stella)]]
+[[la:Taygeta (systema stellare)]]
+[[lb:Taygeta (Stär)]]
+[[nl:Taygeta]]
+[[ja:タイゲタ]]
+[[no:Taygeta (stjerne)]]
+[[pl:Taygeta (gwiazda)]]
+[[pt:Taygeta]]
+[[ru:Тайгета (звезда)]]
+[[sk:Taygeta (hviezda)]]
+[[sv:Taygeta (stjärna)]]
+[[zh:昴宿二]]

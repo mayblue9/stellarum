@@ -1,0 +1,130 @@
+{{Starbox begin
+| name=Kappa Scorpii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Scorpius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Scorpius constellation and its surroundings]]
+     <div style="position: absolute; left: 27.5%; top: 62.5%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of κ Scorpii (circled)
+}}
+{{Starbox observe
+| epoch    = J2000
+| ra       = {{RA|17|42|29.27520}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–39|01|47.9391}}<ref name=aaa474_2_653/>
+| appmag_v = 2.39<ref name=scfs/>
+| constell = [[Scorpius]]
+}}
+{{Starbox character
+| class    = B1.5&nbsp;III<ref name=houk1978/>
+| b-v      = -0.228<ref name=apjs15_459/>
+| u-b      = -0.914<ref name=apjs15_459/>
+| variable = [[Beta Cephei variable|β Cephei]]
+}}
+{{Starbox astrometry
+| radial_v = –14.0<ref name=scfs/>
+| prop_mo_ra  = -6.05<ref name=aaa474_2_653/>
+| prop_mo_dec = -25.54<ref name=aaa474_2_653/>
+| parallax = 6.75
+| p_error  = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox orbit
+| reference = <ref name=aaa371_1035/>
+| period_unitless = 195.65&nbsp;days
+| eccentricity = {{nowrap|0.488 ± 0.005}}
+| periastron = {{nowrap|92.7 ± 0.5}}
+| k1 = {{nowrap|48.0 ± 0.3}}
+}}
+{{Starbox detail
+| component1 = κ Sco A
+| mass     = 17<ref name=aaa371_1035/>
+| radius   = 6.8<ref name=aaa371_1035/>
+| luminosity  = 
+| temperature = 23,400<ref name=aaa371_1035/>
+| metal_fe = 
+| rotation = 1.90&nbsp;days<ref name=aaa371_1035/>
+| rotational_velocity = 105<ref name=csrv/>
+| gravity  = 4.01<ref name=aaa371_1035/>
+| age_myr  = {{nowrap|25.1 ± 1.3}}<ref name=mnras410_1_190/>
+| component2 = κ Sco B
+| mass2    = 12<ref name=aaa371_1035/>
+| radius2  = 5.8<ref name=aaa371_1035/>
+| temperature2 = 18,800<ref name=aaa371_1035/>
+| gravity2 = 4.00<ref name=aaa371_1035/>
+}}
+{{Starbox catalog
+| names = Girtab, [[Harvard Revised catalogue|HR]]&nbsp;6580, [[Cordoba Durchmusterung|CD]]-38&nbsp;12137, [[Henry Draper catalogue|HD]]&nbsp;160578, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;209163, [[FK5]]&nbsp;660, CPD P-38&nbsp;6992, [[Hipparcos catalogue|HIP]]&nbsp;86670.
+}}
+{{Starbox end}}
+
+'''Kappa Scorpii''' (κ Sco, κ Scorpii) is a [[binary star]] system in the southern [[constellation]] of [[Scorpius]]. It has the traditional name '''Girtab''',<ref name=falkner2011/> which is the Sumerian word for 'scorpion' and has survived through the [[Babylonian star catalogues]].<ref name=ridpath1989/> The name '''Girtab''' is actually (or perhaps originally) applied to an [[Asterism (astronomy)|asterism]] comprising this star, [[Lambda Scorpii]], [[Upsilon Scorpii]], and [[Iota Scorpii]].<ref name=falkner2011/> With an [[apparent visual magnitude]] of 2.4,<ref name=scfs/> this star system is readily visible to the naked eye. [[Parallax]] measurements place it at an estimated distance of roughly {{Convert|480|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/>
+
+==Properties==
+This is a [[spectroscopic binary]], which is a type of [[binary star]] system in which the two stars are so close together that they have not been individually resolved with a telescope. The pair orbit each other with a [[orbital period|period]] of about 196 days and an [[orbital eccentricity|eccentricity]] of nearly 0.5.<ref name=aaa371_1035/> The combined [[spectrum]] of this pair matches a star with a [[stellar classification]] of B1.5&nbsp;III.<ref name=houk1978/> The 'III' [[luminosity class]] indicates the presence of a [[giant star]] that has exhausted the supply of hydrogen at its core and is in a late [[stellar evolution|evolutionary stage]].
+
+The primary component of the pair, κ Sco A, is a [[variable star]] of [[Beta Cephei variable|Beta Cephei]] type. It is undergoing radial pulsations with a dominant frequency of 4.99922 cycles per day, or 4.8 hours per cycle. There are overlapping secondary pulsation frequencies of about 4.85 and 5.69 cycles per day.<ref name=aaa432_3_955/> This star has about 17 times the mass of the Sun and is nearly 7 times the Sun's radius.<ref name=aaa371_1035/> The [[effective temperature]] of the outer envelope is 23,400&nbsp;K,<ref name=aaa371_1035/> giving it a blue-white hue. It is rotating rapidly, with an estimated period of only 1.9 days and an axis of rotation that is inclined by about 40° to the line of sight from the Earth.<ref name=aaa371_1035/>
+
+The secondary component, κ Sco B, is smaller than the primary, but still much larger than the Sun. It has about 12 times the mass of the Sun and nearly six times the Sun's radius.<ref name=aaa371_1035/> The [[effective temperature]] of 18,800&nbsp;K<ref name=aaa371_1035/> is also higher than the Sun's, which is at 5,778&nbsp;K.
+
+==Modern legacy==
+Girtab appears on the  [[flag of Brazil]], symbolising the state of [[Paraíba]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1978>{{citation | last1=Houk | first1=Nancy | title=Michigan catalogue of two-dimensional spectral types for the HD star | volume=3 | publication-place=Ann Arbor | publisher=Dept. of Astronomy, University of Michigan: distributed by University Microfilms International | year=1978 | bibcode=1982mcts.book.....H }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=csrv>{{citation | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A Catalogue of Stellar Rotational Velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=aaa432_3_955>{{citation | display-authors=1 | last1=Uytterhoeven | first1=K. | last2=Briquet | first2=M. | last3=Aerts | first3=C. | last4=Telting | first4=J. H. | last5=Harmanec | first5=P. | last6=Lefever | first6=K. | last7=Cuypers | first7=J. | title=Disentangling component spectra of κ Scorpii, a spectroscopic binary with a pulsating primary. II. Interpretation of the line-profile variability | journal=Astronomy and Astrophysics | volume=432 | issue=3 | pages=955–967 | month=March | year=2005 | doi=10.1051/0004-6361:20041444 | bibcode=2005A&A...432..955U }}</ref>
+
+<ref name=aaa371_1035>{{citation | display-authors=1 | last1=Uytterhoeven | first1=K. | last2=Aerts | first2=C. | last3=De Cat | first3=P. | last4=De Mey | first4=K. | last5=Telting | first5=J. H. | last6=Schrijvers | first6=C. | last7=De Ridder | first7=J. | last8=Daems | first8=K. | last9=Meeus | first9=G. | title=Line-profile variations of the double-lined spectroscopic binary kappa Scorpii | journal=Astronomy and Astrophysics | volume=371 | pages=1035–1047 | month=June | year=2001 | doi=10.1051/0004-6361:20010456 | bibcode=2001A&A...371.1035U }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=falkner2011>{{citation | first1=David E. | last1=Falkner | title=The Mythology of the Night Sky: An Amateur Astronomer's Guide to the Ancient Greek and Roman Legends | series=Patrick Moore's Practical Astronomy | publisher=Springer | year=2011 | isbn=1-4614-0136-4 | page=106 | url=http://books.google.com/books?id=tyj8UUE968wC&pg=PA106 }}</ref>
+
+<ref name=ridpath1989>{{citation | first1=Ian | last1=Ridpath | title=Star tales | publisher=James Clarke & Co. | year=1989 | isbn=0-7188-2695-7 | page=114 | url=http://books.google.com/books?id=gFrdcTdeVaEC&pg=RA1-PA14 }}</ref>
+
+}}
+
+==External links==
+*{{citation | first1=James B. | last1=Kaler | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/kappasco.html | accessdate=2012-01-13 }}
+
+{{Stars of Scorpius}}
+
+[[Category:Scorpius (constellation)]]
+[[Category:Bayer objects|Scorpii, Kappa]]
+[[Category:B-type giants]]
+[[Category:Spectroscopic binaries]]
+[[Category:Beta Cephei variables]]
+[[Category:Stars with proper names]]
+
+[[ca:Girtab]]
+[[de:Girtab]]
+[[es:Girtab]]
+[[fa:کاپا کژدم]]
+[[fr:Kappa Scorpii]]
+[[ko:기르타브]]
+[[hi:कापा स्कोर्पाए तारा]]
+[[it:Girtab]]
+[[lb:Girtab (Stär)]]
+[[lt:Girtabas]]
+[[ja:さそり座カッパ星]]
+[[pl:Girtab]]
+[[pt:Kappa Scorpii]]
+[[ru:Каппа Скорпиона]]
+[[sk:Girtab]]
+[[zh:尾宿七]]

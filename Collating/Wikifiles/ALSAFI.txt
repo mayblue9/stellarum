@@ -1,0 +1,118 @@
+{{Starbox begin
+| name=Sigma Draconis }}
+{{Starbox observe
+| epoch=J2000
+| constell=[[Draco (constellation)|Draco]]
+| ra={{RA|19|32|21.59026}}<ref name=aaa474_2_653/>
+| dec={{DEC|+69|39|40.2354}}<ref name=aaa474_2_653/>
+| appmag_v=4.674<ref name=aaass65_2_405/> }}
+{{Starbox character
+| class=G9&nbsp;V<ref name="Gray2003" /><ref name=RECONS/>
+| b-v=+0.791<ref name=aaass65_2_405/>
+| u-b=+0.386<ref name=aaass65_2_405/>
+| variable=None }}
+{{Starbox astrometry
+| radial_v=26.7<ref name="SIMBAD" />
+| prop_mo_ra=598.07<ref name=aaa474_2_653/>
+| prop_mo_dec=−1738.40<ref name=aaa474_2_653/>
+| parallax=173.77
+| p_error=0.18
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v=5.87 }}
+{{Starbox detail
+| age_gyr=4.7<ref name=apj687_2_1264/>
+| gravity=4.60<ref name=aaa36_191/>
+| metal_fe=−0.20<ref name=apj683_1_424/>
+| mass=0.87<ref name=aaa36_191/>
+| radius={{nowrap|0.778 &plusmn; 0.008}}<ref name=apj683_1_424/>
+| rotational_velocity=1.5<ref name=apj400_2_681/>
+| luminosity={{nowrap|0.428 &plusmn; 0.013}}<ref name=apj683_1_424/>
+| temperature={{nowrap|5,299 &plusmn; 32}}<ref name=apj683_1_424/> }}
+{{Starbox catalog
+| names=σ Draconis, 61 Draconis,
+[[Henry Draper catalogue|HD]]&nbsp;185144, [[Harvard Revised catalogue|HR]]&nbsp;7462, [[Bonner Durchmusterung|BD]]+69°1053, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;4607.00, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;764, [[Luyten Half-Second catalogue|LHS]]&nbsp;477, and [[Hipparcos Catalogue|HIP]]&nbsp;96100.<ref name="SIMBAD" /> }}
+{{Starbox end}}
+'''Sigma Draconis''' (σ Dra, σ Draconis) is a 4.7 [[visual magnitude|magnitude]] [[star]] located at a distance of 18.8 [[light-year]]s in the constellation [[Draco (constellation)|Draco]]. Its traditional name is '''Alsafi'''.<ref name=allen1963/>
+
+==Name==
+Sigma Draconis, the [[Bayer designation]] for this star, was established in 1603 as part of the ''[[Uranometria]]'', a star catalogue produced by German celestial cartographer [[Johann Bayer]]. The proper name ''Alsafi'' was derived from Arabic '''Athāfi''', erroneously transcribed from the Arabic plurarl '''Athāfiyy''', by which the nomads designated the tripods of their open-air kitchens. It was the name of an association of this star, [[Tau Draconis|τ Dra]] and [[Upsilon Draconis|υ Dra]].<ref name=allen1963/> According to the catalogue of stars in the ''Technical Memorandum 33-507 - A Reduced Star Catalog Containing 537 Named Stars'', ''Athāfi'' or ''Alsafi'' were the title for three stars: σ Dra as ''Alsafi'', τ Dra as ''Athāfi I'' and υ Dra as ''Athāfi II''.<ref name=33_507/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天廚}} ({{lang|zh-Latn|Tiān Chú}}), meaning ''[[Purple Forbidden enclosure|Celestial Kitchen]]'', refers to an asterism consisting of σ Draconis, [[Delta Draconis|δ Draconis]], [[Epsilon Draconis|ε Draconis]], [[Rho Draconis|ρ Draconis]], [[64 Draconis]] and [[Pi Draconis|π Draconis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, σ Draconis itself is known as {{lang|zh|天廚二}} ({{lang|zh-Latn|Tiān Chú èr}}, {{lang-en|the Second Star of Celestial Kitchen}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ala_alz.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+The star is a [[main sequence]] dwarf of [[spectral type]] G9.<ref name="Gray2003"/><ref name=RECONS/> Formerly it was classified as K0, with the [[spectrum]] of this star serving as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/> The radius has been directly measured using interferometery with the [[CHARA Array]], which yields a result of 77.8% of the [[solar radius|Sun's radius]].<ref name=apj683_1_424/> It has 87% of the [[Solar mass|Sun's mass]], but the [[Solar luminosity|luminosity]] of this star is only 43% that of the Sun.<ref name=aaa36_191/><ref name=apj683_1_424/> The projected [[stellar rotation|rotation rate]] (''v'' sin ''i'') is relatively low at 1.5&nbsp;km/s. It is considered a slightly [[Metallicity|metal-poor]] star, meaning that it has a lower proportion of isotopes with masses more than [[helium]] when compared to the Sun.<ref name=ab6_2_308/>
+
+The temperature, luminosity and surface activity appear to vary slightly in a manner very similar to the [[sunspot cycle]], although the full length of the cycle has not yet been determined.<ref name=apj400_2_681/> The total variability is among the lowest of all stars that have been measured by the [[Hipparcos]] spacecraft.<ref name=ab6_2_308 />
+
+The components of Sigma Draconis's [[Stellar kinematics|space velocity]] are U=+36, V=+40 and W=-10&nbsp;km/s. This gives the star an unusually large [[orbital eccentricity]] about the [[Milky Way]] galaxy of 0.30 (compared to 0.06 for the Sun.) The mean galactocentric distance for the orbit is 10.3&nbsp;[[kiloparsec]]s (about 34,000 [[light-year]]s).<ref name=ab6_2_308 />
+
+As of 2007, no Jupiter-size or larger companion had been detected about the star and there was no indication of [[infrared excess|excess infrared radiation]] that would be evidence of circumstellar matter (such as a [[debris disk]]).<ref name=aj125_6_3334/>
+
+==See also==
+* [[Stars and planetary systems in fiction#Sigma Draconis (Alsafi)|Sigma Draconis in fiction]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | last1=van Leeuwen | first1=F. | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NSV%2012176&protocol=html | title=Query Result: NSV 12176 -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate= 2007-06-15 }}</ref>
+
+<ref name=apj687_2_1264>{{citation | last1=Mamajek | first1=Eric E. | last2=Hillenbrand | first2=Lynne A. | title=Improved Age Estimation for Solar-Type Dwarfs Using Activity-Rotation Diagnostics | journal=The Astrophysical Journal | volume=687 | issue=2 | pages=1264–1293 | month=November | year=2008 | doi=10.1086/591785 | bibcode=2008ApJ...687.1264M |arxiv = 0807.1686 }}</ref>
+
+<ref name=aaa36_191>{{citation | last1=Hearnshaw | first1=J. B. | title=Carbon and iron abundances for twenty F and G type stars | journal=Astronomy and Astrophysics | year=1974 | volume=36 | pages=191–199 | bibcode=1974A&A....36..191H }}</ref>
+
+<ref name=apj683_1_424>{{citation | display-authors=1 | last1=Boyajian | first1=Tabetha S. | last2=McAlister | first2=Harold A. | last3=Baines | first3=Ellyn K. | last4=Gies | first4=Douglas R. | last5=Henry | first5=Todd | last6=Jao | first6=Wei-Chun | last7=O'Brien | first7=David | last8=Raghavan | first8=Deepak | last9=Touhami | first9=Yamina | title=Angular Diameters of the G Subdwarf μ Cassiopeiae A and the K Dwarfs σ Draconis and HR 511 from Interferometric Measurements with the CHARA Array | journal=The Astrophysical Journal | volume=683 | issue=1 | pages=424–432 | month=August | year=2008 | doi=10.1086/589554 | bibcode=2008ApJ...683..424B | arxiv=0804.2719 }}</ref>
+
+<ref name=apj400_2_681>{{citation | display-authors=1 | last1=Gray | first1=David F. | last2=Baliunas | first2=Sallie L. | last3=Lockwood | first3=G. W. | last4=Skiff | first4=Brian A. | title=The activity cycle of Sigma Draconis | journal=Astrophysical Journal | year=1992 | volume=400 | issue=2 | pages=681–691 | bibcode=1992ApJ...400..681G  | doi=10.1086/172030 }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc | location=New York, NY | isbn=0-486-21079-0 | page=210}}</ref>
+
+<ref name="Gray2003">{{cite arXiv | display-authors=1 | last1=Gray | first1=R. O. | first2=C. J. | last2=Corbally | first3=R. F. | last3=Garrison | first4=M. T. | last4=McFadden | first5=P. E. | last5=Robinson | title=Contributions to the Nearby Stars (NStars) Project: Spectroscopy of Stars Earlier than M0 within 40 parsecs: The Northern Sample I | year=2003 | eprint=0308182 | version=v1 | class=astro-ph | accessdate=2003-08-11 }}</ref>
+
+<ref name=ab6_2_308>{{citation | last1=Porto de Mello | first1=Gustavo | last2=del Peloso | first2=Eduardo F. | last3=Ghezzi | first3=Luan | title=Astrobiologically Interesting Stars Within 10 Parsecs of the Sun | journal=Astrobiology | year=2006 | volume=6 | issue=2 | pages=308–331 | bibcode=2006AsBio...6..308P | doi=10.1089/ast.2006.6.308 | pmid=16689649 | arxiv=astro-ph/0511180 }}</ref>
+
+<ref name=aj125_6_3334>{{citation | display-authors=1
+ | first1=E. K. | last1=Holmes | first2=H. M. | last2=Butner | first3=S. B. | last3=Fajardo-Acosta | first4=L. M. | last4=Rebull | title=A Survey of Nearby Main-Sequence Stars for Submillimeter Emission | journal=The Astronomical Journal | year=2003 | volume=125 | issue=6 | pages=3334–3343 | bibcode=2003AJ....125.3334H  | doi=10.1086/375202 }}</ref>
+
+<ref name=RECONS>{{citation | last=Henry | first=Todd J. | date=October 1, 2006 | url=http://www.recons.org/TOP100.posted.htm | title=The One Hundred Nearest Star Systems | publisher=Research Consortium on Nearby Stars | accessdate=2011-10-14 }}</ref>
+
+<ref name=33_507>{{citation | url=http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720005197_1972005197.pdf | first=Jack W. | last=Rhoads | title=Technical Memorandum 33-507-A Reduced Star Catalog Containing 537 Named Stars | publisher=Jet Propulsion Laboratory, California Institute of Technology | date=November 15, 1971 }}</ref>
+
+<ref name=aaass65_2_405>{{citation | last1=Oja | first1=T. | title=UBV photometry of stars whose positions are accurately known. III | journal=Astronomy and Astrophysics Supplement Series | volume=65 | issue=2 | pages=405–409 | month=August | year=1986 | bibcode=1986A&AS...65..405O }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+}}
+
+==External links==
+* {{cite web
+ | url=http://www.solstation.com/stars/sigdraco.htm
+ | title=Sigma Draconis | publisher =SolStation
+ | accessdate = 2007-06-15 }}
+{{Nearest systems|4}}
+{{Stars of Draco}}
+
+[[Category:Bayer objects|Draconis, Sigma]]
+[[Category:Draco (constellation)]]
+[[Category:K-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+[[br:Sigma draconis]]
+[[de:Σ Draconis]]
+[[es:Sigma Draconis]]
+[[eo:Sigmo Draka]]
+[[eu:Sigma Draconis]]
+[[fa:صافی (ستاره)]]
+[[fr:Sigma Draconis]]
+[[ko:알사피]]
+[[id:Sigma Draconis]]
+[[it:Sigma Draconis]]
+[[nl:Alsafi]]
+[[ja:りゅう座シグマ星]]
+[[pt:Sigma Draconis]]
+[[ru:Сигма Дракона]]
+[[sk:Alsafi]]
+[[fi:Sigma Draconis]]
+[[vo:Sigma Draconis]]
+[[zh:天廚二]]

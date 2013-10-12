@@ -1,0 +1,113 @@
+{{Starbox begin
+ | name = Delta Cassiopeiae
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Cassiopeia IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Cassiopeia constellation and its surroundings]]
+     <div style="position: absolute; left: 41.6%; top: 46.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Ruchbach (circled) is the bottom left star in the "W"
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|01|25|48.95147}}<ref name=aaa474_2_653/>
+ | dec      = {{DEC|+60|14|07.0225}}<ref name=aaa474_2_653/> 
+ | appmag_v = 2.68<ref name=clpl4_99/>
+ | constell = [[Cassiopeia (constellation)|Cassiopeia]] }}
+{{Starbox character 
+ | class    = A5III-IVv<ref name="SIMBAD" />  
+ | b-v      = +0.13<ref name=clpl4_99/> 
+ | u-b      = +0.13<ref name=clpl4_99/>  
+ | variable = Eclipsing binary<ref name=aaa446_2_785/>
+}}
+{{Starbox astrometry 
+ | radial_v = −6.7<ref name=wilson1953/> 
+ | prop_mo_ra  = 296.57<ref name=aaa474_2_653/>  
+ | prop_mo_dec = –49.22<ref name=aaa474_2_653/> 
+ | parallax = 32.81 
+ | p_error  = 0.14 
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v = 
+}}
+{{Starbox detail
+ | mass     = 2.5<ref name="kaler" />
+ | radius   = 3.90<ref name=apj660_2_1556/>
+ | luminosity  = 63<ref name="kaler" />
+ | temperature = 8,400<ref name="kaler" />
+ | metal    =
+ | rotational_velocity = 123<ref name=aaa463_2_671/>
+ | age = 6.0{{e|8}}<ref name=apj660_2_1556/>
+}}
+{{Starbox catalog 
+ | names=Ruchbah, Ksora,<ref name=bakich1995/> Rucba, Rucbar,<ref name=hinkley1899/> 37&nbsp;Cassiopeiae, [[Bonner Durchmusterung|BD]]+59°248, [[Fifth Fundamental Catalogue|FK5]]&nbsp;48, [[Henry Draper Catalogue|HD]]&nbsp;8538, [[Hipparcos catalogue|HIP]]&nbsp;6686, [[Harvard Revised catalogue|HR]]&nbsp;403, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;22268.<ref name="SIMBAD"/>
+}}
+{{Starbox reference
+ | Simbad=HR403
+}}
+{{Starbox end}}
+
+'''Delta Cassiopeiae''' (δ Cas, δ Cassiopeiae) is a [[star]] in the northern [[circumpolar constellation]] of [[Cassiopeia (constellation)|Cassiopeia]]. It has the traditional names '''Ksora''' and '''Ruchbah''',<ref name=bakich1995/> derived from the [[Arabic language|Arabic]] word ركبة ''rukbah'' meaning "knee". It is not to be confused with [[Alpha Sagittarii]], which also is called Ruchbah or Rukbat.
+
+In [[Chinese language|Chinese]], {{lang|zh|閣道}} ({{lang|zh-Latn|Gé Dào}}), meaning ''[[Legs (Chinese constellation)|Flying Corridor]]'', refers to an asterism consisting of δ Cassiopeiae, [[Iota Cassiopeiae|ι Cassiopeiae]], [[Epsilon Cassiopeiae|ε Cassiopeiae]], [[Theta Cassiopeiae|θ Cassiopeiae]], [[Nu Cassiopeiae|ν Cassiopeiae]] and [[Omicron Cassiopeiae|ο Cassiopeiae]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Cassiopeiae itself is known as {{lang|zh|閣道三}} ({{lang|zh-Latn|Gé Dào sān}}, {{lang-en|the Third Star of Flying Corridor}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Properties==
+Delta Cassiopeiae is an [[eclipsing binary]] star system consisting of a pair of stars that orbit about each other over a period of 759 days.<ref name=aaa446_2_785/><ref name=burnham1978/> The combined [[apparent visual magnitude]] of the two stars is 2.68, making it readily observable with the naked eye. However, this magnitude varies between +2.68 mag and +2.74 as the stars pass in front of each other.<ref name=gcvs71/> Based on [[parallax]] measurements, this system is about {{Convert|99.4|ly|pc|abbr=off|lk=on}} from the [[Earth]].<ref name=aaa474_2_653/>
+
+The primary member of the system has a [[stellar classification]] of A5III-IVv, with the [[luminosity class]] of IV indicating that it has exhausted the hydrogen at its core and has begun to [[stellar evolution|evolve]] through the [[subgiant star|subgiant]] phase into a [[giant star]].<ref name="SIMBAD" /> It has expanded to about 3.9 times the [[solar radius|Sun's radius]].<ref name=apj660_2_1556/> The lower case 'v' in the stellar class indicates that the spectrum shows signs of variation. The system has an estimated age of 600 million years.<ref name=apj660_2_1556/>
+
+An [[infrared excess|excess infrared emission]] has been observed at a wavelength of 60&nbsp;μm, which suggests the presence of a circumstellar [[debris disk]]. This emission can be characterized by heat radiated from dust at a temperature of 85&nbsp;K, which corresponds to an orbital radius of 88&nbsp;[[Astronomical Unit]]s, or 88 times the distance of the Earth from the Sun.<ref name=apj660_2_1556/> For comparison, the region of the remote [[Kuiper belt]] in the [[Solar System]] extends from 30–50&nbsp;AU.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=clpl4_99>{{citation | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=wilson1953>{{citation | last=Wilson | first=Ralph Elmer | year=1953 | title=General catalogue of stellar radial velocities | publisher=Carnegie Institution of Washington | bibcode=1953QB901.W495..... }}</ref>
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HR403 | title=V* del Cas -- Variable Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-02-21 }}</ref>
+
+<ref name="kaler">{{citation | title=RUCHBAH (Delta Cassiopeiae) | publisher=University of Illinois | first1=James B. | last1=Kaler | url=http://stars.astro.illinois.edu/sow/ruchbah.html | accessdate=2011-12-09 }}</ref>
+
+<ref name=aaa463_2_671>{{citation | last1=Royer | first1=F. | last2=Zorec | first2=J. | last3=Gómez | first3=A. E. | title=Rotational velocities of A-type stars. III. Velocity distributions | journal=Astronomy and Astrophysics | volume=463 | issue=2 | pages=671–682 | month=February | year=2007 | doi=10.1051/0004-6361:20065224 | bibcode=2007A&A...463..671R |arxiv = astro-ph/0610785 }}</ref>
+
+<ref name=aaa446_2_785>{{citation | display-authors=1 | last1=Malkov | first1=O. Yu. | last2=Oblak | first2=E. | last3=Snegireva | first3=E. A. | last4=Torra | first4=J. | title=A catalogue of eclipsing variables | journal=Astronomy and Astrophysics | volume=446 | issue=2 | pages=785–789 | month=February | year=2006 | doi=10.1051/0004-6361:20053137 | bibcode=2006A&A...446..785M }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | year=1978 | title=Burnham's celestial handbook: an observer's guide to the Universe beyond the solar system | series=Dover books on astronomy and astrophysics | volume=1 | edition=2 | publisher=Courier Dover Publications | isbn=0-486-23567-X | page=492 | url=http://books.google.com/books?id=xq9MGuJvh8gC&pg=PA492 }}</ref>
+
+<ref name=gcvs71>{{citation | display-authors=1 | last1=Kukarkin | first1=B. V. | last2=Kholopov | first2=P. N. | last3=Pskovsky | first3=Y. P. | last4=Efremov | first4=Y. N. | last5=Kukarkina | first5=N. P. | last6=Kurochkin | first6=N. E. | last7=Medvedeva | first7=G. I. | contribution=The third edition containing information on 20437 variable stars discovered and designated till 1968 | year=1971 | title=General Catalogue of Variable Stars | edition=3rd | bibcode=1971GCVS3.C......0K }}</ref>
+
+<ref name=bakich1995>{{citation | first1=Michael E. | last1=Bakich | title=The Cambridge guide to the constellations | publisher=Cambridge University Press | year=1995 | isbn=0-521-44921-9 | page=170 | url=http://books.google.com/books?id=tLMXiFhTnRYC&pg=PA170 }}</ref>
+
+<ref name=hinkley1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G.E. Stechert | year=1899 | page=148 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA148 }}</ref>
+
+<ref name=apj660_2_1556>{{citation | display-authors=1 | last1=Rhee | first1=Joseph H. | last2=Song | first2=Inseok | last3=Zuckerman | first3=B. | last4=McElwain | first4=Michael | title=Characterization of Dusty Debris Disks: The IRAS and Hipparcos Catalogs | journal=The Astrophysical Journal | volume=660 | issue=2 | pages=1556–1571 | month=May | year=2007 | doi=10.1086/509912 | bibcode=2007ApJ...660.1556R |arxiv = astro-ph/0609555 }}</ref>
+
+}}
+
+{{Stars of Cassiopeia}}
+
+[[Category:Cassiopeia (constellation)]]
+[[Category:Bayer objects|Cassiopeiae, Delta]]
+[[Category:Eclipsing binaries]]
+[[Category:A-type giants]]
+[[Category:A-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ar:الركبة (نجم)]]
+[[cs:Ksora]]
+[[de:Delta Cassiopeiae]]
+[[es:Ksora]]
+[[fa:رکبةذات‌الکرسی]]
+[[fr:Delta Cassiopeiae]]
+[[id:Delta Cassiopeiae]]
+[[it:Delta Cassiopeiae]]
+[[lb:Ksora (Stär)]]
+[[nl:Ruchbah]]
+[[pl:Ruchba]]
+[[pt:Delta Cassiopeiae]]
+[[ru:Рукбах]]
+[[sk:Ruchbah]]
+[[sv:Ruchbah]]
+[[zh:閣道三]]

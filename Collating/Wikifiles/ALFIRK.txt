@@ -1,0 +1,145 @@
+{{Starbox begin
+ | name=Alfirk, β Cep
+}}
+{{Starbox image
+ | image=<div style="position: relative">[[File:Cepheus constellation map.svg|250px|Location of Beta Cephei]]
+     <div style="position: absolute; left:68%; top:55%">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images -->
+ | caption=Location of β Cephei (center right).
+}}
+{{Starbox observe
+ | epoch    = J2000
+ | ra       = {{RA|21|28|39.5971}}<ref name="SIMBAD"/>
+ | dec      = {{DEC|+70|33|38.578}}<ref name="SIMBAD"/>
+ | appmag_v = 3.1438<ref name="LEEUWEN"/>
+ | constell = [[Cepheus (constellation)|Cepheus]]
+}}
+{{Starbox character
+ | class    = B2IIIev<ref name="SIMBAD"/>
+ | b-v      = –0.22<ref name="MERMILLIOD"/>
+ | u-b      = –0.95<ref name="MERMILLIOD"/>
+ | variable = [[Beta Cephei variable]]
+}}
+{{Starbox astrometry 
+ | radial_v = –8.2<ref name="SIMBAD" />  
+ | prop_mo_ra  = +12.54<ref name="LEEUWEN"/>  
+ | prop_mo_dec = +8.39<ref name="LEEUWEN"/> 
+ | parallax = 4.76
+ | p_error  = 0.30
+ | parallax_footnote = <ref name="LEEUWEN"/>
+ | absmag_v = –3.468<ref name="LEEUWEN"/><!-- Computed value? Not listed at ref. -->
+}}
+{{Starbox detail 
+ | mass     = 12<ref name="KALER"/>
+ | radius   = 9.0<ref name="STEBBINS"/>
+ | metal_fe = –0.23<ref name="CENARRO"/>
+ | gravity  = 3.80<ref name=aaa515_A74/>
+ | age_myr  = 
+ | luminosity  = 36,900<ref>See Notes Section for calculations</ref>
+ | temperature = 26,700<ref name="KALER"/>
+ | rotational_velocity = 28<ref name="HR1"/>
+}}
+{{Starbox catalog
+ | names = Alfirk, [[Flamsteed designation|8&nbsp;Cep]], [[American Association of Variable Star Observers|AAVSO]]&nbsp;2127+70, [[Astronomische Gesellschaft Katalog|AG]]+70°&nbsp;738, [[Bonner Durchmusterung|BD]]+69&nbsp;1173, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J21287+7034A, [[Catalogues of Fundamental Stars|FK5]]&nbsp;809, [[Guide Star Catalog|GSC]]&nbsp;04465-02643, [[Henry Draper catalogue|HD]]&nbsp;205021, [[Hipparcos catalogue|HIP]]&nbsp;106032, [[Harvard Revised catalogue|HR]]&nbsp;8238, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;10057, [[Washington Double Star Catalog|WDS]]&nbsp;J21287+7034 Aa,Ab.<ref name="SIMBAD"/>
+}}
+{{Starbox reference
+ | Simbad=Beta+Cephei
+}}
+{{Starbox end}}
+
+{{Sky|21|28|39.60|+|70|33|39.0}}
+
+'''Beta Cephei''' (β Cep, β Cephei) is a third magnitude [[star]] in the [[constellation]] [[Cepheus (constellation)|Cepheus]].   It has the traditional name '''Alfirk''' ([[Arabic language|Arabic]] الفرقة ''al-firqah''), meaning ''"The Flock"'' (referring to a flock of sheep) This star, along with [[Alpha Cephei|α Cep]] (Alderamin) and [[Eta Cephei|η Cep]] (Alkidr), were '''Al Kawākib al Firḳ''' ('''الكوكب الفرق'''), meaning "the Stars of The Flock" by [[Ulug Beg]].<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cepheus*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=157 }}</ref><ref>Davis Jr., G. A., [http://adsabs.harvard.edu/abs/1944PA.....52....8D "The Pronunciations, Derivations, and Meanings of a Selected List of Star Names,"]''Popular Astronomy'', Vol. LII, No. 3, Oct. 1944, p. 16.</ref> Beta Cephei is the prototype of the [[Beta Cephei variable]] stars.
+
+== Visibility ==
+Like the star [[Epsilon Draconis]] in the [[constellation]] of [[Draco (constellation)|Draco]], Alfirk is visible primarily in the [[northern hemisphere]], given its extreme northern [[declination]] of 70 degrees and 34 minutes. The star is nevertheless visible to most observers throughout the world reaching as far south as cities like [[Harare]] in [[Zimbabwe]], [[Santa Cruz de la Sierra]] in [[Bolivia]] or other settlements north ±&nbsp;19°&nbsp;South latitude. The star is [[Circumpolar star|circumpolar]] throughout all of [[Europe]], northern Asia, and North American cities as far south as [[Guadalajara]] in west central [[Mexico]].  All other locations around the globe having a [[latitude]] greater than ±&nbsp;20°&nbsp;North will notice that the star is always visible in the night sky. Because Beta Cephei is a faint third magnitude star, it may be difficult to identify in most [[light pollution|light polluted]] cities, though in rural locations the star should be easily observable.
+
+== Properties ==
+Beta Cephei is a [[Multiple star#Triple star systems|triple star]] comprising a [[Binary star#Spectroscopic binaries|spectroscopic binary]] with a [[apparent magnitude|magnitude]] 8 optical companion.<ref name="Nor">{{cite book 
+|last=Norton 
+|first=Arthur P. 
+|title=Norton's Star Atlas 
+|year=1973 
+|page=118 
+|isbn=0-85248-900-5 
+|quote=Fixed. A is a spectroscopic binary.}}</ref> Its [[apparent magnitude|magnitude]] varies between +3.15 and +3.21 with a period of 0.1904844 days. 
+
+Beta Cephei A is a [[blue giant]] star with a [[stellar classification]] listed in the [[SIMBAD]] astronomical database as B2IIIev.<ref name="SIMBAD"/> The suffix "ev" comes from the [[Yerkes spectral classification scheme|Yerkes classification system]] and stands for [[Stellar classification#Spectral peculiarities|"Spectral emission that exhibits variability"]].  This giant star has a radius that has been estimated at 9[[Solar radius|R<sub>☉</sub>]] and a mass of 12[[Solar mass|M<sub>☉</sub>]].  Like most high mass [[Stellar classification#Class B|B class]] stars, β Cep is a relatively young star with an estimated age of around 50 million years old. Like the majority of giant stars, Beta Cephei A rotates slowly on its axis with a rotational velocity of 28&nbsp;km/s, a speed which takes the star approximately 51 days to make one complete revolution.
+
+In 2007, Floor van Leeuwen and his team recalibrated the star's [[apparent magnitude]] at 3.1438 and updated the star's parallax to 4.76 ± 0.30 [[Milliarcseconds|mas]] yielding a distance of 210.1 [[parsecs]] (pc) or approximately 685 [[light year]]s (ly) from [[Earth]].<ref name="LEEUWEN"/>  The previous estimate from the [[Hipparcos]] mission had placed the star at about 595 ly. Given a surface temperature of 26,700 Kelvin, theoretical calculations yield a total luminosity for the star of about 36,900[[Solar luminosity|L<sub>☉</sub>]].<ref name="NOTELUMINOSITY" group="note">The formula for the bolometric luminosity of Beta Cephei is as follows:
+
+:<math>\frac{L_{\rm A}}{L_{\odot}} = {\left ( \frac{R_{\rm A}}{R_{\odot}} \right )}^2 {\left ( \frac{T_{\rm A}}{T_{\odot}} \right )}^4</math>  where... A = Alfirk, L = Luminosity, R = Radius and T = Temperature.
+Therefore:
+
+:<math>\frac{L_{\rm A}}{L_{\odot}} = {\left ( {\frac{9}{1}} \right )}^2 {\left ( {\frac{26,700}{5,778}} \right )}^4 = 36,933 L_{\odot}</math>
+
+Note: Luminosity calculations are highly dependent on size and distance variables.</ref>
+
+==See also==
+* [[List of stars in Draco]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Variable star]]
+* [[Star system]]
+
+== Notes ==
+<references group="note" />
+
+== References ==
+{{Reflist|colwidth=25em|refs=
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=bet+cep&submit=SIMBAD+search | title=V* bet Cep -- Variable Star of beta Cep type | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2010-12-26 }}</ref>
+
+<ref name="MERMILLIOD">{{citation | last1=Mermilliod | first1=J.-C. | title=Compilation of Eggen's UBV data, transformed to UBV (unpublished) | journal=Catalogue of Eggen's UBV data. | year=1986 | origin=SIMBAD | bibcode=1986EgUBV........0M }}</ref>
+
+<ref name="LEEUWEN">{{citation | title=Hipparcos, the New Reduction | last1=van Leeuwen | first1=F. | year=2007 | month=November | work=[[VizieR]]  | publisher=[[Centre de Données astronomiques de Strasbourg]] | pages=653–664 | issue=2 | volume=474 | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HIP%20106032 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics | bibcode=2007A&A...474..653V | accessdate=2010-12-26 |arxiv = 0708.1752 }}</ref>
+
+<ref name="KALER">{{citation | title=ALFIRK (Beta Cephei) | publisher=University of Illinois | first1=James B. | last1=Kaler | work=Stars | url=http://stars.astro.illinois.edu/sow/alfirk.html | accessdate=2010-12-26 }}</ref>
+
+<ref name="STEBBINS">{{citation | title=Six-color photometry of stars. VIII. The pulsating star Beta Cephei | last1=Stebbins | first1=J. | last2=Kron | first2=G. E. | journal=The Astrophysical Journal | volume=120 | page=189 | year=1954 | month=September | format=PDF | origin=GCPD | doi=10.1086/145902 | bibcode=1954ApJ...120..189S }}</ref>
+
+<ref name="CENARRO">{{citation | display-authors=1 | last1=Cenarro | first1=A. J. | last2=Peletier | first2=R. F. | last3=Sánchez-Blázquez | first3=P. | last4=Selam | first4=S. O. | last5=Toloba | last6=et al | title=Medium-resolution Isaac Newton Telescope library of empirical spectra - II. The stellar atmospheric parameters | journal=Monthly Notices of the Royal Astronomical Society | year=2007 | volume=374 | issue=2 | pages=664–690 | format=PDF  | bibcode=2007MNRAS.374..664C  | doi=10.1111/j.1365-2966.2006.11196.x | arxiv=astro-ph/0611618 }}</ref>
+
+<ref name="HR1">{{citation | last1=Hoffleit | title=Bright Star Catalogue | work=[[VizieR]] | edition=5th revised | year=1991 | publisher=[[Centre de Données astronomiques de Strasbourg]] | url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%208238 | accessdate=2010-12-26 }}</ref>
+ 
+<ref name=aaa515_A74>{{citation | display-authors=1 | last1=Lefever | first1=K. | last2=Puls | first2=J. | last3=Morel | first3=T. | last4=Aerts | first4=C. | last5=Decin | first5=L. | last6=Briquet | first6=M. | title=Spectroscopic determination of the fundamental parameters of 66 B-type stars in the field-of-view of the CoRoT satellite | journal=Astronomy and Astrophysics | volume=515 | page=A74 | month=June | year=2010 | doi=10.1051/0004-6361/200911956 | bibcode=2010A&A...515A..74L |arxiv = 0910.2851 }}</ref>
+
+}}
+
+==External links==
+*Jim Kaler's Stars, University of Illinois:[http://stars.astro.illinois.edu/sow/alfirk.html ALFIRK (Beta Cephei)]
+*AAVSO Variable Star of the Month, Winter 2005: [http://www.aavso.org/vsots_betacep  The Beta Cephei Stars and Their Relatives]
+*An Atlas of the Universe: [http://www.atlasoftheuniverse.com/orbits.html Multiple Star Orbits]
+
+{{Stars of Cepheus}}
+
+[[Category:Cepheus (constellation)]]
+[[Category:Bayer objects|Cephei, Beta]]
+[[Category:Beta Cephei variables]]
+[[Category:B-type giants]]
+[[Category:Stars with proper names]]
+[[Category:Double stars]]
+[[Category:Triple stars]]
+
+[[ar:الفرق (نجم)]]
+[[de:Alfirk]]
+[[es:Alfirk]]
+[[fa:کوکب‌الفرق]]
+[[fr:Beta Cephei]]
+[[hi:बेटा सॅफ़ॅई तारा]]
+[[id:Beta Cephei]]
+[[it:Beta Cephei]]
+[[he:אלפירק]]
+[[lb:Alfirk (Stär)]]
+[[nl:Alfirk]]
+[[pt:Beta Cephei]]
+[[ru:Альфирк]]
+[[sk:Alfirk]]
+[[tt:Әлфирк]]
+[[zh:上卫增一 (紫微左垣)]]

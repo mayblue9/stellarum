@@ -1,0 +1,136 @@
+{{about|the star||Alcyone (disambiguation)}}
+{{Starbox begin |
+   name=Alcyone, η Tau}}
+{{Starbox image 
+| image = [[File:M45map.jpg|250px]]
+| caption = Alcyone is the bright star at the center of the map.
+}}
+{{Starbox observe 
+ |epoch=J2000 
+  |ra={{RA|03|47|29.0765}}<ref name="SIMBAD">{{cite web
+  |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alcyone&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+  | title =SIMBAD query result: ALCYONE -- Be Star
+  | publisher =Centre de Données astronomiques de Strasbourg
+  | accessdate = 2010-06-30 }}</ref>
+  | dec={{DEC|24|06|18.494}}<ref name="SIMBAD" />
+  |appmag_v=2.873<ref name="SIMBAD" />
+  |constell=[[Taurus (constellation)|Taurus]]}}
+{{Starbox character 
+  |class=B7IIIe<ref name="VizieR" />	
+  |b-v=-0.09<ref name="JOHNSON">{{cite journal
+    | author=Johnson, H. L.; Iriarte, B.; Mitchell, R. I.; Wisniewski, W. Z.
+    | title=UBVRIJKL photometry of the bright stars.
+    | journal=Comm. Lunar Plan. Lab., 4
+    | year=1966
+    | origin=SIMBAD
+    | format=PDF
+    | bibcode=1966CoLPL...4...99J}}</ref>
+  |u-b=-0.35<ref name="JOHNSON"/>
+  |variable=suspected}}
+{{Starbox astrometry 
+  |radial_v=10.1<ref name="SIMBAD" />  
+  |prop_mo_ra=19.35<ref name="SIMBAD" />  
+  |prop_mo_dec=-43.11<ref name="SIMBAD" />  
+  |parallax=8.87
+  |p_error=0.99
+  |parallax_footnote=<ref name="PERRYMAN">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C.
+ | last2=Lindegren | first2=L. | last3=Kovalevsky
+ | first3=J. | last4=Hoeg | first4=E. | last5=Bastian
+ | first5=U. | last6=Bernacca | first6=P. L.
+ | last7=Crézé | first7=M. | last8=Donati | first8=F.
+ | last9=Grenon | first9=M.
+ | title=The Hipparcos Catalogue | journal=Astronomy & Astrophysics
+ | year=1997 | volume=323 | pages=L49–L52 | bibcode=1997A&A...323L..49P }}</ref>
+  |absmag_v=-2.39}}
+{{Starbox detail 
+  |mass=6<ref name="kaler">{{cite web
+    |title=ALCYONE (Eta Tauri)
+    |publisher=University of Illinois
+    |author=Professor James B. (Jim) Kaler
+    |url=http://www.astro.uiuc.edu/~kaler/sow/alcyone.html
+    |accessdate=2010-06-30| archiveurl= http://web.archive.org/web/20100707100125/http://www.astro.uiuc.edu/~kaler/sow/alcyone.html| archivedate= 7 July 2010 <!--DASHBot-->| deadurl= no}}</ref> 
+  |radius=8.2<ref name=mnras189_601/>
+  |luminosity=2,400<ref name="kaler" /> 
+  |temperature=12,753 ± 147<ref name=mnras189_601/>
+  |gravity=3.5<ref name=mnras189_601/>
+  |rotation=215 km/s<ref name= VizieR >{{cite web 
+    |title=Bright Star Catalogue, 5th Revised Ed. (Hoffleit+, 1991)
+    |work=[[VizieR]]
+    |publisher=[[Centre de Données astronomiques de Strasbourg]]
+    |url=http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%201165
+    |accessdate=2010-06-30}}</ref> }}
+{{Starbox catalog
+ |names=[[Bayer designation|η Tau]], [[Flamsteed designation|25&nbsp;Tau]], [[Harvard Revised catalogue|HR]]&nbsp;1165, [[Henry Draper Catalogue|HD]]&nbsp;23630, [[Bonner Durchmusterung|BD]]+23&nbsp;541, [[Catalogues of Fundamental Stars|FK5]]&nbsp;139, [[Hipparcos catalogue|HIP]]&nbsp;17702, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;76199, [[Boss General Catalogue|GC]]&nbsp;4541, [[Burnham Double Star Catalogue|BDS]]&nbsp;1875, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;03474+2407}}
+
+{{Starbox reference |
+  Simbad=HD+23630 }}
+{{Starbox end}}
+
+{{Sky|03|47|29.0765|+|24|06|18.494|100000}}
+
+'''Alcyone''' (η Tau, η Tauri, Eta Tauri) is a [[star system]] in the [[constellation]] [[Taurus (constellation)|Taurus]].  It is the [[Pleiades (star cluster)#Brightest stars in Pleiades|brightest]] star in the [[Pleiades (star cluster)|Pleiades]] [[open cluster]], which is a young cluster, aged at less than 50 million years.  Alcyone is approximately 370 [[light year]]s from [[Earth]].  It is named after the mythological figure [[Alcyone (Pleiades)|Alcyone]], one of the mythological [[Pleiades (Greek mythology)|Pleiades]].  It is known as 昴宿六 (the Sixth Star of the Hairy Head) in Chinese.
+
+== Overview ==
+The main star, known as '''Alcyone A''', is a blue-white [[stellar classification|B-type]] [[giant star|giant]] similar to many of the other B-type stars in the Pleiades cluster.  It has an [[apparent magnitude]] of +2.87 ([[absolute magnitude]] = &minus;2.39), and a radius almost 10 times that of the Sun.<ref name="kaler" />  Its temperature is approximately 13,000 [[kelvin|K]] giving it a total [[Luminosity#In astronomy|luminosity]] that is 2,400 times solar. The spectral type of B7IIIe indicates that [[Stellar classification#Spectral peculiarities|emission lines are present]] in its [[spectrum]].  Like many [[Be stars]], Alcyone A has a high rotational [[velocity]] of 215&nbsp;km/s,<ref name="VizieR" /> which has created a gaseous disk flung into orbit around the star from its equator.
+
+==Star System==
+Alcyone is an [[eclipsing binary]], and the two components have a separation of 0.031 [[arcsecond]]s, or about the distance from the [[Sun]] to [[Jupiter]].
+
+The binary star is orbited by three companions.  '''Alcyone B''' and '''Alcyone C''' are both 8th magnitude white [[stellar classification|A-type]] [[main sequence|dwarfs]] and are separated from A by 117 and 181 [[arcsecond]]s respectively.  '''Alcyone D''' is a yellow-white F-type dwarf, 191 arcseconds from the primary.  It has an [[apparent magnitude]] of +8.7.  Alcyone C is classified as a [[Delta Scuti variable|Delta Scuti type]] [[variable star]] and its brightness varies from magnitude +8.25 to +8.30 over 1.13 hours.
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Taurus|Taurus]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Be stars]]
+* [[Shell star]]
+* [[Circumstellar disk]]
+
+== References ==
+{{reflist|refs=
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+}}
+
+== External links ==
+{{Commons category|Alcyone (star)}}
+*Jim Kaler's Stars, University of Illinois:[http://stars.astro.illinois.edu/sow/alcyone.html ALCYONE (Eta Tauri)]
+*[http://www.alcyone.com/info.html#alcyone Alcyone and the Pleiades]
+
+{{Stars of Taurus}}
+
+[[Category:Bayer objects|Tauri, Eta]]
+[[Category:Taurus (constellation)]]
+[[Category:B-type giants]]
+[[Category:A-type main sequence stars]]
+[[Category:F-type main sequence stars]]
+[[Category:Eclipsing binaries]]
+[[Category:Multiple star systems|5]]
+[[Category:Delta Scuti variables]]
+[[Category:Pleiades Open Cluster]]
+[[Category:Stars with proper names]]
+
+[[ar:ألسيوني (نجم)]]
+[[bg:Алкиона (звезда)]]
+[[cs:Alcyone]]
+[[de:Alkione (Stern)]]
+[[es:Alcíone (estrella)]]
+[[fa:عقد ثریا (ستاره)]]
+[[fr:Eta Tauri]]
+[[ko:알키오네 (항성)]]
+[[hi:अम्बा तारा]]
+[[it:Alcyone (astronomia)]]
+[[la:Alcyone (stella)]]
+[[lb:Alkione (Stär)]]
+[[nl:Alcyone (ster)]]
+[[ja:アルキオネ]]
+[[no:Alcyone (stjerne)]]
+[[pl:Alkione (gwiazda)]]
+[[pt:Alcyone (estrela)]]
+[[ro:Alcyone (stea)]]
+[[ru:Альциона (звезда)]]
+[[sk:Alcyone (hviezda)]]
+[[fi:Alcyone (tähti)]]
+[[sv:Alcyone]]
+[[uk:Альціона]]
+[[zh:昴宿六]]

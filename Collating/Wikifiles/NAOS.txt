@@ -1,0 +1,101 @@
+{{Starbox begin
+ | name=Zeta Puppis
+}}
+{{Starbox image
+ | image = [[Image:Zeta Puppis.png|250px]] 
+ | caption = Artistic depiction of Zeta Puppis (Naos).
+}}
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|08|03|35.1}}<ref name="simbad"/>
+ | dec={{DEC|−40|00|11.6}}<ref name="simbad"/>
+ | appmag_v=2.21
+ | constell=[[Puppis]]
+}}
+{{Starbox character
+ | class=O4If(n)p<ref name=sota>{{cite doi|10.1088/0067-0049/193/2/24}}</ref>
+ | b-v=−0.27
+ | u-b=−1
+}}
+{{Starbox astrometry
+ | prop_mo_ra=−30.82<ref name="simbad"/>
+ | prop_mo_dec=16.77<ref name="simbad"/>
+ | parallax=3.00
+ | p_error=0.10
+ | absmag_v=-5.5
+}}
+{{Starbox detail
+ | mass=22.5<ref name=ostars>{{cite doi|10.1051/0004-6361:200809936}}</ref>
+ | radius=14<ref name=ostars/>
+ | luminosity_bolometric=550,000<ref name=ostars/>
+ | temperature=42,000<ref name=ostars/>
+ | gravity=3.5<ref name=mnras189_601/>
+ | metal_fe=0.34<ref name=dany>{{cite arXiv|eprint=1109.6497v1|author1=Dany Vanbeveren|title=Zeta Pup: The merger of at least two massive stars|class=astro-ph.GA|year=2011}}</ref>
+ | rotational_velocity=>220<ref name=dany/>
+ | age_myr=4{{citation needed|date=November 2012}}
+}}
+{{Starbox catalog
+ | names=Naos, Suhail Hadar, ζ&nbsp;Puppis, ζ&nbsp;Pup, Zeta&nbsp;Pup, [[Durchmusterung|CPD]]−39 &nbsp;2011, [[Durchmusterung|CPD]]−39 &nbsp;2111, [[Fifth Fundamental Catalogue|FK5]]&nbsp;306, [[Boss General Catalogue|GC]]&nbsp;10947, [[Henry Draper catalogue|HD]] 66811, [[Hipparcos catalogue|HIP]] 39429, [[Bright Star Catalogue|HR]]&nbsp;3165, [[PPM Star Catalogue|PPM]]&nbsp;312524, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 198752.
+}}
+{{Starbox reference
+ | Simbad=NAOS
+}}
+{{Starbox end}}
+'''Zeta&nbsp;Puppis''' ('''Zeta&nbsp;Pup''', '''ζ&nbsp;Puppis''', '''ζ&nbsp;Pup''') is a [[star]] in the [[constellation]] of [[Puppis]]. It is also known by the traditional names '''Naos''' ({{IPAc-en|icon|ˈ|n|eɪ|.|ɒ|s}}, from the Greek ''ναύς'' "ship") and '''Suhail Hadar''' (سهيل هدار, possibly "roaring bright one"<!--Used to say "bright star of the ground", but that would have to be suhail addar, which really means bright of the house or country.-->) in Arabic.
+
+Its [[stellar classification|spectral class]] is O4If, making it an exceptionally hot star, and it is one of the sky's few naked-eye class [[O-type main sequence star|O-type stars]].  It had been assumed to be part of the Vela complex near the [[Gum nebula]] and at over 400 parsecs, but the 2008 reduction of Hipparcos data gave a distance of {{convert|335|pc|ly|0}} ± 4%.<ref name="Maízetal2008"/>  Its surface temperature is 42,000 [[Kelvin|K]], the current mass is calculated at 22.5 M☉ and the radius at 14 R☉ but these values are highly uncertain.  Older derivations assumed the larger distance and were correspondingly larger, but some new calculations still give values up to twice these.<ref name=dany/>
+
+Zeta Puppis is an extreme blue [[supergiant]], one of the brightest stars in the [[Milky Way]] in terms of [[absolute magnitude]]. Visually, it is 12,500 times more powerful than the [[Sun]], but being an extreme blue star most of its [[electromagnetic radiation|radiation]] is in the [[ultraviolet]] and hence its bolometric luminosity is over 500,000 L☉.
+
+Zeta Puppis, being typical of O-type stars, is also notable for its extremely strong [[stellar wind]], and it has garnered increasing attention for this over the past decade. Its stellar wind velocity has been estimated at 2,500&nbsp;km/s,<ref name=clumps>{{cite doi|10.1086/305218}}</ref> which sees the star shed more than a millionth of its solar mass each year,<ref name=clumps/> or about 10 million times that shed by our own Sun over a comparable time period. This mass ejection is highly evident in non-visible wavelengths such as [[radio waves|radio]] and [[X-ray]].
+
+<!-- comment out more unsupported speculation: In several hundred thousand years, Naos will cool on its way to becoming a red supergiant and will pass through spectral classes B, A, F, G, K, and M as it cools. When this occurs, the star's output will mostly be in the visible spectrum, and Naos will appear from Earth as one of the brightest stars in the sky. Within 2 million years, Naos will turn into a Class M5 red supergiant bigger than the orbit of the Earth and it will eventually explode into a [[supernova]] so powerful and bright that even at 970 light years<ref name="kaler" /> it will appear much brighter than the full [[Moon]] and could collapse into a [[black hole]]. If so, the inwards ejected matter of the supernova will fall back into the black hole and form a powerful accretion disc with gamma rays ejected from the poles. -->
+
+==Origin==
+It was long thought that Zeta Puppis was associated with the Vela [[star-forming region]] about 1400 [[light years]] distant. However the parallax obtained in 2008 from the revision of Hipparcos data (see above) shows that the star is closer.  The new distance combined with the known radial velocity show that it encountered the [[Trumpler 10]] OB association around 2 million years ago.<ref name=ostars/>  This still leaves questions since Trumpler 10 has a well established age in excess of 30 million years while Zeta Puppis is no more than a tenth that age.  Others theories include the idea that Zeta Puppis was the companion of the star that went supernova and produced the [[Gum Nebula]].<ref name=gum>{{cite doi|10.1111/j.1365-2966.2008.14189.x}}</ref>  There is evidence of an ionization front ([[bow shock]]){{citation needed|date=November 2012}} ahead of Naos as is common with high mass runaway stars.  It also shows another common feature of runaways, an anomalously high rotational velocity of 220&nbsp;km/s at the equator<ref name=clumps/> as well as an apparent enrichment in helium and nitrogen on the surface.<ref name=dany/>  Its estimated age is about 4 [[million]] years.{{citation needed|date=November 2012}}
+
+==Helium==
+In 1896, [[Edward C. Pickering]] observed mysterious spectral lines from ζ Puppis, which fit the [[Rydberg formula]] if half-integers were used instead of whole integers.  It was later found that these were due to ionized [[helium]].<ref name=helium>{{cite doi|10.1038/092231d0}}</ref>
+
+==Namesakes==
+[[USS Naos (AK-105)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{Reflist|refs=
+
+<ref name=mnras189_601>{{Cite journal | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
+
+<ref name="simbad">{{cite web | title=SIMBAD Query Result | work=Results for NAOS | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NAOS | accessdate=2012-08-05 }}</ref>
+
+<ref name="Maízetal2008">{{cite journal |last=Maíz Apellániz |first=J. |authorlink= |coauthors=Alfaro, E. J.; Sota, A. |year=2008 |month= |title=Accurate distances to nearby massive stars with the new reduction of the Hipparcos raw data |journal= |volume= 0804|issue= |pages= 2553|id= |url= |accessdate= |quote= |arxiv=0804.2553|bibcode = 2008arXiv0804.2553M |last2=Alfaro |last3=Sota }}</ref>
+
+}}
+*{{cite journal |last=Schaerer |first=Daniel |authorlink= |coauthors=''et al.'' |year=1997 |month= |title=Fundamental Stellar Parameters of γ2 Velorum from ''HIPPARCOS'' Data |journal=Astrophysical Journal Letters |volume=484 |issue= 2|pages=L153–L156 |doi=10.1086/310785 |url= |accessdate= |quote= |bibcode=1997ApJ...484L.153S|arxiv = astro-ph/9703061 }}
+{{Stars of Puppis}}
+
+[[Category:Bayer objects|Puppis, Zeta]]
+[[Category:O-type supergiants]]
+[[Category:Puppis (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:سهيل هدار (نجم)]]
+[[bg:Зет Кърма]]
+[[de:Naos (Stern)]]
+[[es:Naos (estrella)]]
+[[fa:زتا کشتیدم]]
+[[fr:Zeta Puppis]]
+[[ko:나오스]]
+[[hi:ज़ेटा पपिस तारा]]
+[[it:Naos (astronomia)]]
+[[he:נאוס (כוכב)]]
+[[lb:Naos (Stär)]]
+[[mk:Наос (ѕвезда)]]
+[[nl:Naos (ster)]]
+[[ja:ナオス]]
+[[pl:Naos (gwiazda)]]
+[[pt:Zeta Puppis]]
+[[ru:Дзета Кормы]]
+[[sk:Naos]]
+[[fi:Zeta Puppis]]
+[[vi:Naos]]
+[[zh:弧矢增二十二]]

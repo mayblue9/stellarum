@@ -1,0 +1,83 @@
+{{Starbox begin 
+| name = Xi Draconis
+}}
+{{Starbox observe 
+| epoch        = J2000 
+| constell     = [[Draco (constellation)|Draco]]
+| ra           = {{RA|17|53|31.72962}}<ref name=aaa474_2_653/>
+| dec          = {{DEC|+56|52|21.5143}}<ref name=aaa474_2_653/>
+| appmag_v     = 3.75<ref name=mnras172_667/>
+}}
+{{Starbox character 
+| class        = K2&nbsp;III<ref name=araa11_29/>
+| b-v          = +1.18<ref name=mnras172_667/>
+| u-b          = +1.21<ref name=mnras172_667/>
+| variable     = 
+}}
+{{Starbox astrometry 
+ | radial_v    = -26.38 ± 0.20<ref name=aaa430_165/>
+ | prop_mo_ra  = {{nowrap|93.82 ± 0.14}}<ref name=aaa474_2_653/>
+ | prop_mo_dec = {{nowrap|78.50 ± 0.12}}<ref name=aaa474_2_653/>
+ | parallax    = 28.98
+ | p_error     = 0.12
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v    = 
+}}
+{{Starbox detail
+ | mass        = 1.45 ± 0.17<ref name=apjl674_1_L53/>
+ | radius      = 12<ref name=aj135_1_209/>
+ | luminosity  = 49 ± 4<ref name=apjl674_1_L53/>
+ | temperature = 4,445<ref name=apjl674_1_L53/>
+ | gravity     = 2.3<ref name=aj135_1_209/>
+ | metal_fe    = –0.09<ref name=aj135_1_209/>
+ | rotational_velocity = 2.3<ref name=aj135_1_209/>
+}}
+{{Starbox catalog
+| names = 32&nbsp;Dra, BD+56&nbsp;2033, [[FK5]]&nbsp;671, [[Henry Draper catalogue|HD]]&nbsp;163588, [[Hipparcos catalogue|HIP]]&nbsp;87585, [[Star catalogue#BS, BSC, HR|HR]]&nbsp;6688, [[Star catalogue#SAO|SAO]]&nbsp;30631.
+}} 
+{{Starbox end}}
+'''Xi Draconis''' (ξ Dra, ξ Draconis) is the [[Bayer designation]] for a [[star]] in the northern [[circumpolar constellation]] of [[Draco (constellation)|Draco]]. It has the traditional name '''Grumium''' or '''Genam'''. This star, along with [[Beta Draconis|β Dra]] (Rastaban), [[Gamma Draconis|γ Dra]] (Eltanin), [[Mu Draconis|μ Dra]] (Erakis) and [[Nu Draconis|ν Dra]] (Kuma) were '''Al ʽAwāïd''', "the Mother Camels", which was later known as the '''Quinque Dromedarii'''.<ref name=allen1963/> This star has an [[apparent visual magnitude]] of 3.75.<ref name=mnras172_667/> Based upon [[parallax]] measurements, it is located at a distance of {{Convert|112.5|ly|pc|abbr=off|lk=on}} from Earth.<ref name=aaa474_2_653/> At this distance, the apparent magnitude is diminished by 0.03 from [[extinction (astronomy)|extinction]] caused by intervening gas and dust.<ref name=aaa430_165/>
+
+In [[Chinese language|Chinese]], {{lang|zh|天棓}} ({{lang|zh-Latn|Tiān Bàng}}), meaning ''[[Purple Forbidden enclosure|Celestial Flail]]'', refers to an asterism consisting of ξ Draconis, [[Nu Draconis|ν Draconis]], [[Beta Draconis|β Draconis]], [[Gamma Draconis|γ Draconis]] and [[Iota Herculis|ι Herculis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, δ Draconis itself is known as {{lang|zh|天棓一}} ({{lang|zh-Latn|Tiān Bàng yī}}, {{lang-en|the First Star of Celestial Flail}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_e_g.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==Structure==
+Xi Draconis is of [[Stellar classification|spectral class]] K2-III.
+
+==Namesakes==
+[[USS Grumium (AK-112)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=apjl674_1_L53>{{citation | display-authors=1 | last1=Stello | first1=D. | last2=Bruntt | first2=H. | last3=Preston | first3=H. | last4=Buzasi | first4=D. | title=Oscillating K Giants with the WIRE Satellite: Determination of Their Asteroseismic Masses | journal=The [[Astrophysical Journal]] Letters | volume=674 | issue=1 | year=2008 | pages=L53–L56 | doi=10.1086/528936 | bibcode=2008ApJ...674L..53S | postscript=. |arxiv = 0801.2155 }}</ref>
+
+<ref name=aj135_1_209>{{citation | display-authors=1 | last1=Massarotti | first1=Alessandro | last2=Latham | first2=David W. | last3=Stefanik | first3=Robert P. | last4=Fogel | first4=Jeffrey | title=Rotational and Radial Velocities for a Sample of 761 HIPPARCOS Giants and the Role of Binarity | journal=The Astronomical Journal | volume=135 | issue=1 | pages=209–231 | month=January | year=2008 | doi=10.1088/0004-6256/135/1/209 | bibcode=2008AJ....135..209M | postscript=. }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 | postscript=. }}</ref>
+
+<ref name=mnras172_667>{{citation | last1=Jennens | first1=P. A. | last2=Helfer | first2=H. L. | title=A new photometric metal abundance and luminosity calibration for field G and K giants. | journal=Monthly Notices of the Royal Astronomical Society | volume=172 | pages=667–679 | month=September | year=1975 | bibcode=1975MNRAS.172..667J | postscript=. }}</ref>
+
+<ref name=allen1963>{{citation | last=Allen | first=R. H. | year=1963 | authorlink=Richard Hinckley Allen | title=Star Names: Their Lore and Meaning | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Draco*.html | accessdate=2010-12-12 | edition=Reprint | publisher=Dover Publications Inc. | location=New York, NY | isbn=0-486-21079-0 | page=207 | postscript=. }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M | postscript=. }}</ref>
+
+}}
+
+{{Stars of Draco}}
+
+[[Category:Draco (constellation)]]
+[[Category:Bayer objects|Draconis, Xi]]
+[[Category:Stars with proper names]]
+
+[[de:Xi Draconis]]
+[[es:Grumium]]
+[[fa:گرومیوم]]
+[[fr:Xi Draconis]]
+[[id:Xi Draconis]]
+[[lb:Grumium (Stär)]]
+[[nl:Grumium]]
+[[pt:Xi Draconis]]
+[[sk:Grumium]]
+[[zh:天棓一]]

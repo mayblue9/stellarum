@@ -1,0 +1,181 @@
+[[File:Alamach tel140mm.png|thumb|<center>Almach </center>]]
+'''Gamma Andromedae''' (Gamma And, γ And, γ Andromedae) is the [[list of stars in Andromeda|third brightest star]] in the [[constellation]] of [[Andromeda (constellation)|Andromeda]].  It is also known by the traditional name '''Almach''' (also spelt as ''Almaach'', ''Almaack'', ''Almak'', ''Almaak'', or ''Alamak'').
+
+In 1778, [[Johann Tobias Mayer]] discovered that γ Andromedae was a [[double star]].  When examined in a small [[telescope]], it appears to be a bright, golden yellow star ('''γ<sup>1</sup> Andromedae''') next to a dimmer, indigo blue star ('''γ<sup>2</sup> Andromedae'''), separated by approximately 10 [[arcsecond]]s.  It is considered by stargazers to be a beautiful double star with a striking contrast of color.<ref name=burnham>pp. 113–114, vol. 1, ''Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System'', Robert Burnham, New York: Courier Dover Publications, 1978, ISBN 0-486-23567-X.</ref><ref name=sb0 /><ref name=sb1 />  It was later discovered that γ<sup>2</sup> Andromedae is itself a triple [[star system]].  What appears as a single star to the naked eye is thus a quadruple star system, approximately 350 [[light-years]] from the Earth.<ref name=burnham /><ref>[http://vizier.cfa.harvard.edu/viz-bin/VizieR-5?-out.add=.&-source=J/A%2bAS/124/75/catalog&recno=53 01578+4151], database entry, MSC - a catalogue of physical multiple stars, A. A. Tokovinin, [[Centre de Données astronomiques de Strasbourg|CDS]] database ID [http://cdsarc.u-strasbg.fr/viz-bin/Cat?J/A%2bAS/124/75 J/A+AS/124/75].</ref>
+
+==γ<sup>1</sup> Andromedae==
+{{Starbox begin
+| name = [[Bayer designation|γ<sup>1</sup>&nbsp;Andromedae]]<br />(γ Andromedae A)}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Andromeda (constellation)|Andromeda]]
+| ra = {{RA|02|03|53.9531}}<ref name=sb0>{{SIMBAD link|gam01+and|NAME ALMACH -- Star in double system}}, database entry, [[SIMBAD]].  Accessed on line August 19, 2008.</ref>
+| dec = {{DEC|+42|19|47.009}}<ref name=sb0 />
+| appmag_v=2.26<ref name=sb0 />
+}}
+{{Starbox character
+| class = K3IIb<ref name=bsc1 />
+| u-b = +1.58<ref name=bsc1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=603 HR 603], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line August 19, 2008.</ref>
+| b-v = +1.37<ref name=bsc1 />
+| r-i = +0.68<ref name=bsc1 />
+}}
+{{Starbox astrometry
+| radial_v = −11.7&nbsp;±&nbsp;0.9<ref name=sb0 />
+| prop_mo_ra = 43.08<ref name=sb0 />
+| prop_mo_dec = −50.85<ref name=sb0 />
+| parallax = 9.19
+| p_error = 0.73
+| parallax_footnote = <ref name=sb0 />
+| absmag_v = −2.9<ref name=amp>From apparent magnitude and parallax.</ref>
+}}
+{{Starbox detail
+| rotational_velocity = <&nbsp;17<ref name=bsc1 />
+| radius = 80<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/almach.html Almach], Jim Kaler, ''Stars''.  Accessed on line August 19, 2008.</ref>
+| luminosity = 2,000<ref name=kaler />
+| temperature = 4,500<ref name=kaler />
+}}
+{{Starbox catalog
+| names=Almach, Almaach, Almak, Almaak, Alamak, γ<sup>1</sup>&nbsp;And, Gamma<sup>1</sup>&nbsp;Andromedae, Gamma<sup>1</sup>&nbsp;And, [[Bayer designation|γ&nbsp;Andromedae&nbsp;A]], γ&nbsp;And&nbsp;A, Gamma&nbsp;Andromedae&nbsp;A, Gamma&nbsp;And&nbsp;A, [[Flamsteed designation|57&nbsp;Andromedae&nbsp;A]], 57&nbsp;And&nbsp;A, [[Double star designation|STF 205A]], [[Aitken Double Star Catalogue|ADS]]&nbsp;1630&nbsp;A, [[Durchmusterung|BD]]+41&nbsp;395, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J02039+4220A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;73, [[Boss General Catalogue|GC]]&nbsp;2477, [[Henry Draper Catalogue|HD]]&nbsp;12533, [[Hipparcos Catalogue|HIP]]&nbsp;9640, [[Bright Star Catalogue|HR]]&nbsp;603, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;01578+4151&nbsp;A, [[PPM Star Catalogue|PPM]]&nbsp;44721, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;37734, [[Washington Double Star Catalog|WDS]]&nbsp;02039+4220A.<ref name=sb0 /><ref name=bsc1 /><ref name=wds0 />
+}}
+{{Starbox reference
+| Simbad=gam01+and}}
+{{Starbox end}}
+
+γ<sup>1</sup>&nbsp;Andromedae is a  [[bright giant]] [[star]] with a [[spectral classification]] of  K3IIb.  It has an [[apparent visual magnitude]] of approximately 2.26.<ref name=bsc1 />
+
+{{-}}
+
+==γ<sup>2</sup> Andromedae==
+{{Starbox begin
+| name = [[Bayer designation|γ<sup>2</sup> Andromedae]]<br />(γ Andromedae BC)}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Andromeda (constellation)|Andromeda]]
+| ra = {{RA|02|03|54.720}} (B)<ref name=c2hip>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=I/239/h_dm_com&recno=1972 Component 2, HIP 9640], database entry, [[Hipparcos catalogue]], [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?I/239 I/239].</ref>
+| dec = {{DEC|+42|19|51.41}} (B)<ref name=c2hip />
+| appmag_v=4.84 (BC)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>(combined)</small><br />
+5.5 (B)<br />
+6.3 (C)<ref name=bsc2 />
+}}
+{{Starbox character
+| class = B9.5V/B9.5V (B)<br />
+&nbsp;&nbsp;&nbsp;<small>(spectroscopic binary)</small><ref name=specbin /><br />
+A0V (C)<ref name=wds>Entry 02039+4220, discoverer code STT&nbsp;&nbsp;38BC, [http://ad.usno.navy.mil/wds/wdsnewweb1.txt The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line August 19, 2008.</ref>
+| u-b = −0.12<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=604 HR 604], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line August 19, 2008.</ref>
+| b-v = +0.03<ref name=bsc2 />
+}}
+{{Starbox astrometry
+| radial_v = −14&nbsp;±&nbsp;5 (B)<ref name=sb1 />
+| prop_mo_ra = 37 (B)<ref name=sb1 />
+| prop_mo_dec = −57 (B)<ref name=sb1 />
+| parallax = 9.19
+| p_error = 0.73
+| parallax_footnote = <ref name=c2hip />
+| absmag_v = −0.3 (BC)<ref name=amp />
+}}
+{{Starbox visbin
+| reference = <ref name=orb>Entry 02039+4220, [http://ad.usno.navy.mil/wds/orb6/orb6frames.html Sixth Catalog of Orbits of Visual Binary Stars], William I. Hartkopf & Brian D. Mason, [[United States Naval Observatory]].  Accessed on line August 21, 2007.</ref>
+| period = 63.67 ± 1.0
+| axis = 0.302 ± 0.001
+| eccentricity = 0.927 ± 0.03
+| inclination = 109.8 ± 5.0  
+| node = 109.6 ± 5.0
+| periastron = B2015.5 ± 1.5
+| periarg = 183.4 ± 15.0
+}}
+{{Starbox relpos
+| epoch = 2004
+| primary = γ<sup>1</sup>&nbsp;And
+| angdistsec = 9.6
+| angdistref = <ref name=wds0 />
+| posang = 63
+| posangref = <ref name=wds0 />
+}}
+{{Starbox catalog
+| names=γ<sup>2</sup>&nbsp;And, Gamma<sup>2</sup>&nbsp;Andromedae, Gamma<sup>2</sup>&nbsp;And,  γ&nbsp;Andromedae&nbsp;BC, γ&nbsp;And&nbsp;BC, Gamma&nbsp;Andromedae&nbsp;BC, Gamma&nbsp;And&nbsp;BC, [[Flamsteed designation|57&nbsp;Andromedae&nbsp;BC]], 57&nbsp;And&nbsp;BC, [[Henry Draper Catalogue|HD]]&nbsp;12534, [[Hipparcos Catalogue|HIP]]&nbsp;9640, [[Bright Star Catalogue|HR]]&nbsp;604, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;37735, [[Washington Double Star Catalog|WDS]]&nbsp;02039+4220BC.<ref name=sb1>{{SIMBAD link|gam02+and|HD 12534 -- Spectroscopic binary}}, database entry, [[SIMBAD]].  Accessed on line August 19, 2008.</ref><ref name=wds0>Entry 02039+4220, discoverer code STF 205, components A-BC, [http://ad.usno.navy.mil/wds/wdsnewweb1.txt The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line August 27, 2008.</ref><ref>[http://simbad.u-strasbg.fr/simbad/sim-id?Ident=gam+and+c BD+41 395C  -- Star in double system], database entry, [[SIMBAD]].  Accessed on line August 21, 2008.</ref>
+}}
+{{Starbox reference
+| Simbad=gam02+and}}
+{{Starbox end}}
+
+γ<sup>2</sup> Andromedae, with an overall [[apparent visual magnitude]] of 4.84,<ref name=bsc2 /> is 9.6 [[minute of arc|arcseconds]] away from γ<sup>1</sup> Andromedae at a [[position angle]] of 63 degrees.<ref name=wds0 />  In October 1842, [[Wilhelm Struve]] found that γ<sup>2</sup> Andromedae was itself a double star whose components were separated by less than an [[arcsecond]].<ref name=allen>p. 36–37, [http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], Richard Hinckley Allen, New York: G. E. Stechert, 1899.</ref>  The components are an object of apparent visual magnitude 5.5, γ Andromedae B, and a type-A [[main sequence star]] with apparent visual magnitude 6.3, γ Andromedae C.<ref name=bsc2 />  They have an orbital period of about 64 years.<ref name=orb />  Spectrograms taken from 1957 to 1959 revealed that γ Andromedae B was itself a [[spectroscopic binary]], composed of two type-B [[main sequence star]]s orbiting each other with a period of 2.67 days.<ref name=specbin>A Preliminary Study of the Spectroscopic Binary Gamma Andromedae B, L. A. Maestre and J. A. Wright, ''Astrophysical Journal'' '''131''' (January 1960), pp. 119–121, {{Bibcode|1960ApJ...131..119M}}.</ref>
+
+==Naming, etyomology and culture signification==
+*The name '''Almach''' is derived from the [[Arabic language|Arabic]] '''العناق الأرض''' ''al-‘anāq al-’arđ̧''<ref name=allen /> "the [[caracal]]" (desert lynx).<ref>p. 23, ''Star tales'', Ian Ridpath, James Clarke & Co., 1989, ISBN 0-7188-2695-7.</ref>
+*Another term for this star used by medieval astronomers writing in Arabic was  '''آلرخل المسلسلة''' ''Al Rijl al Musalsalah'' "the Woman's Foot"<ref name=allen />
+*In [[Chinese language|Chinese]], {{lang|zh|天大將軍}} ({{lang|zh-Latn|Tiān Dà Jiāng Jūn}}), meaning ''[[Bond (Chinese constellation)|Heaven's Great General]]'', refers to an asterism consisting of γ Andromedae, [[Phi Persei|φ Persei]], [[51 Andromedae]], [[49 Andromedae]], [[Chi Andromedae|χ Andromedae]], [[Upsilon Andromedae|υ Andromedae]], [[Tau Andromedae|τ Andromedae]], [[56 Andromedae]], [[Beta Trianguli|β Trianguli]], [[Gamma Trianguli|γ Trianguli]] and [[Delta Trianguli|δ Trianguli]]. Consequently, γ Andromedae itself is known as {{lang|zh|天大將軍一}} ({{lang|zh-Latn|Tiān Dà Jiāng Jūn yī}}, {{lang-en|the First Star of Heaven's Great General}}.).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060710.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 10 日]</ref>
+*In the catalogue of stars in the ''Calendarium'' of [[Al Achsasi al Mouakket]], this star was designated '''جمس ألنعامة''' '''Khamis al Naamat''', which was translated into [[Latin]] as '''Quinta Struthionum''', meaning ''the fifth ostrich''.<ref>{{cite journal
+ | last=Knobel | first=E. B.
+ | title=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ | journal=Monthly Notices of the Royal Astronomical Society
+ | volume=55 | page=429 | month=June | year=1895
+ | bibcode=1895MNRAS..55..429K }}</ref><ref>[[Eta Ceti|η Cet]] (Deneb Algenubi),  [[Theta Ceti|θ Cet]] (Deneb Algenubi), [[Tau Ceti|τ Cet]] (Durre Menthor), [[Zeta Ceti|ζ Cet]] (Baten Kaitos), and [[Upsilon Ceti|υ Cet]], were '''Al Naʽāmāt''', the Hen Ostriches See [http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html Star Name - R.H.Allen p. 160]. In Al Achsasi Al Mouakket catalogue, [[Eta Ceti|η Cet]] as '''Aoul al Naamat''' or '''Prima Struthionum''' (the first ostrich), [[Theta Ceti|θ Cet]] as '''Thanih al Naamat''' or '''Secunda Struthionum'''  (the second ostrich), [[Tau Ceti|τ Cet]] as '''Thalath al Naamat''' or '''Tertia Struthionum'''  (the third ostrich), and [[Zeta Ceti|ζ Cet]] as '''Rabah al Naamat''' or '''Quarta Struthionum'''  (the fourth ostrich). [[Upsilon Ceti|υ Cet]] should be '''Khamis al Naamat''' or '''Quinta Struthionum''' (the fifth ostrich) consistently, but Al Achsasi Al Mouakket designated the title ''the fifth ostrich'' to γ Gam with uncleared consideration.</ref>
+*In the [[Babylonian star catalogues]], γ Andromedae together with [[Triangulum]] formed the constellation known as  <sup>MUL</sup>APIN ({{script|Xsux|𒀯𒀳}}) "The Plough".<ref>Origins of the ancient constellations: I. The Mesopotamian traditions, J. H. Rogers, ''Journal of the British Astronomical Association'' '''108''', #1 (February 1998), pp. 9–28, {{Bibcode|1998JBAA..108....9R}}.</ref>
+*Astrologically this star was considered "honourable and eminent." <ref name=Olcott>p.27, Star Lore of All Ages, William Tyler Olcott, G.P. Putnam's Sons, New York and London, The Knickerbocker Press, 1911</ref>
+
+==Location==
+
+The star's location is shown in the following chart of the Andromeda constellation:
+
+[[File:Andromeda constellation map (1).png|thumb|none|250px|Andromeda Constellation]]
+
+==Almach as the name==
+{{USS|Almaack|AKA-10}} is once of United States navy ship.
+
+==See also==
+* [[Stars and planetary systems in fiction#Gamma Andromedae|Gamma Andromedae in fiction]]
+* [[NGC 752]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.daviddarling.info/encyclopedia/A/Almaak.html Almaak (Gamma Andromedae)] at ''The Internet Encyclopedia of Science''
+* [http://aladin.u-strasbg.fr/AladinPreview?02%2003%2053.95%20%2B42%2019%2047.0&ident=NAME%20ALMACH Image ALMACH]
+* {{WikiSky}}
+
+{{Sky|02|03|53.9531|+|42|19|47.009|350}}
+
+{{Stars of Andromeda}}
+
+[[Category:Stars with proper names]]
+[[Category:Andromeda (constellation)]]
+[[Category:Bayer objects|Andromedae, Gamma]]
+[[Category:Flamsteed objects|Andromedae, 57]]
+[[Category:B-type main sequence stars]]
+[[Category:Henry Draper Catalogue objects|012533 4]]
+[[Category:Hipparcos objects|009640]]
+[[Category:Multiple star systems|4]]
+[[Category:K-type bright giants]]
+[[Category:Spectroscopic binaries]]
+[[Category:A-type main sequence stars]]
+[[Category:Multiple stars|5]]  <!-- Includes component D -->
+[[Category:Durchmusterung objects|BD+41 395]]
+
+[[ar:عناق الأرض (نجم)]]
+[[ca:Gamma Andromedae]]
+[[cs:Alamak]]
+[[de:Alamak]]
+[[el:Αλαμάκ]]
+[[es:Alamak]]
+[[eu:Gamma Andromedae]]
+[[fa:عناق‌الارض]]
+[[fr:Gamma Andromedae]]
+[[ko:알마크]]
+[[hi:गामा ऐन्ड्रौमिडे तारा]]
+[[id:Gamma Andromedae]]
+[[it:Gamma Andromedae]]
+[[la:Gamma Andromedae]]
+[[lb:Alamak]]
+[[mk:Алмак]]
+[[nl:Alamak]]
+[[ja:アルマク]]
+[[pl:Gamma Andromedae]]
+[[pt:Gamma1 Andromedae]]
+[[ru:Аламак]]
+[[sk:Alamak]]
+[[fi:Gamma Andromedae]]
+[[tt:Әлганак]]
+[[zh:天大将军一]]

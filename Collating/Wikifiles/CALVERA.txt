@@ -1,0 +1,39 @@
+{{Starbox short |
+| name=Calvera
+| epoch=[[J2000.0]]
+| constell=[[Ursa Minor (constellation)|Ursa Minor]]
+| ra=14<sup>h</sup> 12<sup>m</sup> 56.0<sup>s</sup>
+| dec= +79° 22′ 04″
+| spectral=X
+| appmag_v=?
+| dist_ly=625 ± 375
+| dist_pc=190 ± 110
+| names=[[ROSAT|RX]] J1412.9+7922
+}}
+
+'''Calvera''' is the nickname of an [[Astronomical X-ray source|X-ray source]] known as '''1RXS J141256.0+792204'''
+in the ''[[ROSAT]] All-Sky Survey Bright Source Catalog'' (RASS/BSC).  It lies in the constellation [[Ursa Minor]] and is identified as an isolated [[neutron star]].
+
+
+==References==
+* Rutledge, Robert; Fox, Derek; Shevchuk, Andrew.(2008) "[http://adsabs.harvard.edu/abs/2007arXiv0705.1011R Discovery of an Isolated Compact Object at High Galactic Latitude]", ''The Astrophysical Journal'', American Astronomical Society, Vol. 672, Issue 2, pp. 1137-1143. Retrieved on 2009-11-14.
+* [[Pennsylvania State University]]. [http://www.spaceref.com/news/viewpr.html?pid=23305 Possible closest neutron star to Earth found]. 20 August 2007. Retrieved on 2007-08-21.
+* [[bbc.co.uk]]. [http://news.bbc.co.uk/2/hi/science/nature/6955769.stm Rare dead star found near Earth]. 20 August 2007. Retrieved on 2007-08-21.
+* [[Space.com]]. [http://www.space.com/scienceastronomy/070820_closest_neutron_star.html Astronomers Find Closest Neutron Star]. 20 August 2007. Retrieved on 2007-08-21.
+
+==External links==
+* [[SIMBAD]] query result: [http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=1RXS+J141256.0%2B792204 RX J1412.9+7922 -- X-ray source]
+* Universe Today, [http://www.universetoday.com/2007/08/20/closest-neutron-star-discovered/ Closest Neutron Star Discovered] 
+{{Stars of Ursa Minor}}
+[[Category:Neutron stars]]
+[[Category:Ursa Minor (constellation)]]
+[[Category:ROSAT objects]]
+
+{{star-stub}}
+
+[[es:Calvera (estrella)]]
+[[fa:کالورا (منبع پرتو ایکس)]]
+[[hu:Calvera (neutroncsillag)]]
+[[pl:Calvera (gwiazda)]]
+[[pt:Calvera (estrela)]]
+[[sv:Calvera]]

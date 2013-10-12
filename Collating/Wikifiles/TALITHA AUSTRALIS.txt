@@ -1,0 +1,62 @@
+{{Starbox short
+| name=Kappa Ursae Majoris
+{{Starbox image
+| image=<div style="position: relative">[[File:Ursa Major IAU.svg|250px]]
+   <div style="position: absolute; left:70%; top:42%">[[File:Cercle rouge 100%.svg|12px]]</div>
+   </div>
+| caption=Location of κ Ursae Majoris (circled)
+}}
+| epoch=[[J2000.0]]
+| constell=[[Ursa Major]]
+| ra={{RA|09|03|37.52762}}<ref name=aaa474_2_653/>
+| dec={{DEC|+47|09|23.4890}}<ref name=aaa474_2_653/>
+| spectral={{nowrap|A0IV-V + A0V}}<ref name=SIMBAD/>
+| appmag_v=+3.60<ref name=clpl4/>
+| dist_ly=358 ± 20
+| dist_pc=109 ± 6<ref name=aaa474_2_653/>
+| names=Talitha, Talitha Australis, Alphikra Australis, κ&nbsp;Ursae Majoris, κ&nbsp;UMa, Kappa&nbsp;UMa, 12&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+47&nbsp;1633, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J09036+4709AB, [[Fifth Fundamental Catalogue|FK5]]&nbsp;341, [[Boss General Catalogue|GC]]&nbsp;12503, [[Henry Draper Catalogue|HD]]&nbsp;77327, [[Hipparcos catalogue|HIP]]&nbsp;44471, [[Bright Star Catalogue|HR]]&nbsp;3594, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;08568+4733, [[PPM Star Catalogue|PPM]]&nbsp;50987, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;42661, [[Washington Double Star Catalog|WDS]]&nbsp;J09036+4709AB.<ref name=SIMBAD/>
+}}
+
+'''Kappa Ursae Majoris''' ('''Kappa&nbsp;UMa''', '''κ&nbsp;Ursae Majoris''', '''κ&nbsp;UMa''') is a [[binary star]] in the [[constellation]] [[Ursa Major]]. It is approximately 358 [[light years]] from [[Earth]] and has the traditional names '''Talitha Australis''', '''Al Kaprah''', and '''Alphikra Australis'''.
+
+Both components of the binary star are a white [[stellar classification|A-type]] [[main sequence|main sequence dwarfs]].  They have [[apparent magnitude]]s of +4.2 and +4.4,{{citation needed|date=March 2012}} which gives the system a combined [[apparent magnitude]] of +3.60.<ref name=clpl4/> The orbital period of the binary is 35.6 years (13,007.2 days), and the two stars are separated by 0.18 [[arcsecond]]s.<ref name=aj140_6_1623/>
+
+==Name and etymology==
+*The traditional name ''Talitha''' (share with [[Iota Ursae Majoris|ι UMa]]) comes from the Arabic phrase  {{transl|ar|''Al Fiḳrah al Thalitha''}} "the third spring, or leap, of the ghazal".<ref name=rhallen1899>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen :Star Names — Their Lore and Meaning - Ursa Major, the Greater Bear]</ref> The term ''Australis'' meaning "the south side" in [[Latin]].
+*In [[Chinese language|Chinese]], {{lang|zh|三台}} ({{lang|zh-Latn|Sān Tái}}), meaning ''[[Purple Forbidden enclosure|Three Steps]]'', refers to an asterism consisting of κ Ursae Majoris, [[Iota Ursae Majoris|ι Ursae Majoris]], [[Lambda Ursae Majoris|λ Ursae Majoris]], [[Mu Ursae Majoris|μ Ursae Majoris]], [[Nu Ursae Majoris|ν Ursae Majoris]] and [[Xi Ursae Majoris|ξ Ursae Majoris]]. Consequently, κ Ursae Majoris itself is known as {{lang|zh|三台二}} ({{lang|zh-Latn|Sān Tái èr}}, {{lang-en|the Second Star of Three Steps}}) and {{lang|zh|上台二}} ({{lang|zh-Latn|Shàng Tái èr}}, {{lang-en|Star of Second Upper Step}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060621.html (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 21 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=clpl4>{{cite journal | display-authors=1 | last1=Johnson | first1=H. L. | last2=Iriarte | first2=B. | last3=Mitchell | first3=R. I. | last4=Wisniewskj | first4=W. Z. | title=UBVRIJKL photometry of the bright stars | journal=Communications of the Lunar and Planetary Laboratory | volume=4 | issue=99 | year=1966 | bibcode=1966CoLPL...4...99J }}</ref>
+
+<ref name=SIMBAD>{{citation | title=CCDM J09036+4709AB -- Double or multiple star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Kappa+Ursae+Majoris | accessdate=2012-03-26 }}</ref>
+
+<ref name=aj140_6_1623>{{citation | display-authors=1 | last1=Muterspaugh | first1=Matthew W. | last2=Hartkopf | first2=William I. | last3=Lane | first3=Benjamin F. | last4=O'Connell | first4=J. | last5=Williamson | first5=M. | last6=Kulkarni | first6=S. R. | last7=Konacki | first7=Maciej | last8=Burke | first8=Bernard F. | last9=Colavita | first9=M. M. | last10=Shao | first10=M. | last11=Wiktorowicz | first11=Sloane J. | title=The Phases Differential Astrometry Data Archive. II. Updated Binary Star Orbits and a Long Period Eclipsing Binary | journal=The Astronomical Journal | volume=140 | issue=6 | pages=1623–1630 | month=December | year=2010 | doi=10.1088/0004-6256/140/6/1623 | bibcode=2010AJ....140.1623M |arxiv = 1010.4043 }}</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Kappa]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Binary stars]]
+[[Category:A-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{Star-system-stub}}
+
+[[ar:القفزة الثالث الجنوبي]]
+[[de:Kappa Ursae Majoris]]
+[[es:Talitha Australis]]
+[[fa:ثالثه جنوبی]]
+[[fr:Kappa Ursae Majoris]]
+[[it:Kappa Ursae Majoris]]
+[[pl:Kappa Ursae Majoris]]
+[[pt:Kappa Ursae Majoris]]
+[[ru:Талита Южная]]
+[[sk:Talitha Australis]]
+[[zh:大熊座κ]]

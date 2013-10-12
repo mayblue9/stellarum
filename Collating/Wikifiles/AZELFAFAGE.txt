@@ -1,0 +1,30 @@
+{{DISPLAYTITLE:Pi<sup>1</sup> Cygni}}
+'''Pi1 Cygni''' (π<sup>1</sup> Cyg, π<sup>1</sup> Cygni) is the [[Bayer designation]] for a [[star]] in the [[constellation]] [[Cygnus (constellation)|Cygnus]].  It has the traditional name '''Azelfafage'''.
+
+In [[Chinese language|Chinese]], {{lang|zh|螣蛇}} ({{lang|zh-Latn|Téng Shé}}), meaning ''[[Flying serpent (asterism)|Flying Serpent]]'', refers to an asterism consisting of π<sup>1</sup> Cygni, [[Alpha Lacertae|α Lacertae]], [[4 Lacertae]], [[Pi2 Cygni|π<sup>2</sup> Cygni]], [[HD 206267]], [[Epsilon Cephei|ε Cephei]], [[Beta Lacertae|β Lacertae]], [[Sigma Cassiopeiae|σ Cassiopeiae]], [[Rho Cassiopeiae|ρ Cassiopeiae]], [[Tau Cassiopeiae|τ Cassiopeiae]], [[AR Cassiopeiae]], [[9 Lacertae]], [[3 Andromedae]], [[7 Andromedae]], [[8 Andromedae]], [[Lambda Andromedae|λ Andromedae]], [[Kappa Andromedae|κ Andromedae]], [[Psi Andromedae|ψ Andromedae]] and [[Iota Andromedae|ι Andromedae]]. Consequently, π<sup>1</sup> Cygni itself is known as {{lang|zh|螣蛇四}} ({{lang|zh-Latn|Téng Shé sì}}, {{lang-en|the Fourth Star of Flying Serpent}})<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060707.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 7 日]</ref>
+
+==Structure==
+
+Pi<sup>1</sup> Cygni has [[apparent magnitude]] +4.67 and belongs to the [[stellar classification|spectral class]] B3IV.  It is approximately 1680 [[light year]]s from [[Earth]].
+
+Coordinates (equinox [[J2000.0]]):
+* [[Right ascension]]: 21h 42m 5.7s
+* [[Declination]]: +51°11'23.0"
+
+==Etymology==
+The name '''Azelfafage''' was from [[Arabian]] '''ألطلف ألفرس''' ''al thīlf al faras'' meaning "the horse track" or (probably) '''ألعزل ألدجاجة''' ''al ʽazal al-dajāja<sup>h</sup>'' meaning "the tail of hen".<ref>p. 197, [http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and Their Meanings''], Richard Hinckley Allen, New York, G. E. Stechert, 1899.</ref>
+
+==References==
+{{reflist}}
+
+{{Stars of Cygnus}}
+
+[[Category:Cygnus (constellation)]]
+[[Category:Bayer objects|Cygni, Pi1]]
+[[Category:Stars with proper names]]
+
+[[de:Azelfafage]]
+[[es:Pi1 Cygni]]
+[[id:Pi1 Cygni]]
+[[nl:Azelfafage]]
+[[sk:Azelfafage]]

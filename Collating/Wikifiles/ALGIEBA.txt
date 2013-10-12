@@ -1,0 +1,165 @@
+{{Starbox begin
+ | name=Gamma Leonis
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Leo IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Leo constellation and its surroundings]]
+     <div style="position: absolute; left: 56.5%; top: 30.9%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption = Algieba (circled) is the γ star in the lion's mane
+}}
+{{Starbox observe
+ | epoch        = J2000
+ | ra           = {{RA|10|19|58.35056}}<ref name=aaa474_2_653/>
+ | dec          = {{DEC|+19|50|29.3468}}<ref name=aaa474_2_653/>
+ | appmag_v     = 1.98 (2.28/3.51)
+ | constell     = [[Leo (constellation)|Leo]]
+}}
+{{Starbox character
+ | class        = K0 IIIb<ref name="Inwoo Han" /> + G7 IIICN...
+ | b-v          = 1.14
+ | u-b          = 1.00
+ | variable     = 
+}}
+{{Starbox astrometry
+ | radial_v     = {{nowrap|–36.24 ± 0.18}}<ref name=aaa430_165/>
+ | prop_mo_ra   = +304.30<ref name=aaa474_2_653/>
+ | prop_mo_dec  = –154.28<ref name=aaa474_2_653/>
+ | parallax     = 25.07
+ | p_error      = 0.52
+ | parallax_footnote = <ref name=aaa474_2_653/>
+ | absmag_v     = –0.27/+0.98<ref name=ajss74_1075/>
+}}
+{{Starbox visbin
+ | reference= <ref name="Inwoo Han"/><ref name="Mason"/>  
+ | period       = 510.3 
+ | axis         = 4.24 
+ | eccentricity = 0.845 
+ | inclination  = 76.0
+ | node         = 143.4
+ | periastron   = 1671.3
+ | pericenter   = 117.6
+}}
+{{Starbox detail
+ | component1   = γ Leo A
+ | mass         = 1.23<ref name="Inwoo Han"/>
+ | radius       = 31.88<ref name="Inwoo Han"/>
+ | luminosity   = 320<ref name="Inwoo Han"/>
+ | gravity      = 2.35<ref name=ajss74_1075/>
+ | temperature  = 4,470<ref name=ajss74_1075/>
+ | metal_fe     = {{nowrap|–0.49 ± 0.12}}<ref name=ajss74_1075/>
+ | rotational_velocity =
+ | age_myr      = 
+ | component2   = γ Leo B
+ | radius2      = 10
+ | luminosity2  = 40
+ | gravity2     = 2.98<ref name=ajss74_1075/>
+ | temperature2 = 4,980<ref name=ajss74_1075/>
+ | metal2_fe    = {{nowrap|–0.52 ± 0.11}}<ref name=ajss74_1075/>
+}}<!--
+-->{{Starbox catalog
+ | names = Algeiba, 41&nbsp;Leo, [[Bonner Durchmusterung|BD]]&nbsp;+20°2467, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;2423.00, [[Hipparcos catalogue|HIP]]&nbsp;50583, [[Luyten Two-Tenths catalogue|LTT]]&nbsp;12764/12765, [[Washington Double Star Catalog|WDS]]&nbsp;10200+1950.
+ | component1 = γ Leo A
+ | names1     = [[Henry Draper catalogue|HD]]&nbsp;89484, [[Bright Star Catalogue|HR]]&nbsp;4057, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;81298
+ | component2 = γ Leo B
+ | names2     = HD&nbsp;89485, HR&nbsp;4058, SAO&nbsp;81299
+}}
+{{Starbox reference
+ | Simbad=41+Leo
+ | NSTED=41+Leo
+ | EPE=Gamma+1+Leo
+}}
+{{Starbox end}}
+
+'''Gamma Leonis''' (γ Leo, γ Leonis) is a [[binary star system]] in the [[constellation]] [[Leo (constellation)|Leo]].  It has the traditional name '''Algieba''' or '''Al Gieba'''.
+
+==Name origin and history==
+
+The name ''Algieba'' originates from the [[Arabic language|Arabic]] '''الجبهة''' ''Al-Jabhah'', meaning ''the forehead''. Despite this meaning, the star actually appears in the mane of Leo. The star's [[Latin]] name is ''Juba''.
+
+*Algieba (gamma), Adhafera ([[Zeta Leonis]]), and Al Jabbah ([[Eta Leonis]]) have collectively been called the ''Sickle''.
+*Algieba (gamma), along with Adhafera (zeta), [[Regulus]] (Alpha) and eta (Al Jabbah) are the 8th manzil, Al Jabhah, the "Forehead,"  promoting love, [[wikt:benevolence|benevolence]], and help against enemies.
+*The Lion is associated with the [[Hebrew alphabet|Hebrew]] letter [[Kaph]] and the 11th [[Tarot]] Trump "Strength".
+
+It is known as 軒轅十二 (the Twelfth Star of Xuanyuan) in Chinese. Xuanyuan is the name of [[Yellow Emperor]].
+
+==System components==
+
+Algieba, as a binary system, consists of two stars. The brighter component has an [[apparent magnitude]] of +2.28 and is of [[stellar classification|spectral class]] K1-IIIbCN-0.5. The giant K star has a surface temperature of 4,470 [[Kelvin|K]], a [[luminosity]] 180 times that of [[Earth]]'s [[Sun]], and a diameter 23 times that of the Sun. The companion star has an apparent magnitude of +3.51 and belongs to the spectral class G7IIICN-I. The giant G star has a temperature of 4,980 K, a luminosity of 50 times that of the Sun, and a diameter 10 times that of the Sun. With angular separation of just over 4", the two stars are at least 170 [[Astronomical unit|AU]] apart (four times the distance between [[Pluto]] and  the Sun), and have an orbital period of over 500 years.<ref name="Mason">{{cite journal | url=http://www.iop.org/EJ/article/1538-3881/132/5/2219/205407.html | author=Mason ''et al.'' | title=Speckle Interferometry at the US Naval Observatory. XII | journal=The [[astronomical Journal]] | volume=132 | issue=5 | pages=2219–2230 | year=2006 | bibcode=2006AJ....132.2219M | doi=10.1086/508231 | last2=Hartkopf | first2=William I. | last3=Wycoff | first3=Gary L. | last4=Holdenried | first4=Ellis R.}}</ref> Because the orbital period is so long, only a fraction of the full path has been observed since discovery.
+
+Both stars are almost certainly true giants, meaning that they have stopped [[Nuclear fusion|fusing]] [[hydrogen]] to [[helium]] in their cores and have expanded to great proportions. Although there has been too little observation of their [[orbit]] to calculate their masses, comparison with evolutionary calculations suggests that each are about double the mass of the Sun. Originating from the same interstellar cloud some two billion years ago, the stars have [[iron]] contents about a third that of the Sun. It is hard to tell how far along they might be in their life cycle. They both may be fusing helium in their cores, or they could be giants in development, with quiet helium cores that are waiting to fire up. The chemical composition at the surface, which is influenced by age, suggests the former.
+
+==Sky appearance==
+
+The bright binary system in Leo with orange-red and yellow or greenish-yellow components is visible through a modest telescope under good atmospheric conditions. To the naked eye, the Algieba system shines at mid-second magnitude, but a telescope easily splits the pair.
+
+==Planetary system==
+
+[[File:Gamma1 Leonis b.png|thumb|left|200px|Artistic rendering of Gamma-1 Leonis b]] On November 6, 2009, the discovery of a planetary companion around primary star Gamma-1 Leonis was announced.<ref name="Inwoo Han">{{cite journal|author=Han, Inwoo; Lee, B. C.; Kim, K. M.; Mkrtichian, D. E.; Hatzes, A. P.; Valyavin, G.| title=Detection of a Planetary Companion around the giant star γ-1 Leonis| year=2010|journal=Astronomy and Astrophysics|volume=509|bibcode=2010A&A...509A..24H|doi=10.1051/0004-6361/200912536|pages=A24|arxiv = 0911.0968 }}</ref> The [[radial velocity]] measurements suggest two additional periodicities of 8.5 and 1340 days. The former is likely due to stellar pulsation, whereas the latter could be indicative of the presence of an additional planetary companion with 2.14 Jupiter masses, moderate eccentricity (e=0.13) and located at 2.6 Astronomical Units away from the giant star. Nevertheless the nature of such a signal is still unclear and further investigations are needed to confirm or rule out an additional substellar companion.
+
+{{OrbitboxPlanet begin}}
+{{OrbitboxPlanet
+| exoplanet = [[Gamma1 Leonis b|b]]
+| mass = ≥8.78
+| period = 429
+| semimajor = 1.19
+| eccentricity = 0.14
+}}
+{{OrbitboxPlanet hypothetical
+| exoplanet = [[Gamma1 Leonis c|c]]
+| mass = ≥2.14
+| period = 1340
+| semimajor = 2.6
+| eccentricity = 0.13
+}}
+{{Orbitbox end}}
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | title=Validation of the new Hipparcos reduction | last=van Leeuwen | first=F. | journal=Astronomy and Astrophysics | volume=474 | issue=2 | month=November | year=2007 | pages=653–664 | doi=10.1051/0004-6361:20078357 | bibcode=2007A&A...474..653V |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | pages=165–186 | month=January | year=2005 | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=ajss74_1075>{{citation | last1=McWilliam | first1=Andrew | title=High-resolution spectroscopic survey of 671 GK giants. I - Stellar atmosphere parameters and abundances | journal=Astrophysical Journal Supplement Series | volume=74 | pages=1075–1128 | month=December | year=1990 | doi=10.1086/191527 | bibcode=1990ApJS...74.1075M }}</ref>
+
+}}
+
+==External links==
+*Jim Kaler's Stars:[http://www.astro.uiuc.edu/~kaler/sow/algieba.html Algieba]
+*[http://www.daviddarling.info/encyclopedia/A/Algieba.html Astronomical Reference from Author David Darling]
+* {{cite arxiv|title=Detection of a Planetary Companion around the giant star Gamma1 Leo|eprint=0911.0968|author1=Inwoo Han|author2=Lee|author3=Kim|author4=Mkrtichian|author5=Hatzes|author6=Valyavin|class=astro-ph.SR|year=2009 }}
+
+{{Stars of Leo}}
+{{Sky|10|19|58.3|+|19|50|30|126}}
+
+[[Category:Leo (constellation)]]
+[[Category:Bayer objects|Leonis, Gamma]]
+[[Category:Flamsteed objects|Leonis, 41]]
+[[Category:Binary stars]]
+[[Category:Planetary systems]]
+[[Category:Stars with proper names]]
+[[Category:K-type giants]]
+[[Category:G-type giants]]
+
+[[ar:جبهة الأسد]]
+[[be:Альгіеба]]
+[[ca:Algieba]]
+[[de:Algieba]]
+[[es:Algieba]]
+[[fa:جبهه (ستاره)]]
+[[fr:Gamma Leonis]]
+[[ko:알기에바]]
+[[hi:गामा लियोनिस तारा]]
+[[id:Gamma Leonis]]
+[[it:Gamma Leonis]]
+[[he:אלגיבה]]
+[[lb:Algieba (Stär)]]
+[[nl:Algeiba]]
+[[ja:アルギエバ]]
+[[pl:Algieba]]
+[[pt:Gamma Leonis]]
+[[ru:Альгиеба]]
+[[sk:Algieba]]
+[[sv:Algieba]]
+[[zh:軒轅十二]]

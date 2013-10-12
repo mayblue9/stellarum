@@ -1,0 +1,124 @@
+'''Kappa Boötis''' (κ Boo, κ Boötis) is a [[double star]] in the [[constellation]] [[Boötes]]. It has the traditional name '''Asellus Tertius''' ([[Latin language|Latin]] for "third [[donkey]] colt")<ref>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Bootes*.html Star Name - R.H.Allen p.105]</ref> and the [[Flamsteed designation]] 17 Boötis. The components are separated by an [[angular distance]] of 13.4, viewable in a small telescope. Kappa Boötis is approximately 155 [[light year]]s from Earth.
+
+This star, along with the other ''Asselus'' ([[Theta Boötis|θ Boo]] and [[Iota Boötis|ι Boo]]) and [[Lambda Boötis|λ Boo]], were '''Al Aulād al Dhiʼbah''' ('''ألعولد ألذعب''' - ''al aulād al dhiʼb''), "the Whelps of the Hyenas".<ref>{{cite book
+ | last=Allen | first=R. H. | year=1963
+ | authorlink=Richard Hinckley Allen
+ | title=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Bootes*.html
+ | accessdate=2010-12-12 | edition=Reprint
+ | publisher=Dover Publications Inc
+ | location=New York | isbn=0-486-21079-0 | page=105}}</ref>
+
+In [[Chinese language|Chinese]], {{lang|zh|梗河}} ({{lang|zh-Latn|Tiān Qiāng}}), meaning ''[[Purple Forbidden enclosure|Celestial Spear]]'', refers to an asterism consisting of κ (actually κ<sup>2</sup>) Boötis, [[Iota Boötis|ι Boötis]] and [[Theta Boötis|θ Boötis]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, θ Boötis itself is known as {{lang|zh|天槍一}} ({{lang|zh-Latn|Tiān Qiāng yī}}, {{lang-en|the First Star of Celestial Spear}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==κ<sup>1</sup> Boötis==
+{{Starbox short
+| name=κ<sup>1</sup> Boötis
+| epoch=[[J2000.0]]
+| constell=[[Boötes]]
+| ra={{RA|14|13|27.7}}
+| dec={{DEC|+51|47|16}}
+| spectral=F1V
+| appmag_v=+4.53, +6.62
+| dist_ly=155 ± 6
+| dist_pc=48 ± 2
+| names=
+|  Simbad=HD+124674
+}}
+'''Kappa Boötis''' is a [[double star]] viewable in small telescope, with components separated by an [[angular distance]] of 13.4 [[arcsecond]]s.  The primary star, '''κ² Boötis''', has [[apparent magnitude]] +4.54 and [[stellar classification|spectral class]] A8IV.
+
+{{-}}
+
+==κ<sup>2</sup> Boötis==
+{{Starbox begin
+ | name=κ<sup>2</sup> Boötis
+}}
+{{Starbox observe
+ | epoch=J2000
+ | ra={{RA|14|13|29.0078}}
+ | dec={{DEC|+51|47|23.874}}
+ | appmag_v=+4.50 to +4.58
+ | constell=[[Boötes (constellation)|Boötes]]
+}}
+{{Starbox character
+ | class=A8IV<ref name=mnras309_1_221/>
+ | r-i = 0.12
+ | v-r = 
+ | b-v = 0.2
+ | u-b = 0.14
+ | variable=[[Delta Scuti variable]]
+}}
+{{Starbox astrometry
+ | radial_v=-17.4
+ | prop_mo_ra=61.39
+ | prop_mo_dec=-10.57
+ | parallax=21.03
+ | p_error=0.83
+ | absmag_v=
+}}
+{{Starbox detail
+ | mass=
+ | radius=
+ | luminosity=28<ref name=mnras309_1_221/>
+ | temperature=7,760<ref name=mnras309_1_221/>
+ | metal_fe=
+ | gravity=
+ | rotational_velocity=
+ | age=
+}}
+{{Starbox catalog
+ | names=Asellus Tertius, 17&nbsp;Boötis, [[Harvard Revised catalogue|HR]]&nbsp;5329+HR&nbsp;5328, [[Henry Draper Catalogue|HD]]&nbsp;124675+HD&nbsp;124674, [[Bonner Durchmusterung|BD]]+52°1782, [[Hipparcos catalogue|HIP]]&nbsp;69483+HIP&nbsp;69481, [[Smithsonian Astrophysical Observatory catalogue|SAO]]&nbsp;29046+SAO&nbsp;29045.
+}}
+{{Starbox reference
+ | Simbad=HD+124675
+ | ARICNS = 
+}}
+{{starbox sources|HIP|CCDM|HR}}
+{{Starbox end}}
+
+'''κ<sup>2</sup> Boötis''' is classified as a [[Delta Scuti variable|Delta Scuti type]] [[variable star]] with a period of 1.08 hours<ref name=mnras309_1_221/> Its brightness varies from magnitude +4.50 to +4.58.
+
+{{-}}
+
+==References==
+{{reflist|refs=
+
+<ref name=mnras309_1_221>{{citation | last1=Balona | first1=L. A. | last2=Dziembowski | first2=W. A. | title=Excitation and visibility of high-degree modes in stars | journal=Monthly Notices of the Royal Astronomical Society | volume=309 | issue=1 | pages=221–232 | month=October | year=1999 | doi=10.1046/j.1365-8711.1999.02821.x | bibcode=1999MNRAS.309..221B }}</ref>
+
+}}
+
+==External links==
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205329 HR 5329]
+* [http://webviz.u-strasbg.fr/viz-bin/VizieR-S?HR%205328 HR 5328]
+* [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?CCDM%20J14135%2b5147B CCDM J14135+5147]
+* [http://aladin.u-strasbg.fr/AladinPreview?-c=14+13+29.0078%2B51+47+23.874&ident=V*+kap+Boo&submit=Aladin+previewer Image Kappa Boötis]
+* [http://www.purplehell.com/riddletools/stars.htm The Constellations and Named Stars]
+{{reflist}}
+
+{{Stars of Boötes}}
+
+{{DEFAULTSORT:Kappa Bootis}}
+[[Category:Henry Draper Catalogue objects]]
+[[Category:Hipparcos objects]]
+[[Category:Bayer objects|Bootis, Kappa]]
+[[Category:Boötes (constellation)]]
+[[Category:Binary stars]]
+[[Category:Delta Scuti variables]]
+[[Category:Double stars]]
+[[Category:A-type subgiants]]
+[[Category:F-type main sequence stars]]
+[[Category:Stars with proper names]]
+
+
+{{star-system-stub}}
+
+[[de:Kappa Boötis]]
+[[es:Asellus Tertius]]
+[[fa:کاپا گاوران]]
+[[id:Kappa Boötis]]
+[[it:Kappa Boötis]]
+[[lb:Asellus Tertius (Stär)]]
+[[nl:Asellus Tertius]]
+[[pt:Kappa1 Boötis]]
+[[sk:Asellus Tertius]]
+[[zh:天槍一]]

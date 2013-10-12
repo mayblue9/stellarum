@@ -1,0 +1,20 @@
+{{DISPLAYTITLE:Omicron<sup>1</sup> Eridani}}
+'''Omicron<sup>1</sup> Eridani''' (also known as '''Beid''') is a [[star]] of visual magnitude 4.04.<ref name="kaler">[http://www.astro.uiuc.edu/~kaler/sow/beid.html Beid</ref> It lies approximately 125 [[light-year]]s from Earth in the [[Eridanus (constellation)|Eridanus]] constellation and is a [[stellar classification|class F]] (F2) giant with a surface temperature of 7100&nbsp;[[Kelvin|K]] and a luminosity 28 times that of the Sun.<ref name="kaler"/> In 1971 it was discovered to be a [[Delta Scuti variable]] star, with a variation of just a few hundredths of a magnitude with periods of 1.8 and 3.5 days.<ref name="kaler"/>
+
+==Chinese name==
+In [[Chinese language|Chinese]], {{lang|zh|九州殊口}} ({{lang|zh-Latn|Jiǔ Zhōu Shū Kǒu}}), meaning ''[[Net (Chinese constellation)|Interpreters of Nine Dialects]]'', refers to an asterism consisting of ο<sup>1</sup> Eridani, [[39 Eridani]], [[Xi Eridani|ξ Eridani]], [[Nu Eridani|ν Eridani]], [[56 Eridani]] and [[55 Eridani|55 Eri]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, ο<sup>1</sup> Eridani itself is known as {{lang|zh|九州殊口二}} ({{lang|zh-Latn|Jiǔ Zhōu Shū Kǒu èr}}, {{lang-en|the Second Star of Interpreters of Nine Dialects}}.)<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_ama_b.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref>
+
+==References==
+{{reflist}}
+{{Stars of Eridanus}}
+[[Category:Eridanus (constellation)]]
+[[Category:F-type stars]]
+[[Category:Stars with proper names]]
+[[Category:Delta Scuti variables]]
+
+{{star-stub}}
+[[AR:بيض (نجم)]]
+[[de:Beid]]
+[[id:Omicron¹ Eridani]]
+[[nl:Beid]]
+[[sk:Beid]]

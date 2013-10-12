@@ -1,0 +1,96 @@
+{{Starbox begin
+| name = Nu Ursae Majoris
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Ursa Major IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Andromeda constellation and its surroundings]]
+     <div style="position: absolute; left: 42.9%; top: 65.8%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of ν Ursae Majoris (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| equinox  = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Ursa Major]]
+| ra       = {{RA|11|18|28.73664}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+33|05|39.5107}}<ref name=aaa474_2_653/>
+| appmag_v = +3.490<ref name=mnras172_667/>
+}}
+{{Starbox character
+| class    = K3&nbsp;III<ref name=araa11_29/>
+| u-b      = +1.550<ref name=mnras172_667/>
+| b-v      = +1.400<ref name=mnras172_667/>
+| r-i      = 
+}}
+{{Starbox astrometry
+| radial_v = {{nowrap|-9.63 ± 0.38}}<ref name=aaa430_165/>
+| prop_mo_ra  = –26.84<ref name=aaa474_2_653/>
+| prop_mo_dec = +28.69<ref name=aaa474_2_653/>
+| parallax = 8.17
+| p_error  = 0.17
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|−2.47 ± 0.16}}<ref name=aaa526_A100/>
+}}
+{{Starbox detail
+| mass     = 
+| radius   = {{nowrap|57.07 ± 4.13}}<ref name=aaa526_A100/>
+| gravity  = 1.89<ref name=aaa526_A100/>
+| rotational_velocity = 10<ref name=csrv239_1/>
+| temperature = 4,070<ref name=aaa526_A100/>
+| luminosity  = {{nowrap|775 ± 122}}<ref name=aaa526_A100/>
+| metal_fe = –0.04<ref name=aaa526_A100/>
+}}
+{{Starbox catalog
+| names = Alula Borealis, ν&nbsp;Ursae Majoris, ν&nbsp;UMa, Nu&nbsp;UMa, 54&nbsp;Ursae Majoris, [[Star catalogue#BD/CD/CPD|BD]]+33&nbsp;2098, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J11185+3306A, [[Fifth Fundamental Catalogue|FK5]]&nbsp;425, [[Boss General Catalogue|GC]]&nbsp;15547, [[Henry Draper Catalogue|HD]]&nbsp;98262, [[Hipparcos catalogue|HIP]]&nbsp;55219, [[Bright Star Catalogue|HR]]&nbsp;4377, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;11131+3338 A, [[PPM Star Catalogue|PPM]]&nbsp;75790, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;62486, [[Washington Double Star Catalog|WDS]]&nbsp;J11185+3306A <ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Nu Ursae Majoris''' ('''Nu&nbsp;UMa''', '''ν&nbsp;Ursae Majoris''', '''ν&nbsp;UMa''') is a [[double star]] in the northern [[circumpolar constellation]] of [[Ursa Major]]. The traditional name of this star is '''Alula Borealis'''.<ref>[[Giuseppe Piazzi|Piazzi, G.]], ''The Palermo Catalogue'', Palermo, 1814.</ref> At an [[apparent visual magnitude]] of +3.490,<ref name=mnras172_667/> it is bright enough to be seen with the naked eye. Based upon [[parallax]] measurements, the distance to ν Ursae Majoris is about {{Convert|399|ly|pc|abbr=off|lk=on}}.<ref name=aaa474_2_653/>
+
+This is a [[giant star]] with a [[stellar classification]] of K3&nbsp;III.<ref name=araa11_29/> It has expanded to about 57 times the [[solar radius|radius of the Sun]] and is radiating 775 times the [[solar luminosity|Sun's luminosity]].<ref name=aaa526_A100/> The [[effective temperature]] of the outer envelope is 4,070&nbsp;K;<ref name=aaa526_A100/> cool enough to give it an orange hue typical of a K-type star.<ref name=csiro/> It has a 10th-magnitude optical companion at an [[angular separation]] of 7.1 [[arcsecond]]s.
+
+==Name and etymology==
+*The traditional name ''Alula''' (share with [[Xi Ursae Majoris|ξ UMa]]) comes from the Arabic phrase  {{transl|ar|''Al Ḳafzah al Ūla''}} "the First Spring".<ref name=rhallen1899>[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Ursa_Major*.html Richard Hinckley Allen :Star Names — Their Lore and Meaning - Ursa Major, the Greater Bear]</ref> The term ''Borealis'' meaning "the north side" in [[Latin]].
+*In [[Chinese language|Chinese]], {{lang|zh|三台}} ({{lang|zh-Latn|Sān Tái}}), meaning ''[[Purple Forbidden enclosure|Three Steps]]'', refers to an asterism consisting of ν Ursae Majoris, [[Iota Ursae Majoris|ι Ursae Majoris]], [[Kappa Ursae Majoris|κ Ursae Majoris]], [[Lambda Ursae Majoris|λ Ursae Majoris]], [[Mu Ursae Majoris|μ Ursae Majoris]], and [[Xi Ursae Majoris|ξ Ursae Majoris]]. Consequently, ν Ursae Majoris itself is known as {{lang|zh|三台五}} ({{lang|zh-Latn|Sān Tái wu}}, {{lang-en|the Fifth Star of Three Steps}}) and {{lang|zh|下台一}} ({{lang|zh-Latn|Xià Tái yī}}, {{lang-en|Star of First Lower Step}}).<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0606/ap060621.html (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 6 月 21 日]</ref>
+
+== References ==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aaa526_A100>{{citation | display-authors=1 | last1=Piau | first1=L. | last2=Kervella | first2=P. | last3=Dib | first3=S. | last4=Hauschildt | first4=P. | title=Surface convection and red-giant radius measurements | journal=Astronomy and Astrophysics | volume=526 | page=A100 | month=February | year=2011 | doi=10.1051/0004-6361/201014442 | bibcode=2011A&A...526A.100P | arxiv=1010.3649 }}</ref>
+
+<ref name=aaa430_165>{{citation | display-authors=1 | last1=Famaey | first1=B. | last2=Jorissen | first2=A. | last3=Luri | first3=X. | last4=Mayor | first4=M. | last5=Udry | first5=S. | last6=Dejonghe | first6=H. | last7=Turon | first7=C. | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | pages=165–186 | month=January | year=2005 | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<ref name=csrv239_1>{{citation | author=Bernacca, P. L.; Perinotto, M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | year=1970 | bibcode=1970CoAsi.239....1B }}</ref>
+
+<ref name=mnras172_667>{{citation | last1=Jennens | first1=P. A. | last2=Helfer | first2=H. L. | title=A new photometric metal abundance and luminosity calibration for field G and K giants. | journal=Monthly Notices of the Royal Astronomical Society | volume=172 | pages=667–679 | month=September | year=1975 | bibcode=1975MNRAS.172..667J }}</ref>
+
+<ref name=araa11_29>{{citation | last1=Morgan | first1=W. W. | last2=Keenan | first2=P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref>
+
+<ref name=SIMBAD>{{citation | title=54 UMa -- Star in double system | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD+98262 | accessdate=2012-01-11 }}</ref>
+
+<ref name=csiro>{{citation | title=The Colour of Stars | date=December 21, 2004 | work=Australia Telescope, Outreach and Education | publisher=Commonwealth Scientific and Industrial Research Organisation  | url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_colour.html | accessdate=2012-01-16 }}</ref>
+
+}}
+
+{{Stars of Ursa Major}}
+
+[[Category:Bayer objects|Ursae Majoris, Nu]]
+[[Category:Ursa Major (constellation)]]
+[[Category:Binary stars]]
+[[Category:K-type giants]]
+[[Category:Stars with proper names]]
+
+[[ar:القفزة الأولى الشمالي]]
+[[de:Ny Ursae Majoris]]
+[[es:Alula Borealis]]
+[[fa:نو خرس بزرگ]]
+[[fr:Nu Ursae Majoris]]
+[[it:Alula Borealis]]
+[[lb:Alula Borealis (Stär)]]
+[[nl:Alula Borealis]]
+[[pl:Ni Ursae Majoris]]
+[[pt:Nu Ursae Majoris]]
+[[ru:Алула Северная]]
+[[sk:Alula Borealis]]
+[[zh:下台一]]

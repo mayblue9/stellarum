@@ -1,0 +1,133 @@
+{{Starbox begin
+| name     = Beta Delphini
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Delphinus IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Delphinus constellation and its surroundings]]
+     <div style="position: absolute; left: 48.8%; top: 39.7%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of β Delphini (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000]]
+| equinox  = [[J2000]]
+| ra       = {{RA|20|37|32.94130}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|+14|35|42.3195}}<ref name=aaa474_2_653/>
+| appmag_v = {{nowrap|3.617 ± 0.016}}<ref name=aj138_5_1354/> {{nowrap|(4.11 + 5.01)}}<ref name=aaa341_121/>
+| constell = [[Delphinus (constellation)|Delphinus]]
+}}
+{{Starbox character
+| class    = {{nowrap|F5&nbsp;III + F5&nbsp;IV}}<ref name=aj81_245/>
+| b-v      = {{nowrap|A: 0.43 ± 0.14}}<br>{{nowrap|B: 0.56 ± 0.25}}<ref name=aaa474_2_653/>
+| u-b      = 
+| variable = 
+}}
+{{Starbox astrometry
+| component1 = Beta Delphini A
+| radial_v = 
+| prop_mo_ra  = +118.09<ref name=aaa474_2_653/>
+| prop_mo_dec = -48.06<ref name=aaa474_2_653/>
+| parallax = 32.33
+| p_error  = 0.47
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = {{nowrap|1.58 ± 0.12}}<ref name=aj138_5_1354/>
+| component2 = Beta Delphini B
+| absmag_v2 = {{nowrap|2.79 ± 0.14}}<ref name=aj138_5_1354/>
+}}
+{{Starbox orbit
+| reference = <ref name=aaa341_121/>
+| period = 26.660
+| axis = 0.440
+| eccentricity = 0.36
+| inclination = 61
+| node = 177
+| periastron = 1989.50 yr
+| periarg = 349
+| k1 = 7.6<ref name=ncsbo/>
+}}
+{{Starbox detail
+| component1 = Beta Delphini A
+| mass     = {{nowrap|1.75 ± 0.002}}<ref name=aj138_5_1354/>
+| radius   = 
+| gravity  = 3.50<ref name=aaa409_251/>
+| luminosity  = 24<ref name=aaa409_251/>
+| temperature = 6,587<ref name=aaa409_251/>
+| metal_fe = –0.05<ref name=aj138_5_1354/>
+| rotational_velocity = 49.8<ref name=aaa409_251/>
+| age_gyr  = 1.79{{+-|0.17|0.72}}<ref name=aj138_5_1354/>
+| component2 = Beta Delphini B
+| mass2    = {{nowrap|1.47 ± 0.04}}<ref name=aj138_5_1354/>
+| luminosity2 = 8<ref name=kaler/>
+}}
+{{Starbox catalog
+| names = Rotanev, Rotanen, Venator, β&nbsp;Del, Beta&nbsp;Delphini, Beta&nbsp;Del, [[Flamsteed designation|6&nbsp;Delphini]], 6&nbsp;Del, [[Durchmusterung|BD]]+14&nbsp;4369, [[Henry Draper Catalogue|HD]]&nbsp;196524, [[Hipparcos Catalogue|HIP]]&nbsp;101769, [[Bright Star Catalogue|HR]]&nbsp;7882, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;106316, [[Washington Double Star Catalog|WDS]]&nbsp;20375+1436AB.<ref name=sb0 /><ref name=wds /><ref name=bsc1 />
+}}
+{{Starbox end}}
+'''Beta&nbsp;Delphini''' ('''Beta&nbsp;Del''', '''β&nbsp;Delphini''', '''β&nbsp;Del''') is a [[binary star]] in the [[constellation]] of [[Delphinus (constellation)|Delphinus]].  As a practical joke, the astronomer [[Niccolò Cacciatore]] gave it the name '''[[Sualocin and Rotanev|Rotanev]]''', which is a reversal of his Latinized family name, ''Venator''.<ref name=bsc1 /> The name first appeared in [[Giuseppe Piazzi]]'s Palermo Catalogue, published in 1814. Beta Delphini was found to be a [[binary star]] system in 1873 by the American astronomer [[Sherburne Wesley Burnham|S. W. Burnham]].<ref name=burnham1978/>
+
+In [[Chinese language|Chinese]], {{lang|zh|瓠瓜}} ({{lang|zh-Latn|Hù Guā}}), meaning ''[[Girl (Chinese constellation)|Good Gourd]]'', refers to an asterism consisting of β Delphini, [[Alpha Delphini|α Delphini]], [[Gamma2 Delphini|γ<sup>2</sup> Delphini]], [[Delta Delphini|δ Delphini]],  and [[Zeta Delphini|ζ Delphini]].<ref>{{zh icon}} ''中國星座神話'', written by 陳久金. Published by 台灣書房出版有限公司, 2005, ISBN 978-986-7332-25-7.</ref> Consequently, β Delphini itself is known as {{lang|zh|瓠瓜四}} ({{lang|zh-Latn|Hù Guā yī}}, {{lang-en|the Second Star of Good Gourd}}.).<ref>{{zh icon}} [http://www.lcsd.gov.hk/CE/Museum/Space/Research/StarName/c_research_chinengstars_n_r.htm 香港太空館 - 研究資源 - 亮星中英對照表], Hong Kong Space Museum. Accessed on line November 23, 2010.</ref> 
+
+This system consists of a pair of [[F-type star]]s stars that orbit each other with a [[orbital period|period]] of 26.66 years and an [[orbital eccentricity|eccentricity]] of 0.36. The plane of the orbit is [[Orbital inclination|inclined]] by an angle of 61° to the line of sight from the Earth. The two stars have an [[angular separation]] of about 0.44&nbsp;[[arcsecond]]s, making them a challenge to resolve with a telescope. The larger member of the pair is a [[giant star]] with 1.75 times the mass<ref name=aj138_5_1354/> and 24 times the luminosity of the Sun,<ref name=aaa409_251/> while the secondary component is a [[subgiant star]] that has 1.47 times the Sun's mass<ref name=aj138_5_1354/> and around 8 times the Sun's luminosity.<ref name=kaler/> The system is around 1.8 billion years old.<ref name=aj138_5_1354/>
+
+==See also==
+* [[Sualocin and Rotanev]]
+
+==References==
+{{reflist|30em|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj138_5_1354>{{citation | display-authors=1 | last1=Davidson | first1=James W., Jr. | last2=Baptista | first2=Brian J. | last3=Horch | first3=Elliott P. | last4=Franz | first4=Otto | last5=van Altena | first5=William F. | title=A Photometric Analysis of Seventeen Binary Stars Using Speckle Imaging | journal=The Astronomical Journal | volume=138 | issue=5 | pages=1354–1364 | month=November | year=2009 | doi=10.1088/0004-6256/138/5/1354 | bibcode=2009AJ....138.1354D }}</ref>
+
+<ref name=burnham1978>{{citation | first1=Robert | last1=Burnham | title=Burnham's celestial handbook: an observer's guide to the universe beyond the Solar System | volume=2 | series=Dover Books on Astronomy | edition=2nd | publisher=Courier Dover Publications | year=1978 | isbn=0-486-23568-8 | page=820 | url=http://books.google.com/books?id=wB9uZ9lH5bgC&pg=PA820 }}</ref>
+
+<ref name=ncsbo>{{citation | display-authors=1 | last1=Pourbaix | first1=D. | last2=Tokovinin | first2=A. A. | last3=Batten | first3=A. H. | last4=Fekel | first4=F. C. | last5=Hartkopf | first5=W. I. | last6=Levato | first6=H. | last7=Morrell | first7=N. I. | last8=Torres | first8=G. | last9=Udry | first9=S. | title=SB9: The ninth catalogue of spectroscopic binary orbits | journal=Astronomy and Astrophysics | volume=424 | pages=727–732 | month=September | year=2004 | doi=10.1051/0004-6361:20041213 | bibcode=2004A&A...424..727P |arxiv = astro-ph/0406573 }}</ref>
+
+<ref name=aaa409_251>{{citation | last1=Mallik | first1=Sushma V. | last2=Parthasarathy | first2=M. | last3=Pati | first3=A. K. | title=Lithium and rotation in F and G dwarfs and subgiants | journal=Astronomy and Astrophysics | volume=409 | pages=251–261 | month=October | year=2003 | doi=10.1051/0004-6361:20031084 | bibcode=2003A&A...409..251M }}</ref>
+
+<ref name=aaa341_121>{{citation | last1=Söderhjelm | first1=Staffan | title=Visual binary orbits and masses post Hipparcos | journal=Astronomy and Astrophysics | volume=341 | pages=121–140 | month=January | year=1999 | bibcode=1999A&A...341..121S }}</ref>
+
+<ref name=aj81_245>{{citation | last1=Edwards | first1=T. W. | title=MK classification for visual binary components | journal=Astronomical Journal | volume=81 | pages=245–249 | month=April | year=1976 | doi=10.1086/111879 | bibcode=1976AJ.....81..245E }}</ref>
+
+<ref name=bsc1>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=7882 HR 7882], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line October 1, 2008.</ref>
+
+<ref name=kaler>[http://www.astro.uiuc.edu/~kaler/sow/rotanev.html Rotanev], ''Stars'', Jim Kaler.  Accessed on line October 1, 2008.</ref>
+
+<ref name=sb0>{{SIMBAD link|beta+del|HD 196524 -- Spectroscopic binary}}, database entry, [[SIMBAD]].  Accessed on line October 1, 2008.</ref>
+
+<ref name=wds>Entry 20375+1436, [http://ad.usno.navy.mil/wds/wdsnewframe4.html The Washington Double Star Catalog], [[United States Naval Observatory]].  Accessed on line October 1, 2008.</ref>
+
+}}
+
+==External links==
+* http://jumk.de/astronomie/special-stars/rotanev.shtml
+{{Stars of Delphinus}}
+
+[[Category:Delphinus (constellation)]]
+[[Category:F-type subgiants]]
+[[Category:F-type main sequence stars]]
+[[Category:Binary stars]]
+[[Category:Henry Draper Catalogue objects|196524]]
+[[Category:Bayer objects|Delphini, Beta]]
+[[Category:Flamsteed objects|Delphini, 6]]
+[[Category:Hipparcos objects|101769]]
+[[Category:Stars with proper names]]
+[[Category:Durchmusterung objects|BD+14 4369]]
+
+[[roa-rup:Rotanev]]
+[[cs:Rotanev]]
+[[de:Rotanev]]
+[[es:Rotanev]]
+[[fr:Beta Delphini]]
+[[id:Beta Delphini]]
+[[it:Rotanev]]
+[[lb:Rotanev (Stär)]]
+[[nl:Rotanev]]
+[[ja:いるか座ベータ星]]
+[[pl:Beta Delphini]]
+[[pt:Beta Delphini]]
+[[ru:Бета Дельфина]]
+[[sk:Rotanev]]
+[[fi:Rotanev]]
+[[uk:HD196524]]
+[[zh:瓠瓜四]]

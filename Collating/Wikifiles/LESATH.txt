@@ -1,0 +1,102 @@
+{{Starbox begin
+| name = Upsilon Scorpii
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Scorpius IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Scorpius constellation and its surroundings]]
+     <div style="position: absolute; left: 31.2%; top: 59.6%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of υ Scorpii (circled)
+}}
+{{Starbox observe
+| epoch    = [[J2000.0]]
+| ra       = {{RA|17|30|45.83712}}<ref name=aaa474_2_653/>
+| dec      = {{DEC|–37|17|44.9285}}<ref name=aaa474_2_653/>
+| appmag_v = 2.70<ref name=apjs15_459/>
+| constell = [[Scorpius]]
+}}
+{{Starbox character
+| class    = B2&nbsp;IV<ref name=houk1979/>
+| b-v      = –0.221<ref name=apjs15_459/>
+| u-b      = –0.854<ref name=apjs15_459/>
+| variable = 
+}}
+{{Starbox astrometry
+| radial_v = +8.0<ref name=scfs/>
+| prop_mo_ra  = –2.37<ref name=aaa474_2_653/>
+| prop_mo_dec = 30.09<ref name=aaa474_2_653/>
+| parallax = 5.66
+| p_error  = 0.18
+| parallax_footnote = <ref name=aaa474_2_653/>
+| absmag_v = 
+}}
+{{Starbox detail
+| mass     = {{nowrap|11.4 ± 0.5}}<ref name=mnras410_1_190/>
+| radius   = 6.1<ref name=mnras189_601/>
+| luminosity  = 
+| temperature = 22,831 ± 169<ref name=mnras189_601/>
+| gravity  = 
+| metal_fe = 
+| rotational_velocity = 
+| rotation = 
+| age_myr  = {{nowrap|20.0 ± 2.6}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names = υ&nbsp;Sco, 34&nbsp;Her, 34&nbsp;Herculis, CD-37&nbsp;11638, [[Henry Draper catalogue|HD]]&nbsp;158408, [[Hipparcos catalogue|HIP]]&nbsp;85696, [[Harvard Revised catalogue|HR]]&nbsp;6508, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;208896.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+'''Upsilon Scorpii''' (υ Sco, υ Scorpii) is a [[star]] located in the "stinger" of the southern [[zodiac]] [[constellation]] of [[Scorpius]], the scorpion. It has the traditional name '''Lesath''' (alternative spellings '''Leschath''', '''Lesuth'''), from  [[Arabic language|Arabic]] ''las'a'' = "pass (or bite) of a poisonous animal"; but this is a miscorrection by [[Scaliger]] (a European astronomer who knew Arabic) for earlier "Alascha", which came from Arabic ''al laţkha'' = "the foggy patch", referring to the nearby [[open cluster]] [[Ptolemy Cluster|M7]]. On the night sky it lies near the 1.6 magnitude star [[Lambda Scorpii]], so the two form an optical pair that is sometimes called the "Cat's Eyes".<ref name=schaaf2007/>
+
+This star has [[apparent magnitude]] +2.7<ref name=apjs15_459/> and belongs to [[stellar classification|spectral class]] B2&nbsp;IV,<ref name=houk1979/> with the [[luminosity class]] of 'IV' indicating it is a [[subgiant star]]. From [[parallax]] measurements, it is approximately 580&nbsp;[[light year]]s from [[Earth]].<ref name=aaa474_2_653/> The star's [[luminosity]] is 12,300<ref name=kaler/> times that of the [[Sun]], while its surface [[temperature]] is 22,831<ref name=mnras189_601/> [[kelvin]]s. The star has a radius of 6.1<ref name=mnras189_601/> times solar and 11<ref name=mnras410_1_190/> times the mass of the Sun.
+
+==In culture==
+*Together with [[Lambda Scorpii|λ Sco]] (Shaula), Lesath is listed in [[MUL.APIN]] as <sup>d</sup>Sharur<sub>4</sub> u <sup>d</sup>Shargaz, meaning "Sharur and Shargaz".<ref name=jbaa108_9/> In Coptic, they were called ''Minamref''<ref>p. 1678, [http://books.google.com/books?id=PJzIt3SIlkUC ''Burnham's Celestial Handbook: An Observer's Guide to the Universe Beyond the Solar System, Volume 3''], Robert Burnham, New York, Dover Publication, Inc, 1978.</ref>
+*The indigenous Boorong people of northwestern Victoria named it as ''Karik Karik'' (together with [[Lambda Scorpii|λ Sco]]),<ref name=hamacher>{{cite journal|author=Hamacher, Duane W.; Frew, David J. |year=2010|title= An Aboriginal Australian Record of the Great Eruption of Eta Carinae|journal=Journal of Astronomical History & Heritage |volume=13|issue=3|pages= 220–34|url=http://arxiv.org/ftp/arxiv/papers/1010/1010.4610.pdf}}</ref> "the Falcons"<ref name=stanbridge>{{cite journal|author=Stanbridge, WM|year=1857|title= On the Astronomy and Mythology of the Aboriginies of Victoria|journal=Transactions Philosophical Institiute Victoria |volume=2|issue=|pages= 137–140|url=http://www.atnf.csiro.au/research/AboriginalAstronomy/literature/Stanbridge1857.pdf}}</ref>
+*[[USS Lesuth (AK-125)]] was a [[United States Navy]] [[Crater class cargo ship]] named after the star.
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}</ref>
+
+<ref name=houk1979>{{citation | title=Michigan catalogue of two-dimensional spectral types for the HD stars | volume=3 | last1=Houk | first1=Nancy | last2=Smith-Moore | first2=M. | publication-place=Ann Arbor, Michigan | publisher=Dept. of Astronomy, University of Michigan | year=1979 | bibcode=1982mcts.book.....H }}</ref>
+
+<ref name=scfs>{{citation | display-authors=1 | title=Sixth Catalogue of Fundamental Stars (FK6). Part I. Basic fundamental stars with direct solutions | last1=Wielen | first1=R. | last2=Schwan | first2=H. | last3=Dettbarn | first3=C. | last4=Lenhardt | first4=H. | last5=Jahreiß | first5=H. | last6=Jährling | first6=R. | publisher=Astronomisches Rechen-Institut Heidelberg | issue=35 | year=1999 | bibcode=1999VeARI..35....1W }}</ref>
+
+<ref name=apjs15_459>{{citation | last1=Gutierrez-Moreno | first1=Adelina | last2=Moreno | first2=Hugo | title=A photometric investigation of the Scorpio-Centaurus association |  journal=Astrophysical Journal Supplement | volume=15 | page=459 | year=1968 | month=June | bibcode=1968ApJS...15..459G | doi=10.1086/190168 }}</ref>
+
+<ref name=SIMBAD>{{citation | title=ups Sco -- Star  | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Upsilon+Scorpii | accessdate=2012-01-01 }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=LESATH (Upsilon Scorpii) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/lesath.html | accessdate=2012-01-28 }}</ref>
+
+<ref name=jbaa108_9>{{citation | last=Rogers | first=J. H. | title=Origins of the ancient constellations: I. The Mesopotamian traditions | journal=Journal of the British Astronomical Association | issue=1 | volume=108 | pages=9–28 | month=February | year=1998 | bibcode=1998JBAA..108....9R }}</ref>
+
+<ref name=schaaf2007>{{citation | first1=Fred | last1=Schaaf | title=The 50 best sights in astronomy and how to see them: observing eclipses, bright comets, meteor showers, and other celestial wonders | publisher=John Wiley and Sons | year=2007 | isbn=0-471-69657-9 | page=95 | url=http://books.google.com/books?id=lkprvbGnxvEC&pg=PA95 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+}}
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Upsilon]]
+[[Category:B-type subgiants]]
+[[Category:Flamsteed objects|Scorpii, 34]]
+[[Category:Scorpius (constellation)]]
+[[Category:Stars with proper names]]
+
+[[ar:اللسعة (نجم)]]
+[[cs:Lesath]]
+[[de:Lesath]]
+[[es:Lesath]]
+[[fr:Upsilon Scorpii]]
+[[it:Lesath]]
+[[lb:Lesath (Stär)]]
+[[lt:Lesutas]]
+[[nl:Lesath]]
+[[ja:レサト]]
+[[pt:Lesath]]
+[[sk:Lesath]]
+[[zh:尾宿九]]

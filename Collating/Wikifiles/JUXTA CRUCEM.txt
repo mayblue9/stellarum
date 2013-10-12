@@ -1,0 +1,73 @@
+{{Starbox begin 
+| name = Epsilon Crucis }}
+{{Starbox image 
+| image=[[Image:Ctx crux.gif|250px]] 
+| caption=Crux, showing Epsilon Crucis in relation to the other main stars }}
+{{Starbox observe 
+| epoch = [[J2000.0]] 
+| constell = [[Crux]] 
+| ra = {{RA|12|21|21.6}}
+| dec = {{DEC|&minus;60|24|4}}
+| appmag_v = 3.56
+}}
+{{Starbox character 
+| class=K3III
+| b-v=1.42 
+| u-b=1.63 }}
+{{Starbox astrometry
+| radial_v=&minus;4.6 
+| prop_mo_ra=&minus;171.06 
+| prop_mo_dec=91.83
+| parallax=14.30 
+| p_error=-.56  
+| absmag_v = {{nowrap|−0.63 ± 0.09}}<ref name=aaa458_2_609/>
+}}
+{{Starbox detail 
+| mass     = {{nowrap|1.42 ± 0.22}}<ref name=aaa458_2_609/>
+| radius   = {{nowrap|32.9 ± 2.5}}<ref name=aaa458_2_609/>
+| luminosity  = 
+| temperature = 4,148<ref name=aaa458_2_609/>
+| gravity  = {{nowrap|1.52 ± 0.11}}<ref name=aaa458_2_609/>
+| metal_fe = −0.10<ref name=aaa458_2_609/>
+| rotational_velocity = 
+| age_gyr  = {{nowrap|2.83 ± 1.20}}<ref name=aaa458_2_609/>
+}} 
+{{Starbox catalog
+| names = [[Henry Draper catalogue|HD]] 107446, [[Harvard Revised catalogue|HR]] 4700, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 251862, FK5 2989, NSV 5568, [[Bonner Durchmusterung|CD]] -59°4221
+, [[Hipparcos catalogue|HIP]] 60260}}
+{{Starbox end}}
+
+'''Epsilon Crucis''' (ε Cru, ε Crucis) is a [[Stellar_classification#Class_K|Class K3III]], fourth-magnitude [[star]] in the [[constellation]] [[Crux]]. It is sometimes called ''Intrometida'' (intrusive) in [[Portuguese language|Portuguese]].<ref>da Silva Oliveira, R., [http://www.asterdomus.com.br/Artigo_crux_australis.htm "Crux Australis: o Cruzeiro do Sul"], Artigos: Planetario Movel Inflavel AsterDomus.</ref> This star is an orange [[Giant star|giant]], located about 228 [[light-year]]s from Earth.
+
+[[File:IRAS 12116-6001.jpg|thumb|left|The bright blue star on the right centre of this image is Epsilon Crucis. The colours used in this image represent specific wavelengths of [[infrared]] light. Blue represents light emitted at 3.4 and 4.6 micrometres.]]
+
+==Modern legacy==
+ε Cru is represented on the flags of [[flag of Australia|Australia]] and [[flag of Papua New Guinea|Papua New Guinea]], as one of five stars which comprise the [[Southern Cross]]. It is also featured in the flag of [[Brazil]], along with 26 other stars, each of which represents a state. ε Cru represents the State of [[Espírito Santo]].<ref>{{cite web
+|title=Astronomy of the Brazilian Flag
+|url=http://www.fotw.net/flags/br_astro.html
+|publisher=FOTW Flags Of The World website
+}}</ref>
+
+== References ==
+{{reflist|refs=
+
+<ref name=aaa458_2_609>{{citation | display-authors=1 | last1=da Silva | first1=L. | last2=Girardi | first2=L. | last3=Pasquini | first3=L. | last4=Setiawan | first4=J. | last5=von der Lühe | first5=O. | last6=de Medeiros | first6=J. R. | last7=Hatzes | first7=A. | last8=Döllinger | first8=M. P. | last9=Weiss | first9=A. | title=Basic physical parameters of a selected sample of evolved stars | journal=Astronomy and Astrophysics | volume=458 | issue=2 | pages=609–623 | month=November | year=2006 | doi=10.1051/0004-6361:20065105 | bibcode=2006A&A...458..609D |arxiv = astro-ph/0608160 }}</ref>
+
+}}
+
+==External links==
+* {{cite web | title=HD 107446 -- Variable Star | work=SIMBAD Astronomical Database  | url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=epsilon+crucis | accessdate=2006-10-28 }}
+
+{{Stars of Crux}}
+
+[[Category:Bayer objects|Crucis, Epsilon]]
+[[Category:Crux (constellation)]]
+[[Category:Stars with proper names]]
+
+[[de:Epsilon Crucis]]
+[[es:Juxta Crucem]]
+[[fa:اپسیلون صلیب]]
+[[fr:Epsilon Crucis]]
+[[it:Epsilon Crucis]]
+[[pt:Epsilon Crucis]]
+[[zh:南十字座ε]]

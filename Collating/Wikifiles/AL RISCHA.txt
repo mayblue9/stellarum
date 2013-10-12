@@ -1,0 +1,68 @@
+{{Starbox begin
+| name=Alpha Piscium
+}}
+{{Starbox image
+| image = 
+     <div style="position: relative">[[File:Pisces IAU.svg|250px|alt=Diagram showing star positions and boundaries of the Pisces constellation and its surroundings]]
+     <div style="position: absolute; left: 20%; top: 56%;">[[File:Cercle rouge 100%.svg|12px]]</div>
+     </div>
+| caption=Location of α Piscium(circled)
+}}
+{{Starbox short 
+| name=
+| epoch=[[J2000.0]]
+| constell=[[Pisces (constellation)|Pisces]]
+| ra={{RA|02|02|02.81972}}<ref name=aaa474_2_653/>
+| dec={{DEC|+02|45|49.5410}}<ref name=aaa474_2_653/>
+| spectral={{nowrap|A0pSiSr + A3m}}<ref name=aj74_375/>
+| appmag_v={{nowrap|3.82<ref name=SIMBAD/> (+4.33 + 5.23)}}<ref name=aj74_375/>
+| dist_ly=139 ± 1.6
+| dist_pc=46.2 ± 0.5<ref name=aaa474_2_653/>
+| names=Alrischa, Alrescha, Kaitain, Okda, α&nbsp;Piscium, α&nbsp;Psc, Alpha&nbsp;Psc, 113&nbsp;Piscium, [[Star catalogue#BD/CD/CPD|BD]]+02&nbsp;317, [[Catalog of Components of Double and Multiple Stars|CCDM]]&nbsp;J02020+0246AB, [[Henry Draper Catalogue|HD]]&nbsp;12447/12446, [[Hipparcos catalogue|HIP]]&nbsp;9487, [[Bright Star Catalogue|HR]]&nbsp;595/596, [[Index Catalogue of Visual Double Stars|IDS]]&nbsp;01569+0217 AB / 02020+0246, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;110291, [[Washington Double Star Catalog|WDS]]&nbsp;J02020+0246AB.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Alpha Piscium''' ('''Alpha&nbsp;Psc''', '''α&nbsp;Piscium''', '''α&nbsp;Psc''') is the [[Bayer designation]] for a [[star]] in the [[celestial equator|equatorial]] [[constellation]] of [[Pisces (constellation)|Pisces]]. It has the traditional name '''Alrescha''' (Al Rescha, Alrischa, Alrisha).
+
+The distance to α Psc is about 139 [[light year]]s. The system comprises a close [[double star]] with [[Angular distance|angular separation]] of presently 1.8" between the components. The main star is of [[apparent magnitude|magnitude]] +4.33 and [[stellar classification|spectral type]] A0p, while the companion is magnitude 5.23 and belongs to spectral class A3m. The two stars take more than 700 years to orbit one another and they will make their closest approach to each other around 2060. One or both of the stars may be a spectroscopic binary as well. The stars have masses of 2.3 and 1.8 [[solar mass]]es respectively and shine with a total [[luminosity]] of 31 and 12 times that of the Sun.<ref name=kaler/>
+
+==Name and etymology==
+*The name ''Alrescha'' is from the [[Arabic language|Arabic]] '''الرشآء''' ''al-rišā’'' "the [[water well|well]] rope". Less common names are ''Kaitain'' and ''Okda'', the latter from the Arabic عقدة ''‘uqdah'' "knot".<ref name=allen1899/>
+*In [[Chinese language|Chinese]], {{lang|zh|外屏}} ({{lang|zh-Latn|Wài Píng}}), meaning ''[[Legs (Chinese constellation)|Outer Fence]]'', refers to an asterism consisting of refers to an asterism consisting of α Piscium, [[Delta Piscium|δ Piscium]], [[Epsilon Piscium|ε Piscium]], [[Zeta Piscium|ζ Piscium]], [[Mu Piscium|μ Piscium]], [[Nu Piscium|ν Piscium]] and [[Xi Piscium|ξ Piscium]]. Consequently, α Piscium itself is known as {{lang|zh|外屏七}} ({{lang|zh-Latn|Wài Píng qī}}, {{lang-en|the Seventh Star of Outer Fence}}.)<ref>{{zh icon}} [http://aeea.nmns.edu.tw/2006/0605/ap060519.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 5 月 19 日]</ref>
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{cite journal | first=F. | last=van Leeuwen | year=2007 | month=November | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | doi=10.1051/0004-6361:20078357 | postscript=. |arxiv = 0708.1752 }}</ref>
+
+<ref name=aj74_375>{{citation | display-authors=1 | last1=Cowley | first1=A. | last2=Cowley | first2=C. | last3=Jaschek | first3=M. | last4=Jaschek | first4=C. | title=A study of the bright A stars. I. A catalogue of spectral classifications | journal=Astronomical Journal | volume=74 | pages=375–406 | month=April | year=1969 | doi=10.1086/110819 | bibcode=1969AJ.....74..375C | postscript=. }}</ref>
+
+<ref name=SIMBAD>{{citation | title=alf Psc -- Variable Star of alpha2 CVn type  | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Piscium | postscript=. }}</ref>
+
+<ref name=allen1899>{{citation | first1=Richard Hinckley | last1=Allen | title=Star-names and their meanings | publisher=G. E. Stechert | year=1899 | page=506 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&pg=PA506 | postscript=. }}</ref>
+
+<ref name=kaler>{{citation | first1=James B. | last1=Kaler | title=ALRESCHA (Alpha Piscium) | work=Stars | publisher=University of Illinois | url=http://stars.astro.illinois.edu/sow/alrescha.html | accessdate=2012-04-06 | postscript=. }}</ref>
+
+}}
+
+{{Stars of Pisces}}
+
+[[Category:Pisces (constellation)]]
+[[Category:Bayer objects|Piscium, Alpha]]
+[[Category:Flamsteed objects|Piscium, 113]]
+[[Category:Stars with proper names]]
+
+[[ar:الرشاء (نجم)]]
+[[cs:Alpha Piscium]]
+[[de:Alrischa]]
+[[es:Alrisha]]
+[[fa:آلفا ماهی]]
+[[fr:Alpha Piscium]]
+[[id:Alpha Piscium]]
+[[it:Alrisha]]
+[[lb:Alrischa (Stär)]]
+[[nl:Alrisha]]
+[[pt:Alpha Piscium]]
+[[ru:Альриша]]
+[[sk:Alrischa]]
+[[zh:外屏七]]

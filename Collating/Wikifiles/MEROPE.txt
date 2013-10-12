@@ -1,0 +1,106 @@
+{{Starbox begin
+ | name=Merope, 23 Tau
+}}
+{{Starbox image 
+ | image = [[File:M45map.jpg|250px]]
+ | caption = Merope is close to [[Alcyone (star)|Alcyone]] (map bottom).
+}}
+{{Starbox observe 
+ |epoch=J2000 
+ | ra={{RA|03|46|19.5739}}<ref name="SIMBAD"/>
+ | dec={{DEC|23|56|54.090}}<ref name="SIMBAD" />
+ | appmag_v=4.113<ref name="SIMBAD" />
+ | constell=[[Taurus (constellation)|Taurus]] 
+}}
+{{Starbox character 
+ | class=B6IVe<ref name="SIMBAD" /> 
+ | b-v=-0.06<ref name="AJ1971"/>
+ | u-b=-0.41
+ | variable=[[Beta Cephei variable|Beta Cephei]]
+}} 
+{{Starbox astrometry 
+ | radial_v=6.2<ref name="SIMBAD" />  
+ | prop_mo_ra=21.17<ref name="SIMBAD" />  
+ | prop_mo_dec=-42.67<ref name="SIMBAD" />  
+ | parallax=9.08
+ | p_error=1.04
+ | parallax_footnote=<ref name="aaa323"/>
+ | absmag_v=−1.07
+}}
+{{Starbox detail
+ | mass = 
+ | radius = 5.1<ref name=mnras189_601/>
+ | luminosity = 
+ | temperature = {{nowrap|13,360 ± 340}}<ref name=mnras189_601/>
+ | metal_fe = 
+ | gravity = 4.0<ref name=mnras189_601/>
+ | rotational_velocity = 
+ | age_myr = 
+}}
+{{Starbox catalog
+ |names=Merope, [[Flamsteed designation|23&nbsp;Tau]], [[Harvard Revised catalogue|HR]]&nbsp;1156, [[Bonner Durchmusterung|BD]] 23° 522, [[Henry Draper Catalogue|HD]]&nbsp;23480, [[Hipparcos catalogue|HIP]]&nbsp;17608, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;76172, [[Boss General Catalogue|GC]]&nbsp;4512, [[Catalog of Components of Double and Multiple Stars|CCDM]] J03463+2357A
+}}
+{{Starbox reference
+ | Simbad=HD+23480
+}}
+{{Starbox end}}
+
+'''Merope''' ([[Flamsteed designation|23&nbsp;Tauri]]) is a [[star]] in the [[constellation]] [[Taurus (constellation)|Taurus]] and a member of the [[Pleiades (star cluster)|Pleiades]] [[open cluster|star cluster]].  It is approximately 360 [[light years]] from [[Earth]].
+
+Merope is a blue-white [[stellar classification|B-type]] [[subgiant]] with a mean [[apparent magnitude]] of +4.14. [[Richard Hinckley Allen]] described the star as ''lucid white and violet.''<ref>''Merope'', ''Star Names and their Meanings'', Richard Hinckley Allen, [[Dover Publications]],
+1963, p. 407.</ref>  It has a [[luminosity]] of 630 times that of the [[Sun]] and a surface temperature of 14,000 [[kelvin]]s. Merope's mass is roughly 4.5 [[solar mass]]es and has a radius more than 4 times as great as the Sun's. It is classified as a [[Beta Cephei variable|Beta Cephei type]] [[variable star]] and its brightness varies by 0.01 magnitudes.
+
+Surrounding Merope is the [[NGC 1435|Merope Nebula]]. Part of the [[nebula]] that the Pleiades Cluster is currently passing through, it appears brightest around Merope and is listed in the [[Index Catalogue]] as number IC 349.
+
+== See also ==
+* [[Lists of stars]] in the constellation [[List of stars in Taurus|Taurus]]
+* [[Stellar classification#Class B|Class B Stars]]
+* [[Beta Cephei variable|Beta Cephei Variable Stars]]
+
+== References ==
+{{reflist|refs=
+
+<ref name="SIMBAD">{{citation | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=merope | title =SIMBAD query result: MEROPE -- Be Star | publisher =Centre de Données astronomiques de Strasbourg | accessdate = 2010-06-12  }}</ref>
+
+<ref name="aaa323">{{citation | display-authors=1 | last1=Perryman | first1=M. A. C. | last2=Lindegren | first2=L. | last3=Kovalevsky | first3=J. | last4=Hoeg | first4=E. | title=The HIPPARCOS Catalogue | journal=Astronomy and Astrophysics Supplemental Series | year=1997 | volume=34 | pages=1–49 | series=323 | pages=L49–L52 | format=PDF | bibcode=1997A&A...323L..49P}}</ref>
+
+<ref name="AJ1971">{{citation | last1=Crawford | first1=D. L. | last2=Barnes | first2=J. V. | last3=Golson | first3=J. C. | title=Four-color, Hbeta, and UBV photometry for bright B-type stars in the northern hemisphere | journal=The Astronomical Journal | year=1971 | pages=1058 | volume=76 | origin=GCPD | format=PDF | bibcode=1971AJ.....76.1058C | doi=10.1086/111220 }}</ref>
+
+<ref name=mnras189_601>{{citation | display-authors=1 | last1=Underhill | first1=A. B. | last2=Divan | first2=L. | last3=Prevot-Burnichon | first3=M.-L. | last4=Doazan | first4=V. | title=Effective temperatures, angular diameters, distances and linear radii for 160 O and B stars | journal=Monthly Notices of the Royal Astronomical Society | volume=189 | pages=601–605 | month=November | year=1979 | bibcode=1979MNRAS.189..601U }}</ref>
+
+}}
+
+== External links ==
+{{Commons cat|Merope (star)}}
+*Jim Kaler's Stars, University of Illinois:[http://stars.astro.illinois.edu/sow/merope.html Merope (23 Tauri)]
+*[http://www.perseus.gr/Astro-DSO-NGC-1435.htm NGC 1435 - Merope Nebula] LRGB image with 4 hours total exposure.
+
+{{Sky|03|46|19.5739|+|23|56|54.090|100000}}
+{{Stars of Taurus}}
+
+{{var-star-stub}}
+
+[[Category:Flamsteed objects|Tauri, 23]]
+[[Category:Taurus (constellation)]]
+[[Category:Beta Cephei variables]]
+[[Category:Pleiades Open Cluster]]
+[[Category:B-type subgiants]]
+[[Category:Stars with proper names]]
+
+[[ar:مروب (نجم)]]
+[[cs:Merope]]
+[[de:Merope (Stern)]]
+[[es:Merope (estrella)]]
+[[eu:Merope (izarra)]]
+[[fa:ستاره میروپ]]
+[[fr:Mérope (étoile)]]
+[[ko:메로페 (항성)]]
+[[it:Merope (astronomia)]]
+[[la:Merope (stella)]]
+[[lb:Merope (Stär)]]
+[[nl:Merope]]
+[[ja:メローペ]]
+[[pl:Merope (gwiazda)]]
+[[ru:Меропа (звезда)]]
+[[sk:Merope (hviezda)]]
+[[zh:昴宿五]]
