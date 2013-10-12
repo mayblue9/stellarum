@@ -213,7 +213,7 @@ function auto_complete_stars(text) {
 
 
 
-function render_map(elt, starname, w, h) {
+function render_map(elt, w, h, gostar) {
 
     width = w;
     height = h;
@@ -251,8 +251,13 @@ function render_map(elt, starname, w, h) {
 
     nodes.append("title").text(function(d) { return d.name });
 
-    if( starname ) {
-        var star = find_star(starname.toUpperCase());
+    if( gostar ) {
+        var star = false;
+        if( /^\d+$/.exec(gostar) ) {
+            star = stars[gostar]
+        } else {
+            star = find_star(gostar.toUpperCase());
+        }
         if( star ) {
             select_star(star);
         }
