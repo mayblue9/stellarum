@@ -213,7 +213,7 @@ function auto_complete_stars(text) {
 
 
 
-function render_map(elt, w, h) {
+function render_map(elt, starname, w, h) {
 
     width = w;
     height = h;
@@ -251,38 +251,12 @@ function render_map(elt, w, h) {
 
     nodes.append("title").text(function(d) { return d.name });
 
-    d3.select("#acfield").on("keypress", function () {
-	auto_complete_stars(this.value)
-    });
-
+    if( starname ) {
+        var star = find_star(starname.toUpperCase());
+        if( star ) {
+            select_star(star);
+        }
+    }
 }
 
-
-var availableTags = [
-      "ActionScript",
-      "AppleScript",
-      "Asp",
-      "BASIC",
-      "C",
-      "C++",
-      "Clojure",
-      "COBOL",
-      "ColdFusion",
-      "Erlang",
-      "Fortran",
-      "Groovy",
-      "Haskell",
-      "Java",
-      "JavaScript",
-      "Lisp",
-      "Perl",
-      "PHP",
-      "Python",
-      "Ruby",
-      "Scala",
-      "Scheme"
-    ];
-    $( "#tags" ).autocomplete({
-      source: availableTags
-    });
 
