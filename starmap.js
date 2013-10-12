@@ -97,23 +97,22 @@ function find_star(sname) {
 }
 
 
-function select_star(star) {
+function select_star(star, spin_time) {
 
     gc_interp = rad2deginterp(position, [ -star.ra, -star.dec ]);
-    
     
     hide_star_text();
     spinning = 1;
 
     nodes.transition()
-	.duration(SPIN_TIME)
+	.duration(spin_time)
 	.attrTween("transform", function(d, i, a) {
 	    return select_tween(d, gc_interp)
 	});
 
     d3.selectAll("circle")
 	.transition()
-	.duration(SPIN_TIME)
+	.duration(spin_time)
 	.styleTween("opacity", function(d, i, a) {
 	    return hide_tween(d, gc_interp)
 	})
@@ -223,8 +222,8 @@ function render_map(elt, w, h, gostar) {
     R = cx * 0.8;
 
     var svg = d3.select(elt).append("svg:svg")
-                .attr("width", width)
-	        .attr("height", height);
+        .attr("width", width)
+	    .attr("height", height);
 
     nodes = svg.selectAll("g")
     	.data(stars)
@@ -242,7 +241,7 @@ function render_map(elt, w, h, gostar) {
     	.style("opacity", star_opacity)
     	.on("click", function(d) {
     	    if( !spinning && d.z > -STAR_THRESHOLD ) {
-    		select_star(d);
+    		select_star(d, SPIN_TIME);
     		d3.event.stopPropagation();
     	    }
     	});
@@ -259,7 +258,7 @@ function render_map(elt, w, h, gostar) {
             star = find_star(gostar.toUpperCase());
         }
         if( star ) {
-            select_star(star);
+            select_star(star, 0);
         }
     }
 }
