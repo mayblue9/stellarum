@@ -182,23 +182,25 @@ function show_star_text(d) {
 
     /* What I'm doing here: do an each-loop through all of the links,
        look up the star's circles, add a line from each link to 
-       each star, and add the onclick events. */
+       each star, and add the onclick events. 
+       
+       For now I'm leaving the lines out. */
 
     $("span.link").each(
         function (index) {
             var starid = $(this).attr('href');
             star = stars[starid];
             if( star ) {
-                select_star(star, SPIN_TIME);
+                $(this).click(
+                    function(e) {
+                        select(star, SPIN_TIME);
+                    }
+                )
             } else {
                 console.log("Warning: star " + starid + " not found");
             }
         }
-        
-
-    $("span.link").click(
-    );
-
+        );
 }
 
 
