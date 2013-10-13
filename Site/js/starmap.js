@@ -9,7 +9,7 @@ var position = [ 0, 0 ];
 var spinning = 0;
 var highlighted_circle;
 
-var SPIN_TIME = 2000;
+var SPIN_TIME = 800;
 
 var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
@@ -101,7 +101,6 @@ function select_star(star, spin_time) {
 
     gc_interp = rad2deginterp(position, [ -star.ra, -star.dec ]);
     
-    hide_star_text();
     spinning = 1;
 
     nodes.transition()
@@ -120,6 +119,7 @@ function select_star(star, spin_time) {
 	    d3.select(this).each(function(d, i) {
 		if( d.name == star.name ) {
 		    highlight_star_circle(this);
+            hide_star_text();
 		    show_star_text(d);
 		    spinning = 0;
 		}
@@ -174,9 +174,13 @@ function highlight_star_circle(elt) {
 
 function show_star_text(d) {
     $("div#text").removeClass("O B A F G K M C");
+    $("input#starname").removeClass("O B A F G K M C");
+    console.log("star class = " + d.class);
     $("div#text").addClass(d.class);
+    console.log("star class = " + d.class);
+    $("input#starname").addClass(d.class);
     $("div#text").removeClass("hidden");
-    $("div#starname").text(d.name);
+    $("input#starname").val(d.name);
     $("div#stardesignation").text(d.designation);
     $("div#description").html(d.text);
 
@@ -193,7 +197,7 @@ function show_star_text(d) {
             if( star ) {
                 $(this).click(
                     function(e) {
-                        select(star, SPIN_TIME);
+                        select_star(star, SPIN_TIME);
                     }
                 )
             } else {
@@ -244,7 +248,7 @@ function render_map(elt, w, h, gostar) {
 
     cx = width * 0.5;
     cy = height * 0.5;
-    R = cx * 0.8;
+    R = cx * 0.92;
 
     var svg = d3.select(elt).append("svg:svg")
         .attr("width", width)

@@ -6,12 +6,15 @@ h1 {
     color: #fff;
     font-size: 12pt;
     font-family: Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
 div#starmap {
     background-color: #000;
     position: absolute;
-    top: 40px;
+    top: 0px;
     left: 0px;
     width: 800px;
     height: 800px;
@@ -38,24 +41,34 @@ div#controls {
     height: 30px;
 }
 
+/* The star description box */
+
 div#text {
     font-size: 16pt;
     font-family: Helvetica, Arial, sans-serif;
-    opacity: 0.9;
+    opacity: 0.8;
     position: absolute;
     top: 40px;
-    left: 560px;
-    width: 300px;
+    left: 300px;
+    width: 400px;
     padding: 5px;
 }
 
-div#starname {
+input#starname {
     font-weight: bold;
-    font-size: 20pt;
+    font-size: 18pt;
+    border: none;
+    outline: none;
+    padding: 0px;
+    width: 300px;
+}
+
+input#starname:hover {
+    background-color: #fff;
 }
 
 div#stardesignation {
-    font-size: 14pt;
+    font-size: 16pt;
 }
 
 span.link {
@@ -98,6 +111,15 @@ div.G { background-color: #fff4ea }
 div.K { background-color: #ffd2a1 }  
 div.M { background-color: #ffcc6f }  
 div.C { background-color: #ffcc6f }  
+
+input.O { background-color: #9bb0ff }  
+input.B { background-color: #aabfff }  
+input.A { background-color: #cad7ff }  
+input.F { background-color: #f8f7ff }  
+input.G { background-color: #fff4ea }  
+input.K { background-color: #ffd2a1 }  
+input.M { background-color: #ffcc6f }  
+input.C { background-color: #ffcc6f }  
 
 
 circle.hidden { display:none  }

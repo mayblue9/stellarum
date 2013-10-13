@@ -5,43 +5,46 @@
 
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery-ui-1.10.3.custom.js"></script>
     <script src="js/purl.js"></script>
     <script src="js/stars.js"></script>
     <script src="js/starmap.js"></script>
-    <link type="text/css" rel="stylesheet" href="css/starmap.css">
+
+    <link type="text/css" rel="stylesheet" href="css/ui-darkness/jquery-ui-1.10.3.custom.css" />
+    <link type="text/css" rel="stylesheet" href="css/starmap.css" />
   </head>
 
   <body>
     <h1>CATALOGVS STELLARVM</h1>
 
     <div id="starmap">
-
     </div>
-
-<!--    <div id="controls">
-      <form name="controls">
-      <input type="text" id="namefield" name="starname" value="Type here" />
-      <button type="button" onClick="centre_star(document.getElementById('namefield').value);">Go</button>
-      </form>
-    </div> -->
-
-	
-    <div id="text" class="hidden">
-      <div id="starname"></div>
+    <div id="text">
+      <input id="starname" type="text" />
+      
       <div id="stardesignation"></div>
       <div id="description"></div>
     </div>
 
-<!--    <form name="finder">
-      <input id="acfield" type="text" name="star" />
-      <input type="submit" value="Find" />
-    </form> -->
-
-
     <script lang="javascript">
+
+      $("input#starname")
+      .autocomplete({source: starNames})
+      .on("autocompleteselect", function(event, ui) {
+          var star = find_star(ui.item.value);
+          console.log(ui.item);
+          console.log(star);
+          if( star ) {
+               select_star(star, SPIN_TIME);
+          }
+      });
+      
+
       var url = $.url();
       var star = url.param('star');
       render_map("div#starmap", 800, 800, star);
+
+
     </script>
 
 

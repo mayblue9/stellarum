@@ -6119,4 +6119,14 @@ var stars = [
          "z" : -0.163031759477633
       }
    }
-]
+];
+
+var starNames = [];
+
+// FIXME - this is where we need the disambiguation for stars like
+// MARKAB
+
+for (var i = 0; i < stars.length; i++ ) {
+    starNames.push(stars[i].name);
+}
+
