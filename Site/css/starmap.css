@@ -61,7 +61,7 @@ input#starname {
     border: none;
     outline: none;
     padding: 0px;
-    width: 300px;
+    width: 100%;
 }
 
 input#starname.start {
