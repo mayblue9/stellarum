@@ -28,6 +28,7 @@ div#cursor {
     left: 0px;
     width: 800px;
     height: 800px;
+    border: 1px solid red;
 }
 
 
@@ -46,10 +47,10 @@ div#controls {
 div#text {
     font-size: 16pt;
     font-family: Helvetica, Arial, sans-serif;
-    opacity: 0.8;
+    opacity: 0.94;
     position: absolute;
-    top: 40px;
-    left: 300px;
+    top: 420px;
+    left: 420px;
     width: 400px;
     padding: 5px;
 }
@@ -62,6 +63,16 @@ input#starname {
     padding: 0px;
     width: 300px;
 }
+
+input#starname.start {
+    color: #888;
+}
+
+div#text.start {
+    background-color: #fff;
+}
+
+
 
 input#starname:hover {
     background-color: #fff;
@@ -89,6 +100,7 @@ span.link {
 circle {
     stroke-width: 1px;
     opacity: 0.8;
+    cursor: pointer;
 }
 
 /* Star colour classes

@@ -15,31 +15,49 @@
   </head>
 
   <body>
-    <h1>CATALOGVS STELLARVM</h1>
+    <div id="header">
+    <span id="title">CATALOGVS STELLARVM</span>
+    <span id="links">
+      <a href="about.html">About</a>
+    <span>
+    </div>
 
     <div id="starmap">
     </div>
-    <div id="text">
-      <input id="starname" type="text" />
+
+    <div id="text" class="start">
+      <input id="starname"
+             type="text"
+             class="start"
+             value="SEARCH" />
       
       <div id="stardesignation"></div>
-      <div id="description"></div>
+      <div id="description">
+        <p>Welcome to the CATALOGUS STELLARUM, an index of local concentrations of BRIGHT MATTER.</p>
+        <p>Search for stars by name by typing above, or select them from the celestial sphere.</p>
+
+      </div>
     </div>
 
     <script lang="javascript">
 
-      $("input#starname")
-      .autocomplete({source: starNames})
-      .on("autocompleteselect", function(event, ui) {
-          var star = find_star(ui.item.value);
-          console.log(ui.item);
-          console.log(star);
-          if( star ) {
-               select_star(star, SPIN_TIME);
-          }
-      });
-      
+      function start_autocomplete(event) {
+          $(this).val("");
+          $(this).off("focus", start_autocomplete);
+          $(this).autocomplete({source: starNames})
+                 .on("autocompleteselect", function(event, ui) {
+                     var star = find_star(ui.item.value);
+                     if( star ) {
+                         select_star(star, SPIN_TIME);
+                     }
+                  });
+      }
 
+
+
+
+      $("input#starname").on("focus", start_autocomplete);
+      
       var url = $.url();
       var star = url.param('star');
       render_map("div#starmap", 800, 800, star);

@@ -173,11 +173,9 @@ function highlight_star_circle(elt) {
 }
 
 function show_star_text(d) {
-    $("div#text").removeClass("O B A F G K M C");
-    $("input#starname").removeClass("O B A F G K M C");
-    console.log("star class = " + d.class);
+    $("div#text").removeClass("O B A F G K M C start");
+    $("input#starname").removeClass("O B A F G K M C start");
     $("div#text").addClass(d.class);
-    console.log("star class = " + d.class);
     $("input#starname").addClass(d.class);
     $("div#text").removeClass("hidden");
     $("input#starname").val(d.name);
