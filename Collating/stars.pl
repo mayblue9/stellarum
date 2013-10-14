@@ -19,7 +19,7 @@ my $MAX_STARS = undef;
 
 my $MAX_REDIRECTS = 5;
 
-my $FILEDIR = './Files/';
+my $FILEDIR = './Wikifiles/';
 
 my @FIELDS = qw(
     id name designation greek constellation
@@ -65,6 +65,8 @@ my %SUPERSCRIPT = (
 
 
 my $INFILE = 'fsvo.js';
+my $MANUALSTARS = 'Manual_stars.csv';
+
 my $CSVOUT = 'stars.csv';
 my $JSONOUT = 'stars.js';
 
@@ -81,6 +83,11 @@ my $json;
 my $data = decode_json($json);
 
 my $stars = read_json_stars(tweets => $data->{tweets});
+my $mstars = read_csv(file => $MANUALSTARS, fields => \@FIELDS);
+
+print Dumper({manual => $mstars});
+
+die;
 
 my @nowiki = map { $_->{wiki} ? () : $_ } @$stars;
 
@@ -463,6 +470,37 @@ sub write_csv {
 
     close $fh;
 }
+
+
+sub read_csv {
+    my %params = @_;
+
+    my $file = $params{file};
+    my $fields = $params{fields};
+
+    my $csv = Text::CSV->new;
+
+    open my $fh, "<:encoding(utf8)", $file || die("$file - $!");
+
+    my $data = {};
+
+    while ( my $row = $csv->getline($fh ) ) {
+        print join(' ', @$row) . "\n";
+        if( $row->[1] =~ /^[A-Z]+/ ) {
+            my $n = $row->[1];
+            $data->{$n} = {};
+            for my $f ( @$fields ) {
+                $data->{$n}{$f} = shift @$row;
+            }
+        }
+    }
+
+    close $fh;
+
+    return $data;
+}
+
+
 
 
 sub write_json {
