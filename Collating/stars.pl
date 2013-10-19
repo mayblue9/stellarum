@@ -513,33 +513,33 @@ sub write_json {
     my $data = [];
 
     for my $star ( @$stars ) {
-	if ( defined $star->{ra} ) {
-	    my $class = uc(substr($star->{class}, 0, 1));
-	    if ( $class !~ /^[CMKFGOBA]$/ ) {
-		print "Bad class $class for $star->{name}, forced A\n";
-		$class = 'A';
-	    } else {
-		print "good class $class for $star->{name}\n";
-	    }
-	    push @$data, {
-		id => $star->{id},
-		name => $star->{name},
-		designation => $star->{bayer},
-		wiki => $star->{wiki},
-		html => $star->{html},
-		magnitude => int($star->{appmag_v}),
-		ra => $star->{ra} + 0,
-		dec => $star->{dec} + 0,
-		vector => unit_vec(star => $star),
-		text => $star->{text},
-		class => $class
-	    };
-	}
+        if ( defined $star->{ra} ) {
+            my $class = uc(substr($star->{class}, 0, 1));
+            if ( $class !~ /^[CMKFGOBA]$/ ) {
+                print "Bad class $class for $star->{name}, forced A\n";
+                $class = 'A';
+            } else {
+                print "good class $class for $star->{name}\n";
+            }
+            push @$data, {
+                id => $star->{id},
+                name => $star->{name},
+                designation => $star->{bayer},
+                wiki => $star->{wiki},
+                html => $star->{html},
+                magnitude => int($star->{appmag_v}),
+                ra => $star->{ra} + 0,
+                dec => $star->{dec} + 0,
+                vector => unit_vec(star => $star),
+                text => $star->{text},
+                class => $class
+            };
+        }
     }
-	   
-
+    
+    
     my $text = $json->pretty->encode($data);
-
+    
     open(my $fh, ">:encoding(utf8)", $JSONOUT) || die("Couldn't write to $JSONOUT: $!");
 
     print $fh "var stars = $text";
