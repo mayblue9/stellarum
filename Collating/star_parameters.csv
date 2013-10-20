@@ -3,8 +3,7 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 2,ACHERNAR,,,Eridani,Alpha Eridani,cache,1,37,42.84548,-57,14,12.3101,0.4263581548,-0.9989697896,0.5,B6 Vep,6–8,,"Held by Yule to be a line-of-sight cognate of ACAMAR, which led to the rediscovery and abandonment of Old Earth."
 3,ACRUX,,,Crucis,Alpha Crucis,cache,12,26,35.89522,-63,5,56.7343,3.257649429,-1.1012869254,0.77,B0.5IV + B1V,14 / 10 ,,"A hot, blue-white binary with a characteristic Tropicália spectrum, expected to end its life in a bossa nova."
 4,ACUBENS,,,Cancri,Alpha Cancri,cache,8,58,29.2217,11,51,27.723,2.3495929059,0.2069559213,4.2,A5m,2,,"A rare ""white blood star"" or stellar phage, part of the Galaxy's immune defence system. Not to be approached."
-5,ADHARA,,,Canis Majoris,Epsilon Canis Majoris,cache,6,58,37.6,-28,58,19,1.8266034175,-0.5056558213,1.51,"B2 II
- ",12.6 ± 1.0,,"Blue star with high ultraviolet emissions, sacred to dinosaurs."
+5,ADHARA,,,Canis Majoris,Epsilon Canis Majoris,cache,6,58,37.6,-28,58,19,1.8266034175,-0.5056558213,1.51,B,12.6 ± 1.0,,"Blue star with high ultraviolet emissions, sacred to dinosaurs."
 6,ADHIL,,,Andromedae,Xi Andromedae,cache,1,22,20.41924,45,31,43.6003,0.3592774257,0.7946270781,4.9,K0 IIIb,2.5,,"Orange giant, its appearance was compared by Herschel to that of ""a giant Orange""."
 7,AIN,,,Tauri,Epsilon Tauri,cache,4,28,37,19,10,49.5,1.1720613148,0.3347614227,3.53,K0III,2.7 ± 0.1,,"Mature, unblinking star with the disquieting property of seeming to ""follow"" the observer around the Galaxy."
 8,AL BALI,,,Aquarii,Epsilon Aquarii,cache,20,47,40.5526,-9,29,44.7877,5.4440130114,-0.1657325276,3.77,A1 V, ,,"White star surrounded by a disk of debris, suggesting the hypothesis that it is inhabited by five-year-olds."
@@ -37,12 +36,10 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 35,ALFIRK,,,Cephei,Beta Cephei,cache,21,28,39.5971,70,33,38.578,5.6228397738,1.2315168187,3.1438,B2IIIev,12,,"Triple system with hesitant, jerky proper motion, implying a nearby unseen stellar predator."
 36,ALGENIB,,,Pegasi,Gamma Pegasi,cache,0,13,14.15123,15,11,0.9368,0.0577523072,0.2650036998,2.84,B2 IV,8.9 ± 0.1,,Large green star which was constructed from a pea as a demonstration of the Banach-Tarski Paradox.
 37,ALGIEBA,,,Leonis,Gamma Leonis,cache,10,19,58.35056,19,50,29.3468,2.7051403899,0.3462992456,2.01,K0 IIIb,1.23,,"Double giant system, planetary companion with biosphere spectral fingerprint RRRAAA560AA (""pirate planet"")"
-38,ALGOL,,,Persei,Beta Persei,cache,3,8,10.1315,40,57,20.332,0.8210415319,0.714810901,2.12,B8V (A),"3.59/0.79/1.67
- ",,"Celestial lighthouse, its evil reputation is a galactic race memory of the brutal slavery used in its construction."
+38,ALGOL,,,Persei,Beta Persei,cache,3,8,10.1315,40,57,20.332,0.8210415319,0.714810901,2.12,B8V (A),3.59/0.79/1.67,,"Celestial lighthouse, its evil reputation is a galactic race memory of the brutal slavery used in its construction."
 39,ALGORAB,,,Corvi,Delta Corvi,cache,12,29,51.85517,-16,30,55.5525,3.2719000387,-0.2882486527,2.962,A0 IV(n) kB9,2.74{{+-,,"Spindle-shaped star with a star-shaped profile, viewed from Earth. Believed to be a fruiting body of some kind."
 40,ALHENA,,,Geminorum,Gamma Geminorum,cache,6,37,42.7105,16,23,57.4095,1.7353452778,0.2862214382,1.9,A1 IV,2.81,,"Pulsating star, believed to be the rejected core of a dying supergiant."
-41,ALIOTH,,,Ursae Majoris,Epsilon Ursae Majoris,cache,12,54,1.74959,55,57,35.3627,3.3773393364,0.9766831597,1.77,"A0pCr
- ",2.91,,"Chromium-rich star, serves as the galactic magnetic pole in the metal cultures."
+41,ALIOTH,,,Ursae Majoris,Epsilon Ursae Majoris,cache,12,54,1.74959,55,57,35.3627,3.3773393364,0.9766831597,1.77,A0pCr,2.91,,"Chromium-rich star, serves as the galactic magnetic pole in the metal cultures."
 42,ALKAFZAH,,,Ursae Majoris,Chi Ursae Majoris,cache,11,46,3,47,46,46,3.0807242959,0.8339086203,3.69,K,,,"Capital star of Ursa Major, with a long tradition of representative magnetohydrodynamics."
 43,ALKALUROPS,,,Boötis,Mu Boötis,cache,15,24,29.4278,37,22,37.8,4.0338506221,0.6523546234,4.31,F0V,1.7,,"Dub star with an oscillating core of dark matter, used by the stellar alchemists to transmit funky frequencies."
 44,ALKES,,,Crateris,Alpha Crateris,cache,10,59,46.4647,-18,17,55.62,2.878808951,-0.3193740183,4.07,K1 III,2.5,,"K-type giant with companion with biosphere spectral fingerprint YIY55A38642 (""cowboy planet"")"
@@ -70,8 +67,7 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 66,ANKAA,,,Phoenicis,Alpha Phoenicis,cache,0,26,17.0514,-42,18,21.5539,0.1146864142,-0.7383787698,2.377,K0.5 IIIb,,,Quark star surrounded by an accretion disk of malodorous curds.
 67,ANTARES,,,Scorpii,Alpha Scorpii,cache,16,29,24|24.45970,-26,25,55|55.2094,4.3170719048,-0.4613244583,1.09,M1.5Iab-b + B2.5V,12.4,,"Immense, irregular giant. Dark forms, none alike, move with ritual slowness over its vast red terraces."
 68,APOLLYON,,,Scorpii,Iota1 Scorpii,cache,17,47,35.08113,-40,7,37.1893,4.6582169515,-0.7003482171,3.03,F2 Ia,12.11 ± 0.66,,Glossy black star which appears to shine solely by reflected light.
-69,ARCTURUS,,,Boötis,Alpha Boötis,cache,14,15,39.7,19,10,56,3.7335283416,0.3347929356,-0.04,"K1.5IIIFe-0.5
- ",1.10 ± 0.06,,"Important local hub of stellar alchemy, inhabited by a race of incredibly tendentious demiurges."
+69,ARCTURUS,,,Boötis,Alpha Boötis,cache,14,15,39.7,19,10,56,3.7335283416,0.3347929356,-0.04,K1.5IIIFe-0.5,1.10 ± 0.06,,"Important local hub of stellar alchemy, inhabited by a race of incredibly tendentious demiurges."
 70,ARKAB POSTERIOR,,,Sagittarii,Beta2 Sagittarii,cache,19,22,38.3,44,27,32,5.0729667316,0.7759539929,3.96,B,,,"F-type giant, companion with biosphere spectral fingerprint HOL0045A966 (""hillbilly planet"")"
 71,ARKAB PRIOR,,,Sagittarii,Beta1 Sagittarii,cache,19,22,38.3,44,27,32,5.0729667316,0.7759539929,3.96,B,,,"Home to an order of Clone Monks, one of the few celibate religious communities with an overpopulation problem."
 72,ARM,,,Capricorni,Eta Capricorni,cache,21,4,24.3,19,51,18,5.5170075822,0.346535123,4.82,A,,,Binary system whose planet has a figure-8 orbit about both stars and was depopulated in the Calendar Wars.
@@ -234,8 +230,7 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 229,MIMOSA,,,Crucis,Beta Crucis,cache,12,47,43.26877,-59,41,19.5792,3.3498154344,-1.0417655979,1.3,B0.5 III,16,,"Intricate blue dwarf, home to the Machine Elves, a race of minor demiurges. Only to be approached by astral travel."
 230,MINARUJA,,,Hydrae,Sigma Hydrae,cache,8,38,45.4,3,20,29,2.2635029625,0.0583182377,4.44,K,,,"K-type star, last outpost before the Uninhabited Spot, a bustling mercantile zone and tax haven."
 231,MINKAR,,,Corvi,Epsilon Corvi,cache,12,10,7.48058,-22,37,11.162,3.185769888,-0.3947894141,3.024,K2 III,3.2,,"K-giant, home to an avian race who aspire to flightlessness and who proudly style themselves ""they who creep""."
-232,MINTAKA,,,Orionis,Delta Orionis,cache,5,32,0.4,0,17,57,1.448652368,-0.0052214433,2.23,"O9.5 II + B0.5III
- ",20,,"Hot O and B giants in a tight orbit, a celestial amour fou which must end with one or both partners going supernova."
+232,MINTAKA,,,Orionis,Delta Orionis,cache,5,32,0.4,0,17,57,1.448652368,-0.0052214433,2.23,O9.5 II + B0.5III,20,,"Hot O and B giants in a tight orbit, a celestial amour fou which must end with one or both partners going supernova."
 233,MIRA,,,Ceti,Omicron Ceti,cache,2,19,20.7921,-2,58,39.4956,0.6080139592,-0.0519695812,3.04,M7 IIIe,1.18,,"Magnificent system, a white dwarf linked to a pulsing red giant by a vast stream of glowing gas teeming with new life."
 234,MIRACH,,,Andromedae,Beta Andromedae,cache,1,9,43.92388,35,37,14.0075,0.3042635307,0.6216960122,2.06,M0 III,3&ndash;4,,"Illusory red giant, believed to have been constructed as a decoy by a local trickster deity."
 235,MIRAM,,,Persei,Eta Persei,cache,2,50,41.8,55,53,44,0.7448047139,0.9755614817,3.76,K,,,"Folksy K-type star which prides itself on being ""the biggest little subgiant in the Orion Arm""."
@@ -284,8 +279,7 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 278,QUARTA STRUTHIONUM,,,Ceti,Zeta Ceti,No coords,1,51,28,-10,20,6,,,3.9,K,,,K-giant whose desert planet was colonised by a hominid species expert at believing their own legal fictions.
 279,QUINTA STRUTHIONUM,,,Ceti,Upsilon Ceti,cache,2,0,0.31,21,4,40,0.5236213194,0.3678766212,3.99,K,,,"Red giant orbited by a strange megastructure thought by scholars to be a prison, hospital, ship or resort."
 280,RANA,,,Eridani,Delta Eridani,cache,3,43,14.9,-9,45,48.2,0.9741046166,-0.1704032823,3.54,K0 IV,1.33 ± 0.07,,"K-subgiant with planetary companion bearing biosphere spectral fingerprint BRKE7E7E7E7 (""swamp planet"")"
-281,RAS ALGETHI,,,Herculis,Alpha Herculis,cache,17,14,38.8,14,23,25,4.514497732,0.2511577275,3,"M5IIvar / (G5III+F2V)
- ",2.15 ± 0.22,,"Home to a planet-wide sentient ocean whose enigmatic signals are now thought to mean: ""HELP, I CAN'T GET UP""."
+281,RAS ALGETHI,,,Herculis,Alpha Herculis,cache,17,14,38.8,14,23,25,4.514497732,0.2511577275,3,M5IIvar / (G5III+F2V),2.15 ± 0.22,,"Home to a planet-wide sentient ocean whose enigmatic signals are now thought to mean: ""HELP, I CAN'T GET UP""."
 282,RAS ALHAGUE,,,Ophiuchi,Alpha Ophiuchi,cache,17,34,56.06945,12,33,36.1346,4.6030200645,0.2192140066,2.1,A5 III,2.40{{+-,,"White star, site of the Court of Relativity, with jurisdiction over spacelike precedence and looped successions."
 283,RAS ELASED AUSTRALIS,,,Leonis,Epsilon Leonis,cache,9,45,51.0733,23,46,27.3208,2.5562581862,0.4149390405,2.98,G1 II,4.01,,Prosperous system which punishes any migrants whose desperation reminds the inhabitants how lucky they are.
 284,RAS ELASED BOREALIS,,,Leonis,Mu Leonis,No coords,9,52,45,26,0,23,,,4.1,K,,,"Whiter-than-white star, a projection of the dreams of the ruling caste of RAS ELASED AUSTRALIS (q.v.)"
@@ -325,12 +319,11 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 318,SEAT,,,Aquarii,Pi Aquarii,cache,22,25,16.62285,1,22,38.6346,5.8698784576,0.0240401389,4.66,B1 Ve,10.7 ± 0.7,,"When you wish upon a star, it is routed to the demiurges of this binary, currently running a three-cosmic-year backlog."
 319,SECUNDA STRUTHIONUM,,,Ceti,Theta Ceti,cache,1,24,1.4,8,11,0,0.3666209538,0.1428261105,3.6,K,,,"K-giant, the inhabitants of its one planet have no culture apart from a single sport, which they are bad at."
 320,SECUNDUS HYADUM,,,Tauri,Delta1 Tauri,cache,4,22,56.1,17,32,33,1.1472703672,0.306174384,3.77,K,,,"Binary star, female in myth but male in grammar. The real genders of stars are noncommutative vector operators."
-321,SEGIN,,,Cassiopeiae,Epsilon Cassiopeiae,cache,1,54,23.72567,63,40,12.3628,0.4991442162,1.1112528936,3.37,B3 III,9.2 ± 0.2,,"Blue-white cosmic pearl secreted by the galactic animal around an ancient generation ship, lost in a nacreous tomb."
+321,SEGIN,,,Cassiopeiae,Epsilon Cassiopeiae,cache,1,,23.72567,63,40,12.3628,0.4991442162,1.1112528936,3.37,B3 III,9.2 ± 0.2,,"Blue-white cosmic pearl secreted by the galactic animal around an ancient generation ship, lost in a nacreous tomb."
 322,SEGINUS,,,Boötis,Gamma Boötis,cache,14,32,4.6719,38,18,29.709,3.8051575195,0.6686051368,3,A7 III, ,,Classical white star which is currently in a smooth transition from a hydrogen-fusing dwarf to a bright giant.
 323,SEPHDAR,,,Sagittarii,Eta Sagittarii,cache,18,17,37.63505,-36,45,42.0667,4.7893023717,-0.6416124452,3.11,M2 III, ,,"Neurotic red giant with strong emission lines at 4860 ångströms, indicating a buildup of resentment."
 324,SHAM,,,Sagittae,Alpha Sagittae,cache,19,40,5.8,18,0,50,5.1491430813,0.3144016722,4.39,G,,,More than 70% of this yellow giant's mass has been converted to broth and encouraging pamphlets by a replicator outbreak.
-325,SHAULA,,,Scorpii,Lambda Scorpii,cache,17,33,36.52,-37,6,13.76,4.5972350652,-0.6475838629,1.62,"B1.5-2 IV+ (A)
- ", ,,"Quintuple system whose worlds were reprocessed into a superweapon, the Sting, now used as a Memorial to Forgotten Wars."
+325,SHAULA,,,Scorpii,Lambda Scorpii,cache,17,33,36.52,-37,6,13.76,4.5972350652,-0.6475838629,1.62,B1.5-2 IV+ (A), ,,"Quintuple system whose worlds were reprocessed into a superweapon, the Sting, now used as a Memorial to Forgotten Wars."
 326,SHE,,,Columbae,Mu Columbae,cache,5,45,59.9,32,18,23,1.5097025308,0.5638528555,5.15,O9.5 V,12-15,,Hot O-class dwarf which was ejected from the Orion supernova factory after a disagreement with local demiurges.
 327,SHELIAK,,,Lyrae,Beta Lyrae,cache,18,50,4.79525,33,21,45.61,4.9309038573,0.5822884291,3.52,B6–8II / B,A: 2.83 ± 0.18 ''M'',,"Semi-detached binary, Roche lobes kissing in a fever of x-rays and plasma, attracting complaints from the neighbours."
 328,SHERATAN,,,Arietis,Beta Arietis,cache,1,54,38.41099,20,48,28.9133,0.5002121628,0.36316866,2.655,A5 V,2.34 ± 0.10,,Comfortable white star with a spotless spectrum and an exceptionally high thread count.
@@ -363,11 +356,10 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 355,THABIT,,,Orionis,Upsilon Orionis,cache,5,31,55.8,-7,18,5,1.4483178465,-0.1274332761,4.62,B0 V,20.6,,"B-giant, in an example of the fixed-point theorem it is the only star in the Galaxy whose constellations never change."
 356,THANIH AL ADZARI,,,Canis Majoris,Omicron2 Canis Majoris,cache,7,3,1.47211,-23,49,59.8523,1.8457927388,-0.4159694223,3.043,B3 Ia,21.4 ± 2.2,,"Huge and luminous blue giant, its system's inhabitants have not yet noticed the rest of the Galaxy."
 357,THEEMIM,,,Eridani,Upsilon2 Eridani,cache,4,35,33.0385,-30,33,44.429,1.2023164883,-0.5334134844,3.817,G8IIIa,1.38 ± 0.19,,Counterfactual version of BEEMIM (q.v.) created by a cataloguing error aboard a ship with a subjunctive warp drive.
-358,THUBAN,,,Draconis,Alpha Draconis,cache,14,4,23.3498,64,22,33.062,3.6843427671,1.123570551,3.6452,A0III ,"3.85
-  ",,"""Given the means, any species will create dragons; they are, as an ancient poet wrote, a necessary animal."" —Yll"
+358,THUBAN,,,Draconis,Alpha Draconis,cache,14,4,23.3498,64,22,33.062,3.6843427671,1.123570551,3.6452,A0III ,3.85,,"""Given the means, any species will create dragons; they are, as an ancient poet wrote, a necessary animal."" —Yll"
 359,TIEN KWAN,,,Tauri,Zeta Tauri,cache,5,37,38.68542,21,8,33.1588,1.4732531779,0.369007007,3.01,B2 IIIpe,11.2,,"Giant blue star surrounded by an eternally spiraling density wave, a mighty celestial pinwheel."
 360,TORCULARIS SEPTENTRIONALIS,,,Piscium,Omicron Piscium,cache,1,45,23.6,9,9,28,0.4598651691,0.1598333744,4.26,G,,,"G-giant, home to a Nominalist sect; its full name is written on the rings of its largest gas giant."
-361,TRAPEZIUM,,,Orionis,Theta1 Orionis,cache,5,35.4,5,5,27,1.6,,,4,O,,,Volatile cluster of hot blue giants in the Orion supernova works. The responsible demiurge has been rebuked.
+361,TRAPEZIUM,,,Orionis,Theta1 Orionis,cache,5,35,5,5,27,1.6,,,4,O,,,Volatile cluster of hot blue giants in the Orion supernova works. The responsible demiurge has been rebuked.
 362,TUREIS,,,Puppis,Rho Puppis,cache,8,7,32.64882,-24,18,15.5679,2.1273126535,-0.4241904835,2.78,F2mF5IIp,1.85,,"Example of a Del Scuti variable, its surface moving inwards and outwards as it turns around. That's what it's all about."
 363,TYL,,,Draconis,Epsilon Draconis,cache,19,48,10.3521,70,16,4.549,5.1843807044,1.2264067419,3.9974,G8III ,2.7,,"Yellow giant, orbited by the planet Owlglass, where trickster deities from across the Galaxy observe their convocations."
 364,UKDAH,,,Hydrae,Tau Hydrae,cache,9,29,8.9,2,46,8,2.4833780872,0.0483262277,4.59,F,,,"A tangled filament of the galactic animal has snared this G-class star, around which the manifold shudders and heaves."

@@ -19,6 +19,8 @@ my $MAX_STARS = undef;
 
 my $MAX_REDIRECTS = 5;
 
+my $USE_WIKI = 0;
+
 my $FILEDIR = './Wikifiles/';
 
 my @FIELDS = qw(
@@ -65,7 +67,7 @@ my %SUPERSCRIPT = (
 
 
 my $INFILE = 'fsvo.js';
-my $MANUALSTARS = 'Manual_stars.csv';
+my $PARAMETERS = 'star_parameters.csv';
 
 my $CSVOUT = 'stars.csv';
 my $JSONOUT = 'stars.js';
@@ -83,11 +85,8 @@ my $json;
 my $data = decode_json($json);
 
 my $stars = read_json_stars(tweets => $data->{tweets});
-my $mstars = read_csv(file => $MANUALSTARS, fields => \@FIELDS);
 
-print Dumper({manual => $mstars});
-
-die;
+my $parameters = read_csv(file => $PARAMETERS, fields => \@FIELDS);
 
 my @nowiki = map { $_->{wiki} ? () : $_ } @$stars;
 
@@ -96,18 +95,51 @@ if( @nowiki ) {
     die;
 }
 
-my $n = 0;
-for my $star ( @$stars ) {
-    my $wiki = wiki_look(star => $star);
-    for my $field ( keys %$wiki ) {
-	$star->{$field} = $wiki->{$field};
-    } 
-    print "$star->{name} $wiki->{wikistatus}\n";
-    if( $MAX_STARS && $n > $MAX_STARS ) {
-	last;
+if( $USE_WIKI ) {
+    print "Getting star data from Wiki/wikicache\n";
+    my $n = 0;
+
+    for my $star ( @$stars ) {
+        my $wiki = wiki_look(star => $star);
+        for my $field ( keys %$wiki ) {
+            $star->{$field} = $wiki->{$field};
+        } 
+        print "$star->{name} $wiki->{wikistatus}\n";
+        if( $MAX_STARS && $n > $MAX_STARS ) {
+            last;
+        }
+        $n++;
     }
-    $n++;
+} else {
+    print "Getting star data from $PARAMETERS\n";
+    my @fields = qw(ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class);
+    for my $star ( @$stars ) {
+        my $id = $star->{id};
+        my $params = $parameters->{$id};
+        if( $params->{name} ne $star->{name} ) {
+            warn "$id $star->{name} MISMATCH $params->{name}\n";
+        } else {
+            print "$id $star->{name}\n";
+            for my $field ( @fields ) {
+                $star->{$field} = $params->{$field};
+            }
+            if( ! $star->{ra} ) {
+                print "Converting coords for $star->{name}... \n";
+                my @coords = astro_coords(
+                    [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
+                    [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
+                    );
+                if( @coords ) {
+                    ( $star->{ra}, $star->{dec} ) = @coords;
+                } else {
+                    print "Bad coords for $id $star->{name}\n";
+#                    warn("Bad coords for $id $star->{name}");
+                }
+            }
+        }
+    }
 }
+
 
 write_csv(stars => $stars);
 
@@ -119,23 +151,23 @@ sub read_json_stars {
 
     my $stars = [];
     my $id = 1;
-
+    
     my $tweets = $params{tweets};
-
+    
     for my $tweet ( @$tweets ) {
-	my $text = $tweet->{text};
-	
-	if( $text =~ /^([A-Z\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
-	    
-	    my $star = parse_tweet(
-		id => $id,
-		name => $1,
-		bayer => $2,
-		text => $3
-	    );
-	    push @$stars, $star;
-	    $id++;
-	}
+        my $text = $tweet->{text};
+        
+        if( $text =~ /^([A-Z\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
+            
+            my $star = parse_tweet(
+                id => $id,
+                name => $1,
+                bayer => $2,
+                text => $3
+                );
+            push @$stars, $star;
+            $id++;
+        }
     }
     return $stars;
 }
@@ -149,44 +181,44 @@ sub parse_tweet {
     my $id = $params{id};
 
     my $star = {
-	bayer => $bayer,
-	name => $name,
-	text => $text,
-	html => $bayer,
-	wiki => $bayer,
-	id => $id
+        bayer => $bayer,
+        name => $name,
+        text => $text,
+        html => $bayer,
+        wiki => $bayer,
+        id => $id
     };
-
+    
     if( my $xrefs = get_xrefs(text => $text) ) {
-	$star->{xrefs} = $xrefs;
-	print "XREFS $name: " . join(' ', @$xrefs) . "\n";
+        $star->{xrefs} = $xrefs;
+        print "XREFS $name: " . join(' ', @$xrefs) . "\n";
     }
     
     if( $bayer =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
-
+        
         $star->{constellation} = $2;
-
-	my $number = $1;
-
-	if( $number !~ /^[0-9]+$/ ) {
-	    my $c = substr($number, 0, 1);
-	    my $greek = undef;
-	    my $suffix = undef;
-	    if( $GREEK{$c} ) {
-		$greek = $GREEK{$c};
-		if( length($number) > 1 ) {
-		    my $super = substr($number, -1, 1);
-		    $suffix = $SUPERSCRIPT{$super};
-		}
-		$star->{wiki} = ucfirst($greek) . $suffix;
-		$star->{wiki} .= ' ' . $star->{constellation};
-		$star->{html} = '&' . $greek . ';';
-		if( $suffix ) {
-		    $star->{html} .= "<super>$suffix</super>";
-		}
-		$star->{html} .= " $star->{constellation}";
-	    }
-	}
+        
+        my $number = $1;
+        
+        if( $number !~ /^[0-9]+$/ ) {
+            my $c = substr($number, 0, 1);
+            my $greek = undef;
+            my $suffix = undef;
+            if( $GREEK{$c} ) {
+                $greek = $GREEK{$c};
+                if( length($number) > 1 ) {
+                    my $super = substr($number, -1, 1);
+                    $suffix = $SUPERSCRIPT{$super};
+                }
+                $star->{wiki} = ucfirst($greek) . $suffix;
+                $star->{wiki} .= ' ' . $star->{constellation};
+                $star->{html} = '&' . $greek . ';';
+                if( $suffix ) {
+                    $star->{html} .= "<super>$suffix</super>";
+                }
+                $star->{html} .= " $star->{constellation}";
+            }
+        }
     }
     return $star;
 }
@@ -245,16 +277,16 @@ sub wiki_look {
 
     $star->{search} = $search;
     if( !$search ) {
-	print "WARN: no wikisearch for " . Dumper($star);
-	die;
+        print "WARN: no wikisearch for " . Dumper($star);
+        die;
     }
     my $result = fetch_wiki(search => $search, name => $star->{name});
     if( $result->{text} ) {
-	$values = parse_wiki(wiki => $result->{text});
+        $values = parse_wiki(wiki => $result->{text});
     }
     return {
-	wikistatus => $result->{status},
-	%$values
+        wikistatus => $result->{status},
+        %$values
     };
 }
 
@@ -270,25 +302,25 @@ sub fetch_wiki {
     my $status = '';
 
     if( -e $file ) {
-	open(my $fh, "<:encoding(UTF-8)", $file) || die("Couldn't open cachefile $file: $!");
-	local $/;
-	$text = <$fh>;
-	$status = 'cache';
+        open(my $fh, "<:encoding(UTF-8)", $file) || die("Couldn't open cachefile $file: $!");
+        local $/;
+        $text = <$fh>;
+        $status = 'cache';
     } else {
-	$text = wiki_search(search => $search);
-	if ( $text ) {
-	    $status = 'found';
-	    open(my $fh, ">:encoding(UTF-8)", $file) || die("Couldn't open cachefile $file for writing: $!");
-	    print $fh $text;
-	    close $fh;
-	} else {
-	    $status = 'not found';
-	}
+        $text = wiki_search(search => $search);
+        if ( $text ) {
+            $status = 'found';
+            open(my $fh, ">:encoding(UTF-8)", $file) || die("Couldn't open cachefile $file for writing: $!");
+            print $fh $text;
+            close $fh;
+        } else {
+            $status = 'not found';
+        }
     }
-
+    
     return {
-	text => $text,
-	status => $status
+        text => $text,
+        status => $status
     }
 }
 
@@ -337,56 +369,46 @@ sub parse_wiki {
     # likewise all &nbsp;s
 
     $text =~ s/&nbsp;/ /g;
-
-
+    
+    
     # my $ANGLE_RE = qr/([\N{EN DASH}+-]?[0-9]+)\|([0-9]+)\|(\d+\.?\d*)/;
-
+    
     my $VALUE_RE = qr/\s*=\s*([^<\|\}]+).*$/ms;
-
-
+    
+    
     my $ra = parse_angle(text => $text, coord => 'ra');
     my $dec = parse_angle(text => $text, coord => 'dec');
-
+    
     for my $i ( 1, 2, 3 ) {
-	if( $ra ) {
-	    $values->{"ra$i"} = $ra->[$i - 1];
-	}
-	if( $dec ) {
-	    $values->{"dec$i"} = $dec->[$i - 1];
-	}
+        if( $ra ) {
+            $values->{"ra$i"} = $ra->[$i - 1];
+        }
+        if( $dec ) {
+            $values->{"dec$i"} = $dec->[$i - 1];
+        }
     }
-
+    
     if( $ra && $dec ) {
-	my $coords = Astro::Coords->new(
-	    name => 'test',
-	    ra => join(':', @$ra),
-	    dec => join(':', @$dec),
-	    type => 'J2000',
-	    units => 'sexagesimal'
-	    );
-	
-	if( $coords ) {
-	    my ( $r, $d ) = $coords->radec();
-	    $values->{ra} = $r->radians();
-	    $values->{dec} = $d->radians();
-	} else {
-	    print "Couldn't construct Astro::Coords object\n";
-	    my $c = substr($dec->[0], 0, 1);
-	    print "Initial character of dec: $c\n";
-	    print "ord = " . ord($c) . "\n";
-	    print "viacode = " . charnames::viacode(ord($c)) . "\n";
-	}
+        my @radians = astro_coords($ra, $dec);
+        if( @radians ) {
+            $values->{ra} = $radians[0];
+            $values->{dec} = $radians[1];
+        }
     }
-
+    
     for my $field ( qw(class mass appmag_v) ) {
-	if( $text =~ /\|\s*$field$VALUE_RE/ms ) {
-	    $values->{$field} = $1;
-	    chomp $values->{$field};
-	}
+        if( $text =~ /\|\s*$field$VALUE_RE/ms ) {
+            $values->{$field} = $1;
+            chomp $values->{$field};
+        }
     }
-
+    
     return $values;
 }
+
+
+
+
 
 
 # This is hairy to cope with variations in Wikipedia star pages
@@ -440,6 +462,34 @@ sub parse_angle {
 }
 
 
+# Convert ra/dec in sexagesimal (HMS) to radians
+
+# ( $ra, $dec ) = astro_coords( [ H, M, S ], [ H, M, S ]);
+
+sub astro_coords {
+    my ( $ra, $dec ) = @_;
+    
+    my $coords = Astro::Coords->new(
+        name => 'test',
+        ra => join(':', @$ra),
+        dec => join(':', @$dec),
+        type => 'J2000',
+        units => 'sexagesimal'
+        );
+    
+    if( $coords ) {
+        my ( $r, $d ) = $coords->radec();
+        return ( $r->radians(), $d->radians() );
+    } else {
+        print "Couldn't construct Astro::Coords object\n";
+        my $c = substr($dec->[0], 0, 1);
+        print "Initial character of dec: $c\n";
+        print "ord = " . ord($c) . "\n";
+        print "viacode = " . charnames::viacode(ord($c)) . "\n";
+        return undef;
+    }
+}
+
 
 
 sub star_file {
@@ -453,21 +503,21 @@ sub star_file {
 
 sub write_csv {
     my %params = @_;
-
+    
     my $stars = $params{stars};
-
+    
     my $csv = Text::CSV->new( { binary => 1 } );
-
+    
     open my $fh, ">:encoding(utf8)", $CSVOUT or die ("Couldn't write $CSVOUT: $!");
-
+    
     $csv->print($fh, \@FIELDS);
     print $fh "\n";
-
+    
     for my $star ( @$stars ) {
-	$csv->print($fh, [ map { $star->{$_} } @FIELDS ]);
-	print $fh "\n";
+        $csv->print($fh, [ map { $star->{$_} } @FIELDS ]);
+        print $fh "\n";
     }
-
+    
     close $fh;
 }
 
@@ -485,12 +535,11 @@ sub read_csv {
     my $data = {};
 
     while ( my $row = $csv->getline($fh ) ) {
-        print join(' ', @$row) . "\n";
-        if( $row->[1] =~ /^[A-Z]+/ ) {
-            my $n = $row->[1];
-            $data->{$n} = {};
+        if( $row->[0] =~ /^\d+$/ ) {
+            my $id = $row->[0];
+            $data->{$id} = {};
             for my $f ( @$fields ) {
-                $data->{$n}{$f} = shift @$row;
+                $data->{$id}{$f} = shift @$row;
             }
         }
     }
@@ -515,11 +564,11 @@ sub write_json {
     for my $star ( @$stars ) {
         if ( defined $star->{ra} ) {
             my $class = uc(substr($star->{class}, 0, 1));
-            if ( $class !~ /^[CMKFGOBA]$/ ) {
-                print "Bad class $class for $star->{name}, forced A\n";
+            if ( $class !~ /^[CMKFGOBAP]$/ ) {
+                warn "Bad class $class for $star->{name}, forced A\n";
                 $class = 'A';
             } else {
-                print "good class $class for $star->{name}\n";
+ #               print "good class $class for $star->{name}\n";
             }
             push @$data, {
                 id => $star->{id},
@@ -527,7 +576,7 @@ sub write_json {
                 designation => $star->{bayer},
                 wiki => $star->{wiki},
                 html => $star->{html},
-                magnitude => int($star->{appmag_v}),
+                magnitude => $star->{appmag_v},
                 ra => $star->{ra} + 0,
                 dec => $star->{dec} + 0,
                 vector => unit_vec(star => $star),
