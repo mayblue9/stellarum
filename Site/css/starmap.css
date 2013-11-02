@@ -140,9 +140,9 @@ input.P { background-color: #cc0033 }
 circle.hidden { display:none  }
 
 
-circle.cursor {
-    stroke-width: 3px;
-    stroke: #f00;
+circle.highlight {
+    stroke-width: 2px;
+    stroke: #0f0;
 }
 
 text {

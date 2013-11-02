@@ -1,4 +1,4 @@
-id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,dec3,ra,dec,appmag_v,class,mass,radius,text
+,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,dec3,ra,dec,appmag_v,class,mass,radius,text
 1,ACAMAR,,,Eridani,Theta Eridani,cache,2,58,15.67525,-40,18,16.8524,0.7778114535,-0.7034493913,3.2,A3IV-V,2.6,,"Bleak, white binary pair, the members of which have not spoken for five gigayears."
 2,ACHERNAR,,,Eridani,Alpha Eridani,cache,1,37,42.84548,-57,14,12.3101,0.4263581548,-0.9989697896,0.5,B6 Vep,6–8,,"Held by Yule to be a line-of-sight cognate of ACAMAR, which led to the rediscovery and abandonment of Old Earth."
 3,ACRUX,,,Crucis,Alpha Crucis,cache,12,26,35.89522,-63,5,56.7343,3.257649429,-1.1012869254,0.77,B0.5IV + B1V,14 / 10 ,,"A hot, blue-white binary with a characteristic Tropicália spectrum, expected to end its life in a bossa nova."
@@ -255,7 +255,7 @@ id,name,designation,greek,constellation,search,wikistatus,ra1,ra2,ra3,dec1,dec2,
 254,NUSAKAN,,,Coronae Borealis,Beta Coronae Borealis,cache,15,27,49.7308,29,6,20.53,4.0484170673,0.5079903446,3.7,A9SrEuCr / ?,,,"Once a fabled treasure planet, its third world's service industries now employ many time-dilated adventurers."
 255,OKUL,,,Capricorni,Pi Capricorni,cache,20,27,19.2,18,12,42,5.3551937439,0.3178535456,5.08,B,,,Binary system whose primary is the eye — now eternally watchful and unblinking — of a disgraced guardian demiurge.
 256,PAE CHAOU,,,Delphini,Epsilon Delphini,cache,20,33,12.8,11,18,12,5.3809082615,0.1972803831,4.03,B6III, ,,"Giant star in an advanced state of maturation, with a bruised chromosphere and somewhat overripe spectrum."
-,PALIDA,,,Crucis,Delta Crucis,,,,,,,,,,,,,,
+0,PÁLIDA,δ Crucis,,Crucis,Delta Crucis,cache,12,15,8.71673,-58,44,56.1369,,,2.79,B,,,"Shimmering and massless sphere of coherent photons, believed to be the “shadow” cast by a four-dimensional metastar."
 257,PEACOCK,,,Pavonis,Alpha Pavonis,cache,20,25,38.85705,-56,44,6.323,5.3478965986,-0.9902141171,1.91,B2 IV,6.3 ± 0.2,,Binary orbited by a desolate world on which explorers found the fossilised remains of a NAAFI. See also: AVIOR.
 258,PENNAE CAUDALIS,,,Cygni,Pi2 Cygni,cache,21,46,47.61,49,18,34.5,5.7019623047,0.860614582,4.23,B,,,"Elegant, pied star with beautiful plumage, home to a race of empiricists who are surprised each time it rises."
 259,PEREGRINI,,,Velorum,Mu Velorum,cache,10,46,46.17877,-49,25,12.9244,2.8220649569,-0.862546198,2.69,G5III + G2V,3.3,,"Near the intersection of seven major pilgrimage routes, this system is famed for its temples and fortifications."

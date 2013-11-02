@@ -101,6 +101,8 @@ if( @nowiki ) {
     die;
 }
 
+my $outstars = [];
+
 if( $USE_WIKI ) {
     print "Getting star data from Wiki/wikicache\n";
     my $n = 0;
@@ -116,41 +118,87 @@ if( $USE_WIKI ) {
         }
         $n++;
     }
+    $outstars = $stars;
 } else {
     print "Getting star data from $PARAMETERS\n";
     my @fields = qw(ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class);
-    for my $star ( @$stars ) {
-        my $id = $star->{id};
-        my $params = $parameters->{$id};
-        if( $params->{name} ne $star->{name} ) {
-            warn "$id $star->{name} MISMATCH $params->{name}\n";
+    
+    my $newid = 1;
+    $outstars = [];
+    for my $csvstar ( @$parameters ) {
+        my $id = $csvstar->{id};
+        my $star;
+        if( $id ) {
+            $star = shift @$stars;
+            if( $star->{name} ne $csvstar->{name} ) {
+                die "$id $star->{name} MISMATCH $csvstar->{name}\n";
+            }
         } else {
-            print "$id $star->{name}\n";
-            for my $field ( @fields ) {
-                $star->{$field} = $params->{$field};
-            }
-#            if( ! $star->{ra} ) {
-            # Always use the sexagesimal coords, as these will include
-            # manual updates
-            print "Converting coords for $star->{name}... \n";
-            my @coords = astro_coords(
-                [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
-                [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
-                );
-            if( @coords ) {
-                ( $star->{ra}, $star->{dec} ) = @coords;
-            } else {
-                print "Bad coords for $id $star->{name}\n";
-#                    warn("Bad coords for $id $star->{name}");
-            }
+            # Inserts - stars not in the original list, and thus without
+            # a corresponding JSON entry
+            $star = parse_tweet(
+                id => $newid,
+                name => $csvstar->{name},
+                bayer => $csvstar->{designation},
+                text => $csvstar->{text}
+            );
         }
+        for my $field ( @fields ) {
+            $star->{$field} = $csvstar->{$field};
+        }
+        my @coords = astro_coords(
+            [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
+            [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
+            );
+        if( @coords ) {
+            ( $star->{ra}, $star->{dec} ) = @coords;
+        } else {
+            print "Bad coords for $id $star->{name}\n";
+        }
+        $star->{id} = $newid;
+
+        print "$id $newid $star->{name}\n";
+        $newid++;
+        push @$outstars, $star;
     }
+
 }
 
 
-write_csv(stars => $stars);
 
-write_json(stars => $stars);
+
+#     for my $star ( @$stars ) {
+#         my $id = $star->{id};
+#         my $params = $parameters->{$id};
+#         if( $params->{name} ne $star->{name} ) {
+#             warn "$id $star->{name} MISMATCH $params->{name}\n";
+#         } else {
+#             print "$id $star->{name}\n";
+#             for my $field ( @fields ) {
+#                 $star->{$field} = $params->{$field};
+#             }
+# #            if( ! $star->{ra} ) {
+#             # Always use the sexagesimal coords, as these will include
+#             # manual updates
+#             print "Converting coords for $star->{name}... \n";
+#             my @coords = astro_coords(
+#                 [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
+#                 [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
+#                 );
+#             if( @coords ) {
+#                 ( $star->{ra}, $star->{dec} ) = @coords;
+#             } else {
+#                 print "Bad coords for $id $star->{name}\n";
+# #                    warn("Bad coords for $id $star->{name}");
+#             }
+#         }
+#     }
+# }
+
+
+write_csv(stars => $outstars);
+
+write_json(stars => $outstars);
 
 
 sub read_json_stars {
@@ -538,16 +586,17 @@ sub read_csv {
 
     open my $fh, "<:encoding(utf8)", $file || die("$file - $!");
 
-    my $data = {};
+    my $data = [];
 
-    while ( my $row = $csv->getline($fh ) ) {
+    while ( my $row = $csv->getline($fh) ) {
         if( $row->[0] =~ /^\d+$/ ) {
             my $id = $row->[0];
-            $data->{$id} = {};
+            my $rec = {};
             for my $f ( @$fields ) {
-                $data->{$id}{$f} = shift @$row;
+                $rec->{$f} = shift @$row;
             }
-        }
+            push @$data, $rec;
+        }             
     }
 
     close $fh;
@@ -579,8 +628,6 @@ sub write_json {
             
             my $coords = "ra " . dispcoords($star->{ra1}, $star->{ra2}, $star->{ra3});
             $coords .= " desc " . dispcoords($star->{dec1}, $star->{dec2}, $star->{dec3});
-            print "coords = $coords\n";
-            
             push @$data, {
                 id => $star->{id},
                 name => $star->{name},

@@ -169,9 +169,10 @@ function star_opacity(d) {
 
 
 function highlight_star_circle(elt) {
-    //   d3.select(elt).attr("class", "cursor");
-    d3.select(elt).classed("cursor", 1);
+    // d3.select(elt).attr("class", "cursor");
+    d3.select(elt).classed("highlight", 1);
     highlighted_circle = elt;
+    console.log("Highlighted " + elt.id);
 }
 
 function show_star_text(d) {
@@ -211,7 +212,7 @@ function show_star_text(d) {
 
 function hide_star_text() {
     if( highlighted_circle ) {
-	    d3.select(highlighted_circle).classed("cursor", 0);
+	    d3.select(highlighted_circle).classed("highlight", 0);
     }
     $("div#text").addClass("hidden");
 }
