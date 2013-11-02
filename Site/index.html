@@ -32,9 +32,10 @@
              value="SEARCH" />
       
       <div id="stardesignation"></div>
+      <div id="coords"></div>
       <div id="description">
         <p>Welcome to the CATALOGUS STELLARUM, an index of local concentrations of BRIGHT MATTER.</p>
-        <p>Search for stars by name by typing above, or select them from the celestial sphere.</p>
+        <p>Search for stars by name by typing above, select them from the celestial sphere, or press SPACE to view stars in alphabetical order.</p>
 
       </div>
     </div>
@@ -53,14 +54,13 @@
                   });
       }
 
-
-
-
-      $("input#starname").on("focus", start_autocomplete);
-      
       var url = $.url();
       var star = url.param('star');
       render_map("div#starmap", 800, 800, star);
+
+      $("input#starname").on("focus", start_autocomplete);
+      
+      $(document).on("keypress", next_if_space);
 
 
     </script>

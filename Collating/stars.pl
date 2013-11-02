@@ -64,14 +64,20 @@ my %SUPERSCRIPT = (
     '³' => 3,
  );
 
-
-
 my $INFILE = 'fsvo.js';
 my $PARAMETERS = 'star_parameters.csv';
 
 my $CSVOUT = 'stars.csv';
 my $JSONOUT = 'stars.js';
 
+my $EXTRA_JSON = <<EOJS;
+
+var starNames = [];
+
+for (var i = 0; i < stars.length; i++ ) {
+    starNames.push(stars[i].name);
+}
+EOJS
 
 open(JSONFILE, "<$INFILE") || die("Couldn't open $INFILE $!");
 my $json;
@@ -123,18 +129,19 @@ if( $USE_WIKI ) {
             for my $field ( @fields ) {
                 $star->{$field} = $params->{$field};
             }
-            if( ! $star->{ra} ) {
-                print "Converting coords for $star->{name}... \n";
-                my @coords = astro_coords(
-                    [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
-                    [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
-                    );
-                if( @coords ) {
-                    ( $star->{ra}, $star->{dec} ) = @coords;
-                } else {
-                    print "Bad coords for $id $star->{name}\n";
+#            if( ! $star->{ra} ) {
+            # Always use the sexagesimal coords, as these will include
+            # manual updates
+            print "Converting coords for $star->{name}... \n";
+            my @coords = astro_coords(
+                [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
+                [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
+                );
+            if( @coords ) {
+                ( $star->{ra}, $star->{dec} ) = @coords;
+            } else {
+                print "Bad coords for $id $star->{name}\n";
 #                    warn("Bad coords for $id $star->{name}");
-                }
             }
         }
     }
@@ -191,7 +198,6 @@ sub parse_tweet {
     
     if( my $xrefs = get_xrefs(text => $text) ) {
         $star->{xrefs} = $xrefs;
-        print "XREFS $name: " . join(' ', @$xrefs) . "\n";
     }
     
     if( $bayer =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
@@ -570,6 +576,11 @@ sub write_json {
             } else {
  #               print "good class $class for $star->{name}\n";
             }
+            
+            my $coords = "ra " . dispcoords($star->{ra1}, $star->{ra2}, $star->{ra3});
+            $coords .= " desc " . dispcoords($star->{dec1}, $star->{dec2}, $star->{dec3});
+            print "coords = $coords\n";
+            
             push @$data, {
                 id => $star->{id},
                 name => $star->{name},
@@ -579,21 +590,33 @@ sub write_json {
                 magnitude => $star->{appmag_v},
                 ra => $star->{ra} + 0,
                 dec => $star->{dec} + 0,
+                coords => $coords,
                 vector => unit_vec(star => $star),
                 text => $star->{text},
-                class => $class
+                class => $class,
+                xrefs => $star->{xrefs}
             };
         }
     }
+    
     
     
     my $text = $json->pretty->encode($data);
     
     open(my $fh, ">:encoding(utf8)", $JSONOUT) || die("Couldn't write to $JSONOUT: $!");
 
-    print $fh "var stars = $text";
+    print $fh "var stars = $text;\n\n";
+    print $fh $EXTRA_JSON . "\n\n";
     close $fh;
 } 
+
+
+sub dispcoords {
+    my @bits = @_;
+   
+    return sprintf("%d %d' %d\"", @bits);
+}
+
 
 
 sub unit_vec {
