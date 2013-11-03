@@ -1,0 +1,35 @@
+These are all fixed now.
+
+
+
+Two problems to deal with in collating:
+
+* current source of data is the filtered FSVO tweets in json, and
+  the star_parameters.csv file, which is based off an older version of
+  the output stars.csv.
+
+  I want to be able to add in more stars which weren't tweeted and have
+  them still be in alphabetical order and not get the ids out of sync.
+  This was mainly because I left Delta Crucis out because it doesn't have a
+  widely-used proper name, but looking on the map, Crux is weird with only
+  four stars.
+
+* Second problem is the MARKABs and MUSCIDAe - two sets of stars which 
+  share proper names and are being conflated in collation.
+
+The common element in these is the generation of ids and linking them
+to names.
+
+--> The duplicate names problems is solved: just need to fix the
+    inserts problem.
+
+Adding inserts -
+
+- read the CSV first and collect inserts (identified as such in the id column)
+  in sequence, but leave the existing IDs as they are
+
+- loop through the CSV file and for those with IDs, pull off the JSON -
+  for the inserts, get them from the CSV.  Keep a separate running total
+  which is used as the final ID.
+
+  

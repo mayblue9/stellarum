@@ -1,0 +1,12 @@
+Notes on editing
+----------------
+
+Going through all the stars in sequence, checking that their coordinates are
+correct, and setting cross-references and removing 'q.v.'s.
+
+The coordinates have to be changed in the spreadsheet.
+
+The cross-references and qvs need to be changed in the json output - so
+this may need some kind of overlay file so that the edits don't get clobbbered
+when I re-run the coordinates.
+
