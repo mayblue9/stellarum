@@ -14,6 +14,9 @@ use Data::Dumper;
 use Text::CSV;
 use WWW::Wikipedia;
 use Astro::Coords;
+use Log::Log4perl;
+
+my $LOGCONF = './log4j.properties';
 
 my $MAX_STARS = undef;
 
@@ -28,7 +31,7 @@ my @FIELDS = qw(
     search wikistatus
     ra1 ra2 ra3 dec1 dec2 dec3 ra dec
     appmag_v class mass radius
-    text
+    text xrefs
 );
 
 my %GREEK = (
@@ -64,6 +67,10 @@ my %SUPERSCRIPT = (
     '³' => 3,
  );
 
+Log::Log4perl::init($LOGCONF);
+
+my $log = Log::Log4perl->get_logger('stellarum');
+
 my $INFILE = 'fsvo.js';
 my $PARAMETERS = 'star_parameters.csv';
 
@@ -97,14 +104,14 @@ my $parameters = read_csv(file => $PARAMETERS, fields => \@FIELDS);
 my @nowiki = map { $_->{wiki} ? () : $_ } @$stars;
 
 if( @nowiki ) {
-    print "Empty wiki searches:\n" . Dumper(\@nowiki) . "\n";
+    $log->fatal("Empty wiki searches:\n" . Dumper(\@nowiki) . "\n");
     die;
 }
 
 my $outstars = [];
 
 if( $USE_WIKI ) {
-    print "Getting star data from Wiki/wikicache\n";
+    $log->info("Getting star data from Wiki/wikicache");
     my $n = 0;
 
     for my $star ( @$stars ) {
@@ -112,15 +119,17 @@ if( $USE_WIKI ) {
         for my $field ( keys %$wiki ) {
             $star->{$field} = $wiki->{$field};
         } 
-        print "$star->{name} $wiki->{wikistatus}\n";
+        $log->debug("$star->{name} $wiki->{wikistatus}");
         if( $MAX_STARS && $n > $MAX_STARS ) {
+            $log->info("Reached MAX_STARS $MAX_STARS");
             last;
         }
         $n++;
     }
     $outstars = $stars;
 } else {
-    print "Getting star data from $PARAMETERS\n";
+    $log->info("Getting star data from spreadsheet: $PARAMETERS");
+
     my @fields = qw(ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class);
     
     my $newid = 1;
@@ -153,47 +162,18 @@ if( $USE_WIKI ) {
         if( @coords ) {
             ( $star->{ra}, $star->{dec} ) = @coords;
         } else {
-            print "Bad coords for $id $star->{name}\n";
+            $log->warn("Bad coords for $id $star->{name}");
         }
         $star->{id} = $newid;
 
-        print "$id $newid $star->{name}\n";
+        $log->debug("$id $newid $star->{name}");
+        $log->trace("Input coords RA $star->{ra1} $star->{ra2} $star->{ra3} dec $star->{dec1} $star->{dec2} $star->{dec3}");
+        $log->trace("Final coords RA $star->{ra} Dec $star->{dec}");
         $newid++;
         push @$outstars, $star;
     }
 
 }
-
-
-
-
-#     for my $star ( @$stars ) {
-#         my $id = $star->{id};
-#         my $params = $parameters->{$id};
-#         if( $params->{name} ne $star->{name} ) {
-#             warn "$id $star->{name} MISMATCH $params->{name}\n";
-#         } else {
-#             print "$id $star->{name}\n";
-#             for my $field ( @fields ) {
-#                 $star->{$field} = $params->{$field};
-#             }
-# #            if( ! $star->{ra} ) {
-#             # Always use the sexagesimal coords, as these will include
-#             # manual updates
-#             print "Converting coords for $star->{name}... \n";
-#             my @coords = astro_coords(
-#                 [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
-#                 [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
-#                 );
-#             if( @coords ) {
-#                 ( $star->{ra}, $star->{dec} ) = @coords;
-#             } else {
-#                 print "Bad coords for $id $star->{name}\n";
-# #                    warn("Bad coords for $id $star->{name}");
-#             }
-#         }
-#     }
-# }
 
 
 write_csv(stars => $outstars);
@@ -306,13 +286,13 @@ sub get_xrefs {
     my $xrefs = [];
 
     while( $text =~ m/([A-Z][A-Z ]+)/g ) {
-	push @$xrefs, $1;
+        push @$xrefs, $1;
     }
     
     if( @$xrefs ) { 
-	return $xrefs;
+        return join(' ', @$xrefs);
     } else {
-	return undef;
+        return undef;
     }
 }
 
@@ -331,7 +311,7 @@ sub wiki_look {
 
     $star->{search} = $search;
     if( !$search ) {
-        print "WARN: no wikisearch for " . Dumper($star);
+        $log->fatal("WARN: no wikisearch for " . Dumper($star));
         die;
     }
     my $result = fetch_wiki(search => $search, name => $star->{name});
@@ -389,19 +369,19 @@ sub wiki_search {
     my $wiki = WWW::Wikipedia->new();
     my $result = $wiki->search($search);
     if( $result ) {
-	$text = $result->raw();
-	while( $text =~ /#REDIRECT\[\[([^\]]+)\]\]/ ) {
-	    print "Redirecting $search to $1...\n";
-	    $n++;
-	    if( $n > $MAX_REDIRECTS ) {
-		print "Too many redirects.\n";
-		return undef;
-	    }
-	    $result = $wiki->search($1);
-	    if( $result ) {
-		$text = $result->raw();
-	    }
-	}
+        $text = $result->raw();
+        while( $text =~ /#REDIRECT\[\[([^\]]+)\]\]/ ) {
+            $log->info("Redirecting $search to $1...");
+            $n++;
+            if( $n > $MAX_REDIRECTS ) {
+                $log->warn("Too many redirects for $search");
+                return undef;
+            }
+            $result = $wiki->search($1);
+            if( $result ) {
+                $text = $result->raw();
+            }
+        }
     }
     return $text;
 }
@@ -415,7 +395,7 @@ sub parse_wiki {
 
     my $text = $params{wiki};
     my $values = {};
-
+    
     # remove all {{nowrap|XXX}} markup
 
     $text =~ s/\{\{nowrap\|([^\}]+)\}\}/$1/g;
@@ -486,31 +466,31 @@ sub parse_angle {
     my $values = undef;
 
     if( $text =~ /\{\{$pref\|$ANGLE_RE/s ) {
-	print "$coord pass 1 $1 $2 $3\n";
+        $log->debug("$coord pass 1 $1 $2 $3");
 	
-	$values = [ $1, $2, $3 ];
+        $values = [ $1, $2, $3 ];
     } else {
-
-	# structured didn't work.
-
-	my $NUMBER_RE = qr/-?([\d.]+)([^\d.]+)/;
-
-	my $LABEL_RE;
-
-	if( $coord eq 'ra' ) {
-	    $LABEL_RE = qr/(ra|Right ascension)/;
-	} else {
-	    $LABEL_RE = qr/(dec|Declination)/;
-	}
-	
-	if( $text =~ /$LABEL_RE\s*=\s*$NUMBER_RE$NUMBER_RE$NUMBER_RE/ism ) {
-	    print "$coord, pass 2 $2 $4 $6\n";
-	    my $v1 = $2;
-	    my $v2 = $4;
-	    my $v3 = $6;
-
-	    $values = [ $v1, $v2, $v3 ];
-	}
+        
+        # structured didn't work.
+        
+        my $NUMBER_RE = qr/-?([\d.]+)([^\d.]+)/;
+        
+        my $LABEL_RE;
+        
+        if( $coord eq 'ra' ) {
+            $LABEL_RE = qr/(ra|Right ascension)/;
+        } else {
+            $LABEL_RE = qr/(dec|Declination)/;
+        }
+        
+        if( $text =~ /$LABEL_RE\s*=\s*$NUMBER_RE$NUMBER_RE$NUMBER_RE/ism ) {
+            $log->debug("$coord, pass 2 $2 $4 $6");
+            my $v1 = $2;
+            my $v2 = $4;
+            my $v3 = $6;
+            
+            $values = [ $v1, $v2, $v3 ];
+        }
     }
     return $values;
 }
@@ -521,12 +501,25 @@ sub parse_angle {
 # ( $ra, $dec ) = astro_coords( [ H, M, S ], [ H, M, S ]);
 
 sub astro_coords {
-    my ( $ra, $dec ) = @_;
+    my ( $ra_c, $dec_c ) = @_;
+
+    my $ra = join(':', @$ra_c);
+    my $dec;
+    
+    # Because the spreadsheet doesn't allow -0 degrees as a value,
+    # we use the string 'neg'.  See for example HEZE.
+
+    if( $dec_c->[0] eq 'neg' ) {
+        $log->debug("Negative zero in declination");
+        $dec = join(':', '-0', $dec_c->[1], $dec_c->[2]);
+    } else {
+        $dec = join(':', @$dec_c);
+    }
     
     my $coords = Astro::Coords->new(
         name => 'test',
-        ra => join(':', @$ra),
-        dec => join(':', @$dec),
+        ra => $ra,
+        dec => $dec,
         type => 'J2000',
         units => 'sexagesimal'
         );
@@ -535,11 +528,11 @@ sub astro_coords {
         my ( $r, $d ) = $coords->radec();
         return ( $r->radians(), $d->radians() );
     } else {
-        print "Couldn't construct Astro::Coords object\n";
+        $log->warn("Couldn't construct Astro::Coords object");
         my $c = substr($dec->[0], 0, 1);
-        print "Initial character of dec: $c\n";
-        print "ord = " . ord($c) . "\n";
-        print "viacode = " . charnames::viacode(ord($c)) . "\n";
+        $log->warn("Initial character of dec: $c");
+        $log->warn("ord = " . ord($c));
+        $log->warn("viacode = " . charnames::viacode(ord($c)));
         return undef;
     }
 }
@@ -615,23 +608,23 @@ sub write_json {
     my $json = JSON->new();
 
     my $data = [];
+    my $constellations = {};
 
     for my $star ( @$stars ) {
         if ( defined $star->{ra} ) {
             my $class = uc(substr($star->{class}, 0, 1));
             if ( $class !~ /^[CMKFGOBAP]$/ ) {
-                warn "Bad class $class for $star->{name}, forced A\n";
+                $log->warn("Bad class $class for $star->{id} $star->{name}, forced A");
                 $class = 'A';
-            } else {
- #               print "good class $class for $star->{name}\n";
             }
             
-            my $coords = "ra " . dispcoords($star->{ra1}, $star->{ra2}, $star->{ra3});
-            $coords .= " desc " . dispcoords($star->{dec1}, $star->{dec2}, $star->{dec3});
+            my $coords = "RA " . dispcoords($star->{ra1}, $star->{ra2}, $star->{ra3});
+            $coords .= " Dec " . dispcoords($star->{dec1}, $star->{dec2}, $star->{dec3});
             push @$data, {
                 id => $star->{id},
                 name => $star->{name},
                 designation => $star->{bayer},
+                constellation => $star->{constellation},
                 wiki => $star->{wiki},
                 html => $star->{html},
                 magnitude => $star->{appmag_v},
@@ -643,6 +636,7 @@ sub write_json {
                 class => $class,
                 xrefs => $star->{xrefs}
             };
+            
         }
     }
     
