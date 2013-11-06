@@ -24,6 +24,9 @@ my $MAX_REDIRECTS = 5;
 
 my $USE_WIKI = 0;
 
+my $CLASS_RE = qr/^[CMKFGOBAPW]$/;
+my $DEFAULT_CLASS = 'A';
+
 my $FILEDIR = './Wikifiles/';
 
 my @FIELDS = qw(
@@ -66,6 +69,79 @@ my %SUPERSCRIPT = (
     '²' => 2,
     '³' => 3,
  );
+
+# Convert constellations from genitive to nominative for the
+# filter control
+
+my %CONSTELLATIONS = (
+    'Andromedae'              => 'Andromeda',
+    'Aquarii'                 => 'Aquarius',
+    'Aquilae'                 => 'Aquila',
+    'Arae'                    => 'Ara',
+    'Arietis'                 => 'Aries',
+    'Aurigae'                 => 'Auriga',
+    'Boötis'                  => 'Boötes',
+    'Cancri'                  => 'Cancer',
+    'Canis Majoris'           => 'Canis Major',
+    'Canis Minoris'           => 'Canis Minor',
+    'Canum Venaticorum'       => 'Canes Venatici',
+    'Capricorni'              => 'Capricornus',
+    'Carinae'                 => 'Carina',
+    'Cassiopeiae'             => 'Cassiopeia',
+    'Centauri'                => 'Centaurus',
+    'Cephei'                  => 'Cepheus',
+    'Ceti'                    => 'Cetus',
+    'Columbae'                => 'Columba',
+    'Comae Berenices'         => 'Coma Berinices',
+    'Coronae Australis'       => 'Corona Australis',
+    'Coronae Borealis'        => 'Corona Borealis',
+    'Corvi'                   => 'Corvus',
+    'Crateris'                => 'Crater',
+    'Crucis'                  => 'Crux',
+    'Cygni'                   => 'Cygnus',
+    'Delphini'                => 'Delphinus',
+    'Draconis'                => 'Draco',
+    'Equulei',                => 'Equueleus',
+    'Eridani',                => 'Eridanus',
+    'Fornacis',               => 'Fornax',
+    'Geminorum',              => 'Gemini',
+    'Gruis',                  => 'Grus',
+    'Herculis'                => 'Hercules',
+    'Hydrae',                 => 'Hydra',
+    'Hydri',                  => 'Hydrus',
+    'Indi',                   => 'Indus',
+    'Leonis',                 => 'Leo',
+    'Leonis Minoris',         => 'Leo Minor',
+    'Leporis'                 => 'Lepus',
+    'Librae'                  => 'Libra',
+    'Lyncis'                  => 'Lynx',
+    'Lyrae'                   => 'Lyra',
+    'Microscopii'             => 'Microscopium',
+    'Muscae'                  => 'Musca',
+    'Octantis',               => 'Octans',
+    'Ophiuchi',               => 'Ophiuchus',
+    'Orionis',                => 'Orion',
+    'Pavonis',                => 'Pavo',
+    'Pegasi',                 => 'Pegasus',
+    'Persei',                 => 'Perseus',
+    'Phoenicis'               => 'Phoenix',
+    'Piscis Austrini'         => 'Piscis Austrinus',
+    'Piscium'                 => 'Pisces',
+    'Puppis'                  => 'Puppis',
+    'Sagittae',               => 'Sagitta',
+    'Sagittarii'              => 'Sagittarius',
+    'Scorpii'                 => 'Scorpius',
+    'Serpentis',              => 'Serpens',
+    'Tauri'                   => 'Taurus',
+    'Trianguli'               => 'Triangulum',
+    'Trianguli Australis'     => 'Triangulum Australe',
+    'Ursae Majoris'           => 'Ursa Major',
+    'Ursae Minoris'           => 'Ursa Minor',
+    'Velorum',                => 'Vela',
+    'Virginis',               => 'Virgo',
+    'Vulpeculae',             => 'Vulpecula'
+);
+
 
 Log::Log4perl::init($LOGCONF);
 
@@ -130,7 +206,9 @@ if( $USE_WIKI ) {
 } else {
     $log->info("Getting star data from spreadsheet: $PARAMETERS");
 
-    my @fields = qw(ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class);
+    my @fields = qw(
+       constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class
+    );
     
     my $newid = 1;
     $outstars = [];
@@ -613,18 +691,21 @@ sub write_json {
     for my $star ( @$stars ) {
         if ( defined $star->{ra} ) {
             my $class = uc(substr($star->{class}, 0, 1));
-            if ( $class !~ /^[CMKFGOBAP]$/ ) {
+            if ( $class !~ /$CLASS_RE/ ) {
                 $log->warn("Bad class $class for $star->{id} $star->{name}, forced A");
-                $class = 'A';
+                $class = $DEFAULT_CLASS;
             }
             
             my $coords = "RA " . dispcoords($star->{ra1}, $star->{ra2}, $star->{ra3});
             $coords .= " Dec " . dispcoords($star->{dec1}, $star->{dec2}, $star->{dec3});
+            my $const = $CONSTELLATIONS{$star->{constellation}} || do {
+                $log->warn("$star->{id} $star->{name} - unknown constellation $star->{constellation}");
+            };
             push @$data, {
                 id => $star->{id},
                 name => $star->{name},
                 designation => $star->{bayer},
-                constellation => $star->{constellation},
+                constellation => $const,
                 wiki => $star->{wiki},
                 html => $star->{html},
                 magnitude => $star->{appmag_v},
@@ -636,17 +717,23 @@ sub write_json {
                 class => $class,
                 xrefs => $star->{xrefs}
             };
+
+            if( $const ) {
+                push @{$constellations->{$const}}, $star->{id}
+            }
             
         }
     }
     
     
     
-    my $text = $json->pretty->encode($data);
+    my $stars_js = $json->pretty->encode($data);
+    my $const_js = $json->pretty->encode($constellations);
     
     open(my $fh, ">:encoding(utf8)", $JSONOUT) || die("Couldn't write to $JSONOUT: $!");
 
-    print $fh "var stars = $text;\n\n";
+    print $fh "var stars = $stars_js;\n\n";
+    print $fh "var constellations = $const_js;\n\n";
     print $fh $EXTRA_JSON . "\n\n";
     close $fh;
 } 

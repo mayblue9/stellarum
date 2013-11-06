@@ -49,8 +49,8 @@ div#text {
     font-family: Helvetica, Arial, sans-serif;
     opacity: 0.94;
     position: absolute;
-    top: 420px;
-    left: 420px;
+    top: 20px;
+    left: 820px;
     width: 400px;
     padding: 5px;
 }
@@ -113,8 +113,9 @@ circle.F { fill: #f8f7ff }
 circle.G { fill: #fff4ea }  
 circle.K { fill: #ffd2a1 }  
 circle.M { fill: #ffcc6f }  
-circle.C { fill: #ffcc6f }  
+circle.C { fill: #ff8080 }  
 circle.P { fill: #cc0033 } 
+circle.W { fill: #ffffff }
 
 div.O { background-color: #9bb0ff }  
 div.B { background-color: #aabfff }  
@@ -123,8 +124,9 @@ div.F { background-color: #f8f7ff }
 div.G { background-color: #fff4ea }  
 div.K { background-color: #ffd2a1 }  
 div.M { background-color: #ffcc6f }  
-div.C { background-color: #ffcc6f }  
+div.C { background-color: #ff8080 }  
 div.P { background-color: #cc0033 }  
+div.W { background-color: #ffffff }
 
 input.O { background-color: #9bb0ff }  
 input.B { background-color: #aabfff }  
@@ -133,8 +135,9 @@ input.F { background-color: #f8f7ff }
 input.G { background-color: #fff4ea }  
 input.K { background-color: #ffd2a1 }  
 input.M { background-color: #ffcc6f }  
-input.C { background-color: #ffcc6f }  
+input.C { background-color: #ff8080 }  
 input.P { background-color: #cc0033 }  
+input.W { background-color: #ffffff }
 
 
 circle.hidden { display:none  }

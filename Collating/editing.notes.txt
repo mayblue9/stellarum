@@ -10,3 +10,6 @@ The cross-references and qvs need to be changed in the json output - so
 this may need some kind of overlay file so that the edits don't get clobbbered
 when I re-run the coordinates.
 
+ALTARF and ALTERF link to one another, but not by name
+
+Check Orion belt

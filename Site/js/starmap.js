@@ -14,6 +14,8 @@ var SPIN_TIME = 800;
 var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
 
+var RFACTOR = .93;
+
 var CURSOR_RADIUS = 80;
 
 var current_star = false;
@@ -176,8 +178,8 @@ function highlight_star_circle(elt) {
 }
 
 function show_star_text(d) {
-    $("div#text").removeClass("O B A F G K M C P start");
-    $("input#starname").removeClass("O B A F G K M C P start");
+    $("div#text").removeClass("O B A F G K M C P W start");
+    $("input#starname").removeClass("O B A F G K M C P W start");
     $("div#text").addClass(d.class);
     $("input#starname").addClass(d.class);
     $("div#text").removeClass("hidden");
@@ -262,7 +264,7 @@ function render_map(elt, w, h, gostar) {
     
     cx = width * 0.5;
     cy = height * 0.5;
-    R = cx * 0.92;
+    R = cx * RFACTOR;
     
     var svg = d3.select(elt).append("svg:svg")
         .attr("width", width)
