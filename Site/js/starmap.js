@@ -9,12 +9,12 @@ var position = [ 0, 0 ];
 var spinning = 0;
 var highlighted_circle;
 
-var SPIN_TIME = 800;
+var SPIN_TIME = 600;
 
 var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
 
-var RFACTOR = .93;
+var RFACTOR = .9;
 
 var CURSOR_RADIUS = 80;
 
@@ -71,9 +71,9 @@ function projection_isometric(d, coords) {
 
 
 function magnitude_f(d) {
-    var size = 10 / Math.sqrt(1 + d.magnitude * .5);
-    if ( size < 5 ) {
-	    size = 5;
+    var size = 10 / Math.sqrt(1.5 + d.magnitude * .5);
+    if ( size < 2 ) {
+	    size = 2;
     }
     return size;
 }
@@ -104,18 +104,23 @@ function select_star(star, spin_time) {
 
     gc_interp = rad2deginterp(position, [ -star.ra, -star.dec ]);
     
+    // var gc_dist = d3.geo.distance(position, [ -star.ra, -star.dec ]);
+    var duration = 0;
+
+    duration = spin_time;
+
     spinning = 1;
     current_star = star;
     
     nodes.transition()
-	    .duration(spin_time)
+	    .duration(duration)
 	    .attrTween("transform", function(d, i, a) {
 	        return select_tween(d, gc_interp)
 	    });
     
     d3.selectAll("circle")
 	    .transition()
-	    .duration(spin_time)
+	    .duration(duration)
 	    .styleTween("opacity", function(d, i, a) {
 	        return hide_tween(d, gc_interp)
 	    })
@@ -186,7 +191,7 @@ function show_star_text(d) {
     $("input#starname").val(d.name);
     $("div#stardesignation").text(d.designation);
     $("div#description").html(d.text);
-    $("div#coords").html(d.coords);
+/*    $("div#coords").html(d.coords);  */
     
     /* What I'm doing here: do an each-loop through all of the links,
        look up the star's circles, add a line from each link to 
@@ -197,8 +202,9 @@ function show_star_text(d) {
     $("span.link").each(
         function (index) {
             var starid = $(this).attr('star');
-            star = stars[starid];
+            var star = stars[starid];
             if( star ) {
+                console.log("Link for " + starid + " : " + star.name);
                 $(this).click(
                     function(e) {
                         select_star(star, SPIN_TIME);
@@ -242,18 +248,38 @@ function auto_complete_stars(text) {
     }
 }
 
-function next_if_space(evt) {
+function next_star(evt) {
     if( evt.which == 32 ) {
         if ( current_star ) {
             var id = current_star.id;
-            if( stars[id] ) {
-                select_star(stars[id], SPIN_TIME);
+            if( stars[id + 1] ) {
+                select_star(stars[id + 1], SPIN_TIME);
+            } else {
+                select_star(stars[0], SPIN_TIME);
             }
         } else {
             select_star(stars[0], SPIN_TIME);
         }
     }
 }
+
+
+function highlight_constellation(constellation) {
+    console.log("Highlight " + constellation);
+    d3.selectAll("circle")
+        .each(function (d) {
+
+            if( d.constellation == constellation ) {
+                console.log(this.id + " show");
+                $('#' + this.id).removeClass('hidden');
+            } else {
+                console.log(this.id + " hide");
+                $('#' + this.id).addClass('hidden');
+            } 
+        }
+             );
+}
+
 
 
 
@@ -309,8 +335,8 @@ function render_map(elt, w, h, gostar) {
         }
     }
 
-    
-
 }
+
+
 
 

@@ -33,16 +33,18 @@ div#cursor {
 
 
 div#controls {
-    border: 1px #888 solid;
+    font-size: 16pt;
+    font-family: Helvetica, Arial, sans-serif;
+    opacity: 0.94;
     background-color: #fff;
     position: absolute;
-    top: 10px;
-    left: 580px;
-    width: 240px;
-    height: 30px;
+    top: 400px;
+    left: 820px;
+    width: 400px;
 }
 
 /* The star description box */
+
 
 div#text {
     font-size: 16pt;
@@ -55,7 +57,7 @@ div#text {
     padding: 5px;
 }
 
-input#starname {
+input {
     font-weight: bold;
     font-size: 18pt;
     border: none;
@@ -63,6 +65,7 @@ input#starname {
     padding: 0px;
     width: 100%;
 }
+
 
 input#starname.start {
     color: #888;
@@ -140,7 +143,10 @@ input.P { background-color: #cc0033 }
 input.W { background-color: #ffffff }
 
 
-circle.hidden { display:none  }
+circle.hidden { 
+    background-color: #f00;
+    display:none  
+}
 
 
 circle.highlight {

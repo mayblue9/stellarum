@@ -13,3 +13,16 @@ when I re-run the coordinates.
 ALTARF and ALTERF link to one another, but not by name
 
 Check Orion belt
+
+
+---->
+
+Hand edits required:
+
+DSCHUBBA = BATENTABANS hand link, PHACD is misspelt
+EL NATH links to itself
+
+
+
+
+Next-star and autocomplete are no longer working for Markab and Muscida

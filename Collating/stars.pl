@@ -34,7 +34,7 @@ my @FIELDS = qw(
     search wikistatus
     ra1 ra2 ra3 dec1 dec2 dec3 ra dec
     appmag_v class mass radius
-    text xrefs
+    text 
 );
 
 my %GREEK = (
@@ -142,6 +142,10 @@ my %CONSTELLATIONS = (
     'Vulpeculae',             => 'Vulpecula'
 );
 
+# Manual overrides for the crossreferences which can't be done manually
+
+
+
 
 Log::Log4perl::init($LOGCONF);
 
@@ -160,6 +164,8 @@ var starNames = [];
 for (var i = 0; i < stars.length; i++ ) {
     starNames.push(stars[i].name);
 }
+
+var constNames = constellations.keys()
 EOJS
 
 open(JSONFILE, "<$INFILE") || die("Couldn't open $INFILE $!");
@@ -209,8 +215,11 @@ if( $USE_WIKI ) {
     my @fields = qw(
        constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class
     );
+
+    # NOTE: newids now start with 0, not 1, so that they correspond
+    # with array indices.
     
-    my $newid = 1;
+    my $newid = 0;
     $outstars = [];
     for my $csvstar ( @$parameters ) {
         my $id = $csvstar->{id};
@@ -245,14 +254,13 @@ if( $USE_WIKI ) {
         $star->{id} = $newid;
 
         $log->debug("$id $newid $star->{name}");
-        $log->trace("Input coords RA $star->{ra1} $star->{ra2} $star->{ra3} dec $star->{dec1} $star->{dec2} $star->{dec3}");
-        $log->trace("Final coords RA $star->{ra} Dec $star->{dec}");
         $newid++;
         push @$outstars, $star;
     }
 
 }
 
+add_xrefs(stars => $outstars);
 
 write_csv(stars => $outstars);
 
@@ -302,10 +310,6 @@ sub parse_tweet {
         id => $id
     };
     
-    if( my $xrefs = get_xrefs(text => $text) ) {
-        $star->{xrefs} = $xrefs;
-    }
-    
     if( $bayer =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
         
         $star->{constellation} = $2;
@@ -335,44 +339,45 @@ sub parse_tweet {
     return $star;
 }
 
-# sub char2greekletter {
-#     my %params = @_;
-
-#     my $char = $params{char};
-
-#     return '' if $char =~ /^[0-9]+$/;
-
-#     my $c = substr($char, 0, 1);
-#     if( $GREEK{$c} ) {
-#  	if( length($char) > 1 ) {
-# 	    my $super = substr($char, -1, 1);
-# 	    return $GREEK{$c} . $SUPERSCRIPT{$super};
-# 	} else {
-# 	    return $GREEK{$c};
-# 	}
-#     } else {
-# 	return '';
-#     }
-# }
 
 
-sub get_xrefs { 
+
+sub add_xrefs {
     my %params = @_;
 
-    my $text = $params{text};
+    my $stars = $params{stars};
+    my $ids = {};
 
-    my $xrefs = [];
+    for my $star ( @$stars ) {
+        my $name = $star->{name};
+        if( !$ids->{$name} ) {
+            $ids->{$name} = $star->{id};
+        } else {
+            $ids->{$name} = 'overload';
+            $log->warn("Overloaded star $name $star->{id}");
+        }
+    }
 
-    while( $text =~ m/([A-Z][A-Z ]+)/g ) {
-        push @$xrefs, $1;
+    my $names = join('|', reverse sort keys %$ids);
+
+    for my $star ( @$stars ) {
+        if( $star->{text} =~ s/($names)/<span class=\"link\" star=\"$ids->{$1}\">$1<\/span>/g ) {
+            $log->debug("Resolved xref in $star->{id} $star->{name}");
+        }
+        #while we're here, remove (q.v.) and (qq.v.)
+
+        if( $star->{text} =~ s/\(qq?\.v\.\)\s*//g ) {
+            $log->debug("Removed q.v. or qq.v. in $star->{id} $star->{name}");
+        }
+
     }
-    
-    if( @$xrefs ) { 
-        return join(' ', @$xrefs);
-    } else {
-        return undef;
-    }
+
+
 }
+
+
+
+
 
 sub wiki_look {
     my %params = @_;
@@ -688,6 +693,7 @@ sub write_json {
     my $data = [];
     my $constellations = {};
 
+
     for my $star ( @$stars ) {
         if ( defined $star->{ra} ) {
             my $class = uc(substr($star->{class}, 0, 1));
@@ -714,8 +720,7 @@ sub write_json {
                 coords => $coords,
                 vector => unit_vec(star => $star),
                 text => $star->{text},
-                class => $class,
-                xrefs => $star->{xrefs}
+                class => $class
             };
 
             if( $const ) {
@@ -734,7 +739,7 @@ sub write_json {
 
     print $fh "var stars = $stars_js;\n\n";
     print $fh "var constellations = $const_js;\n\n";
-    print $fh $EXTRA_JSON . "\n\n";
+#    print $fh $EXTRA_JSON . "\n\n";
     close $fh;
 } 
 

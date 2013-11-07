@@ -10,7 +10,7 @@
     <script src="js/stars.js"></script>
     <script src="js/starmap.js"></script>
 
-    <link type="text/css" rel="stylesheet" href="css/ui-darkness/jquery-ui-1.10.3.custom.css" />
+    <link type="text/css" rel="stylesheet" href="css/starmap-theme/jquery-ui-1.10.3.custom.css" />
     <link type="text/css" rel="stylesheet" href="css/starmap.css" />
   </head>
 
@@ -35,32 +35,52 @@
       <div id="coords"></div>
       <div id="description">
         <p>Welcome to the CATALOGUS STELLARUM, an index of local concentrations of BRIGHT MATTER.</p>
-        <p>Search for stars by name by typing above, select them from the celestial sphere, or press SPACE to view stars in alphabetical order.</p>
+        <p>Search for stars by typing above, select them from the celestial sphere, or press SPACE to view the Catalogus in alphabetical order.</p>
 
       </div>
     </div>
 
+                              
+
     <script lang="javascript">
 
-      function start_autocomplete(event) {
+      var starNames = [];
+
+      for (var i = 0; i < stars.length; i++ ) {
+          starNames.push({ label: stars[i].name, value: stars[i].id });
+      }
+
+      function star_autocomplete(event) {
           $(this).val("");
-          $(this).off("focus", start_autocomplete);
-          $(this).autocomplete({source: starNames})
-                 .on("autocompleteselect", function(event, ui) {
-                     var star = find_star(ui.item.value);
-                     if( star ) {
-                         select_star(star, SPIN_TIME);
-                     }
-                  });
+          $(this).off("focus", star_autocomplete);
+          $(this).autocomplete({
+              delay: 0,
+              minLength: 2,
+              source: starNames,
+              focus: function(e, ui) {
+                  $('#starname').val(ui.item.label);
+                  return false;
+              },
+              select: function(e, ui) {
+                  $('#starname').val(ui.item.label);
+                  var id = ui.item.value;
+                  var star = stars[id];
+                  if( star ) {
+                     select_star(star, SPIN_TIME);
+                  }
+                  return false;
+              },
+          });
+
       }
 
       var url = $.url();
       var star = url.param('star');
       render_map("div#starmap", 800, 800, star);
 
-      $("input#starname").on("focus", start_autocomplete);
-      
-      $(document).on("keypress", next_if_space);
+      $("input#starname").on("focus", star_autocomplete);
+
+      $(document).on("keypress", next_star);
 
 
     </script>
