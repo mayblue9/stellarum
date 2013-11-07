@@ -176,7 +176,6 @@ function star_opacity(d) {
 
 
 function highlight_star_circle(elt) {
-    // d3.select(elt).attr("class", "cursor");
     d3.select(elt).classed("highlight", 1);
     highlighted_circle = elt;
     console.log("Highlighted " + elt.id);
@@ -191,7 +190,7 @@ function show_star_text(d) {
     $("input#starname").val(d.name);
     $("div#stardesignation").text(d.designation);
     $("div#description").html(d.text);
-/*    $("div#coords").html(d.coords);  */
+    $("div#coords").html(d.id);  
     
     /* What I'm doing here: do an each-loop through all of the links,
        look up the star's circles, add a line from each link to 
@@ -252,8 +251,11 @@ function next_star(evt) {
     if( evt.which == 32 ) {
         if ( current_star ) {
             var id = current_star.id;
-            if( stars[id + 1] ) {
-                select_star(stars[id + 1], SPIN_TIME);
+            console.log("current = " + id);
+            var nid = parseInt(id) + 1;
+            console.log("new = " + nid);
+            if( stars[nid] ) {
+                select_star(stars[nid], SPIN_TIME);
             } else {
                 select_star(stars[0], SPIN_TIME);
             }
@@ -334,6 +336,8 @@ function render_map(elt, w, h, gostar) {
             select_star(star, 0);
         }
     }
+
+    $('#circle_218').addClass('highlight');
 
 }
 
