@@ -1,0 +1,162 @@
+body {
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+    font-size: 12pt;
+    font-family: Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+div#starmap {
+    background-color: #000;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 800px;
+    height: 800px;
+    font-size: 10pt;
+}
+
+div#cursor {
+    fill: none;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    width: 800px;
+    height: 800px;
+    border: 1px solid red;
+}
+
+
+div#controls {
+    font-size: 16pt;
+    font-family: Helvetica, Arial, sans-serif;
+    opacity: 0.94;
+    background-color: #fff;
+    position: absolute;
+    top: 400px;
+    left: 820px;
+    width: 400px;
+}
+
+/* The star description box */
+
+
+div#text {
+    font-size: 16pt;
+    font-family: Helvetica, Arial, sans-serif;
+    opacity: 0.94;
+    position: absolute;
+    top: 20px;
+    left: 820px;
+    width: 400px;
+    padding: 5px;
+}
+
+input {
+    font-weight: bold;
+    font-size: 18pt;
+    border: none;
+    outline: none;
+    padding: 0px;
+    width: 100%;
+}
+
+
+input#starname.start {
+    color: #888;
+}
+
+div#text.start {
+    background-color: #fff;
+}
+
+
+
+input#starname:hover {
+    background-color: #fff;
+}
+
+div#stardesignation {
+    font-size: 16pt;
+}
+
+span.link {
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.hidden {
+    display: none;
+}
+
+
+
+
+circle {
+    stroke-width: 1px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+/* Star colour classes
+   from http://www.vendian.org/mncharity/dir3/starcolor/ */
+
+circle.O { fill: #9bb0ff }  
+circle.B { fill: #aabfff }  
+circle.A { fill: #cad7ff }  
+circle.F { fill: #f8f7ff }  
+circle.G { fill: #fff4ea }  
+circle.K { fill: #ffd2a1 }  
+circle.M { fill: #ffcc6f }  
+circle.C { fill: #ff8080 }  
+circle.P { fill: #cc0033 } 
+circle.W { fill: #ffffff }
+
+div.O { background-color: #9bb0ff }  
+div.B { background-color: #aabfff }  
+div.A { background-color: #cad7ff }  
+div.F { background-color: #f8f7ff }  
+div.G { background-color: #fff4ea }  
+div.K { background-color: #ffd2a1 }  
+div.M { background-color: #ffcc6f }  
+div.C { background-color: #ff8080 }  
+div.P { background-color: #cc0033 }  
+div.W { background-color: #ffffff }
+
+input.O { background-color: #9bb0ff }  
+input.B { background-color: #aabfff }  
+input.A { background-color: #cad7ff }  
+input.F { background-color: #f8f7ff }  
+input.G { background-color: #fff4ea }  
+input.K { background-color: #ffd2a1 }  
+input.M { background-color: #ffcc6f }  
+input.C { background-color: #ff8080 }  
+input.P { background-color: #cc0033 }  
+input.W { background-color: #ffffff }
+
+
+circle.hidden { 
+    background-color: #f00;
+    display:none  
+}
+
+
+circle.highlight {
+    stroke-width: 2px;
+    stroke: #0f0;
+}
+
+text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+text.hidden { display:none }

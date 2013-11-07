@@ -4,42 +4,85 @@
     <title>CATALOGUS STELLARUM</title>
 
     <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="jquery-1.8.3.js"></script>
-    <script type="text/javascript" src="stars.js"></script>
-    <script type="text/javascript" src="starmap.js"></script>
-    <link type="text/css" rel="stylesheet" href="starmap.css">
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery-ui-1.10.3.custom.js"></script>
+    <script src="js/purl.js"></script>
+    <script src="js/stars.js"></script>
+    <script src="js/starmap.js"></script>
+
+    <link type="text/css" rel="stylesheet" href="css/starmap-theme/jquery-ui-1.10.3.custom.css" />
+    <link type="text/css" rel="stylesheet" href="css/starmap.css" />
   </head>
 
   <body>
-    <h1>CATALOGVS STELLARVM</h1>
+    <div id="header">
+    <span id="title">CATALOGVS STELLARVM</span>
+    <span id="links">
+      <a href="about.html">About</a>
+    <span>
+    </div>
 
     <div id="starmap">
-
     </div>
 
-<!--    <div id="controls">
-      <form name="controls">
-      <input type="text" id="namefield" name="starname" value="Type here" />
-      <button type="button" onClick="centre_star(document.getElementById('namefield').value);">Go</button>
-      </form>
-    </div> -->
+    <div id="text" class="start">
+      <input id="starname"
+             type="text"
+             class="start"
+             value="SEARCH" />
+      
+      <div id="stardesignation"></div>
+      <div id="coords"></div>
+      <div id="description">
+        <p>Welcome to the CATALOGUS STELLARUM, an index of local concentrations of BRIGHT MATTER.</p>
+        <p>Search for stars by typing above, select them from the celestial sphere, or press SPACE to view the Catalogus in alphabetical order.</p>
 
-	
-    <div id="text" class="hidden">
-      <div id="title">
-	<span id="starname"></span> <span id="stardesignation"></span>
       </div>
-      <div id="description"></div>
     </div>
 
-    <form name="finder">
-      <input id="acfield" type="text" name="star" />
-      <input type="submit" value="Find" />
-    </form>
-
+                              
 
     <script lang="javascript">
-      render_map("div#starmap", 800, 800);
+
+      var starNames = [];
+
+      for (var i = 0; i < stars.length; i++ ) {
+          starNames.push({ label: stars[i].name, value: stars[i].id });
+      }
+
+      function star_autocomplete(event) {
+          $(this).val("");
+          $(this).off("focus", star_autocomplete);
+          $(this).autocomplete({
+              delay: 0,
+              minLength: 2,
+              source: starNames,
+              focus: function(e, ui) {
+                  $('#starname').val(ui.item.label);
+                  return false;
+              },
+              select: function(e, ui) {
+                  $('#starname').val(ui.item.label);
+                  var id = ui.item.value;
+                  var star = stars[id];
+                  if( star ) {
+                     select_star(star, SPIN_TIME);
+                  }
+                  return false;
+              },
+          });
+
+      }
+
+      var url = $.url();
+      var star = url.param('star');
+      render_map("div#starmap", 800, 800, star);
+
+      $("input#starname").on("focus", star_autocomplete);
+
+      $(document).on("keypress", next_star);
+
+
     </script>
 
 
