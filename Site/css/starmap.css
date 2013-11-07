@@ -57,6 +57,22 @@ div#text {
     padding: 5px;
 }
 
+
+div#about {
+    font-size: 10pt;
+    font-family: Helvetica, Arial, sans-serif;
+    opacity: 0.94;
+    position: absolute;
+    top: 420px;
+    left: 820px;
+    width: 400px;
+    padding: 5px;
+    background-color: #fff;
+    display: none;
+}
+
+
+
 input {
     font-weight: bold;
     font-size: 18pt;
@@ -144,7 +160,6 @@ input.W { background-color: #ffffff }
 
 
 circle.hidden { 
-    background-color: #f00;
     display:none  
 }
 
