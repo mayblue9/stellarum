@@ -4605,7 +4605,7 @@ var stars = [
       "designation" : "ο Ursae Majoris",
       "constellation" : "Ursa Major",
       "html" : "&omicron; Ursae Majoris",
-      "text" : "Parallel version of <span class=\"link\" star=\"overload\">MUSCIDA</span> and <span class=\"link\" star=\"overload\">MUSCIDA</span> Here, the third mandibular consonant has no voiced form.",
+      "text" : "Parallel version of <span class=\"link\" star=\"243\">MUSCIDA</span> and <span class=\"link\" star=\"244\">MUSCIDA</span> Here, the third mandibular consonant has no voiced form.",
       "ra" : 2.22644894180276,
       "class" : "G",
       "id" : "242",
@@ -4624,7 +4624,7 @@ var stars = [
       "designation" : "π¹ Ursae Majoris",
       "constellation" : "Ursa Major",
       "html" : "&pi;<super>1</super> Ursae Majoris",
-      "text" : "Parallel version of <span class=\"link\" star=\"overload\">MUSCIDA</span> and <span class=\"link\" star=\"overload\">MUSCIDA</span> Here, the Ovipositor Coup was crushed; males are still chattels.",
+      "text" : "Parallel version of <span class=\"link\" star=\"242\">MUSCIDA</span> and <span class=\"link\" star=\"244\">MUSCIDA</span> Here, the Ovipositor Coup was crushed; males are still chattels.",
       "ra" : 2.26541587245002,
       "class" : "G",
       "id" : "243",
@@ -4643,7 +4643,7 @@ var stars = [
       "designation" : "π² Ursae Majoris",
       "constellation" : "Ursa Major",
       "html" : "&pi;<super>2</super> Ursae Majoris",
-      "text" : "Parallel version of <span class=\"link\" star=\"overload\">MUSCIDA</span> and <span class=\"link\" star=\"overload\">MUSCIDA</span> Here, a time-traveller to the Mammal Age prevented civilisation.",
+      "text" : "Parallel version of <span class=\"link\" star=\"242\">MUSCIDA</span> and <span class=\"link\" star=\"243\">MUSCIDA</span> Here, a time-traveller to the Mammal Age prevented civilisation.",
       "ra" : 2.26986015485902,
       "class" : "K",
       "id" : "244",
@@ -5574,7 +5574,7 @@ var stars = [
       "designation" : "ω¹ Cygni",
       "constellation" : "Cygnus",
       "html" : "&omega;<super>1</super> Cygni",
-      "text" : "B-giant. A probe launched from this system into a nearby flexure point of the galactic animal caused the Great Voidquake.",
+      "text" : "M-A binary. A probe launched from this system into a nearby flexure point of the galactic animal caused the Great Voidquake.",
       "ra" : 5.37261913296273,
       "class" : "M",
       "id" : 293,
@@ -5688,7 +5688,7 @@ var stars = [
       "designation" : "Groombridge 1830",
       "constellation" : "Ursa Major",
       "html" : "Groombridge 1830",
-      "text" : "F-dwarf with apparently high proper motion, caught on a void snag while the Galaxy streams around it.",
+      "text" : "G-dwarf with apparently high proper motion, caught on a void snag while the Galaxy streams around it.",
       "ra" : 3.11095987810588,
       "class" : "G",
       "id" : 299,
@@ -5992,7 +5992,7 @@ var stars = [
       "designation" : "53 Eridani",
       "constellation" : "Eridanus",
       "html" : "53 Eridani",
-      "text" : "K-class dwarf of the House of Hohernzollen, sometime capital of the Holy Roman Stellar Empire.",
+      "text" : "K-class dwarf of the House of Hohenzollern, sometime capital of the Holy Roman Stellar Empire.",
       "ra" : 1.21378922829946,
       "class" : "K",
       "id" : 315,
@@ -6448,7 +6448,7 @@ var stars = [
       "designation" : "α Delphini",
       "constellation" : "Delphinus",
       "html" : "&alpha; Delphini",
-      "text" : "B-dwarf, second of the stars which Niccolò Cacciatore named after himself as a practical joke. See also: <span class=\"link\" star=\"292\">ROTANEV</span>.",
+      "text" : "The second stellar system which Niccolò Cacciatore named after himself as a practical joke. See also: <span class=\"link\" star=\"292\">ROTANEV</span>.",
       "ra" : 5.40894166726373,
       "class" : "A",
       "id" : "339",
@@ -7837,14 +7837,4 @@ var constellations = {
    ]
 }
 ;
-
-
-var starNames = [];
-
-for (var i = 0; i < stars.length; i++ ) {
-    starNames.push(stars[i].name);
-}
-
-var constNames = constellations.keys()
-
 

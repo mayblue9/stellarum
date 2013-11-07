@@ -34,7 +34,7 @@ my @FIELDS = qw(
     search wikistatus
     ra1 ra2 ra3 dec1 dec2 dec3 ra dec
     appmag_v class mass radius
-    text 
+    text xrefs
 );
 
 my %GREEK = (
@@ -214,6 +214,7 @@ if( $USE_WIKI ) {
 
     my @fields = qw(
        constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class
+       text xrefs
     );
 
     # NOTE: newids now start with 0, not 1, so that they correspond
@@ -361,18 +362,37 @@ sub add_xrefs {
     my $names = join('|', reverse sort keys %$ids);
 
     for my $star ( @$stars ) {
-        if( $star->{text} =~ s/($names)/<span class=\"link\" star=\"$ids->{$1}\">$1<\/span>/g ) {
-            $log->debug("Resolved xref in $star->{id} $star->{name}");
-        }
         #while we're here, remove (q.v.) and (qq.v.)
-
         if( $star->{text} =~ s/\(qq?\.v\.\)\s*//g ) {
             $log->debug("Removed q.v. or qq.v. in $star->{id} $star->{name}");
         }
+        
+        # override with manual xrefs, which are a ; separated list
+        
+        if( $star->{xrefs} ) {
+            my @ids = split(/;\s*/, $star->{xrefs});
+            $log->info("Manual xrefs for $star->{id} $star->{name}: " . join('; ', @ids));
+            my $manualid = sub {
+                my ( $name ) = @_;
+                my $id = shift @ids;
+                if( !$id ) {
+                    $log->error("Ran out of manual xrefs for $star->{id} $star->{name} ($name)");
+                }
+                return "<span class=\"link\" star=\"$id\">$name<\/span>"
+            };
+
+            my $count = ( $star->{text} =~ s/($names)/&$manualid($1)/ge );
+            if( $count ) {
+                $log->debug("Resolved manual xrefs ($count) in $star->{id} $star->{name}");
+            }
+        } else {
+            my $count = ( $star->{text} =~ s/($names)/<span class=\"link\" star=\"$ids->{$1}\">$1<\/span>/g );
+            if( $count ) {
+                $log->debug("Resolved xrefs ($count) in $star->{id} $star->{name}");
+            }
+        }
 
     }
-
-
 }
 
 
