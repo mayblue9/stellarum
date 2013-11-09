@@ -7,7 +7,7 @@ var nodes;
 var position = [ 0, 0 ];
 
 var spinning = 0;
-var highlighted_circle;
+var highlighted_star;
 
 var SPIN_TIME = 600;
 
@@ -112,6 +112,10 @@ function select_star(star, spin_time) {
     spinning = 1;
     current_star = star;
     
+    if( highlighted_star ) {
+        star_cursor(highlighted_star, 0);
+    }
+
     nodes.transition()
 	    .duration(duration)
 	    .attrTween("transform", function(d, i, a) {
@@ -127,8 +131,8 @@ function select_star(star, spin_time) {
 	    .each("end", function(e) {
 	        d3.select(this).each(function(d, i) {
 		        if( d.id == star.id ) {
-		            highlight_star_circle(this);
                     hide_star_text();
+		            star_cursor(this, 1);
 		            show_star_text(d);
 		            spinning = 0;
 		        }
@@ -175,10 +179,13 @@ function star_opacity(d) {
 }
 
 
-function highlight_star_circle(elt) {
-    d3.select(elt).classed("highlight", 1);
-    highlighted_circle = elt;
-    console.log("Highlighted " + elt.id);
+function star_cursor(elt, h) {
+    var id = '#' + elt.id;
+    console.log("cursor: " + id + "; " + h);
+    d3.select(id).classed("highlight", h);
+    if( h ) {
+        highlighted_star = elt;
+    } 
 }
 
 function show_star_text(d) {
@@ -218,9 +225,6 @@ function show_star_text(d) {
 
 
 function hide_star_text() {
-    if( highlighted_circle ) {
-	    d3.select(highlighted_circle).classed("highlight", 0);
-    }
     $("div#text").addClass("hidden");
 }
 
@@ -337,7 +341,6 @@ function render_map(elt, w, h, gostar) {
         }
     }
 
-    $('#circle_218').addClass('highlight');
 
 }
 

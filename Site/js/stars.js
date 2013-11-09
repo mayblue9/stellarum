@@ -2097,10 +2097,10 @@ var stars = [
       "designation" : "α Aurigae",
       "constellation" : "Auriga",
       "html" : "&alpha; Aurigae",
-      "text" : "By an inevitable coincidence, the hircine inhabitants of this quadruple system refer to SOL as the \"Star of Apes\".",
+      "text" : "By an inevitable coincidence, the hircine inhabitants of this quadruple system refer to <span class=\"link\" star=\"335\">SOL</span> as the \"Star of Apes\".",
       "ra" : 1.38181782770328,
       "class" : "G",
-      "id" : 110,
+      "id" : "110",
       "wiki" : "Alpha Aurigae",
       "vector" : {
          "y" : 0.682315890843424,
@@ -2629,7 +2629,7 @@ var stars = [
       "designation" : "δ Scorpii",
       "constellation" : "Scorpius",
       "html" : "&delta; Scorpii",
-      "text" : "Prophesied to one day unite the BATENTABANS, PHACD, <span class=\"link\" star=\"316\">SCHEAT</span> and <span class=\"link\" star=\"367\">USHAKARON</span> in a mighty empire known as the Epic Solo.",
+      "text" : "Prophesied to one day unite the <span class=\"link\" star=\"93\">BATENTABANS</span>, <span class=\"link\" star=\"261\">PHACT</span>, <span class=\"link\" star=\"316\">SCHEAT</span> and <span class=\"link\" star=\"368\">USHAKARON</span> in a mighty empire known as the Epic Solo.",
       "ra" : 4.19024502980215,
       "class" : "B",
       "id" : "138",
@@ -2971,10 +2971,10 @@ var stars = [
       "designation" : "γ Crucis",
       "constellation" : "Crux",
       "html" : "&gamma; Crucis",
-      "text" : "Sacred to raptors on many worlds, the closest red giant star to SOL.",
+      "text" : "Sacred to raptors on many worlds, the closest red giant star to <span class=\"link\" star=\"335\">SOL</span>.",
       "ra" : 3.27757995389733,
       "class" : "M",
-      "id" : 156,
+      "id" : "156",
       "wiki" : "Gamma Crucis",
       "vector" : {
          "y" : -0.0736111270258761,
@@ -3883,10 +3883,10 @@ var stars = [
       "designation" : "λ Herculis",
       "constellation" : "Hercules",
       "html" : "&lambda; Herculis",
-      "text" : "The migratory habits of stars are not well understood. This K-giant is believed to mark SOL'S ancestral breeding ground.",
+      "text" : "The migratory habits of stars are not well understood. This K-giant is believed to mark <span class=\"link\" star=\"335\">SOL</span>'S ancestral breeding ground.",
       "ra" : 4.5847115933444,
       "class" : "K",
-      "id" : 204,
+      "id" : "204",
       "wiki" : "Lambda Herculis",
       "vector" : {
          "y" : -0.890636820066703,
@@ -4016,7 +4016,7 @@ var stars = [
       "designation" : "k² Puppis",
       "constellation" : "Puppis",
       "html" : "k² Puppis",
-      "text" : "Blue giant, it and k¹ Puppis comprise the only Yulean cognate pair to have ever been collinear with SOL.",
+      "text" : "Blue giant, it and k¹ Puppis comprise the only Yulean cognate pair to have ever been collinear with <span class=\"link\" star=\"335\">SOL</span>.",
       "ra" : 2.0020235517314,
       "class" : "B",
       "id" : "211",
@@ -4605,7 +4605,7 @@ var stars = [
       "designation" : "ο Ursae Majoris",
       "constellation" : "Ursa Major",
       "html" : "&omicron; Ursae Majoris",
-      "text" : "Parallel version of <span class=\"link\" star=\"243\">MUSCIDA</span> and <span class=\"link\" star=\"244\">MUSCIDA</span>. Here, the third mandibular consonant has no voiced form.",
+      "text" : "Parallel version of <span class=\"link\" star=\"243\">MUSCIDA</span> and <span class=\"link\" star=\"244\">MUSCIDA</span> Here, the third mandibular consonant has no voiced form.",
       "ra" : 2.22644894180276,
       "class" : "G",
       "id" : "242",
@@ -4624,7 +4624,7 @@ var stars = [
       "designation" : "π¹ Ursae Majoris",
       "constellation" : "Ursa Major",
       "html" : "&pi;<super>1</super> Ursae Majoris",
-      "text" : "Parallel version of <span class=\"link\" star=\"242\">MUSCIDA</span> and <span class=\"link\" star=\"244\">MUSCIDA</span>. Here, the Ovipositor Coup was crushed; males are still chattels.",
+      "text" : "Parallel version of <span class=\"link\" star=\"242\">MUSCIDA</span> and <span class=\"link\" star=\"244\">MUSCIDA</span> Here, the Ovipositor Coup was crushed; males are still chattels.",
       "ra" : 2.26541587245002,
       "class" : "G",
       "id" : "243",
@@ -4643,7 +4643,7 @@ var stars = [
       "designation" : "π² Ursae Majoris",
       "constellation" : "Ursa Major",
       "html" : "&pi;<super>2</super> Ursae Majoris",
-      "text" : "Parallel version of <span class=\"link\" star=\"242\">MUSCIDA</span> and <span class=\"link\" star=\"243\">MUSCIDA</span>. Here, a time-traveller to the Mammal Age prevented civilisation.",
+      "text" : "Parallel version of <span class=\"link\" star=\"242\">MUSCIDA</span> and <span class=\"link\" star=\"243\">MUSCIDA</span> Here, a time-traveller to the Mammal Age prevented civilisation.",
       "ra" : 2.26986015485902,
       "class" : "K",
       "id" : "244",
@@ -5251,10 +5251,10 @@ var stars = [
       "designation" : "α Canis Minoris",
       "constellation" : "Canis Minor",
       "html" : "&alpha; Canis Minoris",
-      "text" : "F-subgiant, its white dwarf companion is host to a dragon colony that migrated from SOL in the distant past.",
+      "text" : "F-subgiant, its white dwarf companion is host to a dragon colony that migrated from <span class=\"link\" star=\"335\">SOL</span> in the distant past.",
       "ra" : 2.00408300388772,
       "class" : "F",
-      "id" : 276,
+      "id" : "276",
       "wiki" : "Alpha Canis Minoris",
       "vector" : {
          "y" : 0.903819481756326,
@@ -5517,10 +5517,10 @@ var stars = [
       "designation" : "α Centauri",
       "constellation" : "Centaurus",
       "html" : "&alpha; Centauri",
-      "text" : "Triple system inhabited by centaurs, the coincidence of names being a race-memory of their brief visit to SOL.",
+      "text" : "Triple system inhabited by centaurs, the coincidence of names being a race-memory of their brief visit to <span class=\"link\" star=\"335\">SOL</span>.",
       "ra" : 3.83801502982356,
       "class" : "G",
-      "id" : 290,
+      "id" : "290",
       "wiki" : "Alpha Centauri",
       "vector" : {
          "y" : -0.312618781855632,
@@ -5555,7 +5555,7 @@ var stars = [
       "designation" : "β Delphini",
       "constellation" : "Delphinus",
       "html" : "&beta; Delphini",
-      "text" : "F-binary pair, astronomer Niccolò Cacciatore gave it the reversed Latin form of his own surname. See also: <span class=\"link\" star=\"339\">SUALOCIN</span>.",
+      "text" : "F-binary pair, astronomer Niccolò Cacciatore gave it the reversed Latin form of his own surname. See also: <span class=\"link\" star=\"340\">SUALOCIN</span>.",
       "ra" : 5.39982627072949,
       "class" : "F",
       "id" : "292",
@@ -5840,10 +5840,10 @@ var stars = [
       "designation" : "ε Eridani",
       "constellation" : "Eridanus",
       "html" : "&epsilon; Eridani",
-      "text" : "Small, K-class star, a near neighbour of SOL, surrounded by belts of asteroids that never quite got it together.",
+      "text" : "Small, K-class star, a near neighbour of <span class=\"link\" star=\"335\">SOL</span>, surrounded by belts of asteroids that never quite got it together.",
       "ra" : 0.929085663651347,
       "class" : "K",
-      "id" : 307,
+      "id" : "307",
       "wiki" : "Epsilon Eridani",
       "vector" : {
          "y" : 0.790182862644689,
@@ -6365,6 +6365,25 @@ var stars = [
       }
    },
    {
+      "magnitude" : "0",
+      "coords" : "RA 2 39' 35\" Dec 60 50' 13\"",
+      "name" : "SOL",
+      "dec" : 1.0618083811042,
+      "designation" : "",
+      "constellation" : 2,
+      "html" : "",
+      "text" : "G-dwarf with planetary companion bearing biosphere spectral fingerprint MNKE187CA44 (\"ape planet\")",
+      "ra" : 0.696313649493571,
+      "class" : "G",
+      "id" : "335",
+      "wiki" : "",
+      "vector" : {
+         "y" : 0.312547198117944,
+         "x" : 0.373857500092624,
+         "z" : 0.873238122491865
+      }
+   },
+   {
       "magnitude" : "9.39",
       "coords" : "RA 20 47' 45\" Dec -36 35' 40\"",
       "name" : "SPEEDY MIC",
@@ -6375,7 +6394,7 @@ var stars = [
       "text" : "Young K-dwarf, spinning wildly and breaking out in a mass of sunspots and absurdly styled prominences.",
       "ra" : 5.44433696776523,
       "class" : "K",
-      "id" : 335,
+      "id" : 336,
       "wiki" : "BO Microscopii",
       "vector" : {
          "y" : -0.597236297108664,
@@ -6394,7 +6413,7 @@ var stars = [
       "text" : "Binary system of time-reversed blue dwarfs, its inhabitants cherish the memory of their creation in a great supernova.",
       "ra" : 3.51331719009724,
       "class" : "B",
-      "id" : 336,
+      "id" : 337,
       "wiki" : "Alpha Virginis",
       "vector" : {
          "y" : -0.356352750071971,
@@ -6410,10 +6429,10 @@ var stars = [
       "designation" : "21 Tauri",
       "constellation" : "Taurus",
       "html" : "21 Tauri",
-      "text" : "Blue dwarf in the Pleiades, with <span class=\"link\" star=\"338\">STEROPE II</span> formed part of an ancient experiment in 3D broadcasting.",
+      "text" : "Blue dwarf in the Pleiades, with <span class=\"link\" star=\"339\">STEROPE II</span> formed part of an ancient experiment in 3D broadcasting.",
       "ra" : 0.985703783884664,
       "class" : "B",
-      "id" : "337",
+      "id" : "338",
       "wiki" : "21 Tauri",
       "vector" : {
          "y" : 0.758268673921639,
@@ -6429,10 +6448,10 @@ var stars = [
       "designation" : "22 Tauri",
       "constellation" : "Taurus",
       "html" : "22 Tauri",
-      "text" : "Legend says that if the galactic animal should close one of its eyes, this star (or <span class=\"link\" star=\"337\">STEROPE I</span>) would go out.",
+      "text" : "Legend says that if the galactic animal should close one of its eyes, this star (or <span class=\"link\" star=\"338\">STEROPE I</span>) would go out.",
       "ra" : 0.986321921328079,
       "class" : "A",
-      "id" : "338",
+      "id" : "339",
       "wiki" : "22 Tauri",
       "vector" : {
          "y" : 0.758740262186202,
@@ -6451,7 +6470,7 @@ var stars = [
       "text" : "The second stellar system which Niccolò Cacciatore named after himself as a practical joke. See also: <span class=\"link\" star=\"292\">ROTANEV</span>.",
       "ra" : 5.40894166726373,
       "class" : "A",
-      "id" : "339",
+      "id" : "340",
       "wiki" : "Alpha Delphini",
       "vector" : {
          "y" : -0.737667482141338,
@@ -6470,7 +6489,7 @@ var stars = [
       "text" : "Binary system, its sole planet home to a breed of powerful humanoids who sustain a thriving superhero export industry.",
       "ra" : 2.53574741865283,
       "class" : "F",
-      "id" : 340,
+      "id" : 341,
       "wiki" : "Omicron Leonis",
       "vector" : {
          "y" : 0.56099062396459,
@@ -6489,7 +6508,7 @@ var stars = [
       "text" : "Blue giant, the Skein fragment attached to its South Pole oscillates in resonance with the Song of Sulafat.",
       "ra" : 4.96957941977768,
       "class" : "B",
-      "id" : 341,
+      "id" : 342,
       "wiki" : "Gamma Lyrae",
       "vector" : {
          "y" : -0.813927411892209,
@@ -6508,7 +6527,7 @@ var stars = [
       "text" : "Mischievous F-class dwarf with a coquettish emission spectrum and slight unpredictable variability.",
       "ra" : 3.73507004911481,
       "class" : "F",
-      "id" : 342,
+      "id" : 343,
       "wiki" : "Iota Virginis",
       "vector" : {
          "y" : -0.55618298133962,
@@ -6527,7 +6546,7 @@ var stars = [
       "text" : "Tiny, virtual star, created when an astronomer looked at the massive π⁴ Orionis through the wrong end of a telescope.",
       "ra" : 1.26466636939268,
       "class" : "F",
-      "id" : 343,
+      "id" : 344,
       "wiki" : "Pi3 Orionis",
       "vector" : {
          "y" : 0.946478052539054,
@@ -6546,7 +6565,7 @@ var stars = [
       "text" : "A-dwarf whose planets orbit in two ecliptic planes, a consequence of an ancient demarcation dispute.",
       "ra" : 2.37201354512162,
       "class" : "A",
-      "id" : 344,
+      "id" : 345,
       "wiki" : "Kappa Ursae Majoris",
       "vector" : {
          "y" : 0.473164955947913,
@@ -6565,7 +6584,7 @@ var stars = [
       "text" : "A pair of A-subgiants orbited by a pair of M-dwarfs. On its worlds, New Year³'s Eve is a really big deal.",
       "ra" : 2.35273681986566,
       "class" : "A",
-      "id" : 345,
+      "id" : 346,
       "wiki" : "Iota Ursae Majoris",
       "vector" : {
          "y" : 0.474394888288082,
@@ -6584,7 +6603,7 @@ var stars = [
       "text" : "Vivid orange giant, its bright hue a side-effect of its use as a dumping ground for surplus astronaut refreshments.",
       "ra" : 4.80537143700904,
       "class" : "K",
-      "id" : 346,
+      "id" : 347,
       "wiki" : "Eta Serpentis",
       "vector" : {
          "y" : -0.994406165500652,
@@ -6603,7 +6622,7 @@ var stars = [
       "text" : "Friendly red giant with a cheerful, easygoing chromosphere and a somewhat coarse emission spectrum.",
       "ra" : 2.71542281104916,
       "class" : "M",
-      "id" : 347,
+      "id" : 348,
       "wiki" : "Mu Ursae Majoris",
       "vector" : {
          "y" : 0.309610296868478,
@@ -6622,7 +6641,7 @@ var stars = [
       "text" : "Beautiful, frosty white star, all of whose planets orbit at a respectable, if chilly, distance.",
       "ra" : 2.69259091337506,
       "class" : "A",
-      "id" : 348,
+      "id" : 349,
       "wiki" : "Lambda Ursae Majoris",
       "vector" : {
          "y" : 0.317898242656475,
@@ -6641,7 +6660,7 @@ var stars = [
       "text" : "Second swan consort of <span class=\"link\" star=\"54\">ALTAIR</span> , a K-type star whose gas giants sustain vast, blindly floating wings.",
       "ra" : 5.17603426282533,
       "class" : "K",
-      "id" : "349",
+      "id" : "350",
       "wiki" : "Gamma Aquilae",
       "vector" : {
          "y" : -0.879127021025943,
@@ -6660,7 +6679,7 @@ var stars = [
       "text" : "Run-down member of the Pleiades cluster, a blue giant whose system is being gentrified by middle-class renobots.",
       "ra" : 0.982656729898891,
       "class" : "B",
-      "id" : 350,
+      "id" : 351,
       "wiki" : "19 Tauri",
       "vector" : {
          "y" : 0.757261639823061,
@@ -6679,7 +6698,7 @@ var stars = [
       "text" : "Quadruple system in which life evolved separately on the worlds of each sun. Exports include gas membranes and diplomats.",
       "ra" : 2.14767855001554,
       "class" : "F",
-      "id" : 351,
+      "id" : 352,
       "wiki" : "Zeta Cancri",
       "vector" : {
          "y" : 0.798721537930092,
@@ -6698,7 +6717,7 @@ var stars = [
       "text" : "Home to a monopod race who await their Messiah, The Many-Kneed, The One With Feet, He Who Shall Kick Arse.",
       "ra" : 1.67098017917369,
       "class" : "M",
-      "id" : 352,
+      "id" : 353,
       "wiki" : "Mu Geminorum",
       "vector" : {
          "y" : 0.919156718785133,
@@ -6717,7 +6736,7 @@ var stars = [
       "text" : "A red giant orbited by a blue and yellow dwarf: its planets' sunsets can cause permanent nerve damage.",
       "ra" : 1.63570803055865,
       "class" : "M",
-      "id" : 353,
+      "id" : 354,
       "wiki" : "Eta Geminorum",
       "vector" : {
          "y" : 0.921888453450952,
@@ -6736,7 +6755,7 @@ var stars = [
       "text" : "G-class star of many names, the Third Hen Ostrich, Durre Menthor (the Spilled Pearls), the Tipsy Astronomer, &amp;c.",
       "ra" : 0.454082522385316,
       "class" : "G",
-      "id" : 354,
+      "id" : 355,
       "wiki" : "Tau Ceti",
       "vector" : {
          "y" : 0.421777580637793,
@@ -6755,7 +6774,7 @@ var stars = [
       "text" : "B-giant, in an example of the fixed-point theorem it is the only star in the Galaxy whose constellations never change.",
       "ra" : 1.44831784653619,
       "class" : "B",
-      "id" : 355,
+      "id" : 356,
       "wiki" : "Upsilon Orionis",
       "vector" : {
          "y" : 0.984460987396877,
@@ -6774,7 +6793,7 @@ var stars = [
       "text" : "Huge and luminous blue giant, its system's inhabitants have not yet noticed the rest of the Galaxy.",
       "ra" : 1.84579273884422,
       "class" : "B",
-      "id" : 356,
+      "id" : 357,
       "wiki" : "Omicron2 Canis Majoris",
       "vector" : {
          "y" : 0.880355308243701,
@@ -6793,7 +6812,7 @@ var stars = [
       "text" : "Counterfactual version of <span class=\"link\" star=\"95\">BEEMIM</span> created by a cataloguing error aboard a ship with a subjunctive warp drive.",
       "ra" : 1.2023164882666,
       "class" : "G",
-      "id" : "357",
+      "id" : "358",
       "wiki" : "Upsilon2 Eridani",
       "vector" : {
          "y" : 0.803277508131476,
@@ -6812,7 +6831,7 @@ var stars = [
       "text" : "\"Given the means, any species will create dragons; they are, as an ancient poet wrote, a necessary animal.\" —Yll",
       "ra" : 3.68434276708171,
       "class" : "A",
-      "id" : 358,
+      "id" : 359,
       "wiki" : "Alpha Draconis",
       "vector" : {
          "y" : -0.223365500574874,
@@ -6831,7 +6850,7 @@ var stars = [
       "text" : "Giant blue star surrounded by an eternally spiraling density wave, a mighty celestial pinwheel.",
       "ra" : 1.47325317793654,
       "class" : "B",
-      "id" : 359,
+      "id" : 360,
       "wiki" : "Zeta Tauri",
       "vector" : {
          "y" : 0.928252386820079,
@@ -6850,7 +6869,7 @@ var stars = [
       "text" : "G-giant, home to a Nominalist sect; its full name is written on the rings of its largest gas giant.",
       "ra" : 0.459865169079639,
       "class" : "G",
-      "id" : 360,
+      "id" : 361,
       "wiki" : "Omicron Piscium",
       "vector" : {
          "y" : 0.438170183151823,
@@ -6869,7 +6888,7 @@ var stars = [
       "text" : "Volatile cluster of hot blue giants in the Orion supernova works. The responsible demiurge has been rebuked.",
       "ra" : 1.46207685880608,
       "class" : "O",
-      "id" : 361,
+      "id" : 362,
       "wiki" : "Theta1 Orionis",
       "vector" : {
          "y" : 0.989601275646244,
@@ -6888,7 +6907,7 @@ var stars = [
       "text" : "Example of a Del Scuti variable, its surface moving inwards and outwards as it turns around. That's what it's all about.",
       "ra" : 2.12731265349431,
       "class" : "F",
-      "id" : 362,
+      "id" : 363,
       "wiki" : "Rho Puppis",
       "vector" : {
          "y" : 0.773846553491177,
@@ -6907,7 +6926,7 @@ var stars = [
       "text" : "Yellow giant, orbited by the planet Owlglass, where trickster deities from across the Galaxy observe their convocations.",
       "ra" : 5.18438070437939,
       "class" : "G",
-      "id" : 363,
+      "id" : 364,
       "wiki" : "Epsilon Draconis",
       "vector" : {
          "y" : -0.300708077707324,
@@ -6926,7 +6945,7 @@ var stars = [
       "text" : "A tangled filament of the galactic animal has snared this G-class star, around which the manifold shudders and heaves.",
       "ra" : 2.48337808722622,
       "class" : "F",
-      "id" : 364,
+      "id" : 365,
       "wiki" : "Tau Hydrae",
       "vector" : {
          "y" : 0.61099123996615,
@@ -6945,7 +6964,7 @@ var stars = [
       "text" : "K-giant, civilisation on its habitable worlds collapsed due to an obsession with feline images or \"cataclysm\".",
       "ra" : 4.12014599151698,
       "class" : "K",
-      "id" : 365,
+      "id" : 366,
       "wiki" : "Alpha Serpentis",
       "vector" : {
          "y" : -0.824478527578977,
@@ -6964,7 +6983,7 @@ var stars = [
       "text" : "G-class giant whose binary companion is feeding off the body of its host, a rare example of stellar cannibalism.",
       "ra" : 4.38936489686662,
       "class" : "G",
-      "id" : 366,
+      "id" : 367,
       "wiki" : "Epsilon Ursae Minoris",
       "vector" : {
          "y" : -0.131364958102588,
@@ -6983,7 +7002,7 @@ var stars = [
       "text" : "Triple system, home to Poet, a nemesis device of such wanton efficacy that many of its employers die of remorse.",
       "ra" : 0.903949652839163,
       "class" : "B",
-      "id" : 367,
+      "id" : 368,
       "wiki" : "Xi Tauri",
       "vector" : {
          "y" : 0.774466199767345,
@@ -7002,7 +7021,7 @@ var stars = [
       "text" : "Home to a refined, talented yet modest race who recently announced their decision to transcend, much to everyone's relief.",
       "ra" : 4.87356550804775,
       "class" : "A",
-      "id" : 368,
+      "id" : 369,
       "wiki" : "Alpha Lyrae",
       "vector" : {
          "y" : -0.769413128033198,
@@ -7021,7 +7040,7 @@ var stars = [
       "text" : "Somewhat dissolute G-giant which has matured in the last million years and now hardly ever stays out all night.",
       "ra" : 3.41288938504947,
       "class" : "G",
-      "id" : 369,
+      "id" : 370,
       "wiki" : "Epsilon Virginis",
       "vector" : {
          "y" : -0.263093788066751,
@@ -7040,7 +7059,7 @@ var stars = [
       "text" : "F-subgiant with planetary companion bearing biosphere spectral fingerprint QQQF00F00F0 (\"bizarro world\")",
       "ra" : 1.9203988499399,
       "class" : "F",
-      "id" : 370,
+      "id" : 371,
       "wiki" : "Delta Geminorum",
       "vector" : {
          "y" : 0.871206097951716,
@@ -7059,7 +7078,7 @@ var stars = [
       "text" : "K-giant, attacked with a causality weapon, if ever it is not observed in some world's sky it will cease to have existed.",
       "ra" : 1.53135136937325,
       "class" : "K",
-      "id" : 371,
+      "id" : 372,
       "wiki" : "Beta Columbae",
       "vector" : {
          "y" : 0.810756095500796,
@@ -7078,7 +7097,7 @@ var stars = [
       "text" : "Rare example of a yellow supergiant, a vast crucible of the stellar alchemists, swollen with heavy elements.",
       "ra" : 1.86921025556888,
       "class" : "F",
-      "id" : 372,
+      "id" : 373,
       "wiki" : "Delta Canis Majoris",
       "vector" : {
          "y" : 0.856175261979054,
@@ -7097,7 +7116,7 @@ var stars = [
       "text" : "Home to the Xrskh, a race who built many enigmatic megastructures and then transcended to escape their subcontractors.",
       "ra" : 2.27020688342266,
       "class" : "B",
-      "id" : 373,
+      "id" : 374,
       "wiki" : "Omicron Velorum",
       "vector" : {
          "y" : 0.461354692603796,
@@ -7116,7 +7135,7 @@ var stars = [
       "text" : "Blushing red giant, site of the planet Elephantis, consecrated to both speakable and unspeakable pleasures.",
       "ra" : 4.26873281060469,
       "class" : "G",
-      "id" : 374,
+      "id" : 375,
       "wiki" : "Epsilon Ophiuchi",
       "vector" : {
          "y" : -0.900160906881074,
@@ -7132,10 +7151,10 @@ var stars = [
       "designation" : "δ Ophiuchi",
       "constellation" : "Ophiuchus",
       "html" : "&delta; Ophiuchi",
-      "text" : "Gloomy red giant whose worlds are noted for their stern asceticism, a rival to or subsidiary of <span class=\"link\" star=\"374\">YED POSTERIOR</span> .",
+      "text" : "Gloomy red giant whose worlds are noted for their stern asceticism, a rival to or subsidiary of <span class=\"link\" star=\"375\">YED POSTERIOR</span> .",
       "ra" : 4.25138487706671,
       "class" : "M",
-      "id" : "375",
+      "id" : "376",
       "wiki" : "Delta Ophiuchi",
       "vector" : {
          "y" : -0.893745213343434,
@@ -7154,7 +7173,7 @@ var stars = [
       "text" : "A-dwarf orbited by a lone asteroid, chalk white and ink-shadowed, named the Next-To-Last-Thing.",
       "ra" : 4.59115404721803,
       "class" : "A",
-      "id" : 376,
+      "id" : 377,
       "wiki" : "Delta Ursae Minoris",
       "vector" : {
          "y" : -0.0591052645920215,
@@ -7173,7 +7192,7 @@ var stars = [
       "text" : "Very close triple system, lost in an eternal and amicable debate about who actually is in orbit about whom.",
       "ra" : 3.22844880600844,
       "class" : "A",
-      "id" : 377,
+      "id" : 378,
       "wiki" : "Eta Virginis",
       "vector" : {
          "y" : -0.0867411120255297,
@@ -7192,7 +7211,7 @@ var stars = [
       "text" : "Sombre red giant with obsidian planets, onetime seat of an evil overlord, now reinventing itself as an arts precinct.",
       "ra" : 1.0385994011667,
       "class" : "M",
-      "id" : 378,
+      "id" : 379,
       "wiki" : "Gamma Eridani",
       "vector" : {
          "y" : 0.837855766248839,
@@ -7211,7 +7230,7 @@ var stars = [
       "text" : "Tatterdemalion carnival star, strung with marquee moons, the music of its spheres goes to a wheezing old calliope.",
       "ra" : 3.10099325831551,
       "class" : "F",
-      "id" : 379,
+      "id" : 380,
       "wiki" : "Beta Virginis",
       "vector" : {
          "y" : 0.0405689922838488,
@@ -7230,7 +7249,7 @@ var stars = [
       "text" : "An early attempt to run a solar system on magic which was thwarted when several orders of elementals formed trade unions.",
       "ra" : 2.94135258621484,
       "class" : "A",
-      "id" : 380,
+      "id" : 381,
       "wiki" : "Delta Leonis",
       "vector" : {
          "y" : 0.186279562259892,
@@ -7249,7 +7268,7 @@ var stars = [
       "text" : "K-subgiant, claw of the galactic animal. When it was unsheathed it scratched and relieved the Great Voidquake.",
       "ra" : 4.08200078006207,
       "class" : "K",
-      "id" : 381,
+      "id" : 382,
       "wiki" : "Gamma Librae",
       "vector" : {
          "y" : -0.782222754444244,
@@ -7268,7 +7287,7 @@ var stars = [
       "text" : "Blue variable, claw of the galactic animal. It is unsheathed as the dark matter thaws in the cosmic spring.",
       "ra" : 4.15017479508602,
       "class" : "B",
-      "id" : 382,
+      "id" : 383,
       "wiki" : "Delta Librae",
       "vector" : {
          "y" : -0.836742192453088,
@@ -7287,7 +7306,7 @@ var stars = [
       "text" : "Quintuple system, claw of the galactic animal. When it was unsheathed, predators on all worlds halted; prey fled.",
       "ra" : 3.88635235033599,
       "class" : "F",
-      "id" : 383,
+      "id" : 384,
       "wiki" : "Alpha Librae",
       "vector" : {
          "y" : -0.651547525524681,
@@ -7306,7 +7325,7 @@ var stars = [
       "text" : "Rare blue-green giant, this claw of the galactic animal has not yet been unsheathed.",
       "ra" : 4.00119740403663,
       "class" : "B",
-      "id" : 384,
+      "id" : 385,
       "wiki" : "Beta Librae",
       "vector" : {
          "y" : -0.747448768114232,
@@ -7332,11 +7351,11 @@ var constellations = {
       191,
       271,
       291,
-      336,
-      342,
-      369,
-      377,
-      379
+      337,
+      343,
+      370,
+      378,
+      380
    ],
    "Cassiopeia" : [
       111,
@@ -7348,20 +7367,20 @@ var constellations = {
    ],
    "Libra" : [
       106,
-      381,
       382,
       383,
-      384
+      384,
+      385
    ],
    "Hydra" : [
       47,
       179,
       229,
-      364
+      365
    ],
    "Crux" : [
       2,
-      156,
+      "156",
       183,
       228,
       256
@@ -7389,15 +7408,15 @@ var constellations = {
       215,
       "218",
       270,
-      352,
       353,
-      370
+      354,
+      371
    ],
    "Auriga" : [
       8,
       12,
       104,
-      110,
+      "110",
       176,
       177,
       184,
@@ -7412,7 +7431,7 @@ var constellations = {
       "213",
       259,
       286,
-      373
+      374
    ],
    "Canis Major" : [
       4,
@@ -7421,8 +7440,8 @@ var constellations = {
       "239",
       241,
       331,
-      356,
-      372
+      357,
+      373
    ],
    "Triangulum" : [
       127,
@@ -7433,7 +7452,7 @@ var constellations = {
       56,
       76,
       77,
-      351
+      352
    ],
    "Aquarius" : [
       7,
@@ -7456,7 +7475,7 @@ var constellations = {
       203,
       221,
       "238",
-      290
+      "290"
    ],
    "Vulpecula" : [
       201
@@ -7467,10 +7486,10 @@ var constellations = {
       52,
       54,
       129,
-      "349"
+      "350"
    ],
    "Microscopium" : [
-      335
+      336
    ],
    "Corona Borealis" : [
       "48",
@@ -7506,8 +7525,8 @@ var constellations = {
       263,
       "264",
       267,
-      366,
-      376
+      367,
+      377
    ],
    "Capricornus" : [
       53,
@@ -7544,8 +7563,8 @@ var constellations = {
       169,
       198,
       285,
-      358,
-      363
+      359,
+      364
    ],
    "Leo Minor" : [
       272
@@ -7580,9 +7599,9 @@ var constellations = {
       231,
       289,
       309,
-      343,
-      355,
-      361
+      344,
+      356,
+      362
    ],
    "Taurus" : [
       6,
@@ -7600,11 +7619,14 @@ var constellations = {
       266,
       274,
       320,
-      "337",
       "338",
-      350,
-      359,
-      367
+      "339",
+      351,
+      360,
+      368
+   ],
+   "2" : [
+      "335"
    ],
    "Sagitta" : [
       324
@@ -7620,15 +7642,15 @@ var constellations = {
       11,
       261,
       326,
-      371
+      372
    ],
    "Lyra" : [
       23,
       "28",
       137,
       327,
-      341,
-      368
+      342,
+      369
    ],
    "Cepheus" : [
       9,
@@ -7655,13 +7677,13 @@ var constellations = {
    "Delphinus" : [
       255,
       "292",
-      "339"
+      "340"
    ],
    "Pisces" : [
       17,
       154,
       197,
-      360
+      361
    ],
    "Puppis" : [
       81,
@@ -7669,7 +7691,7 @@ var constellations = {
       "210",
       "211",
       246,
-      362
+      363
    ],
    "Cetus" : [
       131,
@@ -7681,7 +7703,7 @@ var constellations = {
       278,
       279,
       319,
-      354
+      355
    ],
    "Equueleus" : [
       192
@@ -7698,8 +7720,8 @@ var constellations = {
       282,
       301,
       330,
-      374,
-      "375"
+      375,
+      "376"
    ],
    "Aries" : [
       105,
@@ -7727,8 +7749,8 @@ var constellations = {
       283,
       "284",
       287,
-      340,
-      380
+      341,
+      381
    ],
    "Indus" : [
       260
@@ -7747,7 +7769,7 @@ var constellations = {
    "Hercules" : [
       186,
       195,
-      204,
+      "204",
       "207",
       281,
       "295",
@@ -7772,10 +7794,10 @@ var constellations = {
       262,
       299,
       313,
-      344,
       345,
-      347,
-      348
+      346,
+      348,
+      349
    ],
    "Lynx" : [
       51,
@@ -7820,20 +7842,20 @@ var constellations = {
       122,
       190,
       280,
-      307,
+      "307",
       315,
-      "357",
-      378
+      "358",
+      379
    ],
    "Canis Minor" : [
       163,
-      276
+      "276"
    ],
    "Serpens" : [
       61,
       120,
-      346,
-      365
+      347,
+      366
    ]
 }
 ;

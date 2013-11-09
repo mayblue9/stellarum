@@ -727,8 +727,10 @@ sub write_json {
             my $const = $CONSTELLATIONS{$star->{constellation}} || do {
                 $log->warn("$star->{id} $star->{name} - unknown constellation $star->{constellation}");
             };
+
+
             push @$data, {
-                id => $star->{id},
+                id => $star->{id} + 0,
                 name => $star->{name},
                 designation => $star->{bayer},
                 constellation => $const,
@@ -777,9 +779,10 @@ sub unit_vec {
 
     my $star = $params{star};
 
+
     return {
-	x => cos($star->{ra}) * cos($star->{dec}),
-	y => sin($star->{ra}) * cos($star->{dec}),
-	z => sin($star->{dec})
+        x => cos($star->{ra}) * cos($star->{dec}),
+        y => sin($star->{ra}) * cos($star->{dec}),
+        z => sin($star->{dec})
     };
 }
