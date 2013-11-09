@@ -874,7 +874,7 @@ var stars = [
       }
    },
    {
-      "magnitude" : "2.0–10.8",
+      "magnitude" : 2.0,
       "coords" : "RA 5 40' 45\" Dec -1 56' 34\"",
       "name" : "ALNITAK",
       "dec" : -0.0339078688568009,

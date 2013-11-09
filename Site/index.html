@@ -15,17 +15,12 @@
   </head>
 
   <body>
-    <div id="header">
-    <span id="title">CATALOGVS STELLARVM</span>
-    <span id="links">
-      <a href="about.html">About</a>
-    <span>
-    </div>
 
     <div id="starmap">
     </div>
 
     <div id="text" class="start">
+
       <input id="starname"
              type="text"
              class="start"
@@ -34,36 +29,56 @@
       <div id="stardesignation"></div>
       <div id="coords"></div>
       <div id="description">
-        <p>Welcome to the CATALOGUS STELLARUM, an index of local concentrations of BRIGHT MATTER.</p>
-        <p>Search for stars by typing above, select them from the celestial sphere, or press SPACE to view the Catalogus in alphabetical order.</p>
 
+        <p>Welcome to the CATALOGUS STELLARUM, an index of local
+        concentrations of BRIGHT MATTER.</p>
+
+        <p>Search for stars by name in the , select them from the
+        celestial sphere, or press the LEFT and RIGHT arrows to step
+        through in alphabetical order.</p>
       </div>
-    </div>
 
-    <div id="about">
-      <p>The CATALOGUS was originally posted on my Twitter
-      account <a href="http://twitter.com/FSVO">FSVO</a> in 2012.
-      Follow it for more parascientific nonsense.</p>
-
-      <p>This web visualisation is in beta.  It hasn't been well-tested
-        and will need a modern browser.  Any advice on problems can be
-        emailed to <a href="mailto:mike.lynch@iinet.net.au">this address</a></p>
-
-      <p>The main sources for star names and data were
-      Wikipedia, <i>Star Names: Their Lore and Meaning</i> by Richard
-      Hinckley Allen,
-      and <a href="http://stars.astro.illinois.edu/">Prof. Jim Kaler's
-      Star of the Week website.</a></p>
+    <div id="aboutctrl">ABOUT</div>
       
-      <p>Built with Michael Bostock's
-      incredible <a href="http://d3js.org">D3.js</a> visualisation library
-      and the <a href="http://jqueryui.com/">jQuery UI</a> toolkit.</p>
+    <div id="about">
+      <p>Written and coded by <a target="_blank" href="http://twitter.com/spikelynch">Mike Lynch</a>. The CATALOGUS was originally posted on my Twitter
+            account <a target="_blank" href="http://twitter.com/FSVO">FSVO</a> in
+            2012. If you like this sort of parascientific nonsense, get on board.</p>
+          
+      <p>This web visualisation is in beta.  It hasn't been
+            well-tested and will need a modern browser.  If you have
+         any bug reports or suggestions, you can get in touch with me
+         at <a href="mailto:spike.lynch@gmail.com">spike.lynch@gmail.com</a>.</p>
+      <p>The scripts used to generate the visualisation are on <a href="https://github.com/spikelynch/stellarum">Github</a>.</p>
+    
+      <p>The main sources for star names and data were
+            Wikipedia, <i>Star Names: Their Lore and Meaning</i> by
+            Richard Hinckley Allen,
+            and <a target="_blank" href="http://stars.astro.illinois.edu/">Prof. Jim
+            Kaler's Star of the Week website.</a></p>
 
-      <p>Star colour values from Mitchell
-      Charity's <a href="http://www.vendian.org/mncharity/dir3/starcolor/">star
-      colour reference page.</a>
+          <p>Star colour values from Mitchell
+      Charity's <a target="_blank" href="http://www.vendian.org/mncharity/dir3/starcolor/">star
+      colour reference page.</a></p>
+      
+          <p>Built with Michael Bostock's
+      visualisation library <a target="_blank" href="http://d3js.org">D3.js</a> and the <a target="_blank" href="http://jqueryui.com/">jQuery UI</a>
+      toolkit.</p>
+
+          <p>Collating the tweets into JSON was made easy
+      by  <a target="_blank" href="https://pinboard.in/">Pinboard,</a> the Internet's
+      finest bookmarking and web archive service.</p></p>
+
+
+          
+          <div class="hideabout">[x]</div>
+      </div>
+
+
 
     </div>
+      
+
 
     <script lang="javascript">
 
@@ -78,7 +93,6 @@
           $(this).off("focus", star_autocomplete);
           $(this).autocomplete({
               delay: 0,
-              minLength: 2,
               source: starNames,
               focus: function(e, ui) {
                   $('#starname').val(ui.item.label);
@@ -89,6 +103,7 @@
                   var id = ui.item.value;
                   var star = stars[id];
                   if( star ) {
+                     $(this).blur();
                      select_star(star, SPIN_TIME);
                   }
                   return false;
@@ -103,7 +118,40 @@
 
       $("input#starname").on("focus", star_autocomplete);
 
-      $(document).on("keypress", next_star);
+      $(document).on("keypress", function(e) {
+          if( e.which == 32 ) {
+              if( $("input#starname").is(":focus") ) {
+                  return 1;
+              } else {
+                  if ( current_star ) {
+                      var id = current_star.id;
+                      var nid = parseInt(id) + 1;
+                      if( stars[nid] ) {
+                          select_star(stars[nid], SPIN_TIME);
+                      } else {
+                          select_star(stars[0], SPIN_TIME);
+                      }
+                  } else {
+                      select_star(stars[0], SPIN_TIME);
+                  }
+              } 
+        }
+    });
+
+
+
+                          
+      $("div#aboutctrl").on("click", function(e) {
+           if( $("div#about").is(':hidden') ) { 
+                 $("div#about").show();
+           } else {
+                 $("div#about").hide();
+           }
+      });
+
+      $("div.hideabout").on("click", function(e) {
+           $("div#about").hide();
+      });
 
 
     </script>

@@ -117,6 +117,7 @@ my %CONSTELLATIONS = (
     'Lyncis'                  => 'Lynx',
     'Lyrae'                   => 'Lyra',
     'Microscopii'             => 'Microscopium',
+    'Monocerotis'             => 'Monoceros',
     'Muscae'                  => 'Musca',
     'Octantis',               => 'Octans',
     'Ophiuchi',               => 'Ophiuchus',
@@ -227,8 +228,15 @@ if( $USE_WIKI ) {
         my $star;
         if( $id ) {
             $star = shift @$stars;
-            if( $star->{name} ne $csvstar->{name} ) {
-                die "$id $star->{name} MISMATCH $csvstar->{name}\n";
+            while( $star && $star->{name} ne $csvstar->{name} ) {
+                if( $star ) {
+                    $log->error("Unmatched star $star->{name} not found in CSV: got '$csvstar->{name}'");
+                    $log->debug(Dumper({ star => $star }));
+                    $star = shift @$stars;
+                } else {
+                    $log->fatal("Ran out of stars.");
+                    die;
+                }
             }
         } else {
             # Inserts - stars not in the original list, and thus without
@@ -268,6 +276,7 @@ write_csv(stars => $outstars);
 write_json(stars => $outstars);
 
 
+
 sub read_json_stars {
     my %params = @_;
 
@@ -279,7 +288,7 @@ sub read_json_stars {
     for my $tweet ( @$tweets ) {
         my $text = $tweet->{text};
         
-        if( $text =~ /^([A-Z\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
+        if( $text =~ /^([A-Z'\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
             
             my $star = parse_tweet(
                 id => $id,
@@ -696,6 +705,9 @@ sub read_csv {
     }
 
     close $fh;
+
+    $log->debug(Dumper({csv => $data}));
+    die;
 
     return $data;
 }

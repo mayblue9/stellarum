@@ -2,14 +2,8 @@ body {
     background-color: #000;
 }
 
-h1 {
-    color: #fff;
-    font-size: 12pt;
-    font-family: Helvetica, Arial, sans-serif;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-}
+
+
 
 div#starmap {
     background-color: #000;
@@ -57,18 +51,29 @@ div#text {
     padding: 5px;
 }
 
+div#aboutctrl {
+    font-size: 8pt;
+    font-family: Helvetica, Arial, sans-serif;
+    border-top: 1px solid #888;
+    color: #888;
+    text-align: right;
+    cursor: pointer;
+    margin-top: 12pt;
+}
+
 
 div#about {
     font-size: 10pt;
     font-family: Helvetica, Arial, sans-serif;
-    opacity: 0.94;
-    position: absolute;
-    top: 420px;
-    left: 820px;
-    width: 400px;
-    padding: 5px;
-    background-color: #fff;
     display: none;
+}
+
+div.hideabout {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align:right;
+    color: #888;
+    font-size: 10pt;
+    cursor: pointer;
 }
 
 
@@ -76,7 +81,10 @@ div#about {
 input {
     font-weight: bold;
     font-size: 18pt;
-    border: none;
+    border-bottom: 1px solid #888;
+    border-top: none;
+    border-left: none;
+    border-right: none;
     outline: none;
     padding: 0px;
     width: 100%;
@@ -93,9 +101,6 @@ div#text.start {
 
 
 
-input#starname:hover {
-    background-color: #fff;
-}
 
 div#stardesignation {
     font-size: 16pt;

@@ -9,7 +9,7 @@ var position = [ 0, 0 ];
 var spinning = 0;
 var highlighted_star;
 
-var SPIN_TIME = 600;
+var SPIN_TIME = 1000;
 
 var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
@@ -115,6 +115,7 @@ function select_star(star, spin_time) {
     if( highlighted_star ) {
         star_cursor(highlighted_star, 0);
     }
+    $("div#about").hide();
 
     nodes.transition()
 	    .duration(duration)
@@ -181,7 +182,6 @@ function star_opacity(d) {
 
 function star_cursor(elt, h) {
     var id = '#' + elt.id;
-    console.log("cursor: " + id + "; " + h);
     d3.select(id).classed("highlight", h);
     if( h ) {
         highlighted_star = elt;
@@ -197,13 +197,13 @@ function show_star_text(d) {
     $("input#starname").val(d.name);
     $("div#stardesignation").text(d.designation);
     $("div#description").html(d.text);
-    $("div#coords").html(d.id);  
+    /* $("div#coords").html(d.id); */ 
     
     /* What I'm doing here: do an each-loop through all of the links,
        look up the star's circles, add a line from each link to 
        each star, and add the onclick events. 
        
-       For now I'm leaving the lines out. */
+    */
     
     $("span.link").each(
         function (index) {
@@ -251,23 +251,6 @@ function auto_complete_stars(text) {
     }
 }
 
-function next_star(evt) {
-    if( evt.which == 32 ) {
-        if ( current_star ) {
-            var id = current_star.id;
-            console.log("current = " + id);
-            var nid = parseInt(id) + 1;
-            console.log("new = " + nid);
-            if( stars[nid] ) {
-                select_star(stars[nid], SPIN_TIME);
-            } else {
-                select_star(stars[0], SPIN_TIME);
-            }
-        } else {
-            select_star(stars[0], SPIN_TIME);
-        }
-    }
-}
 
 
 function highlight_constellation(constellation) {
