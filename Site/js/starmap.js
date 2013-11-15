@@ -16,7 +16,11 @@ var STAR_OPACITY = 1;
 
 var RFACTOR = .9;
 
-var CURSOR_RADIUS = 80;
+var CURSOR_RADIUS = 13;
+var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
+
+var history = [];
+var HISTORY_L = 3;
 
 var current_star = false;
 
@@ -110,12 +114,14 @@ function select_star(star, spin_time) {
     duration = spin_time;
 
     spinning = 1;
+    var last_star = current_star;
     current_star = star;
     
     if( highlighted_star ) {
         star_cursor(highlighted_star, 0);
     }
     $("div#about").hide();
+    $(".pointer").hide();
 
     nodes.transition()
 	    .duration(duration)
@@ -123,7 +129,7 @@ function select_star(star, spin_time) {
 	        return select_tween(d, gc_interp)
 	    });
     
-    d3.selectAll("circle")
+    d3.selectAll("circle.star")
 	    .transition()
 	    .duration(duration)
 	    .styleTween("opacity", function(d, i, a) {
@@ -136,6 +142,7 @@ function select_star(star, spin_time) {
 		            star_cursor(this, 1);
 		            show_star_text(d);
 		            spinning = 0;
+                    $(".pointer").show();
 		        }
 	        });
 	    });
@@ -181,16 +188,16 @@ function star_opacity(d) {
 
 
 function star_cursor(elt, h) {
-    var id = '#' + elt.id;
-    d3.select(id).classed("highlight", h);
+    //var id = '#' + elt.id;
+    //d3.select(id).classed("highlight", h);
     if( h ) {
         highlighted_star = elt;
     } 
 }
 
 function show_star_text(d) {
-    $("div#text").removeClass("O B A F G K M C P W start");
-    $("input#starname").removeClass("O B A F G K M C P W start");
+    $("div#text").removeClass("O B A F G K M C P W S start");
+    $("input#starname").removeClass("O B A F G K M C P W S start");
     $("div#text").addClass(d.class);
     $("input#starname").addClass(d.class);
     $("div#text").removeClass("hidden");
@@ -199,11 +206,7 @@ function show_star_text(d) {
     $("div#description").html(d.text);
     /* $("div#coords").html(d.id); */ 
     
-    /* What I'm doing here: do an each-loop through all of the links,
-       look up the star's circles, add a line from each link to 
-       each star, and add the onclick events. 
-       
-    */
+    /* TODO: lines from links to circles? */
     
     $("span.link").each(
         function (index) {
@@ -221,6 +224,7 @@ function show_star_text(d) {
             }
         }
     );
+
 }
 
 
@@ -228,6 +232,40 @@ function hide_star_text() {
     $("div#text").addClass("hidden");
 }
 
+
+function update_history(star) {
+    for( i = 0; i < history.length; i++ ) {
+        if( history[i] = star ) {
+            history.length = i;
+        }
+    }
+    history.push(star);
+    console.log("history = " + history + "; " + star);
+    draw_history();
+}
+
+
+
+
+function draw_history() {
+    $('#history').empty();
+    var start = history.length - (HISTORY_L + 1);
+    if( start < 0 ) {
+        start = 0;
+    }
+
+    console.log("start = " + start);
+
+    var h = $('#history');
+
+    for( var i = start; i < history.length; i++ ) {
+        console.log("history = " + i + "   "+ history[i]);
+        if( i > start ) {
+            h.append(' | ');
+        }
+        h.append('<span class="link" star="' + history[i].id + '">' + history[i].name + '</span>');
+    }
+}
 
 
 function highlight_partial(str) {
@@ -296,7 +334,7 @@ function render_map(elt, w, h, gostar) {
     
     nodes.append("circle")
     	.attr("r", magnitude_f)
-    	.attr("class", function(d) { return d.class } )
+    	.attr("class", function(d) { return "star " + d.class } )
         .attr("id", function(d, i) { return "circle_" + i })
     	.style("opacity", star_opacity)
     	.on("click", function(d) {
@@ -306,7 +344,15 @@ function render_map(elt, w, h, gostar) {
     	    }
     	});
     
-    
+    svg.append("circle")
+        .attr("cx", cx).attr("cy", cy).attr("r", CURSOR_RADIUS)
+        .attr("class", "pointer");
+
+    svg.append("line")
+        .attr("x1", cx + CURSOR_XY)
+        .attr("y1", cy - CURSOR_XY)
+        .attr("x2", width).attr("y2", 40)
+        .attr("class", "pointer");
     
     nodes.append("title").text(function(d) { return d.name });
     

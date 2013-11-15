@@ -16,6 +16,8 @@ use WWW::Wikipedia;
 use Astro::Coords;
 use Log::Log4perl;
 
+my $TRACE_ALL_TWEETS = 1;
+
 my $LOGCONF = './log4j.properties';
 
 my $MAX_STARS = undef;
@@ -24,7 +26,7 @@ my $MAX_REDIRECTS = 5;
 
 my $USE_WIKI = 0;
 
-my $CLASS_RE = qr/^[CMKFGOBAPW]$/;
+my $CLASS_RE = qr/^[CMKFGOBAPWS]$/;
 my $DEFAULT_CLASS = 'A';
 
 my $FILEDIR = './Wikifiles/';
@@ -287,6 +289,10 @@ sub read_json_stars {
     
     for my $tweet ( @$tweets ) {
         my $text = $tweet->{text};
+        
+        if( $TRACE_ALL_TWEETS ) {
+            $log->trace($text);
+        }
         
         if( $text =~ /^([A-Z'\s]+)\s+\(([^),]*)\)\s+(.*)/ ) {
             
@@ -707,7 +713,7 @@ sub read_csv {
     close $fh;
 
     $log->debug(Dumper({csv => $data}));
-    die;
+#    die;
 
     return $data;
 }

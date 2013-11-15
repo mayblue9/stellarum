@@ -10,19 +10,14 @@ The cross-references and qvs need to be changed in the json output - so
 this may need some kind of overlay file so that the edits don't get clobbbered
 when I re-run the coordinates.
 
-ALTARF and ALTERF link to one another, but not by name
-
-Check Orion belt
-
-
----->
 
 Hand edits required:
+
+ALTARF and ALTERF link to one another, but not by name
 
 DSCHUBBA = BATENTABANS hand link, PHACD is misspelt
 EL NATH links to itself
 
+Mekbudah!
 
 
-
-Next-star and autocomplete are no longer working for Markab and Muscida
