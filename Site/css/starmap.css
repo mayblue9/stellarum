@@ -91,13 +91,24 @@ span.link {
 }
 
 
+div#history {
+    padding-top: 1em;
+    font-size: 8pt;
+}
+
+span#hlink {
+    
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+
+
 .hidden {
     display: none;
 }
 
-div#history {
-    font-size: 8pt;
-}
 
 
 

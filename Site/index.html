@@ -30,31 +30,31 @@
       <div id="coords"></div>
       <div id="description">
 
-        <p>Welcome to the CATALOGUS STELLARUM, an index of local
-        concentrations of BRIGHT MATTER.</p>
+        <p>Welcome to the CATALOGUS STELLARUM, a list of named stars in
+        the vicinity of SOL.</p>
 
         <p>You can SEARCH for stars by clicking in the field at the
         top of this box, select them from the CELESTIAL SPHERE to the
         left, or step through them in alphabetical order by pressing
         the SPACE BAR.</p>
       </div>
+
+    <div id="history"></div>
     <div id="aboutctrl">ABOUT</div>
       
     <div id="about">
       <p>Navigation:</p>
-      <ul><li>Press <b>Space</b> to move to the next star.></li>
+      <ul><li>Press <b>Space</b> to move to the next star.</li>
         <li>Start typing a <b>name</b> in the title at the top of this box to get an autocomplete list.</li>
         <li><b>Click</b> on any star in the celestial sphere to select it.</li>
       </ul>
 
+      <p>All of the star names are real (attested by at least one source) and the locations are fairly accurate. Information on individual stars is likely to be out of date and should not be relied on by travellers.</p>
+
       <p>Written and coded by <a target="_blank" href="http://twitter.com/spikelynch">Mike Lynch</a>. The CATALOGUS was originally posted on my Twitter
             account <a target="_blank" href="http://twitter.com/FSVO">FSVO</a> in
-            2012. If you like this sort of parascientific nonsense, get on board.</p>
+            2012. Follow it for updates about this site and more parascientific nonsense.</p>
 
-
-        
-
-   
        <p>This web visualisation is in beta. It only works well in Chrome, and doesn't work at all in IE.  If you have any bug reports or suggestions, you
             can get in touch with me
             at <a href="mailto:spike.lynch@gmail.com">spike.lynch@gmail.com</a>.</p>
@@ -115,12 +115,17 @@
                   return 1;
               } else {
                   if ( current_star ) {
+                      var step = 1;
                       var id = current_star.id;
-                      var nid = parseInt(id) + 1;
-                      if( stars[nid] ) {
-                          select_star(stars[nid], SPIN_TIME);
+                      var nid = parseInt(id) + step;
+                      if( nid < 0 ) {
+                          select_star(stars[stars.length - 1], SPIN_TIME);
                       } else {
-                          select_star(stars[0], SPIN_TIME);
+                          if( stars[nid] ) {
+                              select_star(stars[nid], SPIN_TIME);
+                          } else {
+                             select_star(stars[0], SPIN_TIME);
+                          }
                       }
                   } else {
                       select_star(stars[0], SPIN_TIME);

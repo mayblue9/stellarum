@@ -20,7 +20,6 @@ var CURSOR_RADIUS = 13;
 var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
 
 var history = [];
-var HISTORY_L = 3;
 
 var current_star = false;
 
@@ -114,7 +113,6 @@ function select_star(star, spin_time) {
     duration = spin_time;
 
     spinning = 1;
-    var last_star = current_star;
     current_star = star;
     
     if( highlighted_star ) {
@@ -233,12 +231,7 @@ function hide_star_text() {
 }
 
 
-function update_history(star) {
-    for( i = 0; i < history.length; i++ ) {
-        if( history[i] = star ) {
-            history.length = i;
-        }
-    }
+function add_history(star) {
     history.push(star);
     console.log("history = " + history + "; " + star);
     draw_history();
@@ -249,23 +242,21 @@ function update_history(star) {
 
 function draw_history() {
     $('#history').empty();
-    var start = history.length - (HISTORY_L + 1);
-    if( start < 0 ) {
-        start = 0;
-    }
 
-    console.log("start = " + start);
-
-    var h = $('#history');
-
-    for( var i = start; i < history.length; i++ ) {
-        console.log("history = " + i + "   "+ history[i]);
-        if( i > start ) {
-            h.append(' | ');
-        }
-        h.append('<span class="link" star="' + history[i].id + '">' + history[i].name + '</span>');
+    if( history.length > 0 ) {
+        var last = history[history.length - 1];
+        $('#history').append('<span id="hlink">⬅' + last.name + '</span>');
+        $('span#hlink').click(
+            function(e) {
+                console.log("clicked");
+                history = [];
+                select_star(last, SPIN_TIME);
+                draw_history();
+            }
+        );
     }
 }
+
 
 
 function highlight_partial(str) {
