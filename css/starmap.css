@@ -2,14 +2,8 @@ body {
     background-color: #000;
 }
 
-h1 {
-    color: #fff;
-    font-size: 12pt;
-    font-family: Helvetica, Arial, sans-serif;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-}
+
+
 
 div#starmap {
     background-color: #000;
@@ -21,27 +15,6 @@ div#starmap {
     font-size: 10pt;
 }
 
-div#cursor {
-    fill: none;
-    position: absolute;
-    top: 60px;
-    left: 0px;
-    width: 800px;
-    height: 800px;
-    border: 1px solid red;
-}
-
-
-div#controls {
-    font-size: 16pt;
-    font-family: Helvetica, Arial, sans-serif;
-    opacity: 0.94;
-    background-color: #fff;
-    position: absolute;
-    top: 400px;
-    left: 820px;
-    width: 400px;
-}
 
 /* The star description box */
 
@@ -52,15 +25,45 @@ div#text {
     opacity: 0.94;
     position: absolute;
     top: 20px;
-    left: 820px;
+    left: 800px;
     width: 400px;
     padding: 5px;
 }
 
+div#aboutctrl {
+    font-size: 8pt;
+    font-family: Helvetica, Arial, sans-serif;
+    border-top: 1px solid #888;
+    color: #888;
+    text-align: right;
+    cursor: pointer;
+    margin-top: 12pt;
+}
+
+
+div#about {
+    font-size: 10pt;
+    font-family: Helvetica, Arial, sans-serif;
+    display: none;
+}
+
+div.hideabout {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align:right;
+    color: #888;
+    font-size: 10pt;
+    cursor: pointer;
+}
+
+
+
 input {
     font-weight: bold;
     font-size: 18pt;
-    border: none;
+    border-bottom: 1px solid #888;
+    border-top: none;
+    border-left: none;
+    border-right: none;
     outline: none;
     padding: 0px;
     width: 100%;
@@ -75,17 +78,26 @@ div#text.start {
     background-color: #fff;
 }
 
-
-
-input#starname:hover {
-    background-color: #fff;
-}
-
 div#stardesignation {
     font-size: 16pt;
+    text-align: right;
 }
 
 span.link {
+    font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+
+
+div#history {
+    padding-top: 1em;
+    font-size: 8pt;
+}
+
+span#hlink {
+    
     font-weight: bold;
     text-decoration: underline;
     color: blue;
@@ -109,6 +121,8 @@ circle {
 /* Star colour classes
    from http://www.vendian.org/mncharity/dir3/starcolor/ */
 
+/* #ca0bc8 */
+
 circle.O { fill: #9bb0ff }  
 circle.B { fill: #aabfff }  
 circle.A { fill: #cad7ff }  
@@ -117,8 +131,9 @@ circle.G { fill: #fff4ea }
 circle.K { fill: #ffd2a1 }  
 circle.M { fill: #ffcc6f }  
 circle.C { fill: #ff8080 }  
-circle.P { fill: #cc0033 } 
-circle.W { fill: #ffffff }
+circle.P { fill: #ca0bc8 } 
+circle.W { fill: #ddddff }
+circle.S { fill: #ffffff }
 
 div.O { background-color: #9bb0ff }  
 div.B { background-color: #aabfff }  
@@ -128,8 +143,9 @@ div.G { background-color: #fff4ea }
 div.K { background-color: #ffd2a1 }  
 div.M { background-color: #ffcc6f }  
 div.C { background-color: #ff8080 }  
-div.P { background-color: #cc0033 }  
-div.W { background-color: #ffffff }
+div.P { background-color: #ca0bc8 }  
+div.W { background-color: #ddddff }
+div.S { background-color: #ffffff }
 
 input.O { background-color: #9bb0ff }  
 input.B { background-color: #aabfff }  
@@ -139,19 +155,36 @@ input.G { background-color: #fff4ea }
 input.K { background-color: #ffd2a1 }  
 input.M { background-color: #ffcc6f }  
 input.C { background-color: #ff8080 }  
-input.P { background-color: #cc0033 }  
-input.W { background-color: #ffffff }
+input.P { background-color: #ca0bc8 }  
+input.W { background-color: #ddddff }
+input.S { background-color: #ffffff }
 
 
 circle.hidden { 
-    background-color: #f00;
     display:none  
 }
 
 
 circle.highlight {
     stroke-width: 2px;
-    stroke: #0f0;
+    stroke: #23f3b1;
+}
+
+    /* stroke: #23f3b1; */
+
+circle.pointer {
+    stroke-width: 2px;
+    stroke: #fff;
+    opacity: 60%;
+    fill: none;
+    display: none;
+}
+
+line.pointer {
+    stroke-width: 2px;
+    stroke: #fff;
+    opacity: 60%;
+    display: none;
 }
 
 text {

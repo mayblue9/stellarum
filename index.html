@@ -15,17 +15,12 @@
   </head>
 
   <body>
-    <div id="header">
-    <span id="title">CATALOGVS STELLARVM</span>
-    <span id="links">
-      <a href="about.html">About</a>
-    <span>
-    </div>
 
     <div id="starmap">
     </div>
 
     <div id="text" class="start">
+
       <input id="starname"
              type="text"
              class="start"
@@ -34,13 +29,47 @@
       <div id="stardesignation"></div>
       <div id="coords"></div>
       <div id="description">
-        <p>Welcome to the CATALOGUS STELLARUM, an index of local concentrations of BRIGHT MATTER.</p>
-        <p>Search for stars by typing above, select them from the celestial sphere, or press SPACE to view the Catalogus in alphabetical order.</p>
 
+        <p>Welcome to the CATALOGUS STELLARUM, a list of named stars in
+        the vicinity of SOL.</p>
+
+        <p>You can SEARCH for stars by clicking in the field at the
+        top of this box, select them from the CELESTIAL SPHERE to the
+        left, or step through them in alphabetical order by pressing
+        the SPACE BAR.</p>
       </div>
-    </div>
 
-                              
+    <div id="history"></div>
+    <div id="aboutctrl">ABOUT</div>
+      
+    <div id="about">
+      <p>Navigation:</p>
+      <ul><li>Press <b>Space</b> to move to the next star.</li>
+        <li>Start typing a <b>name</b> in the title at the top of this box to get an autocomplete list.</li>
+        <li><b>Click</b> on any star in the celestial sphere to select it.</li>
+      </ul>
+
+      <p>All of the star names are real (attested by at least one source) and the locations are fairly accurate. Information on individual stars is likely to be out of date and should not be relied on by travellers.</p>
+
+      <p>Written and coded by <a target="_blank" href="http://twitter.com/spikelynch">Mike Lynch</a>. The CATALOGUS was originally posted on my Twitter
+            account <a target="_blank" href="http://twitter.com/FSVO">FSVO</a> in
+            2012. Follow it for updates about this site and more parascientific nonsense.</p>
+
+       <p>This web visualisation is in beta. It only works well in Chrome, and doesn't work at all in IE.  If you have any bug reports or suggestions, you
+            can get in touch with me
+            at <a href="mailto:spike.lynch@gmail.com">spike.lynch@gmail.com</a>.</p>
+      <p>The scripts used to generate the visualisation are on <a href="https://github.com/spikelynch/stellarum">Github</a>.</p>
+    
+      <p>Stellarum release v 1.0 "Bok globule"</p>
+          
+          <div class="hideabout">[x]</div>
+      </div>
+
+
+
+    </div>
+      
+
 
     <script lang="javascript">
 
@@ -55,7 +84,6 @@
           $(this).off("focus", star_autocomplete);
           $(this).autocomplete({
               delay: 0,
-              minLength: 2,
               source: starNames,
               focus: function(e, ui) {
                   $('#starname').val(ui.item.label);
@@ -66,6 +94,7 @@
                   var id = ui.item.value;
                   var star = stars[id];
                   if( star ) {
+                     $(this).blur();
                      select_star(star, SPIN_TIME);
                   }
                   return false;
@@ -80,7 +109,45 @@
 
       $("input#starname").on("focus", star_autocomplete);
 
-      $(document).on("keypress", next_star);
+      $(document).on("keypress", function(e) {
+          if( e.which == 32 ) {
+              if( $("input#starname").is(":focus") ) {
+                  return 1;
+              } else {
+                  if ( current_star ) {
+                      var step = 1;
+                      var id = current_star.id;
+                      var nid = parseInt(id) + step;
+                      if( nid < 0 ) {
+                          select_star(stars[stars.length - 1], SPIN_TIME);
+                      } else {
+                          if( stars[nid] ) {
+                              select_star(stars[nid], SPIN_TIME);
+                          } else {
+                             select_star(stars[0], SPIN_TIME);
+                          }
+                      }
+                  } else {
+                      select_star(stars[0], SPIN_TIME);
+                  }
+              } 
+        }
+    });
+
+
+
+                          
+      $("div#aboutctrl").on("click", function(e) {
+           if( $("div#about").is(':hidden') ) { 
+                 $("div#about").show();
+           } else {
+                 $("div#about").hide();
+           }
+      });
+
+      $("div.hideabout").on("click", function(e) {
+           $("div#about").hide();
+      });
 
 
     </script>

@@ -7,16 +7,19 @@ var nodes;
 var position = [ 0, 0 ];
 
 var spinning = 0;
-var highlighted_circle;
+var highlighted_star;
 
-var SPIN_TIME = 600;
+var SPIN_TIME = 1000;
 
 var STAR_THRESHOLD = 400;
 var STAR_OPACITY = 1;
 
 var RFACTOR = .9;
 
-var CURSOR_RADIUS = 80;
+var CURSOR_RADIUS = 13;
+var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
+
+var history = [];
 
 var current_star = false;
 
@@ -112,13 +115,19 @@ function select_star(star, spin_time) {
     spinning = 1;
     current_star = star;
     
+    if( highlighted_star ) {
+        star_cursor(highlighted_star, 0);
+    }
+    $("div#about").hide();
+    $(".pointer").hide();
+
     nodes.transition()
 	    .duration(duration)
 	    .attrTween("transform", function(d, i, a) {
 	        return select_tween(d, gc_interp)
 	    });
     
-    d3.selectAll("circle")
+    d3.selectAll("circle.star")
 	    .transition()
 	    .duration(duration)
 	    .styleTween("opacity", function(d, i, a) {
@@ -127,10 +136,11 @@ function select_star(star, spin_time) {
 	    .each("end", function(e) {
 	        d3.select(this).each(function(d, i) {
 		        if( d.id == star.id ) {
-		            highlight_star_circle(this);
                     hide_star_text();
+		            star_cursor(this, 1);
 		            show_star_text(d);
 		            spinning = 0;
+                    $(".pointer").show();
 		        }
 	        });
 	    });
@@ -175,29 +185,26 @@ function star_opacity(d) {
 }
 
 
-function highlight_star_circle(elt) {
-    // d3.select(elt).attr("class", "cursor");
-    d3.select(elt).classed("highlight", 1);
-    highlighted_circle = elt;
-    console.log("Highlighted " + elt.id);
+function star_cursor(elt, h) {
+    //var id = '#' + elt.id;
+    //d3.select(id).classed("highlight", h);
+    if( h ) {
+        highlighted_star = elt;
+    } 
 }
 
 function show_star_text(d) {
-    $("div#text").removeClass("O B A F G K M C P W start");
-    $("input#starname").removeClass("O B A F G K M C P W start");
+    $("div#text").removeClass("O B A F G K M C P W S start");
+    $("input#starname").removeClass("O B A F G K M C P W S start");
     $("div#text").addClass(d.class);
     $("input#starname").addClass(d.class);
     $("div#text").removeClass("hidden");
     $("input#starname").val(d.name);
     $("div#stardesignation").text(d.designation);
     $("div#description").html(d.text);
-/*    $("div#coords").html(d.coords);  */
+    /* $("div#coords").html(d.id); */ 
     
-    /* What I'm doing here: do an each-loop through all of the links,
-       look up the star's circles, add a line from each link to 
-       each star, and add the onclick events. 
-       
-       For now I'm leaving the lines out. */
+    /* TODO: lines from links to circles? */
     
     $("span.link").each(
         function (index) {
@@ -215,14 +222,39 @@ function show_star_text(d) {
             }
         }
     );
+
 }
 
 
 function hide_star_text() {
-    if( highlighted_circle ) {
-	    d3.select(highlighted_circle).classed("highlight", 0);
-    }
     $("div#text").addClass("hidden");
+}
+
+
+function add_history(star) {
+    history.push(star);
+    console.log("history = " + history + "; " + star);
+    draw_history();
+}
+
+
+
+
+function draw_history() {
+    $('#history').empty();
+
+    if( history.length > 0 ) {
+        var last = history[history.length - 1];
+        $('#history').append('<span id="hlink">⬅' + last.name + '</span>');
+        $('span#hlink').click(
+            function(e) {
+                console.log("clicked");
+                history = [];
+                select_star(last, SPIN_TIME);
+                draw_history();
+            }
+        );
+    }
 }
 
 
@@ -248,20 +280,6 @@ function auto_complete_stars(text) {
     }
 }
 
-function next_star(evt) {
-    if( evt.which == 32 ) {
-        if ( current_star ) {
-            var id = current_star.id;
-            if( stars[id + 1] ) {
-                select_star(stars[id + 1], SPIN_TIME);
-            } else {
-                select_star(stars[0], SPIN_TIME);
-            }
-        } else {
-            select_star(stars[0], SPIN_TIME);
-        }
-    }
-}
 
 
 function highlight_constellation(constellation) {
@@ -307,7 +325,7 @@ function render_map(elt, w, h, gostar) {
     
     nodes.append("circle")
     	.attr("r", magnitude_f)
-    	.attr("class", function(d) { return d.class } )
+    	.attr("class", function(d) { return "star " + d.class } )
         .attr("id", function(d, i) { return "circle_" + i })
     	.style("opacity", star_opacity)
     	.on("click", function(d) {
@@ -317,7 +335,15 @@ function render_map(elt, w, h, gostar) {
     	    }
     	});
     
-    
+    svg.append("circle")
+        .attr("cx", cx).attr("cy", cy).attr("r", CURSOR_RADIUS)
+        .attr("class", "pointer");
+
+    svg.append("line")
+        .attr("x1", cx + CURSOR_XY)
+        .attr("y1", cy - CURSOR_XY)
+        .attr("x2", width).attr("y2", 40)
+        .attr("class", "pointer");
     
     nodes.append("title").text(function(d) { return d.name });
     
@@ -334,6 +360,7 @@ function render_map(elt, w, h, gostar) {
             select_star(star, 0);
         }
     }
+
 
 }
 
