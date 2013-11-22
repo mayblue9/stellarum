@@ -56,31 +56,8 @@ function rotate3(vect3, ra, dec) {
     return rvect3
 }
 
-// projection_isometric(d, coords) -
-//
-// d = a star; coords = stellar coordinates for the current star
-//
-// Takes D's unit vector, rotates it by coords, then does an isometric
-// projection to the plane and returns a 'translate(x, y)' string.
 
-
-function projection_isometric(d, coords) {
-    var rvect = rotate3(
-	    [ d.vector.x, d.vector.y, d.vector.z ],
-	    coords[0], coords[1]
-    );
-    x = cx + R * rvect[1];
-    y = cy + R * rvect[2];
-    z = R * rvect[0];
-    d.x = x;
-    d.y = y;
-    d.z = z;
-    
-    return "translate(" + x + "," + y + ")";
-}
-
-
-// The first magnitude -> radius  function
+//// Functions for rendering stars on the celestial sphere
 
 function magnitude_f(d) {
     var size = 10 / Math.sqrt(1.5 + d.magnitude * .5);
@@ -91,30 +68,19 @@ function magnitude_f(d) {
 }
 
 
+function star_sphere(d, coords) {
 
-function make_gc_interp(a, b) {
-    var interp = d3.geo.interpolate(
-	    [ rad2deg(a[0]), rad2deg(a[1]) ],
-	    [ rad2deg(b[0]), rad2deg(b[1]) ]
+    var rvect = rotate3(
+	    [ d.vector.x, d.vector.y, d.vector.z ],
+	    deg2rad(coords[0]), deg2rad(coords[1])
     );
-    
-    return function(t) {
-	    var p = interp(t);
-	    return [ deg2rad(p[0]), deg2rad(p[1]) ];
-    }
-}
-
-function gc_position_tween(d, gc_interp) {
-    return function(t) {
-	    return projection_isometric(d, gc_interp(t))
-    }
-}
-
-function opacity_tween(d, gc_interp) {
-    return function(t) {
-	    projection_isometric(d, gc_interp(t));
-	    return star_opacity(d);
-    }
+    x = cx + R * rvect[1];
+    y = cy + R * rvect[2];
+    z = R * rvect[0];
+    d.x = x;
+    d.y = y;
+    d.z = z;
+    return d;
 }
 
 
@@ -129,80 +95,6 @@ function star_opacity(d) {
 }
 
 
-// select_star(star, spin_time)
-//
-// Rotates the sphere from the current position (stored in the
-// global 'position') to the coords [ -star.ra, -star.dec ] (which
-// centre the selected star.
-//
-// Uses the d3.geo interpolation toolkit so that the star's tween
-// paths are great circles, which makes the sphere look realistic.
-//
-// How it works:
-//
-// gc_interp is a great circle interpolator function from one set
-// of position coordinates to another.
-//
-// Each star gets its own position tween by passing its datum and
-// gc_interp into gc_position_tween.  The tween function returned
-// by this returns the actual transform for the move.
-//
-// Each star also gets an opacity tween function from opacity_tween.
-// This changes the opacity based on the z-coordinate (far stars are
-// fainter) for the same set of coordinates. 
-//
-// The tween functions are then passed to the nodes (which are svg groups
-// and control the position) and the circles (for the opacity).
-//
-// A separate set of transition/tween functions f
-
-
-function select_star(star, spin_time) {
-
-    new_spinner(star, spin_time);
-    return;
-
-    gc_interp = make_gc_interp(position, [ -star.ra, -star.dec ]);
-    
-    var duration = 0;
-
-    duration = spin_time;
-
-    stars_moving = 1;
-    current_star = star;
-    
-    $("div#about").hide();
-    $(".pointer").hide();
-
-    nodes.transition()
-	    .duration(duration)
-	    .attrTween("transform", function(d, i, a) {
-	        return gc_position_tween(d, gc_interp)
-	    });
-    
-    d3.selectAll("circle.star")
-	    .transition()
-	    .duration(duration)
-	    .styleTween("opacity", function(d, i, a) {
-	        return opacity_tween(d, gc_interp)
-	    })
-	    .each("end", function(e) {
-	        d3.select(this).each(function(d, i) {
-		        if( d.id == star.id ) {
-                    hide_star_text();
-		            show_star_text(d);
-		            stars_moving = 0;
-                    $(".pointer").show();
-		        }
-	        });
-	    });
-    
-    position = [ -star.ra, -star.dec ];
-}
-
-
-
-////////////////////////////// NEW TRANSITIONS /////////////////////
 
 // generalised transition function.
 //
@@ -240,7 +132,7 @@ function stars_transition(interp_f, duration, after_f) {
 
 
 
-function new_spinner(star, spintime) {
+function select_star(star, spintime) {
 
     var start, finish;
 
@@ -262,18 +154,7 @@ function new_spinner(star, spintime) {
     
     var tween_f = function(d) {
         return function(t) {
-            coords = great_circle(t);
-            var rvect = rotate3(
-	            [ d.vector.x, d.vector.y, d.vector.z ],
-	            deg2rad(coords[0]), deg2rad(coords[1])
-            );
-            x = cx + R * rvect[1];
-            y = cy + R * rvect[2];
-            z = R * rvect[0];
-            d.x = x;
-            d.y = y;
-            d.z = z;
-            return d;
+            return star_sphere(d, great_circle(t));
         }
     };
 
@@ -294,21 +175,10 @@ function new_spinner(star, spintime) {
     
 }
 
-// new_gc_interp(start, finish)
-// 
-// Create an interpolater factory function which returns an interpolator
 
-function new_gc_interp(start, finish) {
-
-}
-    
-
-
-
-
-
-
-
+///// Functions for displaying/hiding the star text
+//
+//
 
 function show_star_text(d) {
     $("div#text").removeClass("O B A F G K M C P W S start");
@@ -437,7 +307,8 @@ function render_map(elt, w, h, gostar) {
     	.append("g")
     	.attr("transform",
     	      function(d) {
-    		      return projection_isometric(d, [0, 0])
+    		      var s = star_sphere(d, [0, 0]);
+                  return "translate(" + s.x + "," + s.y + ")";
     	      });
     
     nodes.append("circle")

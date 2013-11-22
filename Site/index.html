@@ -114,9 +114,9 @@
               if( $("input#starname").is(":focus") ) {
                   return 1;
               } else {
-                  if ( current_star ) {
+                  if ( centre_star ) {
                       var step = 1;
-                      var id = current_star.id;
+                      var id = centre_star.id;
                       var nid = parseInt(id) + step;
                       if( nid < 0 ) {
                           select_star(stars[stars.length - 1], SPIN_TIME);
