@@ -1,0 +1,87 @@
+{{Expert-subject|Astronomical objects|date=February 2009}}
+{{Starbox begin
+| name=HD 101065
+}}
+{{Starbox observe
+| epoch=J2000
+| ra={{RA|11|37|37.04050}}<ref name=aaa474_2_653/>
+| dec={{DEC|–46|42|34.8768}}<ref name=aaa474_2_653/>
+| appmag_v=8.02<ref name=mnras177/>
+| constell=[[Centaurus]]
+}}
+{{Starbox character
+| class=B5p
+| b-v=+0.76<ref name=mnras177/>
+| u-b=+0.20<ref name=mnras177/>
+| variable= 
+}}
+{{Starbox astrometry
+| radial_v=+10.2<ref name=pasp75_445_349/>
+| prop_mo_ra=–47.36<ref name=aaa474_2_653/>
+| prop_mo_dec=+34.44<ref name=aaa474_2_653/>
+| parallax=8.93
+| p_error=0.87
+| parallax_footnote=<ref name=aaa474_2_653/>
+| absmag_v= 
+}}
+{{Starbox detail
+| mass={{nowrap|4.0 ± 0.1}}<ref name=mnras410_1_190/>
+| gravity=4.2<ref name=mnras317/>
+| radius=
+| luminosity=
+| temperature=6,600<ref name=mnras317/>
+| metal_fe=–2.40<ref name=mnras178_71/>
+| rotational_velocity=
+| age_myr={{nowrap|56.6 ± 27.9}}<ref name=mnras410_1_190/>
+}}
+{{Starbox catalog
+| names=V816 Cen, [[Cordoba Durchmusterung|CD]]-46&nbsp;7232, [[Henry Draper catalogue|HD]]&nbsp;101065, [[Hipparcos catalogue|HIP]]&nbsp;56709, [[Smithsonian Astrophysical Observatory|SAO]]&nbsp;222918.<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Przybylski's Star''' {{IPAc-en|ʃ|ɨ|ˈ|b|ɪ|l|s|k|i|z|_|s|t|ɑr}}, or '''HD 101065''', is a [[peculiar star]] that is located at a distance of roughly {{Convert|370|ly|pc|abbr=off|lk=on}} from the [[Sun]] in the southern [[constellation]] of [[Centaurus]].
+
+==Scientific history==
+In 1961, the Polish-Australian astronomer [[Antoni Przybylski]] (Polish pronunciation {{IPAc-pl|'|a|n|t|o|ni|i|-|p|sz|y|'|b|y|l|s|k|i}}) discovered that this star had a peculiar spectrum that would not fit into the standard framework for [[stellar classification]].<ref name=pasp75_445_349/> Przybylski's observations indicated unusually low amounts of [[iron]] and [[nickel]] in the star's [[spectrum]], but higher amounts of unusual elements like [[strontium]], [[niobium]], [[scandium]], [[yttrium]], [[caesium]], [[neodymium]], [[praseodymium]], [[thorium]], [[ytterbium]], and [[uranium]]. In fact, at first Przybylski doubted that iron was present in the spectrum at all. Modern work shows that the iron-group elements are somewhat below normal in abundance, but it is clear that the [[lanthanide]]s and other exotic elements are highly overabundant. As a result of these peculiar abundances this star belongs firmly in the [[Ap star]] class.
+
+Compared to neighboring stars, HD&nbsp;101065 has a high [[peculiar velocity]] of {{nowrap|23.8 ± 1.9 km s<sup>–1</sup>}}.<ref name=mnras410_1_190/>
+
+==Rapid oscillations==
+HD 101065 is the prototype star of the [[Rapidly oscillating Ap stars|roAp star]] class. It was discovered to pulsate photometrically in 1978<ref>[http://www.konkoly.hu/cgi-bin/IBVS?1436 Kurtz, D.W. Information Bulletin on Variable Stars, vol 1436, 1978]</ref> with a period of 12.15 min.
+
+== See also ==
+ {{Portal|Star}}
+*[[Peculiar star]]
+*[[Normal star]]
+
+==References==
+{{reflist|refs=
+
+<ref name=aaa474_2_653>{{citation | first1=Floor | last1=van Leeuwen | month=November | year=2007 | title=Validation of the new Hipparcos reduction | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&A...474..653V | arxiv=0708.1752v1 | doi=10.1051/0004-6361:20078357 | journal=Astronomy and Astrophysics }} ''Note:'' see VizieR catalogue [http://vizier.u-strasbg.fr/viz-bin/Cat?I/311 I/311].</ref>
+
+<ref name=SIMBAD>{{cite web | url=http://cdsweb.u-strasbg.fr/cgi-bin/bibobj?2004A%26A...415..661H&HD+101065 | title=V816 Cen -- Variable Star | work=SIMBAD Astronomical Object Database | publisher=Centre de Données astronomiques de Strasbourg | accessdate=2008-06-06 }}</ref>
+
+<ref name=mnras177>{{cite journal | last=Wegner | first=G. | title=On the reddening and the effective temperature of HD 101065 | journal=Monthly Notices of the Royal Astronomical Society | year=1976 | volume=177 | pages=99&ndash;108 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=mnras317>{{cite journal | last=Cowley | first=C. R. | last2=Ryabchikova | first2=T. | last3=Kupka | first3=F. | last4=Bord | first4=D. J. | last5=Mathys | first5=G. | last6=Bidelman | first6=W. P. | title=Abundances in Przybylski's star | journal=Monthly Notices of the Royal Astronomical Society | year=2000 | volume=317 | issue=2 | pages=299–309 | bibcode=2000MNRAS.317..299C | doi=10.1046/j.1365-8711.2000.03578.x }}</ref>
+
+<ref name=mnras178_71>{{cite journal | last1=Przybylski | first1=A. | title=Is iron present in the atmosphere of HD 101065 | journal=Monthly Notices of the Royal Astronomical Society | volume=178 | pages=71–84 | month=January | year=1977 | bibcode=1977MNRAS.178...71P }}</ref>
+
+<ref name=pasp75_445_349>{{cite journal | last1=Przybylski | first1=A. | last2=Kennedy | first2=P. Morris | title=The Spectrum of HD 101065 | journal=Publications of the Astronomical Society of the Pacific | volume=75 | issue=445 | pages=349–353 | month=August | year=1963 | doi=10.1086/127965 | bibcode=1963PASP...75..349P }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T |arxiv = 1007.4883 }}</ref>
+
+}}
+
+==External links==
+*[http://www.astro.lsa.umich.edu/~cowley/AAS0503CHB/ Actinides in HD 101065 (Przybylski's Star)] by C. R. Cowley, S. Hubrig, and D. J. Bord
+*[http://www.astro.lsa.umich.edu/~cowley/przyb.html Przybylski's Most Unusual Star]
+
+{{Stars of Centaurus}}
+
+[[Category:Centaurus (constellation)]]
+[[Category:Astrophysics]]
+[[Category:B-type stars]]
+[[Category:Peculiar stars]]
+[[Category:Objects named with variable star designations|Centauri, V816]]
+[[Category:Henry Draper Catalogue objects|101065]]

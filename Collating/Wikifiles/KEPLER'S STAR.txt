@@ -1,0 +1,71 @@
+{{ Infobox supernova |
+| name = SN 1604
+| image = [[Image:Keplers supernova.jpg|300px]]
+| caption= A [[false-color]] [[Digital compositing|composite]] ([[Hubble Space Telescope|HST]]/[[SIRTF]]) image of the supernova remnant nebula from SN 1604.<br/>Credit: HST/[[NASA]]/[[ESA]].
+| type = [[Type Ia supernovae|Ia]] <ref name="chandra">{{cite web
+  | title = Chandra X-Ray Observatory
+  | work = Kepler's Supernova Remnant: A Star's Death Comes to Life
+  | url = http://chandra.harvard.edu/photo/2007/kepler/index.html
+  | accessdate = 2006-01-16 }}</ref>
+| epoch = J2000
+| SNRtype = Shell
+| host = [[Milky Way]]
+| constellation = [[Ophiuchus]]
+| ra = {{RA|17|30|42}}
+| dec = {{DEC|−21|29}}
+| gal = G4.5+6.8
+| discovery = October 9, 1604
+| iauc = 
+| mag_v  = −2.25 to −2.5
+| distance = {{convert|20000|ly|kpc|lk=on}}
+| progenitor = Unknown
+| progenitor_type = Unknown
+| b-v = Unknown
+| notes = Latest observed supernova<br>in our galaxy.<br>Maintained naked-eye<br>visibility for 18 months.
+}}
+__NOTOC__
+'''Supernova 1604''', also known as '''Kepler's Supernova''', '''Kepler's Nova''' or '''Kepler's Star''', was a [[supernova]] that occurred in the [[Milky Way]], in the constellation [[Ophiuchus]]. Appearing in 1604, it is the most recent supernova to have been unquestionably observed by the naked eye in our own [[galaxy]], occurring no farther than {{convert|6|kpc|ly|abbr=off|disp=x| or about }} from [[Earth]].{{cn|date = October 2013}}
+
+Visible to the [[naked eye]], Kepler's Star was brighter at its peak than any other [[star]] in the [[night sky]], and brighter than all the [[planets]] other than [[Venus]], with an [[apparent magnitude]] of −2.5. It was visible during the day for over three weeks.{{cn|date = October 2013}}
+{|align="left" cellspacing="0" cellpadding="0"
+|[[File:Kepler Drawing of SN 1604.png|thumb|upright|left|[[Johannes Kepler]]'s original drawing depicting the location of the ''stella nova'', marked with an ''N'' (8 grid squares down, 4 over from the left).]]
+|}
+
+The first recorded observation was in northern Italy on October 9, 1604.<ref>L. Colombe, ''Discorso, Nel quale si dimostra, che la nuova Stella apparita l'Octobre passato 1604 nel Sagittario...'' (Florence, n.d.).</ref> [[Johannes Kepler]] began observing the luminous display while working at the imperial court in [[Prague]] for [[Rudolf II, Holy Roman Emperor|Emperor Rudolf II]] on October 17.<ref>{{Cite web |url=http://fuse.pha.jhu.edu/~wpb/Kepler/kepler.html |title=Bill Blair's Kepler's Supernova Remnant Page |accessdate=October 7, 2009 |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}.</ref>  It was subsequently named after him because his observations tracked the object for an entire year and because of his book on the subject, entitled ''De Stella nova in pede Serpentarii'' ("On the new star in Ophiuchus's foot", Prague 1606).{{cn|date = October 2013}}<!--for this being the reason-->
+
+It was the second supernova to be observed in a generation (after [[SN 1572]] seen by [[Tycho Brahe]] in [[Cassiopeia (constellation)|Cassiopeia]]). No further supernovae have since been observed with certainty in the Milky Way, though many others outside our galaxy have been seen since [[S Andromedae]]{{cn|date = October 2013}} and [[SN 1987A]] in the [[Large Magellanic Cloud]] was visible to the naked eye. 
+
+Present day astronomical evidence exists for a Milky Way supernova whose signal would have reached Earth ca 1680 ([[Cassiopeia A]]), and another object whose light should have arrived ca 1870. However there is no historical record of either having been detected at the time, by the unaided human eye.<ref>{{cite web
+  | title = Chandra X-Ray Observatory
+  | work = Discovery of Most Recent Supernova in Our Galaxy, May 14, 2008
+  | url = http://chandra.harvard.edu/press/08_releases/press_051408.html
+  | accessdate = 2012-05-02}}</ref>
+
+The [[supernova remnant]] resulting from this supernova is considered to be one of the prototypical objects of its kind, and is still an object of much study in [[astronomy]].{{cn|date = October 2013}}
+
+==See also==
+*[[List of supernova remnants]]
+*[[Black hole]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{Cite journal |last=Blair |first=William P. |last2=Long |first2=Knox S. |last3=Vancura |first3=Olaf |year=1991 |title=A detailed optical study of Kepler's supernova remnant |journal=Astrophysical Journal |volume=366 |issue= |pages=484–494 |doi=10.1086/169583 |bibcode=1991ApJ...366..484B |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}.
+*{{cite journal |last=Sule |first=A. |last2=et al. |title=Indian Record for Kepler's Supernova: Evidence from Kashmir Valley |journal=Astronomische Nachrichten |volume=332 |issue=6 |pages=655–657 |year=2011 |doi=10.1002/asna.201011555 }}
+
+==External links==
+{{Commons category}}
+*[http://www.seds.org/~spider/spider/Vars/sn1604.html Nine Planets page on SN1604]
+
+{{sky|17|30|38.5|-|21|28|48|20000}}
+
+{{Supernovae}}
+{{Johannes Kepler}}
+
+{{DEFAULTSORT:Sn 1604}}
+[[Category:Ophiuchus (constellation)]]
+[[Category:Supernova remnants]]
+[[Category:Johannes Kepler]]
+[[Category:1604 in science]]
+[[Category:1604]]

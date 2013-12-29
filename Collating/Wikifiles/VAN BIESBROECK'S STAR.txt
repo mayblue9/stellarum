@@ -1,0 +1,161 @@
+{{Starbox begin
+| name = VB 10
+}}
+{{Starbox image
+| image = [[Image:VB10 mov2.gif|250px]]
+| caption = An animation of images taken with the {{convert|200|in|m|abbr=on}} [[Hale Telescope]] over a period of nine years showing the [[proper motion]] of VB 10.
+}}
+{{Starbox observe 
+| epoch = J2000
+| constell = [[Aquila (constellation)|Aquila]]
+| appmag_v = 9.13<ref name="SIMBAD-2"/>
+| ra = {{RA|19|16|57.62}}<ref name="SIMBAD"/> 
+| dec = {{DEC|+05|09|02.2}}<ref name="SIMBAD"/>
+| appmag_v = 17.30<ref name="SIMBAD"/>
+}}
+{{Starbox character
+| class = M8V<ref name="SIMBAD"/>
+| appmag_1_passband = B
+| appmag_1 = ~19.42<ref name="SIMBAD"/>
+| appmag_2_passband = R
+| appmag_2 = ~15.6<ref name="SIMBAD"/>
+| appmag_3_passband = J
+| appmag_3 = 9.908 ±0.025<ref name="SIMBAD"/>
+| appmag_4_passband = H
+| appmag_4 = 9.226 ±0.026<ref name="SIMBAD"/>
+| appmag_5_passband = K
+| appmag_5 = 8.765 ±0.022<ref name="SIMBAD"/>
+| variable = UV<ref name="flare-1"/>
+}}
+{{Starbox astrometry
+| radial_v = <!--Radial velocity (in km/sec)-->
+| prop_mo_ra = -614<ref name="SIMBAD"/>
+| prop_mo_dec = -1368<ref name="SIMBAD"/>
+| parallax = 164.3<ref name="SIMBAD"/>
+| p_error = 3.5<ref name="SIMBAD"/>
+| parallax_footnote = <!--Parallax footnote-->
+| dist_ly = 18.72
+| dist_pc = 5.74<ref name="Linsky"/>
+| absmag_v = 18.7<ref name="Biesbroeck"/>
+}}
+{{Starbox detail
+| source = <!--[source url]-->
+| mass = 0.075 ±.05<ref name="disc"/>
+| radius = ~0.102<ref name="Linsky"/>
+| gravity = <!--Surface gravity (given as the base 10 logarithm expressed in cgs units)-->
+| luminosity = <!--Luminosity (in solar luminosities); prefer luminosity_bolometric or luminosity_visual-->
+| luminosity_bolometric = <!--Luminosity (in solar luminosities), bolometric-->
+| luminosity_visual = <!--Luminosity (in solar luminosities), visual (V)-->
+| temperature = ~2600<ref name="Linsky"/>
+| metal = ~0<ref name="disc"/>
+| rotation = <!--Rotation (no units provided by template)-->
+| rotational_velocity = <!--Rotational velocity (v sin i, in km/s)-->
+| age = ~10<sup>9</sup><ref name="disc"/>
+}}
+{{Starbox catalog
+| names =
+[[2MASS]]&nbsp;J19165762+0509021, [[Durchmusterung|BD]]+04 4048&nbsp;B, [[Variable star|V1298&nbsp;Aquilae]], Gliese 752 B, <br />Van Biesbroeck's Star
+}}
+{{Starbox reference
+| Simbad = Gl752B
+| EPE = VB+10
+| NSTED = VB+10
+}}
+{{Starbox end}}
+
+'''VB 10''', also referred to as '''Van Biesbroeck's star''', is a very small and very dim [[stellar classification|M-type]] [[red dwarf]]<ref name="flare-1">{{ cite web
+| url=http://www.sai.msu.su/groups/cluster/gcvs/cgi-bin/search.cgi?search=V1298+Aql
+| title=V1298 Aql
+| work=[[General Catalogue of Variable Stars]], [[Sternberg Astronomical Institute]], [[Moscow]], [[Russia]]
+| accessdate=2009-05-28}}</ref> located in the [[constellation]] [[Aquila (constellation)|Aquila]]. Although it is relatively close to the Earth, at about 19 light years, VB 10 is a very dim [[apparent magnitude|magnitude]] 17, making it very difficult to image even with a large telescope.<ref name="SIMBAD">{{cite web
+ | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Gl752B&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id
+ | title =SIMBAD query result: V* V1298 Aql  -- Flare Star 
+ | publisher=[[Centre de Données astronomiques de Strasbourg]]
+ | accessdate=2009-05-28}}</ref>
+
+== History ==
+
+VB 10 was discovered in 1944 by the astronomer [[George van Biesbroeck]] using the {{convert|82|in|m|abbr=on}} [[Otto Struve Telescope|Otto Struve reflector telescope]] at the [[McDonald Observatory]]. He found it while surveying the telescopic field of view of the high [[proper motion]] [[red dwarf]] star [[Wolf 1055]], for companions. [[Wolf 1055]] had been catalogued 25 years earlier by [[Germans|German]] astronomer [[Max Wolf]] using similar [[astrophotography|astrophotographic]] techniques. It is designated as VB 10 in the 1961 publication of [[Van Biesbroeck's star catalog]]. Later, other astronomers began referring to it as [[Stars named after people|Van Biesbroeck's Star]] in honor of its discoverer. Because it is so dim and so close to its much brighter [[binary star|primary star]], earlier [[astronomical surveys]] missed it even though its large [[parallax]] and large [[proper motion]] should have made it stand out on [[photographic plates]] taken at different times.<ref name="Biesbroeck">{{ cite journal
+| title=The star of lowest known luminosity
+| author=van Biesbroeck, G.
+| journal=The [[Astronomical Journal]]
+| pages=61–62
+| year=1944
+| month=August
+| url=http://articles.adsabs.harvard.edu/full/seri/AJ.../0051//0000061.000.html?high=49ee8336c004367
+| doi=10.1086/105801
+| bibcode=1944AJ.....51...61V
+| volume=51}}</ref>
+
+== Characteristics ==
+VB 10 has an extremely low luminosity with an [[absolute magnitude]] of nearly 19, making it very difficult to see. Later researchers also noted that its mass, at 0.08 solar mass, is right at the lower limit needed to create internal pressures and temperatures high enough to initiate [[nuclear fusion]] and actually be a [[star]] rather than a [[brown dwarf]]. At the time of its discovery it was the lowest-mass star known. The previous record holder for the lowest mass was the star [[Wolf 359]] at 0.09 solar mass.<ref name="Linsky">{{cite journal
+| title=Stellar Activity at the End of the Main Sequence: GHRS Observations of the M8 Ve Star VB 10
+| author=Linsky ''et al.''
+| journal=The [[Astrophysical Journal]]
+|format=PDF| date= December 20, 1995 |  volume=455
+| pages=670–676
+| doi=10.1086/176614
+| last2=Wood
+| first2=Brian E.
+| last3=Brown
+| first3=Alexander
+| last4=Giampapa
+| first4=Mark S.
+| last5=Ambruster
+| first5=Carol
+| bibcode=1995ApJ...455..670L}}</ref> 
+
+VB 10 is also notable by its very large [[proper motion]], moving more than one [[arc second]] a year through the sky as seen from the Earth.<ref name="SIMBAD"/>
+
+===Flare star===
+VB 10 is a [[variable star]] and is identified in the [[General Catalogue of Variable Stars]] as V1298 Aquilae. It is classified as a [[UV Ceti]] type variable star and is known to be subject to frequent [[flare star|flare events]].<ref name="flare-1"/> Its dynamics were studied from the [[Hubble Space Telescope]] in the mid-1990s and although the star has a normally cool surface temperature of 2600 [[Kelvin|K]] it was found to produce violent flares of up to 100,000 K.<ref name="Linsky"/>
+
+==Binary star==
+{{Main|Gliese 752}}
+VB 10 is the [[binary star|secondary star]] of a bound [[binary star system]]. This star is identified as Gliese 752 B component of that system. The primary star is the much larger and brighter [[Wolf 1055]] (Gliese (GJ) 752 A). The two stars are separated by about 74 arc seconds (~434 AU).<ref name="Biesbroeck"/>
+
+==Claims of a planetary system==
+<!-- The redirects [[VB 10b]] and [[VB 10 b]] point to this section: if you rename it please update these redirects accordingly -->
+In May 2009, astronomers from [[NASA]]'s [[Jet Propulsion Laboratory]], [[Pasadena, California]], announced that they had found evidence of a planet, which they designated as VB 10b, orbiting the star. The {{convert|200|in|m|abbr=on}} [[Hale telescope]] at the [[Palomar Observatory]] was used to detect evidence of this planet using the [[Methods_of_detecting_extrasolar_planets#Astrometry|astrometry method]].<ref name="disc">{{cite journal
+| title = An Ultracool Star's Candidate Planet  
+| url = http://steps.jpl.nasa.gov/links/docs/pravdoshaklan09vb10b.pdf | doi = 10.1088/0004-637X/700/1/623  
+|format=PDF| year = 2009
+| month = June
+| journal = Submitted to the [[Astrophysical Journal]]
+| author = Pravdo ''et al.''
+| accessdate = 2009-05-30 
+| arxiv=0906.0544|bibcode = 2009ApJ...700..623P }}</ref><ref name="announce">{{cite web
+| title=Planet-Hunting Method Succeeds at Last
+| url=http://www.nasa.gov/topics/universe/features/exoplanet-20090528.html
+| work=NASA NEWS, NEWS RELEASE: 2009-090   
+| accessdate=2009-05-28}}</ref> The new planet was claimed to have a mass 6 times that of [[Jupiter]] and an orbital period of 270 days. However, subsequent studies using [[Doppler spectroscopy]] failed to detect the [[Methods_of_detecting_extrasolar_planets#Radial_velocity|radial velocity]] variations that would be expected if such a planet was orbiting this small star.<ref name="bean2010">{{cite journal
+|title=The Proposed Giant Planet Orbiting VB 10 Does Not Exist|author=Bean, Jacob L.; Seifahrt, Andreas; Hartman, Henrik; Nilsson, Hampus; Reiners, Ansgar; Dreizler, Stefan; Henry, Todd J.; Wiedemann, Günter
+|year=2010|journal=The Astrophysical Journal Letters|volume=711|issue=1|pages=L19–L23|doi=10.1088/2041-8205/711/1/L19|bibcode=2010ApJ...711L..19B}} ([http://arxiv.org/abs/0912.0003v1 arXiv preprint])</ref><ref>{{cite journal|title=Strong Constraints to the Putative Planet Candidate around VB 10 Using Doppler Spectroscopy|author=Anglada-Escudé, Guillem; Shkolnik, Evgenya L.; Weinberger, Alycia J.; Thompson, Ian B.; Osip, David J.; Debes, John H.|year=2010|journal=The Astrophysical Journal Letters|volume=711|issue=1|pages=L24–L29|doi=10.1088/2041-8205/711/1/L24|bibcode=2010ApJ...711L..24A|arxiv = 1001.0043 }}</ref> The claimants of VB 10b note that these Doppler measurements only rule out planets more massive than 3 times the mass of Jupiter, but this limit is only half the reported best-fit mass of the planet as originally claimed.<ref>[http://www.nature.com/news/2009/091208/full/462705a.html] Nature  462, 705 (2009) 8 December 2009 {{doi|10.1038/462705a}}</ref> The claims for this planet thus fall into a long history of claimed astrometric [[extrasolar planet]] detections that were subsequently refuted.<ref name="bean2010"/>
+
+== See also ==
+
+* [[List of least massive stars]]
+* [[List of stars named after people]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* {{cite web |title=A movie of the proper motion of VB 10 across the sky |url=http://www.nasa.gov/mov/352427main_C-vb10motion200905-640.mov |format=[[.mov|.mov file]] / 323 KB |accessdate=28 July 2009}}
+
+{{Sky|19|16|58|+|05|09|02|19.85}}
+{{Nearest star systems|4}}
+{{Stars of Aquila}}
+
+{{DEFAULTSORT:Vb 10}}
+[[Category:Aquila (constellation)]]
+[[Category:M-type main-sequence stars]]
+[[Category:Hypothetical planetary systems]]
+[[Category:Variable stars]]
+[[Category:Binary stars]]
+[[Category:Flare stars]]
+[[Category:Gliese and GJ objects|0752]]
+[[Category:Objects named with variable star designations|Aquilae, V1298]]
+[[Category:Objects within 100 ly of Earth]]

@@ -1,0 +1,97 @@
+{{ Supernova
+| name = Supernova SN 1572
+| image = [[Image:Main tycho remnant full.jpg|300px]] 
+| caption = Composite [[X-ray]] and [[infrared]] image of the SN 1572 remnant as seen by [[Chandra X-Ray Observatory]], [[Spitzer Space Telescope]], and [[Calar Alto Observatory]]
+| epoch = ?
+| type = [[Supernova#Type I|Type Ia]]<ref name="Krause2008" />
+| SNRtype = [[Nebula]]
+| host = [[Milky Way]]
+| constellation = [[Cassiopeia (constellation)|Cassiopeia]]
+| ra = 0<sup>h</sup> 25.3<sup>m</sup>
+| dec = +64° 09&prime;
+| gal = G.120.1+1.4
+| discovery = November 1572
+| iauc = 
+| mag_v = -4
+| distance = between {{convert|8000|ly|kpc|abbr=on|lk=on}} and {{convert|9800|ly|kpc|abbr=on|lk=on}}
+| progenitor = Unknown
+| progenitor_type = Unknown
+| b-v = Unknown
+| notes = }}
+'''SN 1572''' (''Tycho's Supernova'', ''Tycho's Nova''), "B Cassiopeiae" (B Cas), or '''''3C 10''''' was a [[supernova]] of [[Type Ia supernova|Type Ia]]<ref name="Krause2008" /> in the constellation [[Cassiopeia (constellation)|Cassiopeia]], one of about eight supernovae visible to the naked eye in historical records. It burst forth in early November 1572 and was independently discovered by many individuals.<ref>[http://www.sciencedaily.com/releases/2008/12/081203133809.htm ''Blast From The Past: Astronomers Resurrect 16th-Century Supernova''] ScienceDaily (Dec. 4, 2008)</ref>
+
+==Historic description==
+[[Image:Tycho Cas SN1572.jpg|thumb|left|Star map of the constellation Cassiopeia showing the position (labelled I) of the supernova of 1572; from Tycho Brahe's ''De nova... stella'']]
+
+The appearance of the [[Milky Way]] supernova of 1572 belongs among the more important specific observation events in the history of astronomy. The appearance of the [[Nova#Historical significance|"new star"]] helped to revise [[Archaeoastronomy|ancient models of the heavens]] and to speed on a revolution in astronomy that began with the realized need to produce better astrometric [[star catalogue]]s (and thus the need for more precise astronomical observing instruments). It also challenged the [[Aristotle|Aristotelian]] dogma of the unchangeability of the realm of stars. 
+
+The supernova of 1572 is often called "Tycho's supernova", because of Tycho Brahe's extensive work ''De nova et nullius aevi memoria prius visa stella'' ("Concerning the Star, new and never before seen in the life or memory of anyone", published in 1573 with reprints overseen by [[Johannes Kepler]] in 1602, and 1610), a work containing both [[Tycho Brahe]]'s own observations and the analysis of sightings from many other observers. Tycho was not even close to being the first to observe the 1572 supernova, although he was likely the most accurate observer of the object (though not by much over some of his European colleagues like Wolfgang Schuler, [[Thomas Digges]], [[John Dee (mathematician)|John Dee]], [[Francesco Maurolico]], Jerónimo Muñoz,<ref>{{cite book |title=Libro del nuevo Cometa, y del lugar donde se hazen; y como se vera por las Parallaxes quan lexos estan de tierra; y del Prognostico deste |year = 1573|location=Valencia|author=Jerónimo Muñoz| url  = http://gredos.usal.es/jspui/handle/10366/83106}}</ref> [[Tadeáš Hájek]], or Bartholomäus Reisacher<ref>''[https://phaidra.univie.ac.at/o:19903 De mirabili Novae ac splendidis stellae, Mense Nouembri anni 1572, primum conspectæ, ac etiam nunc apparentis, Phœnomeno]''</ref>).
+
+In England, [[Queen Elizabeth I of England|Queen Elizabeth]] called to her the mathematician and astrologer [[Thomas Allen (mathematician)|Thomas Allen]], "to have his advice about the new Star that appeared in the Cassiopeia <!-- It was surely not the Swan --> to which he gave his Judgement very learnedly," the antiquary [[John Aubrey]] recorded in his memoranda a century later.<ref>Oliver Lawson Dick, ed. ''Aubrey's Brief Lives. Edited from the Original Manuscripts'', 1949, ''s.v.'' "Thomas Allen" p. 5.</ref>
+
+The more reliable contemporary reports state that the new star itself burst forth sometime between November 2 and 6, in 1572, when it rivalled [[Venus]] in brightness. The supernova remained visible to the naked eye into 1574, gradually fading until it disappeared from view.
+
+{{-}}
+
+==Supernova remnant==
+[[File:Tour of Tycho's Supernova Remnant.ogv|thumb|Tour of Tycho's Supernova Remnant.]]
+[[Image:SN 1572 Tycho's Supernova.jpg|thumb|The red circle visible in the upper left part of this [[Wide-field Infrared Survey Explorer|WISE]] image is SN 1572.]]
+
+The distance to the supernova remnant has been estimated to between 2 and 5 [[kiloparsec|kpc]] (approx. 6,500 and 16,300 [[light-years]]), but recent studies suggest a value closer to 2.5 and 3 kpc (approx. 8,000 and 9,800 light-years).<ref>
+{{cite journal
+|author=Wenwu Tian
+|author2=Denis A. Leahy
+|date=December 26, 2010
+|title=Tycho SN 1572: A Naked Ia Supernova Remnant without Associated Ambient Molecular Cloud 
+|journal=Astrophysical Journal Letters
+|volume=729
+|pages=L15
+|doi=10.1088/2041-8205/729/2/L15
+|arxiv=1012.5673
+|bibcode = 2011ApJ...729L..15T }}</ref>
+
+===Radio detection===
+The search for a supernova remnant was negative until 1952, when Hanbury Brown and Hazard reported a radio detection at 158.5&nbsp;MHz.<ref>{{cite journal |last=Hanbury-Brown |first=R. |authorlink= |coauthors=Hazard, C. |year=1952 |month= |title=Radio-Frequency Radiation from Tycho Brahe's Supernova (A.D. 1572) |journal=Nature |volume=170 |issue=4322 |pages=364–365 |doi=10.1038/170364a0 |url= |accessdate= |quote= |bibcode = 1952Natur.170..364H }}</ref>  This was confirmed at wavelength 1.9 m by Baldwin and Edge (1957),<ref>{{cite journal |last=Baldwin |first=J. E. |authorlink= |coauthors=Edge, D. O. |year=1957 |month= |title=Radio emission from the remnants of the supernovae of 1572 and 1604 |journal=The Observatory |volume=77 |issue= |pages=139–143 |bibcode=1957Obs....77..139B |url= |accessdate= |quote= }}</ref> and the remnant was also identified tentatively in the second Cambridge radio-source catalogue as object "2C 34" and identified more firmly as "3C 10" in the third Cambridge list (Edge et al. 1959). There is no dispute that 3C 10 is the remnant of the supernova observed in 1572-1573. Following a review article by Minkowski (1964),<ref>{{cite journal |last=Minkowski |first=R. |authorlink= |coauthors= |year=1964 |month= |title=Supernovae and Supernova Remnants |journal=Annual Review of Astronomy and Astrophysics |volume=2 |issue= 1|pages=247–266 |doi=10.1146/annurev.aa.02.090164.001335 |url= |accessdate= |quote= |bibcode=1964ARA&A...2..247M}}</ref> the designation 3C 10 appears to be that most commonly used in the literature when referring to the radio remnant of B Cas (though some authors use the tabulated Galactic designation G120.7+2.1 of Green 1984, and many authors commonly refer to it as "Tycho's supernova remnant".  Because the radio remnant was reported before the optical supernova-remnant wisps were discovered, the designation 3C 10 is used by some to signify the remnant at all wavelengths.
+
+===Optical detection===
+The [[supernova remnant]] of B Cas was discovered in the 1960s by scientists with a [[Palomar Observatory|Palomar Mountain]] telescope as a very faint [[nebula]].  It was later photographed by a telescope on the international [[ROSAT]] spacecraft. The supernova has been confirmed as [[Type Ia supernova|Type Ia]],<ref name="Krause2008">{{cite journal |last=Krause |first=Oliver |authorlink= |coauthors=''et al.'' |year=2008 |month= |title=Tycho Brahe's 1572 supernova as a standard type Ia as revealed by its light-echo spectrum |journal=Nature |volume=456 |issue=7222 |pages=617–619 |doi=10.1038/nature07608 |url= |accessdate= |quote= |pmid=19052622 |bibcode = 2008Natur.456..617K |arxiv = 0810.5106 }}</ref> in which a [[white dwarf]] star has accreted matter from a companion until it approaches the [[Chandrasekhar limit]] and explodes. This type of supernova does not typically create the spectacular [[nebula]] more typical of [[Type II supernova]]s, such as [[SN 1054]] which created the [[Crab Nebula]]. A shell of gas is still expanding from its center at about 9,000&nbsp;km/s. A recent study indicates a rate of expansion below 5,000&nbsp;km/s.<ref>{{cite arXiv|eprint=1009.6031|author1=Asami Hayato|author2=Hiroya Yamaguchi|author3=Toru Tamagawa|author4=Satoru Katsuda|author5=Una Hwang|author6=John Patrick Hughes|author7=Midori Ozawa|author8=Aya Bamba|author9=Kenzo Kinugasa|title=Expansion Velocity of Ejecta in Tycho's Supernova Remnant Measured by   Doppler Broadened X-ray Line Emission|class=astro-ph.HE|year=2010}}</ref>
+
+===Discovery of the companion star===
+In October 2004, a letter in ''[[Nature (journal)|Nature]]'' reported the discovery of a [[Star#Classification|G2 star]], similar in type to our own [[Sun]].<ref>{{cite journal |last=Ruiz-Lapuente |first=Pilar |authorlink= |coauthors=''et al.'' |year=2004 |month= |title=The binary progenitor of Tycho Brahe's 1572 supernova |journal=Nature |volume=431 |issue=7012 |pages=1069–1072 |doi=10.1038/nature03006 |url= |accessdate= |quote= |pmid=15510140 |arxiv = astro-ph/0410673 |bibcode = 2004Natur.431.1069R }}</ref> It is thought to be the companion star that contributed mass to the [[white dwarf]] that ultimately resulted in the supernova. A subsequent study, published in March 2005, revealed further details about this star: labeled [[Tycho G]], it was probably a main-sequence star or subgiant prior to the explosion, but had some of its mass stripped away and its outer layers shock-heated from the effects of the supernova. Tycho G's current velocity is perhaps the strongest evidence that it was the companion star to the white dwarf, as it is traveling at a rate of 136&nbsp;km/s, which is more than four times faster than the mean velocity of other stars in its stellar neighbourhood. 
+This find has been challenged in recent years. The star is relatively far away from the center and does not show rotation which might be expected of a companion star.
+
+===Observation of light echo===
+
+In September 2008, the [[Subaru (telescope)|Subaru]] telescope obtained the [[optical spectrum]] of Tycho Brahe's supernova near maximum brightness from a scattered-[[light echo]].<ref name="arXiv:0810.5106v1 [astro-ph]">{{cite journal|title=Tycho Brahe's 1572 supernova as a standard type Ia explosion revealed from its light echo spectrum|date=October 28, 2008|author1=Oliver Krause|author2=Masaomi Tanaka|author3=Tomonori Usuda|author4=Takashi Hattori|author5=Miwa Goto|author6=Stephan Birkmann|author7=Ken'ichi Nomoto|doi=10.1038/nature07608|journal=Nature|volume=456|issue=7222|pages=617–619|pmid=19052622|arxiv=0810.5106|bibcode = 2008Natur.456..617K }}</ref> It has been confirmed that SN 1572 belongs to the majority class of normal SNe Ia.
+
+===X-ray observation===
+
+An X-ray source designated Cepheus X-1 (or Cep X-1) was detected by the [[Uhuru (satellite)|Uhuru]] X-ray observatory at 4U 0022+63. Earlier catalog designations are X120+2 and XRS 00224+638. Cepheus X-1 is actually in the constellation [[Cassiopeia (constellation)|Cassiopeia]], and it is SN 1572, the Tycho SNR.<ref name=Wood>{{ cite journal |author=Wood KS, Meekins JF, Yentis DJ, Smathers HW, McNutt DP, Bleach RD |title=The HEAO A-1 X-ray source catalog |journal=Ap J Suppl Ser. |month=December |year=1984 |volume=56 |issue=12 |pages=507–649 |bibcode=1984ApJS...56..507W |doi=10.1086/190992 }}</ref>
+
+==In literature==
+
+In the November 1998 issue of [[Sky & Telescope]] magazine, three researchers from [[Southwest Texas State University]], Don Olson and Russell Doescher of the Physics Department and Marilynn Olson of the English Department, argued that this supernova is described in [[William Shakespeare|Shakespeare's]] [[Hamlet]], specifically by Bernardo in Act I, Scene i.<ref>http://www.txstate.edu/news/news_releases/news_archive/1998/09/supernova092898.html</ref>
+
+==See also==
+{{commons category|Tycho's Supernova}}
+* [[List of supernova remnants]]
+
+{{-}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://apod.nasa.gov/apod/ap090317.html Astronomy Picture of the Day: Tycho's Supernova Remnant]
+* [http://www.solstation.com/x-objects/tycho-s.htm solstation.com: Tycho's Star]
+* [http://www.ing.iac.es/PR/newsletter/news9/science7.html The Search for the Companion Star of Tycho Brahe's 1572 Supernova]
+* [http://www.cnn.com/2008/LIVING/wayoflife/01/01/important.days/index.html cnn.com: Important days in history of universe]
+
+{{sky|00|25|21|+|64|09|15|7500}}
+
+{{supernovae}}
+
+[[Category:Supernovae]]
+[[Category:Supernova remnants]]
+[[Category:1572]]
+[[Category:1572 in science]]

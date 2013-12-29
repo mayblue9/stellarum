@@ -37,6 +37,7 @@
         top of this box, select them from the CELESTIAL SPHERE to the
         left, or step through them in alphabetical order by pressing
         the SPACE BAR.</p>
+
       </div>
 
     <div id="history"></div>
@@ -69,6 +70,11 @@
 
     </div>
       
+    <div id="controls">
+        <input id="testviz" type="button" value="Test viz" name="testviz" />
+    </div>
+
+
 
 
     <script lang="javascript">
@@ -147,6 +153,11 @@
 
       $("div.hideabout").on("click", function(e) {
            $("div#about").hide();
+      });
+
+      $("input#testviz").on("click", function(e) {
+ 
+           renderplot(testplot, 1000);
       });
 
 

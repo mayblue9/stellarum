@@ -1,0 +1,377 @@
+{{good article}}
+{{Starbox begin
+| name=61 Cygni
+}}
+{{Starbox image
+| image=[[Image:61 cygni map.png|250px]]
+| caption=Expanded view of the star field around 61 Cygni. This system is located at the end of the arrow above.
+}}
+{{Starbox observe 2s
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]]
+| constell = [[Cygnus (constellation)|Cygnus]]
+| component1 = 61 Cygni A
+| ra1 = {{RA|21|06|53.9434}}<ref name="simbadA">{{cite web |url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=HD+201091 |title=SIMBAD Query Result: V* V1803 Cyg -- Variable of BY Dra type |work=SIMBAD |publisher=Centre de Données astronomiques de Strasbourg |accessdate=2007-07-15 }} (61 Cygni A)</ref>
+| dec1 = {{DEC|+38|44|57.898}}<ref name="simbadA" />
+| appmag_v1 = 5.21<ref name="simbadA" />
+| component2 = 61 Cygni B
+| ra2 = {{RA|21|06|55.2648}}<ref name="simbadB">{{cite web |url=http://simbad.u-strasbg.fr/sim-id.pl?protocol=html&Ident=HD+201092 |title=SIMBAD Query Result: NSV 13546 -- Flare Star| work=SIMBAD |publisher=Centre de Données astronomiques de Strasbourg |accessdate=2007-07-15 }} (61 Cygni B)</ref>
+| dec2 = {{DEC|+38|44|31.400}}<ref name="simbadB" />
+| appmag_v2 = 6.03<ref name="simbadB" />
+}}
+{{Starbox character
+| class=K5V<ref name="simbadA" /> / K7V<ref name="simbadB" />
+| b-v=+1.139 / +1.320<ref name="aass36">{{cite journal
+ | author=Blanco, C.; Marilli, E.; Catalano, S.
+ | title=Photoelectric observations of stars with variable H and K emission components. III
+ | journal=Astronomy and Astrophysics Supplement Series
+ | year=1979 | volume=36 | pages=297–306
+ | bibcode=1979A&AS...36..297B }}</ref>
+| u-b=+1.155 / +1.242<ref name="aass36" />
+| variable=A:&nbsp;[[BY Draconis variable|BY Draconis]]<ref name="simbadA" /><br />B:&nbsp;[[Flare star]]<ref name="simbadB" /> }}
+{{Starbox astrometry
+| radial_v=-64.3<ref name="simbadA" />/-63.5<ref name="simbadB" />
+| prop_mo_ra=4156.93<ref name="simbadA" />/<br />&nbsp;4109.17<ref name="simbadB" />
+| prop_mo_dec=3259.39<ref name="simbadA" />/<br />&nbsp;3144.17<ref name="simbadB" />
+| parallax=285.88
+| p_error=0.54
+| parallax_footnote=<ref name=aaa474_2_653>{{citation
+ | last1=van Leeuwen | first1=F.
+ | title=Validation of the new Hipparcos reduction
+ | journal=Astronomy and Astrophysics | volume=474 | issue=2
+ | month=November | year=2007 | pages=653–664
+ | doi=10.1051/0004-6361:20078357
+ | bibcode=2007A&A...474..653V | arxiv=0708.1752 }}</ref>
+| absmag_v=7.48/8.33
+}}
+{{Starbox detail
+| source = <!--[source url]-->
+| component1 = 61 Cygni A
+| mass     = 0.70<ref name="RECONS"/>
+| radius   = {{nowrap|0.665 ± 0.005}}<ref name="aaa488"/>
+| gravity  = 4.40<ref name="apj129" />
+| luminosity  = {{nowrap|0.153 ± 0.01}}<ref name="aaa488"/>
+| temperature = {{nowrap|4,526 ± 66}}<ref name="apj694"/>
+| metal_fe = –0.20<ref name="apj129"/>
+| rotation = 35.37&nbsp;d<ref name="apj657"/>
+| age_gyr  = {{nowrap|6.1 ± 1}}<ref name="aaa488"/>
+| component2 = 61 Cygni B
+| mass2    = 0.63<ref name="RECONS" />
+| radius2  = {{nowrap|0.595 ± 0.008}}<ref name="aaa488"/>
+| gravity2 = 4.20<ref name="apj129" />
+| luminosity2 = {{nowrap|0.085 ± 0.007}}<ref name="aaa488"/>
+| temperature2 = {{nowrap|4,077 ± 59}}<ref name="apj694"/>
+| metal2_fe = –0.27<ref name="apj129" />
+| rotation2 = 37.84&nbsp;d<ref name="apj657"/>
+| age_gyr2 = {{nowrap|6.1 ± 1}}<ref name="aaa488"/>
+}}
+{{Starbox visbin
+| reference=<ref name="6th_catalog"/>
+| name=61 Cygni B
+| period={{nowrap|678 ± 34}}
+| axis={{nowrap|24.272 ± 0.592}}
+| eccentricity={{nowrap|0.49 ± 0.03}}
+| inclination={{nowrap|51 ± 2}}
+| node={{nowrap|178 ± 2}}
+| periastron={{nowrap|1709 ± 16}}
+| periarg={{nowrap|149 ± 6}}
+}}<!--
+-->{{Starbox catalog
+| names= ''' '''
+
+;61 Cyg A/B
+[[Gliese-Jahreiss catalogue|GJ 820 A/B]], 
+Struve 2758 A/B, 
+ADS 14636 A/B,
+V1803 Cyg A/B,
+[[General Catalogue of Trigonometric Parallaxes|GCTP 5077.00 A/B]] 
+<ref name="simbadAB">{{cite web |url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=61+cygni&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id |title=SIMBAD Query Result: ADS 14636 AB -- Double or multiple star |work=SIMBAD |publisher=Centre de Données astronomiques de Strasbourg |accessdate=2009-04-01 }} (61 Cygni)</ref>
+
+;61 Cyg A
+[[Variable star designation|V*]] V1803 Cyg,
+[[Henry Draper catalogue|HD]] 201091, 
+[[Hipparcos Catalogue|HIP]] 104214,
+[[Harvard Revised catalogue|HR]] 8085, 
+[[Bonner Durchmusterung|BD]]+38°4343, 
+[[Luyten Half-Second catalogue|LHS]] 62,
+[[Smithsonian Astrophysical Observatory|SAO]] 70919  
+<ref name="simbadA" />
+
+;61 Cyg B
+[[Henry Draper catalogue|HD]] 201092, 
+[[Hipparcos Catalogue|HIP]] 104217,
+[[Harvard Revised catalogue|HR]] 8086, 
+[[Bonner Durchmusterung|BD]]+38°4344, 
+[[Luyten Half-Second catalogue|LHS]] 63 
+<ref name="simbadB" />
+
+}}
+{{Starbox end}}
+
+'''61 Cygni''',<ref group=note>Not to be confused with [[16 Cygni]], a more distant system containing two [[Stellar classification|G-type]] stars harboring the [[gas giant]] planet [[16 Cygni Bb]].</ref> sometimes called '''Bessel's Star'''<ref>{{cite book 
+ | first=Anton | last=Pannekoek | year=1989
+ | title=A History of Astronomy
+ | publisher=Courier Dover Publications | pages=343
+ | isbn=0-486-65994-1 }}</ref> or '''Piazzi's Flying Star''',<ref name=hirshfeld>{{cite book 
+ | first=Alan | last=Hirshfeld | year=2001
+ | title=Parallax: The Race to Measure the Cosmos
+ | publisher=Macmillan | isbn=0-7167-3711-6 }}</ref> is a [[binary star]] system in the [[constellation]] [[Cygnus (constellation)|Cygnus]]. It consists of a pair of [[Stellar classification|K-type]] [[dwarf star]]s that orbit each other in a period of about 659&nbsp;years, forming a [[visual binary]]. At fifth and sixth [[apparent magnitude]]s, they are among the least conspicuous stars visible in the night sky to an observer without an [[optical instrument]].
+
+61 Cygni first attracted the attention of astronomers because of its large [[proper motion]]. In 1838, [[Friedrich Wilhelm Bessel]] measured its distance from [[Earth]] at about 10.3&nbsp;[[light years]],<ref>{{cite web|title=A brief history of light years|url=http://newswatch.nationalgeographic.com/2010/11/22/a_brief_history_of_light_years/|publisher=National Geographic|accessdate=14 August 2013}}</ref> very close to the actual value of about 11.4&nbsp;light years; this was the first distance estimate for any star other than the [[Sun]],<ref name="Bessel">{{cite web
+ | author=Frommert, Hartmut; Kronberg, Christine
+ | title=Friedrich Wilhelm Bessel | publisher=Students for the Exploration and Development of Space
+ | url=http://www.seds.org/MESSIER/xtra/Bios/bessel.html
+ | accessdate=2009-04-03 |archiveurl = http://web.archive.org/web/20041025012932/http://www.seds.org/MESSIER/xtra/Bios/bessel.html |archivedate = October 25, 2004}}</ref> and first star to have its [[stellar parallax]] measured. Over the course of the twentieth century, several different astronomers reported detections of a massive [[planet]] orbiting one of the two stars, but recent high-precision [[radial velocity]] observations have shown that all such claims were erroneous.<ref name="Walker1995">{{cite journal
+ | author=Walker, G. A. H.; Walker, A. R.; Irwin, A. W.; Larson, A. M.; Yang, S. L. S.; Richardson, D. C
+ | year=1995 | title=A search for Jupiter-mass companions to nearby stars | journal=Icarus | volume=116 | issue=2
+ | pages=359&ndash;375 | doi=10.1006/icar.1995.1130 | bibcode=1995Icar..116..359W}}</ref><ref name="Cumming1999">{{cite journal
+ | author=Cumming, A.; Marcy, G. W.; Butler, R. P.
+ | year=1999 | title=The Lick planet search: detectability and mass thresholds | doi=10.1086/308020
+ | journal=Astrophysical Journal | volume=526
+ | issue=2
+ | pages=890&ndash;915
+| bibcode=1999ApJ...526..890C
+|arxiv = astro-ph/9906466 }}</ref><ref name="Wittenmyer2006">{{cite journal
+ | author=Wittenmyer, R. A.; Endl, M.; Cochran, W.D.; Hatzes , A.; Walker, G. A. H.; Yang, S. L. S.; Paulson, D. B.
+ | year=2006 | title=Detection limits from the McDonald Observatory planet search program
+ | journal=Astronomical Journal | volume=132
+ | issue=1
+ | pages=177&ndash;188 | doi=10.1086/504942 | bibcode=2006AJ....132..177W|arxiv = astro-ph/0604171 }}</ref> To date, no planets have been confirmed in this system and all of the past claims are now considered spurious.
+
+==Observation history==
+The large [[proper motion]] of 61 Cygni was first demonstrated by [[Giuseppe Piazzi]] in 1804, who christened it the "Flying Star".<ref name=hirshfeld /> Piazzi's result, however, received little attention at the time due to the relatively short time span of his observations&mdash;a mere 10&nbsp;years. It would take a publication by [[Friedrich Wilhelm Bessel]] in 1812 to bring this star to the widespread attention of astronomers.<ref>{{cite journal
+ | last=Fodera-Serio | first=G.
+ | title=Giuseppe Piazzi and the Discovery of the Proper Motion of 61-Cygni | journal=Journal of the History of Astronomy
+ | year=1990 | volume=21 | issue=3 | pages=275
+ | bibcode=1990JHA....21..275F }}</ref>
+
+[[Friedrich Georg Wilhelm von Struve]] first argued for its status as a binary in 1830. For many years thereafter, however, some uncertainty remained as to whether this pair was a mere [[optical binary|juxtaposition of stars]] or a [[star system|gravitationally bound system]].<ref name="Davis 1898">{{cite journal
+ | last=Davis | first=Merhan S.
+ | title=Remarks regarding the parallaxes of 61 Cygni and the probable physical connection of these two stars.
+ | journal=Astrophysical Journal
+ | year=1898 | volume=8 | pages=246–247
+ | bibcode=1898ApJ.....8..246D
+ | doi=10.1086/140527 }}</ref>
+
+[[File:61 Cygni Proper Motion.gif|thumb|left|61 Cygni showing proper motion in almost one year: 2012-11-19 - 2013-11-08. A 10.7 apparent magnitude star can be seen coming out of 61 Cygni A's glare as the latter moves upwards in the image.]]
+The system's large proper motion, the largest known for any star at the time, made 61 Cygni a candidate for the determination of its distance by the method of [[parallax]] when the quality of astronomical observations first made this possible. The system therefore has the distinction of being the first star (excluding the Sun) to have its distance from Earth measured. This was accomplished in 1838 by [[Friedrich Bessel|Bessel]], who arrived at a parallax of 313.6&nbsp;[[minute of arc|mas]], close to the currently accepted value of 287.18&nbsp;mas (yielding 11.36&nbsp;light years).<ref>{{cite journal
+ | last=Bessel | first=F. W.
+ | title=Bestimmung der Entfernung des 61sten Sterns des Schwans. Von Herrn Geheimen - Rath und Ritter Bessel
+ | journal=Astronomische Nachrichten
+ | year=1839 | volume=16
+ | issue=5-6 | pages=65 | language=German
+ | bibcode=1839AN.....16...65B
+ | quote=(page 92) Ich bin daher der Meinung, daß nur die jährliche Parallaxe = 0"3136 als das Resultat der bisherigen Beobachtungen zu betrachten ist
+ | doi=10.1002/asna.18390160502 }} A parallax of 313.6 mas yields a distance of 10.4 light years</ref>
+
+Only a few years later, however, [[Groombridge 1830]] was discovered to have a larger proper motion. 61 Cygni retains the distinction of having the largest proper motion of any star visible to the unaided eye (although Groombridge 1830 at magnitude 6.4 can be seen with the naked eye under exceptionally dark skies). 61 Cygni has the seventh highest proper motion of all stellar systems listed in the [[Hipparcos Catalogue]].<ref>{{cite web
+ | author=Staff | date=May 4, 2007 | url=http://www.rssd.esa.int/index.php?project=HIPPARCOS&page=areas
+ | title=High Proper Motion Stars: Interesting Areas to View
+ | publisher=ESA | accessdate=2007-07-16 }}</ref>
+
+By 1911, Bessel's parallax of 0.3136 had only slightly improved to 0.310, and observations at [[Yerkes Observatory]] had measured its radial velocity as 62&nbsp;km/s<ref name="boss"/> which together with its proper motion&mdash;transverse to our line of sight&mdash;of around 79&nbsp;km/s yielded a space velocity of about 100&nbsp;km/s towards a point about 12 degrees west of [[Orion (constellation)|Orion]]'s belt.<ref group=note>The space velocity calculated from 1911 data: parallax 310 mas yields 10.5&nbsp;light years; total proper motion= 5.205&nbsp;arcsec/year (average by mass) or 79.4&nbsp;km/s; and radial velocity = -62&nbsp;km/s.</ref><ref group=note>This yields a 1911 space velocity of <math>\begin{smallmatrix}\sqrt{79.4^2\ +\ 62^2}\ =\ 100\end{smallmatrix}</math>&nbsp;km/s. Compare with more accurate 1953, 1997 data: parallax 287.18 yields 11.36&nbsp;ly and so an increased proper motion velocity of 87&nbsp;km/s; radial velocity -64&nbsp;km/s yields a net space velocity of <math>\begin{smallmatrix}\sqrt{87^2\ +\ 64^2}\ =\ 106\end{smallmatrix}</math>&nbsp;km/s.</ref>
+
+In 1911, [[Benjamin Boss]] published data indicating that the 61 Cygni system was a member of a comoving group of stars.<ref name="boss">{{cite journal
+ | last=Boss | first=Benjamin
+ | title=Community of motion among several stars of large proper-motion | journal=Astronomical Journal
+ | year=1911 | volume=27 | issue=629 | pages=33–37
+ | bibcode=1911AJ.....27...33B
+ | doi=10.1086/103931 }}</ref> This group was later expanded to include 26 potential members. Possible members include [[Beta Columbae]], [[Pi Mensae]], 14 Tauri and 68 Virginis. The typical space velocities of this group of stars is 105&ndash;114&nbsp;km/s relative to the Sun.<ref>{{cite journal
+ | last = Eggen | first = O. J.
+ | title=White dwarf members of the 61 Cygni group
+ | journal=The Observatory
+ | year=1959 | volume=79 | pages=135–39
+ | bibcode=1959Obs....79..135E }} &ndash; Gives space velocity components of U=+94, V=–53 and W=–7 for HD 201091/2.</ref>
+
+Because of their wide angular separation (and correspondingly slow orbital motion), it was initially unclear whether the two stars in the 61 Cygni system were physically connected. The respective parallax measurements of 0.360&Prime; and 0.288&Prime; gave a separation of more than two [[light year]]s.<ref name="Davis 1898" /> However, by 1917 refined measured parallax differences demonstrated that the separation was significantly less.<ref>{{cite journal
+ | author=Adams, W. S.; Joy, A. H.
+ | title=The luminosities and parallaxes of five hundred stars
+ | journal=Astrophysical Journal
+ | year=1917 | volume=46 | pages=313–39 | bibcode=1917ApJ....46..313A
+ | doi = 10.1086/142369
+}}&mdash;See Table I, page 326</ref> The binary nature of this system was clear by 1934, and [[orbital elements]] were published.<ref>{{cite journal
+ | last=Baize | first=P.
+ | title=Second catalogue d'orbites d'Etoiles Doubles visuelles
+ | journal=Journal des Observateurs
+ | year=1950 | volume=33 | pages=1–31 | language=French | bibcode=1950JO.....33....1B
+}}&mdash;on page 19, the authority is listed as Zagar (1934).</ref>
+
+An observer using 7&times;50 [[binoculars]] can find 61 Cygni two binocular fields south-east of the bright star [[Deneb]]. The angular separation of the two stars is slightly greater than the [[angular size]] of [[Saturn]] (16&ndash;20″).<ref>
+{{cite web
+ | last=Espenak | first=Fred | date=July 25, 1996
+ | url=http://sunearth.gsfc.nasa.gov/eclipse/TYPE/preface.html
+ | title=Twelve Year Planetary Ephemeris: 1995 - 2006
+ | publisher=NASA | accessdate=2007-07-25 }}</ref> So, under ideal viewing conditions, the binary system can be resolved by a telescope with a 7&nbsp;mm aperture.<ref group=note>Per the [[Angular resolution|Rayleigh criterion]]:
+<math>\begin{smallmatrix}\alpha_R\ =\ \frac{138}{D}\end{smallmatrix}</math>&nbsp;mm.</ref> This is
+well within the capability of a typical pair of binoculars.
+
+==Properties==
+Although it appears to be a single star to the naked eye, 61 Cygni is in fact a widely separated [[binary star|binary system]], composed of two [[Stellar classification|K class (orange)]] [[main sequence]] stars, 61 Cygni A and 61 Cygni B. The brighter star '''61 Cygni A''' is of [[apparent magnitude]] 5.2, the fainter '''61 Cygni B''' is 6.1. Both appear to be old-disk stars,<ref>{{cite journal
+ | last =Gudel | first = M.
+ | title=Radio and X-ray emission from main-sequence K stars
+ | journal=Astronomy and Astrophysics
+ | year=1992 | volume=264 | issue=2 | pages=L31–L34
+ | bibcode=1992A&A...264L..31G }}</ref> with an estimated age that is older than the Sun. The system has a net [[Space velocity (astronomy)|space velocity]] of 108&nbsp;km/s<ref name=astronexus>{{cite web
+ | author=Anonymous | date=March 18, 2006
+ | url=http://www.astronexus.com/node/41
+ | title=Long-Term Stellar Motions, part 2: Shortcuts
+ | publisher=The Astronomy Nexus
+ | accessdate=2007-10-21 | archiveurl= http://web.archive.org/web/20071109142122/http://www.astronexus.com/node/41| archivedate= 9 November 2007 <!--DASHBot-->| deadurl= no}}</ref> relative to the Sun, which results in the high proper motion across the sky.<ref name="aaa433">{{cite journal
+ | author=Affer, L.; Micela, G.; Morel, T.; Sanz-Forcada, J.; Favata, F.
+ | title=Spectroscopic determination of photospheric parameters and chemical abundances of 6 K-type stars
+ | journal=Astronomy and Astrophysics | year=2005 | volume=433
+ | issue=2 |pages=647–658 | bibcode=2005A&A...433..647A
+ | doi=10.1051/0004-6361:20041308}}</ref> At a distance of just over 11 light years, it is the 15th nearest known star system to the Earth (not including the Sun). 61 Cygni A is the fourth nearest star that is visible to the naked eye for mid-latitude northern observers, after [[Sirius]], [[Epsilon Eridani]], and [[Procyon A]].<ref name="RECONS"/> Since 1943, 61 Cygni A has served as a stable K5 V "anchor point" of the MK classification system.<ref name=baas25_1319/> Starting in 1953, 61 Cygni B has been considered a K7 V standard star (Johnson & Morgan 1953,<ref>{{cite journal | bibcode=1953ApJ...117..313J  | title=Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectral atlas | first1=H. L. | last1=Johnson | first2=W. W. | last2=Morgan | year=1953 | journal=Astrophysical Journal | volume=117 | page=313 |doi = 10.1086/145697 }}</ref> Keenan & McNeil 1989<ref name="Keenan89">{{cite journal | bibcode=1989ApJS...71..245K | title=The Perkins Catalog of Revised MK Types for the Cooler Stars | first1=P. C. | last1=Keenan | first2=R. C. | last2=McNeil | journal=Astrophysical Journal Supplement Series | volume=71 | month=October | year=1989 | pages=245&ndash;266 |doi = 10.1086/191373 }}</ref>). This system will make its closest approach at about 20,000 [[Common Era|CE]], when the separation from the Sun will be about 9 light years.<ref name=astronexus/>
+
+[[Image:Compare 61 cygni.png|left|thumb|320px|A size comparison between the Sun (left), 61 Cygni A (bottom) and 61 Cygni B (upper right).]]
+The two orbit their common [[Barycentric coordinates (astronomy)|barycenter]] in a period of 659 years, with a mean separation of about 84&nbsp;[[Astronomical Units|A.U.]]&mdash;84 times the separation between the Earth and the Sun. The relatively large [[orbital eccentricity]] of 0.48 means that the two stars are separated by about 44&nbsp;A.U. at [[periapsis]] and 124 A.U. at [[apoapsis]].<ref group=note>At periapsis: <math>\begin{smallmatrix}r_{per}\ =\ (1\ -\ e)\cdot a\ \approx\ 44\end{smallmatrix}</math>&nbsp;A.U.<br />At apoapsis: <math>\begin{smallmatrix}r_{ap}\ =\ (1\ +\ e)\cdot a\ \approx\ 124\end{smallmatrix}</math>&nbsp;A.U.</ref> The leisurely orbit of the pair has made it difficult to pin down their respective masses, and the accuracy of these values remain somewhat controversial. In the future this issue may be resolved through the use of [[asteroseismology]].<ref name="aaa488"/>
+
+Component A has about 11% more mass than component B.<ref name="RECONS"/> It has an [[Stellar magnetic field|activity cycle]] that is much more pronounced than the solar [[sunspot]] cycle. This is a complex activity cycle that varies with a period of about 7.5±1.7&nbsp;years.<ref>{{cite journal
+ | author=Frick, P.; Baliunas, S. L.; Galyagin, D.; Sokoloff, D.; Soon, W.
+ | title=Wavelet Analysis of Chromospheric Activity
+ | journal=Astrophysical Journal
+ | year=1997 | volume=483
+ | issue=1 | pages=426–434 
+ | bibcode=1997ApJ...483..426F | doi = 10.1086/304206
+}}</ref> (An earlier estimate gave a period of 7.3 years.)<ref name="aaa406">{{cite journal
+ | author=Hempelmann, A.; Schmitt, J. H. M. M.; Baliunas, S. L.; Donahue, R. A.
+ | title=Evidence for coronal activity cycles on 61 Cygni A and B
+ | journal=Astronomy and Astrophysics
+ | year=2003 | volume=406
+ | issue=2 | pages=L39–L42
+ | bibcode=2003A&A...406L..39H | doi = 10.1051/0004-6361:20030882
+}}</ref> The combination of starspot activity combined with rotation and chromospheric activity is characteristic of a [[BY Draconis variable]]. Because of differential rotation, this star's surface rotation period varies by latitude from 27 to 45 days, with an average period of 35 days.<ref name="apj657"/>
+
+[[Image:Orbit 61 Cygni arcsec.png|right|thumb|The orbital motion of component B relative to component A as seem from Earth as well as the true appearance from face-on view. The time steps are approximately 10 years.]]
+The outflow of the stellar wind from component A produces a bubble within the local interstellar cloud. Along the direction of the star's motion within the Milky Way, this extends out to a distance of only 30&nbsp;AU, or roughly the orbital distance of [[Neptune]] from the Sun. This is lower than the separation between the two components of 61 Cygni, and so the two most likely do not share a common atmosphere. The compactness of the astrosphere is likely due to the low mass outflow and the relatively high velocity through the local medium.<ref>{{cite journal
+ | author=Wood, Brian E.; Müller, Hans-Reinhard; Zank, Gary P.; Linsky, Jeffrey L.
+ | title=Measured Mass-Loss Rates of Solar-like Stars as a Function of Age and Activity
+ | journal=The Astrophysical Journal | volume=574 | issue=1
+ | pages=412&ndash;425 | month=July | year=2002
+ | doi=10.1086/340797 | bibcode=2002ApJ...574..412W|arxiv = astro-ph/0203437 }}</ref>
+
+Component B displays a more chaotic pattern of variability than A, with significant short-term flares. There is an 11.7-year periodicity to the overall activity cycle of B.<ref name="aaa406" /> Both stars exhibit stellar flare activity, but the [[chromosphere]] of component B is 25% more active than for component A.<ref>{{cite journal
+ | author=Hempelmann, A.; Robrade, J.; Schmitt, J. H. M. M.; Favata, F.; Baliunas, S. L.; Hall, J. C.
+ | title=Coronal activity cycles in 61 Cygni
+ | journal=Astronomy and Astrophysics
+ | year=2006 | volume=460 | issue=1 | pages=261–267
+ | bibcode=2006A&A...460..261H | doi = 10.1051/0004-6361:20065459
+}}</ref> As a result of differential rotation, the period of rotation varies by latitude from 32 to 47 days, with an average period of 38 days.<ref name="apj657"/>
+
+There is some disagreement over the evolutionary age of this system. [[Stellar kinematics|Kinematic]] data gives an age estimate of about 10&nbsp;Gyr.<ref name="aaa433"/> [[Stellar rotation|Gyrochronology]], or the age determination of a star based on its rotation and color, results in an average age of {{nowrap|2.0 ± 0.2 Gyr}}. The ages based on [[Stellar magnetic field|chromospheric activity]] for A and B are 2.36&nbsp;Gyr and 3.75&nbsp;Gyr, respectively. Finally the age estimates using the isochrone method, which involve fitting the stars to evolutionary models, yield upper limits of 0.44&nbsp;Gyr and 0.68&nbsp;Gyr.<ref>{{cite journal
+ | last=Barnes | first=Sydney A.
+ | title=Ages for Illustrative Field Stars Using Gyrochronology: Viability, Limitations, and Errors
+ | journal=The Astrophysical Journal | volume=669 | issue=2
+ | pages=1167–1189 | month=November | year=2007
+ | doi=10.1086/519295 | bibcode=2007ApJ...669.1167B|arxiv = 0704.3068 }}</ref> However, a 2008 evolutionary model using the CESAM2k code from the [[Côte d'Azur Observatory]] gives an age estimate of {{nowrap|6.0 ± 1.0 Gyr}} for the pair.<ref name="aaa488"/>
+
+==Claims of a planetary system==
+On several occasions, it has been claimed that 61 Cygni has unseen low-mass companions, planets or a [[brown dwarf]]. [[Kaj Aage Gunnar Strand|Kaj Strand]] of the [[Sproul Observatory]], under the direction of [[Peter van de Kamp]], made the first such claim in 1942 using observations to detect tiny but systematic variations in the orbital motions of 61 Cygni A and B. These perturbations suggested that a third body was orbiting 61 Cygni A.<ref>{{cite journal
+ | last=Strand | first=K. Aa.
+ | title=61 Cygni as a Triple System
+ | journal=Publications of the [[Astronomical Society of the Pacific]]
+ | year=1943 | volume=55 | issue=322 | pages=29–32
+ | bibcode=1943PASP...55...29S
+ | doi=10.1086/125484 }}</ref> Reports of this third body served as inspiration for [[Hal Clement]]'s 1953 science fiction novel ''[[Mission of Gravity]]''. In 1957, van de Kamp narrowed his uncertainties, claiming that the object had a mass of eight times that of [[Jupiter]], a calculated orbital period of 4.8&nbsp;years, and a semi-major axis of 2.4&nbsp;A.U.<ref>{{cite journal
+ | last=Strand | first=K. Aa.
+ | title=The orbital motion of 61 Cygni.
+ | journal=The [[Astronomical Journal]]
+ | year=1957 | volume=62 | pages=35
+ | bibcode=1957AJ.....62Q..35S
+ | doi=10.1086/107588 }}</ref> In 1977, Soviet astronomers at the [[Pulkovo Observatory]] near [[Saint Petersburg]] suggested that the system included three planets: two giant planets with six and twelve [[Jupiter masses]] around 61 Cyg A, and one giant planet with seven Jupiter masses around 61 Cygni B.<ref>{{cite book
+ | last=Asimov | first=Isaac
+ | title=Extraterrestrial Civilizations
+ | authorlink = Isaac Asimov
+ | publisher = Pan Books Ltd
+ | year = 1981
+ | location = London
+ | isbn =0-330-26249-1}}</ref> In 1978, [[Wulff Dieter Heintz]] of the [[Sproul Observatory]] proved that these claims, as well as the claims for unseen companions around many other stars, were spurious, having failed to detect any evidence of such motion down to six percent of the Sun's mass&mdash;equivalent to about 60 times the mass of [[Jupiter]].<ref>{{cite journal
+ | last=Heintz | first=W. D.
+ | title=Reexamination of suspected unresolved binaries
+ | journal=The [[Astrophysical Journal]]
+ | year=1978 | volume=220 | pages=931–934
+ | bibcode=1978ApJ...220..931H
+ | doi=10.1086/155982 }}</ref>
+
+===Refining planetary boundaries===
+Since no certain planetary object has been detected around either star so far, [[McDonald Observatory]] team has set limits to the presence of one or more planets around 61 Cygni A and 61 Cygni B with masses between 0.07 and 2.1&nbsp;Jupiter masses and average separations spanning between 0.05 and 5.2&nbsp;A.U.<ref name="search">{{cite journal
+ | author=Wittenmeyer, R. A. ''et al.''
+ | title=Detection Limits from the McDonald Observatory Planet Search Program | journal=The [[Astronomical Journal]]
+ | year=2006 | month=May | volume=132 | issue=1
+ | pages=177–188 | doi=10.1086/504942 | bibcode=2006AJ....132..177W
+ | arxiv=astro-ph/0604171}}</ref>
+
+Because of the proximity of this system to the Sun, it is a frequent target of interest for astronomers. Both stars were selected by [[NASA]] as "Tier 1" targets for the proposed optical [[Space Interferometry Mission]].<ref>{{cite web
+ | url =http://tauceti.sfsu.edu/~chris/SIM/t1.html
+ | title =SIM Planet Search Tier 1 Target Stars
+ | publisher = [[San Francisco State University]]
+ | accessdate = 2007-07-23 | archiveurl= http://web.archive.org/web/20070804210039/http://tauceti.sfsu.edu/~chris/SIM/t1.html| archivedate= 4 August 2007 <!--DASHBot-->| deadurl= no}}</ref> This mission is potentially capable of detecting planets with as little as 3&nbsp;times the mass of the Earth at an orbital distance of 2&nbsp;A.U. from the star. Measurements of this system have detected an [[infrared excess|excess of far infrared radiation]], beyond what is emitted by the stars. Such an excess is sometimes associated with a [[debris disk|disk of dust]], but in this case it lies sufficiently close to one or both of the stars that it has not yet been resolved with a telescope.<ref>{{cite journal
+ | author=Kuchner, Marc J.; Brown, Michael E.; Koresko, Chris D.
+ | title=An 11.6 Micron Keck Search for Exo-Zodiacal Dust
+ | journal=The Publications of the Astronomical Society of the Pacific
+ | year=1998 | volume=110 | issue=753 | pages=1336–41
+ | bibcode=1998PASP..110.1336K
+ | doi=10.1086/316267 |arxiv = astro-ph/0002040 }}</ref>
+
+==See also==
+*[[List of nearest stars]]
+*[[Stars and planetary systems in fiction#61 Cygni|61 Cygni in fiction]] — [[Stars and planetary systems in fiction]]
+*[[Barnard's Star]]
+
+==Notes==
+<div class="references-small">
+<references group=note/>
+</div>
+
+==References==
+{{reflist|colwidth=30em|refs=
+<ref name="RECONS">{{citation | author=Staff | date=June 8, 2007 | url=http://joy.chara.gsu.edu/RECONS/ | title=List of the Nearest 100 Stellar Systems | publisher=Research Consortium on Nearby Stars, Georgia State University | accessdate=2007-07-15 | archiveurl= http://web.archive.org/web/20070701064630/http://joy.chara.gsu.edu/RECONS/| archivedate= 1 July 2007 <!--DASHBot-->| deadurl= no}}</ref>
+
+<ref name="aaa488">{{citation | display-authors=1 | last1=Kervella | first1=P. | last2=Mérand | first2=A. | last3=Pichon | first3=B. | last3=Thévenin | first3=F. | last4=Heiter | first4=U. | last5=Bigot | first5=L. | last6=Ten Brummelaar | first6=T. A. | last7=McAlister | first7=H. A. | last8=Ridgway | first8=S. T. | last9=Turner | first9=N. | title=The radii of the nearby K5V and K7V stars 61 Cygni A & B. CHARA/FLUOR interferometry and CESAM2k modeling | journal=Astronomy and Astrophysics | volume=488 | issue=2 | pages=667–674 | month=September | year=2008 | doi=10.1051/0004-6361:200810080 | bibcode=2008A&A...488..667K|arxiv = 0806.4049 }}</ref>
+
+<ref name="apj694">{{citation | last1=van Belle | first1=Gerard T. | last2=von Braun | first2=Kaspar | title=Directly Determined Linear Radii and Effective Temperatures of Exoplanet Host Stars | journal=The Astrophysical Journal | volume=694 | issue=2 | pages=1085–109 | year=2009 | doi=10.1088/0004-637X/694/2/1085 | bibcode=2009ApJ...694.1085V|arxiv = 0901.1206 }}</ref>
+
+<ref name="apj129">{{citation | last1=Luck | first1=R. Earle | last2=Heiter | first2=Ulrike | title=Stars within 15 Parsecs: Abundances for a Northern Sample | journal=The Astronomical Journal | year=2005 | volume=129 | issue=2 | pages=1063–1083 | bibcode=2005AJ....129.1063L | doi=10.1086/427250 }}</ref>
+
+<ref name="apj657">{{citation | last=Böhm-Vitense | first=Erika | title=Chromospheric Activity in G and K Main-Sequence Stars, and What It Tells Us about Stellar Dynamos | journal=The Astrophysical Journal | volume=657 | issue=1 | pages=486–493 | month=March | year=2007 | doi=10.1086/510482 | bibcode=2007ApJ...657..486B}}</ref>
+
+<ref name="6th_catalog">{{cite web | last1=Hartkopf | first1=W. I. | first2=Brian D. | last1=Mason | url=http://ad.usno.navy.mil/wds/orb6.html | title=Sixth Catalog of Orbits of Visual Binary Stars | publisher=U.S. Naval Observatory | accessdate=2008-07-12 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+}}
+
+==External links==
+{{commons category|61 Cygni}}
+* {{cite web
+ | title=61 Cygni 2
+ | url = http://www.solstation.com/stars/61cygni2.htm
+ | publisher = SolStation
+ | accessdate = 2007-07-16 | archiveurl= http://web.archive.org/web/20070715025918/http://www.solstation.com/stars/61cygni2.htm| archivedate= 15 July 2007 <!--DASHBot-->| deadurl= no}}
+* {{cite web
+ | last = Kaler | first = James B. | title=61 Cygni
+ | url = http://www.astro.uiuc.edu/~kaler/sow/61cyg.html
+ | publisher =[[University of Illinois at Urbana-Champaign]]
+ | accessdate = 2007-07-16 | archiveurl= http://web.archive.org/web/20070707012512/http://www.astro.uiuc.edu/~kaler/sow/61cyg.html| archivedate= 7 July 2007 <!--DASHBot-->| deadurl= no}}
+
+{{Sky|21|06|53.9434|+|38|44|57.898|11.36}}
+{{Nearest systems|3}}
+{{Stars of Cygnus}}
+
+[[Category:Cygnus (constellation)]]
+[[Category:Binary stars]]
+[[Category:Durchmusterung objects|BD+38 04343 and BD+38 04344]]
+[[Category:K-type main-sequence stars]]
+[[Category:Flamsteed objects|Cygni, 61]]
+[[Category:Gliese and GJ objects|0820]]
+[[Category:Henry Draper Catalogue objects|201091 and 201092]]
+[[Category:High-proper-motion stars]]
+[[Category:Hipparcos objects|104214 and 104217]]
+[[Category:HR objects|8085 and 8086]]
+[[Category:Objects named with variable star designations|Cygni, V1803]]
+[[Category:BY Draconis variables]]
+[[Category:Objects within 100 ly of Earth]]
+
+{{Link GA|cs}}
+{{Link GA|it}}
+{{Link GA|zh}}

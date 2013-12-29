@@ -1,6 +1,19 @@
 Notes on editing
 ----------------
 
+More parameters -
+
+* absolute magnitude
+* detailed stellar class
+* mass
+* radius
+* distance
+
+
+
+
+-------------
+
 Going through all the stars in sequence, checking that their coordinates are
 correct, and setting cross-references and removing 'q.v.'s.
 

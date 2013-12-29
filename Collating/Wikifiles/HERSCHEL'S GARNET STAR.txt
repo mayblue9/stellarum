@@ -1,0 +1,145 @@
+{{Starbox begin
+| name = Mu Cephei
+}}
+{{Starbox image |
+  image=
+     <div style="position: relative">[[File:Cepheus constellation map.svg|250px]]
+     <div style="position: absolute; left: 192px; top: 252px">[[Image:Locator Dot.gif|5px]]</div>
+     </div> <!--http://meta.wikimedia.org/wiki/Help:Composite_images --> | 
+  caption=The red dot shows the location of Mu Cephei in [[Cepheus (constellation)|Cepheus]]. }}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| constell = [[Cepheus (constellation)|Cepheus]]
+| ra = {{RA|21|43|30.4609}}<ref name=aaa323_L49/>
+| dec = {{DEC|+58|46|48.166}}<ref name=aaa323_L49/>
+| appmag_v = +4.08<ref name=aaass34_1/>
+}}
+{{Starbox character
+| class = M1I<ref name=levesqueetal2005/>
+| b-v = +2.35<ref name=aaass34_1/>
+| u-b = +2.42<ref name=aaass34_1/>
+| variable = [[Mu Cephei variable]]
+}}
+{{Starbox astrometry
+| radial_v = +20.63<ref name=aaa430_165/>
+| prop_mo_ra = +5.24<ref name=aaa323_L49/>
+| prop_mo_dec = &minus;2.88<ref name=aaa323_L49/>
+| parallax = 0.55
+| p_error = 0.2 <ref name="aaa323_L49"/>
+| dist_ly = approx. 6,000
+| dist_pc = approx. 1,800
+| absmag_v = &minus;7.63<ref name=levesqueetal2005/>
+}}
+{{Starbox detail
+| age_myr = {{nowrap|10.0 ± 0.1}}<ref name=mnras410_1_190/>
+| metal = 
+| mass = {{nowrap|19.2 ± 0.1}}<ref name=mnras410_1_190/>
+| radius = 650<ref name=aaa540_2_99/>–1,420<ref name=levesqueetal2005/>
+| rotation = 
+| luminosity = 3.7 × 10<sup>5</sup><ref name=levesqueetal2005/>
+| temperature = {{nowrap|3690 ± 50}}<ref name=aaa436_1_317/>
+}}
+{{Starbox catalog
+| names = Erakis, Herschel's Garnet Star, [[Bayer designation|&mu; Cep]], [[Henry Draper catalogue|HD]]&nbsp;206936, [[Harvard Revised catalogue|HR]]&nbsp;8316, [[Bonner Durchmusterung|BD]]+58°2316, [[Hipparcos Catalogue|HIP]]&nbsp;107259, [[Smithsonian Astrophysical Observatory|SAO]] 33693.<ref name=simbad/> }}
+{{Starbox reference
+| Simbad=HD+206936 }}
+{{Starbox end}}
+{{Sky|21|43|30.46|+|58|46|48.2|1000000}}
+'''Mu Cephei''' (μ Cep, μ Cephei), also known as '''Herschel's Garnet Star''', is a [[red supergiant]] [[star]] in the [[constellation]] [[Cepheus (constellation)|Cepheus]]. It is one of the [[List of largest stars|largest]] and most [[List of most luminous stars|luminous stars]] known in the [[Milky Way]]. It appears [[garnet]] red and is given the [[stellar classification|spectral class]] of M2&nbsp;Ia. Since 1943, the [[spectrum]] of this star has served as one of the stable anchor points by which other stars are classified.<ref name=baas25_1319/>
+
+==History==
+The deep red color of Mu Cephei was noted by [[William Herschel]], who described it as "a very fine deep garnet colour, such as the [[Variable star|periodical star]] [[Mira|&omicron; Ceti]]",<ref name=herschel1783/> and it was called ''Garnet sidus'' by [[Giuseppe Piazzi]] in his [[Star catalogue|catalogue]].<ref name=piazzi1814/> Later, it is thus commonly known as Herschel's "Garnet Star".<ref name=allen1899/>  An alternative name, ''Erakis'', used in [[Antonín Bečvář]]'s [[star catalogue]], is probably due to confusion with [[Mu Draconis]], which was previously called ''{{transl|ar|al-Rāqis}}'' {{IPA-ar|arˈraːqis|}} in Arabic.<ref name=laffitte2005/>
+
+In 1848, English astronomer [[John Russell Hind]] discovered that it was variable. This variability was quickly confirmed by German astronomer [[Friedrich Wilhelm Argelander]]. Almost continual records of the star's variability have been maintained since 1881.<ref name=jbas107_3_135/>
+
+==Properties==
+[[File:Star-sizes.jpg|300px|thumb|right|Relative sizes of the [[planets]] in the [[Solar System]] and several well-known [[stars]], including Mu Cephei.<br/>
+1. [[Mercury (planet)|Mercury]] < [[Mars]] < [[Venus]] < [[Earth]] <br/>
+2. [[Earth]] < [[Neptune]] < [[Uranus]] < [[Saturn]] < [[Jupiter]] <br/>
+3. [[Jupiter]] < [[Wolf 359]] < [[Sun]] < [[Sirius]] <br/>
+4. [[Sirius]] < [[Pollux (star)|Pollux]] < [[Arcturus]] < [[Aldebaran]] <br/>
+5. [[Aldebaran]] < [[Rigel]] < [[Antares]] < [[Betelgeuse]] <br/>
+6. [[Betelgeuse]] < Mu Cephei < [[VV Cephei A]] < [[VY Canis Majoris]].]]
+A very luminous red supergiant, Mu Cephei is one of the largest stars visible to the naked eye, and in the entire galaxy. It is best seen from the northern hemisphere from August to January.
+
+This is a [[runaway star]] with a [[peculiar velocity]] of {{nowrap|80.7 ± 17.7 km/s}}.<ref name=mnras410_1_190/> The distance to Mu Cephei is not very well known. The [[Hipparcos]] satellite was used to measure a parallax of {{nowrap|0.55 ± 0.20}} [[milliarcsecond]]s, which corresponds to an estimated distance of 1,333 - 2,857 [[parsec]]s. However, this value is close to the margin of error. A determination of the distance based upon a size comparison with [[Betelgeuse]] gives an estimate of {{nowrap|390 ± 140 parsecs}},<ref name=aaa436_1_317/> so it is clear that Mu Cephei is either a much larger star than Betelgeuse or much closer (and smaller and less luminous) than expected.
+
+The star is approximately 1000 times larger than our Sun's [[solar radius]], and were it placed in the Sun's position, its radius would reach between the orbit of [[Jupiter]] and [[Saturn]]. Mu Cephei could fit almost 1 billion Suns into its volume.
+
+Mu Cephei is a [[variable star]] and the prototype of the class of the [[Mu Cephei variable]]s. Its apparent brightness varies without recognizable pattern between magnitude +3.62 and +5 in a period of 2 to 2.5 years. Mu Cephei is visually nearly 100,000 times brighter than the Sun, with an absolute visible magnitude of M<sub>''v''</sub> = &minus;7.6. Combining its absolute visible brightness, its infrared radiation, and correcting for its [[interstellar extinction]] gives a luminosity of around 350,000 solar luminosities ([[bolometric magnitude]] about &minus;9.1), making it one of the most luminous stars known.
+
+Mu Cephei is nearing death. It has begun to [[nuclear fusion|fuse]] [[helium]] into [[carbon]], whereas a [[main sequence]] star fuses [[hydrogen]] into helium. The helium-carbon cycle shows that Mu Cephei is in the last phase of its life and may explode as a [[supernova]] 'soon' in astronomical terms, although this might not be for some millions of years.{{Citation needed|date=February 2010}} When a supergiant star becomes a supernova, it is destroyed, leaving behind a vast gaseous cloud and a small, dense remnant, which for a star as massive as Mu Cephei may be a [[black hole]]. Mu Cephei is currently an unstable [[star]], showing irregular variations in light output, temperature, and size.
+
+The [[photosphere]] of Mu Cephei has an estimated temperature of {{nowrap|3,690 ± 50 K}}. It may be surrounded by a shell extending out to a distance at least equal to 0.33 times the star's radius with a temperature of {{Nowrap|2,055 ± 25 K}}. This outer shell appears to contain molecular gases such as [[carbon monoxide|CO]], [[water|H<sub>2</sub>O]], and SiO.<ref name=aaa436_1_317/>
+
+Emissions from the star suggest the presence of a wide ring of dust and water with outer radius four times that of the star (i.e. 2,600 [[Solar radii]]) and inner boundary twice the radius of the star (1,300 [[Solar radii]]).<ref name=aaa540_2_99/> Placed in the position of our [[Sun]], its disk would span between 6 [[astronomical unit]]s (within [[Jupiter]]'s orbital zone) and 12 [[astronomical unit]]s (beyond [[Saturn]]'s orbit).<ref>Determined by substituting 1 solar radius = 0.0046491 astronomical units.</ref>
+
+The star is surrounded by a spherical shell of ejected material that extends outward to an angular distance of 6&Prime; with an expansion velocity of {{nowrap|10 km s<sup>&minus;1</sup>}}. This indicates an age of about 2000&ndash;3000 years for the shell. Closer to the star, this material shows a pronounced asymmetry, which may be shaped as a torus. The star currently has a mass loss rate of a few times 10<sup>&minus;7</sup> [[solar mass]]es per year.<ref name=apj685_1_L75/>
+
+==Footnotes==
+{{Reflist|group="foot"}}
+
+== See also ==
+* [[IC 1396]]
+*[[List of largest stars]]
+*[[List of most luminous stars]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=aaa323_L49>{{cite journal | author=Perryman, M. A. C. | coauthors=''et al.'' | title=The HIPPARCOS Catalogue | journal=[[Astronomy and Astrophysics]] | volume=323 | pages=L49–L52 | month=April | year=1997 | bibcode=1997A&A...323L..49P }}</ref>
+
+<ref name=aaa430_165>{{cite journal | author=Famaey, B. | coauthors=''et al.'' | title=Local kinematics of K and M giants from CORAVEL/Hipparcos/Tycho-2 data. Revisiting the concept of superclusters | journal=Astronomy and Astrophysics | volume=430 | issue=1 | pages=165–186 | year=2005 | month=January | doi=10.1051/0004-6361:20041272 | bibcode=2005A&A...430..165F |arxiv = astro-ph/0409579 }}</ref>
+
+<!-- <ref name=araa11_29>{{cite journal | author=Morgan, W. W.; Keenan, P. C. | title=Spectral Classification | journal=Annual Review of Astronomy and Astrophysics | volume=11 | issue=1 | page=29 | year=1973 | doi=10.1146/annurev.aa.11.090173.000333 | bibcode=1973ARA&A..11...29M }}</ref> -->
+
+<ref name=aaass34_1>{{cite journal | last=Nicolet | first=B. | title=Catalogue of homogeneous data in the UBV photoelectric photometric system | journal=Astronomy & Astrophysics Supplement Series | volume=34 | pages==1–49  | month=October | year=1978 | bibcode=1978A&AS...34....1N }}</ref>
+
+<ref name=simbad>{{cite web | title=V* mu. Cep -- Semi-regular pulsating Star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=%40157494 | accessdate=2010-10-29 }}</ref>
+
+<ref name=aaa540_2_99>{{Cite journal | first=Takashi | last=Tsuji | title=Water in Emission in the Infrared Space Observatory Spectrum of the Early M Supergiant Star μ Cephei| journal=The Astrophysical Journal Letters | volume=540| issue=2 | pages=99–102 | year=2000 | bibcode=2000ApJ...540L..99T | doi=10.1086/312879|arxiv = astro-ph/0008058 }}</ref>
+
+<ref name=herschel1783>{{cite book | last=Herschel | first=W. | title=Stars newly come to be visible | journal=[[Philosophical Transactions]] | publisher=the [[Royal Astronomical Society]] of London | year=1783 | page=257 }}</ref>
+
+<ref name=allen1899>{{cite book | last=Allen | first=R. H. | authorlink=Richard Hinckley Allen | title=[[Star Names: Their Lore and Meaning|Star-Names and Their Meanings]] | publisher=G. E. Stechert | year=1899 | page=158 }}</ref>
+
+<ref name=piazzi1814>{{cite book | editors=Piazzi, G. | year=1814 | title=Praecipuarum Stellarum Inerrantium Positiones Mediae Ineunte Saeculo XIX: ex Observationibus Habitis in Specula Panormitana ab anno 1792 ad annum 1813 | location=[[Palermo]] | page=159 }}</ref>
+
+<ref name=laffitte2005>{{cite book | author=Laffitte, R., | year=2005 | title=Héritages arabes: Des noms arabes pour les étoiles | edition=2<sup>éme</sup> revue et corrigée | publisher=Librairie Orientaliste Paul Geunthner / Les Cahiers de l'Orient | location=[[Paris]] | page=156, note 267 }}</ref>
+
+<ref name=jbas107_3_135>{{cite journal | author=Brelstaff, T.; Lloyd, C.; Markham, T.; McAdam, D. | title=The periods of MU Cephei | journal=Journal of the British Astronomical Association | volume=107 | issue=3 | pages=135–140 | month=June | year=1997 | bibcode=1997JBAA..107..135B }}</ref>
+
+<ref name=aaa436_1_317>{{cite journal | last=Perrin | first=G. | coauthors=''et al.'' | year=2005 | title=Study of molecular layers in the atmosphere of the supergiant star &micro; Cep by interferometry in the K band | journal=Astronomy & Astrophysics | volume=436 | issue=1 | pages=317–324 | doi=10.1051/0004-6361:20042313 | bibcode=2005A&A...436..317P|arxiv = astro-ph/0502415 }}</ref>
+
+<ref name=apj685_1_L75>{{cite journal | author=de Wit, W. J. | coauthors=''et al.'' | title=A Red Supergiant Nebula at 25 μm: Arcsecond-Scale Mass-Loss Asymmetries of μ Cephei | journal=The Astrophysical Journal | volume=685 | issue=1 | pages=L75–L78 | month=September | year=2008 | doi=10.1086/592384 | bibcode=2008ApJ...685L..75D |arxiv = 0808.1341 }}</ref>
+
+<ref name=baas25_1319>{{citation | last1=Garrison | first1=R. F. | title=Anchor Points for the MK System of Spectral Classification | journal=Bulletin of the American Astronomical Society | volume=25 | page=1319 | month=December | year=1993 | bibcode=1993AAS...183.1710G | url=http://www.astro.utoronto.ca/~garrison/mkstds.html | accessdate=2012-02-04 }}</ref>
+
+<ref name=mnras410_1_190>{{citation | last1=Tetzlaff | first1=N. | last2=Neuhäuser | first2=R. | last3=Hohle | first3=M. M. | title=A catalogue of young runaway Hipparcos stars within 3 kpc from the Sun | journal=Monthly Notices of the Royal Astronomical Society | volume=410 | issue=1 | pages=190–200 | month=January | year=2011 | doi=10.1111/j.1365-2966.2010.17434.x | bibcode=2011MNRAS.410..190T | postscript=. |arxiv = 1007.4883 }}</ref>
+
+<ref name=levesqueetal2005>Table 4 in {{cite journal |title=The Effective Temperature Scale of Galactic Red Supergiants: Cool, but Not As Cool As We Thought |author=Emily M. Levesque, Philip Massey, K. A. G. Olsen, Bertrand Plez, Eric Josselin, Andre Maeder, and Georges Meynet |journal=The Astrophysical Journal |volume=628 |issue=2 |date=August 2005 |pages=973–985 |doi=10.1086/430901 |bibcode=2005ApJ...628..973L |arxiv=astro-ph/0504337 }}</ref>
+
+}}
+
+==External links==
+*{{cite web|title=V* mu. Cep|work=SIMBAD|url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=mu.+Cep|accessdate=15 December 2013}}
+*{{cite web|title=GARNET STAR (Mu Cephei)|work=Jim Kaler: Stars|url=http://stars.astro.illinois.edu/sow/garnet.html|accessdate=15 December 2013}}
+*{{cite web|title=Mu Cephei|work=AAVSO: Variable Star of the Season Archive|url=http://www.aavso.org/vsots_mucep|accessdate=15 December 2013}}
+<!--*[http://www.recordonline.com/archive/2004/09/20/cosmic29.htm Mu Cephei a grand red star] dead link-->
+*{{cite web|title=IC 1396|work=Matt Ben Daniel: Starmatt Astrophotography|url=http://starmatt.com/gallery/astro/ic1396.html|accessdate=15 December 2013}}
+*{{cite web|title=Garnet Star|work=Jumk.de Webprojects: Big and Giant Stars|url=http://jumk.de/astronomie/big-stars/garnet-star.shtml|accessdate=15 December 2013}}
+
+{| border= "1"
+|-
+| <<< 10. [[VV Cephei]]
+| 12. [[BI Cygni]] >>>
+|}
+{{Stars of Cepheus}}
+
+[[Category:Bayer objects|Cephei, Mu]]
+[[Category:Cepheus (constellation)]]
+[[Category:M-type supergiants]]
+[[Category:Semiregular variable stars]]
+[[Category:Stars with proper names]]
+[[Category:Supergiants]]
+[[Category:Objects within 10 kly of Earth]]

@@ -1,0 +1,62 @@
+{{Starbox begin
+| name = [[Variable star designation|R&nbsp;Leporis]]}}
+{{Starbox image
+| image = [[Image:R Leporis.png|250px]] 
+| caption=Location of R Leporis in the constellation Lepus. 
+}}
+{{Starbox observe
+| epoch = [[J2000.0]]
+| equinox = [[J2000.0]] ([[International Celestial Reference System|ICRS]])
+| constell = [[Lepus (constellation)|Lepus]]
+| ra = {{RA|04|59|36.3487}}<ref name=sb0>{{SIMBAD link|R+Lep|V* R Lep -- Variable Star of Mira Cet type}}, database entry, [[SIMBAD]].  Accessed on line November 19, 2009.</ref>
+| dec = {{DEC|−14|48|22.518}}<ref name=sb0 />
+| appmag_v=5.5&nbsp;to&nbsp;11.7<ref name=gcvs1>R Lep, database entry, [http://www.sai.msu.su/groups/cluster/gcvs/gcvs/iii/iii.dat The combined table of GCVS Vols I-III and NL 67-78 with improved coordinates, General Catalogue of Variable Stars], Sternberg Astronomical Institute, Moscow, Russia.  Accessed on line November 19, 2009.</ref>
+}}
+{{Starbox character
+| class = C7,6e(N6e)<ref name=gcvs1 />
+| b-v = +5.74<ref name=bsc2>[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&-source=V/50/catalog&recno=1607 HR 1607], database entry, The Bright Star Catalogue,  5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/Cat?V/50 V/50].  Accessed on line November 19, 2009.</ref>
+| r-i = +1.47<ref name=bsc2 />
+| variable = [[Mira variable|Mira (long-period)]]<ref name=gcvs1 />
+}}
+{{Starbox astrometry
+| radial_v = 32.4&nbsp;±&nbsp;2<ref name=sb0 />
+| prop_mo_ra = 7.51<ref name=sb0 />
+| prop_mo_dec = −4.27<ref name=sb0 />
+| parallax = 2.42
+| p_error = 1.02
+| parallax_footnote = <ref name=sb0 />
+| absmag_v=    2<ref>From apparent magnitude and parallax.</ref>
+}}
+{{Starbox detail
+|radius=500
+}}
+{{Starbox catalog
+| names=R&nbsp;Lep, AAVSO&nbsp;0455-14, [[Durchmusterung|BD]]−15&nbsp;915, [[Boss General Catalogue|GC]]&nbsp;6093, [[Henry Draper Catalogue|HD]]&nbsp;31996, [[Hipparcos Catalogue|HIP]]&nbsp;23203, [[Bright Star Catalogue|HR]]&nbsp;1607, IRC&nbsp;-10080, [[PPM Star Catalogue|PPM]]&nbsp;215123, RAFGL&nbsp;667, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;150058.<ref name=sb0 />}}
+{{Starbox reference
+| Simbad=R+Lep}}
+{{Starbox end}}
+
+'''R&nbsp;Leporis'''  ('''R&nbsp;Lep'''), sometimes called '''Hind's Crimson Star''',<ref name=allen /> is a well-known [[variable star]] in the constellation [[Lepus (constellation)|Lepus]], near its border with [[Eridanus (constellation)|Eridanus]].   It is designated '''"R"''' in the chart to the right.<ref name=sb0 />
+
+It is a [[carbon star]] which appears distinctly red. It is named after famous British astronomer [[John Russell Hind|J. R. Hind]], who observed it in 1845.  Its [[apparent magnitude]] varies from +5.5 to +11.7 with a period of 418&ndash;441 days; recent measurements give a period of 427.07 days.  There may be a secondary period of 40 years.<ref name=bsc2 />
+
+R Leporis has often been reported as an intense smoky red color, although this is not pronounced when the star is near its maximum brightness. It is reddest when it is dimmest, which occurs every 14.5 months. During these periods it is a candidate for the most-visible reddest star, but this claim is questionable. The red coloration may be caused by carbon in the star's outer atmosphere filtering out the blue part of its [[visible light]] [[spectrum]].  The star's discoverer, Hind, reported that it appeared "like a drop of blood on a black field."<ref name=allen>p. 269, [http://books.google.com/books?id=5xQuAAAAIAAJ ''Star-names and their meanings''], Richard Hinckley Allen, New York: G. E. Stechert, 1899.</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.noao.edu/outreach/aop/observers/rleporis.html Best of the Advanced Observation Program: R Leporis]
+* [http://www.usatoday.com/tech/news/2004-01-30-nightsky_x.htm USA Today.com - NightSky: The Hare and the Dove]
+* [http://www.smokymtnastro.org/scraps/Jan2004.pdf Smoky Mountain Astronomical Society - Hind's Crimson Star: R Leporis]
+* [http://www.geody.com/geospot.php?world=space&ufi=23203&alc=hnd Geody Hinds Crimson Star]
+
+{{Stars of Lepus}}
+
+[[Category:C-type stars]]
+[[Category:Mira variables]]
+[[Category:Lepus (constellation)]]
+[[Category:Henry Draper Catalogue objects|031996]]
+[[Category:Hipparcos objects|023203]]
+[[Category:Objects named with variable star designations|Leporis, R]]
+[[Category:HR objects|1607]]

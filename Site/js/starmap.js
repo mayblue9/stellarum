@@ -20,8 +20,14 @@ var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
 
 var history = [];
 
-var current_star = false;
+// three states: sphere with
+
+
+var state = 'sphere';
+
 var centre_star = false;
+
+
 
 // General 3D rotation functions
 
@@ -136,19 +142,23 @@ function select_star(star, spintime) {
 
     var start, finish;
 
+    if( state != 'sphere' ) {
+
+    }
+
     if( centre_star ) {
         start = [ centre_star.ra, centre_star.dec ];
     } else {
         start = [ 0, 0 ];
     }
-
+    
     finish = [ star.ra, star.dec ];
-
+    
     var great_circle = d3.geo.interpolate(
 	    [ rad2deg(-start[0]), rad2deg(-start[1]) ],
 	    [ rad2deg(-finish[0]), rad2deg(-finish[1]) ]
     );
-
+    
     // tween_f = tween factory: for each star returns a tween
     // function t => star datum
     
@@ -158,6 +168,7 @@ function select_star(star, spintime) {
         }
     };
 
+    state = 'sphere';
     centre_star = star;
     
     $("div#about").hide();
@@ -174,6 +185,49 @@ function select_star(star, spintime) {
 	});
     
 }
+
+//// renderplot(plot_f);
+//
+// Transition all stars to a scatterplot - plot_f(d) takes a star and
+// resets its datum x, y, z.  Uses each star's initial x, y, z as the
+// starting point.
+
+
+function renderplot(plot_f, spintime) {
+
+    // tween_f = tween factory: for each star returns a tween
+    // function t => star datum
+    
+    console.log("renderplot");
+
+    var tween_f = function(d) {
+        var s = { "x": d.x, "y": d.y, "z": d.z };
+        var f = plot_f(d);
+        return d3.interpolate(s, f);
+    }
+
+    stars_transition(tween_f, spintime, function(e) {
+	    d3.select(this).each(function(d, i) {
+            var p3 = plot_f(d);
+            d.x = p3.x;
+            d.y = p3.y;
+            d.z = p3.z
+	    });
+    });
+
+}
+
+
+function testplot(d) {
+    return {
+        "x": 50 + d.magnitude * 40,
+        "y": 10 + (d.name.charCodeAt(0) - 65) * 30,
+        "z": 100
+    };
+}
+
+
+
 
 
 ///// Functions for displaying/hiding the star text
