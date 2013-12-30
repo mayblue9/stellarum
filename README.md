@@ -8,3 +8,5 @@ to get the astronomical coordinates, apparent magnitude and stellar category (co
 
 Then I used the excellent d3 Javascript visualisation toolkit to render the stars in a stylised celestial
 sphere.
+
+The current demo is hosted here: [http://spikelynch.github.io/stellarum/](http://spikelynch.github.io/stellarum/)
