@@ -15,10 +15,14 @@ Word lookups and utilities for Stellarum
 use strict;
 use base qw(Exporter);
 
-@EXPORT_OK = qw(greek superscript constellation);
+use Log::Log4perl;
+
+our @EXPORT_OK = qw(greek superscript constellation);
+
+our $logger = Log::Log4perl->get_logger('Stellarum.Words');
 
 
-my %GREEK = (
+our %GREEK = (
     'α' => 'alpha',
     'β' => 'beta',
     'γ' => 'gamma',
@@ -45,7 +49,7 @@ my %GREEK = (
     'ω' => 'omega'
 );
 
-my %SUPERSCRIPT = (
+our %SUPERSCRIPT = (
     '¹' => 1,
     '²' => 2,
     '³' => 3,
@@ -54,7 +58,7 @@ my %SUPERSCRIPT = (
 # Convert constellations from genitive to nominative for the
 # filter control
 
-my %CONSTELLATIONS = (
+our %CONSTELLATIONS = (
     'Andromedae'              => 'Andromeda',
     'Aquarii'                 => 'Aquarius',
     'Aquilae'                 => 'Aquila',
@@ -152,8 +156,8 @@ sub superscript {
 sub constellation {
     my ( $genitive ) = @_;
 
-    if( $CONSTELLATION{$genitive} ) {
-        return $CONSTELLATION{$genitive};
+    if( $CONSTELLATIONS{$genitive} ) {
+        return $CONSTELLATIONS{$genitive};
     } else {
         $logger->warn("Unknown genitive constellation $genitive");
         return undef;
