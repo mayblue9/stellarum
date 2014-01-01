@@ -63,7 +63,7 @@ sub new {
 
     bless $self, $class;
 
-    $self->{log} = Log::Log4perl->get_logger($class);
+    $self->{log} = Log::Log4perl->get_logger('stellarum.star');
     
     if( $self->{bayer} =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
         
@@ -93,7 +93,7 @@ sub new {
 }
 
 
-=item update_parameters(parameters => $href)
+=item set(parameters => $href)
 
 Takes a hash of raw parameters from Wikipedia and tries to masssage them
 into a usable form for the spreadsheet.  Parameters returned are:
@@ -107,23 +107,47 @@ into a usable form for the spreadsheet.  Parameters returned are:
 =cut
 
 
+sub set { 
+    my ( $self, %params ) = @_;
+
+    my $p = $params{parameters};
+
+    if( $p->{ra} && $p->{dec} ) {
+        $self->astro_coords(ra => $p->{ra}, dec => $p->{dec});
+    }
+
+    for my $field ( qw(wikistatus class mass appmag_v absmag_v) ) {
+        $self->{$field} = $p->{$field};
+        $self->{log}->trace("Got $field = $p->{$field}");
+    }
+
+    
+
+}
 
 
 
 
+=item astro_coords(ra => [ H, M, S ], dec => [H, M, S]);
 
-# Convert ra/dec in sexagesimal (HMS) to radians
+Convert ra/dec in sexagesimal (HMS) to radians and store it as the
+stars's ra and dec.
 
-# ( $ra, $dec ) = astro_coords( [ H, M, S ], [ H, M, S ]);
+Because the spreadsheet doesn't allow -0 degrees as a value, we use
+the string 'neg'.  See for example HEZE.
+
+=cut
+
 
 sub astro_coords {
-    my ( $self, $ra_c, $dec_c ) = @_;
+    my ( $self, %params ) = @_;
+
+    my $ra_c = $params{ra};
+    my $dec_c = $params{dec};
 
     my $ra = join(':', @$ra_c);
     my $dec;
     
-    # Because the spreadsheet doesn't allow -0 degrees as a value,
-    # we use the string 'neg'.  See for example HEZE.
 
     if( $dec_c->[0] eq 'neg' ) {
         $self->{log}->debug("Negative zero in declination");
@@ -142,7 +166,12 @@ sub astro_coords {
     
     if( $coords ) {
         my ( $r, $d ) = $coords->radec();
-        return ( $r->radians(), $d->radians() );
+
+        $self->{ra} = $r->radians();
+        $self->{dec} = $d->radians();
+
+        return ( $self->{ra}, $self->{dec} );
+
     } else {
         $self->{log}->warn("Couldn't construct Astro::Coords object");
         eval {

@@ -82,9 +82,9 @@ my $n = 0;
 for my $star ( @$stars ) {
     my $wiki_params = wiki_look(dir => $FILEDIR, star => $star);
     if( $wiki_params ) {
-        $star->update(parameters => $wiki_params);
+        $star->set(parameters => $wiki_params);
     }
-    $log->debug("$star->{name} $wiki->{wikistatus}");
+    $log->debug("$star->{name} $wiki_params->{wikistatus}");
     if( $MAX_STARS && $n > $MAX_STARS ) {
         $log->info("Reached MAX_STARS $MAX_STARS");
         last;

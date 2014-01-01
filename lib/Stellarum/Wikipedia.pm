@@ -155,15 +155,9 @@ sub parse_wiki {
         }
     }
 
-    # this processing is done in Stellarum::Star now.
-   
-#    if( $ra && $dec ) {
-#        my @radians = astro_coords($ra, $dec);
-#        if( @radians ) {
-#            $values->{ra} = $radians[0];
-#            $values->{dec} = $radians[1];
-#        }
-#    }
+    $values->{ra} = $ra;
+    $values->{dec} = $dec;
+
     
     for my $field ( qw(class mass appmag_v absmag_v) ) {
         if( $text =~ /\|\s*$field$VALUE_RE/ms ) {
