@@ -29,6 +29,13 @@ use Log::Log4perl;
 
 use Stellarum::Words qw(greek constellation superscript);
 
+our @FIELDS = qw(
+    absmag_v appmag_v class constell dist_ly dist_pc gravity
+    luminosity mass metal_fe parallax radial_v radius rotational_velocity
+    temperature variable
+);
+
+
 =head1 METHODS
 
 =over 4
@@ -65,8 +72,9 @@ sub new {
 
     $self->{log} = Log::Log4perl->get_logger('stellarum.star');
     
+    $self->{log}->trace("New star $self->{name}");
+
     if( $self->{bayer} =~ /([^\s]*)\s+(\w+[\w\s]*)/ ) {
-        
         $self->{constellation} = $2;
         my $number = $1;
         
@@ -75,6 +83,7 @@ sub new {
             my $greek = greek($c);
             my $suffix = undef;
             if( $greek ) {
+                $self->{log}->trace("Greek match for '$c' - '$greek'");
                 if( length($number) > 1 ) {
                     my $super = substr($number, -1, 1);
                     $suffix = superscript($super);
@@ -86,8 +95,12 @@ sub new {
                     $self->{html} .= "<super>$suffix</super>";
                 }
                 $self->{html} .= " $self->{constellation}";
+            } else {
+                $self->{log}->warn("$self->{id} $self->{name} No greek match for '$c'");
             }
         }
+    } else {
+        $self->{log}->warn("$self->{id} $self->{name} Mismatch bayer");
     }
     return $self;
 }
@@ -116,12 +129,16 @@ sub set {
         $self->astro_coords(ra => $p->{ra}, dec => $p->{dec});
     }
 
-    for my $field ( qw(wikistatus class mass appmag_v absmag_v) ) {
-        $self->{$field} = $p->{$field};
-        $self->{log}->trace("Got $field = $p->{$field}");
-    }
+    $self->{wikistatus} = $p->{wikistatus};
+    $self->{stars} = $p->{stars};
 
-    
+    my $i = 0;
+    for my $s ( @{$self->{stars}} ) {
+        for my $f ( @FIELDS ) {
+            $self->{"s${i}_${f}"} = $s->{$f};
+        }
+        $i++;
+    }
 
 }
 
@@ -148,7 +165,6 @@ sub astro_coords {
     my $ra = join(':', @$ra_c);
     my $dec;
     
-
     if( $dec_c->[0] eq 'neg' ) {
         $self->{log}->debug("Negative zero in declination");
         $dec = join(':', '-0', $dec_c->[1], $dec_c->[2]);

@@ -7,17 +7,37 @@ use utf8;
 use Encode qw(encode decode);
 use feature 'unicode_strings';
 use charnames ':full';
+use Data::Dumper;
 use WWW::Wikipedia;
 
 use base qw(Exporter);
 
 our @EXPORT_OK = qw(wiki_look);
 
-our $log = Log::Log4perl->get_logger('Stellarum::Wikipedia');    
+our $log = Log::Log4perl->get_logger('stellarum.wikipedia');    
 
 our $MAX_REDIRECTS = 5;
 
+our $VALUE_RE = qr/\s*=\s*([^<\|\}]+).*$/ms;
 
+# All of the non-RA/DEC fields to try to grep out of the text
+
+our @FIELDS = qw(
+    absmag_v appmag_v class constell dist_ly dist_pc gravity
+    luminosity mass metal_fe parallax radial_v radius rotational_velocity
+    temperature variable
+);
+
+# fields which have multiple-system suffixes
+
+our @SUFFIX_FIELDS = qw(
+    absmag_v appmag_v class luminosity radius temperature
+);
+
+# The suffixes.  Having surveyed the wikifiles, these are the only values
+# for any of the fields, so we can just loop through them to fold them
+
+our @SUFFIXES = qw(1 2 3 _a _b _c);
 
 sub wiki_look {
     my %params = @_;
@@ -140,8 +160,6 @@ sub parse_wiki {
     
     # my $ANGLE_RE = qr/([\N{EN DASH}+-]?[0-9]+)\|([0-9]+)\|(\d+\.?\d*)/;
     
-    my $VALUE_RE = qr/\s*=\s*([^<\|\}]+).*$/ms;
-    
     
     my $ra = parse_angle(text => $text, coord => 'ra');
     my $dec = parse_angle(text => $text, coord => 'dec');
@@ -158,16 +176,91 @@ sub parse_wiki {
     $values->{ra} = $ra;
     $values->{dec} = $dec;
 
+    my $fields = get_fields($text);
+
+    my $stars = [];
+  
+    for my $f ( @FIELDS ) {
+        
+        if( ! $fields->{$f} ) {
+            $log->debug("Missing field $f");
+        } else {
+            my $n = scalar @{$fields->{$f}};
+            for my $i ( 0 .. $n - 1 ) {
+                $stars->[$i]{$f} = $fields->{$f}[$i];
+            }
+        }
+    }
+
+    $values->{stars} = $stars;
+
+    return $values;
+}
+
+
+sub get_fields {
+    my ( $text ) = @_;
+
+    my @lines = split(/\n/, $text);
+
+    $log->trace("grepping " . scalar(@lines) . " lines");
     
-    for my $field ( qw(class mass appmag_v absmag_v) ) {
-        if( $text =~ /\|\s*$field$VALUE_RE/ms ) {
-            $values->{$field} = $1;
-            chomp $values->{$field};
+    my $all = {};
+
+    for my $line ( @lines ) {
+        if( $line =~ /\|\s*(\w*)$VALUE_RE$/ ) {
+            my ( $field, $value ) = ( $1, $2 );
+            push @{$all->{$field}}, $value;
         }
     }
     
-    return $values;
+    return collate_fields($all);
+
 }
+
+
+sub collate_fields {
+    my ( $all ) = @_;
+
+    # fold suffix fields
+
+    for my $sf ( @SUFFIX_FIELDS ) {
+        if( $all->{$sf} ) {
+            my $folded = [ @{$all->{$sf}} ];
+            for my $s ( @SUFFIXES ) {
+                my $field = $sf . $s;
+                if( $all->{$field} ) {
+                    push @$folded, @{$all->{$field}};
+                    $log->trace("Folded $field => $sf");
+                    delete $all->{$field};
+                }
+            }
+            $all->{$sf} = $folded;
+        }
+    }
+
+    my $collated = {};
+
+    for my $field ( @FIELDS ) {
+        if( $all->{$field} ) {
+            $collated->{$field} = $all->{$field};
+        }
+    }
+
+    return $collated;
+}
+
+
+
+sub dump_fields {
+    my ( $fields ) = @_;
+
+    for my $f ( sort keys %$fields ) {
+        $log->trace(sprintf('%10s', $f) . ' = ' . join(', ', @{$fields->{$f}}));
+    }
+
+}
+
 
 
 
@@ -185,8 +278,10 @@ sub parse_angle {
     # Standardise the negative signs in declinations, and remove
     # +
 
-    $text =~ s/(\N{MINUS SIGN}|\N{EN DASH}|&minus;)/-/g;
-    $text =~ s/\+//g;
+#    $text =~ s/(\N{MINUS SIGN}|\N{EN DASH}|&minus;)/-/g;
+#    $text =~ s/\+//g;
+
+    $text = fix_neg($text);
 
     my $ANGLE_RE = qr/([^|]+)\|([^|]+)\|([^\}]+)\}\}/;
 
@@ -222,6 +317,20 @@ sub parse_angle {
         }
     }
     return $values;
+}
+
+
+sub fix_neg {
+    my ( $val ) = @_;
+
+    $val =~ s/(\N{MINUS SIGN}|\N{EN DASH}|&minus;)/-/g;
+    $val =~ s/\+//g;
+
+    if( $val =~ /^(.*)(\N{PLUS-MINUS SIGN}|±)/ ) {
+        $log->info("Removing plus-minus sign: $val => $1");
+        $val = $1;
+    }
+    return $val;
 }
 
 1;

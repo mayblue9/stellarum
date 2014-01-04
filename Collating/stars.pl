@@ -337,6 +337,7 @@ sub parse_tweet {
             my $greek = undef;
             my $suffix = undef;
             if( $GREEK{$c} ) {
+                $log->debug("GREEK! $c => $GREEK{$c}");
                 $greek = $GREEK{$c};
                 if( length($number) > 1 ) {
                     my $super = substr($number, -1, 1);

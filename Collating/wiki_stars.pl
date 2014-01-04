@@ -33,11 +33,12 @@ my $DEFAULT_CLASS = 'A';
 my $FILEDIR = './Wikifiles/';
 
 my @FIELDS = qw(
-    id name designation greek constellation
+    id name constellation
     search wikistatus
     ra dec
-    appmag_v absmag_v class mass radius distance
 );
+
+my @STARFIELDS = @Stellarum::Wikipedia::FIELDS;
 
 my $INFILE = 'fsvo.js';
 
@@ -79,12 +80,22 @@ $log->info("Getting star data from Wiki/wikicache");
 
 my $n = 0;
 
+my $collect = {};
+
+my $nmult = 0;
+
 for my $star ( @$stars ) {
+    $log->debug("Star $star->{name} $star->{wiki}");
     my $wiki_params = wiki_look(dir => $FILEDIR, star => $star);
     if( $wiki_params ) {
         $star->set(parameters => $wiki_params);
     }
-    $log->debug("$star->{name} $wiki_params->{wikistatus}");
+
+    my $nm = scalar(@{$star->{stars}});
+    if( $nm > $nmult ) {
+        $nmult = $nm;
+    }
+
     if( $MAX_STARS && $n > $MAX_STARS ) {
         $log->info("Reached MAX_STARS $MAX_STARS");
         last;
@@ -92,11 +103,28 @@ for my $star ( @$stars ) {
     $n++;
 }
 
+$log->info("Maximum stellar parameter sets in one record = $nmult");
+
+my @fields = @FIELDS;
+
+for my $i ( 0 .. ( $nmult - 1) ) {
+    for my $f ( @STARFIELDS ) {
+        push @fields, "s${i}_${f}";
+    }
+}
+
+
+
 write_csv(
     file => $OUTFILE,
-    fields => \@FIELDS,
+    fields => \@fields,
     records => $stars
 );
+
+for my $field ( sort keys %$collect ) {
+    my @stars = keys %{$collect->{$field}};
+    $log->debug(sprintf("%25s", $field) . ': ' . scalar(@stars));
+}
 
 
 

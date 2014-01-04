@@ -3,14 +3,22 @@ Notes on editing
 
 More parameters -
 
-* absolute magnitude
-* detailed stellar class
-* mass
-* radius
-* distance
-
-
-
+absmag_v  - suffixes: 2, _a, _b, _c, _system
+appmag_v  - suffixes: 1, 2, 3, _a, _b, _c, _system
+class               : 1, 2, _a, _b, _c, _system
+constell
+dist_ly
+dist_pc
+gravity
+luminosity          : 2, _a
+mass                : 2, _a, _b, _c
+metal_fe
+parallax
+radial_v
+radius              : 2, _a, _b, _c
+rotiational_velocity
+temperature         : 2, _a, _b, _c
+variable:
 
 -------------
 

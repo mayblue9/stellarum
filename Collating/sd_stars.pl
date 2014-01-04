@@ -62,6 +62,7 @@ my $data = decode_json($json);
 
 my $stars = stars_from_tweets(tweets => $data->{tweets});
 
+
 my $outstars = [];
 
 $log->info("Getting star data from www.stellar-database.com");

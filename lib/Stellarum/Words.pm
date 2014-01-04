@@ -14,6 +14,10 @@ Word lookups and utilities for Stellarum
 
 use strict;
 use base qw(Exporter);
+use utf8;
+use Encode qw(encode decode);
+use feature 'unicode_strings';
+use charnames ':full';
 
 use Log::Log4perl;
 
