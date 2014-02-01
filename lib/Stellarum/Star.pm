@@ -140,6 +140,15 @@ sub set {
         $i++;
     }
 
+    my $hascat = 'no';
+    for my $cat ( qw(Hipparcos Draper BrightStar) ) {
+        $self->{$cat} = $p->{catalogues}{$cat};
+        if( $self->{$cat} ) {
+            $hascat = 'yes';
+        }
+    }
+    $self->{hascat} = $hascat;
+
 }
 
 

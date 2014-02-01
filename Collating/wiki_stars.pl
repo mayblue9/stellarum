@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
-# Parses wikipedia entries for stellar parameters.  Separated out from
-# the main stars.pl script, which now uses a parameters spreadsheet as its
-# source of data.
+# Takes the twitter stream as the source for star IDs, looks up their
+# wikipedia entry to find catalogue numbers, then match this against the
+# stellar database for parameters
 
 use lib $ENV{STELLARUM_LIB};
 
@@ -36,13 +36,14 @@ my @FIELDS = qw(
     id name constellation
     search wikistatus
     ra dec
+    Hipparcos Draper BrightStar hascat
 );
 
 my @STARFIELDS = @Stellarum::Wikipedia::FIELDS;
 
 my $INFILE = 'fsvo.js';
 
-my $OUTFILE = 'new_wiki_stars.csv';
+my $OUTFILE = 'star_catalogues.csv';
 
 
 Log::Log4perl::init($LOGCONF);
@@ -93,6 +94,7 @@ for my $star ( @$stars ) {
 
     my $nm = scalar(@{$star->{stars}});
     if( $nm > $nmult ) {
+        $log->info("$star->{name}: $nm");
         $nmult = $nm;
     }
 
@@ -114,6 +116,8 @@ for my $i ( 0 .. ( $nmult - 1) ) {
 }
 
 
+
+$log->debug("Writing to $OUTFILE");
 
 write_csv(
     file => $OUTFILE,

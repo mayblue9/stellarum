@@ -39,6 +39,35 @@ our @SUFFIX_FIELDS = qw(
 
 our @SUFFIXES = qw(1 2 3 _a _b _c);
 
+# Catalogue number regexps.  For each catalogue, try regexps in order
+# until one succeeds
+
+our %CATALOGUES = (
+    Hipparcos => [
+        qr/\[\[Hipparcos catalogue\|HIP\]\](&nbsp;|\s*)(\d+)/,
+        qr/(HIP)\s*(\d+)/,
+        qr/(Hipparcos)[^0-9]*(\d+)/
+    ],
+    Draper => [
+        qr/\[\[Henry Draper Catalogue\|HD\]\](&nbsp;|\s*)(\d+)/,
+        qr/(HD)\s*(\d+)/,
+        qr/(Henry Draper)[^0-9]*(\d+)/
+    ],
+    BrightStar => [
+        qr/\[\[Bright Star Catalogue\|HR\]\](&nbsp;|\s*)(\d+)/,
+        qr/(HR)\s*(\d+)/,
+        qr/(Bright Star)[^0-9]*(\d+)/
+    ]
+);
+
+
+
+
+
+
+
+
+
 sub wiki_look {
     my %params = @_;
 
@@ -183,7 +212,7 @@ sub parse_wiki {
     for my $f ( @FIELDS ) {
         
         if( ! $fields->{$f} ) {
-            $log->debug("Missing field $f");
+#            $log->debug("Missing field $f");
         } else {
             my $n = scalar @{$fields->{$f}};
             for my $i ( 0 .. $n - 1 ) {
@@ -193,6 +222,10 @@ sub parse_wiki {
     }
 
     $values->{stars} = $stars;
+
+    $values->{catalogues} =  find_catalogue_numbers(
+        text => $text
+        );
 
     return $values;
 }
@@ -332,5 +365,26 @@ sub fix_neg {
     }
     return $val;
 }
+
+sub find_catalogue_numbers {
+    my %params = @_;
+
+    my $text = $params{text};
+
+    my $catns = {};
+
+  CAT: for my $cat ( keys %CATALOGUES ) {
+        for my $re ( @{$CATALOGUES{$cat}} ) {
+            if( $text =~ /$re/i ) {
+                $catns->{$cat} = $2;
+                $log->debug("Matched cat $cat - $re - $catns->{$cat}");
+                next CAT;
+            }
+        }
+    }
+    return $catns;
+}
+
+
 
 1;

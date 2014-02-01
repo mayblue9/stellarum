@@ -1,6 +1,20 @@
 Notes on editing
 ----------------
 
+The HYG database has fairly clean stellar parameters for stars from 
+a number of big stellar catalogues:  http://www.astronexus.com/node/34
+
+Need to grep the Hipparcos and HD catalogue IDs from the wikifiles, then
+use these to match against values in the HYG CSV file.
+
+
+
+
+
+
+
+
+
 More parameters -
 
 absmag_v  - suffixes: 2, _a, _b, _c, _system
