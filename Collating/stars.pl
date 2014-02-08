@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-# Read the JSON archive of FSVO tweets for stars, and look them up in
-# Wikipedia to get coordinates and other metadata
+# This script takes the JSON tweets and the definitive stellar parameters
+# file, and writes out the JSON stars file for the visualiser.
 
 use strict;
 use utf8;
@@ -37,6 +37,7 @@ my @FIELDS = qw(
     ra1 ra2 ra3 dec1 dec2 dec3 ra dec
     appmag_v class mass radius
     text xrefs
+    distance appmag absmag spectrum colourindex
 );
 
 my %GREEK = (
@@ -155,10 +156,10 @@ Log::Log4perl::init($LOGCONF);
 my $log = Log::Log4perl->get_logger('stellarum');
 
 my $INFILE = 'fsvo.js';
-my $PARAMETERS = 'star_parameters.csv';
+my $PARAMETERS = 'new_parameters.csv';
 
-my $CSVOUT = 'stars.csv';
-my $JSONOUT = 'stars.js';
+my $CSVOUT = 'stars_new.csv';
+my $JSONOUT = 'stars_new.js';
 
 my $EXTRA_JSON = <<EOJS;
 
@@ -216,8 +217,9 @@ if( $USE_WIKI ) {
     $log->info("Getting star data from spreadsheet: $PARAMETERS");
 
     my @fields = qw(
-       constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec appmag_v class
+       constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec 
        text xrefs
+       appmag absmag spectrum distance colourindex
     );
 
     # NOTE: newids now start with 0, not 1, so that they correspond
@@ -735,7 +737,7 @@ sub write_json {
 
     for my $star ( @$stars ) {
         if ( defined $star->{ra} ) {
-            my $class = uc(substr($star->{class}, 0, 1));
+            my $class = uc(substr($star->{spectrum}, 0, 1));
             if ( $class !~ /$CLASS_RE/ ) {
                 $log->warn("Bad class $class for $star->{id} $star->{name}, forced A");
                 $class = $DEFAULT_CLASS;
@@ -755,12 +757,16 @@ sub write_json {
                 constellation => $const,
                 wiki => $star->{wiki},
                 html => $star->{html},
-                magnitude => $star->{appmag_v},
+                magnitude => $star->{appmag},
                 ra => $star->{ra} + 0,
                 dec => $star->{dec} + 0,
                 coords => $coords,
                 vector => unit_vec(star => $star),
                 text => $star->{text},
+                spectrum => $star->{spectrum},
+                distance => $star->{distance},
+                absmagnitude => $star->{absmag},
+                colourindex => $star->{colourindex},
                 class => $class
             };
 

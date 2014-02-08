@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 
-# Takes the twitter stream as the source for star IDs, looks up their
-# wikipedia entry to find catalogue numbers, then match this against the
-# stellar database for parameters
+# This script retrieves wikipedia data for the star list.  Now includes
+# the Hipparcos and Henry Draper numbers, which are used to get consistent
+# magnitude, stellar class and distance parameters from the big catalogue
+# file.
 
 use lib $ENV{STELLARUM_LIB};
 
