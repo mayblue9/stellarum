@@ -30,6 +30,7 @@ sub lookup {
 
     for my $cat ( 'hip', 'hd' ) {
         if( $params{$cat} && $self->{$cat}{$params{$cat}} ) {
+            $log->debug("Looking up catalogue $cat: $params{$cat}");
             return $self->{$cat}{$params{$cat}};
         }
     }

@@ -8,8 +8,7 @@ Stellarum::Star
 
 =head1 DESCRIPTION
 
-Represents the parameters and name of a star system. A star can be
-binary or multiple.
+Represents the parameters and name of a star system. 
 
 =cut
 use strict;
@@ -29,11 +28,13 @@ use Log::Log4perl;
 
 use Stellarum::Words qw(greek constellation superscript);
 
-our @FIELDS = qw(
-    absmag_v appmag_v class constell dist_ly dist_pc gravity
-    luminosity mass metal_fe parallax radial_v radius rotational_velocity
-    temperature variable
-);
+# our @FIELDS = qw(
+#     absmag_v appmag_v class constell dist_ly dist_pc gravity
+#     luminosity mass metal_fe parallax radial_v radius rotational_velocity
+#     temperature variable
+# );
+
+our @FIELDS = qw(appmag absmag distance spectrum colourindex);
 
 
 =head1 METHODS
@@ -130,15 +131,11 @@ sub set {
     }
 
     $self->{wikistatus} = $p->{wikistatus};
-    $self->{stars} = $p->{stars};
 
-    my $i = 0;
-    for my $s ( @{$self->{stars}} ) {
-        for my $f ( @FIELDS ) {
-            $self->{"s${i}_${f}"} = $s->{$f};
-        }
-        $i++;
+    for my $field ( @FIELDS ) {
+        $self->{$field} = $p->{$field};
     }
+
 
     my $hascat = 'no';
     for my $cat ( qw(Hipparcos Draper BrightStar) ) {
