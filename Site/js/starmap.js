@@ -143,7 +143,8 @@ function select_star(star, spintime) {
     var start, finish;
 
     if( state != 'sphere' ) {
-
+        select_star_from_plot(star, spintime);
+        return;
     }
 
     if( centre_star ) {
@@ -186,6 +187,14 @@ function select_star(star, spintime) {
     
 }
 
+//// select_star_from_plot(star, spintime)
+//
+// Slightly tweaked version for going to the sphere from a non-sphere
+// layout (and thus doesn't need the complicated d3.geo interpolation stuff
+
+
+
+
 //// renderplot(plot_f);
 //
 // Transition all stars to a scatterplot - plot_f(d) takes a star and
@@ -222,6 +231,29 @@ function testplot(d) {
     return {
         "x": 50 + d.magnitude * 40,
         "y": 10 + (d.name.charCodeAt(0) - 65) * 30,
+        "z": 100
+    };
+}
+
+// absmag (-10.9 to 14) - colourindex ( -0.274 - 2.994 )
+
+function test_hr_plot(d) {
+    return {
+        "x": 100 + d.colourindex * 240,
+        "y": 360 + d.absmagnitude * 21,
+        "z": 100
+    };
+}
+
+
+// distance from Sol
+
+// colourindex ( -0.274 - 2.994 )
+
+function test_hr_plot(d) {
+    return {
+        "x": 100 + d.colourindex * 240,
+        "y": 360 + d.absmagnitude * 21,
         "z": 100
     };
 }
