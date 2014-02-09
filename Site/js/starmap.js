@@ -18,6 +18,15 @@ var RFACTOR = .9;
 var CURSOR_RADIUS = 13;
 var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
 
+var DOMAINS = {
+    "ra": { "min": 0, "max": 6.283 },
+    "dec": { "min": -1.57, "max": 1.57 },
+    "magnitude": { "min": -1.44, "max": 12.37 },
+    "absmagnitude": { "min": -11, "max": 14 },
+    "distance": { "min": 0, "max": 100 },
+    "colourindex": { "min": -0.274, "max": 2.994 }
+};
+
 var history = [];
 
 // three states: sphere with
@@ -202,11 +211,15 @@ function select_star(star, spintime) {
 // starting point.
 
 
-function renderplot(plot_f, spintime) {
+function renderplot(xparm, yparm, xrange, yrange) {
 
     // tween_f = tween factory: for each star returns a tween
     // function t => star datum
     
+    var spintime = 1000;
+    
+    var plot_f = make_plot_f(xparm, yparm, xrange, yrange);
+
     console.log("renderplot");
 
     var tween_f = function(d) {
@@ -224,6 +237,32 @@ function renderplot(plot_f, spintime) {
 	    });
     });
 
+}
+
+
+function make_plot_f(xparm, yparm, xrange, yrange) {
+    var xd = DOMAINS[xparm];
+    var yd = DOMAINS[yparm];
+    console.log(xparm + ": " + xd);
+    console.log(yparm + ": " + yd);
+    var xscale = d3.scale.linear()
+        .domain([xd.min, xd.max])
+        .range([10, xrange - 10]);
+    var yscale = d3.scale.linear()
+        .domain([yd.min, yd.max])
+        .range([10, yrange - 10]);
+
+    return function(d) {
+//        console.log(xparm + " = " + d[xparm]);
+ //       console.log("scaled = " + xscale(d[xparm]));
+  //      console.log(yparm + " = " + d[yparm]);
+   //     console.log("scaled = " + yscale(d[yparm]));
+        return {
+            "x": xscale(d[xparm]),
+            "y": yscale(d[yparm]),
+            "z": 100
+        }
+    };
 }
 
 
@@ -257,6 +296,12 @@ function test_hr_plot(d) {
         "z": 100
     };
 }
+
+
+///// Calibration 
+
+
+
 
 
 

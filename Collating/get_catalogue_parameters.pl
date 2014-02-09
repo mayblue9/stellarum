@@ -7,11 +7,14 @@
 
 # http://www.astronexus.com/node/34
 
-# Original star paramters -> star_parameters.csv
+# Original star paramaters -> star_parameters.csv
 # Catalogue look up file which maps stellarum IDs to catalogue numbers
 #                         -> star_catalogues.csv
 # New file with parameters from the big database
 #                         -> new_parameters.csv
+
+# This is missing some stars (eg HIND'S CRIMSON STAR) which are in the
+# star_parameters.csv but not in the tweets for some reason.
 
 use lib $ENV{STELLARUM_LIB};
 
@@ -48,16 +51,8 @@ my @ORIGFIELDS = qw(
 
 my @NPFIELDS = qw(ra_cat dec_cat hip hd bs distance appmag absmag spectrum colourindex);
 
-my @CATFIELDS = qw(hip hd bs);
 
-my @OUTFIELDS = qw(
-    id name constellation search hip hd
-    ra dec ra_cat dec_cat
-    distance appmag absmag spectrum colourindex
-    text
-);        
-
-
+my @OUTFIELDS = ( @ORIGFIELDS, @NPFIELDS );
 
 my $LOGCONF = $ENV{STELLARUM_LOG} || die("Need to set a log4j conf file in \$STELLARUM_LOG");
 
@@ -68,6 +63,8 @@ my $log = Log::Log4perl->get_logger('stellarum.catalogue');
 $log->info("Loading catalogues...");
 
 my $catalogue = Stellarum::Catalogue->new(file => $CATALOGUE);
+
+
 
 my $starcat = starcats();
 
@@ -84,8 +81,6 @@ $log->info("Collating parameters...");
 STAR: for my $star ( @$starsorig ) {
     my $tag = "[$star->{id} $star->{name}]";
     $log->info($tag);
-    $log->debug(Dumper({star => $star}));
-#    $log->debug(Dumper({ starcat => $starcat->{$star->{id}} }));
     my $cats = $starcat->{$star->{name}};
  
     if( ! $cats ) {
@@ -111,7 +106,6 @@ STAR: for my $star ( @$starsorig ) {
             $star->{$pfield} = $starp->{$pfield};
         }
         $log->debug("$tag found match: $starp->{spectrum}");
-        $log->debug("Catalog lookup: " . Dumper({ starp => $starp }));
     } else {
         $log->error("$tag catalogue lookup failed");
     }

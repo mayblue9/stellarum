@@ -7,7 +7,7 @@
     <script src="js/jquery-1.10.2.min.js"></script>
     <script src="js/jquery-ui-1.10.3.custom.js"></script>
     <script src="js/purl.js"></script>
-    <script src="js/stars.js"></script>
+    <script src="js/stars_test.js"></script>
     <script src="js/starmap.js"></script>
 
     <link type="text/css" rel="stylesheet" href="css/starmap-theme/jquery-ui-1.10.3.custom.css" />
@@ -61,7 +61,7 @@
             at <a href="mailto:spike.lynch@gmail.com">spike.lynch@gmail.com</a>.</p>
       <p>The scripts used to generate the visualisation are on <a href="https://github.com/spikelynch/stellarum">Github</a>.</p>
     
-      <p>Stellarum release v 1.0 "Bok globule"</p>
+      <p>Stellarum release v 1.1 "Herbig-Haro Object"</p>
           
           <div class="hideabout">[x]</div>
       </div>
@@ -71,7 +71,28 @@
     </div>
       
     <div id="controls">
-        <input id="testviz" type="button" value="Test viz" name="testviz" />
+      Parameter plot
+        <p class="ctrlrow">X axis:
+            <select id="vizxparm">
+              <option value="dec">Dec.</option>
+              <option value="ra">RA</option>
+              <option value="distance">Distance</option>
+              <option value="magnitude">App mag.</option>
+              <option value="absmagnitude">Abs mag.</option>
+              <option selected="yes" value="colourindex">Colour</option>
+            </select>
+        </p>
+        <div class="ctrlrow">Y axis:
+            <select id="vizyparm">
+              <option value="dec">Dec.</option>
+              <option value="ra">RA</option>
+              <option value="distance">Distance</option>
+              <option value="magnitude">App mag.</option>
+              <option selected = "yes" value="absmagnitude">Abs mag.</option>
+              <option value="colourindex">Colour</option>
+            </select>
+        </div>
+        <div class="ctrlrow"><input id="testviz" type="button" value="Plot" name="testviz" /></div>
     </div>
 
 
@@ -156,8 +177,10 @@
       });
 
       $("input#testviz").on("click", function(e) {
+           var xparm = $("select#vizxparm").val();
+           var yparm = $("select#vizyparm").val();
  
-           renderplot(test_hr_plot, 1000);
+           renderplot(xparm, yparm, 800, 800);
       });
 
 

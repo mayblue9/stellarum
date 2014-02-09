@@ -28,16 +28,16 @@ use Log::Log4perl;
 
 use Stellarum::Words qw(greek constellation superscript);
 
-# our @FIELDS = qw(
-#     absmag_v appmag_v class constell dist_ly dist_pc gravity
-#     luminosity mass metal_fe parallax radial_v radius rotational_velocity
-#     temperature variable
-# );
+our @FIELDS = qw(
+     absmag_v appmag_v class constell dist_ly dist_pc gravity
+     luminosity mass metal_fe parallax radial_v radius rotational_velocity
+     temperature variable
+);
 
 my $CLASS_RE = qr/^[CMKFGOBAPWS]$/;
 my $DEFAULT_CLASS = 'A';
 
-our @FIELDS = qw(appmag absmag distance spectrum colourindex);
+#our @FIELDS = qw(appmag absmag distance spectrum colourindex);
 
 our $log = Log::Log4perl->get_logger('stellarum.star');    
 
@@ -169,21 +169,21 @@ the string 'neg'.  See for example HEZE.
 
 
 sub astro_coords {
-    my ( $self, %params ) = @_;
-
-    my $ra_c = $params{ra};
-    my $dec_c = $params{dec};
+    my ( $self ) = @_;
+    
+    my $ra_c =  [ $self->{ra1}, $self->{ra2}, $self->{ra3} ];
+    my $dec_c = [ $self->{dec1}, $self->{dec2}, $self->{dec3} ];
 
     my $ra = join(':', @$ra_c);
     my $dec;
     
     if( $dec_c->[0] eq 'neg' ) {
-        $self->{log}->debug("Negative zero in declination");
+        $self->{log}->info("$self->{name} has negative zero in declination");
         $dec = join(':', '-0', $dec_c->[1], $dec_c->[2]);
     } else {
         $dec = join(':', @$dec_c);
     }
-    
+
     my $coords = Astro::Coords->new(
         name => 'test',
         ra => $ra,
@@ -261,7 +261,7 @@ Return a hashref for the stars.json file based on this star's parameters
 sub json {
     my ( $self ) = @_;
 
-    my $class = uc(substr($self->{spectrum}, 0, 1));
+    my $class = uc(substr($self->{class}, 0, 1));
     if ( $class !~ /$CLASS_RE/ ) {
         $log->warn("Bad class $class for $self->{id} $self->{name}, forced A");
         $class = $DEFAULT_CLASS;
@@ -284,16 +284,16 @@ sub json {
         constellation => $const,
         wiki => $self->{wiki},
         html => $self->{html},
-        magnitude => $self->{appmag},
+        magnitude => $self->{appmag} + 0,
+        distance => $self->{distance} + 0,
+        absmagnitude => $self->{absmag} + 0,
+        colourindex => $self->{colourindex} + 0,
         ra => $self->{ra} + 0,
         dec => $self->{dec} + 0,
         coords => $coords,
         vector => $self->unit_vec(),
         text => $self->{text},
         spectrum => $self->{spectrum},
-        distance => $self->{distance},
-        absmagnitude => $self->{absmag},
-        colourindex => $self->{colourindex},
         class => $class
     };
         

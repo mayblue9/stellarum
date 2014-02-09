@@ -41,6 +41,11 @@ sub lookup {
 sub _load {
     my ( $self ) = @_;
 
+    if( !-f $self->{file} ) {
+        $log->fatal("Catalogue $self->{file} not found");
+        die;
+    }
+
     my $rows = read_csv(fields => \@FIELDS, file => $self->{file}) || die;
 
     $self->{hd} = {};

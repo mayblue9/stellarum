@@ -115,10 +115,11 @@ div#controls {
     font-family: Helvetica, Arial, sans-serif;
     opacity: 0.94;
     position: absolute;
-    top: 600px;
+    top: 400px;
     left: 800px;
     width: 400px;
     padding: 5px;
+    background-color: #88F;
 }
 
 

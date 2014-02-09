@@ -27,9 +27,12 @@ my @FIELDS = qw(
     ra1 ra2 ra3 dec1 dec2 dec3 ra dec
     appmag_v class mass radius
     text xrefs
+    ra_cat dec_cat hip hd bs
     distance appmag absmag spectrum colourindex
 );
 
+
+my @RANGEFIELDS = qw(ra dec appmag absmag distance colourindex);
 
 
 
@@ -40,8 +43,8 @@ my $log = Log::Log4perl->get_logger('stellarum');
 my $TWEETFILE = "$ENV{STELLARUM_FILES}/fsvo.js";
 my $PARAMETERS = "$ENV{STELLARUM_FILES}/new_parameters.csv";
 
-my $CSVOUT = "$ENV{STELLARUM_FILES}/stars_new.csv";
-my $JSONOUT = "$ENV{STELLARUM_FILES}/stars_new.js";
+my $CSVOUT = "$ENV{STELLARUM_FILES}/stars_test.csv";
+my $JSONOUT = "$ENV{STELLARUM_FILES}/stars_test.js";
 
 my $EXTRA_JSON = <<EOJS;
 
@@ -60,13 +63,18 @@ $log->info("Getting star data from spreadsheet: $PARAMETERS");
 
 my $parameters = read_csv(file => $PARAMETERS, fields => \@FIELDS);
 
+
 my $outstars = [];
 
-my @fields = qw(
-       constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec 
-       text xrefs
-       appmag absmag spectrum distance colourindex
-    );
+my @fields = @Stellarum::Star::FIELDS;
+
+my $ranges = {};
+
+#qw(
+ #      constellation ra1 ra2 ra3 dec1 dec2 dec3 ra dec 
+  #     text xrefs
+   #    appmag absmag spectrum distance colourindex
+   # );
 
 # NOTE: newids now start with 0, not 1, so that they correspond
 # with array indices.
@@ -81,7 +89,6 @@ for my $csvstar ( @$parameters ) {
         while( $star && $star->{name} ne $csvstar->{name} ) {
             if( $star ) {
                 $log->error("Unmatched star $star->{name} not found in CSV: got '$csvstar->{name}'");
-                $log->debug(Dumper({ star => $star }));
                 $star = shift @$stars;
             } else {
                 $log->fatal("Ran out of stars.");
@@ -91,25 +98,29 @@ for my $csvstar ( @$parameters ) {
     } else {
         # Inserts - stars not in the original list, and thus without
         # a corresponding JSON entry
-        $star = parse_tweet(
+        $star = Stellarum::Star->new(
             id => $newid,
             name => $csvstar->{name},
             bayer => $csvstar->{designation},
             text => $csvstar->{text}
             );
     }
-    for my $field ( @fields ) {
+    for my $field ( @FIELDS ) {
         $star->{$field} = $csvstar->{$field};
     }
-    my @coords = astro_coords(
-        [ $star->{ra1}, $star->{ra2}, $star->{ra3} ],
-        [ $star->{dec1}, $star->{dec2}, $star->{dec3} ]
-        );
-    if( @coords ) {
-        ( $star->{ra}, $star->{dec} ) = @coords;
-    } else {
-        $log->warn("Bad coords for $id $star->{name}");
+
+    for my $field ( @RANGEFIELDS ) {
+        my $v = $star->{$field} + 0;
+        if( ! defined $ranges->{$field}{min} || $v < $ranges->{$field}{min} ) {
+            $ranges->{$field}{min} = $v
+        }
+        if( ! defined $ranges->{$field}{max} || $v > $ranges->{$field}{max} ) {
+            $ranges->{$field}{max} = $v
+        }
     }
+
+
+    $star->astro_coords();
     $star->{id} = $newid;
     
     $log->debug("$id $newid $star->{name}");
@@ -119,14 +130,27 @@ for my $csvstar ( @$parameters ) {
 
 add_xrefs(stars => $outstars);
 
+$log->info("Writing CSV to $CSVOUT");
+
 write_csv(
     records => $outstars,
     file => $CSVOUT,
     fields => \@FIELDS
 );
 
+$log->info("Writing JSON to $JSONOUT");
+
 write_json(stars => $outstars);
 
+
+for my $f ( @RANGEFIELDS ) {
+    print "$f: from $ranges->{$f}{min} to $ranges->{$f}{max}\n";
+
+    my $b = -$ranges->{$f}{min};
+    my $m = 800 / ( $ranges->{$f}{max} - $ranges->{$f}{min} );
+
+    print "b = $b; m = $m\n";
+}
 
 
 
@@ -218,6 +242,7 @@ sub write_json {
     my $stars_js = $json->pretty->encode($data);
     my $const_js = $json->pretty->encode($constellations);
     
+
     open(my $fh, ">:encoding(utf8)", $JSONOUT) || die("Couldn't write to $JSONOUT: $!");
 
     print $fh "var stars = $stars_js;\n\n";
