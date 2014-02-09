@@ -27,9 +27,6 @@ my $LOGCONF = $ENV{STELLARUM_LOG} || die("Need to set a log4j conf file in \$STE
 
 my $MAX_STARS = undef;
 
-my $CLASS_RE = qr/^[CMKFGOBAPWS]$/;
-my $DEFAULT_CLASS = 'A';
-
 my $FILEDIR = './Wikifiles/';
 
 my @FIELDS = qw(

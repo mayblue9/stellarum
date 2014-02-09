@@ -185,7 +185,7 @@ sub parse_wiki {
     # likewise all &nbsp;s
 
     $text =~ s/&nbsp;/ /g;
-    
+  
     
     # my $ANGLE_RE = qr/([\N{EN DASH}+-]?[0-9]+)\|([0-9]+)\|(\d+\.?\d*)/;
     
@@ -212,7 +212,7 @@ sub parse_wiki {
     for my $f ( @FIELDS ) {
         
         if( ! $fields->{$f} ) {
-#            $log->debug("Missing field $f");
+            $log->trace("Missing field $f");
         } else {
             my $n = scalar @{$fields->{$f}};
             for my $i ( 0 .. $n - 1 ) {
@@ -377,7 +377,7 @@ sub find_catalogue_numbers {
         for my $re ( @{$CATALOGUES{$cat}} ) {
             if( $text =~ /$re/i ) {
                 $catns->{$cat} = $2;
-                $log->debug("Matched cat $cat - $re - $catns->{$cat}");
+                $log->trace("Matched cat $cat - $re - $catns->{$cat}");
                 next CAT;
             }
         }

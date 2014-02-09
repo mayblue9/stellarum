@@ -34,7 +34,13 @@ use Stellarum::Words qw(greek constellation superscript);
 #     temperature variable
 # );
 
+my $CLASS_RE = qr/^[CMKFGOBAPWS]$/;
+my $DEFAULT_CLASS = 'A';
+
 our @FIELDS = qw(appmag absmag distance spectrum colourindex);
+
+our $log = Log::Log4perl->get_logger('stellarum.star');    
+
 
 
 =head1 METHODS
@@ -220,9 +226,17 @@ sub astro_coords {
 
 
 sub dispcoords {
-    my ( $self, @bits ) = @_;
-   
-    return sprintf("%d %d' %d\"", @bits);
+    my ( $self ) = @_;
+
+    my @co = ();
+
+    for my $ax ( 'ra', 'dec' ) {
+        push @co, $ax . ' ' . sprintf(
+            "%d %d' %d\"", 
+            map { $self->{"$ax$_"} } (1, 2, 3)
+            );
+    }
+    return join(' ', @co);
 }
 
 
@@ -238,7 +252,53 @@ sub unit_vec {
 }
 
 
+=item json()
 
+Return a hashref for the stars.json file based on this star's parameters
+
+=cut
+
+sub json {
+    my ( $self ) = @_;
+
+    my $class = uc(substr($self->{spectrum}, 0, 1));
+    if ( $class !~ /$CLASS_RE/ ) {
+        $log->warn("Bad class $class for $self->{id} $self->{name}, forced A");
+        $class = $DEFAULT_CLASS;
+    }
+    my $coords = $self->dispcoords();
+    
+    my $const = $Stellarum::Words::CONSTELLATIONS{$self->{constellation}};
+
+    if ( ! $const )  {
+        $log->warn(
+            "$self->{id} $self->{name}unknown constellation $self->{constellation}"
+            );
+    }
+    
+    
+    my $json = {
+        id => $self->{id} + 0,
+        name => $self->{name},
+        designation => $self->{bayer},
+        constellation => $const,
+        wiki => $self->{wiki},
+        html => $self->{html},
+        magnitude => $self->{appmag},
+        ra => $self->{ra} + 0,
+        dec => $self->{dec} + 0,
+        coords => $coords,
+        vector => $self->unit_vec(),
+        text => $self->{text},
+        spectrum => $self->{spectrum},
+        distance => $self->{distance},
+        absmagnitude => $self->{absmag},
+        colourindex => $self->{colourindex},
+        class => $class
+    };
+        
+    return $json;
+}
 
 
 

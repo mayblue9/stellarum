@@ -11,6 +11,7 @@ use Encode qw(encode decode);
 use feature 'unicode_strings';
 use charnames ':full';
 
+use JSON;
 use Text::CSV;
 use Data::Dumper;
 
@@ -23,7 +24,7 @@ use Stellarum::Star;
 
 =head1 METHODS
 
-=item stars_from_tweets(tweets => $aref)
+=item stars_from_tweets(file => JSONFILE)
 
 Take a JSON represenation of tweets about stars, parses them and
 returns an arrayref of Stellarum::Star objects.  The tweets are
@@ -46,8 +47,21 @@ sub stars_from_tweets {
 
     my $stars = [];
     my $id = 1;
+
+    my $file = $params{file};
+
+    open(JSONFILE, "<$file") || die("Couldn't open $file $!");
+    my $json;
     
-    my $tweets = $params{tweets};
+    {
+        local $/;
+        
+        $json = <JSONFILE>;
+    }
+    
+    my $data = decode_json($json);
+    
+    my $tweets = $data->{tweets};
     
     for my $tweet ( @$tweets ) {
         my $text = $tweet->{text};
@@ -82,6 +96,8 @@ sub write_csv {
     my $fields = $params{fields};
     my $file = $params{file};
     
+    die("Need file for write_csv / " . join(' ', caller)) unless $file;
+
     my $csv = Text::CSV->new( { binary => 1 } );
     
     open my $fh, ">:encoding(utf8)", $file or die ("Couldn't write to $file: $!");
