@@ -20,11 +20,11 @@ var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
 
 var DOMAINS = {
     "ra": { "min": 0, "max": 6.283 },
-    "dec": { "min": -1.57, "max": 1.57 },
-    "magnitude": { "min": -1.44, "max": 12.37 },
-    "absmagnitude": { "min": -11, "max": 14 },
-    "distance": { "min": 0, "max": 100 },
-    "colourindex": { "min": -0.274, "max": 2.994 }
+    "dec": { "min": 1.57, "max": -1.57 },
+    "magnitude": { "min": 12.37, "max": -1.44  },
+    "absmagnitude": { "min": 14, "max": -11 },
+    "distance": { "min": 0, "max": 1000 },
+    "colourindex": { "min":  -0.274, "max": 2.994 }
 };
 
 var history = [];
@@ -233,6 +233,11 @@ function render_plot(xparm, yparm, xrange, yrange) {
         return d3.interpolate(start, finish);
     }
 
+    if( state == 'sphere' ) {
+        $("div#about").hide();
+        $(".pointer").hide();
+    }
+
     state = 'plot';
 
     stars_transition(tween_f, spintime, function(e) {
@@ -256,7 +261,7 @@ function make_plot_f(xparm, yparm, xrange, yrange) {
         .range([10, xrange - 10]);
     var yscale = d3.scale.linear()
         .domain([yd.min, yd.max])
-        .range([10, yrange - 10]);
+        .range([yrange - 10, 10]);
 
     return function(d) {
 //        console.log(xparm + " = " + d[xparm]);
