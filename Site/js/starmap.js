@@ -151,11 +151,6 @@ function select_star(star, spintime) {
 
     var start, finish;
 
-    if( state != 'sphere' ) {
-        select_star_from_plot(star, spintime);
-        return;
-    }
-
     if( centre_star ) {
         start = [ centre_star.ra, centre_star.dec ];
     } else {
@@ -163,20 +158,36 @@ function select_star(star, spintime) {
     }
     
     finish = [ star.ra, star.dec ];
-    
-    var great_circle = d3.geo.interpolate(
-	    [ rad2deg(-start[0]), rad2deg(-start[1]) ],
-	    [ rad2deg(-finish[0]), rad2deg(-finish[1]) ]
-    );
-    
+
     // tween_f = tween factory: for each star returns a tween
     // function t => star datum
-    
-    var tween_f = function(d) {
-        return function(t) {
-            return star_sphere(d, great_circle(t));
+
+    var tween_f;
+
+    if( state == 'sphere' ) {
+        // If we're already in the sphere, calculate great-circle 
+        // paths so that the 3D illusion works
+
+        var great_circle = d3.geo.interpolate(
+	        [ rad2deg(-start[0]), rad2deg(-start[1]) ],
+	        [ rad2deg(-finish[0]), rad2deg(-finish[1]) ]
+        );
+        tween_f = function(d) {
+            return function(t) {
+                return star_sphere(d, great_circle(t));
+            }
+        };
+    } else {
+        // We are starting from a plot, so we don't need to calculate
+        // great-circle paths.
+        console.log(finish);
+        console.log(finish[0] + ' ' + finish[1]);
+        tween_f = function(d) {
+            var s = { "x": d.x, "y": d.y, "z": d.z };
+            var f = star_sphere(d, [ rad2deg(-finish[0]), rad2deg(-finish[1]) ] );
+            return d3.interpolate(s, f);
         }
-    };
+    }
 
     state = 'sphere';
     centre_star = star;
@@ -196,22 +207,15 @@ function select_star(star, spintime) {
     
 }
 
-//// select_star_from_plot(star, spintime)
-//
-// Slightly tweaked version for going to the sphere from a non-sphere
-// layout (and thus doesn't need the complicated d3.geo interpolation stuff
 
-
-
-
-//// renderplot(plot_f);
+//// render_plot(plot_f);
 //
 // Transition all stars to a scatterplot - plot_f(d) takes a star and
 // resets its datum x, y, z.  Uses each star's initial x, y, z as the
 // starting point.
 
 
-function renderplot(xparm, yparm, xrange, yrange) {
+function render_plot(xparm, yparm, xrange, yrange) {
 
     // tween_f = tween factory: for each star returns a tween
     // function t => star datum
@@ -220,13 +224,16 @@ function renderplot(xparm, yparm, xrange, yrange) {
     
     var plot_f = make_plot_f(xparm, yparm, xrange, yrange);
 
-    console.log("renderplot");
+    // a straight tween between wherever each star is, and 
+    // where we want it to be on the plot
 
     var tween_f = function(d) {
-        var s = { "x": d.x, "y": d.y, "z": d.z };
-        var f = plot_f(d);
-        return d3.interpolate(s, f);
+        var start = { "x": d.x, "y": d.y, "z": d.z };
+        var finish = plot_f(d);
+        return d3.interpolate(start, finish);
     }
+
+    state = 'plot';
 
     stars_transition(tween_f, spintime, function(e) {
 	    d3.select(this).each(function(d, i) {
@@ -238,7 +245,6 @@ function renderplot(xparm, yparm, xrange, yrange) {
     });
 
 }
-
 
 function make_plot_f(xparm, yparm, xrange, yrange) {
     var xd = DOMAINS[xparm];
