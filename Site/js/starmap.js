@@ -21,10 +21,11 @@ var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
 var DOMAINS = {
     "ra": { "min": 0, "max": 6.283 },
     "dec": { "min": 1.57, "max": -1.57 },
-    "magnitude": { "min": 12.37, "max": -1.44  },
-    "absmagnitude": { "min": 14, "max": -11 },
-    "distance": { "min": 0, "max": 1000 },
-    "colourindex": { "min":  -0.274, "max": 2.994 }
+    "magnitude": { "min": 26, "max": -2  },
+    "absmagnitude": { "min": 18, "max": -11 },
+    "distance": { "min": 0, "max": 6100 },
+    "colourindex": { "min":  -0.274, "max": 2.994 },
+    "id": { "min": 0, "max": 403 }
 };
 
 var history = [];
@@ -75,7 +76,8 @@ function rotate3(vect3, ra, dec) {
 //// Functions for rendering stars on the celestial sphere
 
 function magnitude_f(d) {
-    var size = 10 / Math.sqrt(1.5 + d.magnitude * .5);
+    var size = 7 / Math.sqrt(1.5 + d.absmagnitude * .5);
+    //var size = 10 / Math.sqrt(1.5 + d.magnitude * .5);
     if ( size < 2 ) {
 	    size = 2;
     }
@@ -180,8 +182,6 @@ function select_star(star, spintime) {
     } else {
         // We are starting from a plot, so we don't need to calculate
         // great-circle paths.
-        console.log(finish);
-        console.log(finish[0] + ' ' + finish[1]);
         tween_f = function(d) {
             var s = { "x": d.x, "y": d.y, "z": d.z };
             var f = star_sphere(d, [ rad2deg(-finish[0]), rad2deg(-finish[1]) ] );
@@ -254,8 +254,6 @@ function render_plot(xparm, yparm, xrange, yrange) {
 function make_plot_f(xparm, yparm, xrange, yrange) {
     var xd = DOMAINS[xparm];
     var yd = DOMAINS[yparm];
-    console.log(xparm + ": " + xd);
-    console.log(yparm + ": " + yd);
     var xscale = d3.scale.linear()
         .domain([xd.min, xd.max])
         .range([10, xrange - 10]);
@@ -264,10 +262,6 @@ function make_plot_f(xparm, yparm, xrange, yrange) {
         .range([yrange - 10, 10]);
 
     return function(d) {
-//        console.log(xparm + " = " + d[xparm]);
- //       console.log("scaled = " + xscale(d[xparm]));
-  //      console.log(yparm + " = " + d[yparm]);
-   //     console.log("scaled = " + yscale(d[yparm]));
         return {
             "x": xscale(d[xparm]),
             "y": yscale(d[yparm]),
@@ -453,8 +447,10 @@ function render_map(elt, w, h, gostar) {
                   return "translate(" + s.x + "," + s.y + ")";
     	      });
     
+    var mag_scale = d3.scale.linear().domain([17, -10]).range([1,8])
+
     nodes.append("circle")
-    	.attr("r", magnitude_f)
+    	.attr("r", function(d) { return mag_scale(d.absmagnitude) } )
     	.attr("class", function(d) { return "star " + d.class } )
         .attr("id", function(d, i) { return "circle_" + i })
     	.style("opacity", star_opacity)

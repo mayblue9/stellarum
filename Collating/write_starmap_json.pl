@@ -144,12 +144,16 @@ write_json(stars => $outstars);
 
 
 for my $f ( @RANGEFIELDS ) {
-    print "$f: from $ranges->{$f}{min} to $ranges->{$f}{max}\n";
+    $log->info("$f: from $ranges->{$f}{min} to $ranges->{$f}{max}");
+    my $range = $ranges->{$f}{max} - $ranges->{$f}{min};
+    if( $range ) {
+        my $b = -$ranges->{$f}{min};
+        my $m = 800 / ( $ranges->{$f}{max} - $ranges->{$f}{min} );
 
-    my $b = -$ranges->{$f}{min};
-    my $m = 800 / ( $ranges->{$f}{max} - $ranges->{$f}{min} );
-
-    print "b = $b; m = $m\n";
+        print "b = $b; m = $m\n";
+    } else {
+        $log->error("No range for field $f");
+    }
 }
 
 
