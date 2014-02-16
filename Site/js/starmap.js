@@ -15,6 +15,7 @@ var STAR_OPACITY = 1;
 
 var RFACTOR = .9;
 
+
 var CURSOR_RADIUS = 13;
 var CURSOR_XY = CURSOR_RADIUS / 1.414213562;
 
@@ -30,14 +31,15 @@ var DOMAINS = {
 
 var history = [];
 
-// three states: sphere with
-
+// two states: sphere and plot
 
 var state = 'sphere';
 
 var centre_star = false;
 
-
+var DIST_SCALE = 200;
+var DIST_INIT = 10;
+var DIST_F = true;
 
 // General 3D rotation functions
 
@@ -76,7 +78,7 @@ function rotate3(vect3, ra, dec) {
 //// Functions for rendering stars on the celestial sphere
 
 function magnitude_f(d) {
-    var size = 7 / Math.sqrt(1.5 + d.absmagnitude * .5);
+    var size = 7 / Math.sqrt(1.5 + d.magnitude * .5);
     //var size = 10 / Math.sqrt(1.5 + d.magnitude * .5);
     if ( size < 2 ) {
 	    size = 2;
@@ -85,18 +87,24 @@ function magnitude_f(d) {
 }
 
 
-function star_sphere(d, coords) {
+// star_sphere(star, [ ra, dec ], r) - take a rotation [ra, dec],
+// and rotate the star's unit vector by it. 
+
+function star_sphere(d, coords, radius) {
 
     var rvect = rotate3(
 	    [ d.vector.x, d.vector.y, d.vector.z ],
 	    deg2rad(coords[0]), deg2rad(coords[1])
     );
-    x = cx + R * rvect[1];
-    y = cy + R * rvect[2];
-    z = R * rvect[0];
-    d.x = x;
-    d.y = y;
-    d.z = z;
+    
+    var r = radius;
+    if( DIST_F ) {
+        r = radius * d.distance;
+    }
+    console.log(d.name + " " + r);
+    d.x = cx + r * rvect[1];
+    d.y = cy + r * rvect[2];
+    d.z = r * rvect[0];
     return d;
 }
 
@@ -174,9 +182,28 @@ function select_star(star, spintime) {
 	        [ rad2deg(-start[0]), rad2deg(-start[1]) ],
 	        [ rad2deg(-finish[0]), rad2deg(-finish[1]) ]
         );
+
+        var rad_f;
+
+        if( DIST_F ) {
+            var sdist;
+            if( centre_star ) {
+                sdist = DIST_SCALE / centre_star.distance;
+            } else {
+                sdist = DIST_SCALE / DIST_INIT;
+            }
+            rad_f = d3.interpolate(sdist, DIST_SCALE / star.distance);
+        } else {
+            rad_f = function(t) { return R; }
+        }
+
+        // distance scaling: make DIST_R = SOMECONST / star.distance,
+        // so the distance value has to linearly interpolate within
+        // star_sphere
+
         tween_f = function(d) {
             return function(t) {
-                return star_sphere(d, great_circle(t));
+                return star_sphere(d, great_circle(t), rad_f(t));
             }
         };
     } else {
@@ -184,7 +211,7 @@ function select_star(star, spintime) {
         // great-circle paths.
         tween_f = function(d) {
             var s = { "x": d.x, "y": d.y, "z": d.z };
-            var f = star_sphere(d, [ rad2deg(-finish[0]), rad2deg(-finish[1]) ] );
+            var f = star_sphere(d, [ rad2deg(-finish[0]), rad2deg(-finish[1]) ], function(t) { return R; } ); 
             return d3.interpolate(s, f);
         }
     }
@@ -432,6 +459,20 @@ function render_map(elt, w, h, gostar) {
     cx = width * 0.5;
     cy = height * 0.5;
     R = cx * RFACTOR;
+
+    DOMAINS["namelength"] = { "min": 1000, "max": 0 };
+
+    for ( var i = 0; i < stars.length; i++ ) {
+        stars[i].namelength = stars[i].name.length;
+        if( stars[i].namelength < DOMAINS["namelength"]["min"] ) {
+            DOMAINS["namelength"]["min"] = stars[i].namelength;
+        }
+        if( stars[i].namelength > DOMAINS["namelength"]["max"] ) {
+            DOMAINS["namelength"]["max"] = stars[i].namelength;
+        }
+    }
+    
+    console.log(DOMAINS);
     
     var svg = d3.select(elt).append("svg:svg")
         .attr("width", width)
@@ -443,11 +484,11 @@ function render_map(elt, w, h, gostar) {
     	.append("g")
     	.attr("transform",
     	      function(d) {
-    		      var s = star_sphere(d, [0, 0]);
+    		      var s = star_sphere(d, [0, 0], DIST_SCALE / DIST_INIT);
                   return "translate(" + s.x + "," + s.y + ")";
     	      });
     
-    var mag_scale = d3.scale.linear().domain([17, -10]).range([1,8])
+    var mag_scale = d3.scale.sqrt().domain([17, -10]).range([1,10])
 
     nodes.append("circle")
     	.attr("r", function(d) { return mag_scale(d.absmagnitude) } )
@@ -460,6 +501,8 @@ function render_map(elt, w, h, gostar) {
     		    d3.event.stopPropagation();
     	    }
     	});
+
+    nodes.append("title").text(function(d) { return d.name });
     
     svg.append("circle")
         .attr("cx", cx).attr("cy", cy).attr("r", CURSOR_RADIUS)
@@ -471,7 +514,6 @@ function render_map(elt, w, h, gostar) {
         .attr("x2", width).attr("y2", 40)
         .attr("class", "pointer");
     
-    nodes.append("title").text(function(d) { return d.name });
     
     
     
