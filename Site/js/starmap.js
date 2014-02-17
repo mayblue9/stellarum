@@ -486,6 +486,7 @@ function render_map(elt, w, h, gostar) {
     	.on("click", function(d) {
     	    if( !stars_moving && d.z > -STAR_THRESHOLD ) {
     		    select_star(d, SPIN_TIME);
+                $("div#plots").hide();
     		    d3.event.stopPropagation();
     	    }
     	});
