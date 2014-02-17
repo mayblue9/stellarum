@@ -28,6 +28,20 @@ var DOMAINS = {
     "id": { "min": 0, "max": 403 }
 };
 
+var MARGIN = 50;
+
+var CIRCLE_MIN = 1;
+var CIRCLE_MAX = 15;
+
+var CIRCLE_FUNCS = {
+    "magnitude": d3.scale.sqrt()
+        .domain([13, -1.5]).range([1, 15]).clamp(true),
+    "absmagnitude": d3.scale.pow().exponent(0.333)
+        .domain([17, -10]).range([1, 10]).clamp(true)
+};
+
+var star_size_parameter = "magnitude";
+
 var history = [];
 
 // three states: sphere with
@@ -73,15 +87,17 @@ function rotate3(vect3, ra, dec) {
 }
 
 
-//// Functions for rendering stars on the celestial sphere
 
-function magnitude_f(d) {
-    var size = 7 / Math.sqrt(1.5 + d.absmagnitude * .5);
-    //var size = 10 / Math.sqrt(1.5 + d.magnitude * .5);
-    if ( size < 2 ) {
-	    size = 2;
+
+function set_star_size_parameter(par) {
+    if( par != star_size_parameter ) {
+        var mag_f = CIRCLE_FUNCS[par];
+        if( mag_f ) {
+            d3.selectAll("circle.star")
+                .attr("r", function(d) { return mag_f(d[par]); } );
+            star_size_parameter = par
+        }
     }
-    return size;
 }
 
 
@@ -158,8 +174,12 @@ function select_star(star, spintime) {
     } else {
         start = [ 0, 0 ];
     }
-    
-    finish = [ star.ra, star.dec ];
+
+    if( star ) {
+        finish = [ star.ra, star.dec ];
+    } else {
+        finish = [ 0, 0 ];
+    }
 
     // tween_f = tween factory: for each star returns a tween
     // function t => star datum
@@ -207,6 +227,13 @@ function select_star(star, spintime) {
     
 }
 
+// shortcut to return to the sphere after the user clicks the go-away button
+// on the plot controls
+
+function close_plot() {
+    select_star(centre_star, 1000);
+}
+
 
 //// render_plot(plot_f);
 //
@@ -251,15 +278,17 @@ function render_plot(xparm, yparm, xrange, yrange) {
 
 }
 
+
+
 function make_plot_f(xparm, yparm, xrange, yrange) {
     var xd = DOMAINS[xparm];
     var yd = DOMAINS[yparm];
     var xscale = d3.scale.linear()
         .domain([xd.min, xd.max])
-        .range([10, xrange - 10]);
+        .range([MARGIN, xrange - MARGIN]);
     var yscale = d3.scale.linear()
         .domain([yd.min, yd.max])
-        .range([yrange - 10, 10]);
+        .range([yrange - MARGIN, MARGIN]);
 
     return function(d) {
         return {
@@ -447,10 +476,10 @@ function render_map(elt, w, h, gostar) {
                   return "translate(" + s.x + "," + s.y + ")";
     	      });
     
-    var mag_scale = d3.scale.linear().domain([17, -10]).range([1,8])
+    var mag = CIRCLE_FUNCS["magnitude"]; 
 
     nodes.append("circle")
-    	.attr("r", function(d) { return mag_scale(d.absmagnitude) } )
+    	.attr("r", function(d) { return mag(d.magnitude) } )
     	.attr("class", function(d) { return "star " + d.class } )
         .attr("id", function(d, i) { return "circle_" + i })
     	.style("opacity", star_opacity)

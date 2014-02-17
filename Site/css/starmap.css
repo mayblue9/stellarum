@@ -30,6 +30,35 @@ div#text {
     padding: 5px;
 }
 
+/* Controls to open the plots and about sections */
+
+div#plotsctrl {
+    font-size: 12pt;
+    font-family: Helvetica, Arial, sans-serif;
+    border-top: 1px solid #888;
+    color: #000;
+    text-align: right;
+    cursor: pointer;
+    margin-top: 12pt;
+}
+
+
+div#plots {
+    font-size: 10pt;
+    font-family: Helvetica, Arial, sans-serif;
+    display: none;
+}
+
+div.hidebtn {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align:right;
+    color: #888;
+    font-size: 10pt;
+    cursor: pointer;
+}
+
+
+
 div#aboutctrl {
     font-size: 8pt;
     font-family: Helvetica, Arial, sans-serif;
@@ -121,6 +150,15 @@ div#controls {
     padding: 5px;
     background-color: #8DF;
 }
+
+/* styles for the plots */
+
+select.vizctrl {
+    border: none;
+    outline: 1px solid #888;
+    background: #f8f7ff 
+}
+
 
 
 
