@@ -37,10 +37,55 @@
         top of this box, select them from the CELESTIAL SPHERE to the
         left, or step through them in alphabetical order by pressing
         the SPACE BAR.</p>
+
       </div>
 
-    <div id="history"></div>
-    <div id="aboutctrl">ABOUT</div>
+    <div id="plotsctrl" class="showbtn">PLOTS</div>
+
+    <div id="plots">
+        <div class="ctrlrow">
+          X axis
+            <select id="vizxparm" class="vizctrl">
+              <option value="ra">Right ascension</option>
+              <option value="dec">Declination</option>
+              <option value="distance">Distance</option>
+              <option value="magnitude">Apparent magnitude</option>
+              <option value="absmagnitude">Absolute magnitude</option>
+              <option selected="yes" value="colourindex">Colour index</option>
+              <option value="id">Alphabetical</option>
+            </select>
+         Y axis
+            <select id="vizyparm" class="vizctrl">
+              <option value="ra">Right ascension</option>
+              <option value="dec">Declination</option>
+              <option value="distance">Distance</option>
+              <option value="magnitude">Apparent magnitude</option>
+              <option selected = "yes" value="absmagnitude">Absolute magnitude</option>
+              <option value="colourindex">Colour index</option>
+              <option value="id">Alphabetical</option>
+            </select>
+        </div>
+        <div class="ctrlrow">Star size represents 
+          <select id="vizsparm" class="vizctrl">
+            <option value="magnitude">apparent magnitude</option>
+            <option value="absmagnitude">absolute magnitude</option>
+          </select>
+        </div>
+        <div class="ctrlrow">
+        <strong>Right ascension:</strong> sky coordinates (east-west)<br />
+        <strong>Declination:</strong> sky coordinates (north-south)<br />
+        <strong>Distance:</strong> distance from Earth<br />
+        <strong>Apparent magnitude:</strong> relative brightness from Earth<br />
+        <strong>Absolute magnitude:</strong> estimated brightness from a standard reference distance<br />
+        <strong>Colour index:</strong> colour and temperature: blue is hot, red is cool<br />
+        <strong>Alphabetical:</strong> ordered by name
+        </div>
+        
+        <div id="hideplots" class="hidebtn">[x]</div>
+    </div>
+
+
+    <div id="aboutctrl" class="showbtn">ABOUT</div>
       
     <div id="about">
       <p>Navigation:</p>
@@ -60,16 +105,17 @@
             at <a href="mailto:spike.lynch@gmail.com">spike.lynch@gmail.com</a>.</p>
       <p>The scripts used to generate the visualisation are on <a href="https://github.com/spikelynch/stellarum">Github</a>.</p>
     
-      <p>Stellarum release v 1.0 "Bok globule"</p>
-      <p>TEST</p>
+      <p>Stellarum release v 1.1 "Herbig-Haro Object"</p>
           
-          <div class="hideabout">[x]</div>
+          <div id="hideabout" class="hidebtn">[x]</div>
       </div>
 
 
 
     </div>
       
+
+
 
 
     <script lang="javascript">
@@ -104,6 +150,13 @@
 
       }
 
+      function select_plot_parm(e) {
+          var xparm = $("select#vizxparm").val();
+          var yparm = $("select#vizyparm").val();
+          render_plot(xparm, yparm, 800, 800);
+      }
+
+
       var url = $.url();
       var star = url.param('star');
       render_map("div#starmap", 800, 800, star);
@@ -115,9 +168,9 @@
               if( $("input#starname").is(":focus") ) {
                   return 1;
               } else {
-                  if ( current_star ) {
+                  if ( centre_star ) {
                       var step = 1;
-                      var id = current_star.id;
+                      var id = centre_star.id;
                       var nid = parseInt(id) + step;
                       if( nid < 0 ) {
                           select_star(stars[stars.length - 1], SPIN_TIME);
@@ -136,6 +189,20 @@
     });
 
 
+     $("div#plotsctrl").on("click", function(e) {
+           if( $("div#plots").is(':hidden') ) { 
+                 $("div#plots").show();
+                 select_plot_parm();
+           } else {
+                 $("div#plots").hide();
+                 close_plot();
+           }
+      });
+
+      $("div#hideplots").on("click", function(e) {
+           $("div#plots").hide();
+           close_plot();
+      });
 
                           
       $("div#aboutctrl").on("click", function(e) {
@@ -146,9 +213,18 @@
            }
       });
 
-      $("div.hideabout").on("click", function(e) {
+      $("div#hideabout").on("click", function(e) {
            $("div#about").hide();
       });
+
+      $("select#vizxparm").on("change", select_plot_parm);
+      $("select#vizyparm").on("change", select_plot_parm);
+
+      $("select#vizsparm").on("change", function (e) {
+          set_star_size_parameter($("select#vizsparm").val());
+      });
+
+      $("select#vizbtn").on("click", select_plot_parm);
 
 
     </script>
