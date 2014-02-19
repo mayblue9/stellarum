@@ -34,7 +34,7 @@ our @FIELDS = qw(
      temperature variable
 );
 
-my $CLASS_RE = qr/^[CMKFGOBAPWS]$/;
+my $CLASS_RE = qr/[CMKFGOBAPWS]/;
 my $DEFAULT_CLASS = 'A';
 
 #our @FIELDS = qw(appmag absmag distance spectrum colourindex);
@@ -252,6 +252,34 @@ sub unit_vec {
 }
 
 
+=item class_p()
+
+Break the stellar class parameter (for eg G2V) into a MKK letter class
+indicating temperature (G2) and a luminosity class (V).
+
+This also checks the MKK letter against CLASS_RE and changes it to
+the default class
+
+=cut
+
+sub parse_class {
+    my ( $self ) = @_;
+
+    if ( $self->{spectrum} =~ /($CLASS_RE)([0-9])(0|Ia|Ib|I+|IV|VI?)/ ) {
+        $self->{log}->debug("$self->{name} full class => $1 $2 $3");
+        $self->{class} = $1;
+        $self->{classdiv} = $2;
+        $self->{luminosity} = $3;
+    } elsif( $self->{spectrum} =~ /($CLASS_RE)/ ) {
+        $self->{log}->debug("$self->{name} short class => $1");
+        $self->{class} = $1;
+    } else {
+        $log->warn("$self->{name} bad class $self->{spectrum}, forced $DEFAULT_CLASS");
+        $self->{class} = $DEFAULT_CLASS;
+    }
+}
+
+
 =item json()
 
 Return a hashref for the stars.json file based on this star's parameters
@@ -261,12 +289,9 @@ Return a hashref for the stars.json file based on this star's parameters
 sub json {
     my ( $self ) = @_;
 
-    my $class = uc(substr($self->{class}, 0, 1));
-    if ( $class !~ /$CLASS_RE/ ) {
-        $log->warn("Bad class $class for $self->{id} $self->{name}, forced A");
-        $class = $DEFAULT_CLASS;
-    }
     my $coords = $self->dispcoords();
+    
+    $self->parse_class();
     
     my $const = $Stellarum::Words::CONSTELLATIONS{$self->{constellation}};
 
@@ -294,7 +319,9 @@ sub json {
         vector => $self->unit_vec(),
         text => $self->{text},
         spectrum => $self->{spectrum},
-        class => $class
+        class => $self->{class},
+        classdiv => $self->{classdiv},
+        luminosity => $self->{luminosity}
     };
         
     return $json;

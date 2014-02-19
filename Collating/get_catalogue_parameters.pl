@@ -49,7 +49,7 @@ my @ORIGFIELDS = qw(
     text xrefs
 );
 
-my @NPFIELDS = qw(ra_cat dec_cat hip hd bs distance appmag absmag spectrum colourindex);
+my @NPFIELDS = qw(ra_cat dec_cat hip hd bs bayer distance appmag absmag spectrum colourindex);
 
 
 my @OUTFIELDS = ( @ORIGFIELDS, @NPFIELDS );

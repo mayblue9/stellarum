@@ -43,35 +43,44 @@
     <div id="plotsctrl" class="showbtn">PLOTS</div>
 
     <div id="plots">
-      Parameter plot
         <div class="ctrlrow">
           X axis
             <select id="vizxparm" class="vizctrl">
-              <option value="dec">Dec.</option>
-              <option value="ra">RA</option>
+              <option value="ra">Right ascension</option>
+              <option value="dec">Declination</option>
               <option value="distance">Distance</option>
-              <option value="magnitude">App mag.</option>
-              <option value="absmagnitude">Abs mag.</option>
-              <option selected="yes" value="colourindex">Colour</option>
+              <option value="magnitude">Apparent magnitude</option>
+              <option value="absmagnitude">Absolute magnitude</option>
+              <option selected="yes" value="colourindex">Colour index</option>
               <option value="id">Alphabetical</option>
             </select>
          Y axis
             <select id="vizyparm" class="vizctrl">
-              <option value="dec">Dec.</option>
-              <option value="ra">RA</option>
+              <option value="ra">Right ascension</option>
+              <option value="dec">Declination</option>
               <option value="distance">Distance</option>
-              <option value="magnitude">App mag.</option>
-              <option selected = "yes" value="absmagnitude">Abs mag.</option>
-              <option value="colourindex">Colour</option>
+              <option value="magnitude">Apparent magnitude</option>
+              <option selected = "yes" value="absmagnitude">Absolute magnitude</option>
+              <option value="colourindex">Colour index</option>
               <option value="id">Alphabetical</option>
             </select>
         </div>
         <div class="ctrlrow">Star size represents 
           <select id="vizsparm" class="vizctrl">
-            <option value="magnitude">magnitude (as seen from SOL)</option>
+            <option value="magnitude">apparent magnitude</option>
             <option value="absmagnitude">absolute magnitude</option>
           </select>
         </div>
+        <div class="ctrlrow">
+        <strong>Right ascension:</strong> sky coordinates (east-west)<br />
+        <strong>Declination:</strong> sky coordinates (north-south)<br />
+        <strong>Distance:</strong> distance from Earth<br />
+        <strong>Apparent magnitude:</strong> relative brightness from Earth<br />
+        <strong>Absolute magnitude:</strong> estimated brightness from a standard reference distance<br />
+        <strong>Colour index:</strong> colour and temperature: blue is hot, red is cool<br />
+        <strong>Alphabetical:</strong> ordered by name
+        </div>
+        
         <div id="hideplots" class="hidebtn">[x]</div>
     </div>
 

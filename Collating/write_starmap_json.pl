@@ -43,8 +43,8 @@ my $log = Log::Log4perl->get_logger('stellarum');
 my $TWEETFILE = "$ENV{STELLARUM_FILES}/fsvo.js";
 my $PARAMETERS = "$ENV{STELLARUM_FILES}/new_parameters.csv";
 
-my $CSVOUT = "$ENV{STELLARUM_FILES}/stars_test.csv";
-my $JSONOUT = "$ENV{STELLARUM_FILES}/stars_test.js";
+my $CSVOUT = "$ENV{STELLARUM_FILES}/stars.csv";
+my $JSONOUT = "$ENV{STELLARUM_FILES}/stars.js";
 
 my $EXTRA_JSON = <<EOJS;
 

@@ -159,6 +159,9 @@ select.vizctrl {
     background: #f8f7ff 
 }
 
+div.ctrlrow {
+    padding-bottom: 10px;
+}
 
 
 
